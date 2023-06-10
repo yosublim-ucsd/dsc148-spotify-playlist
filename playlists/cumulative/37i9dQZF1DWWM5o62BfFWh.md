@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: El Micha
 
-136 songs - 8 hr 1 min
+137 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Noche Fria](https://open.spotify.com/track/3wXTwMHia0OMllumUV5CKG) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Noche Fria](https://open.spotify.com/album/09We2KVSlCULtIkFtmD5bA) | 3:44 | 2022-02-25 | 2022-07-29 |
 | [Novios Por Un Dia](https://open.spotify.com/track/082jD4lE4itzfnNkaXlSvW) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Novios Por Un Dia](https://open.spotify.com/album/0D1okmDOMfiod4WHcihwpB) | 2:52 | 2023-02-10 | 2023-05-13 |
 | [Ojala \(Remix\)](https://open.spotify.com/track/3C10jp30PMonoUk4HIsjfm) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ojala \(Remix\)](https://open.spotify.com/album/2hQCUG67v7sN4SG6JxGFxe) | 3:16 | 2022-02-25 | 2022-07-29 |
-| [Ojalá \- Remix](https://open.spotify.com/track/5sWqQjbO1NgzjKMAbLZ0Rq) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ojalá \(Remix\)](https://open.spotify.com/album/6Oafoz08oK6AfBTunDtxCX) | 3:16 | 2022-04-08 |  |
+| [Ojalá \- Remix](https://open.spotify.com/track/5sWqQjbO1NgzjKMAbLZ0Rq) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ojalá \(Remix\)](https://open.spotify.com/album/6Oafoz08oK6AfBTunDtxCX) | 3:16 | 2022-04-08 | 2023-06-10 |
 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 | 2023-05-12 |  |
+| [Pa la Calle Salió](https://open.spotify.com/track/1zD4MUXUAVuwqwbnOs85uL) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Pa' la calle salió](https://open.spotify.com/album/0UNjMr8P7xvMy4tkL01BVj) | 2:32 | 2023-06-09 |  |
 | [Pa' trá](https://open.spotify.com/track/1oHRAvQTs6UmKKwxbFvdDC) | [Micha](https://open.spotify.com/artist/5fjXwEPUkg5ucxmw4TpurV) | [Sobredosis](https://open.spotify.com/album/3HmzYPOlw8lMs37DMZpBJ4) | 4:09 | 2022-04-08 |  |
 | [Pa' trá \(feat\. Micha\)](https://open.spotify.com/track/3dOI5uTnirccqp9Gcy4g5m) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en), [Micha](https://open.spotify.com/artist/5fjXwEPUkg5ucxmw4TpurV) | [Sobredosis](https://open.spotify.com/album/6TCORScO7wTD6n5yeOXVx5) | 4:06 | 2022-02-25 | 2022-07-29 |
 | [Papelito](https://open.spotify.com/track/5A61D7KaPQZYg29l4YaBLP) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Everglades](https://open.spotify.com/album/0ufbl0wF4Im8aRv8Akn7eA) | 3:31 | 2023-02-10 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-124 songs - 8 hr 36 min
+125 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/6h7ndBCXhabUn9QnqG3q1B) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 | 2022-06-13 |  |
 | [Johnny](https://open.spotify.com/track/2dnlQFidlBLM0juOQrVQHx) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6YSjJerpELdsYXBj4CxBy2) | 3:18 | 2022-06-13 | 2023-06-02 |
 | [Johnny](https://open.spotify.com/track/6QviEIBaYzPQSHXJMfwi9l) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6nkQfuVTgwKmNRCfk4d8vB) | 3:18 | 2022-06-13 |  |
+| [Let's Get Retarded](https://open.spotify.com/track/03nvFFGnitYLSl8H8af3ww) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Let's Get Retarded](https://open.spotify.com/album/3EpcCN5EKkRdN7g7zOflQO) | 3:36 | 2022-06-13 |  |
 | [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 | 2022-06-13 |  |
 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 | 2022-06-13 |  |
 | [Love Rain](https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [T\-VIRUS](https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh) | 3:59 | 2022-06-13 |  |
@@ -53,7 +54,7 @@
 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 | 2022-06-13 |  |
 | [Monologue](https://open.spotify.com/track/0ay8fHEeIE1n4Mt6qKaTyt) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Morning Of Buzz](https://open.spotify.com/album/0ZEhWeY6nR0uGZddxRpLGX) | 4:19 | 2022-06-13 |  |
 | [Must Have Love](https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Brown Eyed Girls BEST \- Special Moments](https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y) | 4:18 | 2022-06-13 | 2023-03-02 |
-| [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 | 2022-06-13 |  |
+| [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 | 2022-06-13 | 2023-06-10 |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2022-06-13 |  |
 | [Nagging](https://open.spotify.com/track/2WHCdH2zNoBOypZnJAd4o9) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/0eDHNW6lLuQfSL4GxnJazP) | 4:04 | 2022-06-13 | 2023-06-02 |
 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 | 2022-06-13 |  |

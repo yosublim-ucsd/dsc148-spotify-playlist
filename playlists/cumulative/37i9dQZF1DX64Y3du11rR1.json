@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265652,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
       },
@@ -985,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Fix You (Live for There With Care)",
+        "url": "https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369041,
+      "name": "Fix You - Live for There With Care",
+      "url": "https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
       },
@@ -996,10 +1036,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 214260,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7zAhFzI9v5nrtBQBiNDXR6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211507,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6mg7fwFJk743tkHUCl1eHU"
     },
     {
       "album": {
@@ -1940,6 +1998,24 @@
       "duration_ms": 201104,
       "name": "lonely together",
       "url": "https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn"
+    },
+    {
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/3N7BurfvoI5nnX7m4W2SrP"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1NphB0TmPaHmkG7ePks1bp"
     },
     {
       "album": {
@@ -3410,7 +3486,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180998,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"

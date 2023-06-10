@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 22672,
+  "num_followers": 22715,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Y4NjY5YmM4M2QyMmEzMWIwY2JhZmI4NDQ5YjkwODgwZDU5YTEw",
+  "snapshot_id": "MCxmOTExMWJkOWJkYzU5MDU0YzA0ZGVlY2ZmYjEzZWQ1NmQwZWIyNWI2",
   "tracks": [
     {
       "added_at": "2023-06-02 09:27:00",
@@ -787,46 +787,6 @@
     {
       "added_at": "2023-06-02 09:27:00",
       "album": {
-        "name": "Not my fault",
-        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
-      },
-      "artists": [
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 214319,
-      "name": "I wonder (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
-    },
-    {
-      "added_at": "2023-06-02 09:27:00",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
-    },
-    {
-      "added_at": "2023-06-02 09:27:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -847,6 +807,46 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "added_at": "2023-06-02 09:27:00",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2023-06-02 09:27:00",
+      "album": {
+        "name": "Not my fault",
+        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 214319,
+      "name": "I wonder (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
     },
     {
       "added_at": "2023-06-02 09:27:00",
@@ -887,18 +887,26 @@
     {
       "added_at": "2023-06-02 09:27:00",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
       },
       "artists": [
         {
-          "name": "TAEWOO",
-          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+          "name": "blienty",
+          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+      "duration_ms": 163163,
+      "name": "24K (feat. Kvsh, DUT2)",
+      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
     },
     {
       "added_at": "2023-06-02 09:27:00",
@@ -923,26 +931,18 @@
     {
       "added_at": "2023-06-02 09:27:00",
       "album": {
-        "name": "RESONANCE",
-        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
       },
       "artists": [
         {
-          "name": "blienty",
-          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
         }
       ],
-      "duration_ms": 163163,
-      "name": "24K (feat. Kvsh, DUT2)",
-      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
     },
     {
       "added_at": "2023-06-02 09:27:00",

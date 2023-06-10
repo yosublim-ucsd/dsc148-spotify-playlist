@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-140 songs - 7 hr 56 min
+141 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 | 2022-03-18 |  |
 | [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 | 2023-04-26 |
 | [Malena](https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 2:55 | 2022-03-18 |  |
-| [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 |  |
+| [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 | 2023-06-10 |
 | [Mano a Mano \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Tango Lo Siento Así](https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9) | 3:12 | 2022-03-18 |  |
 | [Maria](https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:34 | 2022-03-18 | 2022-07-27 |
 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 | 2022-03-18 |  |
@@ -136,6 +136,7 @@
 | [Tangos \(Arr\. Vidal\): Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Lluís Vidal](https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV) | [Piazzolla: Bandonéon Concerto; Tangos](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 | 2022-03-18 |  |
 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 | 2022-03-18 | 2023-05-05 |
 | [Tinta Roja](https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN), [Francisco Fiorentino](https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT) | [Toda Mi Vida](https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR) | 3:03 | 2022-03-18 |  |
+| [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 | 2023-06-09 |  |
 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 | 2022-03-18 |  |
 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 | 2022-03-18 |  |
 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 | 2022-03-18 |  |

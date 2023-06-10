@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week.
 
-334 songs - 17 hr 37 min
+335 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Fight for it](https://open.spotify.com/track/6tYauukRQsMVED9eNqreNA) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Fight for it](https://open.spotify.com/album/4E3yem5KfbaQQixWsBZnWC) | 2:06 | 2023-03-03 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 | 2022-02-18 | 2022-11-12 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-02-18 | 2022-02-26 |
-| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-06-07 |  |
+| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-06-07 | 2023-06-10 |
+| [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-07 |  |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 | 2022-11-12 |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 | 2023-03-04 |
 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 | 2023-06-07 |  |

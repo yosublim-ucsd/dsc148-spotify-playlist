@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 673722,
+  "num_followers": 674212,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzAzNDIwZGVmNTkyNzMyYjg0NWY0OGRhNTU1ZDMzZGYxMTEzY2Q4",
+  "snapshot_id": "MCxlMWQ2YTRhODIzMmE4ZTJlNzAzNzQ5NDBhNDY0NTY4MjJkNTg1Yjg4",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "10% - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 169244,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
     },
     {
       "added_at": "2023-02-10 03:01:00",

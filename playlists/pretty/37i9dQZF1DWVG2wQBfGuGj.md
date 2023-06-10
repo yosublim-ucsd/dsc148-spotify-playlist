@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,886 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,070 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 98 | [Heart Void](https://open.spotify.com/track/7zQNKG7x1DLVtFLgVaVTGJ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Heart Void](https://open.spotify.com/album/6ijaSm022V44OQ54n4HvHg) | 3:20 |
 | 99 | [making out](https://open.spotify.com/track/31sRAMv4XlnUbvDTFvXJSP) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [making out](https://open.spotify.com/album/3jR4vqdsNHihUfn0kf6h8j) | 2:42 |
 | 100 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 |
-| 101 | [Trigger Fool \(feat\. Azamaan Hoyvoy\)](https://open.spotify.com/track/40IFfrt1s0niiFkXnSC5wG) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Azamaan Hoyvoy](https://open.spotify.com/artist/1LbuU8d58KvC224d5abMiF) | [Trigger Fool \(feat\. Azamaan Hoyvoy\)](https://open.spotify.com/album/0ViFxFgJEp6aNRAdGnlKst) | 3:40 |
+| 101 | [Trigger Fool \(feat\. Azamaan Hoyvoy\)](https://open.spotify.com/track/40IFfrt1s0niiFkXnSC5wG) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Azamaan Hoyvoy](https://open.spotify.com/artist/1LbuU8d58KvC224d5abMiF) | [Trigger Fool](https://open.spotify.com/album/0ViFxFgJEp6aNRAdGnlKst) | 3:40 |
 | 102 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 |
 | 103 | [Ibiza Sunset](https://open.spotify.com/track/6WzNxIDzhenIFgTrMJwb6n) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Ibiza Sunset](https://open.spotify.com/album/3Ogsc7QUnHrhM6gSW7NFTw) | 3:11 |
 | 104 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 165 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 |
 | 166 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 |
 
-Snapshot ID: `MCw0ZTRmNzczYjFhZDJhMjdiYTE4ZTE1NjhmNWYzMDU1YzE0ZDFmNzgy`
+Snapshot ID: `MCwzYmQ3ZGM3ZWQ0ZjEyMGVjNDU3YTk0M2E0MGZiYjQ3M2ZkM2RlMWUx`

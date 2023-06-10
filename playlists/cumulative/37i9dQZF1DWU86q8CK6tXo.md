@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE”>Dove Cameron</a>
 
-950 songs - 2 day 3 hr 11 min
+951 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-11-30 | 2023-01-05 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-10-05 | 2023-01-05 |
 | [Dummy Ummy](https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dummy Ummy](https://open.spotify.com/album/5ZO8kA1XhkGlf3fZZYgIZ3) | 1:51 | 2022-04-06 | 2022-05-05 |
-| [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 | 2023-06-07 |  |
+| [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 | 2023-06-07 | 2023-06-10 |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-01-04 | 2023-02-02 |
 | [Eet](https://open.spotify.com/track/0N9WhEz6DiBDvBxa6uJCTY) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:50 | 2022-04-06 | 2022-05-05 |
 | [Ego Death](https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Ego Death](https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO) | 4:03 | 2023-04-05 | 2023-05-04 |
@@ -611,6 +611,7 @@
 | [Offenbach Anthem](https://open.spotify.com/track/64HEmeFcnMSiBMLbfah3yx) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Offenbach Anthem](https://open.spotify.com/album/1QmqhZWQqGiwAkpQ40gYyN) | 5:44 | 2022-02-02 | 2022-03-09 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-02-02 | 2022-03-09 |
 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 | 2023-05-03 | 2023-06-08 |
+| [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-07 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-12-01 | 2022-01-06 |
 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 | 2023-03-01 | 2023-04-06 |
 | [OK With That](https://open.spotify.com/track/2ooyykGiladq5Rs0tRYITz) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [OK With That](https://open.spotify.com/album/2j2rYcajkYMdNuINcE03TX) | 3:38 | 2022-07-06 | 2022-08-04 |

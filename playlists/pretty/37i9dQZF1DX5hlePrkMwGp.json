@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 108642,
+  "num_followers": 108715,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWY5ZDNmODU2MGNlYzJhYTI0MTJjYjA3Y2U1MzZmNjM1Y2FmMzc3",
+  "snapshot_id": "MCwxODJkNGExY2IwYmY0M2Y2NmE2Mzc2MDczZWM2MjRhNjgyNDljN2Zj",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -455,26 +455,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Thangamagan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Enna Solla - The New Life of Tamizh",
-      "url": "https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "So Baby (From \"Doctor\")",
         "url": "https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 252631,
       "name": "So Baby (From \"Doctor\")",
       "url": "https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Thangamagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Enna Solla - The New Life of Tamizh",
+      "url": "https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -763,6 +763,26 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Namma Veettu Pillai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Gaandakannazhagi",
+      "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 223746,
       "name": "Po Nee Po - Remix - The Scream of Love",
       "url": "https://open.spotify.com/track/4tC9EKLTfmLEryGR2f7Wjc"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Namma Veettu Pillai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Gaandakannazhagi",
-      "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
     },
     {
       "added_at": "2021-08-02 09:30:31",

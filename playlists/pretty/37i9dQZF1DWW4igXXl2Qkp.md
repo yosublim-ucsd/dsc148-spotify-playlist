@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,721 likes - 76 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,824 likes - 76 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
-| 2 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 |
+| 2 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 |
 | 3 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
 | 4 | [Makin It Sound](https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Makin It Sound](https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj) | 2:17 |
 | 5 | [Trimmer](https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE) | 2:30 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Trust Pt\. 2](https://open.spotify.com/track/3XnXKm3BJIJ4JMS1zGsiiP) | [Gic0e](https://open.spotify.com/artist/7CkRwvPIIL5cDRgpPPLkvF) | [Trust Pt\. 2](https://open.spotify.com/album/6p9CTSrA3Q0QRupycIYTqj) | 3:52 |
 | 76 | [No Discussion](https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [No Discussion](https://open.spotify.com/album/6x7ImIkrwJQlukgX4TwioK) | 2:49 |
 
-Snapshot ID: `MCwzMWJjYThkZmYyMjdkYmZlZTU3M2RiMDQ4MWI5MDZmNzIyZWEzNjM4`
+Snapshot ID: `MCxjOGViNDM5NDIwYmQwNDVmMzgyMjc0Zjc4YWViMmYwYWI0MDgxMTFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,868 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,897 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 35 | [DESPEDIDA](https://open.spotify.com/track/4uED1vVXU87UcmhJXGLHLv) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Trap Ejecutivo](https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh) | 2:44 |
 | 36 | [Quiero Verte Bailar](https://open.spotify.com/track/1XR4K9HjuQY7R990vhELZK) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Quiero Verte Bailar](https://open.spotify.com/album/7MRiVAT9aZOwfOrpeHGKLg) | 2:46 |
 | 37 | [Si Nos Dejan \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/156kSaEIxWoI5vZcqvnTxS) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:31 |
-| 38 | [Un Ratito](https://open.spotify.com/track/39cA436fWZHRxdNaYDQL1p) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:23 |
+| 38 | [Soy](https://open.spotify.com/track/5K4RG0AD6faGM1XIyj7Fms) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:17 |
 | 39 | [Acá Entre Nos \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:43 |
-| 40 | [Soy](https://open.spotify.com/track/5K4RG0AD6faGM1XIyj7Fms) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:17 |
+| 40 | [Un Ratito](https://open.spotify.com/track/39cA436fWZHRxdNaYDQL1p) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:23 |
 | 41 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 |
 | 42 | [Qué Más Da](https://open.spotify.com/track/3ZVUnnt2yWbM40EIpS0NYz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 3:22 |
 | 43 | [Eternocumbia](https://open.spotify.com/track/5Rqe0tS03rOu8Wbxhcmt38) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:50 |
 
-Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDAwN2E2M2E0MTAyNDE5MDk5OWZlZWI4YTQ4NWFmMjY5NA==`
+Snapshot ID: `MjgxMDUyMDYsMDAwMDAwMDA4MGMyZWM2N2I4ZDNkMjQ5ZmIzNjQ1NzJlNmZkMGVjYQ==`

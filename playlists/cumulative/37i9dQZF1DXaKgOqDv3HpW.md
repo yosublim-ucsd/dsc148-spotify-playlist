@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-217 songs - 10 hr 39 min
+218 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-02-18 |  |
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2022-02-18 |  |
 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 |  |
+| [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-02-18 | 2022-07-09 |
 | [Elemental Control](https://open.spotify.com/track/6JMQQ8Y7ALaPBJJguEETbX) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Sleep Odyssey](https://open.spotify.com/album/148nvIMcvVwONRTeWfp3R2) | 2:28 | 2022-02-18 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2022-02-18 |  |
@@ -169,7 +170,7 @@
 | [Room For Thoughs](https://open.spotify.com/track/6b9mpDYINPE5wKQuRKuza1) | [Inessa Merton](https://open.spotify.com/artist/3lZy0xoBMpN0My5d0xKcxb) | [Room For Thoughs](https://open.spotify.com/album/3BRR6uX7qSjZiWikMe9Fwh) | 2:50 | 2022-02-18 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-21 |  |
 | [Sami Lok](https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe) | [Nama Mantra](https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU) | [Sami Lok](https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC) | 2:44 | 2022-12-09 |  |
-| [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 |  |
+| [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 | 2023-06-10 |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-02-18 | 2022-10-01 |
 | [Satori \- Without Ambience](https://open.spotify.com/track/2lHPRp0fGmU59ArT2z2t25) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Satori](https://open.spotify.com/album/3C3HvzERaQbTUVh8gz2xK8) | 3:37 | 2022-02-18 | 2022-10-01 |
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |

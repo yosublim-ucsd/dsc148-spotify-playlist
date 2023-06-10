@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mike11.
 
-329 songs - 18 hr 2 min
+330 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 | 2022-07-07 | 2023-04-28 |
 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 | 2022-12-02 | 2023-01-21 |
 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 | 2022-09-01 | 2022-09-30 |
+| [Bandida](https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Bandida](https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq) | 2:53 | 2023-06-08 |  |
 | [Be Free](https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE) | [Daxuva](https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2), [Itaya](https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp) | [Punk Selva](https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp) | 3:30 | 2022-09-16 | 2022-10-07 |
 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 | 2023-03-01 | 2023-03-25 |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
@@ -220,7 +221,7 @@
 | [Não Falo Nada](https://open.spotify.com/track/344G8K622EI1rYTPfgjhEx) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Não Falo Nada](https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y) | 3:15 | 2022-07-07 | 2022-08-05 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 | 2022-07-07 |  |
-| [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/2pgd5PsCPruMCPfT8P6dey), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 | 2023-06-08 |  |
+| [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/2pgd5PsCPruMCPfT8P6dey), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 | 2023-06-08 | 2023-06-10 |
 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 | 2023-03-12 |  |
 | [Não Reclama](https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Sacik Brow](https://open.spotify.com/artist/1n07xtEZwz3p8l5o7X8xo5) | [Não Reclama](https://open.spotify.com/album/4zFZjZXGisOmgHhZuvY26D) | 2:46 | 2022-11-11 | 2022-12-02 |
 | [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-07-21 | 2022-09-02 |
@@ -325,7 +326,7 @@
 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 | 2023-02-10 |  |
 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 | 2022-12-23 | 2023-01-21 |
 | [Voando Alto](https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Voando Alto](https://open.spotify.com/album/5FzYx0EtmdDq66FYObztp2) | 3:43 | 2023-05-18 | 2023-06-09 |
-| [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-07 |  |
+| [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/0YfMzQvsaVC4QP557FFH5r) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-07 |  |
 | [Water \(feat\. Slow J\) \- Single Version](https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 5:13 | 2022-07-07 | 2022-10-07 |
 | [Whouu!](https://open.spotify.com/track/30oI2gWqU8TgphCDVPpKBB) | [Tcy Parker](https://open.spotify.com/artist/355i6WSgNs45ncKo7Zt8LR) | [Whouu!](https://open.spotify.com/album/3qkPNZ4OMNsTv6DjRL1Uqq) | 3:11 | 2023-01-20 | 2023-01-22 |
 | [why would u](https://open.spotify.com/track/34wjYTIyNXiijsAgWTLdia) | [David Da Rapper](https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4) | [why would u](https://open.spotify.com/album/2M7a9lzVlZfJrgzb64ejyy) | 3:16 | 2023-03-01 | 2023-03-25 |

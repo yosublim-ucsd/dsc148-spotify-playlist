@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,275 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,283 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 19 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
 | 20 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
 | 21 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
-| 22 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 22 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/0YfMzQvsaVC4QP557FFH5r) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 23 | [Praça Onze](https://open.spotify.com/track/0hMUCxx0QJfxOmWq7D5oi0) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/6BBDRshfbJrNM9yJJSZhPD) | 4:23 |
 | 24 | [Morte do Artista](https://open.spotify.com/track/1Cq83G1oAeRqHyBW3go5vM) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/0OhiYPXXXNNoxSkiDOYjNF) | 3:27 |
 | 25 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [RockNRoll](https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [CL](https://open.spotify.com/artist/4i1KqPb9iJ51vS7BhXn0U0), [XIXO503](https://open.spotify.com/artist/0jJKdlK7cMSI6YFFCI7khz) | [RockNRoll](https://open.spotify.com/album/41fW2ux0CwJF85Qk183l2c) | 4:03 |
 | 50 | [Apaga o Meu Número](https://open.spotify.com/track/5YSq0fJUZXWeFG5RwCd5F9) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [DOSYE KRI](https://open.spotify.com/album/3m8UQ1Fenv6Tjoobg6QSfP) | 2:56 |
 
-Snapshot ID: `MCxiZjBiMTQwYTA2OTg0MjM1MWU0NWRlOGFkNTUzMjUzODAzZGE1Zjg4`
+Snapshot ID: `MCxjMWZjNzE0YmU4MzZkNzliNzI0NDljNDljN2NjOTY2NGVmMjQwZTk0`

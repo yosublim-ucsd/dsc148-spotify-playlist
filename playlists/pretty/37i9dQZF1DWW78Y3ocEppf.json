@@ -1,13 +1,29 @@
 {
-  "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 41751,
+  "description": "Let the songs speak. Cover: NBDY",
+  "num_followers": 41772,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjhmNGNlZWQ0N2ZjZTlhZjViOWZiZTU0M2I4MzFmNGRlMzc5YzVk",
+  "snapshot_id": "MCxhOTgxYTM5OGRlNjFkZmNlZmM2MDU0YWRkMjY4ZGJmMDQwY2I1ODdk",
   "tracks": [
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Mind Me",
-        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Don\u2019t Mind Me",
-      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
+        "name": "Don't Mind Me",
+        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
       },
       "artists": [
         {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
+      "duration_ms": 189929,
+      "name": "Don\u2019t Mind Me",
+      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Tell Me It's Over",
@@ -523,22 +539,6 @@
       "duration_ms": 281013,
       "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
       "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -961,6 +961,46 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "1(800)HIT-EAZY: Line 2",
+        "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sum 2 See",
+      "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Big Vibez",
@@ -997,26 +1037,6 @@
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "1(800)HIT-EAZY: Line 2",
-        "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sum 2 See",
-      "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -1031,26 +1051,6 @@
       "duration_ms": 147613,
       "name": "Bout Mine",
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -1159,22 +1175,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
-      },
-      "artists": [
-        {
-          "name": "Kenya Vaun",
-          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
-        }
-      ],
-      "duration_ms": 187484,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1377,6 +1377,26 @@
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
+      },
+      "artists": [
+        {
+          "name": "Jay Burna",
+          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 306149,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "World In My Hands",
@@ -1409,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "TOP BOY",
@@ -1445,6 +1449,22 @@
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Insensitive",
@@ -1459,26 +1479,6 @@
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
-      },
-      "artists": [
-        {
-          "name": "Jay Burna",
-          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 306149,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1565,20 +1565,20 @@
       "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
       },
       "artists": [
         {
-          "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+          "name": "Tejy",
+          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
         }
       ],
-      "duration_ms": 177631,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+      "duration_ms": 172275,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 177631,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Indifferent",
@@ -1611,26 +1627,6 @@
       "duration_ms": 157976,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Swerve",
-        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1651,6 +1647,26 @@
       "duration_ms": 154105,
       "name": "Maddest Hoes",
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
+    },
+    {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Swerve",
+        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1717,20 +1733,20 @@
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+        "name": "212",
+        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1747,22 +1763,6 @@
       "duration_ms": 158661,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Runner Up",
-        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
-      },
-      "artists": [
-        {
-          "name": "Tejy",
-          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
-        }
-      ],
-      "duration_ms": 172275,
-      "name": "Runner Up",
-      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     }
   ],
   "unique_name": "Some Kinda Way",

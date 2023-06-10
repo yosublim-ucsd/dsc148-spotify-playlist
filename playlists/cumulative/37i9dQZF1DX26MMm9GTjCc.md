@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-119 songs - 6 hr 56 min
+121 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Merry Christmas Everyone](https://open.spotify.com/track/7brBzTFzUzxwKNXbyS5sN2) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 3:39 | 2021-10-28 | 2022-07-29 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/1iAeMmmJklD6SrlSHnndsY) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Heiligabend 2022](https://open.spotify.com/album/66wtzKPcUHNL82ZN5IrdCk) | 3:39 | 2021-10-28 | 2022-11-13 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-10-28 |  |
+| [Merry X\-Mas Everybody](https://open.spotify.com/track/5SbmOpGupqtSQGOrRJ4ZWc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Xmas Hits / Top 100 Holiday Songs](https://open.spotify.com/album/5BzhBD77hoBmoJ3V9JFDBI) | 3:37 | 2022-12-06 |  |
 | [Merry X\-Mas Everybody](https://open.spotify.com/track/1eNJp0IUniVnnz9bcnke5v) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Santa Songs](https://open.spotify.com/album/6KI13Kc1iR2zvckXe7GP6U) | 3:37 | 2021-10-28 | 2022-11-15 |
 | [Merry X\-Mas Everybody](https://open.spotify.com/track/1YlnvcS4mpYdxvwqxon0aZ) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 3:38 | 2021-10-28 | 2022-07-29 |
-| [Merry X\-Mas Everybody](https://open.spotify.com/track/6kyh0ADHai0OjNrleA9ZIw) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 3:38 | 2021-10-28 |  |
+| [Merry X\-Mas Everybody](https://open.spotify.com/track/6kyh0ADHai0OjNrleA9ZIw) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 3:38 | 2021-10-28 | 2023-06-10 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/3iwZ8hg0q1kTBB5kjg0nO4) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Wall Of Hits](https://open.spotify.com/album/3qQsv8mJaD5Qn10yCEuk84) | 3:25 | 2021-10-28 | 2022-07-29 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/1ZRTVtN69huY2k4F9m6xOa) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody: 50 Christmas and Holiday Hits](https://open.spotify.com/album/3vK6l0IQhxGhweR4zMQAzq) | 3:43 | 2021-10-28 | 2022-11-13 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/2unvC2MlubBY3GxXqrRW00) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Crackers](https://open.spotify.com/album/5Zr9iBEJfPSNEEjaeQilDt) | 3:43 | 2021-10-28 |  |
@@ -99,8 +100,9 @@
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/35ys6iS1supcwFoxLJkFbg) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:27 | 2021-10-28 | 2022-07-29 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 | 2021-10-28 | 2022-11-14 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2021-10-28 |  |
+| [Santa Claus Is Coming to Town](https://open.spotify.com/track/3h7Gk0kIWjtNacFEIuoaNg) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 3:23 | 2022-12-06 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/4pq39ESd8oPCmAH6H4Vbt9) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Merry Christmas \- En riktigt God Jul](https://open.spotify.com/album/5pyHOj2s15KUZBsBUe9OmQ) | 3:23 | 2021-10-28 | 2022-07-29 |
-| [Santa Claus Is Coming to Town](https://open.spotify.com/track/2lT2w8qVNDUAzrdO4yCdxE) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:24 | 2021-10-28 |  |
+| [Santa Claus Is Coming to Town](https://open.spotify.com/track/2lT2w8qVNDUAzrdO4yCdxE) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:24 | 2021-10-28 | 2023-06-10 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/3Gi8xzhQ4D0iSaH9sA5Tz7) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Santa Songs](https://open.spotify.com/album/6KI13Kc1iR2zvckXe7GP6U) | 3:24 | 2021-10-28 | 2022-11-11 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/3ME773yH3D3GSYQiEH1Wix) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Traditional Christmas Music](https://open.spotify.com/album/0oBQNX8GpwyfVv9uPPBrSt) | 3:24 | 2021-10-28 | 2022-11-14 |
 | [Santa Tell Me](https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [ŚWIĘTA, ŚWIĘTA](https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub) | 3:23 | 2021-10-28 | 2022-11-13 |

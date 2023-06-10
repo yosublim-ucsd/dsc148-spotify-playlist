@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Ton Carfi, 2metro, Big Asher, LEVII MC",
-  "num_followers": 124207,
+  "num_followers": 124417,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDY3OGNlNTcyZmEyYjY5NmY5ZDk1NjFiY2EyZTEwMGFiZDU5YWUz",
+  "snapshot_id": "MCxlZDFiODU4ZDg1ZWEwNTk5YWZiZjAyYjdlNjc4NjcwZjdjODgyMTcy",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 184102,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "O Pai Espera Voc\u00ea Voltar",
         "url": "https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 257488,
       "name": "O Pai Espera Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 184102,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Se P\u00e1",
-        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
       },
       "artists": [
         {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 163794,
-      "name": "Se P\u00e1",
-      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        }
+      ],
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Romanos 3: 24",
-        "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pompeo",
-          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
-        }
-      ],
-      "duration_ms": 126216,
-      "name": "Romanos 3: 24",
-      "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Romanos 3: 24",
+        "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        }
+      ],
+      "duration_ms": 126216,
+      "name": "Romanos 3: 24",
+      "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Esperan\u00e7a para o Perdido",
         "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 230831,
       "name": "Esperan\u00e7a para o Perdido",
       "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Fluindo no Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
-      },
-      "artists": [
-        {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Fluindo no Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Fluindo no Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
+      },
+      "artists": [
+        {
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Fluindo no Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Notas de um Cora\u00e7\u00e3o Amado",
         "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
       },
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2023-06-02 03:00:00",

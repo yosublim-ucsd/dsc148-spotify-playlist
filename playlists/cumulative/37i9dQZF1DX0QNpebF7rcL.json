@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 278755,
       "name": "I'm No Angel Myself",
       "url": "https://open.spotify.com/track/1HENXx512ScE18AYoJm45r"
@@ -5340,6 +5340,28 @@
       "duration_ms": 183386,
       "name": "You've Been Cheatin'",
       "url": "https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA"
+    },
+    {
+      "album": {
+        "name": "Life Don't Miss Nobody",
+        "url": "https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nelson",
+          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
+        },
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Your Funeral And My Trial (feat. Jontavious Willis)",
+      "url": "https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN"
     },
     {
       "album": {

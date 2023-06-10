@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,007 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,170 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 41 | [Time \- Remix](https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Time \(Remix\)](https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1) | 2:27 |
 | 42 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 |
 | 43 | [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 |
-| 44 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 |
-| 45 | [Shina Peters](https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Shina Peters](https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P) | 2:46 |
-| 46 | [For My Head](https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi) | [Sean Dampte](https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i) | [For My Head](https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US) | 2:33 |
+| 44 | [Shina Peters](https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Shina Peters](https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P) | 2:46 |
+| 45 | [For My Head](https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi) | [Sean Dampte](https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i) | [For My Head](https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US) | 2:33 |
+| 46 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 |
 | 47 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 |
 | 48 | [Amala](https://open.spotify.com/track/7ldle0j4O3JdX4XVVYY2Vx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Amala](https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp) | 2:27 |
 | 49 | [ZaZoo Zehh](https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ZaZoo Zehh](https://open.spotify.com/album/06y2KN7ZkZZ05vVxTTwCM8) | 3:34 |
-| 50 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 |
-| 51 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 |
+| 50 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 |
+| 51 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 |
 | 52 | [Don't Hype Me](https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Don't Hype Me](https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6) | 2:03 |
 | 53 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 54 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 60 | [Banga](https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Banga \(feat\. Portable\)](https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc) | 3:13 |
 
-Snapshot ID: `MCwyN2YxZGRlOTE1YWMwY2VkMGQ1M2E4MjYwNjZkODQ2ZjMyZmMyOGU5`
+Snapshot ID: `MCw3YTkwNWRjYTliM2IyNWQ1OTNkZWY1MTZhYzhjOTIzNjU5ZjhkOGVi`

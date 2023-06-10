@@ -4,12 +4,13 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x bludnymph
 
-345 songs - 17 hr 16 min
+346 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-18 |  |
-| [0800 HEAVEN](https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q) | 2:39 | 2023-06-08 |  |
+| [0800 HEAVEN](https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q) | 2:39 | 2023-06-08 | 2023-06-10 |
+| [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-08 |  |
 | [2nite](https://open.spotify.com/track/7JbM7QwsJyNvhtH0GuBwzM) | [B4N4N4 G4NG](https://open.spotify.com/artist/3Z9w6UtrvPO4NIvlRZqACr), [Kristoph Galland](https://open.spotify.com/artist/2kGfHpvMHJWNzTYvtOut1v) | [2nite](https://open.spotify.com/album/6hhGM0tMGLpv2P0Wpt0R6c) | 2:32 | 2023-03-23 | 2023-04-28 |
 | [A Better Way](https://open.spotify.com/track/292iuvOOYUZjc0PHNE8xEC) | [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s), [Borned](https://open.spotify.com/artist/3EmG4Owcq7GhI5TxLO3zwY) | [A Better Way](https://open.spotify.com/album/2ZFb1pDRRppo96pPoyaBUp) | 3:21 | 2023-02-02 | 2023-04-07 |
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-02-02 | 2023-03-25 |

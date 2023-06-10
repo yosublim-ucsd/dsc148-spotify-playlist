@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 128627,
+  "num_followers": 128740,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjhlNDQ3ZjY2MTQwMzM4ZDRmNmJiNzdmMDU2YjQwZTUwYzVmZTE2",
+  "snapshot_id": "MCwzOWM4YjUyNmY1OGI3M2YyOGJjMTI4NDIwZjdmZWI2YTdiMTUzMDY4",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Resident Alien",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
-      },
-      "artists": [
-        {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+      },
+      "artists": [
+        {
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Porno For Pyros",
-        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
-      },
-      "artists": [
-        {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Pets",
-      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 200156,
       "name": "Saint Joe On The School Bus",
       "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Porno For Pyros",
+        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
+      },
+      "artists": [
+        {
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Pets",
+      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
     },
     {
       "added_at": "2022-06-29 18:33:46",

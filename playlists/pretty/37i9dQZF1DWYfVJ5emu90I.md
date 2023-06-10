@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,217 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,251 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 3 | [TOKYO MANJI REVENGERS](https://open.spotify.com/track/3BEp9EL26N87bu5fzwjO0W) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO MANJI REVENGERS](https://open.spotify.com/album/5w4JHnj6JTqB3lefOFJxOU) | 2:33 |
 | 4 | [STRAIGHT UP](https://open.spotify.com/track/7p2NEA4Eliv5M3fxRl6V5D) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [STRAIGHT UP](https://open.spotify.com/album/67vqoD5n8qcEkj1AVeeK6P) | 2:36 |
 | 5 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 |
-| 6 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
-| 7 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
+| 6 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
+| 7 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
 | 8 | [Do this shit 4 me](https://open.spotify.com/track/2jOiXhcWIAC3Vf1BsIyiwS) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF) | 2:31 |
 | 9 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
 | 10 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 |
 | 50 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 |
 
-Snapshot ID: `MCwyYzhkNzMwODJmMmNmZGRmZTI2M2FmOTZiMmQ1YWQ3ZTIwNThlNzZl`
+Snapshot ID: `MCxhYjA5YTM0MWExMzlmOWUwY2U2NmNkMTU0MDg1NGQ5MDRhMTJlYTc0`

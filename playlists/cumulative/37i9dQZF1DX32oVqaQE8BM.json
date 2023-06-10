@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Calm Idle",
+        "url": "https://open.spotify.com/album/4LppqAEzldIVT3bSyozpgu"
+      },
+      "artists": [
+        {
+          "name": "Wishard",
+          "url": "https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Calm Idle",
+      "url": "https://open.spotify.com/track/0x63Et1eXjwD5ZdFdQAsSn"
+    },
+    {
+      "album": {
         "name": "Calm Morning",
         "url": "https://open.spotify.com/album/7xfI7LvjjlI7TT2Ebzr5mB"
       },
@@ -5892,6 +5910,24 @@
       "duration_ms": 233294,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz"
+    },
+    {
+      "album": {
+        "name": "Ocean Silver",
+        "url": "https://open.spotify.com/album/1eKWpj6bv2R6TwqT5g0euZ"
+      },
+      "artists": [
+        {
+          "name": "LoDub",
+          "url": "https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Ocean Silver",
+      "url": "https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38"
     },
     {
       "album": {

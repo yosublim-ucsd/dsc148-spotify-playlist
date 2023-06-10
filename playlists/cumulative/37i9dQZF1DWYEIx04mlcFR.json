@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185217,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Me gusto de noche",
+        "url": "https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "Cuando se trata conmigo",
+      "url": "https://open.spotify.com/track/09apv88GVTMrW6ctM8WAqU"
+    },
+    {
+      "album": {
         "name": "cumbia aesthetic",
         "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
       },
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176727,
       "name": "Dame Guerra",
       "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188980,
       "name": "Menos T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm"
@@ -4225,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "album": {
         "name": "Ciencia Fricci\u00f3n",
         "url": "https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF"
       },
@@ -4258,6 +4298,24 @@
       "duration_ms": 147300,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n-am\u00e9",
+        "url": "https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Perd\u00f3n-am\u00e9",
+      "url": "https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq"
     },
     {
       "album": {
@@ -5647,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "todav\u00eda dueles",
+        "url": "https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174331,
+      "name": "todav\u00eda dueles",
+      "url": "https://open.spotify.com/track/7n9xkY2W8QEQyBBuR2aLdB"
+    },
+    {
+      "album": {
         "name": "todo bien :-)",
         "url": "https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS"
       },
@@ -5760,7 +5836,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"

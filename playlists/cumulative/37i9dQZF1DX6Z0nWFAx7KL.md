@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-149 songs - 7 hr 29 min
+150 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Like Home](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4) | 3:11 | 2023-03-09 |  |
 | [Like Home](https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP) | 3:11 | 2022-09-15 | 2023-02-24 |
 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 | 2022-09-15 |  |
-| [Lost In The Sky](https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g) | 2:40 | 2023-06-08 |  |
+| [Lost In The Sky](https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g) | 2:40 | 2023-06-08 | 2023-06-10 |
+| [Lost In The Sky](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn) | 2:40 | 2023-06-08 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-09-15 |  |
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-09-15 |  |

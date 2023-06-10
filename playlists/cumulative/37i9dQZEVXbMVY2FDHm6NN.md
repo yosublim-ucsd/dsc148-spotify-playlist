@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-181 songs - 10 hr 58 min
+182 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-14 | 2023-04-22 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-30 |  |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-19 |  |
+| [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-09 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-12-30 | 2023-01-07 |
 | [SET ME FREE](https://open.spotify.com/track/1Zr1SoGePJ3iKKakmmZaMR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 3:01 | 2023-03-17 | 2023-03-25 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-31 | 2023-04-09 |
@@ -109,8 +110,8 @@
 | [从前说](https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb) | 4:11 | 2022-09-30 | 2023-02-04 |
 | [从前说](https://open.spotify.com/track/3t5edAHbyFEW67wFApp7EO) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/3XKhqXwWo2nHfTCsvYkmtq) | 4:11 | 2023-02-03 |  |
 | [仗着](https://open.spotify.com/track/1jIVULaXnINSJMcEvcrgHt) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/2bw4rMkuOI4tEiIp9XhoNG) | 3:38 | 2023-03-10 | 2023-04-29 |
-| [仗着](https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/78i6GdaQxd3WAEcjDOVPY6) | 3:38 | 2023-04-28 | 2023-05-20 |
-| [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2023-05-26 |  |
+| [仗着](https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/78i6GdaQxd3WAEcjDOVPY6) | 3:38 | 2023-04-28 |  |
+| [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2023-05-26 | 2023-06-10 |
 | [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-19 | 2023-05-27 |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-21 | 2023-05-20 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2022-09-30 | 2023-03-25 |
@@ -165,7 +166,7 @@
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2022-09-30 | 2023-04-29 |
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2022-12-23 | 2023-01-21 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-03 |  |
-| [白日夢](https://open.spotify.com/track/5zpFUmekUFVlDjKDTuCbtl) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:44 | 2023-05-26 |  |
+| [白日夢](https://open.spotify.com/track/5zpFUmekUFVlDjKDTuCbtl) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:44 | 2023-05-26 | 2023-06-10 |
 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 | 2022-12-30 |  |
 | [石橋](https://open.spotify.com/track/1GSaEKLXJMbgS25vLiC1or) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰](https://open.spotify.com/album/3HA5af27JDxCKKncQpdNLY) | 3:40 | 2023-04-07 | 2023-05-27 |
 | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/track/3eab5IX1gKr3UOfk3zV06e) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/album/5Y6JkAQCHC2TYmkzMNzPwi) | 4:06 | 2022-11-18 | 2022-12-10 |

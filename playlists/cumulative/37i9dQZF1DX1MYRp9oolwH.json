@@ -995,6 +995,32 @@
     },
     {
       "album": {
+        "name": "Calling Sahasra",
+        "url": "https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je"
+      },
+      "artists": [
+        {
+          "name": "Mohith Rahmanic",
+          "url": "https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220918,
+      "name": "Kalaya Nijama",
+      "url": "https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ"
+    },
+    {
+      "album": {
         "name": "Urvasivo Rakshasivo",
         "url": "https://open.spotify.com/album/1P9HsznpbvQ9z4Kbo5lq6w"
       },
@@ -2878,7 +2904,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 255445,
       "name": "Vennello Aadapilla (From \"Bedurulanka 2012\")",
       "url": "https://open.spotify.com/track/7nNZTyhbJcS3hx9Ecx3w8f"

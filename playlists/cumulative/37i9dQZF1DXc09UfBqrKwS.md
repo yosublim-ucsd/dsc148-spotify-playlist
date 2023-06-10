@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-242 songs - 11 hr 49 min
+243 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-03-31 |  |
 | [Bywyd](https://open.spotify.com/track/2C1IIUSDxqBsNr3k772BdT) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Bywyd](https://open.spotify.com/album/10SpdrXvHP9hQjJVOW5jft) | 2:21 | 2023-04-13 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-03-31 |  |
-| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2023-03-31 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2023-03-31 | 2023-06-10 |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2023-03-31 |  |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2023-03-31 |  |
 | [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 | 2023-03-31 |  |
@@ -66,7 +66,7 @@
 | [Des rêves sans fin](https://open.spotify.com/track/7vGRko4f6X3H4EfhwPsIJY) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [Des rêves sans fin](https://open.spotify.com/album/6x5YvwCzCxoLyME5L24xPL) | 3:02 | 2023-03-31 |  |
 | [Deseo](https://open.spotify.com/track/26hCpTBuCM2Irs5GW5kA9n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Deseo](https://open.spotify.com/album/5cN5EvRniK9U7j6mooE9xf) | 2:25 | 2023-03-31 |  |
 | [Deserted](https://open.spotify.com/track/1GLWqjGo22RR1chi19eizU) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Deserted](https://open.spotify.com/album/0RxPNYVu9CrOL42ywDbuh6) | 2:52 | 2023-03-31 |  |
-| [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2023-03-31 |  |
+| [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2023-03-31 | 2023-06-10 |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2023-03-31 |  |
 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 | 2023-03-31 |  |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2023-03-31 |  |
@@ -88,7 +88,7 @@
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2023-03-31 |  |
 | [Exploring](https://open.spotify.com/track/61Iykx3EETKUhv43tdveAe) | [Émile Aumont](https://open.spotify.com/artist/0FXNd3apEnHFlr8WDVgjBc) | [Le Silence](https://open.spotify.com/album/16Qso1h2XYl6Jxtm2iQi1c) | 2:43 | 2023-03-31 |  |
 | [Fading Memories](https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz) | [Zawar Hagano](https://open.spotify.com/artist/4sZQU2cNVFvCzZ3GK3n0S5) | [Fading Memories](https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM) | 2:55 | 2023-03-31 |  |
-| [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-03-31 |  |
+| [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-03-31 | 2023-06-10 |
 | [Far Away](https://open.spotify.com/track/1JulU97PHmutg1nTEZrRgR) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Rising](https://open.spotify.com/album/6L2Zy4AGt4Js9crCKuPwnQ) | 2:56 | 2023-03-31 |  |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2023-03-31 |  |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2023-03-31 |  |
@@ -148,9 +148,10 @@
 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2023-03-31 |  |
 | [Moment Of Peace](https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1) | [Dreams And Memories](https://open.spotify.com/artist/48XZ2sN06Hn9eJOczKtzqN) | [Moment Of Peace](https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB) | 2:55 | 2023-03-31 |  |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2023-03-31 |  |
-| [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2023-03-31 |  |
+| [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2023-03-31 | 2023-06-10 |
 | [More Than Words](https://open.spotify.com/track/4E22XbJSOj8T2Ua6ye19Cx) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [More Than Words](https://open.spotify.com/album/7r1WSkRvU9PFPbV7iyK7HT) | 2:42 | 2023-03-31 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-03-31 |  |
+| [Myriad](https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Quietude](https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w) | 3:05 | 2023-06-09 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2023-03-31 |  |
 | [Nieve](https://open.spotify.com/track/6VXtIz60EI6GUYQRsFWxNe) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:34 | 2023-03-31 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2023-03-31 |  |
@@ -177,7 +178,7 @@
 | [Positive Reaction](https://open.spotify.com/track/2iU9lxQ5XbDn1TVYVl2ciQ) | [Pretoqi](https://open.spotify.com/artist/4mPtfT4HNXKbghcssDspnW) | [Lost In Reality](https://open.spotify.com/album/6tzlO26AszLOwt0kJBwagX) | 3:10 | 2023-03-31 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2023-03-31 |  |
 | [Psalm Of Sleep](https://open.spotify.com/track/17Dp0IXJcJoj4s2zuN7x31) | [The Calming](https://open.spotify.com/artist/1MyGOa9AuDmi82QJU0RPc9) | [Psalm Of Sleep](https://open.spotify.com/album/0jqWXKofFqGSecXogsxLJ4) | 2:37 | 2023-03-31 |  |
-| [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2023-03-31 |  |
+| [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2023-03-31 | 2023-06-10 |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-31 |  |
 | [Raft Ahead](https://open.spotify.com/track/6SjsGXE89jzNFTcxRoP4UD) | [Sauftly](https://open.spotify.com/artist/74T0gfwFSioVpy2hcO1Xld) | [Raft Ahead](https://open.spotify.com/album/3VTkKfQsIluLhYff0cdYkE) | 2:44 | 2023-03-31 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-31 |  |
@@ -191,7 +192,7 @@
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2023-03-31 |  |
 | [Scorchio](https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Infinity Air](https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl) | 3:16 | 2023-04-21 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2023-03-31 |  |
-| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2023-03-31 |  |
+| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2023-03-31 |  |
 | [Shimmering Above Clouds](https://open.spotify.com/track/5qGiDfE4iUmc9ZChUCunTO) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Shimmering Above Clouds](https://open.spotify.com/album/3YdKMnC2KdW1Z1KFt5rRBA) | 2:57 | 2023-03-31 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-03-31 |  |

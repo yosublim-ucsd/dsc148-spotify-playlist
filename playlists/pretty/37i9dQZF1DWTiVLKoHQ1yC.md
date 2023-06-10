@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,395 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,496 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 27 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 |
 | 28 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 |
 | 29 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 |
-| 30 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 |
-| 31 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 |
+| 30 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 |
+| 31 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 |
 | 32 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 |
 | 33 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 |
 | 34 | [Zeit & Raum](https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Phases EP](https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6) | 4:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 43 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
 | 44 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
 | 45 | [How Often \- Ben Böhmer Remix](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Brightest Lights Remixed](https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW) | 4:55 |
-| 46 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
-| 47 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
+| 46 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
+| 47 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 48 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
 | 49 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
 | 50 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 | 60 | [Better Place \- Super Flu Remix](https://open.spotify.com/track/2Y9bKUE50cHsTNgYLpM8Pd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Better Place \(Super Flu Remix\)](https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve) | 7:54 |
 
-Snapshot ID: `MCwyMTNlZmM4MjMzYTczZWU4OWJmMGMwMDk5NDNjODFlYWRjNjkzZTIx`
+Snapshot ID: `MCxkNWQwYTI2N2MwNGE0ZWE2Y2IyZWZkMmYyMTdkYWMzYTAxMTQ3ZjA0`

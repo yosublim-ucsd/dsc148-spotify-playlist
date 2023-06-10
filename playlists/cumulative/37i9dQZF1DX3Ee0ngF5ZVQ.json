@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u"
       },
@@ -4840,7 +4858,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187906,
       "name": "Neon You",
       "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
@@ -7619,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "This Is For You",
+        "url": "https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208722,
+      "name": "Watered Down Whiskey",
+      "url": "https://open.spotify.com/track/5Qk8EDxYWjqlhyvGWvwuUY"
+    },
+    {
+      "album": {
         "name": "This Is for You",
         "url": "https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy"
       },
@@ -7630,7 +7666,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208722,
       "name": "Watered Down Whiskey",
       "url": "https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc"

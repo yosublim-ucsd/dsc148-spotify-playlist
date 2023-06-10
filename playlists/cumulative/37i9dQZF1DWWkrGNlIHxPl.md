@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Llunr
 
-280 songs - 15 hr 46 min
+281 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-12-08 |
 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 | 2023-01-25 |  |
 | [BET ON ME](https://open.spotify.com/track/0HM405OG4w321E8gfbEQvR) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [BET ON ME](https://open.spotify.com/album/3j5ny4kRZ43tyk7wUExLWJ) | 3:22 | 2023-01-26 | 2023-02-25 |
-| [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 | 2022-03-22 |  |
+| [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 | 2022-03-22 | 2023-06-10 |
 | [Bladi hiya el Djazair](https://open.spotify.com/track/4n0UiHNnwkgwQ8kCGRUJEH) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Algeria to Brazil \(22 titres originaux\)](https://open.spotify.com/album/1vQe7TMzcH64RJXN4DuxeN) | 3:24 | 2022-06-06 | 2022-06-24 |
 | [Burn Me Out](https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [Burn Me Out](https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1) | 4:43 | 2022-02-22 | 2022-07-18 |
 | [Busy Body](https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [Busy Body](https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O) | 2:32 | 2021-12-16 | 2022-07-29 |
@@ -61,6 +61,7 @@
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 |  |
 | [Do You Remember](https://open.spotify.com/track/61xP63UNZyc4RIuotBRo9c) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Do Your Remember](https://open.spotify.com/album/1LFS3RAcAcx6zH0xl8MFnI) | 3:00 | 2021-12-16 | 2022-10-09 |
 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 | 2023-03-14 |  |
+| [Don’t Call Me](https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:28 | 2023-06-09 |  |
 | [Doo Doo Doo](https://open.spotify.com/track/37c5GgK7f8QXCwOayKl2Da) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Doo Doo Doo](https://open.spotify.com/album/64pLqJV6zOaBh8jAwBorFV) | 2:46 | 2021-12-16 | 2022-11-20 |
 | [Drunk Calling](https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Drunk Calling](https://open.spotify.com/album/7eGSM40pIFMOEVofCb0r0n) | 2:32 | 2021-12-16 | 2022-03-19 |
 | [Drunk in Berlin](https://open.spotify.com/track/7nwoZs2HNMZd1XjNcktiTq) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Drunk in Berlin](https://open.spotify.com/album/7cJ2iXTJa0ksMtgnjj0uPK) | 2:37 | 2021-12-16 | 2022-05-28 |

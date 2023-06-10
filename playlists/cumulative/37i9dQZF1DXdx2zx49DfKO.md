@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-54 songs - 2 hr 6 min
+55 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [GO!](https://open.spotify.com/track/3Fmzn4AgdZ0owwgmomtY9l) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [GO!](https://open.spotify.com/album/28UownfAgB0Q9mH85Rp8ll) | 2:30 | 2022-11-30 |  |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2022-11-30 |  |
 | [HELLDRIFT 2](https://open.spotify.com/track/2fA6syjvdiDZmXk8qyH8uM) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/4f3ZmtNorRUs1mB30FSVOs) | 2:51 | 2022-11-30 | 2023-05-13 |
-| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-11-30 |  |
+| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-11-30 | 2023-06-10 |
+| [HELLDRIFT 2](https://open.spotify.com/track/78jwadUWHHsIXYoZtL9kpK) | [Randee Campers](https://open.spotify.com/artist/3XrwocEZ2D4EkmynAMtw5y) | [HELLDRIFT 2](https://open.spotify.com/album/6AFcMCYJfdAI9vO3YJ6wn8) | 2:51 | 2022-11-30 |  |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-11-30 |  |
 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 | 2022-11-30 |  |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2022-11-30 |  |

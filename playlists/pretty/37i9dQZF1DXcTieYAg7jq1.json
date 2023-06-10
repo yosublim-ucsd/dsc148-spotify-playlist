@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 409412,
+  "num_followers": 409451,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzRmNjAyNzEzMDAzZTdjYmEwMWJhMDRkYmFkZDI4YzY3ZGY5NTZk",
+  "snapshot_id": "MCxkZTVhYjU4OGFjOTJjODFlYzRkZDAxOTFmYjE5YmE4ZTAyNWNkY2Q1",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Bitter Sweet",
@@ -55,6 +71,26 @@
       "duration_ms": 181356,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4HYFwsvWNfN400hyJiyjdM"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 174429,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/6zPShdSv4OhuqBEVi1pbvO"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -697,26 +733,6 @@
       "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "the blue album",
@@ -819,22 +835,6 @@
       "duration_ms": 160361,
       "name": "Good Man (First Love)",
       "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2022-03-11 05:02:00",

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276035,
+      "name": "Adderall - No Intro",
+      "url": "https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2"
+    },
+    {
+      "album": {
         "name": "Rarezas (En Vivo)",
         "url": "https://open.spotify.com/album/2QyR6wZhkdupylpFigFgWB"
       },
@@ -562,6 +580,28 @@
       "duration_ms": 180190,
       "name": "Atomic Punk",
       "url": "https://open.spotify.com/track/1s9XjQrapQl5JhEjVhAKXS"
+    },
+    {
+      "album": {
+        "name": "Baby, You Wouldn't Last A Minute On The Creek",
+        "url": "https://open.spotify.com/album/1YWCnoSKXxmCg1s76sJhYO"
+      },
+      "artists": [
+        {
+          "name": "Craig Owens",
+          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
+        },
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266534,
+      "name": "Baby, You Wouldn't Last A Minute On The Creek",
+      "url": "https://open.spotify.com/track/3IDwBKrMKtXg3nMhxQZPLL"
     },
     {
       "album": {
@@ -1104,6 +1144,24 @@
       "duration_ms": 117333,
       "name": "Carteo",
       "url": "https://open.spotify.com/track/1TZhXgVbwVmPDFBTIhxkzH"
+    },
+    {
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Catch a Wave",
+      "url": "https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2"
     },
     {
       "album": {
@@ -2113,6 +2171,80 @@
     },
     {
       "album": {
+        "name": "El Sur Es Hardcore (La Venganza de los Mc's, Pt. 2)",
+        "url": "https://open.spotify.com/album/5W2QrG6W9QMYig4chAyMbU"
+      },
+      "artists": [
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        },
+        {
+          "name": "El Bruto Chr",
+          "url": "https://open.spotify.com/artist/6DclygN22D15ndBly02ejl"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Estrellas del Porno",
+          "url": "https://open.spotify.com/artist/71Wh74AX7GvBUWVf7qJUux"
+        },
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/64wBsAEPuXAjuZilVsvar3"
+        },
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "De Killtros",
+          "url": "https://open.spotify.com/artist/0dUHLXev6YWtI22rtU4TSV"
+        },
+        {
+          "name": "Big Seiko",
+          "url": "https://open.spotify.com/artist/1czm96pj8RpBGKN0BGIpst"
+        },
+        {
+          "name": "Promaabro",
+          "url": "https://open.spotify.com/artist/2uVpjcYgFjZ5egVdf8LEL1"
+        },
+        {
+          "name": "Excelencia Prehispana",
+          "url": "https://open.spotify.com/artist/0l35vP0Pl9zkdVYVoYasmQ"
+        },
+        {
+          "name": "Jotaose Lagos",
+          "url": "https://open.spotify.com/artist/04jF7S23aoFQs6rpjK4a8v"
+        },
+        {
+          "name": "Sadika",
+          "url": "https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn"
+        },
+        {
+          "name": "Mente Sabia Cr\u00fa",
+          "url": "https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396069,
+      "name": "El Sur Es Hardcore (La Venganza de los Mc's, Pt. 2)",
+      "url": "https://open.spotify.com/track/70eTVy4QG1GKENmNqrRYJo"
+    },
+    {
+      "album": {
         "name": "Eminence Front (Live At Wembley, UK / 2019)",
         "url": "https://open.spotify.com/album/2haHhluMK70wydfarjO6xX"
       },
@@ -2897,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Dare: Singles & Remixes",
+        "url": "https://open.spotify.com/album/38dDUvG4WftuwpWB4RJaLY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613253,
+      "name": "Hard Times / Love Action - Single Version / Remastered 2021",
+      "url": "https://open.spotify.com/track/551Mr9INSzPxxTJsM7NmUZ"
+    },
+    {
+      "album": {
         "name": "Scorched",
         "url": "https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu"
       },
@@ -2944,7 +3094,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203546,
       "name": "Hare Hare",
       "url": "https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp"
@@ -3042,6 +3192,36 @@
       "duration_ms": 260146,
       "name": "Heaven\u2019s On Fire - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/1a5kyYNvler2ipEArgvvys"
+    },
+    {
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/65K76QFUMHCP0OPvjTNU1i"
+      },
+      "artists": [
+        {
+          "name": "Flannan",
+          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
+        },
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114352,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/13RobC79Le8vjYWCrstoLr"
     },
     {
       "album": {
@@ -3338,7 +3518,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172398,
       "name": "I Can't Take It",
       "url": "https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg"
@@ -3396,6 +3576,24 @@
       "duration_ms": 284733,
       "name": "I Got Mine - Live at Montreux, 2007",
       "url": "https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV"
+    },
+    {
+      "album": {
+        "name": "I Inside the Old I Dying",
+        "url": "https://open.spotify.com/album/46ItYQNVmibRsjkzXIDKFs"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "I Inside the Old I Dying",
+      "url": "https://open.spotify.com/track/5l1fhxvwZBIlMqY1ZsbnNd"
     },
     {
       "album": {
@@ -3866,7 +4064,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 260469,
       "name": "Infinito Misterio",
       "url": "https://open.spotify.com/track/04UkRZqa3C5rGBXVIdOVba"
@@ -4019,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Dawn Of The Dolls (2023 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5WdHcTcTULdKFBHP2y988h"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311362,
+      "name": "Jet Boy - 2023 Re-Mastered [Studio Demo]",
+      "url": "https://open.spotify.com/track/0rbnkpMM9srEXScCqYsLBf"
+    },
+    {
+      "album": {
         "name": "The Who With Orchestra: Live At Wembley",
         "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
       },
@@ -4082,6 +4298,32 @@
       "duration_ms": 236275,
       "name": "June: Barcarolle",
       "url": "https://open.spotify.com/track/0yLHbZTxULgvFqANOd3Csz"
+    },
+    {
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/63rEPWddr5SlmqfGVUtk0O"
+      },
+      "artists": [
+        {
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        },
+        {
+          "name": "Hijos de las Hojas",
+          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
+        },
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224677,
+      "name": "Jungla",
+      "url": "https://open.spotify.com/track/76s0uCFzmJRWpELYgkqNKz"
     },
     {
       "album": {
@@ -4191,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Key to the Highway (Live at The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0Pc7Ti2YgK7xARnrmpCPZv"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392351,
+      "name": "Key to the Highway - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
+    },
+    {
+      "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/1qocDvSTyeZxCa2MbW5YcE"
       },
@@ -4256,7 +4516,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 371413,
       "name": "Knockin' On Heaven's Door - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW"
@@ -4300,6 +4560,28 @@
       "duration_ms": 122548,
       "name": "L'Chaim!",
       "url": "https://open.spotify.com/track/0ksVGwexpfFFXCGQcAEGda"
+    },
+    {
+      "album": {
+        "name": "La Hora del T\u00e9",
+        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
+      },
+      "artists": [
+        {
+          "name": "No Rim",
+          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
+        },
+        {
+          "name": "PelySayon",
+          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164825,
+      "name": "La Hora del T\u00e9",
+      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
     },
     {
       "album": {
@@ -4452,6 +4734,24 @@
       "duration_ms": 230002,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO"
+    },
+    {
+      "album": {
+        "name": "Let Go (Acoustic)",
+        "url": "https://open.spotify.com/album/0h3N4n9uc3wVQTeb05AMRW"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "Let Go (Acoustic)",
+      "url": "https://open.spotify.com/track/72QaomsCKtOkQwl8LOCNnp"
     },
     {
       "album": {
@@ -5362,7 +5662,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 289346,
       "name": "Never Dawn",
       "url": "https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg"
@@ -5688,7 +5988,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 251560,
       "name": "OTHER SIDE OF THE RAINBOW",
       "url": "https://open.spotify.com/track/5GPGVzJh1RNdR238j9FxZh"
@@ -5754,7 +6054,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188417,
       "name": "Petite Suite, Op. 1: No. 6, Serenade - Welte-Mignon 1042",
       "url": "https://open.spotify.com/track/1IFsfMi8wkRrNJgRmg3JLE"
@@ -6084,6 +6384,68 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "album": {
+        "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+        "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
+      },
+      "artists": [
+        {
+          "name": "Banlieue Ouest Mafia",
+          "url": "https://open.spotify.com/artist/617RyKCoagfMG7GCODyPU1"
+        },
+        {
+          "name": "13OR",
+          "url": "https://open.spotify.com/artist/6HQmFUDcLWaLk3ncgBfIAj"
+        },
+        {
+          "name": "Canardo",
+          "url": "https://open.spotify.com/artist/0SVNXV6d5r6CpBCpe8Fbhf"
+        },
+        {
+          "name": "Chabodo",
+          "url": "https://open.spotify.com/artist/676qdoCi12iuUewCryG7lN"
+        },
+        {
+          "name": "Gued1",
+          "url": "https://open.spotify.com/artist/6KIOLTM50RvTpqn4JCFibl"
+        },
+        {
+          "name": "HdoubleL",
+          "url": "https://open.spotify.com/artist/2Pwz3pMIbpC3XoQvB2W2nN"
+        },
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Nosiiila",
+          "url": "https://open.spotify.com/artist/7EB8insZG7vcBTXNGVYEAU"
+        },
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        },
+        {
+          "name": "Pouf-Pouf",
+          "url": "https://open.spotify.com/artist/5DAwRQzJ2z4HzaYPUZKUfw"
+        },
+        {
+          "name": "Stone Flexance",
+          "url": "https://open.spotify.com/artist/16nk2E2W59xAJSRKOrrnsJ"
+        },
+        {
+          "name": "Weedy",
+          "url": "https://open.spotify.com/artist/1lRamcQgdwHrpVsFa6nVc9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400377,
+      "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+      "url": "https://open.spotify.com/track/79hDPw6W97jutRE78kn8ik"
     },
     {
       "album": {
@@ -6476,6 +6838,28 @@
       "duration_ms": 191811,
       "name": "Run the World",
       "url": "https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC"
+    },
+    {
+      "album": {
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/4SWWsWiIcgTbRGd78uplK8"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172438,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/5nEeCaCtSoZDMlgarC3GVF"
     },
     {
       "album": {
@@ -7379,6 +7763,24 @@
     },
     {
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "album": {
         "name": "Terrible Lie",
         "url": "https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl"
       },
@@ -7621,6 +8023,24 @@
     },
     {
       "album": {
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/481waoZXsOJUES7KpHOF5G"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253573,
+      "name": "THE MASK",
+      "url": "https://open.spotify.com/track/1YUW55GXf7MgjuZL53cm5r"
+    },
+    {
+      "album": {
         "name": "Suffer in Heaven",
         "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
       },
@@ -7708,6 +8128,28 @@
       "duration_ms": 228226,
       "name": "The prophecy",
       "url": "https://open.spotify.com/track/5x731CS1YMNiSdOeX3OjVR"
+    },
+    {
+      "album": {
+        "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
+        "url": "https://open.spotify.com/album/5iIvvsxvseJ6MRoYMBjpx7"
+      },
+      "artists": [
+        {
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237031,
+      "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
+      "url": "https://open.spotify.com/track/73HYJKK2trGgRT3PqSYfOV"
     },
     {
       "album": {
@@ -8293,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "Unleashed (Live At The AFAS Live)",
+        "url": "https://open.spotify.com/album/3qVoBrfrnckLER6pzeVlfk"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361934,
+      "name": "Unleashed - Live At The AFAS Live",
+      "url": "https://open.spotify.com/track/2gaiyrkOh1h6ZGLgQzHdEC"
+    },
+    {
+      "album": {
         "name": "Unreleased (Demo)",
         "url": "https://open.spotify.com/album/44Fyqh7lEJo7BQ9rN7cx8d"
       },
@@ -8708,7 +9168,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 162356,
       "name": "What If There Were No Sides At All",
       "url": "https://open.spotify.com/track/2yzFHrj9wQLkBtF87dwIHh"

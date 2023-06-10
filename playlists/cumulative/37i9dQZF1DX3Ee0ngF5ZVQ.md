@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: William Beckmann
 
-454 songs - 1 day 3 hr 1 min
+456 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Keep up with a Cowgirl](https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Keep Up With A Cowgirl](https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg) | 3:33 | 2022-10-14 | 2023-04-15 |
 | [Know That by Now](https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Know That by Now](https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC) | 4:01 | 2022-09-23 | 2023-02-01 |
+| [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 |  |
 | [Legends](https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Legends](https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u) | 3:31 | 2022-10-28 | 2023-01-06 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-17 | 2022-03-19 |
@@ -270,7 +271,7 @@
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 | 2022-08-27 |
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
-| [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 | 2022-10-07 |  |
+| [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 | 2022-10-07 | 2023-06-10 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |
 | [Nothin' to Lose \(But the Lonely\)](https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC) | [Texwestus](https://open.spotify.com/artist/4DQpyVVZCzvcELZZR4jASN) | [Nothing to Lose](https://open.spotify.com/album/2fIeS90l8Ksy21cQ9l1yWc) | 3:44 | 2021-12-17 | 2022-07-14 |
@@ -419,7 +420,8 @@
 | [Warning Label](https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7) | [Morgan Ashley](https://open.spotify.com/artist/1367lWMUHMwzcnvgdFEVJu) | [Warning Label](https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA) | 3:42 | 2022-05-27 |  |
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-10-09 |
 | [Wasn't Her Own](https://open.spotify.com/track/35bixwNlqgab7vYz9ZEnAb) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Wasn't Her Own](https://open.spotify.com/album/5QACHd3nkQSDpX5OcVoO7o) | 4:51 | 2021-12-17 | 2022-03-19 |
-| [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 | 2023-02-24 |  |
+| [Watered Down Whiskey](https://open.spotify.com/track/5Qk8EDxYWjqlhyvGWvwuUY) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:28 | 2023-06-09 |  |
+| [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 | 2023-02-24 | 2023-06-10 |
 | [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 | 2022-05-20 |
 | [We Ain't The Only Ones](https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [We Ain't The Only Ones](https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0) | 3:24 | 2023-06-02 |  |
 | [Weatherman](https://open.spotify.com/track/10Hq7zq6OwyyNlU6aRVWqZ) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [Weatherman](https://open.spotify.com/album/22ZHQdzmigvcTeducRzmrg) | 3:45 | 2021-12-17 | 2022-02-12 |

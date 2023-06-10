@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1609131,
+  "num_followers": 1609226,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzljN2NmNGVhNWI3M2Y3Mzg5ZTRhOWZkZjUwNmFmNjM1MzBmMWU2",
+  "snapshot_id": "MCw0MDE0OWMzMTEwYTk2ZjdhOTE0YzU0MDU4NDg1YTdjNjEyNDQwMDNm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "True love (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 347713,
-      "name": "True love (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "True love (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 347713,
+      "name": "True love (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",

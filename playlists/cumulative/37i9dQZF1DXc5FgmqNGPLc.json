@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "I Cried For You",
+        "url": "https://open.spotify.com/album/3f2xuAK9DfNd2ujQKYKcbZ"
+      },
+      "artists": [
+        {
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
+        },
+        {
+          "name": "Jerome Richardson",
+          "url": "https://open.spotify.com/artist/3oLQqwPfXDOPsoP9U768OG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/3CB1D8GtpOxRE0ZhrKZXwg"
+    },
+    {
+      "album": {
         "name": "I Do It For Your Love",
         "url": "https://open.spotify.com/album/5S1AvsNiHQm4Ynt0KHdGI4"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 271520,
       "name": "Morning Glory - Live",
       "url": "https://open.spotify.com/track/4ET4KbrR2ly7diI7rnQwhc"

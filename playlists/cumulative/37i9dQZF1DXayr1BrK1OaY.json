@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
+    },
+    {
+      "album": {
         "name": "11-11",
         "url": "https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4"
       },
@@ -162,7 +188,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 222830,
       "name": "Alive (with Calle Lehmann)",
       "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
@@ -2108,7 +2134,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197471,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Y3rH662UDCRPkZe1KUOyM"
@@ -3526,7 +3552,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
@@ -3893,6 +3919,28 @@
     },
     {
       "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "album": {
         "name": "Wild Feelings",
         "url": "https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ"
       },
@@ -3912,6 +3960,32 @@
       "duration_ms": 161634,
       "name": "Wild Feelings",
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
     },
     {
       "album": {

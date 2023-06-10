@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "Afterlifer",
+        "url": "https://open.spotify.com/album/17YbIbl57XahxyBP9pTcn7"
+      },
+      "artists": [
+        {
+          "name": "JD Pinkus",
+          "url": "https://open.spotify.com/artist/3kjDglROBT39WUVvPtDSEX"
+        },
+        {
+          "name": "Tall Tall Trees",
+          "url": "https://open.spotify.com/artist/7E4RVv4JRB5EkgWFBmlcKx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301827,
+      "name": "Afterlifer",
+      "url": "https://open.spotify.com/track/5HW5jLtQTiwCIP7szHFogB"
+    },
+    {
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -814,7 +836,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
@@ -3448,7 +3470,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 286320,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX"
@@ -5204,7 +5226,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240270,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/06Csr6ofiaP6S81JYnnQtO"

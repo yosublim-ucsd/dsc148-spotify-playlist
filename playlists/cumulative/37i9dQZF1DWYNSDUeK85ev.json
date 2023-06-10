@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "El Motorcito - Remix",
       "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
@@ -4484,6 +4484,32 @@
       "duration_ms": 366812,
       "name": "Mix El Polaco - Fer Palacio",
       "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
+    },
+    {
+      "album": {
+        "name": "Mix Los Palmeras - (Fer Palacio Remix)",
+        "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593909,
+      "name": "Mix Los Palmeras (Fer Palacio Remix) El Bomb\u00f3n/ El Embrujo/ Perra/ La Cola/ Ll\u00e9vame Contigo/ Qu\u00e9 Quiere La Chola/ Sabalero",
+      "url": "https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu"
     },
     {
       "album": {
@@ -7756,7 +7782,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175733,
       "name": "TO LO D\u00cdAS ES 420",
       "url": "https://open.spotify.com/track/3FFr3Dllm8qLNtteC9IcBk"
@@ -8678,7 +8704,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177436,
       "name": "Yandel 150 | REC",
       "url": "https://open.spotify.com/track/4CUTSI945FYKQqevyfSTLk"

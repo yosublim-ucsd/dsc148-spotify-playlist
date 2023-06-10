@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 ### [EQUAL New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
 
-> Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
+> Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,810 likes - 72 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,829 likes - 72 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 71 | [Requiem](https://open.spotify.com/track/1gayETCFqhIo2HAfgQFOD9) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 4:01 |
 | 72 | [Walk Softly into the Night](https://open.spotify.com/track/2NSIBktrcGeMsp2AbbDchC) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 6:56 |
 
-Snapshot ID: `MCxiZGViNjM3NWZiNzk1MmFlMTJkNmFkYjc3ZDViNTJmYWYzZWEwYzA4`
+Snapshot ID: `MCw2YTc5MzcxNzk0YjBkM2Q4YzlmYjU1ZTY5YmNjN2RlNGZhZjc4ZmNh`

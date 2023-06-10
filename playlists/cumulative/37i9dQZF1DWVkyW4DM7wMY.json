@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Call Me Crazy",
+        "url": "https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ"
+      },
+      "artists": [
+        {
+          "name": "The Goddess Lawino",
+          "url": "https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj"
+        },
+        {
+          "name": "Nsokwa",
+          "url": "https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189411,
+      "name": "Call Me Crazy",
+      "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
+    },
+    {
+      "album": {
         "name": "Camille",
         "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
       },
@@ -432,6 +454,24 @@
       "duration_ms": 158500,
       "name": "Corporate",
       "url": "https://open.spotify.com/track/6EOG5p1ZdmfEgXxO18pJt2"
+    },
+    {
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl"
+      },
+      "artists": [
+        {
+          "name": "Original Tkay",
+          "url": "https://open.spotify.com/artist/4tDcoeTePAFYlj1H7BhIC1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF"
     },
     {
       "album": {
@@ -871,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Habibi Only Live Once",
+        "url": "https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ"
+      },
+      "artists": [
+        {
+          "name": "Aslxm",
+          "url": "https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Habibi Only Live Once",
+      "url": "https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS"
+    },
+    {
+      "album": {
         "name": "MFN",
         "url": "https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy"
       },
@@ -1032,7 +1090,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 133833,
       "name": "I Love the Way You",
       "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
@@ -1550,7 +1608,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191947,
       "name": "Love Can Turn the World",
       "url": "https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU"
@@ -2210,7 +2268,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 130923,
       "name": "Pleasure Riddim",
       "url": "https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS"
@@ -2660,7 +2718,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168344,
       "name": "Switch Energy",
       "url": "https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf"
@@ -3148,6 +3206,24 @@
       "duration_ms": 130666,
       "name": "YOU A KILLER",
       "url": "https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn"
+    },
+    {
+      "album": {
+        "name": "The World Is Spinning And Everyone's Dizzy",
+        "url": "https://open.spotify.com/album/6t4K55o91hQHeihNNNJHFl"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "You're Not Here",
+      "url": "https://open.spotify.com/track/5MnLVlRhaUIZbwFCN1uqKE"
     },
     {
       "album": {

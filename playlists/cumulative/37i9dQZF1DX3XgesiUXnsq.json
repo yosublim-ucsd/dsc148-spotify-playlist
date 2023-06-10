@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 130819,
       "name": "23 Freestyle",
       "url": "https://open.spotify.com/track/1ZRlTZT0h0e6kw2sp5avIT"
@@ -387,6 +387,36 @@
     },
     {
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288548,
+      "name": "Ain't Too Much To It",
+      "url": "https://open.spotify.com/track/3HN5EZk2zIoZdWxfLLE1E6"
+    },
+    {
+      "album": {
         "name": "Pilot Talk: Trilogy",
         "url": "https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V"
       },
@@ -398,7 +428,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171266,
       "name": "Airborne Aquaruim",
       "url": "https://open.spotify.com/track/71vuS1nprefkBeCK344TEL"
@@ -1266,7 +1296,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194136,
       "name": "Candle of the Devil",
       "url": "https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg"
@@ -1438,6 +1468,24 @@
       "duration_ms": 180440,
       "name": "Change",
       "url": "https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE"
+    },
+    {
+      "album": {
+        "name": "Chapel Hill",
+        "url": "https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi"
+      },
+      "artists": [
+        {
+          "name": "John River",
+          "url": "https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160697,
+      "name": "Chapel Hill",
+      "url": "https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj"
     },
     {
       "album": {
@@ -2655,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Since Always and Forever",
+        "url": "https://open.spotify.com/album/5LbUG3bpLruW7Hc3PkVACy"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194934,
+      "name": "Found Love",
+      "url": "https://open.spotify.com/track/6tQ5E896MerZcJ9A5kwWMD"
+    },
+    {
+      "album": {
         "name": "W13",
         "url": "https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9"
       },
@@ -2798,6 +2864,32 @@
       "duration_ms": 161942,
       "name": "Ghetto Lullaby",
       "url": "https://open.spotify.com/track/2vh2s0o28XkvhgxFo31p8p"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG"
+      },
+      "artists": [
+        {
+          "name": "Mazen",
+          "url": "https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203140,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9"
     },
     {
       "album": {
@@ -3882,6 +3974,24 @@
       "duration_ms": 201164,
       "name": "Kill Switch",
       "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
+    },
+    {
+      "album": {
+        "name": "Knockout Freestyle",
+        "url": "https://open.spotify.com/album/1OlzP8mp61u7YemKnWUQcT"
+      },
+      "artists": [
+        {
+          "name": "The SameOlds",
+          "url": "https://open.spotify.com/artist/5WX48obE0WEcKFzvJfE9QR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142889,
+      "name": "Knockout Freestyle",
+      "url": "https://open.spotify.com/track/7AS9apzc9bQ4Koq7jJx0Ax"
     },
     {
       "album": {
@@ -5686,7 +5796,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212166,
       "name": "Ra Ra",
       "url": "https://open.spotify.com/track/38ICxkglyDu31eXAMwDidr"
@@ -6072,7 +6182,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 238584,
       "name": "Royce & Reggie",
       "url": "https://open.spotify.com/track/3pABqONrhhTpJMybJBpu0G"
@@ -7344,7 +7454,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 243586,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
@@ -8220,6 +8330,32 @@
       "duration_ms": 200933,
       "name": "where's the confetti?",
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
+    },
+    {
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/08I6WZHNcZLQWy67KRVfPo"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "THE 6TH LETTER",
+          "url": "https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223001,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/3MRZMm2lD2EEIh02JEJOsk"
     },
     {
       "album": {

@@ -1,32 +1,200 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring The Chainsmokers, Harry Styles &amp; more!",
-  "num_followers": 8384,
+  "description": "Your go-to playlist for this week's hottest music featuring ROSAL\u00cdA, Harry Styles &amp; more!",
+  "num_followers": 8387,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjIzNSw2ZmIxMGQxMzkzNjhjZDVkMjY2OTk5N2QzMzU1NGI4MmE1NmEzMDk3",
+  "snapshot_id": "NjI2NCxjMGJmOWNjODA5NmExNzk0MTIyMGJiODgzYjZjZTZiNTdiMzE5NWY5",
   "tracks": [
     {
-      "added_at": "2023-06-02 04:14:33",
+      "added_at": "2023-06-09 07:20:06",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-06-09 07:19:58",
+      "album": {
+        "name": "The Hillbillies",
+        "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "The Hillbillies",
+      "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "added_at": "2023-06-09 07:20:14",
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": "2023-06-09 07:20:24",
+      "album": {
+        "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+        "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 202468,
+      "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
+    },
+    {
+      "added_at": "2023-06-09 07:20:35",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3mEhKKTKee5PmL4UwCYpqo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "duration_ms": 214639,
+      "name": "Burn The House Down",
+      "url": "https://open.spotify.com/track/1QWHZzdHL1smRptVT0tysB"
+    },
+    {
+      "added_at": "2023-06-09 07:20:43",
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Good Times Go",
+      "url": "https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy"
+    },
+    {
+      "added_at": "2023-06-09 07:20:50",
+      "album": {
+        "name": "See You in Church.",
+        "url": "https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 188679,
+      "name": "See You in Church",
+      "url": "https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE"
+    },
+    {
+      "added_at": "2023-06-09 07:21:01",
+      "album": {
+        "name": "Death Before Designer (feat. SosMula)",
+        "url": "https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        },
+        {
+          "name": "SosMula",
+          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "Death Before Designer (feat. SosMula)",
+      "url": "https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a"
+    },
+    {
+      "added_at": "2023-06-09 07:21:32",
+      "album": {
+        "name": "The Ballet Girl EP - Part 3",
+        "url": "https://open.spotify.com/album/16EqCAIgtM8N2dekKlV0PE"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Sunshine Prescription",
+      "url": "https://open.spotify.com/track/09W8xl18AjLeWcmPenmdcy"
+    },
+    {
+      "added_at": "2023-06-09 07:21:54",
+      "album": {
+        "name": "Hallelujah (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 161176,
+      "name": "Hallelujah - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12"
     },
     {
       "added_at": "2023-06-02 04:14:33",
@@ -47,70 +215,22 @@
     {
       "added_at": "2023-06-02 04:14:33",
       "album": {
-        "name": "The Other POV",
-        "url": "https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3"
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
       "artists": [
         {
-          "name": "Khloe Rose",
-          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
-        }
-      ],
-      "duration_ms": 179880,
-      "name": "The Other POV",
-      "url": "https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "Turn Off The Noise",
-        "url": "https://open.spotify.com/album/2NRizRvycomUH4nSGgRRfr"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Turn Off The Noise",
-      "url": "https://open.spotify.com/track/2882UEd8DX6ojWlUtUkH2D"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "kinamood",
-        "url": "https://open.spotify.com/album/1iInx39xZ6YaRiywJzyNp9"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Junya Shii",
-          "url": "https://open.spotify.com/artist/2LbWpxAJmKWY68tCiS69dG"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 130153,
-      "name": "when the stars fall down (feat. Junya Shii)",
-      "url": "https://open.spotify.com/track/4yttReuiH4mXHtpEKvtUDp"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "Jaycee",
-        "url": "https://open.spotify.com/album/0VVQm7eQrgPm4LCNLQZbzo"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 120397,
-      "name": "Jaycee",
-      "url": "https://open.spotify.com/track/4FvkIcLHswWkZLGyDMIhpc"
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2023-06-02 04:14:33",
@@ -143,22 +263,6 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "NO ONE'S NICE TO ME",
-        "url": "https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "HE HE",
-      "url": "https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R"
     },
     {
       "added_at": "2023-06-02 04:14:33",
@@ -263,22 +367,6 @@
     {
       "added_at": "2023-06-02 04:14:33",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -299,58 +387,6 @@
     {
       "added_at": "2023-06-02 04:14:33",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 201002,
-      "name": "Sad in the Summer (feat. Lily Rose)",
-      "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "Dancing In The Courthouse",
-        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "Digital Silence",
-        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Digital Silence",
-      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -367,38 +403,6 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
-    },
-    {
-      "added_at": "2023-06-02 04:14:33",
-      "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 204650,
-      "name": "Wagging Tongue",
-      "url": "https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ"
     }
   ],
   "unique_name": "Columbia Records: Weekly Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,478 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,557 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 6 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 7 | [revenge](https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [revenge](https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK) | 2:19 |
 | 8 | [STUNTMAN \(feat\. Vince Staples\)](https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:19 |
-| 9 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 |
+| 9 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 |
 | 10 | [UR FRIENDS](https://open.spotify.com/track/2ssSYoF2QXXDdDstZ67GJ1) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Unity Ambulette](https://open.spotify.com/artist/1LMmqUjjk9wpxBtkG7K0qF) | [UR FRIENDS](https://open.spotify.com/album/4LstSZVUvQtxsgxL7Nc06F) | 3:02 |
 | 11 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 |
 | 12 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [don't look at me!](https://open.spotify.com/track/7Jevry2udc6oqg6RNpmcl8) | [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [flowers](https://open.spotify.com/album/467a13G7qMlXJNt6W0RX5K) | 2:05 |
 | 50 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 |
 
-Snapshot ID: `MCw3ZjIyNGQzNGUzNjc4MmMzN2Y0ZWNhOWIyOGE4ZWE1ODljYzg2Y2Ni`
+Snapshot ID: `MCwxNTg3MDg5MzJjOTIwMjVmMjkyZmMwZjc0MmRjZmQ0NjIzNGEzODkx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new indie rock. Featuring new music from Beach Fossils.",
+  "description": "All new indie rock. Featuring new music from The Drums.",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -260,6 +260,24 @@
       "duration_ms": 167164,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/4AwnxHny9z5m0ZHmYSpkGq"
+    },
+    {
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "album": {
@@ -884,6 +902,24 @@
       "duration_ms": 149853,
       "name": "All Of My Cryin'",
       "url": "https://open.spotify.com/track/76EwiO2coJCvEOozvy2aPN"
+    },
+    {
+      "album": {
+        "name": "All The Way Round and Back",
+        "url": "https://open.spotify.com/album/4XMFWys98AA86Stsw848Ko"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175433,
+      "name": "All The Way Round and Back",
+      "url": "https://open.spotify.com/track/1J7FwSaCxczUgRwejPJWWH"
     },
     {
       "album": {
@@ -1722,7 +1758,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187894,
       "name": "Being Square",
       "url": "https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc"
@@ -2609,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Broke Generation",
+        "url": "https://open.spotify.com/album/7G1MMZTZWebErOTAV1taCh"
+      },
+      "artists": [
+        {
+          "name": "Retrofile",
+          "url": "https://open.spotify.com/artist/6bswxXQ3qgvkMQCRu0DKuz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227374,
+      "name": "Broke Generation",
+      "url": "https://open.spotify.com/track/7nBux2hQfUA8Ay6HtWuvud"
+    },
+    {
+      "album": {
         "name": "brokeboy",
         "url": "https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19"
       },
@@ -3038,7 +3092,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 245945,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X"
@@ -4836,7 +4890,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 126879,
       "name": "Do You Feel It?",
       "url": "https://open.spotify.com/track/0c54axqgjePfHBDx1rCNd0"
@@ -4908,7 +4962,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188243,
       "name": "don't leave me behind",
       "url": "https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB"
@@ -6450,7 +6504,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228693,
       "name": "For You",
       "url": "https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK"
@@ -6864,7 +6918,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201261,
       "name": "Ghost World",
       "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
@@ -8975,6 +9029,24 @@
     },
     {
       "album": {
+        "name": "It's Alive!",
+        "url": "https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204019,
+      "name": "It's Alive!",
+      "url": "https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879"
+    },
+    {
+      "album": {
         "name": "Santolina",
         "url": "https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz"
       },
@@ -10117,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ"
+    },
+    {
+      "album": {
         "name": "Lost Honor",
         "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
       },
@@ -10893,6 +10983,24 @@
     },
     {
       "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
       },
@@ -11318,7 +11426,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183163,
       "name": "My Year (This Is Going To Be)",
       "url": "https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL"
@@ -11340,6 +11448,24 @@
       "duration_ms": 198133,
       "name": "Need You No More",
       "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
+    },
+    {
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/2NwW0Tzme7gCSoypEx7MDO"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183362,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7jp4a5VWUXtgetIlNcIEDb"
     },
     {
       "album": {
@@ -11798,6 +11924,24 @@
       "duration_ms": 190664,
       "name": "NYE",
       "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
+    },
+    {
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb"
     },
     {
       "album": {
@@ -12408,6 +12552,24 @@
       "duration_ms": 171428,
       "name": "paul blart mall cop",
       "url": "https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B"
+    },
+    {
+      "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0"
+      },
+      "artists": [
+        {
+          "name": "Max Bennett Kelly",
+          "url": "https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148744,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k"
     },
     {
       "album": {
@@ -14590,7 +14752,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183312,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
@@ -18490,7 +18652,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213084,
       "name": "you don't think about me",
       "url": "https://open.spotify.com/track/7zYgEjgM8wp0m1e3qsFFDS"

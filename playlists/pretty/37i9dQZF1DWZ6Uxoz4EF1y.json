@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 134378,
+  "num_followers": 134539,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTdkZDQwNWJiOGUyMTk2ZjliNTc4NzQxOTVlYWJiNTk2Mjc3YjQ1",
+  "snapshot_id": "MCwzOGIzYWI5YTE1NTRkNmZhNWQ2OTBkNzg4YWM5MjI0OTgyOTkzYjBj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -139,18 +139,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ll\u00e9vame A La Cruz",
-      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+      "duration_ms": 260000,
+      "name": "Ll\u00e9vame A La Cruz",
+      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Un Milagro",
         "url": "https://open.spotify.com/album/5tlhE2ctP9RfbKqj7S8j1C"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 282106,
       "name": "Jes\u00fas, Has Mi Car\u00e1cter",
       "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "La Compilaci\u00f3n",
         "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 245893,
       "name": "Iglesia",
       "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Mi Refugio",
-        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 286906,
-      "name": "Mi Refugio",
-      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+        "name": "Mi Refugio",
+        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 444330,
-      "name": "Digno",
-      "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
+      "duration_ms": 286906,
+      "name": "Mi Refugio",
+      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Marco Barrientos Auditorio Nacional",
+        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "No hay Nadie Como t\u00fa",
+      "url": "https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "En Esto Creo (Live)",
         "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
@@ -587,42 +603,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Mi Shalom",
-        "url": "https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz"
-      },
-      "artists": [
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Graciela Galmes",
-          "url": "https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r"
-        }
-      ],
-      "duration_ms": 420773,
-      "name": "Mi Shalom",
-      "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Marco Barrientos Auditorio Nacional",
-        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "No hay Nadie Como t\u00fa",
-      "url": "https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mi Shalom",
+        "url": "https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Graciela Galmes",
+          "url": "https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r"
+        }
+      ],
+      "duration_ms": 420773,
+      "name": "Mi Shalom",
+      "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Colecci\u00f3n de Danilo Montero",
-        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Cantar\u00e9 de Tu Amor",
-      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -715,22 +699,34 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Toma Tu Lugar",
-        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 425640,
-      "name": "Atrae Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Colecci\u00f3n de Danilo Montero",
+        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Cantar\u00e9 de Tu Amor",
+      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+        "name": "Toma Tu Lugar",
+        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
         }
       ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+      "duration_ms": 425640,
+      "name": "Atrae Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
-      },
-      "artists": [
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "Beso Tus Pies",
-      "url": "https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 312084,
       "name": "Mi Cristo Vive",
       "url": "https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        }
+      ],
+      "duration_ms": 288813,
+      "name": "Beso Tus Pies",
+      "url": "https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Muerte Por Vida",
-        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
-      },
-      "artists": [
-        {
-          "name": "Belen Losa",
-          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
-        }
-      ],
-      "duration_ms": 368683,
-      "name": "Muerte Por Vida",
-      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 468529,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Muerte Por Vida",
+        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
+      },
+      "artists": [
+        {
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+        }
+      ],
+      "duration_ms": 368683,
+      "name": "Muerte Por Vida",
+      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
     },
     {
       "added_at": "2023-04-09 08:31:46",

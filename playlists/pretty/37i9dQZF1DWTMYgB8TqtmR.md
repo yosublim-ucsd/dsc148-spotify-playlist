@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,360 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,531 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 9 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 |
 | 10 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 |
 | 11 | [Grät](https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Grät](https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp) | 3:14 |
-| 12 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
+| 12 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
 | 13 | [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 |
 | 14 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 15 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 |
 | 50 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 
-Snapshot ID: `MCw2YWJkYmYxNmQ4N2VjYmFiYTdhNWFjYTY5YTcxYzIwN2Q3OThmNDNm`
+Snapshot ID: `MCwzZWFiNzMyY2NmNDU2N2YzNmYwNjVhYjU1ODUzM2MzZmY5NDFlNzJj`

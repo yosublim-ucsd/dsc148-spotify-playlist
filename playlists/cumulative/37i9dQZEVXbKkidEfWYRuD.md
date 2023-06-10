@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,117 songs - 2 day 3 hr 51 min
+1,118 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [OLALA](https://open.spotify.com/track/3x07zKO2T4OcRq0AjE2Oac) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:22 | 2021-05-29 | 2021-07-18 |
 | [On Air](https://open.spotify.com/track/0cA2tOtWclFcismhk81gFv) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:15 | 2022-08-13 | 2022-08-16 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-01 | 2022-06-12 |
+| [Oneshot](https://open.spotify.com/track/0C6x0RfCh5adj4rm8zH9WK) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [Oneshot](https://open.spotify.com/album/6GVz07AsnmPhQrW6j1d9Y0) | 2:32 | 2023-06-09 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-08-30 | 2021-08-31 |
 | [OVERHEAVEN](https://open.spotify.com/track/37GixdIXusxU3cn3Yfg6OK) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [OVERHEAVEN](https://open.spotify.com/album/7cGzRGiEgrRcSjuFPMvjZx) | 2:10 | 2022-12-31 | 2023-01-02 |
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-02-26 | 2022-03-22 |
@@ -480,7 +481,7 @@
 | [Slime Love](https://open.spotify.com/track/36W02sCbiFy6lQTEHCV7Ci) | [uglystephan archive](https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ) | [Slime Love](https://open.spotify.com/album/0CztyGcRJxeiQxekV49lst) | 3:08 | 2021-07-28 | 2021-08-29 |
 | [Slip & Slide](https://open.spotify.com/track/4vvkdSOfuve7DBxsrVzVDP) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 1:54 | 2021-10-23 | 2021-12-15 |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-03-27\* | 2021-04-18 |
-| [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2023-06-06 |  |
+| [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2023-06-06 | 2023-06-10 |
 | [Smells Like Teen Spirit \- Remastered](https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ) | 5:00 | 2023-03-18 | 2023-06-07 |
 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-15 | 2023-04-15 |
 | [SMOKE IT OFF!](https://open.spotify.com/track/38ZskbGWFp79YXpjIT7hfs) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/72fSHT2Wo8DPHGlBvnYAKg) | 2:04 | 2023-01-11 | 2023-01-29 |
@@ -790,7 +791,7 @@
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |
 | [КОГДА НАС ОТПУСТИТ](https://open.spotify.com/track/7EhsIpv1vEaclEeP19gbMu) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:49 | 2021-05-30 | 2021-06-05 |
 | [Кожура](https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:23 | 2021-12-21 | 2022-04-08 |
-| [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/album/60aTeuGmFgPoSkg2kgnriU) | 2:12 | 2023-03-11 | 2023-06-09 |
+| [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/album/60aTeuGmFgPoSkg2kgnriU) | 2:12 | 2023-03-11 |  |
 | [Коли ми двоє](https://open.spotify.com/track/1GTBE5eOLsQxO3p3Rltdp9) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Коли ми двоє](https://open.spotify.com/album/5f3MMCcdkFZvCd9Bcv5Ddw) | 4:06 | 2023-05-22 |  |
 | [Колхозник](https://open.spotify.com/track/19guFw87TvSkoxnC9EBu2Y) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Круг Ветров](https://open.spotify.com/album/4IorcRs4Rk7HXLbfjGpV6a) | 2:38 | 2021-03-30 | 2021-04-02 |
 | [Колёса 2](https://open.spotify.com/track/5Y5R8Xmj96re9Z6bqam7gA) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 3:11 | 2021-04-29 | 2021-04-30 |
@@ -1124,6 +1125,6 @@
 | [Ящик](https://open.spotify.com/track/7uzOXyjNgbyYjrYpmeAjsN) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Ящик](https://open.spotify.com/album/3jY7BEOadfEujvpG2g2lm6) | 3:27 | 2021-11-21 | 2021-11-25 |
 | [Імперії впадуть](https://open.spotify.com/track/1t0gvj21K9Fscs5fxm4UJ9) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Імперії впадуть](https://open.spotify.com/album/1TqtbPIimI2tdzotfacuku) | 5:05 | 2021-11-21 | 2021-11-22 |
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
-| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 |  |
+| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-06-10 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

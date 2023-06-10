@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain]
 
 > Introducing the Frequency Wellness Wave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,553 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,556 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwzNDQyNDEwZGQ3YjQ4MWVkNjRhMjY3NzIwYzAwNTVmMjljOWZjMDli`
+Snapshot ID: `MCwzM2FhYzdjYmJjOTU1MzhkZjczOWZkNTg5ZjJiODBhY2M1NjM5NWFi`

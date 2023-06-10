@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7607,
+  "num_followers": 7619,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjZlYTMxMzg0N2I4NjRjYTBhMGFiYTA0MjdhNDI2MTBlMjRjZjVm",
+  "snapshot_id": "MCw3MWM3Y2JhNThiNzc0MWEzZDBhYzdjYmNjZDc1MDhhZThiMmUxYWFl",
   "tracks": [
     {
       "added_at": "2023-05-31 15:48:13",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-31 15:48:13",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
+    },
+    {
+      "added_at": "2023-05-31 15:48:13",
+      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 225125,
       "name": "busy guy",
       "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
-    },
-    {
-      "added_at": "2023-05-31 15:48:13",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
     }
   ],
   "unique_name": "\uc378",

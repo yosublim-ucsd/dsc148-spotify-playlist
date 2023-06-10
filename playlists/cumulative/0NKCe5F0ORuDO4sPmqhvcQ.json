@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+        "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292527,
+      "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+      "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
+    },
+    {
+      "album": {
         "name": "DIAMOND TAPE",
         "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
       },

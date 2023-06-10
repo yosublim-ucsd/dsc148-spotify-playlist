@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
@@ -9438,7 +9438,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
@@ -13794,7 +13794,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -15501,6 +15501,28 @@
     },
     {
       "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/3PdWWdcAeNrvK2vyAPXXqs"
+      },
+      "artists": [
+        {
+          "name": "EFETE",
+          "url": "https://open.spotify.com/artist/2r3wU1ei8dN7KQQQ9fjkKj"
+        },
+        {
+          "name": "Damenace",
+          "url": "https://open.spotify.com/artist/1lxLs4DeHnpTm1EXG1jMZp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Sigo Aqui",
+      "url": "https://open.spotify.com/track/3Gby2tYYVxfcWaorzgWecj"
+    },
+    {
+      "album": {
         "name": "SILVER TOOTH.",
         "url": "https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY"
       },
@@ -15800,7 +15822,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 148000,
       "name": "Solo Tu Y Yo",
       "url": "https://open.spotify.com/track/79IcxcNr3Ddgwi5ux9UiAQ"
@@ -15910,7 +15932,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 84804,
       "name": "Sonido de Grillo para dormir - 2",
       "url": "https://open.spotify.com/track/5IEHwWZqTYOjKkyaPY6137"
@@ -16612,6 +16634,24 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "The World Is Mine",
+        "url": "https://open.spotify.com/album/0nJ8vP6SNGyINePsl6GdlG"
+      },
+      "artists": [
+        {
+          "name": "El Marci",
+          "url": "https://open.spotify.com/artist/4bJuppq8R7GPtZfc8W7wx2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145449,
+      "name": "Teteo",
+      "url": "https://open.spotify.com/track/1rnTP7ptxaj0rq2Iyc4Ufv"
     },
     {
       "album": {
@@ -18024,7 +18064,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 253753,
       "name": "Vivir\u00e9",
       "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"

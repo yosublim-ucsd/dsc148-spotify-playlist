@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-310 songs - 19 hr 45 min
+311 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 6:19 | 2021-10-22 | 2022-07-27 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 | 2022-05-27 | 2022-11-13 |
 | [Let No Grief](https://open.spotify.com/track/3R2sknZVO963iQknjhDwru) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 4:34 | 2021-10-22 | 2022-07-29 |
+| [Light That Match](https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Light That Match](https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx) | 3:02 | 2023-05-19 |  |
 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-09-16 |  |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-11-24 | 2022-07-27 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-05-27 | 2022-10-13 |
@@ -218,7 +219,7 @@
 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 | 2021-10-22 | 2022-07-20 |
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-22 |  |
 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2021-10-22 | 2023-05-15 |
-| [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 | 2022-05-27 |  |
+| [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 | 2022-05-27 | 2023-06-10 |
 | [Sometimes A Woman Is An Island](https://open.spotify.com/track/2mg0CevWw06dqAlUZRdDEY) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:13 | 2021-10-22 | 2022-07-11 |
 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 | 2021-10-22 | 2022-07-29 |
 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 | 2021-10-22 |  |

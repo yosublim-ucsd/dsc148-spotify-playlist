@@ -1,33 +1,13 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 554507,
+  "num_followers": 554668,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODliN2I2YjczYjQ5N2EwN2I2OGNlNDA4ZWU3NmU0ODNhMGM5ZWMx",
+  "snapshot_id": "MCw1MzMzMmNkYzdmZjBhYzkwMWZiMDA0MzU1ZWE1OWZiNzIxZDBmOTcz",
   "tracks": [
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Dots and Thoughts",
-        "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        }
-      ],
-      "duration_ms": 205334,
-      "name": "Diamond Exchange",
-      "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
-    },
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Dots and Thoughts",
+        "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "duration_ms": 205334,
+      "name": "Diamond Exchange",
+      "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
     },
     {
       "added_at": "2023-01-20 05:01:00",
@@ -81,24 +81,20 @@
       "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
     },
     {
-      "added_at": "2023-05-26 04:01:00",
+      "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Roam",
-        "url": "https://open.spotify.com/album/0Mn1ugrdTJrahOlEVKB3FR"
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
       },
       "artists": [
         {
           "name": "Keeth",
           "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
-        },
-        {
-          "name": "Garrett Podgorski",
-          "url": "https://open.spotify.com/artist/2ssaFxujFnzCZKWN2JFtor"
         }
       ],
-      "duration_ms": 127423,
-      "name": "Roam",
-      "url": "https://open.spotify.com/track/0Wjb5wqHsRmsF8UI4XG3aj"
+      "duration_ms": 140838,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -295,6 +291,26 @@
       "duration_ms": 133780,
       "name": "Consolation Prizes",
       "url": "https://open.spotify.com/track/6gYAzrvbcd9eoA5igOW8Qp"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Roam",
+        "url": "https://open.spotify.com/album/0Mn1ugrdTJrahOlEVKB3FR"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "Garrett Podgorski",
+          "url": "https://open.spotify.com/artist/2ssaFxujFnzCZKWN2JFtor"
+        }
+      ],
+      "duration_ms": 127423,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/0Wjb5wqHsRmsF8UI4XG3aj"
     },
     {
       "added_at": "2022-12-09 05:00:00",

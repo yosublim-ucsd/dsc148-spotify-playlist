@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks's exclusive sound pack for <a href=“https://soundtrap.com”>Soundtrap, </a>  Spotify’s digital music studio for songwriters and beat makers.
+> The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
 1,061 songs - 2 day 17 hr 3 min
 

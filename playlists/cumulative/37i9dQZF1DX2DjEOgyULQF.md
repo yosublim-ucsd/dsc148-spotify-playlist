@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-124 songs - 6 hr 11 min
+127 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2023-04-28 |  |
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2023-04-28 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 |  |
+| [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 | 2023-06-09 |  |
 | [Bucolia](https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Bucolia](https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D) | 4:14 | 2023-04-28 |  |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2023-04-28 |  |
 | [Calmed by Warm Waters](https://open.spotify.com/track/3mWmH6nNL76C1XZTliqMd7) | [MALTA PROJECT](https://open.spotify.com/artist/5B7ADRhLSbaat7jHheA9YF) | [The Dwelling Place](https://open.spotify.com/album/3hiRwsgc4MzGqKbS45TJpN) | 3:19 | 2023-04-28 |  |
@@ -73,6 +74,7 @@
 | [Melville \(Meditation\)](https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:39 | 2023-04-28 |  |
 | [Metamorphosis](https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:24 | 2023-04-28 |  |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 |  |
+| [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 |  |
 | [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 |  |
 | [Natural Healing](https://open.spotify.com/track/4xqHr91EEXm4qhnEeju02d) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Natural Healing](https://open.spotify.com/album/724HzfOLKOY1i1vx0f6ziy) | 3:33 | 2023-04-28 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2023-04-28 |  |
@@ -90,6 +92,7 @@
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 |  |
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 |  |
 | [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 |  |
+| [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 |  |
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 |  |
 | [Resting Awareness](https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Resting Awareness](https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd) | 3:02 | 2023-04-28 |  |
 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 | 2023-06-02 |  |

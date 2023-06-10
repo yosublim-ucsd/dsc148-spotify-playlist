@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Chino Pacas en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
@@ -1179,6 +1179,32 @@
     },
     {
       "album": {
+        "name": "DDM Anthem",
+        "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Brianshredz",
+          "url": "https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o"
+        },
+        {
+          "name": "Kevin Cortez",
+          "url": "https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258726,
+      "name": "DDM Anthem",
+      "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
+    },
+    {
+      "album": {
         "name": "De Lunes A Viernes",
         "url": "https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir"
       },
@@ -1242,6 +1268,32 @@
       "duration_ms": 209367,
       "name": "Delivery",
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
+    },
+    {
+      "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
     },
     {
       "album": {
@@ -1952,7 +2004,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172026,
       "name": "El Que Le Gusta Ayudar",
       "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
@@ -2181,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177656,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
+    },
+    {
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
       },
@@ -2272,7 +2342,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164455,
       "name": "Forjando Mi Historia",
       "url": "https://open.spotify.com/track/7ly3nWgGdDIoec14iLl1Jq"
@@ -3379,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Me Escojo A Mi",
+        "url": "https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168963,
+      "name": "Me Escojo A Mi",
+      "url": "https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr"
+    },
+    {
+      "album": {
         "name": "Me Gusta Mi Vida",
         "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
       },
@@ -4259,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
@@ -4774,7 +4888,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144917,
       "name": "Seguimos Bateando - En Vivo",
       "url": "https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw"
@@ -5100,7 +5214,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 148624,
       "name": "Sin Rencores",
       "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
@@ -5979,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "Yo Prefer\u00ed Chambear",
+        "url": "https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155245,
+      "name": "Yo Prefer\u00ed Chambear",
+      "url": "https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN"
+    },
+    {
+      "album": {
         "name": "Yo Vengo de Abajo",
         "url": "https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m"
       },
@@ -6020,7 +6152,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo:  GreenWoodz",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Miro",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -378,6 +378,24 @@
       "duration_ms": 205442,
       "name": "24 Gang",
       "url": "https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX"
+    },
+    {
+      "album": {
+        "name": "25 G",
+        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "25 G",
+      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
     },
     {
       "album": {
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 151357,
       "name": "As de coeur",
       "url": "https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa"
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -6396,7 +6414,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
@@ -10225,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Entra\u00eenement",
+        "url": "https://open.spotify.com/album/6GgPeChCZx7cIGevn1V7OE"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Entra\u00eenement",
+      "url": "https://open.spotify.com/track/0Gy0tiXcLQV8vUvBFNMD86"
+    },
+    {
+      "album": {
         "name": "Entre ici et les jours heureux",
         "url": "https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R"
       },
@@ -10760,6 +10796,28 @@
       "duration_ms": 163902,
       "name": "F.E",
       "url": "https://open.spotify.com/track/5jOZLxihqc6xthIVzZMUmI"
+    },
+    {
+      "album": {
+        "name": "F.I.N.I",
+        "url": "https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq"
+      },
+      "artists": [
+        {
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "F.I.N.I",
+      "url": "https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf"
     },
     {
       "album": {
@@ -12006,7 +12064,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220933,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/4DMv4ucHwmZbHikt3n6XV2"
@@ -19949,6 +20007,24 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/1I4bMOQOUlsY0xKjUST02G"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194531,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6bxIp0kZ4aanaMp75Qtr2i"
+    },
+    {
+      "album": {
         "name": "Life Style",
         "url": "https://open.spotify.com/album/29258GNVuTOf7ibC0CazYH"
       },
@@ -20672,7 +20748,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190973,
       "name": "M'enfer",
       "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
@@ -22316,6 +22392,24 @@
       "duration_ms": 172134,
       "name": "Mon alli\u00e9",
       "url": "https://open.spotify.com/track/5ME26hIRIOBmaJEvqN63W9"
+    },
+    {
+      "album": {
+        "name": "Grand Eug\u00e8ne",
+        "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189300,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4586PHt3JWkwRLr6pU4Myf"
     },
     {
       "album": {
@@ -24546,6 +24640,24 @@
       "duration_ms": 190186,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/7sxlv3kB4pS4ue5WIyW9yu"
+    },
+    {
+      "album": {
+        "name": "Oubli\u00e9",
+        "url": "https://open.spotify.com/album/6jSW1dSoR0COy90x1jRESX"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157320,
+      "name": "Oubli\u00e9",
+      "url": "https://open.spotify.com/track/2llnhMlIcj048n4XFlT0RE"
     },
     {
       "album": {
@@ -35952,7 +36064,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155993,
       "name": "\u00c0 contresens",
       "url": "https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV"

@@ -1,12 +1,12 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Tauren Wells",
-  "num_followers": 428194,
+  "num_followers": 428259,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWZlZmE1YWVlNjdmOTVhOGNkMjZlOTFlZTZkMzhiMzE0ZGY3YzQ3",
+  "snapshot_id": "MCw1M2ViMjM4ZTE2OThiYjBlNWUwNGYxMTc3NmFmNGM2ZmQ3MWMxYjIz",
   "tracks": [
     {
       "added_at": "2023-06-01 23:38:04",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-01 23:38:04",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -724,22 +724,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Shot For Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
@@ -751,6 +735,22 @@
       "duration_ms": 250836,
       "name": "Tim McGraw - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Shot For Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -852,22 +852,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
       "artists": [
@@ -879,6 +863,22 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1116,22 +1116,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
       },
       "artists": [
@@ -1143,6 +1127,22 @@
       "duration_ms": 147427,
       "name": "7 Years (Acoustic) - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 250801,
+      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1372,22 +1372,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
       "artists": [
@@ -1399,6 +1383,22 @@
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1636,22 +1636,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 178794,
-      "name": "Location - Live from Spotify",
-      "url": "https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -1663,6 +1647,22 @@
       "duration_ms": 194480,
       "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
       "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 178794,
+      "name": "Location - Live from Spotify",
+      "url": "https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1732,22 +1732,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
       },
       "artists": [
@@ -1779,6 +1763,22 @@
       "duration_ms": 301144,
       "name": "Cry Me a River - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1872,22 +1872,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 198629,
-      "name": "lovely - Spotify Singles",
-      "url": "https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
@@ -1899,6 +1883,22 @@
       "duration_ms": 173482,
       "name": "so into you - Spotify Singles",
       "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 198629,
+      "name": "lovely - Spotify Singles",
+      "url": "https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2068,22 +2068,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 268566,
-      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
       "artists": [
@@ -2095,6 +2079,22 @@
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 268566,
+      "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2164,17 +2164,33 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+      "duration_ms": 208888,
+      "name": "A Whiter Shade Of Pale - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6AcYLHkLDFn6qcZiPS6xNc"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2196,38 +2212,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Hallelujah - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 208888,
-      "name": "A Whiter Shade Of Pale - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6AcYLHkLDFn6qcZiPS6xNc"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
       },
       "artists": [
@@ -2239,6 +2223,22 @@
       "duration_ms": 205738,
       "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2408,22 +2408,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 164509,
-      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
       },
       "artists": [
@@ -2435,6 +2419,22 @@
       "duration_ms": 190927,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 164509,
+      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
     },
     {
       "added_at": "2023-06-01 23:38:04",

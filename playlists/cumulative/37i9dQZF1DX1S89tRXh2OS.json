@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 252950,
       "name": "America",
       "url": "https://open.spotify.com/track/2pyA5g5GLsJgetJGc1mwlF"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218706,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/4YeKAwFn69ehnciOfi7Sbf"
@@ -236,6 +236,24 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "album": {
@@ -549,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Heaven in a World so Cold",
+        "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165430,
+      "name": "Fingertips",
+      "url": "https://open.spotify.com/track/5IehiPW5EHa4fmqTmU8dF3"
+    },
+    {
+      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -766,7 +802,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 242520,
       "name": "In This World",
       "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH"
@@ -1710,6 +1746,24 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/4bArJbevzjgIfbPupg9GEl"
     },
     {
       "album": {

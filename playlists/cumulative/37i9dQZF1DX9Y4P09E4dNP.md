@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-110 songs - 8 hr 44 min
+111 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 | 2022-03-10 |  |
 | [Maba](https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ) | [Ex Doe](https://open.spotify.com/artist/5UTvTjvwBMdcgqBBVHN57S) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 3:32 | 2020-02-20 | 2022-03-10 |
 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 | 2022-02-10 | 2023-02-11 |
-| [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 |  |
+| [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 | 2023-06-10 |
 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 | 2022-05-19 | 2023-02-04 |
 | [Medo](https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e) | 4:52 | 2020-02-20 | 2022-07-27 |
 | [Medo](https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht) | 4:52 | 2020-02-20 | 2022-11-13 |
@@ -115,6 +115,7 @@
 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 | 2020-02-20 |  |
 | [Wo Sisi Ye Woya](https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF) | [T Blaze](https://open.spotify.com/artist/5WUHEAVt0NS7Zm0foNjiPX) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:04 | 2020-02-20 | 2022-07-27 |
 | [Wokye \(feat\. Lazy Dogg\)](https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm), [Lazy Dogg](https://open.spotify.com/artist/4YvXEljlIeW6g6irD5x2HV) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:20 | 2020-02-20 | 2022-04-20 |
+| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 |  |
 | [Yahooya \(feat\. Batman\)](https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl) | [Madfish](https://open.spotify.com/artist/1gqY62fiIU5MYeIy12oazi), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:53 | 2020-02-20 | 2022-07-27 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2020-02-20 |  |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Christine & The Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,598 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,625 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 1 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 2 | [Flimsier](https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Flimsier](https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN) | 3:59 |
 | 3 | [After The Flash](https://open.spotify.com/track/4eJ8NYk3p9lx5I0q9xt3rI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 5:34 |
 | 4 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Undergrowth](https://open.spotify.com/track/31zmH5Bcd0CDRxcdw2M23D) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Undergrowth](https://open.spotify.com/album/6stBQmw0qjPeRjLnvypEn7) | 6:35 |
 | 100 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 
-Snapshot ID: `MCxhZTBjMGVhMjBjMjRmNWY5MWQ0NjYyYmYwODRkYzlhNWE1MGRmYmEx`
+Snapshot ID: `MCxiNmM5MTZjNGE3YWUzMmZmMWU5OTVhOTM3YmNjYmVkMmRjNjQzYjc5`

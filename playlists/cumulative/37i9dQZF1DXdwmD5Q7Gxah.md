@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: Ryan Beatty
+> All the indescribable feelings that music gives you\. cover: The Beaches
 
-2,253 songs - 5 day 1 hr 14 min
+2,257 songs - 5 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-12 | 2021-11-13 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-07 | 2022-04-09 |
 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2022-05-31 | 2022-06-22 |
+| [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-09 |  |
 | [ANGEL FANGS](https://open.spotify.com/track/08qb0NthjRwcBNe7sa0cDR) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [ANGEL FANGS](https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs) | 2:17 | 2020-07-31 | 2020-09-10 |
 | [Angel Landing](https://open.spotify.com/track/1ri3NFmrk6qbTMAHZGJhSg) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Angel Landing](https://open.spotify.com/album/6O95QXgfXKDbt3qxfTdaO4) | 3:52 | 2020-10-30 | 2020-12-04 |
 | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX) | 3:09 | 2023-01-20 | 2023-02-16 |
@@ -211,6 +212,7 @@
 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-07-21 | 2022-07-30 |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-22 |
 | [bellyache](https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:59 | 2019-07-30\* | 2019-08-02 |
+| [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-09 |  |
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2020-08-20 |
 | [Benton Way](https://open.spotify.com/track/3oqWLWCwo8LMbmA2TYtBow) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:35 | 2019-12-14 | 2020-03-13 |
 | [Best Friend](https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:44 | 2021-05-12 | 2021-07-31 |
@@ -1759,6 +1761,7 @@
 | [SMS](https://open.spotify.com/track/5XbjOF5ZS68w1PhLiF7Iku) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:52 | 2021-01-29 | 2021-05-12 |
 | [Snail](https://open.spotify.com/track/3qR0txhV0ztr0hNUJGAOG6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Snail](https://open.spotify.com/album/7sHwSoFWCWTdXe45t0vC27) | 3:00 | 2020-08-12 | 2021-01-12 |
 | [Snail \(feat\. Chloe Moriondo\)](https://open.spotify.com/track/6wZRVdKVHHSEHiAyTcwtV2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:50 | 2020-03-27 | 2020-04-22 |
+| [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 | 2023-06-09 |  |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 | 2022-10-29 |
 | [So Cold](https://open.spotify.com/track/29HrrHM34pVEPe1WXgT5Bs) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:51 | 2021-07-10 | 2021-12-02 |
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-28 | 2022-10-13 |
@@ -2176,6 +2179,7 @@
 | [Why Do People Grow \(Long for the Day When I Had That Flip Phone\)](https://open.spotify.com/track/5S4AhOB0NSbP8lwq8tH752) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow, Vol\. 2](https://open.spotify.com/album/4gPGEC5zbMQb2DbUdtREmB) | 3:00 | 2020-04-03 | 2020-04-22 |
 | [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 | 2022-09-23 | 2022-10-29 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-01-29 | 2021-02-06 |
+| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-06-09 |  |
 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-14 | 2023-02-16 |
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 | 2023-04-25 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2021-11-13 |

@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-243 songs - 14 hr 58 min
+244 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-11-11 | 2023-03-11 |
 | [Joga No Meio Da Rua](https://open.spotify.com/track/2T0GTIJvjnJZN5uZfx6Fwu) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Sempre Seremos Culpados](https://open.spotify.com/album/3lbtvP29x8hYAP0wbF0fRX) | 2:02 | 2022-08-12 | 2022-09-10 |
 | [Judged](https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Judged](https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG) | 1:39 | 2022-01-14 | 2022-01-29 |
-| [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 | 2022-01-14 |  |
+| [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 | 2022-01-14 | 2023-06-10 |
 | [Kick Me](https://open.spotify.com/track/4G7LvQlEpqqdinVSSfi8Mb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Kick Me](https://open.spotify.com/album/7zcJlkd6eLOiAP2FeMyzOE) | 3:37 | 2022-07-01 | 2022-07-30 |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2022-01-14 |  |
 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 | 2022-01-14 |  |
@@ -124,6 +124,7 @@
 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 | 2022-01-14 |  |
 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 | 2022-07-01 | 2023-04-22 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2022-01-14 | 2022-02-05 |
+| [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 | 2023-06-09 |  |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2022-01-14 |  |
 | [Looking Tragic](https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Looking Tragic / Begging For Trouble](https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74) | 2:37 | 2022-01-14 | 2023-02-25 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-416 songs - 1 day 0 hr 1 min
+417 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 | 2022-02-08 | 2022-07-17 |
 | [Aún](https://open.spotify.com/track/2PEN6bvS0mmt0BMvDP7id3) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm) | [Aún](https://open.spotify.com/album/1hKl1aqGMv3sx5g98fqdw3) | 3:27 | 2022-03-29 | 2022-04-16 |
 | [Babel](https://open.spotify.com/track/20G5CFb10eulCPFSLTIpt8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Babel](https://open.spotify.com/album/07i1aBWmIFnWK5yRQDu3Gk) | 4:18 | 2022-05-06 | 2022-05-08 |
+| [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 | 2023-06-09 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-07-15 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2022-03-24 | 2022-04-16 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2022-03-29 | 2023-04-21 |
@@ -316,7 +317,7 @@
 | [Puntos Transparentes](https://open.spotify.com/track/4o5ktHevqmW6QHdlImUGxt) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe) | [Sie7e](https://open.spotify.com/album/3MWypGfaEAZZ6gOOayxPsG) | 3:08 | 2022-03-24 | 2022-05-12 |
 | [Que Digan Lo Que Quieran](https://open.spotify.com/track/4TuycxwtwAhVkpWGxQLMQH) | [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Turmalina](https://open.spotify.com/album/6KokFpa9EX8x1w9zNp49AM) | 3:54 | 2022-03-24 | 2022-04-20 |
 | [Que No Me Pierda](https://open.spotify.com/track/1hddbV736FaAFxMho50n75) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 5:05 | 2022-03-24 | 2022-04-20 |
-| [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-14 |  |
+| [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-14 | 2023-06-10 |
 | [Que Suerte Tiene El](https://open.spotify.com/track/1Pc4HQCKJbvDoCdC0TqR4P) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La Vida Al Viento](https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp) | 3:22 | 2022-02-08 | 2022-07-29 |
 | [Quedate Conmigo](https://open.spotify.com/track/55rH1UUC6WFiHhEY1vxnUf) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Quédate Conmigo](https://open.spotify.com/album/4EYlb0ZXGrnqxykHQUO3Wf) | 3:28 | 2022-02-08 | 2022-07-24 |
 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 | 2022-02-08 | 2022-07-29 |

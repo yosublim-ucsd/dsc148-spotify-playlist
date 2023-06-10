@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-167 songs - 13 hr 38 min
+169 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,11 @@
 | [Gemati](https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG) | 4:38 | 2022-11-14 | 2023-02-15 |
 | [Gemati](https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d) | 4:38 | 2023-02-09 |  |
 | [Gerombolan Mantan](https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Gerombolan Mantan](https://open.spotify.com/album/3Gs9Z8x3X9dj00lJ5eLHVb) | 3:21 | 2023-03-02 |  |
+| [Ginio](https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ginio](https://open.spotify.com/album/5Za62voFdJjkyIe3AtUYhl) | 5:55 | 2023-06-09 |  |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 |  |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |
 | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/album/2KefeoP3xev9BYBtpzE8Ay) | 4:38 | 2023-03-06 |  |
+| [Janji Temani](https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Janji Temani](https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN) | 4:16 | 2023-06-09 |  |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
 | [Kalih Welasku](https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX) | 5:04 | 2023-03-09 |  |
 | [KALIH WELASKU](https://open.spotify.com/track/7AtjD8ykb3pROEkYwrbJ1z) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KALIH WELASKU](https://open.spotify.com/album/6g6l8WDLfmkUnHyQKxMBXo) | 5:28 | 2023-03-15 |  |

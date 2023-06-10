@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: WurtS
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,813 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,863 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 13 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 |
 | 14 | [さびしくなかった](https://open.spotify.com/track/5fWSVyq6kagKHex5EHBO85) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 4:30 |
 | 15 | [らりらりらん](https://open.spotify.com/track/2poGMUj2CSBTzsVNMxkCpm) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [らりらりらん](https://open.spotify.com/album/7G4ECKkC7XBgxmBQondoj1) | 2:39 |
-| 16 | [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 |
+| 16 | [calcium](https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH) | 3:35 |
 | 17 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
 | 18 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 |
 | 19 | [Umbrella](https://open.spotify.com/track/2MDLGy4BtseAtlT9dg3cyK) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Umbrella](https://open.spotify.com/album/5EgJyYoXZV2A9J0XaNoRU4) | 3:37 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 83 | [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 |
 | 84 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 |
 | 85 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 |
-| 86 | [FRESH](https://open.spotify.com/track/03y9cmDvorte1vYP5PYkzM) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/7pEhMISZ0qA1CZWkrcGxYM) | 3:41 |
+| 86 | [FRESH](https://open.spotify.com/track/2fo7LTsIyhYkhpLC7KStNg) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 3:41 |
 | 87 | [harunosyura feat\. SHIOTSUKA MOEKA](https://open.spotify.com/track/4w0iTfH4D1WBFDLsBzL5HS) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [harunosyura feat\. SHIOTSUKA MOEKA](https://open.spotify.com/album/1ghH9j0txIcY5DeDZzfaWz) | 3:42 |
 | 88 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 |
 | 89 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Dokodatteii](https://open.spotify.com/track/444UtyeTFdSZ7eRRfUJSnp) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Dokodatteii](https://open.spotify.com/album/3siRKjFzd2RWPsiAX9E6Xv) | 3:29 |
 | 100 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 |
 
-Snapshot ID: `MCwzOTU2NGExOGZlNGQ5ZjBhNTNiY2RiNjRkZDRlOWM0YmU5NGIwYmMx`
+Snapshot ID: `MCxjN2U1YTkxM2NhMjljYWZmZTM2NmQ0MTcxODAyZDlkNWNjNWZiZDBk`

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-256 songs - 12 hr 54 min
+258 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Now I'm Ready, I'm Ready Now](https://open.spotify.com/track/4OkXVcqJXUijBZ9hoKTLWj) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [The Green Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yuBusTe5rPkBCtGhfHirQ) | 4:01 | 2021-12-20 |  |
 | [Now I'm Scared](https://open.spotify.com/track/4CJLB70IYaljarme10H3P2) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Blackbird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38eb7aD4bdIOZVqJsXwswk) | 3:19 | 2021-12-20 | 2022-07-09 |
 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 | 2022-07-01 |  |
+| [On Our Plates](https://open.spotify.com/track/0iYsrjk7owSIKL2TEv0sRA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Joko Winterscheidt Presents: The World's Most Dangerous Show \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1dhumjxsQOOmrJLUt0gstP) | 4:07 | 2023-06-09 |  |
 | [Open Road](https://open.spotify.com/track/4AZ2cfgMFMTY0zYXJXMsqU) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Open Road \(From Wonder Woman 1984\)](https://open.spotify.com/album/1YbLmCnQbXLV1yG6jJqAo5) | 5:36 | 2021-12-20 | 2022-07-09 |
 | [Our Universe](https://open.spotify.com/track/35oXOy6T19a5Q3o6AsslAm) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr), [Jessica Jones](https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X) | [Our Universe: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1xuMCuQ3vx77cQd6v7n10S) | 1:13 | 2022-11-18 |  |
 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 | 2021-12-20 |  |
@@ -185,6 +186,7 @@
 | [Shield of Pain \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6JZvhoSW7sq6OYhmxbT8o3) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:51 | 2021-12-20 |  |
 | [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD) | 3:47 | 2022-12-30 |  |
 | [Songbird](https://open.spotify.com/track/0THP4cEeW6UVKD6qwEvM8a) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Songbird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fdqh3bXxcPVyFa7JvdBIy) | 4:44 | 2021-12-20 | 2022-08-20 |
+| [Spider\-Man 2099 \(Miguel O'Hara\)](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:02 | 2023-06-09 |  |
 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 | 2021-12-20 | 2022-07-09 |
 | [Star Trek: Strange New Worlds \(Main Title Theme\)](https://open.spotify.com/track/474E7jGAWAeCIKIO4Dz3wL) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Strange New Worlds \(Original Series Soundtrack\)](https://open.spotify.com/album/2P5KuodhuREeyUQ45YB1OS) | 1:51 | 2023-04-28 |  |
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |

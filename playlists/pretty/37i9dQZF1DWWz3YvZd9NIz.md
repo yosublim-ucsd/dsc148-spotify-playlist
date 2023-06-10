@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,100 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,524 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 21 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
 | 22 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 |
 | 23 | [Don't Let Me Down \(feat\. Daya\) \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(feat\. Daya\) \[Hardwell & Sephyx Remix\]](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
-| 24 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
-| 25 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
+| 24 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
+| 25 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
 | 26 | [Everytime We Touch \- Sound Rush Remix](https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Everytime We Touch \(Sound Rush Remix\)](https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj) | 3:36 |
 | 27 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 |
 | 28 | [Middle Of The Night](https://open.spotify.com/track/6xUlEWtTKrkyxUxO7nPVYq) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx) | 2:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
 | 70 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 |
 
-Snapshot ID: `MCxjYzU3NDFiNjU2NmNmMTM3NTY1NTEwMWQwNGNjMjI5NzlkMzllYmNh`
+Snapshot ID: `MCw0NWY2MTc2ZmM3MmI2ZDZmNzhlZjIxMmEwMDQ2NTgwMGM3NmQzZDA3`

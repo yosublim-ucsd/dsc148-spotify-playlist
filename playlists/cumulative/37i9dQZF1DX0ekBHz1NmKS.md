@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-717 songs - 1 day 13 hr 58 min
+719 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
-| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 |  |
+| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-06-10 |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
@@ -207,7 +207,8 @@
 | [Fire Burns You Cold](https://open.spotify.com/track/25ffJRgALd9ZCr22nHl8OJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [King of a Tragedy](https://open.spotify.com/album/2RT1sORIDrrIu1lRkCbCYi) | 3:34 | 2022-04-07 | 2022-06-12 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [First Place](https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [First Place](https://open.spotify.com/album/40NbNPVyrVG549WUMtVYhQ) | 3:13 | 2021-12-16 | 2022-01-04 |
-| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 |  |
+| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-10 |
+| [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-08 |  |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |
 | [Flyga](https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Flyga](https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW) | 2:53 | 2022-12-01 | 2023-01-26 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
@@ -375,6 +376,7 @@
 | [Live and Let Live](https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Live and Let Live](https://open.spotify.com/album/4rNhhdwFHL6qahcOqVY948) | 3:14 | 2022-02-26 | 2022-05-12 |
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-03-11 |
 | [Long Gone](https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Long Gone](https://open.spotify.com/album/2H0zi4Ne3mxQY8hYeywMiG) | 3:03 | 2022-06-09 | 2022-07-15 |
+| [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-08 |  |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-12-16 | 2022-03-11 |
 | [LOSE YOU](https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [LOSE YOU](https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4) | 3:01 | 2022-06-02 | 2022-07-29 |
 | [loser](https://open.spotify.com/track/7AHDOIQv2eb2mbaj7lqYYp) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [loser](https://open.spotify.com/album/7KKcM8Cm8dCosCtUJ4DHT6) | 3:13 | 2022-03-24 | 2022-04-21 |

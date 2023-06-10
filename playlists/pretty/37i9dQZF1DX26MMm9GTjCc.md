@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,382 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,349 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 35 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/2WRGElMRMJG8BsivwviL80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Elvis Presley Christmas Duets](https://open.spotify.com/album/0dZHOzNT3CYfHmK2yOW7oV) | 1:56 |
 | 36 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 37 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
-| 38 | [Merry X\-Mas Everybody](https://open.spotify.com/track/6kyh0ADHai0OjNrleA9ZIw) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 3:38 |
+| 38 | [Merry X\-Mas Everybody](https://open.spotify.com/track/5SbmOpGupqtSQGOrRJ4ZWc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Xmas Hits / Top 100 Holiday Songs](https://open.spotify.com/album/5BzhBD77hoBmoJ3V9JFDBI) | 3:37 |
 | 39 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 40 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
 | 41 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 |
-| 42 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/2lT2w8qVNDUAzrdO4yCdxE) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:24 |
+| 42 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/3h7Gk0kIWjtNacFEIuoaNg) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 3:23 |
 | 43 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:47 |
 | 44 | [At Christmas](https://open.spotify.com/track/3gh7XKogco53YM1AGJ0OGD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 3:46 |
 | 45 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 49 | [Ring Out The Bells](https://open.spotify.com/track/2ykBpMiRAKvii89MMclhp9) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:59 |
 | 50 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
 
-Snapshot ID: `MCwzMWYxNjEzM2Y0YzdmZjI1MDNmMDc5MmMzN2Y2N2QxYzhlMWExZDEz`
+Snapshot ID: `MCxhOTE2YTZiNjE5NDhhMmMwMGRmNDA0ZTIzNTY3YzRjZWQ0MDI3MTYx`

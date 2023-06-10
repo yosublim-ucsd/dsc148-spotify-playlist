@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,294 songs - 5 day 11 hr 33 min
+2,296 songs - 5 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1349,6 +1349,7 @@
 | [Move On](https://open.spotify.com/track/7kwGPYkQx1dYu0lod9IEAf) | [Ayo August](https://open.spotify.com/artist/2BiwobuxFl5vPgLcvA6yb4), [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Move On](https://open.spotify.com/album/0wwMY8G12nqu8CePeBBq2Q) | 2:09 | 2021-04-17 | 2021-05-03 |
 | [Move On](https://open.spotify.com/track/7m3Vj6y1dYXGwKhZ4N6BYB) | [Joytide](https://open.spotify.com/artist/6oKwIoXslSna3RRQwcCoOW), [Carl Roos](https://open.spotify.com/artist/0fKlHm1QYTvlNd8T1yeHBH) | [Move On](https://open.spotify.com/album/6uiU8puP5cdQv625EiIalh) | 2:54 | 2021-04-24 | 2021-05-09 |
 | [Moves Like Shakira](https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC) | [Mersed](https://open.spotify.com/artist/5WiBH8FG5kcrfAvmW9znYQ), [Lardi B](https://open.spotify.com/artist/6KP5Ws86YSPOxpbsmmwYHc) | [Moves Like Shakira](https://open.spotify.com/album/3UEe3zFWlPWCtmuUziEk2c) | 2:25 | 2023-03-09 | 2023-04-02 |
+| [Ms Blue](https://open.spotify.com/track/4KpHPvvItXgb34KnBO4z27) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Ms Blue](https://open.spotify.com/album/5f2JMc95WTQqwViFu2bAle) | 3:12 | 2023-06-09 |  |
 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 | 2022-10-28 | 2022-11-19 |
 | [Mundieo](https://open.spotify.com/track/77rlDhZm5eRYMLIXSfySlR) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Mundieo](https://open.spotify.com/album/7Jnebi6eFAJSZFOnWAT49n) | 3:33 | 2023-01-21 | 2023-02-24 |
 | [Murdered By Words](https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu) | [Jack Knox](https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3) | [Murdered By Words](https://open.spotify.com/album/3CKdKkCtaltyEQBqeQ5lTx) | 3:07 | 2023-05-24 |  |
@@ -1912,6 +1913,7 @@
 | [Swallowed Up In Space](https://open.spotify.com/track/6zUh0SQ7SPx30vbr3plUZU) | [Little Lies](https://open.spotify.com/artist/1iqg3wZBy6NqCXRhnEFNqZ) | [Swallowed Up In Space](https://open.spotify.com/album/5etv3hkp6lxgaVMVCKkK2D) | 2:53 | 2023-03-10 | 2023-04-02 |
 | [Swang](https://open.spotify.com/track/162mYGTLSpzFBAZpfYs6v6) | [Karoo](https://open.spotify.com/artist/4ZOIXsl1O9VZfgfz6Pm2jT) | [Swang](https://open.spotify.com/album/7fEWbBJBd4SdvjVEh5fszo) | 3:00 | 2022-08-19 | 2022-09-04 |
 | [Sweden: Gold Dust](https://open.spotify.com/track/2IVo3BRnOK4k6tAT636shB) | [Elifantree](https://open.spotify.com/artist/4L9zNR0MD7lpDDJnlK4t0F), [Andreas Werliin](https://open.spotify.com/artist/0n3a0ExvzsfYecn04WFyOn) | [Sweden: Gold Dust](https://open.spotify.com/album/36cuYXCs5ITUFd2WdfJSxl) | 5:56 | 2020-11-06 | 2020-11-21 |
+| [Sweet Soul](https://open.spotify.com/track/5JcJZZE19uQvSgMd99QLQv) | [J.X.B.](https://open.spotify.com/artist/623xmS6ELt4gDnzvAzYoIe), [Emajor](https://open.spotify.com/artist/3NY8NrTtJPBnlSRQ1nwbsG) | [J.X.B\. presents...](https://open.spotify.com/album/5hNvSPdQm5x1Y6Zci8gqxo) | 4:21 | 2023-06-09 |  |
 | [Sweet Summer Dreams](https://open.spotify.com/track/0CJMSlqpYrTFdrXPELyv3l) | [Noraa](https://open.spotify.com/artist/3TB54cQWdcg0uDjBoTu6S2) | [Sweet Summer Dreams](https://open.spotify.com/album/2tmW2vdJ0qpI92PZ4ALEhj) | 3:10 | 2022-09-26 | 2022-10-18 |
 | [Sweet Tooth](https://open.spotify.com/track/6nBx84udC1ObHokN7gGf35) | [Vince Palmeri](https://open.spotify.com/artist/7GL9cshE7dCvSN7UINjpSt) | [Sweet Tooth](https://open.spotify.com/album/35jMEDnrMoKcUdDi7B0I7X) | 3:07 | 2022-09-09 | 2022-09-25 |
 | [Sweetest Taboo](https://open.spotify.com/track/7wYm8nD7krfA60MnaHYoYZ) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Sweetest Taboo](https://open.spotify.com/album/5KGUFtg9LJexgnT1TheKol) | 3:58 | 2022-04-01 | 2022-05-19 |

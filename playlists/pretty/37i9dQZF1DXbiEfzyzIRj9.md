@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,548 likes - 120 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,568 likes - 120 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 3 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
 | 4 | [Not As I](https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Not As I](https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr) | 3:38 |
 | 5 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
-| 6 | [Reflections](https://open.spotify.com/track/7IBgVUEEOfLgKaNXn9I0zM) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/7ChUXBwOgoV156WFVSQquJ) | 5:09 |
+| 6 | [Reflections](https://open.spotify.com/track/4XNF5X0fRBOVuE7M0PVytJ) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 5:09 |
 | 7 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 |
 | 8 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
 | 9 | [Won't U Take Me \- Edit](https://open.spotify.com/track/0XkEX6VKa9TgkwhhnbvB7l) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Won't U Take Me \(Edit\)](https://open.spotify.com/album/3y5CuJvEL4bRjZb8vAc56k) | 4:08 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 119 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 120 | [Ase \- DJ Shu\-Ma Radio Edit](https://open.spotify.com/track/71xNovSBAgBx9fv0J8SP7P) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Motoharu](https://open.spotify.com/artist/04CqkEZiDoI9li9KATOyFX), [DJ Shu\-Ma](https://open.spotify.com/artist/0eoXzMplwSO3hHkf7rhqds) | [Ase Remixes](https://open.spotify.com/album/7IbX83cAoDuOn8yMeeR7pl) | 4:49 |
 
-Snapshot ID: `MCxjMDU0NjEwMWZkNTg4OGU0YmMxM2RhYzIxZWRmYjdkMGEwMDEzNzY3`
+Snapshot ID: `MCw4NGE3ZDI0MWRjMWEyZWUzZTg3Zjc1YTYxMDg2MDI4M2RiNWZjMzc4`

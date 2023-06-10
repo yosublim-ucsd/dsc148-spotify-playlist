@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,490 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,569 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 19 | [Serenity](https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 1:21 |
 | 20 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
 | 21 | [追究 〜つきとめたくて](https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC) | [岩垂徳行](https://open.spotify.com/artist/00mQlPRw20tGWmJeEivmge) | [逆転検事2 オリジナル・サウンドトラック](https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB) | 2:47 |
-| 22 | [Rising Sun](https://open.spotify.com/track/4yB3Ljw5lrhqmAISGaNPsd) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [Okami Original Soundtrack \(Vol\. 4\)](https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8) | 5:42 |
-| 23 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
+| 22 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
+| 23 | [Rising Sun](https://open.spotify.com/track/4yB3Ljw5lrhqmAISGaNPsd) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [Okami Original Soundtrack \(Vol\. 4\)](https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8) | 5:42 |
 | 24 | [OPENING STAGE](https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:35 |
 | 25 | [Domain of Dust and Desolation](https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:14 |
 | 26 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCxjZDFjY2U2ZWU5ZjQ1Njg4NTkxMDdjNGE1YjY5NDBiYTgzOTgxYmYz`
+Snapshot ID: `MCwyYjU4Yjc5NWNjZmIwOGExYzFiOTZkYTQ2MzFjZWFmMmE4ZWQzZDQ3`

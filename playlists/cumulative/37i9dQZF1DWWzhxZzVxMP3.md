@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-183 songs - 10 hr 41 min
+185 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2022-03-10 | 2023-05-17 |
 | [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2023-05-16 |  |
 | [Cold Heart](https://open.spotify.com/track/2hcgHA5iPCBHlWZusjsr1w) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 3:30 | 2023-04-13 | 2023-05-17 |
+| [Collide](https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6qeWEQ0QZq3kotA1IQ8qpJ) | 2:40 | 2023-06-09 |  |
 | [Company](https://open.spotify.com/track/1waygSn0gHDRqvPjcm5oje) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Modern Jukebox](https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t) | 2:59 | 2023-04-13 | 2023-05-17 |
 | [Cool Kids](https://open.spotify.com/track/2jyfbS6X9OmOHFXYdowj2V) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Cool Kids](https://open.spotify.com/album/0sy65ji8nJDfZOAfBzluDE) | 3:06 | 2023-05-16 |  |
 | [Copacabana](https://open.spotify.com/track/3BesLoexResI1Q0EkWzZz6) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Copacabana](https://open.spotify.com/album/2a8MPHa5mLaoU2KHssu18f) | 4:59 | 2022-03-10 | 2023-05-17 |
@@ -172,6 +173,7 @@
 | [The Look of Love](https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [The Look of Love](https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT) | 2:21 | 2023-05-16 |  |
 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 | 2022-03-10 |  |
 | [The Rhythm of the Night \- Bossa Nova](https://open.spotify.com/track/7DozSLsVUbTWHupPiyYb3T) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [The Rhythm of the Night \(Bossa Nova\)](https://open.spotify.com/album/0w6iLHWXpRE3nDOUZOVzpF) | 3:12 | 2022-03-10 | 2023-05-17 |
+| [Those Eyes](https://open.spotify.com/track/0WOmwVb006uBDBnUs7QkAH) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Those Eyes](https://open.spotify.com/album/3jkAaRwpTOhvNHWuQL5VV2) | 2:35 | 2023-06-09 |  |
 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 | 2022-03-10 |  |
 | [Under My Thumb](https://open.spotify.com/track/3a3WkFkamEZsGsjnymi3hy) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9) | [Bossa n' Stones \(Limited Edition\)](https://open.spotify.com/album/6fpDCF0v1qTzONOmBhqhRO) | 2:46 | 2022-03-10 | 2023-05-17 |
 | [Venus \(Bossa version\)](https://open.spotify.com/track/3yu4duizccIy2oiRMVdRUC) | [Rachelle Vanleeuwen](https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 2:50 | 2023-04-13 | 2023-05-17 |

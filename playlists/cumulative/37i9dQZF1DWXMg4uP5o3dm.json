@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "alternative meets electronic Cover: NOISY",
+  "description": "alternative meets electronic Cover: Layto",
   "name": "Alternative Beats",
   "tracks": [
     {
@@ -190,6 +190,24 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp"
     },
     {
       "album": {
@@ -494,7 +512,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203651,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
@@ -1281,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206687,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "album": {
         "name": "EAT SPIT! (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c"
       },
@@ -1731,6 +1767,32 @@
     },
     {
       "album": {
+        "name": "Freak Mode (SEBii & Slush Puppy Remix)",
+        "url": "https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154697,
+      "name": "Freak Mode (SEBii & Slush Puppy Remix)",
+      "url": "https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc"
+    },
+    {
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1808,6 +1870,24 @@
       "duration_ms": 183333,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ"
+    },
+    {
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "album": {
@@ -1942,7 +2022,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 169285,
       "name": "Going Ghost",
       "url": "https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS"
@@ -3010,7 +3090,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194626,
       "name": "New World",
       "url": "https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz"
@@ -3842,7 +3922,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195573,
       "name": "Same",
       "url": "https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY"
@@ -3860,10 +3940,28 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180093,
       "name": "save urself (runaway)",
       "url": "https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX"
+    },
+    {
+      "album": {
+        "name": "alternative psycho",
+        "url": "https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "save urself (runaway)",
+      "url": "https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks"
     },
     {
       "album": {
@@ -3904,6 +4002,28 @@
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "album": {
@@ -4148,7 +4268,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166389,
       "name": "Take Me Instead",
       "url": "https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4"

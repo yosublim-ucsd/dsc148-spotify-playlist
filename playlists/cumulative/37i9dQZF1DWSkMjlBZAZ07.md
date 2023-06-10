@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-214 songs - 12 hr 40 min
+215 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alive](https://open.spotify.com/track/0C4qvgfSB5VGixYXrYcY9j) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [News from Nowhere](https://open.spotify.com/album/6it5VpXJ725g41ZAkWrnlh) | 4:02 | 2022-06-21 |  |
 | [Alive](https://open.spotify.com/track/0P3IyyiJecMoAX9Q4cbwHX) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Alive](https://open.spotify.com/album/7bIA4A5pYtxnGVnK54NCWO) | 4:02 | 2021-11-12 | 2022-07-29 |
 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 | 2021-11-12 | 2022-11-13 |
-| [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 | 2021-11-12 |  |
+| [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 | 2021-11-12 | 2023-06-10 |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-11-12 |  |
 | [American Dream](https://open.spotify.com/track/0FkJp8j6TOpRWPCln1t9WB) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [American Dream](https://open.spotify.com/album/7v12RbeGK0O0jFbV81ZZqz) | 3:47 | 2021-11-12 | 2022-07-29 |
 | [American Dream](https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Excuses](https://open.spotify.com/album/1SkyQQYMVEndQV77xPhYFH) | 3:47 | 2022-06-21 |  |
@@ -142,6 +142,7 @@
 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-06-21 | 2022-11-13 |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-11-12 | 2022-07-29 |
 | [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-06-21 |  |
+| [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 | 2023-06-09 |  |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2021-11-12 | 2022-10-13 |
 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-06-21 |  |
 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 | 2021-11-12 |  |

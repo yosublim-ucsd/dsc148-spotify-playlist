@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: MICO",
+  "description": "New adventures in rock start here. Cover: The Glorious Sons",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166536,
       "name": "18",
       "url": "https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5"
@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "How To Live With Yourself / Smoke Screen / Kill Something",
+        "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
+    },
+    {
+      "album": {
         "name": "I Dream Of You",
         "url": "https://open.spotify.com/album/2mkI3oYfKCwZQqXxKhe8Kx"
       },
@@ -2358,6 +2376,24 @@
       "duration_ms": 191667,
       "name": "Ipsissimus",
       "url": "https://open.spotify.com/track/5sk4GmZOneAuI46usKcbO2"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/0thVe9pmX6KuIIUb6IZWoK"
+      },
+      "artists": [
+        {
+          "name": "Doghouse Rose",
+          "url": "https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129813,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/4KHXKEpgVYlc879c3l7Lc8"
     },
     {
       "album": {
@@ -3057,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "album": {
         "name": "Microwave Food",
         "url": "https://open.spotify.com/album/6DJcpUuwjIRMXrrRHLaBa7"
       },
@@ -3072,6 +3126,24 @@
       "duration_ms": 128373,
       "name": "Microwave Food",
       "url": "https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv"
+    },
+    {
+      "album": {
+        "name": "Searching for Strawberries: The Story of Jongo Bongo, Act 1",
+        "url": "https://open.spotify.com/album/3HXcAoK3kdP0KkKFf4l9vQ"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211277,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/1SJFHy930Kjk7xuDMQbHB9"
     },
     {
       "album": {
@@ -3847,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Heavy Lifting",
+        "url": "https://open.spotify.com/album/3MReBaspFGH0BwbFb3yb0w"
+      },
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263350,
+      "name": "Rainbows in Gasoline",
+      "url": "https://open.spotify.com/track/5D6noDDEoUGX6Pe1Wtneqz"
+    },
+    {
+      "album": {
         "name": "Reality Bites",
         "url": "https://open.spotify.com/album/3g17ItSCwGOLvQ99LuipH5"
       },
@@ -4499,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "I Might Start Smoking",
+        "url": "https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183648,
+      "name": "TAKE ME OUT!",
+      "url": "https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx"
+    },
+    {
+      "album": {
         "name": "Tear Me To Pieces",
         "url": "https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi"
       },
@@ -5081,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Vasectomia",
+        "url": "https://open.spotify.com/album/0T57Qcq4quqh1JnxRW9lcR"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110706,
+      "name": "Vasectomia",
+      "url": "https://open.spotify.com/track/3OgX2LraomT3dZzYWMQOs0"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3LzQ1zHi4k1t49ypJr3OAA"
       },
@@ -5388,6 +5514,24 @@
       "duration_ms": 100596,
       "name": "WHO B?",
       "url": "https://open.spotify.com/track/0kensEMts7A57aPNWp176e"
+    },
+    {
+      "album": {
+        "name": "Witches + Vampires",
+        "url": "https://open.spotify.com/album/1JK1buOtQgJAtzfKPNmK9C"
+      },
+      "artists": [
+        {
+          "name": "Hotel Decor",
+          "url": "https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202191,
+      "name": "Witches + Vampires",
+      "url": "https://open.spotify.com/track/3Gr1doW9BPGUBxSH9ZBqXY"
     },
     {
       "album": {

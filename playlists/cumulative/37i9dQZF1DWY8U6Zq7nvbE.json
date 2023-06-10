@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198000,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -404,6 +422,24 @@
       "duration_ms": 198304,
       "name": "Ambulance - Acoustic",
       "url": "https://open.spotify.com/track/5l1HfxucMgMyl79DcJyYCF"
+    },
+    {
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
     },
     {
       "album": {
@@ -1144,7 +1180,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192975,
       "name": "Boat",
       "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
@@ -1357,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
       },
@@ -1372,6 +1426,24 @@
       "duration_ms": 210000,
       "name": "Can't Tame Her - Acoustic",
       "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
+    },
+    {
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198777,
+      "name": "Candle In The Wind - 2018 Version",
+      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
     },
     {
       "album": {
@@ -1404,7 +1476,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156000,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/6qQCwv3kTEOVPCHTQvg4qB"
@@ -1632,7 +1704,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184402,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
@@ -2065,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265652,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
       },
@@ -2106,6 +2200,24 @@
       "duration_ms": 173217,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz] - Acoustic",
       "url": "https://open.spotify.com/track/4D09e1TfOMbuMadTLcl1P6"
+    },
+    {
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "album": {
@@ -2258,6 +2370,24 @@
       "duration_ms": 261665,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "album": {
+        "name": "Fix You (Live for There With Care)",
+        "url": "https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369041,
+      "name": "Fix You - Live for There With Care",
+      "url": "https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv"
     },
     {
       "album": {
@@ -4098,7 +4228,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
@@ -4663,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+    },
+    {
+      "album": {
         "name": "No Tears Left To Cry",
         "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
       },
@@ -4696,6 +4844,24 @@
       "duration_ms": 189725,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/7MnXrMhBQvhYZ9fSkfsGbY"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "album": {
@@ -4858,7 +5024,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172732,
       "name": "People",
       "url": "https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C"
@@ -5635,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -6070,7 +6254,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171875,
       "name": "Tattoo - Acoustic",
       "url": "https://open.spotify.com/track/35HBeoqP9gs2JPgeOrtM5e"
@@ -6128,6 +6312,24 @@
       "duration_ms": 196533,
       "name": "The Last Time - Acoustic",
       "url": "https://open.spotify.com/track/7CEIn4lDK1nZQRfc6XVTqU"
+    },
+    {
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "album": {
@@ -6806,7 +7008,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188845,
       "name": "what do you mean?",
       "url": "https://open.spotify.com/track/2ov2JFvZX3vRf2oXYiVs3i"
@@ -6890,6 +7092,24 @@
       "duration_ms": 129198,
       "name": "When the party's over - Acoustic Covers Versions of Popular Songs",
       "url": "https://open.spotify.com/track/3LANuGWHKj4Sm89q9SYu78"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193015,
+      "name": "when the party\u2019s over",
+      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
     },
     {
       "album": {
@@ -7144,7 +7364,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 229142,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/7sLC7SVbmunEgf9WSSNWA5"

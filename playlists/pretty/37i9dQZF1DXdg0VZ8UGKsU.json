@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Michael Bolton",
-  "num_followers": 292478,
+  "num_followers": 292705,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY3NjY5Mzg3ZmQwMTdkMDdlNWZlM2JiNDg1OTYzZGZjODhjOWM2",
+  "snapshot_id": "MCxjZmJjMTkzZTFjN2JjMmQxNDNjNTVkMDhiZjc5ZDBlNzQ0M2JmODNj",
   "tracks": [
     {
       "added_at": "2022-12-28 19:47:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Won't Hold You Back",
-      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 222053,
       "name": "Ever Since the World Began",
       "url": "https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2022-12-28 19:47:29",

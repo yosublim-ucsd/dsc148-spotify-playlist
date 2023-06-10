@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-81 songs - 4 hr 50 min
+82 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 | 2022-11-30 |  |
 | [Glitter Fonk](https://open.spotify.com/track/6eK4CZTcYTdxF745ynuAsm) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Glitter Fonk](https://open.spotify.com/album/4jyk3vn3DRG1c93gUi9al1) | 3:33 | 2022-11-30 |  |
 | [Golden Limousine](https://open.spotify.com/track/1BdLSaXkqWLqbUPnK1ASh0) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [The Gold Album](https://open.spotify.com/album/35zeMiMgMj3JcWSGkBT8Ps) | 2:50 | 2022-11-30 |  |
-| [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 | 2022-11-30 |  |
+| [GOODTIME](https://open.spotify.com/track/0B1u3O0JaCDxlInbrjT6CE) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/69nDpEyn52nnxChWwUDSO3) | 3:42 | 2022-11-30 |  |
+| [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 | 2022-11-30 | 2023-06-10 |
 | [Got to Get Me a Job](https://open.spotify.com/track/5qpUDXMOItqAFeWz9IzK7E) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Get a Job](https://open.spotify.com/album/68dxO0C5YU57P93Af0b9Ya) | 2:50 | 2022-11-30 |  |
 | [Gucci Shoes](https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Gucci Shoes](https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8) | 3:01 | 2022-11-30 |  |
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-11-30 |  |

@@ -2,7 +2,7 @@
 
 ### [Corridos Tumbados](https://open.spotify.com/playlist/37i9dQZF1DWWhMyyrqZlaY)
 
-> Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
+> Los corridos más placosos que suenan en las calles\. Gabito Ballesteros en portada.
 
 109 songs - 5 hr 30 min
 

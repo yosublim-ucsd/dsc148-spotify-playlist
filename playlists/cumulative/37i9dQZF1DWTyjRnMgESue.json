@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new songs from modern singer-songwriters. Cover: Jess Williamson",
+  "description": "The best new songs from modern singer-songwriters. Cover: Catie Turner",
   "name": "Today's Singer-Songwriters",
   "tracks": [
     {
@@ -1190,6 +1190,24 @@
       "duration_ms": 196277,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl"
+    },
+    {
+      "album": {
+        "name": "Comedy & Tragedy: Act 1",
+        "url": "https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159870,
+      "name": "Comedy & Tragedy",
+      "url": "https://open.spotify.com/track/3YnLzYtTnUwjCpgmZ2EKqh"
     },
     {
       "album": {
@@ -6142,7 +6160,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"

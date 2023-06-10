@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190956,
       "name": "Arnasa",
       "url": "https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213250,
       "name": "Despina",
       "url": "https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 170250,
       "name": "Dreaming Of Dust",
       "url": "https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177813,
       "name": "Dvala",
       "url": "https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144333,
       "name": "Fairy Lullaby",
       "url": "https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 217000,
       "name": "Finding Z",
       "url": "https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 223124,
       "name": "Forever close",
       "url": "https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga"
@@ -2756,6 +2756,24 @@
       "duration_ms": 180596,
       "name": "I Care",
       "url": "https://open.spotify.com/track/74HRY0gBSrL5XN7yj1jM9T"
+    },
+    {
+      "album": {
+        "name": "I Stillhet",
+        "url": "https://open.spotify.com/album/7FdCOiTsknClP9umzLUb5c"
+      },
+      "artists": [
+        {
+          "name": "Mira Appelquist",
+          "url": "https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173605,
+      "name": "I Stillhet",
+      "url": "https://open.spotify.com/track/6njvRx7CurDgY3G5TBdtkO"
     },
     {
       "album": {
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175937,
       "name": "Moment Of Peace",
       "url": "https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1"
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164307,
       "name": "Raft Ahead",
       "url": "https://open.spotify.com/track/6SjsGXE89jzNFTcxRoP4UD"
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194611,
       "name": "Release U",
       "url": "https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y"
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 251704,
       "name": "Spherical",
       "url": "https://open.spotify.com/track/3MQfkUkcA1jnEkPkUiKz97"
@@ -5748,7 +5766,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188546,
       "name": "Tout Autour De Nous",
       "url": "https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT"
@@ -5802,7 +5820,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199318,
       "name": "Traumlandschaft",
       "url": "https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9"

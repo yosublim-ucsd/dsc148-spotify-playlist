@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Yebit(\uc608\ube5b)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 439669,
+  "num_followers": 439861,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTY1YmFmNzg1M2ZmMWQ0N2Y0ZTk4NmZhMWUxNWNlM2UyNjU0ZDdh",
+  "snapshot_id": "MCw3ZGMyMDRlN2E0M2U2NzIwNDg0YWEwYjdkNTEwMmY4Njk5M2YwOTYw",
   "tracks": [
     {
       "added_at": "2023-06-01 09:18:46",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-06-01 09:18:46",
       "album": {
-        "name": "Baby I Need You",
-        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Baby I Need You",
-      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
-    },
-    {
-      "added_at": "2023-06-01 09:18:46",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-06-01 09:18:46",
+      "album": {
+        "name": "Baby I Need You",
+        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Baby I Need You",
+      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
     },
     {
       "added_at": "2023-06-01 09:18:46",
@@ -331,38 +331,6 @@
     {
       "added_at": "2023-06-01 09:18:46",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-06-01 09:18:46",
-      "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2023-06-01 09:18:46",
-      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -383,6 +351,22 @@
     {
       "added_at": "2023-06-01 09:18:46",
       "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2023-06-01 09:18:46",
+      "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2023-06-01 09:18:46",
+      "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2023-06-01 09:18:46",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-06-01 09:18:46",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
       "added_at": "2023-06-01 09:18:46",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-06-01 09:18:46",
       "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
       "artists": [
         {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-06-01 09:18:46",

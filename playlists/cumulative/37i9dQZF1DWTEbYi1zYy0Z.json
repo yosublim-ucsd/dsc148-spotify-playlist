@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 232810,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
@@ -1336,6 +1336,24 @@
       "duration_ms": 210640,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/3J18F04gGcur3hK3MJlGyc"
+    },
+    {
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "album": {
@@ -4039,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Nico\u2019s Groove",
+        "url": "https://open.spotify.com/album/2QxxlPUxcATya406iG9izA"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417363,
+      "name": "Nico\u2019s Groove",
+      "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7"
       },
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
@@ -5801,6 +5837,28 @@
     },
     {
       "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278895,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL"
+    },
+    {
+      "album": {
         "name": "Taboo",
         "url": "https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd"
       },
@@ -5906,7 +5964,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 271933,
       "name": "The One - Vocal",
       "url": "https://open.spotify.com/track/2BthCO2NWEyStwmCcQANRe"

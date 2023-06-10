@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-78 songs - 7 hr 23 min
+79 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 | 2022-09-14 |  |
 | [Never Be The Same \(feat\. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene\)](https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:56 | 2022-09-15 |  |
 | [Never Gave Up \- Live](https://open.spotify.com/track/68JQwcmadxmbL9F7EaQ7dq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 6:36 | 2022-09-15 | 2022-10-12 |
-| [No Longer Slaves \- Live](https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 7:33 | 2022-09-14 |  |
+| [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-09 |  |
+| [No Longer Slaves \- Live](https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 7:33 | 2022-09-14 | 2023-06-10 |
 | [Nobody Greater \- Remix/Live](https://open.spotify.com/track/17754Mua8KiYfN282FPeEG) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Secret Place \(Live In South Africa/Deluxe\)](https://open.spotify.com/album/0vazr94FR4cEUVrXNCDSTx) | 11:32 | 2022-09-14 | 2022-10-14 |
 | [Oceans](https://open.spotify.com/track/11vi3YtxiTx0YOdBuIS00W) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Oceans](https://open.spotify.com/album/6Ffhi6MFLMooDZf5Se1RkK) | 3:55 | 2023-04-11 | 2023-04-18 |
 | [OMG \- Live](https://open.spotify.com/track/2S2tegyMxkMUj0gVeG0Myz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 6:16 | 2022-09-14 | 2023-03-06 |

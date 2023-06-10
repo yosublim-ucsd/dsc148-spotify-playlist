@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-449 songs - 1 day 1 hr 14 min
+450 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-01-28 | 2022-02-16 |
 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 | 2023-04-20 |  |
 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 | 2022-09-18 |  |
+| [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-09 |  |
 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 | 2022-02-28 | 2022-04-26 |
 | [3AM IN CHELSEA \- Club Edit](https://open.spotify.com/track/1y907js7DgPzTwe2w7P2c1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [3AM IN CHELSEA \(Club Edit\)](https://open.spotify.com/album/0Pjbs4N6KLan9GQ3gzaPnL) | 5:34 | 2022-04-25 | 2023-01-30 |
 | [7FIGURESUPERMODEL](https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [7FIGURESUPERMODEL](https://open.spotify.com/album/5qreHFgrcvU9JYMf3KMSZp) | 2:40 | 2023-03-31 |  |

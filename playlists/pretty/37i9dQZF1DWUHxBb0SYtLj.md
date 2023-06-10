@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Raffaella Carrà
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,515 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,538 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 48 | [fiori sul prato](https://open.spotify.com/track/5yIIVLBUQXNWUcZSPAjYED) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [fiori sul prato](https://open.spotify.com/album/4q3QdcKhcZzATlM7Yyriyj) | 2:38 |
 | 49 | [Lucciole](https://open.spotify.com/track/27lG3EpFuOKuBaX8vtO379) | [MONTEDORO](https://open.spotify.com/artist/0RThp1rnKiopiqnUKW36DI) | [Lucciole](https://open.spotify.com/album/62v3a7i1bBA79rrBwan1ke) | 2:49 |
 
-Snapshot ID: `MCxhNzQ3ZTAwNWU0YTRmMGQ1MmZkYTFjZmRiNDMzZmRlMzc1YTE3ZTU3`
+Snapshot ID: `MCxlN2RhOTMyNTVkZWQ1NWM1NDJiMzIwNTdmODhlYzBjNTQ4YTI1MjQz`

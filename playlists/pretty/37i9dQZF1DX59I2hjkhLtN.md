@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,318 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,324 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 2 | [VOLTAS](https://open.spotify.com/track/3tjDDai6NTO2bGkmvlmvUo) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Foco](https://open.spotify.com/album/7yVYfkZn3KzZMlds4WKAzk) | 3:34 |
 | 3 | [Não](https://open.spotify.com/track/6IOa31blrtF9od5UzGILZZ) | [Rafaas](https://open.spotify.com/artist/3aVvgyhhANZe76ZvcX9Z9X), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Não](https://open.spotify.com/album/0CQndJCnOQY8SjVqesEmQX) | 2:02 |
 | 4 | [P.D.G \(Produto Di Gheto\)](https://open.spotify.com/track/001eUI62MFBLJVUiRlOO9B) | [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [P.D.G \(Produto Di Gheto\)](https://open.spotify.com/album/4MVHcc7cRuhUbHnwOcnqnf) | 3:06 |
-| 5 | [Kilates](https://open.spotify.com/track/50aFCOTvcZvsRYyVlomizt) | [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Kilates](https://open.spotify.com/album/6ooY2zQ2dlYcmdjPzD85cp) | 3:22 |
+| 5 | [Kilates](https://open.spotify.com/track/50aFCOTvcZvsRYyVlomizt) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Kilates](https://open.spotify.com/album/6ooY2zQ2dlYcmdjPzD85cp) | 3:22 |
 | 6 | [Bailarina 2](https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Bailarina 2](https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd) | 3:09 |
 | 7 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 8 | [BELLERIN](https://open.spotify.com/track/7yDbLm7sMjrC4w7a7whmq6) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [BELLERIN](https://open.spotify.com/album/5AfFxkiPNe2mEwx4C44vnK) | 3:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Se Mimar](https://open.spotify.com/track/7xTqiiz7Auh8pA1cljw89Y) | [Biura](https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP) | [Se Mimar](https://open.spotify.com/album/3Yc7oHvqKVFw7r4AjD2Gk4) | 3:03 |
 | 99 | [MARIPOSA](https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Cósmico](https://open.spotify.com/artist/6DsNivzEk4uMuk0f4QjdSS), [Hyzer](https://open.spotify.com/artist/48Uqot4YbHpPRt6ABUYiqP) | [MARIPOSA](https://open.spotify.com/album/1hwRmaHQ79ZOqSUHk9tTVf) | 3:54 |
 
-Snapshot ID: `MCwwOWY5Y2RhZWMxY2U1YTM5MDBlNTI5MzcxZTBjZDQ2NmRiOTZjOWNh`
+Snapshot ID: `MCwzYTQ4OWY3YjRkZGFhNTQwYTM3ZDIzOWJhYjBmNzIxZmNlNTM5YWQw`

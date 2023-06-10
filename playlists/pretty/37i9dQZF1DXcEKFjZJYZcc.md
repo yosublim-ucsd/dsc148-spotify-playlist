@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,550 likes - 188 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,584 likes - 188 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 55 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 |
 | 56 | [Charlie's Dream](https://open.spotify.com/track/71QtyOzyAQf1WNfaW39g8u) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Charlie's Dream](https://open.spotify.com/album/3lz45nxfVNnTaqpZHYkDv6) | 2:13 |
 | 57 | [Up and Away](https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Up and Away](https://open.spotify.com/album/5YOtwhelywHTOSmzP9A3Vp) | 2:14 |
-| 58 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 |
+| 58 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/1ZRW6bbpJ7Z4AyvBVgXzLZ) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 |
 | 59 | [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 |
 | 60 | [Anyone](https://open.spotify.com/track/7uhLvrY31QKUS3JTEEuNyu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Anyone](https://open.spotify.com/album/5xHrLZlqWVl4EWIVTpCuiu) | 3:35 |
 | 61 | [Klang](https://open.spotify.com/track/0Uu2BFQxlxYIBng7MkXUZi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Klang](https://open.spotify.com/album/1QcSE0agb1Hf3oNWdqOekb) | 2:17 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 187 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 |
 | 188 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 |
 
-Snapshot ID: `MCwwYmQ3NGU4N2U3YmJjMWZlN2RmMDUzMDZhZjVjYWU1OGFkMGQzMDI4`
+Snapshot ID: `MCwwNjM1Yzg3ZGU0OWUzZTI4OTkzMWFkZDM3OTkzNWQxNTQxMjE3NTU0`

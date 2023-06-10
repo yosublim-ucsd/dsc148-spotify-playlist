@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-189 songs - 11 hr 49 min
+191 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 | 2021-11-19 |  |
 | [Falling Snow in Santa Fe](https://open.spotify.com/track/5cniB9uCQHULDoYPqxGfms) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Falling Snow in Santa Fe](https://open.spotify.com/album/7COeOahgGmkCcy3riGWJLF) | 3:40 | 2023-02-17 |  |
 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 | 2022-01-21 |  |
+| [Free \(Not Afraid to Die\)](https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:30 | 2023-06-09 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2021-11-19 | 2022-07-29 |
 | [Front Porch](https://open.spotify.com/track/21tFgyx6DR8YmfqNQ7cwSP) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [No Place Like You](https://open.spotify.com/album/5RFamNorVM8vDpnyTTEoOr) | 3:51 | 2022-05-16 | 2022-11-14 |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2022-05-16 |  |
@@ -79,6 +80,7 @@
 | [Impossible Air](https://open.spotify.com/track/6tPCFKdtVp9zMCV3JJlj6C) | [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Third](https://open.spotify.com/album/2KsxcezzgHLuzZiCqgsmg1) | 4:48 | 2021-11-19 | 2022-07-29 |
 | [Impossible Air](https://open.spotify.com/track/7C23d5jyOZiXIjBiqvBEDp) | [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Third](https://open.spotify.com/album/28A3qNusvWXfKEYiaTW0oq) | 4:48 | 2022-05-16 |  |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2021-11-19 |  |
+| [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 | 2023-06-09 |  |
 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 | 2021-11-19 |  |
 | [James Dean](https://open.spotify.com/track/6p1jLmMoKQt8Vg9zlYg3uq) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare, Vol\. 2](https://open.spotify.com/album/0LLhVkWLfoUdCqSOEGeya8) | 3:46 | 2021-11-19 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2022-05-16 |  |

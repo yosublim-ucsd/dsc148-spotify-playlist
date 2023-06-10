@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 87564,
+  "num_followers": 87767,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDgwZWJhZGFkNmVkODZjODE1MTc0ZGY2MmMwNGI5NTZkNDQ4MDM4",
+  "snapshot_id": "MCw0MWZjMWE1ZjBmODgwMzllYmE4ZTJmZTgzNWQzMGQ3YTlhYzkyZjZh",
   "tracks": [
     {
       "added_at": "2023-05-09 06:55:53",
@@ -115,6 +115,30 @@
       "duration_ms": 222016,
       "name": "Ayyayyo (From \"Mem Famous\")",
       "url": "https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY"
+    },
+    {
+      "added_at": "2023-06-09 06:14:03",
+      "album": {
+        "name": "Calling Sahasra",
+        "url": "https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je"
+      },
+      "artists": [
+        {
+          "name": "Mohith Rahmanic",
+          "url": "https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        }
+      ],
+      "duration_ms": 220918,
+      "name": "Kalaya Nijama",
+      "url": "https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ"
     },
     {
       "added_at": "2023-05-08 08:13:04",
@@ -739,30 +763,6 @@
       "duration_ms": 202934,
       "name": "Manusutho Preminchi",
       "url": "https://open.spotify.com/track/4G2spi7AQPJba2J3H6RLJy"
-    },
-    {
-      "added_at": "2023-03-07 20:51:47",
-      "album": {
-        "name": "Vennello Aadapilla (From \"Bedurulanka 2012\")",
-        "url": "https://open.spotify.com/album/3splLInsIEyso2mD5hDD3D"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Harika Narayan",
-          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
-        }
-      ],
-      "duration_ms": 255445,
-      "name": "Vennello Aadapilla (From \"Bedurulanka 2012\")",
-      "url": "https://open.spotify.com/track/7nNZTyhbJcS3hx9Ecx3w8f"
     },
     {
       "added_at": "2022-12-06 13:08:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Sethu in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,589 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,604 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 67 | [Strappami il Cuore](https://open.spotify.com/track/1Y5D0a5RatG4WXjGWqfFF7) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Strappami il Cuore](https://open.spotify.com/album/4pt1RtKgITuqEjnn6TyzE2) | 2:22 |
 | 68 | [20ANNI](https://open.spotify.com/track/0ejBROtdr2qNMXTYgnekeT) | [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [20ANNI](https://open.spotify.com/album/0ANTzWRUSfkA8yswIKAlts) | 2:55 |
 | 69 | [senza la barba sono grande anch’io](https://open.spotify.com/track/4HRgCzXPjab3ViCZuau9hT) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [neanche anch'io](https://open.spotify.com/album/5MXqHsstPId7lDStI2rySw) | 2:42 |
-| 70 | [WALE RMX](https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [WALE RMX](https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks) | 3:03 |
+| 70 | [WALE RMX \(feat\. Dari\)](https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [WALE RMX](https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks) | 3:03 |
 | 71 | [Come Quando Piove](https://open.spotify.com/track/1iC7pD4qkhnWX7nhgOufeU) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [Come Quando Piove](https://open.spotify.com/album/2RazpXsgzAePoyZpFa8zEq) | 2:25 |
 | 72 | [DON'T CRY](https://open.spotify.com/track/2b0LaxHKMrukK0EHBF7Z4p) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [DON'T CRY](https://open.spotify.com/album/4LDpCYR2cZQmXI0iC8sqTk) | 2:32 |
 | 73 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 |
 | 80 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 |
 
-Snapshot ID: `MCw1MDRlYjk0MTJjNWZmZjFiZGZjNDI1N2VkOTI1N2UyZDQzMDE0NGRh`
+Snapshot ID: `MCxhODllZjc0ZmViMjljMzQ5ZjUwYzJhMTBhMDgyODhmYjQ1NTBlZThm`

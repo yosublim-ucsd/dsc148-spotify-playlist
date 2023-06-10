@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 117822,
+  "num_followers": 117833,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGZiYWIyOWRlZDc4MTJiNmFiZjcwMWYyM2IwMWRiNWNlOWE4NjQy",
+  "snapshot_id": "MCxjM2ViMTBjNmEwNzQxYTBiMmRiY2JiMzMwNGMwMjAyNTdhYWE2NmMx",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 192909,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Now You're Gone",
         "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 144000,
       "name": "Now You're Gone",
       "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 192909,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Shallow Breathing",
         "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 163298,
       "name": "Shallow Breathing",
       "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Deneb Cygni",
         "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
       "artists": [
         {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "The Island",
         "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "I Lost My Way",
-        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "I Lost My Way",
-      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Voyage Direct (2020 Remaster)",
         "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 277899,
       "name": "Lost in the Streets of NYC - 2020 Remaster",
       "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "I Lost My Way",
+        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "I Lost My Way",
+      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
     },
     {
       "added_at": "2023-06-08 22:00:00",

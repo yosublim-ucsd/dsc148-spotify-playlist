@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 320870,
+  "num_followers": 320953,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWU0NTRlNzgxNGYyNjY1ODNlNTZmOTQxMDgyNDQ4MDJkNjZhMDFi",
+  "snapshot_id": "MCwxOTJkYmQ5NTI2NjExN2FkOTY5MjE3NzBiNjU2NGY0ODQ0MzhiZTFm",
   "tracks": [
     {
       "added_at": "2023-05-19 21:03:14",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2023-05-19 21:03:14",
-      "album": {
         "name": "La Velocidad de la Luz",
         "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "added_at": "2023-05-19 21:03:14",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     },
     {
       "added_at": "2023-05-19 21:03:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "Eucalyptus",
-        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Eucalyptus",
-      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
-    },
-    {
-      "added_at": "2023-05-19 21:03:14",
-      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 224133,
       "name": "Right on time",
       "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
+    },
+    {
+      "added_at": "2023-05-19 21:03:14",
+      "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
     },
     {
       "added_at": "2023-05-19 21:03:14",

@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-223 songs - 12 hr 17 min
+224 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2021-08-05 | 2022-07-26 |
 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 | 2021-12-16 | 2022-06-11 |
 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 | 2022-07-25 | 2023-01-27 |
+| [benny!](https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:25 | 2023-06-09 |  |
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-11 | 2022-07-29 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-16 | 2023-01-27 |
 | [Body](https://open.spotify.com/track/0BZip62uEjvHL7jdDyC21p) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Body](https://open.spotify.com/album/6MDU6gvwSr3fEOX9R7jccf) | 3:15 | 2022-02-25 | 2022-07-29 |
@@ -49,7 +50,7 @@
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2021-08-05 |  |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2021-08-05 | 2023-01-27 |
 | [Crush](https://open.spotify.com/track/3GldXbSFOqFbLVsluOkm4M) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Crush](https://open.spotify.com/album/1YfQe8ZDLXXlwBWQp9RzO6) | 3:43 | 2022-02-11 | 2022-04-21 |
-| [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2022-12-15 |  |
+| [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2022-12-15 | 2023-06-10 |
 | [Dancing in My Room](https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/0dwXkSf1hMjZgqKUkeoR4l) | 3:00 | 2022-01-04 | 2022-04-21 |
 | [Day Dreaming](https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:09 | 2022-07-25 | 2023-01-27 |
 | [Day Dreaming](https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Day Dreaming](https://open.spotify.com/album/4cZS7wksFqyCGblehHhhep) | 3:09 | 2021-08-05 | 2022-07-26 |

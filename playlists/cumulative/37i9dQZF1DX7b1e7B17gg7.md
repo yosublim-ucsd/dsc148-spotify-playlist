@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-78 songs - 5 hr 35 min
+79 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-02-24 |  |
 | [No Entry Blues](https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:14 | 2023-02-24 |  |
 | [Perilous Times](https://open.spotify.com/track/4fX2NEmYpOlSSrltHqfT8G) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Homebrewed Blues](https://open.spotify.com/album/3rsZuE4zwVFIPqKU3b0Z20) | 2:46 | 2022-11-30 |  |
+| [Pork Chop \- Remastered](https://open.spotify.com/track/6AMhU6N8yCVHPvElPCfSdZ) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Rockin' The Boat](https://open.spotify.com/album/1m5FfNABzazDNUxAE6HJAW) | 7:39 | 2023-06-09 |  |
 | [Précieuse](https://open.spotify.com/track/5JentvxWIO78sxWOSgNLrf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 3:15 | 2023-03-03 |  |
 | [Purple \- Edited Version](https://open.spotify.com/track/015AFoJQvGJ3nbPbaC65Ml) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:48 | 2022-11-30 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-11-30 |  |

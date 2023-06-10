@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 129325,
+  "num_followers": 129408,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmMyYWQ4NTgwODRlZDJjMzMxZDIyMjc4MTQxNDBjYTQ0NDEzNzBm",
+  "snapshot_id": "MCw2ZGU1ZDEwMTcwNTJlNzEwOGViMTBjMGVkNWI4NzJmZDYxYjE2Y2I1",
   "tracks": [
     {
       "added_at": "2023-06-08 12:44:59",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
-      },
-      "artists": [
-        {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Losing Grip",
         "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 250384,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 243876,
       "name": "A Song With No Name",
       "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 247722,
       "name": "There is a place",
       "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
-      },
-      "artists": [
-        {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Just a Little Bit",
-        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
-      },
-      "artists": [
-        {
-          "name": "Waltzing on Waves",
-          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
+        "name": "Just a Little Bit",
+        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
+      },
+      "artists": [
+        {
+          "name": "Waltzing on Waves",
+          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -975,6 +975,26 @@
       "duration_ms": 299106,
       "name": "Adventure Of A Lifetime",
       "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Riders on the Storm",
+        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
+      },
+      "artists": [
+        {
+          "name": "Jazzystics",
+          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
+        },
+        {
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        }
+      ],
+      "duration_ms": 226389,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1007,26 +1027,6 @@
       "duration_ms": 264000,
       "name": "She Used To Be Mine",
       "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "Riders on the Storm",
-        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
-      },
-      "artists": [
-        {
-          "name": "Jazzystics",
-          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
-        },
-        {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        }
-      ],
-      "duration_ms": 226389,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 318175,
       "name": "Enough to Be on Your Way",
       "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+        "name": "I Never Can Say Goodbye",
+        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
       "artists": [
         {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
         }
       ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+      "duration_ms": 253816,
+      "name": "I Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1283,34 +1283,18 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "I Never Can Say Goodbye",
-        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
       "artists": [
         {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
         }
       ],
-      "duration_ms": 253816,
-      "name": "I Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 302890,
       "name": "Just A Little Bit",
       "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1383,6 +1367,22 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
+        "name": "Something My Heart Trusts",
+        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 277036,
+      "name": "Something My Heart Trusts",
+      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 158641,
       "name": "Sleepy Time",
       "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "Something My Heart Trusts",
-        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 277036,
-      "name": "Something My Heart Trusts",
-      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1555,54 +1555,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "90 Degrees",
-        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 255024,
-      "name": "90 Degrees",
-      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Rogue",
         "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
@@ -1623,18 +1575,50 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Midnight Jones",
-        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
+        "name": "90 Degrees",
+        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 233173,
-      "name": "Peace - First Sessions Demo",
-      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
+      "duration_ms": 255024,
+      "name": "90 Degrees",
+      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+        "name": "Midnight Jones",
+        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
       },
       "artists": [
         {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+      "duration_ms": 233173,
+      "name": "Peace - First Sessions Demo",
+      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1699,6 +1683,22 @@
       "duration_ms": 246423,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 282800,
-      "name": "My Ship",
-      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 248921,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Love Rushes Past",
-        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
-      },
-      "artists": [
-        {
-          "name": "A Blue Flame",
-          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "Humanit\u00e9",
         "url": "https://open.spotify.com/album/3TrSOfTnxrJb9auo2MhiQi"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 294421,
       "name": "Wake up Everybody",
       "url": "https://open.spotify.com/track/6eKbTjeUNFBBBnWNqMFAo7"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Love Rushes Past",
+        "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
+      },
+      "artists": [
+        {
+          "name": "A Blue Flame",
+          "url": "https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
     },
     {
       "added_at": "2023-06-08 12:44:59",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-06-08 12:44:59",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC"
-      },
-      "artists": [
-        {
-          "name": "Ria Moran",
-          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g"
-    },
-    {
-      "added_at": "2023-06-08 12:44:59",
-      "album": {
         "name": "The Road Is Narrow",
         "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 194823,
       "name": "the road is narrow",
       "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2023-06-08 12:44:59",
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC"
+      },
+      "artists": [
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g"
     },
     {
       "added_at": "2023-06-08 12:44:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,896 likes - 127 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,882 likes - 127 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 115 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 |
 | 116 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
 | 117 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 |
-| 118 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 |
+| 118 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/1ZRW6bbpJ7Z4AyvBVgXzLZ) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 |
 | 119 | [Whistling Fields](https://open.spotify.com/track/1yfU7I4NmdN44ztLDlGsmh) | [Riley Santos](https://open.spotify.com/artist/4LEExWliqooeTNczZkiBBd) | [Twelve Doves](https://open.spotify.com/album/2BHstuxhhN0fjiJy72WUac) | 2:15 |
 | 120 | [Low](https://open.spotify.com/track/47NrymHrpDp5A5yzDPVwMp) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Low](https://open.spotify.com/album/4HjKTcQJ1FuzweldF83GCx) | 2:42 |
 | 121 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 126 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 |
 | 127 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
 
-Snapshot ID: `MCw4NzMxMDJhYTVmNmYyOGI0ZTM1YTAzMTFkMGViMjZkZGYzNzI0Yjhl`
+Snapshot ID: `MCw3YTY2NGM0NDYzZTY1OTBjNTAxMTNmYmM5NDY5MmQwZWU3ZjM3MWFi`

@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Before The Full Moon.",
+        "url": "https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf"
+      },
+      "artists": [
+        {
+          "name": "Isah Atkins",
+          "url": "https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Before The Full Moon",
+      "url": "https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq"
+    },
+    {
+      "album": {
         "name": "Bela adormecida",
         "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
       },
@@ -3944,6 +3962,24 @@
       "duration_ms": 142500,
       "name": "Propinquity",
       "url": "https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm"
+    },
+    {
+      "album": {
+        "name": "Prosperum",
+        "url": "https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au"
+      },
+      "artists": [
+        {
+          "name": "Yara Blom",
+          "url": "https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Prosperum",
+      "url": "https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt"
     },
     {
       "album": {

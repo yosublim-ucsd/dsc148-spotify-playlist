@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 69657,
+  "num_followers": 69678,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2NhMDcxM2NkZmI3YmYzODVhMDU2MDk0ZmE5YzQwYjFiMTJiNTg1",
+  "snapshot_id": "MCwxOTY2YzlhNGUzNzU1Y2QwMTFjMDBlMGJmYmYwODFmZTBlYWI5NGU3",
   "tracks": [
     {
       "added_at": "2023-05-23 13:45:39",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "The Clarke/Duke Project",
         "url": "https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 227200,
       "name": "Sweet Baby",
       "url": "https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Soul Folk In Action",
-        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Soul Folk In Action",
+        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "One In A Million You",
-        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham",
-          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "One in a Million You",
-      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Funky Nassau",
         "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 186301,
       "name": "Funky Nassau, Pt. 1",
       "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "One In A Million You",
+        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham",
+          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "One in a Million You",
+      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "Come into My Life: The Very Best of Joyce Sims",
         "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 224866,
       "name": "Still",
       "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "There's A Riot Goin' On (Expanded Edition)",
         "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 185533,
       "name": "Family Affair - Single Version",
       "url": "https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Lookin' For Love Again",
-        "url": "https://open.spotify.com/album/4zU06SFlMCMMuvbIOZVV8r"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "You're Messing Up A Good Thing",
-      "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Deeper And Deeper (The Best Of Freda Payne)",
         "url": "https://open.spotify.com/album/50OUn0gvYuqoqn1NDaolns"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 272226,
       "name": "Superwoman - Edit",
       "url": "https://open.spotify.com/track/5iUGRvlnBtz9D1rmR3Sc9x"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Lookin' For Love Again",
+        "url": "https://open.spotify.com/album/4zU06SFlMCMMuvbIOZVV8r"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "You're Messing Up A Good Thing",
+      "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "A Nickel And A Nail And Ace Of Spades",
-        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
-      },
-      "artists": [
-        {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "A Nickel And A Nail",
-      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Only For The Lonely",
         "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
       },
@@ -3079,6 +3063,22 @@
       "duration_ms": 254800,
       "name": "I Have Learned To Do Without You",
       "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "A Nickel And A Nail And Ace Of Spades",
+        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
+      },
+      "artists": [
+        {
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "A Nickel And A Nail",
+      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3295,22 +3295,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Hold On! I'm A Comin' - LP/Single Version",
-      "url": "https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Smooth Soul",
         "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 284040,
       "name": "Made For Each Other",
       "url": "https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Hold On! I'm A Comin' - LP/Single Version",
+      "url": "https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3503,22 +3503,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Travelin' In Heavy Traffic",
-        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
-      },
-      "artists": [
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
-        }
-      ],
-      "duration_ms": 361626,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Love And Happiness",
         "url": "https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg"
       },
@@ -3531,6 +3515,22 @@
       "duration_ms": 187880,
       "name": "You Ought To Be With Me",
       "url": "https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Travelin' In Heavy Traffic",
+        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
+      },
+      "artists": [
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "duration_ms": 361626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
     },
     {
       "added_at": "2023-05-23 13:45:39",

@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "FRESH / DESTINATION UNKNOWN",
+        "url": "https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE"
+      },
+      "artists": [
+        {
+          "name": "Northern19",
+          "url": "https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "DESTINATION UNKNOWN",
+      "url": "https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U"
+    },
+    {
+      "album": {
         "name": "dingdong jungle",
         "url": "https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh"
       },
@@ -3278,10 +3296,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 223773,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu"
+    },
+    {
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT"
+      },
+      "artists": [
+        {
+          "name": "Arakezuri",
+          "url": "https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223773,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8"
     },
     {
       "album": {
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 143266,
       "name": "Ohichyo",
       "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Dream Wife
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,877 likes - 125 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,950 likes - 125 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Customer Service](https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Customer Service](https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1) | 1:52 |
 | 125 | [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 |
 
-Snapshot ID: `MCxkNjY0OWExZjY3OTQ1NTBlMTQxNTMzMTYwYmM0MTc5MGZkZjcwYmJh`
+Snapshot ID: `MCwzODNkYjhmNzg0M2Q0MmJlNTg3M2UwMzYyN2FkYzQ5ZDM0ZDQyYzQ4`

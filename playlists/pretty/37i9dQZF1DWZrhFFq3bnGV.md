@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jordy Waelauruw
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,258 likes - 111 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,267 likes - 111 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 110 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 111 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `MCxjYzJmMTYxZmQ5NmYyZjhkYjQ5NzQ3OWI2NTBjN2Q3NzRmYmRjZmE4`
+Snapshot ID: `MCw2OTI3ZDgxNWY5MDNkYWJkODBjMDRmOWZiODExN2QyZmJmZmFkOGNm`

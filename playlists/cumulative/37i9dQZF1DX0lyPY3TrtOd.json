@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
@@ -1262,6 +1262,24 @@
       "duration_ms": 198773,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh"
+    },
+    {
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "album": {
@@ -2054,6 +2072,24 @@
       "duration_ms": 222976,
       "name": "The One Who Got Away",
       "url": "https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD"
+    },
+    {
+      "album": {
+        "name": "There's No Sex Without You",
+        "url": "https://open.spotify.com/album/6xOIfNMXygK06HrfHt9HEz"
+      },
+      "artists": [
+        {
+          "name": "Compact Disk Dummies",
+          "url": "https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "There's No Sex Without You",
+      "url": "https://open.spotify.com/track/2cfOAWMV00SWB3Eb6IzqPg"
     },
     {
       "album": {

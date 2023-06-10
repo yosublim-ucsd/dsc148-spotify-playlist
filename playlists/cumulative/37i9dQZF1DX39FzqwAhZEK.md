@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-344 songs - 17 hr 19 min
+345 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Hopes & Dreams](https://open.spotify.com/track/20MbEMn0Dj7ZZZtbPTRfxb) | [Topi Anoz/Ohn Lee](https://open.spotify.com/artist/3ZBmxMD8g2rMip2PRs8fm7) | [The Ocean & Us](https://open.spotify.com/album/1cLNLtJ8coZVxb3DDfkFSh) | 2:31 | 2022-07-05 |  |
 | [Humanoid](https://open.spotify.com/track/0zJP6fC9Ql2WQuPnXBrFrL) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Humanoid](https://open.spotify.com/album/0O8U4dg2RrZZMtKz2F2GHo) | 2:20 | 2022-07-05 |  |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2022-07-05 |  |
+| [I Stillhet](https://open.spotify.com/track/6njvRx7CurDgY3G5TBdtkO) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [I Stillhet](https://open.spotify.com/album/7FdCOiTsknClP9umzLUb5c) | 2:53 | 2023-06-09 |  |
 | [I Was There With You, Wasn't I?](https://open.spotify.com/track/3hdLEsmlTEfRFyEoyNb6fj) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [I Was There With You, Wasn't I?](https://open.spotify.com/album/3LIzUIt8eTBG4YBuGeQoGz) | 3:06 | 2022-07-05 | 2023-02-10 |
 | [I Was There With You, Wasn't I?](https://open.spotify.com/track/50kG6yXnnPbFO0N7s3a4N3) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [I Was There With You, Wasn't I?](https://open.spotify.com/album/5u2iBhObDLSVdYNNXgAn2b) | 3:06 | 2022-07-05 | 2022-07-29 |
 | [Illustratosphere](https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Illustratosphere](https://open.spotify.com/album/2trYEddNf9iBEBUzyUlS6s) | 3:30 | 2022-07-05 |  |
@@ -224,7 +225,7 @@
 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
 | [Orbit](https://open.spotify.com/track/0n8IZnobhLxdjk02TtAnQj) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Orbit](https://open.spotify.com/album/0eRqxc2mha7D43HwvqgLDs) | 2:36 | 2023-01-27 |  |
-| [Over the Mediterranean](https://open.spotify.com/track/0p2nXjOZnxh8opbaeBYSLa) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/1sZV2b0Aob9GurOCUr14Fd) | 3:11 | 2022-07-05 |  |
+| [Over the Mediterranean](https://open.spotify.com/track/0p2nXjOZnxh8opbaeBYSLa) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/1sZV2b0Aob9GurOCUr14Fd) | 3:11 | 2022-07-05 | 2023-06-10 |
 | [Over the Mediterranean](https://open.spotify.com/track/7swVudxGbAVwchQ7BrGeix) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/2pNxncWOxy71ewltzhYDVh) | 3:11 | 2022-07-05 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/0iZTYCYfk5UEfm8AEWyEb4) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:16 | 2022-07-05 |  |
 | [Paralian](https://open.spotify.com/track/2tEsGZfscyYYnHF7exJFIA) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Paralian](https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo) | 2:35 | 2022-07-05 |  |

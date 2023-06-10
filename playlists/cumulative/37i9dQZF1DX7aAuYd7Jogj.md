@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-322 songs - 15 hr 43 min
+324 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Beauty Inside](https://open.spotify.com/track/3EoB47UhhyDo8pQVZ3AZnN) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga 2](https://open.spotify.com/album/5FsOZs6yup9qNrFG82VCKR) | 2:32 | 2023-04-06 |  |
 | [Becalming](https://open.spotify.com/track/0SHIkGcjuVoAuAbezjBfiT) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Becalming](https://open.spotify.com/album/69OXN86g9WZ04FvDs0Nlgp) | 3:10 | 2023-04-06 |  |
 | [Becalming Silence](https://open.spotify.com/track/73E1cWwhV9iyIfiyyH26Mn) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Becalming Silence](https://open.spotify.com/album/7ynySTl54ib9UJLkgwrvak) | 2:29 | 2023-04-06 |  |
+| [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-06-09 |  |
 | [Bela adormecida](https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF) | [Solidão](https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV) | [Bela adormecida](https://open.spotify.com/album/68lqrfMKELldWPve5nu9he) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 | 2023-04-06 |  |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-04-06 |  |
@@ -227,6 +228,7 @@
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2023-04-06 |  |
 | [Profundo Gozo](https://open.spotify.com/track/4nQYz3auP1cTpuvmTrVGkf) | [Hot Hot Springs](https://open.spotify.com/artist/7Mr7UHW0sdgRNuXYpb030K) | [Profundo Amor](https://open.spotify.com/album/4NzOAAKljBEm8GOyZBWYgw) | 2:09 | 2023-04-06 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2023-04-06 |  |
+| [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 | 2023-06-09 |  |
 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 | 2023-04-06 |  |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-04-06 |  |
 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2023-04-06 |  |

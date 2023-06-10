@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Pailita & Ak4:20.",
+  "description": "Este Flow tiene otro Flow. Foto: Malito Malozo & King Savagge.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
+    {
+      "album": {
+        "name": "+ Q LA XUXA",
+        "url": "https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160961,
+      "name": "+ Q LA XUXA",
+      "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
+    },
     {
       "album": {
         "name": "12:30",
@@ -118,6 +136,24 @@
       "duration_ms": 124254,
       "name": "40 GRADOS EN LA CIUDAD",
       "url": "https://open.spotify.com/track/0NJ8EStpxZZo8xUJ0A0STe"
+    },
+    {
+      "album": {
+        "name": "50 Veces",
+        "url": "https://open.spotify.com/album/1AbU9tweyR9navoVIIOwr0"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129198,
+      "name": "50 Veces",
+      "url": "https://open.spotify.com/track/3J5KGaovaa1gnDf1b0SvXA"
     },
     {
       "album": {
@@ -1284,6 +1320,32 @@
       "duration_ms": 198556,
       "name": "Colores",
       "url": "https://open.spotify.com/track/07SMblbVsNn7rCCPDzLObC"
+    },
+    {
+      "album": {
+        "name": "COMO SI FUERA AYER",
+        "url": "https://open.spotify.com/album/1MmyskU05OSNeHVZZgYdou"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185007,
+      "name": "COMO SI FUERA AYER",
+      "url": "https://open.spotify.com/track/3HeHiq9r5reW0r2bPvxFvz"
     },
     {
       "album": {
@@ -2745,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Foto Maldita",
+        "url": "https://open.spotify.com/album/7wN1VbDcN8dAe6bPPKyzvJ"
+      },
+      "artists": [
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Foto Maldita",
+      "url": "https://open.spotify.com/track/1BZDYbJ0dcETSWjo7okhhr"
+    },
+    {
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -3775,6 +3859,28 @@
     },
     {
       "album": {
+        "name": "LAS 2",
+        "url": "https://open.spotify.com/album/7Bd9ISXtfykKDTUPs7BoQi"
+      },
+      "artists": [
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216615,
+      "name": "LAS 2",
+      "url": "https://open.spotify.com/track/13bLoJttbnvfG7gURJlT3x"
+    },
+    {
+      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -3964,7 +4070,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 370666,
       "name": "LOKOTRON REMIX",
       "url": "https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj"
@@ -4568,6 +4674,28 @@
       "duration_ms": 168874,
       "name": "Me Tiene Mal",
       "url": "https://open.spotify.com/track/4iq5mEwLdgLw2JxrRC3pHK"
+    },
+    {
+      "album": {
+        "name": "Me Veo Rico",
+        "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164724,
+      "name": "Me Veo Rico",
+      "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
     },
     {
       "album": {
@@ -5992,7 +6120,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 263225,
       "name": "Pal' Perreo Saliste",
       "url": "https://open.spotify.com/track/3yty4OtcUqgeyJLgaAxWNd"
@@ -7380,7 +7508,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 394285,
       "name": "Se Lo Meti Suave",
       "url": "https://open.spotify.com/track/0ZJ8WnVV4FzKhKtkPcp34P"
@@ -8676,7 +8804,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178789,
       "name": "T\u00fa Me Mientes",
       "url": "https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb"
@@ -8962,7 +9090,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 138697,
       "name": "Viviendo La Movie",
       "url": "https://open.spotify.com/track/7Lf10nYL7hl4s5ckYGQbej"
@@ -9094,7 +9222,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178744,
       "name": "YA TO SAEN K ERES MIA",
       "url": "https://open.spotify.com/track/4ZJBWt867WdntFMLIhFuek"

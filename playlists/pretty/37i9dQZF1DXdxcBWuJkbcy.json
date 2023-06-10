@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6863827,
+  "num_followers": 6864552,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODVjZjMzZjgyYTNlOWZjOWI2NmMxY2MxZjk4N2VmYjQxZjFiMDdj",
+  "snapshot_id": "MCwwZTZhYWY5YzA4YjVlNTNjZjZhMjAyYjEyNzAxODlmMDZhNTUyY2Ux",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1061,24 +1061,28 @@
       "url": "https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt"
     },
     {
-      "added_at": "2023-05-25 22:00:00",
+      "added_at": "2023-06-02 07:16:46",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1117,28 +1121,24 @@
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
-      "added_at": "2023-06-02 07:16:46",
+      "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Broken (Lost Frequencies Cut)",
         "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 172790,
       "name": "Broken - Lost Frequencies Cut",
       "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-05-25 22:00:00",

@@ -2,7 +2,7 @@
 
 ### [EQUAL New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
 
-> Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
+> Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
 87 songs - 7 hr 56 min
 

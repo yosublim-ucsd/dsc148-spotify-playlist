@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-107 songs - 5 hr 22 min
+108 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ahora No Puedo Dormir](https://open.spotify.com/track/73d3mhXUHvzdoPT4kUncs6) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Ahora No Puedo Dormir](https://open.spotify.com/album/0vQWHdxMrmhw2h8HxIc8hL) | 2:40 | 2022-02-04 | 2022-08-05 |
 | [Ahora No Puedo Dormir](https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ahora No Puedo Dormir](https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3) | 2:36 | 2021-09-10 |  |
 | [Airton Sena](https://open.spotify.com/track/0AMgSWPInzBYqVuuNqD7q5) | [BERNA](https://open.spotify.com/artist/0pu9CItC6Ei7YDVdP7Bz1f), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR) | [Loser](https://open.spotify.com/album/1woYPuvg5mxx3ebdwrpVaj) | 2:24 | 2021-09-10 |  |
+| [Ambición](https://open.spotify.com/track/2cBeCJBqMNcnRDLxjBqZ5s) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Ambición](https://open.spotify.com/album/1T6TMQx5PXd4TaMtShzCBx) | 3:05 | 2023-06-09 |  |
 | [Anda Sola](https://open.spotify.com/track/5TTK8WMXJOwvgXgexMxlCc) | [Yannick](https://open.spotify.com/artist/6sS7188uJ5srzBOE8MnZZd), [Garotihnio](https://open.spotify.com/artist/1RJLHuc4Gpbsm8fLhTUz33), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Anda Sola](https://open.spotify.com/album/7DtLZineSoRw24eCiqSczB) | 4:13 | 2021-09-10 |  |
 | [Aturdido](https://open.spotify.com/track/2D7z2aQ5m29sz7O4atGKrf) | [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [Aturdido](https://open.spotify.com/album/4v6M2FKVF4mh3fmcITcx2j) | 2:07 | 2021-09-10 |  |
 | [B\. O\. B](https://open.spotify.com/track/4cXjkpjYYu0V4UC4FOgwko) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR), [Tokio Kid](https://open.spotify.com/artist/7LbAa0SzZBV93ZBEAfbybU), [Fiaka](https://open.spotify.com/artist/4WnQ5jwWJqzFPWIY4ehuGk) | [B\. O\. B](https://open.spotify.com/album/1VbDvnmTijKQOgu9diqVHd) | 3:29 | 2021-09-10 |  |

@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-237 songs - 15 hr 2 min
+238 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 | 2021-12-09 | 2023-03-08 |
 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 | 2021-12-09 | 2023-04-29 |
 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-04-07 | 2023-05-06 |
+| [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 | 2023-06-09 |  |
 | [Only Songs \(Radio Edit\)](https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 3:03 | 2021-12-09 | 2022-07-25 |
 | [Open up the Heavens](https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Open up the Heavens](https://open.spotify.com/album/6uNbLM4IL5OojfhAb8nISM) | 2:41 | 2021-12-09 | 2022-07-29 |
 | [Open up the Heavens](https://open.spotify.com/track/5N2DUST2UGPbE6EiWNpbd1) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:41 | 2022-02-17 | 2022-11-13 |
@@ -238,7 +239,7 @@
 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/4z1vkuuzWQhgELq8K2dac8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Who Do You Think You're Talking To?](https://open.spotify.com/album/6BnRn786U8IkixwdKEycoF) | 3:19 | 2021-12-09 | 2022-07-29 |
 | [Why You Gotta Be](https://open.spotify.com/track/4DRe9zhFiYvRzixDqsSiOC) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Why You Gotta Be](https://open.spotify.com/album/1tYpSLfWGpyUzRttN5Kkt6) | 3:48 | 2021-12-09 | 2022-07-03 |
 | [Why You Gotta Be](https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:48 | 2022-02-17 | 2023-04-29 |
-| [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2022-02-17 |  |
+| [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2022-02-17 | 2023-06-10 |
 | [Wired](https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [Wired](https://open.spotify.com/album/2XP0xgThQjhcAeJGYCZO6c) | 4:40 | 2021-12-09 | 2022-07-18 |
 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 | 2022-02-17 |  |
 | [Wish I Knew You](https://open.spotify.com/track/7jpP6QKGSJDpSFkAy3nKxG) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/0AvofRwpMFBiwA7ouH8oBT) | 4:34 | 2021-12-09 | 2022-07-29 |

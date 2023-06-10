@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > d min bratkooooo
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,455 likes - 85 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,496 likes - 85 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 11 | [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 |
 | 12 | [Pronto](https://open.spotify.com/track/3gySkr0JdSdU41WKDBWPn5) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Pronto](https://open.spotify.com/album/3DAZWovcMQ64ZFXYQ3cAE5) | 2:14 |
 | 13 | [Igen](https://open.spotify.com/track/47HJKtFmhMkV6WPBt5YVlR) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Igen](https://open.spotify.com/album/1iuLlpN0sB5dFelFzBVjmx) | 3:01 |
-| 14 | [MALMO VICE](https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMO VICE](https://open.spotify.com/album/7xnOMx2EiUCYSmNQkFxT4h) | 2:00 |
+| 14 | [MALMÖ VICE](https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMÖ VICE](https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy) | 2:00 |
 | 15 | [SICARIOS](https://open.spotify.com/track/7voezAUbxEsKUdbTw3DhEC) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SICARIOS](https://open.spotify.com/album/52JqDYuiWhWK4Ue0APelMF) | 2:00 |
 | 16 | [6 1 Night](https://open.spotify.com/track/6hRykwokvxC051CxLQcgFZ) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [6 1 Night](https://open.spotify.com/album/7cJPcG6O3enJ6LHwVgv7NW) | 2:08 |
 | 17 | [Gangster Syndrom](https://open.spotify.com/track/020wuMNnDUUn6SUlIFvoqf) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [Gangster Syndrom](https://open.spotify.com/album/2AUtTwdq0G6WKkw2wqMJHQ) | 2:50 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 42 | [mitt namn är \_\_\_\_\_\_](https://open.spotify.com/track/3Lmg76oMNt0UyRd8OVGTLY) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 2:00 |
 | 43 | [Heady](https://open.spotify.com/track/06UrJVwbBaCLZGbEm5EfLz) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:26 |
 | 44 | [KONTROLL](https://open.spotify.com/track/5sIRgBsPFruLgTs6Sx4dju) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8) | 2:39 |
-| 45 | [DIANA](https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/463hymJPPE49Iyhxdzgy5s) | 2:28 |
+| 45 | [DIANA](https://open.spotify.com/track/3fYtCSU8WwhrUql7VHYoFn) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/6G2FVjxl8Ag5rDe4eC3KkV) | 2:28 |
 | 46 | [Arsenal](https://open.spotify.com/track/6kHtA8VtUOJvDtkk4CBPEE) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Arsenal](https://open.spotify.com/album/6mvuLWJYMCskZEJJyRppmP) | 2:31 |
 | 47 | [Hela tiden](https://open.spotify.com/track/0dHgVQ69viWIjZSrbwdxjC) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Hela tiden](https://open.spotify.com/album/03ZGZE1ivNEOQUsfTsvx0V) | 2:10 |
 | 48 | [Bland Banditer](https://open.spotify.com/track/1J5ES79cOICsM2VNGIZzak) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Bland Banditer](https://open.spotify.com/album/2pvlDls9V2EyYpVA1RBn3X) | 2:47 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 50 | [MONEY TALKS](https://open.spotify.com/track/6pUnTyUta8NreXEufzl2ii) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [MONEY TALKS](https://open.spotify.com/album/5BucMLq6Qu6oP7iaM5VZxB) | 2:18 |
 | 51 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 |
 | 52 | [Long Time No See](https://open.spotify.com/track/6X7YVlRMEDjPcNC15UYoCY) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Long Time No See](https://open.spotify.com/album/6xtBhrTL8wXjt9SNcQLjme) | 2:06 |
-| 53 | [Bacardi](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [Bacardi](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 |
+| 53 | [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 |
 | 54 | [Hey Ma](https://open.spotify.com/track/7wkRyCd628oRfW3c78534F) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Hey Ma](https://open.spotify.com/album/4qfqWzsEYkMCS75fF4c49Y) | 2:16 |
 | 55 | [balans \(va händer fatima!!?\)](https://open.spotify.com/track/6kBRWbqUJNWmuhHYWzj6BT) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 2:15 |
 | 56 | [Öppet Hav \(feat\. Sandra Isabel\)](https://open.spotify.com/track/5UJmZgbI0jAEbNj6TzEiPk) | [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [Sum Comfort](https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP), [Sandra Isabel](https://open.spotify.com/artist/1uS3T1JFEw7W8yxDEgbfXt) | [10 Somrar Senare](https://open.spotify.com/album/5mxMBUII9sZLTvnVX02sZc) | 3:19 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [CHROME HEARTS](https://open.spotify.com/track/15myElcUodWzdBhmeCRkF3) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [CHROME HEARTS](https://open.spotify.com/album/53aSOp9m0KGQmk00qdb69U) | 2:19 |
 | 85 | [Swervin](https://open.spotify.com/track/52DaVto2mC1WRYvqzv1XUQ) | [GSM GULLY](https://open.spotify.com/artist/1ijkpUlX703OAydlPtNVzP) | [Swervin](https://open.spotify.com/album/28f2jocrQQJvi4HHMdC4pc) | 3:15 |
 
-Snapshot ID: `MCxjMGNkMWYxZDZlNmI0ZjkzOWI1YmY5OTNiYmQ5ODFjNzM1NWJiZGFm`
+Snapshot ID: `MCw4YjJhZGQ5OTE2Yzc4ZDBlOWYxOTI4NTljYmIzMTk0YzQ1NDI0MjVl`

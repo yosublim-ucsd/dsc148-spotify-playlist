@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,099 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,114 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 48 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
 | 49 | [Ain't Nobody \- Live](https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 6:14 |
 | 50 | [You Got Me \(Featuring Jill Scott\) \- Live / 1999](https://open.spotify.com/track/71he7ShvDkKna60RozMqyN) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [The Roots Come Alive](https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB) | 8:50 |
-| 51 | [Love the One You're With \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 4:21 |
-| 52 | [Compared to What \- Live](https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Compared to What](https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3) | 8:43 |
+| 51 | [Compared to What \- Live](https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Compared to What](https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3) | 8:43 |
+| 52 | [Love the One You're With \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 4:21 |
 | 53 | [Ascension \(Don't Ever Wonder\) \- Live from MTV Unplugged, Brooklyn, NY \- May 1997](https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [MTV Unplugged](https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs) | 5:10 |
 | 54 | [Colors](https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 4:29 |
 | 55 | [Claustrophobic \(feat\. Keyon Harrold\) \- Live](https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 5:10 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 57 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
 | 58 | [Never Too Much \- Live at Radio City Music Hall, New York \- Feb\. 12, 2003](https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Live Radio City Music Hall 2003](https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu) | 4:02 |
 | 59 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 |
-| 60 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 |
-| 61 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
+| 60 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
+| 61 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 |
 | 62 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
 | 63 | [Street Life \- Live](https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 6:06 |
 | 64 | [Misty Blue \- Live](https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [A Song for You \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 5:48 |
 | 100 | [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 3:02 |
 
-Snapshot ID: `MCxhZDUyOWYxNDgyNjliYWQxYzQ0MjczNDVkOGM1ZjYyYjYxNWFmMTUw`
+Snapshot ID: `MCw5NWI3YTk1NjRiMWIwOTg4Njg1ZDRiYmNjZjlhNjc2ZWJiOGE5NGM2`

@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-214 songs - 13 hr 54 min
+215 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Aurora](https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc) | 4:25 | 2022-07-28 | 2022-12-07 |
 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 | 2022-07-29 | 2022-12-07 |
 | [Ballongen](https://open.spotify.com/track/7t6y7KQoyTlxo3yXqAwSU3) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Sole Gipp Ossler](https://open.spotify.com/artist/4W6WFc9Q6Zx4SkrfO94D9W) | [Ballongen](https://open.spotify.com/album/3IdofACTDhIZLRqeAT9rxe) | 3:24 | 2022-07-29 |  |
-| [Being Outside Being](https://open.spotify.com/track/4Vxs0CpT7C5ENZ9DxQZtb5) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [When You Are](https://open.spotify.com/album/0foarjbOjwt6MHqKi3wJMH) | 2:55 | 2022-07-27 |  |
+| [Being Outside Being](https://open.spotify.com/track/25beiV68ChccJgdJkb7b42) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [When You Are](https://open.spotify.com/album/01SGUGJhKMj0Brn5S9mOYa) | 2:55 | 2023-04-27 |  |
+| [Being Outside Being](https://open.spotify.com/track/4Vxs0CpT7C5ENZ9DxQZtb5) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [When You Are](https://open.spotify.com/album/0foarjbOjwt6MHqKi3wJMH) | 2:55 | 2022-07-27 | 2023-06-10 |
 | [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/3juW67GUopzqRZegUIHq7I) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/4bj8Pczx5TtSBRqMolcaZe) | 4:13 | 2022-09-14 | 2022-11-09 |
 | [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/5YjlEg0xoZBS3QgyHRhurI) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/1rbXMJPGuH844Uztot8ZeP) | 4:13 | 2022-10-04 | 2022-12-07 |
 | [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/6h6mAHQngjChkwiOR8Zr0C) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Being \(Midori Hirano Rework\)](https://open.spotify.com/album/1FJ2B4lbxJmqIhgX4dpSKS) | 4:13 | 2022-10-04 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,261 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,277 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Clawhammer](https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 4:30 |
 | 50 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 |
 
-Snapshot ID: `MCwxOGIyZGMxODNkOWIzYmNjM2MwNmFjZTgxMWRkNjE3NjQxNjJiZDAx`
+Snapshot ID: `MCwzM2EwZTJkOGI2NTcxNjBmZmNjODA5OTliNDY2MGI2N2I0YTRiMTg2`

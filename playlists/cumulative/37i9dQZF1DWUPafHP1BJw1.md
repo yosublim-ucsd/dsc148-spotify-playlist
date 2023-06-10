@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-159 songs - 9 hr 33 min
+161 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Eleanor Rigby \- Live](https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5) | [Ted Yoder](https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9) | [Ted Yoder Band Live](https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV) | 4:03 | 2022-10-28 |  |
 | [everything i wanted \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [everything i wanted \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw) | 4:05 | 2021-11-19 |  |
 | [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 | 2022-12-02 |  |
+| [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 | 2023-06-09 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO) | [Christopher O'Riley](https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I) | [True Love Waits \(Christopher O'Riley Plays Radiohead\)](https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm) | 4:54 | 2021-11-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Fingers Crossed](https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k) | 2:57 | 2022-03-25 |  |
 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 | 2022-01-28 | 2022-03-26 |
@@ -107,6 +108,7 @@
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-04-14 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-07-08 |  |
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 | 2022-07-29 |
+| [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 |  |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:22 | 2022-12-02 |  |

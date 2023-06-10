@@ -1,12 +1,12 @@
 {
   "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=uzV2N76IT_CvQADlCL8I7g\">Anz\u00e9lle</a>",
-  "num_followers": 10040,
+  "num_followers": 10087,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmNkZDMwNWIzZjU2NjIyYTgwMjkyZjA1NzEwM2JkZTU3ZmI3YmUy",
+  "snapshot_id": "MCw4YzFhYzcyYjcwN2M3ZjkwYWRlMDIwNDAyY2JjMTBjMTFiNDMxM2E2",
   "tracks": [
     {
       "added_at": "2023-06-08 21:59:00",
@@ -107,6 +107,22 @@
       "duration_ms": 230080,
       "name": "Koue Kole",
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
+    },
+    {
+      "added_at": "2023-06-09 08:31:12",
+      "album": {
+        "name": "Pa Staan Vir Jou",
+        "url": "https://open.spotify.com/album/5562QGSuhFGerIrPFELKNm"
+      },
+      "artists": [
+        {
+          "name": "Jan Rhaap",
+          "url": "https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Pa Staan Vir Jou",
+      "url": "https://open.spotify.com/track/3wsBtZNuGxiFJ1f7oLq86J"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -831,22 +847,6 @@
       "duration_ms": 220831,
       "name": "Swipe Regs",
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Man so na my hart",
-        "url": "https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C"
-      },
-      "artists": [
-        {
-          "name": "Elizma Theron",
-          "url": "https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Man so na my hart",
-      "url": "https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

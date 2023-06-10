@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-174 songs - 14 hr 53 min
+175 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
-| [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 | 2023-03-17 |  |
+| [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 | 2023-03-17 | 2023-06-10 |
 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 | 2022-08-26 |  |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-06-03 | 2022-08-13 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 |  |
@@ -56,6 +56,7 @@
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
 | [Free \- Bruno Furlan Remix](https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 3:49 | 2023-03-17 | 2023-04-29 |
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
+| [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 |  |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |

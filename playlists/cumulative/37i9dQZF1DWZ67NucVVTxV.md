@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-287 songs - 14 hr 4 min
+288 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-07-23 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-03-31 |  |
 | [Lagos](https://open.spotify.com/track/4qhQij4PxJJ6N5IsLm6Xd3) | [Julysingsong](https://open.spotify.com/artist/0q0r6CIPBKY38aV7CdFz8w) | [Lagos](https://open.spotify.com/album/3sT1qq0ZkO6vdYIkAAs55Y) | 3:16 | 2022-07-14 | 2022-07-23 |
+| [Last drop](https://open.spotify.com/track/0NYlr5MStDtS0EyNWg3md8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:38 | 2023-06-09 |  |
 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2021-08-13 |  |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-09-24 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 |  |
@@ -277,7 +278,7 @@
 | [Vibrate](https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp) | [Lynx](https://open.spotify.com/artist/2CRAIABBJmFohN8CgSyWp2), [DSL](https://open.spotify.com/artist/0VmssGpE5BEED12qn6DJt5), [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye) | [Coming Soon](https://open.spotify.com/album/3F2XTxYypkPziaKfYcL0he) | 2:21 | 2023-01-27 | 2023-02-11 |
 | [Virgin](https://open.spotify.com/track/2ejOZkQspClRT6XBmisNgR) | [A.BEEB](https://open.spotify.com/artist/3as6yHHx8871JLAU4hfD7T) | [Virgin](https://open.spotify.com/album/6iR7uhRbK8A9pTrLEEkez5) | 2:50 | 2022-09-09 | 2022-09-24 |
 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 | 2023-04-14 |  |
-| [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 | 2023-04-14 |  |
+| [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 | 2023-04-14 | 2023-06-10 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-01 |  |
 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 | 2021-07-05 |  |
 | [Weekenjoyment](https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 2:48 | 2022-07-22 | 2022-08-06 |

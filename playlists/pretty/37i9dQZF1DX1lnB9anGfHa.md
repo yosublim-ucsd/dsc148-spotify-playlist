@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,771 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,869 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 43 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 |
 | 44 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 45 | [СКАЗКА](https://open.spotify.com/track/1yMbPuYkplb5CZsq82cCl7) | [di liberta](https://open.spotify.com/artist/2bwZPyuLpiDOcE3L6pwWys), [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [РОДНОЙ](https://open.spotify.com/album/1lObcezMQtWheQU0OOH1uP) | 3:03 |
-| 46 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 |
+| 46 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 |
 | 47 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
-| 48 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 |
+| 48 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 |
 | 49 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
 | 50 | [Sangkakala](https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [Puxxximaxxx](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed) | 1:48 |
 
-Snapshot ID: `MCw3M2JlMjMyOGU0MGRmOGI2MjBjNThjODZhODIyYzUwOGFjZDcxYjk5`
+Snapshot ID: `MCw0MDI1NjRlNThlYmE5MzQ0ZjEyZGVmNzUxNTRlYjBhODVhYWI5MmRm`

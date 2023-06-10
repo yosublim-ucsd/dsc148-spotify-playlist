@@ -2,9 +2,9 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: Måneskin
+> The hottest tunes in rock\. Crank it up! Cover: City and Colour
 
-635 songs - 1 day 11 hr 59 min
+637 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Love To Give](https://open.spotify.com/track/66U2MeioMcHRoSrajBi8L1) | [jackie](https://open.spotify.com/artist/3NzCozHmvMqMMLDeTnCYwA) | [Hey Angel](https://open.spotify.com/album/7il0R5WCzVPge8gNmulRW6) | 3:23 | 2022-01-28 | 2022-06-11 |
 | [Love Will Get You There](https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:10 | 2023-02-17 | 2023-03-11 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 | 2022-09-10 |
+| [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-09 |  |
 | [Lustre Parfait](https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc), [Bob Rock](https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg) | [Lustre Parfait](https://open.spotify.com/album/3COm2ocWxMY5cupg6hLcRk) | 3:53 | 2022-10-21 | 2022-11-26 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-05 | 2023-03-18 |
 | [Magical Thinking](https://open.spotify.com/track/5dkhw3KEwufj4WXk5RsFPH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Magical Thinking](https://open.spotify.com/album/2ZuaDhfl1Kp6VPU9ngGmpj) | 3:41 | 2022-09-23 | 2022-10-22 |
@@ -351,6 +352,7 @@
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 |  |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 |  |
 | [Mercy](https://open.spotify.com/track/7JbONdZR1a15XAflyiFp2N) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 3:34 | 2021-12-31 | 2022-03-12 |
+| [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 |  |
 | [Metro](https://open.spotify.com/track/0qLy2FPIiqqkf693GGm9sC) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Metro](https://open.spotify.com/album/67p9TWhnhSadOPcBEunSeZ) | 3:00 | 2022-03-25 | 2022-06-11 |
 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 | 2022-07-22 | 2022-08-06 |
 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM) | 4:00 | 2021-12-31 | 2022-01-29 |

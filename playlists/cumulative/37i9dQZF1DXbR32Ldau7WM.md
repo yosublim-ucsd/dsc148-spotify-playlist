@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: Cornelius
 
-620 songs - 1 day 17 hr 11 min
+621 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [abnormalize \(10th anniversary mix\)](https://open.spotify.com/track/0QKp0szQKadRZyv8Z41Xsz) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [アレキシサイミアスペア](https://open.spotify.com/album/2aqEPOonU6GGvuxJjVR5tr) | 3:41 | 2023-05-09 |  |
 | [Ain't That So Awesome](https://open.spotify.com/track/5SttGai4pssVpymhyYZGLC) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/6V1A127GqQOGQOslh0an1k) | 3:39 | 2022-10-29 | 2022-11-02 |
 | [All for RAN](https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8) | [T.C.R横浜銀蝿R.S.](https://open.spotify.com/artist/0aJenP5NVBmexzvl9zeme1) | [All for RAN](https://open.spotify.com/album/1JxOZW4NUViYk6Svm771w7) | 5:09 | 2022-10-29 | 2022-11-02 |
+| [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-06 |  |
 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2022-12-20 | 2023-05-10 |
 | [All We Need Is Summer Day](https://open.spotify.com/track/4qtgwiStMnnZjDDAvCayeV) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Hourglass / One More Time / All We Need Is Summer Day / 白夜の日々 \(Album Version\) / Spirit Explosion / 泡沫 \(Album Version\)](https://open.spotify.com/album/3lifxra2Pyp4H8LQvcslF6) | 2:42 | 2022-08-09 | 2022-08-24 |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2022-11-22 | 2022-12-07 |
@@ -578,7 +579,7 @@
 | [涅槃](https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [PAIN KILLER](https://open.spotify.com/album/3BETwNVDIswbCpCS4M8wxz) | 4:15 | 2023-02-21 | 2023-03-01 |
 | [深緑の Morning glow](https://open.spotify.com/track/4nHZgxPtYZHW2julZsOs5V) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:13 | 2022-11-22 | 2022-11-30 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-16 | 2023-05-26 |
-| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 |  |
+| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 | 2023-06-10 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 | 2022-09-30 |
 | [無限 LOOP](https://open.spotify.com/track/0ydnroBWtgH9gswTVmqGxt) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [無限 LOOP](https://open.spotify.com/album/6zu6PJ0tNLAXN5So6vJuLS) | 4:17 | 2023-03-21 | 2023-03-23 |
 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 | 2022-05-10 | 2022-07-25 |

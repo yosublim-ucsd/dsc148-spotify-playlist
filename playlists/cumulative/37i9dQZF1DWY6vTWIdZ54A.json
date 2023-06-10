@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs that get down and dirty. Cover: The Blue Stones",
+  "description": "Rock songs that get down and dirty. Cover: Royal Blood",
   "name": "Dirty Rock",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 182280,
       "name": "A Taste of Silver",
       "url": "https://open.spotify.com/track/5SOuMXd2jaCZY8m3sjzohx"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 246101,
       "name": "Asleep at the Wheel",
       "url": "https://open.spotify.com/track/5C0wlC8WJeiGbuI2THoG1U"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208173,
       "name": "Atta Blues",
       "url": "https://open.spotify.com/track/1szDKbUMeO9mGFG4YEGCJ4"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180400,
       "name": "Baby I Call Hell",
       "url": "https://open.spotify.com/track/3LBkRFoMoyWzhdUeIMJKrc"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190175,
       "name": "Black Angel",
       "url": "https://open.spotify.com/track/0xVAczAoamCuTdRSPysrj1"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 373000,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/55kiPvtypgGabvBYq53O8E"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160240,
       "name": "Brave New World - Edit",
       "url": "https://open.spotify.com/track/4k5L5CO5mTIVwdsu6vsIFl"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179268,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5jagZTtWOjehhhr9whpn0Z"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 260360,
       "name": "Charlie Patton Highway (Turn it Up, Pt. 1)",
       "url": "https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 204747,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/77J0dA0pEbJj31N9Dww4NB"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 316453,
       "name": "Currency",
       "url": "https://open.spotify.com/track/1kdKw9kOzfBglaRbF0NUsV"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 206000,
       "name": "Down To The Devil",
       "url": "https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73"
@@ -1314,6 +1314,24 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "album": {
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201826,
       "name": "Facing My Fear",
       "url": "https://open.spotify.com/track/45AbDqJVqVU7nOxtW4SUTG"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 272066,
       "name": "Flesh and Bone",
       "url": "https://open.spotify.com/track/4l7F39cJ9mejxpuDp8rUX0"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180586,
       "name": "Forgiveness Through Pain",
       "url": "https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 165481,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx"
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 154506,
       "name": "Head Bent",
       "url": "https://open.spotify.com/track/5w3GzMoxcXp5azirKIxJza"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215480,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168852,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/57ala3dITsOzu59EfKMTlA"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196770,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/55mdS8S3yfaFlQkFmfTEYU"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186847,
       "name": "Honeybrains",
       "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201230,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/1r7PBed0nZQo31UU1g0aRA"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 273533,
       "name": "Lights of The City",
       "url": "https://open.spotify.com/track/5APY2t9RdWVJSg4jDObkip"
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240773,
       "name": "Listen My Son",
       "url": "https://open.spotify.com/track/7rfsMduLxpnpfVs2PYZDPA"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 211106,
       "name": "Love Spills",
       "url": "https://open.spotify.com/track/6PgYxALBTd2JmgsU8neAUz"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 250013,
       "name": "Making Gestures",
       "url": "https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y"
@@ -2757,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "album": {
         "name": "Oddnote",
         "url": "https://open.spotify.com/album/4tNekkQlNnl1w35ZjPF2TZ"
       },
@@ -2786,7 +2822,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 305345,
       "name": "Mother - Single Version",
       "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191866,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/696wtDyZUK2UJgu0fsVGIT"
@@ -2826,6 +2862,24 @@
       "duration_ms": 191869,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4S28LWCOCR7eKkYYCrk9fN"
+    },
+    {
+      "album": {
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "album": {
@@ -2973,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
+    },
+    {
+      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -3020,7 +3092,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184000,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb"
@@ -3074,7 +3146,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183720,
       "name": "Night People",
       "url": "https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX"
@@ -3110,7 +3182,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 159437,
       "name": "No Retreat",
       "url": "https://open.spotify.com/track/4Ah9x6y0X02TeazteMaypU"
@@ -3182,7 +3254,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
@@ -3306,6 +3378,24 @@
       "duration_ms": 209029,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/3apo1b70qELYcphJj5B3sk"
+    },
+    {
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "album": {
@@ -3500,7 +3590,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 210239,
       "name": "Rambler - Bonus Track",
       "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
@@ -3536,7 +3626,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 370546,
       "name": "Remember the Taker",
       "url": "https://open.spotify.com/track/59n8RDNnJn29BTFaPTIRZy"
@@ -3666,7 +3756,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179872,
       "name": "Say Your Prayers",
       "url": "https://open.spotify.com/track/7dMev0fBdUJA7GnEHNyYLs"
@@ -3702,7 +3792,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155882,
       "name": "Shadow of Your Love",
       "url": "https://open.spotify.com/track/6SgKK2Lj3kMcX2tqLqJxkP"
@@ -3828,7 +3918,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199786,
       "name": "Sleeping with Lions",
       "url": "https://open.spotify.com/track/13gax9oQUwc13mshdh7C2j"
@@ -3900,7 +3990,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 248360,
       "name": "Speed Queen",
       "url": "https://open.spotify.com/track/2zKi6xzM7MmdFg9JIltwu7"
@@ -4062,7 +4152,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219720,
       "name": "Sunday Driver",
       "url": "https://open.spotify.com/track/7dNDyDsDdN2X2n0cWIon5e"
@@ -4116,7 +4206,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 275494,
       "name": "Talk & Walk",
       "url": "https://open.spotify.com/track/4b76hNVL3wrHEAXcRSIlvJ"
@@ -4242,7 +4332,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 241764,
       "name": "the depths",
       "url": "https://open.spotify.com/track/6XEPaRg8LRsVb4OMJGxmDG"
@@ -4260,7 +4350,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 214096,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF"
@@ -4426,7 +4516,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 236282,
       "name": "This Land - Single Version",
       "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
@@ -4480,7 +4570,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177706,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0ufX7CKKUMCAknALKH5Cmq"
@@ -4534,7 +4624,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203186,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5nCWfBPzdbgXstg99AUTEb"
@@ -4588,7 +4678,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 209000,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/2qeIFUwxU7f44PUgeahCPo"
@@ -4732,7 +4822,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 200933,
       "name": "Wayne",
       "url": "https://open.spotify.com/track/3MDZ9jGIlOElt3hfHVOOAa"
@@ -4768,10 +4858,28 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195986,
       "name": "Welcome to Silvertown",
       "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
+    },
+    {
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "album": {
@@ -4786,7 +4894,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 200622,
       "name": "What\u2019s It Take To Be Happy?",
       "url": "https://open.spotify.com/track/36ctXtkmh0ot5PTBhlr9vJ"
@@ -4948,7 +5056,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 216264,
       "name": "Yes, I Know",
       "url": "https://open.spotify.com/track/2sRuCtlSlAjjAnw5VWktQ8"

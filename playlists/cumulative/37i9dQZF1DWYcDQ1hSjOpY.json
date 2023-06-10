@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Doux",
+        "url": "https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU"
+      },
+      "artists": [
+        {
+          "name": "Tova Martin",
+          "url": "https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179868,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe"
+    },
+    {
+      "album": {
         "name": "Fliessend",
         "url": "https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9"
       },
@@ -7300,6 +7318,24 @@
       "duration_ms": 165000,
       "name": "Vishram - Sleep Version",
       "url": "https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX"
+    },
+    {
+      "album": {
+        "name": "Doux",
+        "url": "https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU"
+      },
+      "artists": [
+        {
+          "name": "Tova Martin",
+          "url": "https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180450,
+      "name": "Vivant",
+      "url": "https://open.spotify.com/track/52M7KlhS6rvTnDs5dTpRY8"
     },
     {
       "album": {

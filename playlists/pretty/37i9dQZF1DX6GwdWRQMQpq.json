@@ -1,15 +1,31 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto & Cardi B",
-  "num_followers": 2841939,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: City Girls",
+  "num_followers": 2842377,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjMxYTI1NzBiOTg2NjM5ZjhkMDRkNjJmYmJjMTgwNjhjMGQyNTJk",
+  "snapshot_id": "MCxlYTVkMjgzNjE5NzgwOTU2MWY5ZGM5MjdkMzgyNWEyYjkxZDE2OGNk",
   "tracks": [
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
@@ -29,23 +45,35 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Keep Dat Nigga",
-        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
+        "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+        "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
       },
       "artists": [
         {
           "name": "Icandy",
           "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         }
       ],
-      "duration_ms": 138945,
-      "name": "Keep Dat Nigga",
-      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+      "duration_ms": 202468,
+      "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
@@ -65,7 +93,7 @@
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -81,7 +109,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
@@ -97,23 +125,7 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
@@ -137,7 +149,23 @@
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Kill Bill (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
@@ -157,27 +185,7 @@
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
@@ -193,23 +201,7 @@
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ion Need",
-        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 217246,
-      "name": "Ion Need",
-      "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
@@ -225,7 +217,103 @@
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 16:21:04",
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Bed Time (feat. Monaleo & Gloss Up)",
+        "url": "https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "duration_ms": 220443,
+      "name": "Bed Time (feat. Monaleo & Gloss Up)",
+      "url": "https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Not My N*gga Extended",
+        "url": "https://open.spotify.com/album/7gKQ9IlbtIoNEwEZr9qMrv"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 181024,
+      "name": "Not My N*gga Extended",
+      "url": "https://open.spotify.com/track/281hW1bpZ523dJdtspABeh"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
         "url": "https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5"
@@ -249,43 +337,27 @@
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Not My N*gga Extended",
-        "url": "https://open.spotify.com/album/7gKQ9IlbtIoNEwEZr9qMrv"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 181024,
-      "name": "Not My N*gga Extended",
-      "url": "https://open.spotify.com/track/281hW1bpZ523dJdtspABeh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Where The Flowers Don't Die",
-        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 148605,
-      "name": "Goddess (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ"
+      "duration_ms": 189466,
+      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
@@ -305,7 +377,7 @@
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "6000 Degrees (AH HA)",
         "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
@@ -321,7 +393,27 @@
       "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a Liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "No Love Shemix",
         "url": "https://open.spotify.com/album/7iRhbI7T7e0YDwd48qF8gi"
@@ -349,27 +441,7 @@
       "url": "https://open.spotify.com/track/3aSmunIOrv4HRHXeMYT2Ob"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a Liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Hey, Mickey!",
         "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
@@ -389,95 +461,23 @@
       "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "REAL B*TCHES DON'T DIE!",
-        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Kari Faux",
-          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
-        },
-        {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 196163,
-      "name": "WHITE CAPRICE",
-      "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ion Need",
-        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 166820,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4WogmNWETsOaaZXoEb3KXJ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Point Me To The Slut's",
-        "url": "https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni"
-      },
-      "artists": [
-        {
-          "name": "Fendi",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        }
-      ],
-      "duration_ms": 175378,
-      "name": "Point Me To The Slut's",
-      "url": "https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
@@ -497,219 +497,7 @@
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Mean B*tch",
-        "url": "https://open.spotify.com/album/3brZqded9BBCMN3UjALyPO"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Mean B*tch",
-      "url": "https://open.spotify.com/track/4DdSyO7nkxCNlYq9trzJAP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "THE SINGLE LIFE",
-        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "BO$$ CHICK",
-      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Pretty Girls Walk (Remix)",
-        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Dusties",
-        "url": "https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28"
-      },
-      "artists": [
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 146629,
-      "name": "Dusties",
-      "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bed Time (feat. Monaleo & Gloss Up)",
-        "url": "https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        }
-      ],
-      "duration_ms": 220443,
-      "name": "Bed Time (feat. Monaleo & Gloss Up)",
-      "url": "https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
-        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
-      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
-        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        },
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
-      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "DUMB (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 146919,
-      "name": "DUMB (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Shabooya (Remix)",
         "url": "https://open.spotify.com/album/2KEHjeXISKGLpl0VlA652N"
@@ -745,30 +533,182 @@
       "url": "https://open.spotify.com/track/6wSX2NkwA8srMaRhkougg1"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Keep It Cute",
-        "url": "https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW"
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Point Me To The Slut's",
+        "url": "https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni"
+      },
+      "artists": [
+        {
+          "name": "Fendi",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        }
+      ],
+      "duration_ms": 175378,
+      "name": "Point Me To The Slut's",
+      "url": "https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Mean B*tch",
+        "url": "https://open.spotify.com/album/3brZqded9BBCMN3UjALyPO"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Mean B*tch",
+      "url": "https://open.spotify.com/track/4DdSyO7nkxCNlYq9trzJAP"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "DUMB (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 146919,
+      "name": "DUMB (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Ion Need",
+        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 217246,
+      "name": "Ion Need",
+      "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Pretty Girls Walk (Remix)",
+        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 165669,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Dusties",
+        "url": "https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28"
       },
       "artists": [
         {
@@ -776,88 +716,12 @@
           "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
         }
       ],
-      "duration_ms": 171474,
-      "name": "Keep It Cute",
-      "url": "https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs"
+      "duration_ms": 146629,
+      "name": "Dusties",
+      "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "FreakyT (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 149384,
-      "name": "FreakyT (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Boom Pt. 2 (feat. Latto)",
-        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
-      },
-      "artists": [
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Boom Pt. 2 (feat. Latto)",
-      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
-        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS"
-      },
-      "artists": [
-        {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
-        }
-      ],
-      "duration_ms": 93455,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "So DISRESPECTFUL",
         "url": "https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP"
@@ -873,27 +737,23 @@
       "url": "https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Fly Girl (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 205384,
-      "name": "Fly Girl (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
@@ -913,27 +773,27 @@
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+        "name": "Where The Flowers Don't Die",
+        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         },
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 204832,
-      "name": "Told Ya",
-      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
+      "duration_ms": 148605,
+      "name": "Goddess (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Nasty Dancer",
         "url": "https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k"
@@ -949,20 +809,164 @@
       "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "My Body",
-        "url": "https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "REAL B*TCHES DON'T DIE!",
+        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "duration_ms": 196163,
+      "name": "WHITE CAPRICE",
+      "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "FreakyT (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 149384,
+      "name": "FreakyT (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
+        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 120933,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH"
+      "duration_ms": 201360,
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Fly Girl (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Fly Girl (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "duration_ms": 93455,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
     }
   ],
   "unique_name": "Feelin' Myself",

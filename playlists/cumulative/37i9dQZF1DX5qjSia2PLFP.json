@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover, DJ SLIINK",
+  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=38d777c33e67427b\">Jastin Martin</a>",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -284,6 +284,24 @@
       "duration_ms": 213417,
       "name": "Already Lost",
       "url": "https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW"
+    },
+    {
+      "album": {
+        "name": "ANOTHER ONE",
+        "url": "https://open.spotify.com/album/4NEHw2tr2nPLQ8Lfcsm8wc"
+      },
+      "artists": [
+        {
+          "name": "Amber Ryann",
+          "url": "https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150308,
+      "name": "ANOTHER ONE",
+      "url": "https://open.spotify.com/track/0CciByYiBdPOy9kEAMZ6T3"
     },
     {
       "album": {
@@ -1181,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/3kOeGo4ktrJ0dJ7MQGwUWB"
+      },
+      "artists": [
+        {
+          "name": "TRIPSIXX",
+          "url": "https://open.spotify.com/artist/6XG3JMLGGSlJuqkuuEA25o"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178676,
+      "name": "Crystal Castles",
+      "url": "https://open.spotify.com/track/4lOCjDf9iPYH5vX16gRl66"
+    },
+    {
+      "album": {
         "name": "BLACK WALL STREET",
         "url": "https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU"
       },
@@ -1524,7 +1560,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 118312,
       "name": "Dont Call Me Twin",
       "url": "https://open.spotify.com/track/3aJ4eDlQwc26G5oDg8rCW5"
@@ -2649,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "IFWU",
+        "url": "https://open.spotify.com/album/2TjTwZJpkyUR35Z2i0giPS"
+      },
+      "artists": [
+        {
+          "name": "Lynnea M",
+          "url": "https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152013,
+      "name": "IFWU",
+      "url": "https://open.spotify.com/track/7y78y7yXwVnsw3Dh4oYxUX"
+    },
+    {
+      "album": {
         "name": "Imaginary Friend",
         "url": "https://open.spotify.com/album/4MpBNT6byruj9SkRbLIpbJ"
       },
@@ -3309,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "Mike Will",
+        "url": "https://open.spotify.com/album/6TbvHkwy8xr6cFYE1dEtnn"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146415,
+      "name": "Mike Will",
+      "url": "https://open.spotify.com/track/4Zk4bheIz7d5FX0x4nxd1s"
+    },
+    {
+      "album": {
         "name": "Mind Of Da Crook",
         "url": "https://open.spotify.com/album/7E5RJwuUoYz8XIiJKHpoF8"
       },
@@ -3552,6 +3628,28 @@
       "duration_ms": 122383,
       "name": "NOT 4 NOTHIN",
       "url": "https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs"
+    },
+    {
+      "album": {
+        "name": "Not A Day Goes By",
+        "url": "https://open.spotify.com/album/5lwFE3fWZrkZnk01civeL4"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Lucas Quinn",
+          "url": "https://open.spotify.com/artist/3KIXRVWH1NBILtatrHkeTT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Not A Day Goes By",
+      "url": "https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8"
     },
     {
       "album": {
@@ -4458,7 +4556,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 129742,
       "name": "Siddhi Agenda",
       "url": "https://open.spotify.com/track/0YSk0QsEKgXM2cEt86HEsS"
@@ -5463,6 +5561,24 @@
     },
     {
       "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/16bPNUwUldGobpbBVylfKs"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164142,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4"
+    },
+    {
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/4SaQvBI8tMf3I3afRYXAiu"
       },
@@ -5584,6 +5700,24 @@
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
+    },
+    {
+      "album": {
+        "name": "You Made A Big Mistake",
+        "url": "https://open.spotify.com/album/2DCU3YNuwMQEJo6mgzK3hK"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3"
     },
     {
       "album": {

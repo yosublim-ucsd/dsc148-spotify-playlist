@@ -1,12 +1,12 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 91621,
+  "num_followers": 91926,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzVkMGZhZmVjNTMwZWVhNDA3MThmM2FkZDg4Zjc1NWViZWNlM2Vj",
+  "snapshot_id": "MCwyNWFkYzJlM2MxMDRiZWM4NzlkNmU2YmE4OWJiMjNkYTc0MDA3MDVm",
   "tracks": [
     {
       "added_at": "2023-03-10 18:22:07",
@@ -25,28 +25,36 @@
       "url": "https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH"
     },
     {
-      "added_at": "2023-05-05 16:01:38",
+      "added_at": "2023-03-10 18:22:07",
       "album": {
-        "name": "Atomic Heart (Original Game Soundtrack) Vol.1",
-        "url": "https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx"
+        "name": "Dream Space",
+        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
       },
       "artists": [
         {
           "name": "DVRST",
           "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        },
-        {
-          "name": "Igor Sklyar",
-          "url": "https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv"
-        },
-        {
-          "name": "Atomic Heart",
-          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Komarovo (DVRST Phonk Remix)",
-      "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
+      "duration_ms": 171466,
+      "name": "Dream Space",
+      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
+    },
+    {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "The Perfect Phonk",
+        "url": "https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        }
+      ],
+      "duration_ms": 186041,
+      "name": "The Perfect Phonk",
+      "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -143,22 +151,6 @@
     {
       "added_at": "2023-03-10 18:22:07",
       "album": {
-        "name": "Dream Space",
-        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Dream Space",
-      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM"
       },
@@ -171,6 +163,22 @@
       "duration_ms": 161142,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV"
+    },
+    {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "make em suffer",
+        "url": "https://open.spotify.com/album/53qXD6YpXIWJYtvwl0UTlu"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        }
+      ],
+      "duration_ms": 185996,
+      "name": "make em suffer",
+      "url": "https://open.spotify.com/track/5Q4a8tCHipcpbRbaR7AIx6"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -189,24 +197,28 @@
       "url": "https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ"
     },
     {
-      "added_at": "2023-03-10 18:22:07",
+      "added_at": "2023-05-05 16:01:38",
       "album": {
-        "name": "Forever In My Mind",
-        "url": "https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP"
+        "name": "Atomic Heart (Original Game Soundtrack) Vol.1",
+        "url": "https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx"
       },
       "artists": [
         {
-          "name": "phonk.me",
-          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         },
         {
-          "name": "svlient",
-          "url": "https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52"
+          "name": "Igor Sklyar",
+          "url": "https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
         }
       ],
-      "duration_ms": 181294,
-      "name": "Forever In My Mind",
-      "url": "https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB"
+      "duration_ms": 146086,
+      "name": "Komarovo (DVRST Phonk Remix)",
+      "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -227,26 +239,6 @@
       "duration_ms": 167607,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "NIGHT RIDE",
-        "url": "https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "BLESSED MANE",
-          "url": "https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "NIGHT RIDE",
-      "url": "https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -285,22 +277,6 @@
       "url": "https://open.spotify.com/track/6BGI62bC9ZBOvTqWCd6Nd5"
     },
     {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "Middle Of The Night",
-        "url": "https://open.spotify.com/album/3Nn6KAqzl0DtSSfOeDcESk"
-      },
-      "artists": [
-        {
-          "name": "gelowler",
-          "url": "https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO"
-        }
-      ],
-      "duration_ms": 119212,
-      "name": "Middle Of The Night",
-      "url": "https://open.spotify.com/track/6N6pd2btaV6F5J2ZFrAHR6"
-    },
-    {
       "added_at": "2023-05-05 16:01:38",
       "album": {
         "name": "Frontier",
@@ -337,20 +313,20 @@
       "url": "https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX"
     },
     {
-      "added_at": "2023-03-10 18:22:07",
+      "added_at": "2023-06-09 14:03:15",
       "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/1oWEYEC46CHtNyWkhayjtz"
+        "name": "This Place is Near You",
+        "url": "https://open.spotify.com/album/0CshKVw26VAHb5m4oODYbe"
       },
       "artists": [
         {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         }
       ],
-      "duration_ms": 231657,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/70vSSq0cTXUQzJD9fgtiCb"
+      "duration_ms": 130434,
+      "name": "This Place is Near You",
+      "url": "https://open.spotify.com/track/4sxxMxdN9wlipDFFvy0BF3"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -373,40 +349,20 @@
       "url": "https://open.spotify.com/track/1tZMS81fc3APyMkU14cTWk"
     },
     {
-      "added_at": "2023-03-10 18:22:07",
+      "added_at": "2023-05-05 16:01:38",
       "album": {
-        "name": "FANTASIA",
-        "url": "https://open.spotify.com/album/4I5ybDugkUxiJd2D5fwwTr"
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
       },
       "artists": [
         {
-          "name": "OXXXIDE",
-          "url": "https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS"
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
         }
       ],
-      "duration_ms": 141127,
-      "name": "FANTASIA",
-      "url": "https://open.spotify.com/track/5ZN7Ryh3gWfYGwn7zHmktL"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "STXPSISTER",
-        "url": "https://open.spotify.com/album/1dwj8twYDVa7UHDP9LAiuS"
-      },
-      "artists": [
-        {
-          "name": "phonk.me",
-          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
-        },
-        {
-          "name": "NEEDAYOU",
-          "url": "https://open.spotify.com/artist/1FY51GlAxrrJULx9RdZe9x"
-        }
-      ],
-      "duration_ms": 116845,
-      "name": "STXPSISTER",
-      "url": "https://open.spotify.com/track/0FPy83TDSljGoYKeIeQbzY"
+      "duration_ms": 162782,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -441,24 +397,24 @@
       "url": "https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1"
     },
     {
-      "added_at": "2023-03-24 14:13:59",
+      "added_at": "2023-06-09 14:03:15",
       "album": {
-        "name": "Still Breathing (Remix)",
-        "url": "https://open.spotify.com/album/3f2t838yL6Trx41BczL28v"
+        "name": "In the mountains",
+        "url": "https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0"
       },
       "artists": [
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
         },
         {
-          "name": "$atori Zoom",
-          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
+          "name": "zetuv",
+          "url": "https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Still Breathing - Original Mix",
-      "url": "https://open.spotify.com/track/74Yy0Q60u9kNHqdtgVeBSq"
+      "duration_ms": 109090,
+      "name": "In the mountains",
+      "url": "https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -533,20 +489,44 @@
       "url": "https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg"
     },
     {
-      "added_at": "2023-03-10 18:22:07",
+      "added_at": "2023-03-24 14:13:59",
       "album": {
-        "name": "I'M SORRY",
-        "url": "https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0"
+        "name": "Still Breathing (Remix)",
+        "url": "https://open.spotify.com/album/3f2t838yL6Trx41BczL28v"
       },
       "artists": [
         {
           "name": "DVRST",
           "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        },
+        {
+          "name": "$atori Zoom",
+          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
         }
       ],
-      "duration_ms": 139285,
-      "name": "I'M SORRY",
-      "url": "https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn"
+      "duration_ms": 188160,
+      "name": "Still Breathing - Original Mix",
+      "url": "https://open.spotify.com/track/74Yy0Q60u9kNHqdtgVeBSq"
+    },
+    {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "MY WORLD",
+        "url": "https://open.spotify.com/album/09AkyzOHO3ymWmm9CYz6BF"
+      },
+      "artists": [
+        {
+          "name": "Project 98",
+          "url": "https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27"
+        },
+        {
+          "name": "PHONK.EXE",
+          "url": "https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C"
+        }
+      ],
+      "duration_ms": 123243,
+      "name": "MY WORLD",
+      "url": "https://open.spotify.com/track/3VDGdOujH6PrDEPzbydrM9"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -661,6 +641,26 @@
       "url": "https://open.spotify.com/track/6Lbn2QM3tyxPj4fQsCU0mk"
     },
     {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "night drive",
+        "url": "https://open.spotify.com/album/5CYYo6qi5CiYSZHrZdadfg"
+      },
+      "artists": [
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 146695,
+      "name": "night drive",
+      "url": "https://open.spotify.com/track/483zAX1Wr9Eguhl28c1FUv"
+    },
+    {
       "added_at": "2023-03-10 18:22:07",
       "album": {
         "name": "Godlike",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK"
     },
     {
-      "added_at": "2023-05-05 16:01:38",
+      "added_at": "2023-06-09 14:03:15",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
+        "name": "DREAMLAND",
+        "url": "https://open.spotify.com/album/3R3oRdJ0Ixu7KAte4O6aBz"
       },
       "artists": [
         {
-          "name": "ROMANTICA",
-          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+          "name": "OXXXIDE",
+          "url": "https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS"
         }
       ],
-      "duration_ms": 162782,
-      "name": "ERROR",
-      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
+      "duration_ms": 120309,
+      "name": "DREAMLAND",
+      "url": "https://open.spotify.com/track/5L28ADW32Zq2KwfjUOJNZ4"
     },
     {
       "added_at": "2023-03-10 18:22:07",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA"
     },
     {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "Chill Phonk",
+        "url": "https://open.spotify.com/album/0YduSMMMC4UO373dB1oLqW"
+      },
+      "artists": [
+        {
+          "name": "PhonkDog",
+          "url": "https://open.spotify.com/artist/5LRdJc2JiSJB34sg6J2iUr"
+        }
+      ],
+      "duration_ms": 107562,
+      "name": "Chill Phonk",
+      "url": "https://open.spotify.com/track/4ylqqjURYE9TN5jdJXPTGA"
+    },
+    {
       "added_at": "2023-03-10 18:22:07",
       "album": {
         "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043c\u0435\u0447\u0442\u0430\u0442\u044c",
@@ -787,26 +803,6 @@
       "duration_ms": 168669,
       "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043c\u0435\u0447\u0442\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
-        "name": "SMOKE BREAK",
-        "url": "https://open.spotify.com/album/5wb170deKuGsfg1CFukBgI"
-      },
-      "artists": [
-        {
-          "name": "RXLVND",
-          "url": "https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS"
-        },
-        {
-          "name": "Soudiere",
-          "url": "https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SMOKE BREAK",
-      "url": "https://open.spotify.com/track/3k7vLEHpSn96T5Zp8GYYxR"
     },
     {
       "added_at": "2023-05-05 16:01:38",
@@ -1399,22 +1395,6 @@
     {
       "added_at": "2023-03-10 18:22:07",
       "album": {
-        "name": "Before End",
-        "url": "https://open.spotify.com/album/0FLuJwdZPZ5wbUbYzyfJvj"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Before End",
-      "url": "https://open.spotify.com/track/2IYDMilyoTEDXMiz2Uxb1P"
-    },
-    {
-      "added_at": "2023-03-10 18:22:07",
-      "album": {
         "name": "MEANING OF LIFE",
         "url": "https://open.spotify.com/album/0lxBekjKWscjykmqz3xOHR"
       },
@@ -1727,6 +1707,22 @@
       "duration_ms": 127113,
       "name": "look around",
       "url": "https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW"
+    },
+    {
+      "added_at": "2023-06-09 14:03:15",
+      "album": {
+        "name": "New World 2",
+        "url": "https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w"
+      },
+      "artists": [
+        {
+          "name": "bxkq",
+          "url": "https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW"
+        }
+      ],
+      "duration_ms": 185745,
+      "name": "Moog City 2",
+      "url": "https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc"
     },
     {
       "added_at": "2023-03-10 18:22:07",

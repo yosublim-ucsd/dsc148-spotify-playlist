@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 24111,
+  "num_followers": 24134,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBjYTFiOWQyNzNjNTQ2NGZmN2VmZTZjYjRkZWI0MWFjMWE4MjMw",
+  "snapshot_id": "MCxkODMzZmI1ODYwNDhjNWNkZTk5YTRjNmZhMTUxMzM3MzAyZGEyNTVl",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Tri\u00e1ngulo de Amor Bizarro",
         "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 361064,
       "name": "Fukushima",
       "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2023-05-05 06:00:00",

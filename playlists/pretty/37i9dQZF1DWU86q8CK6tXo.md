@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE”>Dove Cameron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,365 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,634 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 |
 | 42 | [strangely sentimental](https://open.spotify.com/track/4NplzoEshWF8ICYa6pqhQK) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [strangely sentimental](https://open.spotify.com/album/5LDURABtgmuoMW8H1CjaNO) | 2:14 |
 | 43 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
-| 44 | [FLATLINE](https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:45 |
-| 45 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 |
+| 44 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
+| 45 | [FLATLINE](https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:45 |
 
-Snapshot ID: `MCxlYjU2NzQ3MThmNDY0OWU1MjFkZTI3N2MxMGE1NmEyZjE5Y2Y0NDE5`
+Snapshot ID: `MCxjY2U2YmYyOGNjY2Y1Yzg4MjQzYWY2MWJiMDVjZjRjNjBhNWU5ZjRm`

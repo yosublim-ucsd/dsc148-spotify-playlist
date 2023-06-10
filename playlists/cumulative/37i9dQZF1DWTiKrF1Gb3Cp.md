@@ -4,12 +4,12 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-107 songs - 6 hr 30 min
+108 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2023-02-23 |  |
-| [16 Toneladas](https://open.spotify.com/track/2kKJNfeAez08ucgMMgrFX8) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/14byPF3w5ew4oSYoWdI3H2) | 3:26 | 2023-02-23 |  |
+| [16 Toneladas](https://open.spotify.com/track/2kKJNfeAez08ucgMMgrFX8) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/14byPF3w5ew4oSYoWdI3H2) | 3:26 | 2023-02-23 | 2023-06-10 |
 | [7](https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [7](https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl) | 3:26 | 2023-03-31 |  |
 | [77](https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [77](https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq) | 3:35 | 2023-05-12 |  |
 | [99'S](https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99'S](https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH) | 3:53 | 2023-02-23 |  |
@@ -22,6 +22,7 @@
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-31 |  |
 | [Bandido](https://open.spotify.com/track/5oWfTPK3ZFRuW82NsIXlEb) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Bandido](https://open.spotify.com/album/3qDY0aopQhxmECwnQOqPmR) | 3:24 | 2023-05-19 | 2023-06-03 |
 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 | 2023-02-23 |  |
+| [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 | 2023-06-09 |  |
 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 | 2023-02-23 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2023-02-23 |  |
 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 | 2023-02-23 |  |

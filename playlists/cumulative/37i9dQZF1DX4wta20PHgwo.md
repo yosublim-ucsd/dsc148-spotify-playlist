@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-344 songs - 1 day 7 hr 59 min
+345 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:17 | 2022-07-21 |  |
 | [Get Out of Town](https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 4:12 | 2021-09-20 |  |
 | [Glimmer Of Hope](https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Glimmer Of Hope](https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu) | 8:33 | 2020-05-14 |  |
-| [Gone Away](https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s) | [Neil Swainson](https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn) | [Fire in the West](https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8) | 4:51 | 2022-08-29 |  |
+| [Gone Away](https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s) | [Neil Swainson](https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn) | [Fire in the West](https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8) | 4:51 | 2022-08-29 | 2023-06-10 |
 | [Grandmother's Dream](https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/6tdrLGWgElgj8ZCrtqIZeh) | 4:18 | 2020-05-07 |  |
 | [GUILT](https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 9:22 | 2022-04-14 | 2022-04-29 |
 | [Heroes](https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [The Lights Are Always On](https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB) | 4:15 | 2022-04-07 |  |
@@ -351,6 +351,7 @@
 | [You Are Too Beautiful](https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:36 | 2022-07-21 | 2023-04-19 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 5:11 | 2022-07-21 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0qzfPNAMy3Su5nStssXnBd) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 5:14 | 2021-09-14 | 2022-07-29 |
+| [You Don't Know What Love Is](https://open.spotify.com/track/6Ybo0q6qQkKOZ3zRN59GnM) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm) | [You Don't Know What Love Is](https://open.spotify.com/album/42jzQMDBQFqwr245siPsBH) | 4:45 | 2023-06-08 |  |
 | [You Don't Know What Love Is \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97) | 6:27 | 2021-02-26 | 2021-08-18 |
 
 \*This playlist was first scraped on 2020-05-02. Prior content cannot be recovered.

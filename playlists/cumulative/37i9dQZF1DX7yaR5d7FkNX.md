@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-176 songs - 10 hr 56 min
+178 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [El Sonido De Tu Voz](https://open.spotify.com/track/76JCWoDhnbdd4gA36NqxLN) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Lindas Mañanas](https://open.spotify.com/album/23ibdDZsfvGujFlsvB8wnV) | 2:50 | 2022-01-28 | 2022-11-13 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/0TsY0pTgHSMeMPKrtf2San) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil\. \(Edición Especial\)](https://open.spotify.com/album/18FX4Wep4MvwaCFDwPU25q) | 2:50 | 2022-01-28 | 2022-07-29 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/6RtZYoM4rNdoDVgbwfOK2V) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 2:50 | 2022-01-28 |  |
+| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 |  |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2022-01-28 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 |  |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 |  |
@@ -139,6 +140,7 @@
 | [Paseo Sideral](https://open.spotify.com/track/5ZdMvKygnT1RRj6Y0pnhAL) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Aliados](https://open.spotify.com/album/1LAdrdASbNjQqWPH2TFFJZ) | 3:21 | 2022-01-28 |  |
 | [Peligro](https://open.spotify.com/track/4igu6wUj0O7ZGXUArbBrWI) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Singles](https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg) | 3:42 | 2022-01-28 | 2022-08-02 |
 | [Peligro](https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Pa´Morirse De Amor](https://open.spotify.com/album/5Xgpjw5Gciq9armO3ov2ua) | 3:42 | 2022-01-28 | 2022-07-29 |
+| [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2023-06-09 |  |
 | [Perfecta](https://open.spotify.com/track/7mLR5xbc4HG6u1BOKcQzxL) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2022-01-28 |  |
 | [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-03-03 |  |
 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 | 2022-01-28 |  |

@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-137 songs - 6 hr 29 min
+139 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,14 @@
 | [Forever After](https://open.spotify.com/track/0R2ei7TiPZZWqAqlXlbjQ9) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Forever After](https://open.spotify.com/album/737BhS9CjJXHKSz0PbtpVg) | 2:59 | 2022-10-12 |  |
 | [Forgiveness](https://open.spotify.com/track/4JpT0U9BGC5uZtMcSaBUwH) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Forgiveness](https://open.spotify.com/album/2Ucc7Uxkez3QmKEMNqiw1K) | 2:49 | 2022-11-22 |  |
 | [Fragrantia](https://open.spotify.com/track/5JPOfUFWdUW5Vq7gxs8oG2) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Fragrantia](https://open.spotify.com/album/1TuMH1fRQzOmM45LUMIZAc) | 2:31 | 2023-02-09 |  |
+| [Free Winds](https://open.spotify.com/track/72AraPLFHGCx5Wz8uTgp1Q) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Infinity](https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5) | 2:41 | 2023-06-09 |  |
 | [From Within](https://open.spotify.com/track/7bHRDcc88QugeXmnxm3bRM) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:14 | 2023-02-25 |  |
 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-10-12 |  |
 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 | 2022-10-12 |  |
 | [Healing Sun](https://open.spotify.com/track/71Fs3eUdUvsUdBK0r2qERV) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Healing Sun](https://open.spotify.com/album/4Im2u0xbcI5VJIZvnD3x1B) | 2:42 | 2023-02-17 |  |
 | [Heartful](https://open.spotify.com/track/0nYTW6fJgGUZE5sPg1no3F) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Heartful](https://open.spotify.com/album/3KFw7fZJz7dKJXz9LRHtGe) | 2:45 | 2023-06-02 |  |
 | [Hæden](https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Hæden](https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy) | 2:27 | 2022-10-12 |  |
+| [Ich gebe dir die Sterne](https://open.spotify.com/track/1SlhemtZDfN3Nf6YbOM3Gj) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Ich gebe dir die Sterne](https://open.spotify.com/album/5vhVIsOM70HC2ZpWHfG6iq) | 2:47 | 2023-06-09 |  |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-10-12 |  |
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-10-12 |  |
 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-10-12 |  |

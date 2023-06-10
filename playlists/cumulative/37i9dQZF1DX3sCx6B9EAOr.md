@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-648 songs - 1 day 11 hr 55 min
+649 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Destiny](https://open.spotify.com/track/2TKNqo0RnO90Cfl2IAwDrh) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Light UP](https://open.spotify.com/album/00UNGSfgWWNow3i8cebDdu) | 3:05 | 2022-03-24 | 2022-04-19 |
 | [Devil](https://open.spotify.com/track/3IQ9FJ2cMVQtger5ZhgCaj) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:36 | 2022-03-24 | 2022-04-20 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 | 2023-06-07 |
+| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-06-02 |  |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-21 | 2022-07-29 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-08-15 |
 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 | 2021-12-29 |  |
@@ -160,7 +161,7 @@
 | [Drama](https://open.spotify.com/track/1vH3GM0b9BqBCZ0ACVa7XA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:29 | 2022-03-24 | 2022-04-15 |
 | [Dream](https://open.spotify.com/track/5fAmvVpvp7iL0QkL1kuw6S) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:20 | 2021-12-29 | 2022-07-24 |
 | [Dream](https://open.spotify.com/track/5lwzBGBEkbonYhRN84Kj3j) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/029nCxucY9xCd9TP9TwU9b) | 3:33 | 2022-01-03 | 2022-04-09 |
-| [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2022-08-12 |  |
+| [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2022-08-12 | 2023-06-10 |
 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream of You \(with R3HAB\)](https://open.spotify.com/album/7v5VyW176u5m9aNcnvs2Cv) | 3:12 | 2021-12-07 | 2022-07-19 |
 | [DREAMLIKE](https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:46 | 2022-01-03 | 2022-07-14 |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-05-03 | 2023-05-03 |

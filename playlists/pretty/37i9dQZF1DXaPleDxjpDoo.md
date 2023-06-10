@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,028 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,187 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,22 +17,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 7 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 |
 | 8 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 |
 | 9 | [Theias \(Nature Sounds\)](https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Theias](https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X) | 2:19 |
-| 10 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 |
-| 11 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 |
-| 12 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 |
-| 13 | [Kyoto](https://open.spotify.com/track/2qdP9OsPTkqBVSpKyBlh62) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Kyoto](https://open.spotify.com/album/2liB5eCQr3ZXlAWektTeH8) | 2:52 |
-| 14 | [Northern Light](https://open.spotify.com/track/69SwdjtbmBzYydkiBt3S37) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Northern Light](https://open.spotify.com/album/3NlOEPotM8PvsQxk18eOhP) | 2:18 |
-| 15 | [Morning Forest](https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Morning Forest](https://open.spotify.com/album/1SYfOGXSyZsmkLLPFJ3DxG) | 3:48 |
-| 16 | [Gentle Gust \- Spa](https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Gentle Gust](https://open.spotify.com/album/3IXkjFISn7juqyt56lY9ao) | 3:12 |
-| 17 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 |
-| 18 | [Visionary Dream \- Meditation](https://open.spotify.com/track/6wfaskFMMdp4YyDL1W6MeE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 4:41 |
-| 19 | [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 |
-| 20 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 |
-| 21 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 |
-| 22 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 |
-| 23 | [Forest Dreams](https://open.spotify.com/track/5FgCKWFEVSfCEyE9rSvjDm) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Forest Dreams](https://open.spotify.com/album/3AWyX4p9FejcBLRxawTIez) | 3:17 |
-| 24 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 |
-| 25 | [Morning Bird](https://open.spotify.com/track/6FwktjhCUnJGUA2AFOVuhS) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:39 |
+| 10 | [Owl](https://open.spotify.com/track/4VAyxfqZYY9W9Q7JcZ3STG) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:41 |
+| 11 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 |
+| 12 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 |
+| 13 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 |
+| 14 | [Kyoto](https://open.spotify.com/track/2qdP9OsPTkqBVSpKyBlh62) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Kyoto](https://open.spotify.com/album/2liB5eCQr3ZXlAWektTeH8) | 2:52 |
+| 15 | [Northern Light](https://open.spotify.com/track/69SwdjtbmBzYydkiBt3S37) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Northern Light](https://open.spotify.com/album/3NlOEPotM8PvsQxk18eOhP) | 2:18 |
+| 16 | [Morning Forest](https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Morning Forest](https://open.spotify.com/album/1SYfOGXSyZsmkLLPFJ3DxG) | 3:48 |
+| 17 | [Gentle Gust \- Spa](https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Gentle Gust](https://open.spotify.com/album/3IXkjFISn7juqyt56lY9ao) | 3:12 |
+| 18 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 |
+| 19 | [Visionary Dream \- Meditation](https://open.spotify.com/track/6wfaskFMMdp4YyDL1W6MeE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 4:41 |
+| 20 | [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 |
+| 21 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 |
+| 22 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 |
+| 23 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 |
+| 24 | [Forest Dreams](https://open.spotify.com/track/5FgCKWFEVSfCEyE9rSvjDm) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Forest Dreams](https://open.spotify.com/album/3AWyX4p9FejcBLRxawTIez) | 3:17 |
+| 25 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 |
 | 26 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 |
 | 27 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 |
 | 28 | [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 99 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 |
 | 100 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 |
 
-Snapshot ID: `MCw5M2Q4ODZhMzgyNjkzYWIyMWZmNGJkOTA2NWZiMDRkNzM5YWFkNmIw`
+Snapshot ID: `MCxiNmJhMzgzMDNkMWExMTQ0NjE3OThkYzdkYmI5ZmFlMGVkNGNkMWEy`

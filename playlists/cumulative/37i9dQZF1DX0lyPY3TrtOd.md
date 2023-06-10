@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-118 songs - 6 hr 45 min
+120 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-04-04 |  |
 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 | 2023-02-23 |  |
 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2023-02-23 |  |
-| [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2023-02-23 |  |
+| [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2023-02-23 | 2023-06-10 |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2023-02-23 | 2023-04-05 |
 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 | 2023-02-23 | 2023-04-28 |
 | [Human Condition](https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:07 | 2023-02-23 |  |
@@ -71,11 +71,12 @@
 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 | 2023-02-23 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 |  |
 | [Keep It Together](https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Keep It Together](https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ) | 3:16 | 2023-03-02 | 2023-04-05 |
-| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2023-02-23 |  |
+| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2023-02-23 | 2023-06-10 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 |  |
 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 |  |
 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 | 2023-04-14 |
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 | 2023-04-05 |
+| [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-09 |  |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-04-13 |  |
 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 | 2023-03-09 |  |
 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 | 2023-02-23 |  |
@@ -118,6 +119,7 @@
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2023-02-23 | 2023-04-28 |
 | [The Lazer](https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV) | 3:51 | 2023-02-23 |  |
 | [The One Who Got Away](https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [The One Who Got Away](https://open.spotify.com/album/6yOlZtyWEvZEqgdpQspgvR) | 3:42 | 2023-04-04 | 2023-04-14 |
+| [There's No Sex Without You](https://open.spotify.com/track/2cfOAWMV00SWB3Eb6IzqPg) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [There's No Sex Without You](https://open.spotify.com/album/6xOIfNMXygK06HrfHt9HEz) | 3:38 | 2023-06-09 |  |
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-11 |  |
 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 | 2023-02-23 | 2023-04-28 |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2023-02-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 378719,
+  "num_followers": 378792,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2U2MTJlYTUwOTA0YjkzZThiNGZiMDllYTMzMTE2YTYzMWZlNWVj",
+  "snapshot_id": "MCxlZWE3NWZmM2ViMjBhYTUzMWVkMzM4N2E5NzhiZmE0ZTQwMWNlYjQw",
   "tracks": [
     {
       "added_at": "2023-06-08 08:07:17",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "Mondenkind",
         "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 277968,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 180463,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
-        "name": "Contemplation",
-        "url": "https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 277968,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -559,30 +559,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 182412,
-      "name": "Lookin' Up",
-      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -615,18 +591,26 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
       },
       "artists": [
         {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
         }
       ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+      "duration_ms": 182412,
+      "name": "Lookin' Up",
+      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -643,6 +627,22 @@
       "duration_ms": 331461,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
@@ -755,22 +739,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "Sun Khosi",
         "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+        }
+      ],
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
-      },
-      "artists": [
-        {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
-        }
-      ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "Where Will the River Flow",
         "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 334925,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
+      },
+      "artists": [
+        {
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
+        }
+      ],
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
+        "name": "So They Say",
+        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 237659,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
       },
@@ -1467,6 +1483,22 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
         "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
         "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
       },
@@ -1487,22 +1519,6 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
         "name": "You Had Me at Goodbye",
         "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 304880,
       "name": "Grinde",
       "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
-        "name": "So They Say",
-        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 237659,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -1567,6 +1567,34 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
+        "name": "First Quartet",
+        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
+      },
+      "artists": [
+        {
+          "name": "James Kitchman",
+          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
+        },
+        {
+          "name": "Bruno Heinen",
+          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
+        },
+        {
+          "name": "Tom McCredie",
+          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
+        },
+        {
+          "name": "Shane Forbes",
+          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
+        }
+      ],
+      "duration_ms": 290506,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
         "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
         "url": "https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV"
       },
@@ -1599,34 +1627,6 @@
       "duration_ms": 354000,
       "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
       "url": "https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
-        "name": "First Quartet",
-        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
-      },
-      "artists": [
-        {
-          "name": "James Kitchman",
-          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
-        },
-        {
-          "name": "Bruno Heinen",
-          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
-        },
-        {
-          "name": "Tom McCredie",
-          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
-        },
-        {
-          "name": "Shane Forbes",
-          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
-        }
-      ],
-      "duration_ms": 290506,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
     },
     {
       "added_at": "2023-06-08 08:07:17",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-06-08 08:07:17",
       "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
+    },
+    {
+      "added_at": "2023-06-08 08:07:17",
+      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT"
-    },
-    {
-      "added_at": "2023-06-08 08:07:17",
-      "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
     },
     {
       "added_at": "2023-06-08 08:07:17",

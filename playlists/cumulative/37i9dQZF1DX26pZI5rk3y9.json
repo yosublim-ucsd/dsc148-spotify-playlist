@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
+      },
+      "artists": [
+        {
+          "name": "The Dust Coda",
+          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274612,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
+    },
+    {
+      "album": {
         "name": "Make It Easy",
         "url": "https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V"
       },
@@ -1748,6 +1766,24 @@
       "duration_ms": 149506,
       "name": "Mama, What About Your Daughter - Single Version",
       "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "album": {

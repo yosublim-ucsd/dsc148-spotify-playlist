@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4UlNAmbpoPjHUqx0rabSc0"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135010,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0rhcBC8kyqZYNo9yCk4MLc"
+    },
+    {
+      "album": {
         "name": "Born To Be Wild - chill lofi remix",
         "url": "https://open.spotify.com/album/67Yu8CZ98TdOatwcujKpCs"
       },
@@ -418,6 +436,24 @@
       "duration_ms": 126000,
       "name": "Born To Be Wild - chill lofi remix",
       "url": "https://open.spotify.com/track/6Fl0hxOtP1xQ40Iwe1oRc8"
+    },
+    {
+      "album": {
+        "name": "boulevard of broken dreams",
+        "url": "https://open.spotify.com/album/64jmiYsMnjBcEooouZb33R"
+      },
+      "artists": [
+        {
+          "name": "Tetouan",
+          "url": "https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "boulevard of broken dreams",
+      "url": "https://open.spotify.com/track/0ZA0zhZye770PB2gALNv1Z"
     },
     {
       "album": {
@@ -2047,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "my girl",
+        "url": "https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86"
+      },
+      "artists": [
+        {
+          "name": "Idris Jem",
+          "url": "https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92500,
+      "name": "my girl",
+      "url": "https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW"
+    },
+    {
+      "album": {
         "name": "Portals pt 2",
         "url": "https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb"
       },
@@ -2116,6 +2170,24 @@
       "duration_ms": 132000,
       "name": "nothing compares 2 u",
       "url": "https://open.spotify.com/track/2Bq5JGZFtj0rLGrm8uaLp8"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kruz",
+          "url": "https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210969,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i"
     },
     {
       "album": {
@@ -2240,6 +2312,24 @@
       "duration_ms": 141231,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/2qNufl6qhnYfzWxLmMaCNy"
+    },
+    {
+      "album": {
+        "name": "Pieces Of U",
+        "url": "https://open.spotify.com/album/2SJC9QOnplYH3L416wPkf8"
+      },
+      "artists": [
+        {
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121521,
+      "name": "Pieces Of U",
+      "url": "https://open.spotify.com/track/464gT9Omrj2KAnQvchtVoS"
     },
     {
       "album": {
@@ -2846,6 +2936,24 @@
       "duration_ms": 99300,
       "name": "somebody else",
       "url": "https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA"
+    },
+    {
+      "album": {
+        "name": "somebody that i used to know",
+        "url": "https://open.spotify.com/album/5MXi1CS3sQxi2TtX8WhY46"
+      },
+      "artists": [
+        {
+          "name": "Mushhi",
+          "url": "https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "somebody that i used to know",
+      "url": "https://open.spotify.com/track/5zpP3Fwp1sxvzKihtrwYIp"
     },
     {
       "album": {

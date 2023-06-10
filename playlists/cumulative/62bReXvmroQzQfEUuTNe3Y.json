@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG"
       },

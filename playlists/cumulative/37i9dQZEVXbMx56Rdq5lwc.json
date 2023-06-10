@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 122666,
       "name": "dj susiv\u0117lus",
       "url": "https://open.spotify.com/track/6zk9RiqbRAPEm0Hx7pKScV"
@@ -10526,7 +10526,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -10968,7 +10968,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 117600,
       "name": "limuzinas",
       "url": "https://open.spotify.com/track/7AoMcuwJqKzEVS0itrej52"
@@ -15589,7 +15589,7 @@
     },
     {
       "album": {
-        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
       "artists": [
@@ -15610,7 +15610,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
@@ -17966,7 +17966,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171750,
       "name": "sidabrin\u0117 \u017eiurk\u0117",
       "url": "https://open.spotify.com/track/2PsZp4QKddxWH68EuOxhxI"
@@ -18262,6 +18262,24 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "album": {
@@ -20534,7 +20552,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144000,
       "name": "tipo romantika",
       "url": "https://open.spotify.com/track/4S6S3BlEr98scOD82cTePR"
@@ -21414,7 +21432,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 147190,
       "name": "Vakar Vakare",
       "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"
@@ -23160,7 +23178,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 184421,
       "name": "\u017diburiai",
       "url": "https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS"

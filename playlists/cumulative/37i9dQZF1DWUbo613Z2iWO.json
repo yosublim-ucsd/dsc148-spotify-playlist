@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: No Guidnce",
+  "description": "R&B of the moment by the artists of the future. Cover: Maeta",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -8107,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
+      "album": {
         "name": "Racing Home",
         "url": "https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi"
       },
@@ -8640,7 +8658,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 225406,
       "name": "S(EX)",
       "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
@@ -9580,6 +9598,28 @@
       "duration_ms": 117818,
       "name": "Summer Break",
       "url": "https://open.spotify.com/track/6aUCmkTCcaGcYOQQEBeaPz"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "album": {
@@ -10652,6 +10692,24 @@
       "duration_ms": 147013,
       "name": "Vibrate (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 161861,
+  "num_followers": 161844,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2Q2NDJlMzNjZTUyMWNiZTJkZWNiM2EzMDIwZmUxN2JkMmYzZDM5",
+  "snapshot_id": "MCw0ZDM4YWUwYzQwNzZiZjEyMGYxZTQ0ODIyNmJjZDM3MTZmYzhhYThh",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Maybe This Christmas",
         "url": "https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 112746,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Must Be Santa (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 311423,
       "name": "Must Be Santa - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2022-12-23 02:36:32",

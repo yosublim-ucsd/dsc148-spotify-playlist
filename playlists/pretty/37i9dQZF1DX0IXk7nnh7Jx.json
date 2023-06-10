@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0\">Madison Ryann Ward</a>",
-  "num_followers": 59475,
+  "num_followers": 59566,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQxMTQ3M2Y4OThlNjVlYTdkYzlmMWFkYTI1MzU4YzM5NTkzYTM5",
+  "snapshot_id": "MCw4MjgxNzVjNmYzMjU2MWEwMDgwMWM2NDcwZmFiNGUzYWY0NmEwNGUx",
   "tracks": [
     {
       "added_at": "2023-04-21 11:13:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 216583,
-      "name": "Sweeter",
-      "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Somewhere between",
         "url": "https://open.spotify.com/album/2lFKtJILpor4Z7DN0XNKS1"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 233419,
       "name": "Somewhere between",
       "url": "https://open.spotify.com/track/5aVklpCL6bUVQcGQgOuIH5"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 216583,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "The Field",
-        "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 159534,
-      "name": "You Are My Country",
-      "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1huNgVKuv17Ay4K2AXzXqa"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 205114,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5UZA60oOUECRdAhA9KNG60"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "The Field",
+        "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 159534,
+      "name": "You Are My Country",
+      "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        }
+      ],
+      "duration_ms": 223486,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
-      },
-      "artists": [
-        {
-          "name": "Hillside Recording",
-          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
-        }
-      ],
-      "duration_ms": 223486,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Picking Petals",
-        "url": "https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI"
-      },
-      "artists": [
-        {
-          "name": "Rilena",
-          "url": "https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d"
-        }
-      ],
-      "duration_ms": 235078,
-      "name": "Picking Petals",
-      "url": "https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 225400,
       "name": "Changing",
       "url": "https://open.spotify.com/track/3J8anA9EbYJqXlJqaisAdN"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Picking Petals",
+        "url": "https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI"
+      },
+      "artists": [
+        {
+          "name": "Rilena",
+          "url": "https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d"
+        }
+      ],
+      "duration_ms": 235078,
+      "name": "Picking Petals",
+      "url": "https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Everything Else But Rain (with Lucius)",
-        "url": "https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S"
-      },
-      "artists": [
-        {
-          "name": "Until The Ribbon Breaks",
-          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Everything Else But Rain (with Lucius)",
-      "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Home / Rooftop",
         "url": "https://open.spotify.com/album/2FHGN0TTP3Y1xNN5H3nrcj"
       },
@@ -1495,22 +1475,6 @@
       "duration_ms": 242345,
       "name": "Home",
       "url": "https://open.spotify.com/track/4BCZjpJSkQ9zpeEM8dV0VE"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/3lb6Qdhwx2ePppuuNWSBtl"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/53NbctXYBJhUSvYAo2wF3D"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1531,6 +1495,22 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/3lb6Qdhwx2ePppuuNWSBtl"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/53NbctXYBJhUSvYAo2wF3D"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "THAT'S WHAT I BELIEVE",
         "url": "https://open.spotify.com/album/0qKj76842Qf6U8uFYD8KZW"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 262095,
       "name": "THAT'S WHAT I BELIEVE",
       "url": "https://open.spotify.com/track/4axmmCsHDChtKd2JdnD3OL"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Everything Else But Rain (with Lucius)",
+        "url": "https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S"
+      },
+      "artists": [
+        {
+          "name": "Until The Ribbon Breaks",
+          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Everything Else But Rain (with Lucius)",
+      "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0IB32GKzb1LTt89nFnqUpG"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 183402,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/2Ymjppgp5agBspxZDzKQa5"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Subjects in Motion",
         "url": "https://open.spotify.com/album/76LnUGsdFTOgOCmtP1JQaZ"
       },
@@ -1615,6 +1599,38 @@
       "duration_ms": 269053,
       "name": "First Love (Subjects)",
       "url": "https://open.spotify.com/track/05KhcxTuxGXyE2yVFj1Cjp"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0IB32GKzb1LTt89nFnqUpG"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 183402,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2Ymjppgp5agBspxZDzKQa5"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Throne Room",
+        "url": "https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        }
+      ],
+      "duration_ms": 238227,
+      "name": "Faithful - Demo",
+      "url": "https://open.spotify.com/track/3Jm671Xz80Mr3qlQmXJ9qR"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
-      },
-      "artists": [
-        {
-          "name": "Caz",
-          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
-        }
-      ],
-      "duration_ms": 200931,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Throne Room",
-        "url": "https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 238227,
-      "name": "Faithful - Demo",
-      "url": "https://open.spotify.com/track/3Jm671Xz80Mr3qlQmXJ9qR"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 211209,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "At The End Of The River",
+        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "duration_ms": 282848,
+      "name": "At The End Of The River",
+      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "Livin' the Life",
         "url": "https://open.spotify.com/album/6wtfaaQK2ggNSDEHui0fJK"
       },
@@ -1867,30 +1887,6 @@
       "duration_ms": 201810,
       "name": "Livin' the Life",
       "url": "https://open.spotify.com/track/5aWIOisKB0WIqx5PwLy5AF"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        },
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1927,22 +1923,26 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "At The End Of The River",
-        "url": "https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk"
       },
       "artists": [
         {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         },
         {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        },
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
         }
       ],
-      "duration_ms": 282848,
-      "name": "At The End Of The River",
-      "url": "https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk"
+      "duration_ms": 171250,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1963,22 +1963,34 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "WAIT ON HIM (Funk Remix)",
-        "url": "https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43"
+        "name": "Jesus can Save them All",
+        "url": "https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu"
       },
       "artists": [
         {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "JKO",
-          "url": "https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ"
+          "name": "Make a Joyful Noisee",
+          "url": "https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM"
         }
       ],
-      "duration_ms": 96000,
-      "name": "WAIT ON HIM - Funk Remix",
-      "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
+      "duration_ms": 273089,
+      "name": "Jesus can Save them All",
+      "url": "https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2015,22 +2027,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "I Surrender All (Allt till Jesus)",
         "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
       },
@@ -2047,6 +2043,26 @@
       "duration_ms": 192968,
       "name": "I Surrender All (Allt till Jesus)",
       "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "WAIT ON HIM (Funk Remix)",
+        "url": "https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "JKO",
+          "url": "https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "WAIT ON HIM - Funk Remix",
+      "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2099,22 +2115,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "The Lord's Prayer",
-        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 176852,
-      "name": "The Lord's Prayer",
-      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
       },
@@ -2131,22 +2131,18 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "YOUTH (spring)",
-        "url": "https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3"
+        "name": "The Lord's Prayer",
+        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 196080,
-      "name": "YOUTH (spring)",
-      "url": "https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj"
+      "duration_ms": 176852,
+      "name": "The Lord's Prayer",
+      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2167,6 +2163,26 @@
       "duration_ms": 218120,
       "name": "This Wild Earth (Subjects)",
       "url": "https://open.spotify.com/track/7AdpVVMu4wK9cUKnpdWGPG"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "YOUTH (spring)",
+        "url": "https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "YOUTH (spring)",
+      "url": "https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2255,22 +2271,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Jesus can Save them All",
-        "url": "https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu"
-      },
-      "artists": [
-        {
-          "name": "Make a Joyful Noisee",
-          "url": "https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM"
-        }
-      ],
-      "duration_ms": 273089,
-      "name": "Jesus can Save them All",
-      "url": "https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "My Deliverer",
         "url": "https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9"
       },
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Notice",
-        "url": "https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Notice",
-      "url": "https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "i feel like flying",
         "url": "https://open.spotify.com/album/5Yj0WFmI0xViZngpgrMtJm"
       },
@@ -2363,22 +2347,18 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Make It",
-        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
+        "name": "Notice",
+        "url": "https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK"
       },
       "artists": [
         {
-          "name": "Josiah Russell",
-          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
-        },
-        {
-          "name": "Mod G",
-          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
+      "duration_ms": 202790,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2399,6 +2379,26 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
+      },
+      "artists": [
+        {
+          "name": "Josiah Russell",
+          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
+        },
+        {
+          "name": "Mod G",
+          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "My Heart Alone",
         "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
       },
@@ -2415,6 +2415,22 @@
       "duration_ms": 201358,
       "name": "My Heart Alone",
       "url": "https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "I Came Home",
+      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2467,22 +2483,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "I Came Home",
-      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Won\u2019t Settle",
         "url": "https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ"
       },
@@ -2503,42 +2503,6 @@
       "duration_ms": 263168,
       "name": "Won\u2019t Settle",
       "url": "https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "All the Way Back",
-        "url": "https://open.spotify.com/album/461UGIq9xPPZnqmnFzfV5k"
-      },
-      "artists": [
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        },
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 261015,
-      "name": "All the Way Back",
-      "url": "https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "heaven come",
-        "url": "https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs"
-      },
-      "artists": [
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "heaven come",
-      "url": "https://open.spotify.com/track/77h1vOw1NNuCVVYoqviuXZ"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2575,6 +2539,42 @@
       "duration_ms": 197500,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "All the Way Back",
+        "url": "https://open.spotify.com/album/461UGIq9xPPZnqmnFzfV5k"
+      },
+      "artists": [
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 261015,
+      "name": "All the Way Back",
+      "url": "https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "heaven come",
+        "url": "https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "heaven come",
+      "url": "https://open.spotify.com/track/77h1vOw1NNuCVVYoqviuXZ"
     },
     {
       "added_at": "2023-04-21 11:13:40",

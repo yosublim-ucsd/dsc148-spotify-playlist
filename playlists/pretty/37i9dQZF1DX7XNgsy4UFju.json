@@ -1,13 +1,29 @@
 {
   "description": "Home to all the latest indie jams. Cover: The Beaches",
-  "num_followers": 156477,
+  "num_followers": 156480,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTllOGE5MmJmYzcxYWMwOTM3M2EwZjA1MTQ1NmUxZDk3NTUyZDE4",
+  "snapshot_id": "MCwyYTBiNmQ1MmU0Mzc4OTVlYTc4ZTUyNmM4NTcyY2FiYzQyOGMxMjQ5",
   "tracks": [
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Heaven Is a Junkyard",
+        "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
+    },
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "Salt",
@@ -71,6 +103,22 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -109,6 +157,22 @@
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/49PO4ocytnypbnWzjusOFC"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/10go0Q45BH1boBneiRDHiM"
+    },
+    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "No More Lies",
@@ -143,6 +207,26 @@
       "duration_ms": 207133,
       "name": "PREYING MANTIS !",
       "url": "https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "First Date",
+        "url": "https://open.spotify.com/album/5IY5gfTnwVUs3m3xce9jYE"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 187616,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/2NaNX3RHDNeOfJXX3ZPGRT"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -209,6 +293,22 @@
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Witches + Vampires",
+        "url": "https://open.spotify.com/album/1JK1buOtQgJAtzfKPNmK9C"
+      },
+      "artists": [
+        {
+          "name": "Hotel Decor",
+          "url": "https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5"
+        }
+      ],
+      "duration_ms": 202191,
+      "name": "Witches + Vampires",
+      "url": "https://open.spotify.com/track/3Gr1doW9BPGUBxSH9ZBqXY"
+    },
+    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "homecoming / in my city",
@@ -223,6 +323,42 @@
       "duration_ms": 216466,
       "name": "homecoming",
       "url": "https://open.spotify.com/track/3VkeIbUp1Q7ZXUgyMxmrN1"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 183522,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "True love (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 347713,
+      "name": "True love (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -245,6 +381,22 @@
       "url": "https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/04jZWsOYorbA4UBWfwerK9"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/0mMYEQrsq79CN8dM86s5oP"
+    },
+    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "Call My Own",
@@ -263,22 +415,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Matchmaker",
         "url": "https://open.spotify.com/album/4TKUMKYMx4AGZqyPEM7DI6"
       },
@@ -291,6 +427,22 @@
       "duration_ms": 227744,
       "name": "Matchmaker",
       "url": "https://open.spotify.com/track/2JtbeKqIexKBZXu4zu1siA"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Broke Generation",
+        "url": "https://open.spotify.com/album/7G1MMZTZWebErOTAV1taCh"
+      },
+      "artists": [
+        {
+          "name": "Retrofile",
+          "url": "https://open.spotify.com/artist/6bswxXQ3qgvkMQCRu0DKuz"
+        }
+      ],
+      "duration_ms": 227374,
+      "name": "Broke Generation",
+      "url": "https://open.spotify.com/track/7nBux2hQfUA8Ay6HtWuvud"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -307,6 +459,22 @@
       "duration_ms": 339040,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -331,22 +499,6 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Sunshine Baby",
-        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1263,22 +1415,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Body Weak (Diamond Cut)",
         "url": "https://open.spotify.com/album/4QOSrIecDT4eeFYu3nrbqR"
       },
@@ -1311,22 +1447,6 @@
       "duration_ms": 239173,
       "name": "I Get High ft Nina Hagen",
       "url": "https://open.spotify.com/track/1kN91pjvwyxjjayV5BiCxx"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Moonroad",
-        "url": "https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ"
-      },
-      "artists": [
-        {
-          "name": "Goodbye Karelle",
-          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
-        }
-      ],
-      "duration_ms": 206906,
-      "name": "Moonroad",
-      "url": "https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1427,22 +1547,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Seaforth",
-        "url": "https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Candle Flame",
         "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
       },
@@ -1511,22 +1615,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1587,86 +1675,6 @@
       "duration_ms": 299571,
       "name": "lovin you (baby)",
       "url": "https://open.spotify.com/track/5eCeK9cGSxRexlbFxIJR2K"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "You Can Be Mean",
-        "url": "https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "You Can Be Mean",
-      "url": "https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "For Emotional Use Only",
-        "url": "https://open.spotify.com/album/0Nd2F0PQUbQOKVOHUSc4uz"
-      },
-      "artists": [
-        {
-          "name": "Mandaworld",
-          "url": "https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3"
-        }
-      ],
-      "duration_ms": 159568,
-      "name": "we are one and this is forever",
-      "url": "https://open.spotify.com/track/5TpRxgTH3nlJXaa6xqk5IA"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Crispy Crunchy Nothing",
-        "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 139559,
-      "name": "Cheese",
-      "url": "https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Open Up Wide",
-        "url": "https://open.spotify.com/album/7kxOtJdmBryHK6tJR0mHpr"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Open Up Wide",
-      "url": "https://open.spotify.com/track/44LNUunieMGIrRqTBxINKl"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
     }
   ],
   "unique_name": "Indie All Stars",

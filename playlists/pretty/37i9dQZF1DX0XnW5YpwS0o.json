@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 70869,
+  "num_followers": 70971,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzcxMTkxOTdmY2Y3ZmZjZGNlNzZjMmNkZjQ2ODNjZGNjZGIxY2E3",
+  "snapshot_id": "MCw5Y2Y5MmQzZWUyZTQ1NGMyODM1NTAyOTc2MzRjMDY2MmMyMDdkNjAw",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Disappear Here",
         "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 283463,
-      "name": "True Love Waits",
-      "url": "https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR"
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -699,6 +683,22 @@
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 283463,
+      "name": "True Love Waits",
+      "url": "https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 298026,
-      "name": "GLOWED UP",
-      "url": "https://open.spotify.com/track/4v20N4W83XDJORt7WCedII"
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+      "duration_ms": 298026,
+      "name": "GLOWED UP",
+      "url": "https://open.spotify.com/track/4v20N4W83XDJORt7WCedII"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "The Altar",
         "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 171789,
       "name": "Uno",
       "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "I Had a Dream That You Were Mine",
-        "url": "https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
         {
-          "name": "Hamilton Leithauser",
-          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
-        },
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 248360,
-      "name": "A 1000 Times",
-      "url": "https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+        "name": "I Had a Dream That You Were Mine",
+        "url": "https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Hamilton Leithauser",
+          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
+        },
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
         }
       ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+      "duration_ms": 248360,
+      "name": "A 1000 Times",
+      "url": "https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 257546,
       "name": "Don't Touch My Hair (feat. Sampha)",
       "url": "https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 237693,
-      "name": "Coins",
-      "url": "https://open.spotify.com/track/53I7CviVHhNYEKth717RLG"
+      "duration_ms": 230853,
+      "name": "Are We Ready? (Wreck)",
+      "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
     }
   ],
   "unique_name": "Best of Indie 2016",

@@ -4,7 +4,7 @@
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 57 min
+50 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 | 2023-03-19 |  |
 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 | 2023-03-19 |  |
 | [De Otro Planeta](https://open.spotify.com/track/15BmVmvT8ii39sqLZFbMtF) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:10 | 2023-03-19 |  |
-| [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 | 2023-03-19 | 2023-06-09 |
+| [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 | 2023-03-19 |  |
 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 | 2023-04-13 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-05-07 |  |
 | [El Distractor](https://open.spotify.com/track/1x13V3LdzMq8XYjty7HhnN) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:05 | 2023-03-19 |  |
@@ -42,6 +42,7 @@
 | [Mr\. Trance](https://open.spotify.com/track/3SLIDzhExrfsvH6sVosiwn) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Mr\. Trance](https://open.spotify.com/album/423Y3cGYNATghsTaXy43b0) | 2:49 | 2023-03-19 |  |
 | [No Te Metas A Mi Facebook](https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [No Te Metas A Mi Facebook](https://open.spotify.com/album/6LFKWnhCAXntAHAvfPHAx0) | 3:24 | 2023-03-19 |  |
 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 | 2023-03-19 |  |
+| [Noche sensorial \- En Vivo Desde El Teatro Metropólitan](https://open.spotify.com/track/0w0OuWz42PHJ0Skzu0avXQ) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [En Vivo desde el Teatro Metropólitan](https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4) | 3:40 | 2023-06-09 |  |
 | [Oh Là Là! \(feat\. Monsieur Periné\)](https://open.spotify.com/track/6NSScsNHjXxGQ78Uhpbknd) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:10 | 2023-03-19 |  |
 | [Para Siempre](https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Para Siempre](https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI) | 4:00 | 2023-03-19 |  |
 | [Pobre Corazón](https://open.spotify.com/track/1PphVMUfQYZlr9D0jAZ2IQ) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Pobre Corazón](https://open.spotify.com/album/3HDXUs5CkHgPUaC5yBQcFg) | 3:02 | 2023-03-19 |  |

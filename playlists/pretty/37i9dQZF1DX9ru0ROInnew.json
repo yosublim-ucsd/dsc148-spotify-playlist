@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 90068,
+  "num_followers": 90155,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTViNzRmOTRmZWViMWMwMzJhNzU4NjYwYWRiNWMxYTA1MmY0MDE4",
+  "snapshot_id": "MCxjODgxZTBmZmNiMjcwZDFmNWE3YTg2NGU2YTA0NTgxMjQ2YTNmNzJl",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 261904,
+      "name": "Yeezy",
+      "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 261904,
-      "name": "Yeezy",
-      "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -531,6 +531,26 @@
       "duration_ms": 257384,
       "name": "Soy Peor",
       "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -555,26 +575,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -595,94 +595,6 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 134013,
-      "name": "MIB",
-      "url": "https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
-        "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
-      "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -727,6 +639,94 @@
       "duration_ms": 517809,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+        "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+      "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 134013,
+      "name": "MIB",
+      "url": "https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -819,18 +819,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+        "name": "Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & \u00d1engo Flow]",
+        "url": "https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 187897,
-      "name": "M\u00cdRENME AHORA",
-      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+      "duration_ms": 512636,
+      "name": "Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -855,6 +871,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187897,
+      "name": "M\u00cdRENME AHORA",
+      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -875,34 +907,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Buen Viaje",
-        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 221802,
-      "name": "Vengo De Nada",
-      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -955,34 +959,46 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & \u00d1engo Flow]",
-        "url": "https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz"
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 221802,
+      "name": "Vengo De Nada",
+      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
       "artists": [
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 512636,
-      "name": "Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8"
+      "duration_ms": 259250,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "No Ando Solo",
+      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Cambio de Clima",
-        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "No Ando Solo",
-      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "En Que Pa\u00eds",
-        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 210628,
-      "name": "En Que Pa\u00eds",
-      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Me Llamas",
         "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "En Que Pa\u00eds",
+        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 210628,
+      "name": "En Que Pa\u00eds",
+      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 260000,
       "name": "Privado",
       "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2023-05-25 17:50:01",

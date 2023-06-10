@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-206 songs - 12 hr 1 min
+207 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [FINAL FANTASY XIII \~誓い\~](https://open.spotify.com/track/4b2aZwU4d9iLuyyyQGxPq6) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/3l2zhz3ABADf3d9l4g66h2) | 1:32 | 2021-05-21 | 2022-07-29 |
 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 | 2021-05-21 |  |
 | [FINAL FANTASY XIII\-2 \~願い\~](https://open.spotify.com/track/46dBzogsienSMmdD00Gyta) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/75wUZM2w087CXGXLvCm6Lc) | 1:56 | 2021-05-21 | 2022-07-29 |
-| [Find the Flame](https://open.spotify.com/track/1ql4Z0Baoivlwwy7DHEjh4) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Find the Flame from FINAL FANTASY XVI Original Soundtrack](https://open.spotify.com/album/13n3nlVQomX4DNnigKGlcw) | 3:30 | 2023-06-08 |  |
+| [Find the Flame](https://open.spotify.com/track/1ql4Z0Baoivlwwy7DHEjh4) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Find the Flame from FINAL FANTASY XVI Original Soundtrack](https://open.spotify.com/album/13n3nlVQomX4DNnigKGlcw) | 3:30 | 2023-06-08 | 2023-06-10 |
+| [Find the Flame](https://open.spotify.com/track/6PWwohPvdhMIhEAIfyB6J6) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Find the Flame from FINAL FANTASY XVI Original Soundtrack](https://open.spotify.com/album/6DO0wk2UsYwSSO3TOVO7Po) | 3:30 | 2023-06-09 |  |
 | [Fisherman's Horizon](https://open.spotify.com/track/4MwVAyYdmFMWV6Ls5haYrC) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 3:35 | 2021-05-21 | 2023-06-09 |
 | [Fisherman's Horizon](https://open.spotify.com/track/7lsW7kugatDflj4gd8XUXH) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 3:35 | 2021-05-21 | 2022-07-29 |
 | [Force Your Way](https://open.spotify.com/track/0bEqzlom08DggFRZIbQmRe) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 3:53 | 2021-05-21 | 2022-07-29 |

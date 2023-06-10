@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,346 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,684 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 49 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 50 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 |
 
-Snapshot ID: `MCxhMmYxMjhjZjc5OTdlYzE3ODFlMTZkNjA0MGUxZDhjZjY4YTljOWNk`
+Snapshot ID: `MCw5NTgwOTE0OWZmYzVmNDdiZGZlMzc2ZjllMWY5MmI3ZjliOTY3Yjk1`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2 de marzo",
+        "url": "https://open.spotify.com/album/1yjU0cUAxqLfwFtG9ApS2F"
+      },
+      "artists": [
+        {
+          "name": "Marval",
+          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "2 de marzo",
+      "url": "https://open.spotify.com/track/03IQaH7DNzx3iP0Nzn0llb"
+    },
+    {
+      "album": {
         "name": "203",
         "url": "https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm"
       },
@@ -396,6 +414,24 @@
       "duration_ms": 324656,
       "name": "Aparecer (feat. Orestes Gomez)",
       "url": "https://open.spotify.com/track/1B2VkQw5htPR1MpuKkM4jA"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Sigo",
+        "url": "https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C"
     },
     {
       "album": {
@@ -828,7 +864,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192000,
       "name": "CL\u20acAN\u00a1",
       "url": "https://open.spotify.com/track/0DTVUW8PXSYFUUQpdn8FnH"
@@ -2196,10 +2232,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 101739,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/60xVlVhg4LbjGca3VaUqo7"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147831,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/0jmTQqjsUwvPkLPOqqvPj7"
     },
     {
       "album": {
@@ -3338,7 +3392,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194666,
       "name": "Pa' Qu\u00e9 Me Amaste",
       "url": "https://open.spotify.com/track/2KhkJm25N3xAvjob0z7GjC"
@@ -3550,6 +3604,24 @@
       "duration_ms": 136973,
       "name": "QCVH",
       "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+    },
+    {
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "album": {
@@ -4130,7 +4202,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180000,
       "name": "S\u00edntomas",
       "url": "https://open.spotify.com/track/4VdiCHT8lIxfErBgROWxF5"

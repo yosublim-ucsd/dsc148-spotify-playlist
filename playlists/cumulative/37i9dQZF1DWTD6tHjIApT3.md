@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Chara
 
-1,421 songs - 3 day 20 hr 31 min
+1,422 songs - 3 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [by my side](https://open.spotify.com/track/1YjRuInbzyhuiiLIUhH2GT) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [by my side](https://open.spotify.com/album/7DiXZ9iUWqwkRHFv7Z6BNy) | 2:41 | 2022-11-01 | 2022-11-09 |
 | [bye bye](https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [bye bye](https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A) | 2:48 | 2022-09-29 | 2022-11-09 |
 | [bye\-bye myself](https://open.spotify.com/track/35LiQQ6j1aWtACMt6mDcHh) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [bye\-bye myself](https://open.spotify.com/album/5EI9MVCZcd3qP4gMvr8H67) | 5:13 | 2022-06-21 | 2022-07-29 |
+| [calcium](https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH) | 3:35 | 2023-06-08 |  |
 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-09-20 | 2022-11-30 |
 | [Called by the Neon Light](https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Called by the Neon Light](https://open.spotify.com/album/3ccal0p7YflbbtitrZDOjk) | 3:25 | 2022-11-23 | 2023-01-04 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-14 |
@@ -1212,7 +1213,7 @@
 | [強くなっちゃったんだ、ブルー](https://open.spotify.com/track/6DjPoz2Abx4W7s8c0osJ3u) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:19 | 2022-08-18 | 2022-08-20 |
 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 | 2023-03-01 |
 | [形ないもの](https://open.spotify.com/track/630KcWoFFWh1Myu8wrBxUR) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [形ないもの](https://open.spotify.com/album/6uIYnq76AKwmiQu36FaXyN) | 4:42 | 2022-05-31 | 2022-08-04 |
-| [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 | 2023-06-06 |  |
+| [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 | 2023-06-06 | 2023-06-10 |
 | [微熱](https://open.spotify.com/track/5J1J23if5Y1Hzb7kqCNzyC) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱](https://open.spotify.com/album/6gVBOfnwKrMvau7I4u90BL) | 4:22 | 2022-05-29 | 2022-07-21 |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 | 2023-05-02 |  |

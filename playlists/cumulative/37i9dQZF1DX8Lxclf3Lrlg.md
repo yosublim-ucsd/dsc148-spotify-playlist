@@ -4,7 +4,7 @@
 
 > <a href="https://www.alibiharlem.com/">Alibi Lounge</a> is an openly LGBTQQIA+ lounge in Harlem whose soundtrack reflects the many ways in which they show their Pride in the heart of NYC\. Let the music play!
 
-54 songs - 3 hr 8 min
+55 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [It's Not Right But It's Okay \- Thunderpuss Mix](https://open.spotify.com/track/0t2YZYla0Q91hbxy5HgIiF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:15 | 2021-05-31 |  |
 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 | 2021-05-31 |  |
 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 | 2021-05-31 |  |
-| [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \- Remix](https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Fanman Scoop](https://open.spotify.com/artist/3v7go923YVFTZQeS43TyWr) | [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \[Remix\]](https://open.spotify.com/album/13iiYB1fvhrxbybtxNYrxw) | 3:49 | 2021-05-31 |  |
+| [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \- Remix](https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Fanman Scoop](https://open.spotify.com/artist/3v7go923YVFTZQeS43TyWr) | [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \[Remix\]](https://open.spotify.com/album/13iiYB1fvhrxbybtxNYrxw) | 3:49 | 2021-05-31 | 2023-06-10 |
+| [Level Up \- Remix](https://open.spotify.com/track/3RzVr9cwWJUcSuPKE6Zo8N) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Level Up \(Remix\)](https://open.spotify.com/album/2Ii94hDatVVrjLHqotnAmw) | 3:49 | 2021-05-31 |  |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-05-31 |  |
 | [Make It Rain](https://open.spotify.com/track/50p9gmJMwsz3zyAwoF0FEv) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:59 | 2021-05-31 |  |
 | [Money](https://open.spotify.com/track/7wfQfnNFGWLD0BzcDngCRg) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Wash & Set](https://open.spotify.com/album/1VAZdFNZ1t5BYugJ3NfaZh) | 2:55 | 2021-05-31 |  |

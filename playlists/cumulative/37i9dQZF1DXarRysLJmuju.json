@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Keep up with all the latest pop hits. Cover: Tove Lo",
+  "description": "Keep up with all the latest pop hits. Cover: Niall Horan",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
+    },
+    {
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176997,
+      "name": "99 Nights",
+      "url": "https://open.spotify.com/track/1Bypyv9ERflkpxne0dZMBW"
     },
     {
       "album": {
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -1956,6 +1974,24 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
+    },
+    {
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "album": {
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188562,
       "name": "By The End Of The Night",
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
@@ -4391,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "what if it was great?",
+        "url": "https://open.spotify.com/album/45ppTSZcqg0tzMhoVx1kWG"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "easier said",
+      "url": "https://open.spotify.com/track/4gyOWF9N3bPBTpZj2a0F0R"
+    },
+    {
+      "album": {
         "name": "Easy Lover (feat. Big Sean)",
         "url": "https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw"
       },
@@ -4972,7 +5026,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
@@ -5506,7 +5560,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -5662,7 +5716,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188571,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH"
@@ -6194,6 +6248,24 @@
       "duration_ms": 235417,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
+    },
+    {
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Good Times Go",
+      "url": "https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy"
     },
     {
       "album": {
@@ -8454,7 +8526,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
@@ -9866,7 +9938,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 189413,
       "name": "Lost The Breakup",
       "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
@@ -9946,6 +10018,24 @@
       "duration_ms": 212973,
       "name": "Love Again - from the Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
+    },
+    {
+      "album": {
+        "name": "Love At First Fight",
+        "url": "https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Love At First Fight",
+      "url": "https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE"
     },
     {
       "album": {
@@ -10142,7 +10232,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181200,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
@@ -10338,7 +10428,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179202,
       "name": "make believe",
       "url": "https://open.spotify.com/track/0G4FFtEp1LtyE1D3MS1h2r"
@@ -10664,7 +10754,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 153037,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
@@ -10888,6 +10978,24 @@
       "duration_ms": 150645,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr"
+    },
+    {
+      "album": {
+        "name": "Mistaken",
+        "url": "https://open.spotify.com/album/7z0iJ4V7BpiReJTnwdJyHr"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/4ZyRYtZMC8poztvj0KpgFK"
     },
     {
       "album": {
@@ -12641,7 +12749,7 @@
     },
     {
       "album": {
-        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
       "artists": [
@@ -12662,7 +12770,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
@@ -15423,6 +15531,24 @@
     },
     {
       "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
         "name": "TAKUT\u00c1",
         "url": "https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu"
       },
@@ -15648,6 +15774,28 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
+    },
+    {
+      "album": {
+        "name": "The Birds",
+        "url": "https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF"
+      },
+      "artists": [
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147101,
+      "name": "The Birds",
+      "url": "https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC"
     },
     {
       "album": {
@@ -15946,6 +16094,24 @@
       "duration_ms": 195553,
       "name": "The Ruler",
       "url": "https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191207,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
     },
     {
       "album": {
@@ -16587,6 +16753,24 @@
     },
     {
       "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -17107,6 +17291,28 @@
     },
     {
       "album": {
+        "name": "VULGAR (with Madonna)",
+        "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155258,
+      "name": "VULGAR (with Madonna)",
+      "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
+    },
+    {
+      "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
       },
@@ -17364,7 +17570,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
@@ -17476,6 +17682,24 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR ?",
+        "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,135 songs - 2 day 18 hr 35 min
+1,136 songs - 2 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Drown the Sky](https://open.spotify.com/track/7yW9xPLtJ4Yh0zXKbS5T1H) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Drown the Sky](https://open.spotify.com/album/5Krb2SCc0RjnUH9nJH0lVS) | 3:41 | 2019-09-15 | 2020-10-30 |
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2020-03-29 | 2021-09-11 |
 | [Due West \- Skrillex Remix](https://open.spotify.com/track/1bLz3Mcy1pf1W04KZBWrHk) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Due West \(Skrillex Remix\)](https://open.spotify.com/album/3gAulohHiMQfD05sACh2CU) | 4:39 | 2019-08-09\* | 2019-11-15 |
-| [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-20 |  |
+| [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-20 | 2023-06-10 |
 | [EASY \(feat\. Loé\)](https://open.spotify.com/track/3RO5auKdVuqkAatbD9v9I9) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Loé](https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q) | [EASY \(feat\. Loé\)](https://open.spotify.com/album/5aWUaduDUChCtiDeKHFQyp) | 3:00 | 2019-08-09\* | 2020-03-29 |
 | [Easy Love](https://open.spotify.com/track/1RhWLZ6Wg44b97d7ZKCuwc) | [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Easy Love](https://open.spotify.com/album/5piUpW5bIPYY1zrmywcBU2) | 2:18 | 2021-03-27 | 2021-10-23 |
 | [Easy Love](https://open.spotify.com/track/6Sr8JkH7XRVk7Dnar9Xsr5) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/1rMPJblLr89uOAzmmfr2Zp) | 3:47 | 2019-08-09\* | 2019-08-27 |
@@ -469,6 +469,7 @@
 | [I Miss You](https://open.spotify.com/track/61bUwAYTGluUHZhhlUCA9f) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [I Miss You](https://open.spotify.com/album/0f42SmDH2uPczL8CzOgm4Q) | 2:56 | 2019-08-09\* | 2020-03-29 |
 | [I Miss You \(feat\. Julia Michaels\) \- BLVK JVCK ReVibe](https://open.spotify.com/track/3KIziparMoKHbHUIfnFw7K) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\) \[BLVK JVCK ReVibe\]](https://open.spotify.com/album/2NVy8DBv7HLFT7ihM2x2Kt) | 3:12 | 2019-08-09\* | 2019-09-14 |
 | [I Need You](https://open.spotify.com/track/4cCpGAUlYDh88uuU7pcdN8) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Garibay](https://open.spotify.com/artist/5aP2E8K4LY86fUERVzZlnX), [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp) | [I Need You \(feat\. Olaf Blackwood\)](https://open.spotify.com/album/0Sa533Cv9nnbHGI729sO9x) | 3:26 | 2020-04-16 | 2021-08-21 |
+| [I Need You](https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 3:15 | 2023-06-09 |  |
 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 | 2020-09-07 | 2021-09-25 |
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-07-31 | 2022-05-14 |
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2021-04-03 | 2022-05-14 |

@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Heavenly Dreams",
+        "url": "https://open.spotify.com/album/4e7sRiWLqh41CMDhNlkzZa"
+      },
+      "artists": [
+        {
+          "name": "Victor Campbell",
+          "url": "https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108770,
+      "name": "Heavenly Dreams",
+      "url": "https://open.spotify.com/track/2V1aDmJ0YBUGipLpHLzQvB"
+    },
+    {
+      "album": {
         "name": "Hope And Love",
         "url": "https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 84521,
       "name": "Hubert, the magic dog",
       "url": "https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 82010,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp"

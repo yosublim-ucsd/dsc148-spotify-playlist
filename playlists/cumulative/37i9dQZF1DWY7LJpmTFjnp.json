@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235163,
       "name": "El Escape",
       "url": "https://open.spotify.com/track/2p4vKd9eEeduDcN2vfKkWy"
@@ -980,6 +980,24 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "album": {
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
@@ -1830,6 +1848,24 @@
       "duration_ms": 142988,
       "name": "Noticia Punk",
       "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
+    },
+    {
+      "album": {
+        "name": "Nunca Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/0EMk9mGZdgAUenybhP0bc3"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194466,
+      "name": "Nunca Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/4iMdmv0p6M1H2OT8PiFZct"
     },
     {
       "album": {
@@ -2335,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -2530,7 +2588,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196280,
       "name": "Tengo un mes con el mismo pantal\u00f3n",
       "url": "https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv"
@@ -2736,7 +2794,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 311200,
       "name": "Vivo - Pastel - En Vivo",
       "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
@@ -2784,6 +2842,28 @@
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3?",
+        "url": "https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325032,
+      "name": "\u00bfQu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,907 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,926 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Antes y Después](https://open.spotify.com/track/0YbXuCsQwrsh5x0hgnED6z) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 6:54 |
 | 50 | [No Sales de Mi Mente \(feat\. Nicky Jam\)](https://open.spotify.com/track/2suE76uvhA05ks3YbvwRGT) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 3:24 |
 
-Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDAwZmJlOTY2YjQ3YmNlMTg4ZjNhOWM3ZTczMDRhZTA1Yg==`
+Snapshot ID: `MjgxMDUyMDYsMDAwMDAwMDBmN2Q2YTA2MjA1ZDk3YmVhZDczMGI5OGJlZjNmM2NlNQ==`

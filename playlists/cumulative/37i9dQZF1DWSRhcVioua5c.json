@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 263993,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
@@ -2148,6 +2148,24 @@
       "duration_ms": 216066,
       "name": "Te Pido En Agosto",
       "url": "https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2"
+    },
+    {
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
     },
     {
       "album": {

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Ahead Of Us",
+        "url": "https://open.spotify.com/album/6k2n4F9pnvnOWU7gAS7TRm"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206089,
+      "name": "Ahead Of Us",
+      "url": "https://open.spotify.com/track/19Cs9hnUVylVexTgnqvA6C"
+    },
+    {
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 407533,
       "name": "Everybody's Somebody's Fool",
       "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"

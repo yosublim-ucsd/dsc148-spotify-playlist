@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "Ambici\u00f3n",
+        "url": "https://open.spotify.com/album/1T6TMQx5PXd4TaMtShzCBx"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185163,
+      "name": "Ambici\u00f3n",
+      "url": "https://open.spotify.com/track/2cBeCJBqMNcnRDLxjBqZ5s"
+    },
+    {
+      "album": {
         "name": "Anda Sola",
         "url": "https://open.spotify.com/album/7DtLZineSoRw24eCiqSczB"
       },

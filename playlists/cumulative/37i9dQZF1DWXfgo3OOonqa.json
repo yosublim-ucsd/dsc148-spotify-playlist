@@ -1961,20 +1961,24 @@
     },
     {
       "album": {
-        "name": "Bacardi",
+        "name": "BACARDI",
         "url": "https://open.spotify.com/album/56orhnest5lbXKLNRCyTny"
       },
       "artists": [
         {
           "name": "RAMEL",
           "url": "https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h"
+        },
+        {
+          "name": "Peralta",
+          "url": "https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX"
         }
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158000,
-      "name": "Bacardi",
+      "name": "BACARDI",
       "url": "https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns"
     },
     {
@@ -4838,10 +4842,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 148294,
       "name": "DIANA",
       "url": "https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3"
+    },
+    {
+      "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/6G2FVjxl8Ag5rDe4eC3KkV"
+      },
+      "artists": [
+        {
+          "name": "Rami Bazi",
+          "url": "https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148294,
+      "name": "DIANA",
+      "url": "https://open.spotify.com/track/3fYtCSU8WwhrUql7VHYoFn"
     },
     {
       "album": {
@@ -11978,10 +12000,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 120975,
       "name": "MALMO VICE",
       "url": "https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj"
+    },
+    {
+      "album": {
+        "name": "MALM\u00d6 VICE",
+        "url": "https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy"
+      },
+      "artists": [
+        {
+          "name": "Ozz6y",
+          "url": "https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120975,
+      "name": "MALM\u00d6 VICE",
+      "url": "https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8"
     },
     {
       "album": {

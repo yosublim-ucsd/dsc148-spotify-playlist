@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1003082,
+  "num_followers": 1003363,
   "original_name": "Energy Booster: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTgyZjM0ZDQ3MGQwZTQyOWZmOGUyYTcyZmRlYWI3ZjI0MzZkZDBh",
+  "snapshot_id": "MCxmODVlMDk4NmZjZmY5MjIyZjE0MGNiZmU2NjY5NTZkMmNlZGZlNDNm",
   "tracks": [
     {
       "added_at": "2023-03-03 05:55:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 210800,
       "name": "Godzilla (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -851,22 +855,18 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Collard Greens",
-      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 338853,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 338853,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
       "added_at": "2023-05-30 11:38:39",
       "album": {
         "name": "06 Gucci (feat. DaBaby & 21 Savage)",
@@ -1075,22 +1091,6 @@
       "duration_ms": 178950,
       "name": "06 Gucci (feat. DaBaby & 21 Savage)",
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Confessions of a Dangerous Mind",
-        "url": "https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Homicide (feat. Eminem)",
-      "url": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Confessions of a Dangerous Mind",
+        "url": "https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Homicide (feat. Eminem)",
+      "url": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
     },
     {
       "added_at": "2023-05-30 11:38:39",
@@ -2337,22 +2337,6 @@
       "url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5"
     },
     {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
-    },
-    {
       "added_at": "2023-05-30 11:38:39",
       "album": {
         "name": "Pistolz & Pearlz",
@@ -2367,6 +2351,22 @@
       "duration_ms": 174545,
       "name": "Gunsmoke Town",
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Ambition For Cash",
-        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 271946,
       "name": "Right Above It",
       "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Ambition For Cash",
+        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Ambition For Cash",
+      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2539,6 +2539,26 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Melly vs. Melvin",
+        "url": "https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "223's (feat. 9lokknine)",
+      "url": "https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -2575,26 +2595,6 @@
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Melly vs. Melvin",
-        "url": "https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "223's (feat. 9lokknine)",
-      "url": "https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T"
     },
     {
       "added_at": "2022-12-19 11:54:28",

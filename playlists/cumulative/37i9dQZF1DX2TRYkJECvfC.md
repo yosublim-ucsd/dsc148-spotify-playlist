@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-384 songs - 1 day 10 hr 13 min
+385 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 | 2022-11-13 |
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 |  |
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
-| [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 |  |
+| [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |
 | [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 |  |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-06 |  |
@@ -343,6 +343,7 @@
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2021-12-08 | 2022-11-17 |
 | [The Same](https://open.spotify.com/track/5fSvk20cTpQHrHWRpolpoS) | [Roudeep](https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F) | [The Same](https://open.spotify.com/album/49v28uTWCrCRvNutWSBf6Q) | 4:48 | 2021-12-08 | 2023-01-06 |
 | [The Sound of Neptune](https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [You Want](https://open.spotify.com/album/7AnDUzKjjnPvrxoN2ZOkQL) | 5:28 | 2022-01-14 | 2022-07-26 |
+| [The Truth](https://open.spotify.com/track/01NrsdUMQkpY9GZCc7ZFyu) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [The Truth / The Fall](https://open.spotify.com/album/5WCue7zGHg6BFgkffeYG00) | 3:23 | 2023-05-26 |  |
 | [The Truth](https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:42 | 2022-02-21 |  |
 | [The Void](https://open.spotify.com/track/2JOYpIShg9829y8rYwdsu6) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Another Land EP](https://open.spotify.com/album/5JsOZyOdxcQtlL0GEzJaPq) | 4:54 | 2023-05-05 |  |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2022-02-21 |  |

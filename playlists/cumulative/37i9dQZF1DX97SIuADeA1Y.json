@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 120585,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/46vvP61lftD3CERdB3Y5yA"
@@ -2905,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/7IjAfvZpEb865xTsWmfvbo"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115403,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/0unJKMlGI2EwbpOcd3ZoRO"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/62XVCmYN6BjQwks4Orkjzf"
       },
@@ -3274,6 +3296,28 @@
       "duration_ms": 151777,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/1rGFJSczQrjMYHi62OR8vH"
+    },
+    {
+      "album": {
+        "name": "Moving To The Beat",
+        "url": "https://open.spotify.com/album/5NAhai4rAUQiO669naTtbS"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161359,
+      "name": "Moving To The Beat",
+      "url": "https://open.spotify.com/track/5fuMwp29NvRokSFVn7HatV"
     },
     {
       "album": {
@@ -4976,7 +5020,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176920,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/0ZLhf4nmiS3bGvsq8kW90W"

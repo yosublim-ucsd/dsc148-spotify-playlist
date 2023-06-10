@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 149120,
       "name": "El Cholo 50 - En Vivo",
       "url": "https://open.spotify.com/track/1irSoosb7Gk5UtfhL4rOGk"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175000,
       "name": "El Escudo Del Chavo - En Vivo",
       "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
@@ -800,6 +800,28 @@
       "duration_ms": 178000,
       "name": "El Fugitivo - En Vivo",
       "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
+    },
+    {
+      "album": {
+        "name": "El Gallinero (En Vivo)",
+        "url": "https://open.spotify.com/album/2kkpmQbS49gFGGxl6xDyoQ"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Tino Acosta",
+          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164216,
+      "name": "El Gallinero - En Vivo",
+      "url": "https://open.spotify.com/track/5rRhjJAnIgDgCF9pH2cVEg"
     },
     {
       "album": {
@@ -963,6 +985,28 @@
     },
     {
       "album": {
+        "name": "El Pistolero (En Vivo)",
+        "url": "https://open.spotify.com/album/33or0QrFJdiBPpFLmwW02x"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/1JamSXnQC6Oa17xcIWSEDb"
+    },
+    {
+      "album": {
         "name": "El Roto (En Vivo)",
         "url": "https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb"
       },
@@ -1054,7 +1098,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207855,
       "name": "El Teniente Fantasma (En Vivo)",
       "url": "https://open.spotify.com/track/7eu5ckFIDseCWsBBiLEOQQ"
@@ -1194,6 +1238,28 @@
       "duration_ms": 235221,
       "name": "Gracias - En Vivo",
       "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
+    },
+    {
+      "album": {
+        "name": "Hablan y Hablan (En Vivo)",
+        "url": "https://open.spotify.com/album/0jL16pq82WBjISUNQxfkWC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        },
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "Hablan y Hablan - En Vivo",
+      "url": "https://open.spotify.com/track/2G4Ow0bB55cp188IFDUoUh"
     },
     {
       "album": {
@@ -1739,6 +1805,28 @@
     },
     {
       "album": {
+        "name": "Me La Seguiran Pelando (En Vivo)",
+        "url": "https://open.spotify.com/album/2qF8R8IWrc0LxE2CFkHdaL"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        },
+        {
+          "name": "Proyecto X",
+          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220202,
+      "name": "Me La Seguiran Pelando - En Vivo",
+      "url": "https://open.spotify.com/track/02R48GzQFMADKsAQjpfrQL"
+    },
+    {
+      "album": {
         "name": "Me Met\u00ed En El Ruedo (En Vivo)",
         "url": "https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2"
       },
@@ -1779,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Belikeando Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/0yWnYnbzizqDwk3hF01d6K"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "No Ocupa la Banda Pa' Bailar Mi Cuaco - En Vivo",
+      "url": "https://open.spotify.com/track/4NsHPkkWr5UgVCctqlZtb9"
+    },
+    {
+      "album": {
         "name": "Pasado Pisado (En Vivo)",
         "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
       },
@@ -1794,7 +1900,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156597,
       "name": "Pasado Pisado (En Vivo)",
       "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"

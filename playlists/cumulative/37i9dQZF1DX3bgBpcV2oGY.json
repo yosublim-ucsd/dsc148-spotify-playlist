@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178850,
       "name": "A Stranger In Love",
       "url": "https://open.spotify.com/track/4HTm7WPkq24oFXqGliyMif"
@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Mondo Piccolo",
+        "url": "https://open.spotify.com/album/50nZWa8vmigRohNyBfdjn6"
+      },
+      "artists": [
+        {
+          "name": "Enzo La Mattina",
+          "url": "https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135128,
+      "name": "Mondo Piccolo",
+      "url": "https://open.spotify.com/track/375O24y2MnIWs0NWBBZOdh"
+    },
+    {
+      "album": {
         "name": "My Favorite Memory Of You",
         "url": "https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia"
       },
@@ -2493,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Night Poem",
+        "url": "https://open.spotify.com/album/3lr2YxjxbYbO6MmhUEaxIX"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147354,
+      "name": "Night Poem",
+      "url": "https://open.spotify.com/track/58Ga0rVIloMeV5eRtJh7pR"
+    },
+    {
+      "album": {
         "name": "No es mi mente",
         "url": "https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt"
       },
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 131816,
       "name": "On A Slow Boat To China",
       "url": "https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es"
@@ -3246,6 +3282,24 @@
       "duration_ms": 163366,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG"
+    },
+    {
+      "album": {
+        "name": "Sunrise In Altona",
+        "url": "https://open.spotify.com/album/6WpTMJ1M9Sbsp8aj7KNDau"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153834,
+      "name": "Sunrise In Altona",
+      "url": "https://open.spotify.com/track/14yq883gXycyEjpfU0R5Ol"
     },
     {
       "album": {

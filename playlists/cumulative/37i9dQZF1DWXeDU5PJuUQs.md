@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-133 songs - 8 hr 50 min
+134 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Por Una Vez En La Vida \- En Vivo en el Luna Park](https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Una Vez En La Vida \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT) | 4:24 | 2022-12-02 | 2023-03-10 |
 | [Presentación / Dejémoslo Así \- En Vivo](https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 4:06 | 2022-01-07 | 2022-07-28 |
 | [Pupilas Lejanas \- En Vivo](https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 | 2022-01-03 | 2022-07-27 |
-| [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 | 2023-03-10 |  |
+| [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 | 2023-03-10 | 2023-06-10 |
 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 | 2021-12-10 |  |
 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 | 2021-12-10 |  |
 | [Se Te Ve la Tanga \- En Vivo](https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [En Vivo \- Hasta las Manos](https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi) | 5:01 | 2021-12-10 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Tú, La Más Bella](https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 2:49 | 2021-12-10 |  |
 | [Un Amor Que No Se Olvida \- En Vivo](https://open.spotify.com/track/2U7pudlBcLKtF79qyUjRKJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:45 | 2022-01-03 | 2022-07-29 |
 | [Un Millon de Rosas / Me Enamore / El Camison \(En Vivo\)](https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Millon de Rosas / Me Enamore de una Bandida / El Camison \(En Vivo\)](https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo) | 7:09 | 2021-12-10 | 2022-09-23 |
+| [Un Montón de Estrellas \- En Vivo Gran Rex](https://open.spotify.com/track/555Op74S64KmntebD6O3wa) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Un Montón de Estrellas \(En Vivo Gran Rex\)](https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR) | 2:45 | 2023-06-09 |  |
 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2021-12-10 |  |
 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 | 2023-04-17 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 | 2022-08-26 | 2023-04-16 |

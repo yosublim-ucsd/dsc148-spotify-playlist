@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Parrotfish \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,379 likes - 110 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,454 likes - 110 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 65 | [FASHION GIRL](https://open.spotify.com/track/6iA2jnO8MyT31lDgWg89Jx) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [FASHION GIRL](https://open.spotify.com/album/1sQjRuK7w7NT6ufXwO4QGf) | 2:42 |
 | 66 | [\[swiffer\]](https://open.spotify.com/track/2NkAY2jusfzCksQ8QD2awT) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r), [Alysdare](https://open.spotify.com/artist/6yOBXIYRbIDaUgqa9frzxD) | [\[swiffer\]](https://open.spotify.com/album/4ePiQiVJMBua2tZhAhst7D) | 2:15 |
 | 67 | [Psychopath](https://open.spotify.com/track/3ElA3Noem40LahcFSBkO3D) | [CeCe](https://open.spotify.com/artist/3o3cMu8wu8ANNYLo660Sgs) | [Psychopath](https://open.spotify.com/album/1No95crFn1bdFayLhM32V2) | 1:47 |
-| 68 | [All I'm Seeing](https://open.spotify.com/track/2uGr25CqOjX0F0MgwNh0qp) | [Mona](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [All I'm Seeing](https://open.spotify.com/album/7ib9Ls2osD6i1pVHVYOjOS) | 3:05 |
+| 68 | [All I'm Seeing](https://open.spotify.com/track/2uGr25CqOjX0F0MgwNh0qp) | [MONA](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [All I'm Seeing](https://open.spotify.com/album/7ib9Ls2osD6i1pVHVYOjOS) | 3:05 |
 | 69 | [Pyrokid](https://open.spotify.com/track/5ls7xFrS8vniQwxkwKYOdn) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Pyrokid](https://open.spotify.com/album/7nmbCkUd1Uz8GTWRhpY5Dc) | 2:48 |
 | 70 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
 | 71 | [Summer Hits](https://open.spotify.com/track/3hOJdatpATLCuHoPs1anoE) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [OFF THE BONE](https://open.spotify.com/track/0tbsauAvlTJdoyiU6GB50L) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [OFF THE BONE](https://open.spotify.com/album/4VpH8a9n6ZghVvZFhgUlni) | 2:50 |
 | 110 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
 
-Snapshot ID: `MCw3YzY5Yjc1NDBiMDQxMjNjYjRjODZkYTMyMzY3NTlmMmVjZDA5N2Qz`
+Snapshot ID: `MCxmZjhhNDliZWE3NjdiYjgwZDQxMGJmMzcyNDhmODhjMGYyZWY0OTNi`

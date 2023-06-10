@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 21195,
+  "num_followers": 21282,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjJlZjYyYjllNTM0YmIwY2M2MWY4NWQ1MjE4NzkwMTkzZDA2OWMx",
+  "snapshot_id": "MCwyNDk1NzVkOWNiNTRlMGQwMzBhNTZlZTYwZjU3ZjVkN2MxNjdjODk5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -559,26 +559,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         }
       ],
-      "duration_ms": 197133,
-      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-      "url": "https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP"
+      "duration_ms": 215866,
+      "name": "Charlie, Last Name Wilson",
+      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -623,18 +615,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Charlie, Last Name Wilson",
-      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
+      "duration_ms": 197133,
+      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+      "url": "https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,144 likes - 18 songs - 40 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 28,270 likes - 18 songs - 40 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 17 | [HIT EM UP!](https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:28 |
 | 18 | [GENESIS](https://open.spotify.com/track/3sJzVBrASbozclOfsoavP6) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:24 |
 
-Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDBhNTgzMTEyNDlkODU3ZjI1MjQ1NTk2MWIzMjRmM2UyNQ==`
+Snapshot ID: `MjgxMDUyMDYsMDAwMDAwMDAzZmJlZmVmYTlmYWUwMzU5MDQ0YjljYjJjYzY2NGQ5Yw==`

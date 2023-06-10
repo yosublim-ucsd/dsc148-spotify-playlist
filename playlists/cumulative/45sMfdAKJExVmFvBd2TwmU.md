@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023\. 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood songs
 
-140 songs - 10 hr 48 min
+141 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hamari Adhuri Kahani \(Title Track\)](https://open.spotify.com/track/3HiobOOpSpMsi95WBKPBYk) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 6:38 | 2021-07-28 |  |
 | [Hasi \- Female Version](https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 3:12 | 2022-01-18 |  |
 | [Hasi \- Male Version](https://open.spotify.com/track/32765xcLM1fd6wQIpkN9A0) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 4:32 | 2021-07-05 |  |
+| [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 | 2023-06-09 |  |
 | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF) | 4:49 | 2021-08-03 |  |
 | [Hawayein \- Tabla Mix](https://open.spotify.com/track/6SCT13Z8oCcZQ8gDMnXYKt) | [Vaibhav Verma](https://open.spotify.com/artist/5L9Yo4UhR3CRfnhQZujsoV), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Hawayein \(Tabla Mix\)](https://open.spotify.com/album/1KXnLF6WrBqnkFyOvTETd5) | 2:42 | 2023-05-15 |  |
 | [Hosanna](https://open.spotify.com/track/5NChQ2tXB9q9D8kdkLTWOL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ekk Deewana Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf) | 5:31 | 2021-12-14 |  |

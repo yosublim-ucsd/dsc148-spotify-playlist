@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-125 songs - 12 hr 46 min
+126 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 | 2020-10-30 |  |
 | [Keep On Growing \- Live](https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Keep On Growing \(Live\)](https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84) | 10:50 | 2020-10-30 | 2022-07-29 |
 | [Key To The Highway \- Live](https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Roadsongs](https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3) | 6:22 | 2020-10-30 |  |
+| [Key to the Highway \- Live at The Royal Albert Hall](https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Key to the Highway \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/0Pc7Ti2YgK7xARnrmpCPZv) | 6:32 | 2023-06-09 |  |
 | [Known Unknowns \(Live\)](https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Known Unknowns \(Live\)](https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG) | 6:04 | 2023-03-03 | 2023-05-05 |
 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 | 2020-10-30 |  |
 | [Let Me Love You Baby \- Live](https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Let Me Love You Baby \(Live\)](https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR) | 5:35 | 2020-10-30 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 | 2023-05-27 |
 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 | 2020-10-30 |  |
 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 | 2020-10-30 |  |
-| [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 | 2020-10-30 |  |
+| [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 | 2020-10-30 | 2023-06-10 |
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 | 2020-10-30 |  |
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad & Beautiful \- Live](https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp) | 5:50 | 2020-10-30 | 2022-07-29 |
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt) | 6:50 | 2020-10-30 | 2022-07-29 |

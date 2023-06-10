@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-214 songs - 13 hr 38 min
+215 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-01-24 | 2023-01-05 |
 | [Save Us](https://open.spotify.com/track/5b2CTow0KTieqeITsHSjXV) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:21 | 2022-01-24 | 2023-01-04 |
 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:55 | 2022-09-21 |  |
+| [Sho Nuff](https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Sho Nuff](https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv) | 2:30 | 2023-06-09 |  |
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2022-01-25 | 2023-01-04 |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2022-01-24 |  |
 | [Somewhat Damaged](https://open.spotify.com/track/0yUyPe5c1o5cCyV7aJkz6F) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:31 | 2022-03-08 | 2023-01-04 |

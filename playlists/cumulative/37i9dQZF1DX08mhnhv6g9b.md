@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
-462 songs - 1 day 3 hr 37 min
+463 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [SUGA's Interlude](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SUGA's Interlude](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) | 2:18 | 2022-06-23 |  |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-06-10 | 2023-06-04 |
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-05-29 |  |
+| [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
 | [Tear](https://open.spotify.com/track/3smbno1dKL410vC27M5KOS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:44 | 2022-05-27 |  |
 | [Tear](https://open.spotify.com/track/6L1rxT6NUotot2AAiLXGLj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:44 | 2022-06-10 | 2022-06-18 |
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2022-06-10 | 2022-06-18 |

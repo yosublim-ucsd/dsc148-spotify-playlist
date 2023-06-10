@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 475757,
+  "num_followers": 477030,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDRmNzRmNjc3YzQ4MTdlMjk4N2M0YmJiYmU5MzFjMWE5YjZiNzc5",
+  "snapshot_id": "MCwwMGFkMzk3ZDUwZTNmMzQ0N2Y5N2Q4ZDZmNjhjMmMyODQyZjI3ZDFm",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
       "added_at": "2021-03-22 14:12:29",
       "album": {
         "name": "Born In The U.S.A.",
@@ -467,22 +483,6 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "In Square Circle",
@@ -1239,6 +1223,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 194618,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+      "duration_ms": 194618,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Bad - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 205533,
       "name": "Together Forever",
       "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Bad - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Bananarama (Collector's Edition)",
         "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 215326,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
-      },
-      "artists": [
-        {
-          "name": "Wang Chung",
-          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 280000,
       "name": "Let's Go Crazy",
       "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "True Confessions (Collector's Edition)",
         "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2117,22 +2117,6 @@
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Pipes Of Peace",
@@ -2151,6 +2135,22 @@
       "duration_ms": 235693,
       "name": "Say Say Say - Remastered 2015",
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2409,22 +2409,6 @@
       "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Frantic Romantic",
-        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Stewart",
-          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
@@ -2439,6 +2423,22 @@
       "duration_ms": 241506,
       "name": "On The Radio",
       "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Frantic Romantic",
+        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Stewart",
+          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
     },
     {
       "added_at": "2021-09-08 13:09:25",

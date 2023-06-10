@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-20",
   "description": "Elegant classical guitar to accompany your favourite Italian coffee.",
-  "name": "Coffee House Classical Guitar",
+  "name": "Coffee House Guitar",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 120339,
       "name": "11 rue Beauvau",
       "url": "https://open.spotify.com/track/6oSA4XyOdYXn6Uiej0kYkg"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168305,
       "name": "Beyond Any Doubt",
       "url": "https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51"
@@ -978,6 +978,24 @@
       "duration_ms": 109084,
       "name": "By your Bedside",
       "url": "https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D"
+    },
+    {
+      "album": {
+        "name": "Calida Brisa",
+        "url": "https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gonsales",
+          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115937,
+      "name": "Calida Brisa",
+      "url": "https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj"
     },
     {
       "album": {
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 132166,
       "name": "Falling Light",
       "url": "https://open.spotify.com/track/2sGQH1FgVUDiR9LrCsC3Z2"
@@ -2266,6 +2284,24 @@
       "duration_ms": 121858,
       "name": "Fragile Dreams",
       "url": "https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG"
+    },
+    {
+      "album": {
+        "name": "Frelsien",
+        "url": "https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr"
+      },
+      "artists": [
+        {
+          "name": "Aiday Ainur",
+          "url": "https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130351,
+      "name": "Frelsien",
+      "url": "https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ"
     },
     {
       "album": {
@@ -3468,7 +3504,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147864,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/1WcxF14tMwAKjdSrBWGpf9"
@@ -3580,6 +3616,24 @@
       "duration_ms": 123402,
       "name": "Marvel At The Sky",
       "url": "https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM"
+    },
+    {
+      "album": {
+        "name": "Me And You",
+        "url": "https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu"
+      },
+      "artists": [
+        {
+          "name": "Duncan Bowie",
+          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152576,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9"
     },
     {
       "album": {
@@ -4012,7 +4066,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218826,
       "name": "Nada que perder",
       "url": "https://open.spotify.com/track/13T3yVvo9sireuPg3xnI4J"
@@ -4106,6 +4160,24 @@
       "duration_ms": 110471,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI"
+    },
+    {
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145006,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T"
     },
     {
       "album": {
@@ -5575,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Sunrise With You",
+        "url": "https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP"
+      },
+      "artists": [
+        {
+          "name": "Eden Edwards",
+          "url": "https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120592,
+      "name": "Sunrise With You",
+      "url": "https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx"
+    },
+    {
+      "album": {
         "name": "Sunset In Alcudia",
         "url": "https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5"
       },
@@ -6008,6 +6098,24 @@
       "duration_ms": 161951,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx"
+    },
+    {
+      "album": {
+        "name": "Through Wildflowers",
+        "url": "https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120337,
+      "name": "Through Wildflowers",
+      "url": "https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Lauv
+> make it pop! cover: Lany
 
-657 songs - 1 day 8 hr 59 min
+664 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
+| [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 |  |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2023-03-04 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-11-19 | 2022-03-18 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-18 | 2022-06-04 |
@@ -105,6 +106,7 @@
 | [Chelsea's Coming Over](https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Chelsea's Coming Over](https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql) | 2:48 | 2022-05-27 | 2022-08-13 |
 | [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 | 2022-09-23 | 2022-11-26 |
 | [CIGARETTES](https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [CIGARETTES](https://open.spotify.com/album/0W2PW9SzUoZYRAoYS2YKnH) | 2:29 | 2022-07-01 | 2022-08-13 |
+| [cindy](https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [is nothing sacred?](https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd) | 3:21 | 2023-06-09 |  |
 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 | 2023-01-27 | 2023-03-25 |
 | [Clarity](https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Clarity](https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9) | 3:16 | 2022-01-21 | 2022-02-26 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-11-05 | 2022-02-26 |
@@ -166,6 +168,7 @@
 | [DUMP HIM](https://open.spotify.com/track/3uCz1ghL2RM8rDWDKSbH0Z) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [DUMP HIM](https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0) | 2:35 | 2022-09-16 | 2022-10-29 |
 | [Dumpster Fire](https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Dumpster Fire](https://open.spotify.com/album/556wDyg1w9UwoivJ3bg3TI) | 3:16 | 2022-10-21 | 2023-02-18 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-24 |  |
+| [easier said](https://open.spotify.com/track/4gyOWF9N3bPBTpZj2a0F0R) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [what if it was great?](https://open.spotify.com/album/45ppTSZcqg0tzMhoVx1kWG) | 3:17 | 2023-06-09 |  |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 |  |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-02-26 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2022-11-26 |
@@ -374,7 +377,9 @@
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2022-04-01 | 2022-04-09 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-18 | 2022-08-27 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-27 | 2023-03-11 |
+| [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 | 2023-06-09 |  |
 | [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 |  |
+| [Love You 'Til I Die](https://open.spotify.com/track/0q8qzOGUClwoZi4K71kY6j) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Love You 'Til I Die](https://open.spotify.com/album/4NCYY8JE2K8PLTzIx0sxx9) | 2:16 | 2023-06-09 |  |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-08-19 | 2022-12-01 |
 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 | 2022-09-09 | 2023-02-04 |
 | [Love!](https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Love!](https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN) | 3:19 | 2023-01-20 | 2023-02-18 |
@@ -607,6 +612,7 @@
 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 | 2023-01-27 | 2023-04-22 |
 | [Too Much](https://open.spotify.com/track/4wJtYAMOzz013zi6KjHDeT) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Too Much](https://open.spotify.com/album/4XXC4nxkEl1Q29lsTXbi4z) | 3:34 | 2022-06-10 | 2022-08-20 |
 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 | 2022-05-27 | 2022-06-04 |
+| [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 |  |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-12-24 | 2022-03-05 |
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
 | [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 |  |
@@ -633,6 +639,7 @@
 | [We Are All We Need](https://open.spotify.com/track/6GITd9tdOOiBvT9sfqNHTu) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Cleanse](https://open.spotify.com/album/0WHBKdvUJFdklfNhZYHKkV) | 3:29 | 2022-02-11 | 2022-03-12 |
 | [We Were Happy](https://open.spotify.com/track/76Yihe2lirW8tQyEL5z0lE) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [We Were Happy](https://open.spotify.com/album/3xVHRG63cyad5JznT2AxfJ) | 4:23 | 2022-08-19 | 2022-09-17 |
 | [Weak](https://open.spotify.com/track/5DZwnLxHjWTZaz9jOpRhxb) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:21 | 2022-04-01 | 2022-04-09 |
+| [wear your heart out](https://open.spotify.com/track/4yjtj2Xjgk1GXK81RB52hX) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/7sUJrPrDHgVyTY7YqNyuHu) | 3:19 | 2023-06-09 |  |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-04-29 | 2022-07-30 |
 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2022-05-27 | 2022-06-04 |
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-04-21 |  |

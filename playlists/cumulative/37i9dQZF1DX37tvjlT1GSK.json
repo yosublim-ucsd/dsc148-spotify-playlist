@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Plebes del Rancho en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Perdidos de Sinaloa en portada. ",
   "name": "Sierre\u00f1o 2023",
   "tracks": [
     {
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Vuelvo A Emborracharme",
+        "url": "https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211937,
+      "name": "Como Cielo Sin Estrellas",
+      "url": "https://open.spotify.com/track/6qRlxvzAvYJ4zJdkfyGkcS"
+    },
+    {
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -943,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+    },
+    {
+      "album": {
         "name": "Diviertete",
         "url": "https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4"
       },
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180659,
       "name": "D\u00edganle A Mi Ex",
       "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
@@ -1528,6 +1564,24 @@
       "duration_ms": 165442,
       "name": "El Tony",
       "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+    },
+    {
+      "album": {
+        "name": "El Vaso Derrama",
+        "url": "https://open.spotify.com/album/744EGDZkQWBWw4qT2tG46X"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185541,
+      "name": "El Vaso Derrama",
+      "url": "https://open.spotify.com/track/6DXn7FK1ZMhHpPmSkBnt0k"
     },
     {
       "album": {
@@ -2458,7 +2512,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 263111,
       "name": "Lo Eminente",
       "url": "https://open.spotify.com/track/4eQAmN30bn85qpIPMoiQP2"
@@ -2743,6 +2797,28 @@
     },
     {
       "album": {
+        "name": "Mira Jodidon",
+        "url": "https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Mira Jodidon",
+      "url": "https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781"
+    },
+    {
+      "album": {
         "name": "M\u00eda Un A\u00f1o",
         "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
       },
@@ -2834,7 +2910,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160038,
       "name": "No Fue Suerte",
       "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
@@ -2972,6 +3048,28 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
+    },
+    {
+      "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165919,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
     },
     {
       "album": {
@@ -3200,7 +3298,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 126538,
       "name": "Por Si Te Lo Preguntas",
       "url": "https://open.spotify.com/track/1VEQ2EDfVO6fMcAzhI42D7"
@@ -3692,7 +3790,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187440,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
@@ -3862,6 +3960,28 @@
       "duration_ms": 178748,
       "name": "SRT",
       "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o",
+        "url": "https://open.spotify.com/album/2BZJM9m6EHrOvZ7dAy0tsV"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        },
+        {
+          "name": "L\u00ednea Exuberante",
+          "url": "https://open.spotify.com/artist/645k5E7jKteZ7xyeL0Dryx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215534,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5CkAiKHy2rscQY4emTtS9w"
     },
     {
       "album": {
@@ -4384,7 +4504,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177534,
       "name": "Y Yo Voy",
       "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"

@@ -636,7 +636,7 @@
     {
       "album": {
         "name": "GOODTIME",
-        "url": "https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS"
+        "url": "https://open.spotify.com/album/69nDpEyn52nnxChWwUDSO3"
       },
       "artists": [
         {
@@ -647,6 +647,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222272,
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/0B1u3O0JaCDxlInbrjT6CE"
+    },
+    {
+      "album": {
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS"
+      },
+      "artists": [
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
       "duration_ms": 222272,
       "name": "GOODTIME",
       "url": "https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei"

@@ -1,18 +1,18 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 51297,
+  "num_followers": 51355,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWVmMjZmMWFhOTZiMDg2YjY4YjViYWJlZWYyZjQwOTkwYzVjMmRk",
+  "snapshot_id": "MCxiMWE3N2Q0YjAzOTMzMmMxYzM1NDYzN2E3ODNlY2NkODg0MTIzZTYy",
   "tracks": [
     {
-      "added_at": "2023-03-07 05:59:03",
+      "added_at": "2023-06-09 08:10:55",
       "album": {
-        "name": "The Shave Experiment (Director's Cut)",
-        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
       "artists": [
         {
@@ -20,9 +20,141 @@
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 192896,
-      "name": "Take Me Where Your Heart Is",
-      "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
+      "duration_ms": 183013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
+    },
+    {
+      "added_at": "2023-05-04 10:15:19",
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151983,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Shirt & Handtuch",
+        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Shirt & Handtuch",
+      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9"
+      },
+      "artists": [
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "duration_ms": 206966,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Naakay",
+        "url": "https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "duration_ms": 158625,
+      "name": "Naakay",
+      "url": "https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA"
+    },
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "D\u00e9pass\u00e9",
+        "url": "https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 175367,
+      "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Titli",
+        "url": "https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        },
+        {
+          "name": "Pranay Parti",
+          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
+        }
+      ],
+      "duration_ms": 155594,
+      "name": "Titli",
+      "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -187,26 +319,6 @@
       "duration_ms": 154932,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
       "added_at": "2023-05-22 07:20:56",
@@ -591,22 +703,6 @@
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
-        "name": "Like a fool",
-        "url": "https://open.spotify.com/album/3lbswaKF1ylYuSYUqBHFdf"
-      },
-      "artists": [
-        {
-          "name": "Flower.far",
-          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
-        }
-      ],
-      "duration_ms": 260232,
-      "name": "Like a fool",
-      "url": "https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
         "name": "Count to Three",
         "url": "https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT"
       },
@@ -983,26 +1079,6 @@
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
-        "name": "Titli",
-        "url": "https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG"
-      },
-      "artists": [
-        {
-          "name": "Kamakshi Khanna",
-          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
-        },
-        {
-          "name": "Pranay Parti",
-          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
-        }
-      ],
-      "duration_ms": 155594,
-      "name": "Titli",
-      "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
         "name": "THAT'S MY BABY",
         "url": "https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe"
       },
@@ -1031,22 +1107,6 @@
       "duration_ms": 277411,
       "name": "Would You Ever",
       "url": "https://open.spotify.com/track/6G5nyQPvqSfojOVzXfNAHf"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1197,22 +1257,6 @@
       "url": "https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX"
     },
     {
-      "added_at": "2023-05-04 10:15:19",
-      "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151983,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Perspektif",
@@ -1347,22 +1391,6 @@
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "D\u00e9pass\u00e9",
-        "url": "https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 172394,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -2083,22 +2111,6 @@
       "duration_ms": 169428,
       "name": "LANTAKLAH",
       "url": "https://open.spotify.com/track/4FHqdFddhbFpxUgvw5HVu0"
-    },
-    {
-      "added_at": "2023-03-03 11:01:00",
-      "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 136373,
-      "name": "Wien",
-      "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
     },
     {
       "added_at": "2023-02-17 09:49:00",

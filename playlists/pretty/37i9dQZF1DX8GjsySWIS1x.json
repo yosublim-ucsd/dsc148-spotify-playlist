@@ -1,13 +1,53 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1015562,
+  "num_followers": 1015667,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTVhODljMzM1MjIzNjMzMmJhNjQ0OWMzYmYxM2I1YzhjMWEwNWE0",
+  "snapshot_id": "MCwxYzIyZGZmZmJjOWYxOGYzODMzNjYzMmU5OGNjZmE2ZTk1NDRjNWIw",
   "tracks": [
+    {
+      "added_at": "2023-06-09 14:55:29",
+      "album": {
+        "name": "Fatal (Mortal Kombat 1)",
+        "url": "https://open.spotify.com/album/5cr5pHpbw6dz3yQuCEFBIV"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Fatal (Mortal Kombat 1)",
+      "url": "https://open.spotify.com/track/6sHsemX0bfvhZd2p2ZnnP2"
+    },
+    {
+      "added_at": "2023-06-09 14:55:29",
+      "album": {
+        "name": "The Lost Crown (Original Music for Prince of Persia)",
+        "url": "https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Joznez",
+          "url": "https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs"
+        },
+        {
+          "name": "Kataem",
+          "url": "https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "The Lost Crown (Prince of Persia)",
+      "url": "https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv"
+    },
     {
       "added_at": "2023-06-05 16:56:30",
       "album": {
@@ -315,6 +355,186 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "MEGALOVANIA",
+      "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Five Nights at Freddy's",
+        "url": "https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "Five Nights at Freddy's",
+      "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Playground (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/118EoTgIkMLl9fcutZfgaq"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 230525,
+      "name": "Playground (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5f2zZawBtGBEw24ABweErz"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse] [Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse]",
+        "url": "https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Abdul Cisse",
+          "url": "https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl"
+        }
+      ],
+      "duration_ms": 148746,
+      "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse]",
+      "url": "https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
+      },
+      "artists": [
+        {
+          "name": "The FaNaTiX",
+          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 237983,
+      "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/4U0ln8ORZhWx1JTa0BzNhp"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/6nQT3XpzROqUhQGhg3a8yI"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Moon Over the Castle (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 187001,
+      "name": "Moon Over the Castle - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
         "name": "Below the Surface",
         "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
       },
@@ -347,38 +567,6 @@
       "duration_ms": 159714,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "MEGALOVANIA",
-      "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Five Nights at Freddy's",
-        "url": "https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Five Nights at Freddy's",
-      "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
     },
     {
       "added_at": "2022-11-29 15:10:32",
@@ -443,78 +631,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2022-09-20 14:50:15",
-      "album": {
-        "name": "Novia",
-        "url": "https://open.spotify.com/album/7LjSaV9Tacv5WOqD6hAx8r"
-      },
-      "artists": [
-        {
-          "name": "Jake Daniels",
-          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
-        }
-      ],
-      "duration_ms": 123214,
-      "name": "Novia",
-      "url": "https://open.spotify.com/track/1bn6dqeM5Sle3rYsZXPvdx"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Fight Back",
-        "url": "https://open.spotify.com/album/3mwJO0XY1Yjq4O9oTHks6L"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/2zNTjCDUzoKhImvJfnk3vG"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 133706,
-      "name": "edamame (feat. Rich Brian)",
-      "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m"
       },
@@ -559,22 +675,6 @@
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
-    },
-    {
-      "added_at": "2022-09-20 14:50:15",
-      "album": {
-        "name": "ERROR143",
-        "url": "https://open.spotify.com/album/4AJPrZMXhg3LDf10is0Rf3"
-      },
-      "artists": [
-        {
-          "name": "kroh",
-          "url": "https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "ERROR143",
-      "url": "https://open.spotify.com/track/1rMfxheMMYyOwGoYhpXXEd"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -697,54 +797,6 @@
       "url": "https://open.spotify.com/track/3FPMiCJXJjZxrRoB6WDFek"
     },
     {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
       "added_at": "2022-09-29 15:53:48",
       "album": {
         "name": "Feed the Machine",
@@ -811,30 +863,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "Playground (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/118EoTgIkMLl9fcutZfgaq"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 230525,
-      "name": "Playground (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5f2zZawBtGBEw24ABweErz"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
         "url": "https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6"
       },
@@ -847,22 +875,6 @@
       "duration_ms": 261601,
       "name": "Venom - Remix",
       "url": "https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ"
-    },
-    {
-      "added_at": "2022-09-29 15:53:48",
-      "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -899,142 +911,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/70di9w4RMd5TIGEJ2BvFwU"
-      },
-      "artists": [
-        {
-          "name": "JT Music",
-          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
-        },
-        {
-          "name": "Andrea Storm Kaden",
-          "url": "https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU"
-        }
-      ],
-      "duration_ms": 202222,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6KxHecO2Un6TxnSq8Ufrzi"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        },
-        {
-          "name": "Anjulie",
-          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
-        }
-      ],
-      "duration_ms": 194267,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Demons on the Side of My Bed",
-        "url": "https://open.spotify.com/album/4oyfZ3fSxDqc5co0TwIb9r"
-      },
-      "artists": [
-        {
-          "name": "Teflon Sega",
-          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Demons on the Side of My Bed",
-      "url": "https://open.spotify.com/track/7gYh5gtrTe88mGvIieU1mk"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Knee Deep at ATP",
-        "url": "https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 188418,
-      "name": "Knee Deep at ATP",
-      "url": "https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Frozen (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Frozen (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse] [Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse]",
-        "url": "https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Abdul Cisse",
-          "url": "https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl"
-        }
-      ],
-      "duration_ms": 148746,
-      "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse]",
-      "url": "https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "CLOUDS (THE MIXTAPE)",
-        "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "CLOUDS",
-      "url": "https://open.spotify.com/track/1mvI5pGoh84IiFSbWxEkGH"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1067,242 +943,6 @@
       "duration_ms": 164686,
       "name": "CANDYMAN",
       "url": "https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
-      },
-      "artists": [
-        {
-          "name": "The FaNaTiX",
-          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        }
-      ],
-      "duration_ms": 237983,
-      "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Songs of Time",
-        "url": "https://open.spotify.com/album/0wyDWF9bM2n7id4yf56ekX"
-      },
-      "artists": [
-        {
-          "name": "NateWantsToBattle",
-          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
-        }
-      ],
-      "duration_ms": 140444,
-      "name": "Hero of Our Time",
-      "url": "https://open.spotify.com/track/15277wUzsEKo3bxCIxFLgk"
-    },
-    {
-      "added_at": "2022-08-26 16:06:38",
-      "album": {
-        "name": "Build Our Machine",
-        "url": "https://open.spotify.com/album/2ZoGAccGBvg7gqSm7LgH4l"
-      },
-      "artists": [
-        {
-          "name": "Dagames",
-          "url": "https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx"
-        }
-      ],
-      "duration_ms": 245551,
-      "name": "Build Our Machine",
-      "url": "https://open.spotify.com/track/73X3FOZWP0ktM0bebojQd4"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Drugs (BKAYE Remix)",
-        "url": "https://open.spotify.com/album/1vNjLwp9SAeok5OIzD8RTE"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 146371,
-      "name": "Drugs - BKAYE Remix",
-      "url": "https://open.spotify.com/track/7CTvlnIKgE7IluKcalkHcd"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL"
-      },
-      "artists": [
-        {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Back Room (Inspired by Backrooms)",
-        "url": "https://open.spotify.com/album/0cDJ4C9rcW3lVAGyeslyvx"
-      },
-      "artists": [
-        {
-          "name": "Rockit Music",
-          "url": "https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4"
-        }
-      ],
-      "duration_ms": 115392,
-      "name": "Back Room (Inspired by Backrooms)",
-      "url": "https://open.spotify.com/track/3pl7n82OvbXlN9zSZB8Tg4"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/64BNEj8QiXewIjgv6iL0fL"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Claire Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Gospel (with Eminem)",
-        "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Gospel (with Eminem)",
-      "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/4U0ln8ORZhWx1JTa0BzNhp"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/6nQT3XpzROqUhQGhg3a8yI"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Moon Over the Castle (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 187001,
-      "name": "Moon Over the Castle - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Tarantino",
-        "url": "https://open.spotify.com/album/4YFETS96ebbE1JzttOofco"
-      },
-      "artists": [
-        {
-          "name": "Teflon Sega",
-          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
-        },
-        {
-          "name": "OZZIE",
-          "url": "https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p"
-        }
-      ],
-      "duration_ms": 221860,
-      "name": "Tarantino",
-      "url": "https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "NO MIND",
-        "url": "https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "NO MIND",
-      "url": "https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI"
     }
   ],
   "unique_name": "Now Loading",

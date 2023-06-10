@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف:محمود التركي
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,341 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,424 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 25 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 |
 | 26 | [بشر جذاب](https://open.spotify.com/track/2suDDctIHTYB0kST9Fr2B9) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [بشر جذاب](https://open.spotify.com/album/7bJUnmJQsDKjOEICBZXzBy) | 3:43 |
 | 27 | [Ya Ent](https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ya Ent](https://open.spotify.com/album/6vZNmpt7CUyheZUN0UT8Jt) | 4:20 |
-| 28 | [Teba](https://open.spotify.com/track/1NDfQbuGp6kFmMyzpeixuB) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/5RIAxQXZR22vW84YXlPJNw) | 4:10 |
+| 28 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 |
 | 29 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 | 30 | [Hatha Elshog](https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hatha Elshog](https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df) | 3:38 |
 | 31 | [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 50 | [Kathurat Aalayh Alhumum](https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Kathurat Aalayh Alhumum](https://open.spotify.com/album/0u6SaVqxjfZ0ylwLDOP1jj) | 3:18 |
 | 51 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 |
 
-Snapshot ID: `MCxjOGQ2NDc2YmUzMzI5Nzc2M2VmYzkxYWZjMjk1MzJkOGFkZmM2YjM5`
+Snapshot ID: `MCxmMGVkZTE4NTg1NzM4MDNiZWQzNjFjN2U5ODQ4ZjlmYWQwMmE3MWUz`

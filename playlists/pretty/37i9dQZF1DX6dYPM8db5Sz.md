@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=teqXkrAlT8aQUdbJL1KbeA">HONEYMOAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,179 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,217 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sit Right](https://open.spotify.com/track/3d53nYqXuydZPnU4AjeE4W) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sit Right](https://open.spotify.com/album/21A2eVciYbz82Cu6i8wyCi) | 3:21 |
-| 2 | [Rabbit](https://open.spotify.com/track/2YUM2QFAUS7LQTGvfw10wp) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/1k5sG5y99N3xzVzxoJcmVA) | 3:36 |
+| 2 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 |
 | 3 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 |
 | 4 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 |
 | 5 | [City Lights](https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt) | [Daniel Swan](https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv) | [City Lights](https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm) | 3:34 |
 | 6 | [Echo Chamber](https://open.spotify.com/track/75ne9KISAYB2bD46rfk3R2) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Echo Chamber](https://open.spotify.com/album/0sYRNATuYHwK1B0URrrGrh) | 3:08 |
-| 7 | [It AIn't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 |
-| 8 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 |
+| 7 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 |
+| 8 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 |
 | 9 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
 | 10 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
 | 11 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 20 | [Stay Strong](https://open.spotify.com/track/6ECc4KeITr0ck2IIQWpdkM) | [Moahi](https://open.spotify.com/artist/1cEbEpwes9nZ08ydjkdQh4) | [Stay Strong](https://open.spotify.com/album/67GYBpTEgbmXgtO6sATjBH) | 3:43 |
 | 21 | [Little Lifetime](https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Place To Be](https://open.spotify.com/album/5AWAmIca5EetarIAtvNtZ9) | 3:09 |
 | 22 | [House Party](https://open.spotify.com/track/7Knu1yP3BLRuPYC1QjeEkq) | [Tom Mitchell](https://open.spotify.com/artist/0QZSfJjzE6XM7qdpOuz6kM) | [House Party](https://open.spotify.com/album/5NFnalPzq7lTZit06NUuMt) | 3:26 |
-| 23 | [Forgetful Hands](https://open.spotify.com/track/4gR0s1NfXA0m9yRHGg0aWE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Forgetful Hands](https://open.spotify.com/album/32sA5qWaj7y7s2SigYLIfJ) | 3:57 |
+| 23 | [Forgetful Hands](https://open.spotify.com/track/2AjFiZSEJLN4a0uo7pWXpe) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Forgetful Hands](https://open.spotify.com/album/7kSVJTf8p13tHD6MxXFyna) | 3:57 |
 | 24 | [Desert Boy](https://open.spotify.com/track/3r41h1354JW7ObdWIAF53y) | [Hugo Veldsman](https://open.spotify.com/artist/6D6FPxaIzVMHVJULx2sa4z) | [Desert Boy](https://open.spotify.com/album/2N3osDQPHUwz2okZCd2jPp) | 3:44 |
 | 25 | [i'm gonna make it](https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [i'm gonna make it](https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG) | 3:17 |
 | 26 | [No Place Like Home](https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [No Place Like Home](https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
 | 100 | [Queen of Nothing \- Radio Remix](https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [AM/FM](https://open.spotify.com/album/37c3d2zBC43BVUTodE178f) | 3:27 |
 
-Snapshot ID: `MCxjZDQwZmFhYjI5ZGUxMGE3YzI5NjYwYmFjZDkyMDA0NTc5ODY1YmQ4`
+Snapshot ID: `MCwzMzU3ZTY3Yzc1MGYyNDY5YWU0N2IwMzFiNmYxNDg0MDY2YzVhNjlm`

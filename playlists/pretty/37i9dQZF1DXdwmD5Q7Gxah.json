@@ -1,29 +1,13 @@
 {
-  "description": "All the indescribable feelings that music gives you. cover: Ryan Beatty",
-  "num_followers": 1054888,
+  "description": "All the indescribable feelings that music gives you. cover: The Beaches",
+  "num_followers": 1055187,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmYyOWFkMDQ0ZGU3YzYzY2RmM2YxOGIyNzRlNGE3MjM0N2Q3MmEy",
+  "snapshot_id": "MCwwN2Q3ZTgyZWNmMTBjMjhkNTM3N2Q4NWNkMDlhZDM3ZTJiZjUxNjIy",
   "tracks": [
-    {
-      "added_at": "2023-05-25 00:06:09",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
-    },
     {
       "added_at": "2023-06-07 16:29:34",
       "album": {
@@ -57,36 +41,20 @@
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
-      "added_at": "2023-06-07 16:29:34",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Who Is Afraid Of Blue?",
-        "url": "https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX"
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
       },
       "artists": [
         {
-          "name": "Purr",
-          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 275840,
-      "name": "Who Is Afraid Of Blue",
-      "url": "https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC"
-    },
-    {
-      "added_at": "2023-05-25 15:44:32",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
     },
     {
       "added_at": "2023-06-01 22:48:31",
@@ -105,6 +73,86 @@
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
+      "added_at": "2023-06-07 16:29:34",
+      "album": {
+        "name": "Who Is Afraid Of Blue?",
+        "url": "https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "Who Is Afraid Of Blue",
+      "url": "https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC"
+    },
+    {
+      "added_at": "2023-05-25 00:06:09",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "added_at": "2023-06-01 22:48:31",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
+    },
+    {
+      "added_at": "2023-05-25 15:44:32",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
       "added_at": "2023-05-17 00:25:30",
       "album": {
         "name": "Aperture",
@@ -119,6 +167,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 189338,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -155,22 +219,6 @@
       "duration_ms": 162960,
       "name": "OBO (feat. Kate Bollinger)",
       "url": "https://open.spotify.com/track/60QQM23tCWizpxyCgt35tR"
-    },
-    {
-      "added_at": "2023-06-01 22:48:31",
-      "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -219,6 +267,22 @@
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Suddenly My Mind Is Blank",
+        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+      },
+      "artists": [
+        {
+          "name": "Jouska",
+          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+        }
+      ],
+      "duration_ms": 236324,
+      "name": "Why'd You Leave Me in the Red?",
+      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
     },
     {
       "added_at": "2023-05-26 04:00:00",

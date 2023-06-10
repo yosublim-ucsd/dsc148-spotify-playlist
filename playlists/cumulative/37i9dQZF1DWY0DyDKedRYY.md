@@ -4,7 +4,7 @@
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Peso Pluma on the cover.
 
-550 songs - 1 day 4 hr 22 min
+551 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-17 | 2022-06-15 |
 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 | 2023-03-31 | 2023-05-09 |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-31 | 2023-05-09 |
-| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-05-08 |  |
+| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-05-08 | 2023-06-10 |
+| [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-05-27 |  |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-31 | 2023-05-09 |
 | [FLYLIKEDIS](https://open.spotify.com/track/2u73qt5DYi05CuJfZDsB4A) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [FLYLIKEDIS](https://open.spotify.com/album/1IiIm2TgBtdkUuuJrmu8Z4) | 2:54 | 2022-09-06 | 2022-11-15 |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-12-01 | 2022-04-09 |

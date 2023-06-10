@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 101559,
+  "num_followers": 101572,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDc0Miw4MzY0ZmJiNmNjODBmZjk2YmU5MzM2MWZjYmRhOWE0MDlhOTA0Nzhi",
+  "snapshot_id": "NDc0OCw4NGMxNzhjN2ZmNGVlNDg3MzlkZWE2NWY5N2E1Mjg3ZTk4YzRjOWIw",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -361,6 +361,26 @@
       "url": "https://open.spotify.com/track/2UlVZ1TOoPTU88vrh6axKe"
     },
     {
+      "added_at": "2023-06-09 17:35:25",
+      "album": {
+        "name": "J.X.B. presents...",
+        "url": "https://open.spotify.com/album/5hNvSPdQm5x1Y6Zci8gqxo"
+      },
+      "artists": [
+        {
+          "name": "J.X.B.",
+          "url": "https://open.spotify.com/artist/623xmS6ELt4gDnzvAzYoIe"
+        },
+        {
+          "name": "Emajor",
+          "url": "https://open.spotify.com/artist/3NY8NrTtJPBnlSRQ1nwbsG"
+        }
+      ],
+      "duration_ms": 261510,
+      "name": "Sweet Soul",
+      "url": "https://open.spotify.com/track/5JcJZZE19uQvSgMd99QLQv"
+    },
+    {
       "added_at": "2023-06-01 20:23:30",
       "album": {
         "name": "Everyone's Crushed",
@@ -423,6 +443,22 @@
       "duration_ms": 114586,
       "name": "Baby, You Got It - Remastered",
       "url": "https://open.spotify.com/track/3UuwskHP97V8rkhjUEqrv3"
+    },
+    {
+      "added_at": "2023-06-09 13:58:40",
+      "album": {
+        "name": "Ms Blue",
+        "url": "https://open.spotify.com/album/5f2JMc95WTQqwViFu2bAle"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "duration_ms": 192021,
+      "name": "Ms Blue",
+      "url": "https://open.spotify.com/track/4KpHPvvItXgb34KnBO4z27"
     },
     {
       "added_at": "2023-05-29 15:48:13",

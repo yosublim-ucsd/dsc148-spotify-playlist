@@ -2,9 +2,9 @@
 
 ### [Our Roots](https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup)
 
-> Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
+> Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Allison Russell
 
-113 songs - 6 hr 51 min
+116 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2023-03-10 |  |
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2021-10-22 | 2022-07-29 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-02-04 |  |
+| [Keith](https://open.spotify.com/track/6wzVKMYMKthQ3OPzQ050kj) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Keith](https://open.spotify.com/album/418UNeVZ41wZKjylFg4c1a) | 2:23 | 2023-06-09 |  |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2022-06-03 |  |
 | [Long Journey Home](https://open.spotify.com/track/4BEoefxFSU1b8C2SM7UtIQ) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Long Journey Home](https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN) | 3:05 | 2021-10-22 |  |
 | [Lord Remember Me](https://open.spotify.com/track/1NELifKcBpsVykd0fmvoiI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Let It Burn](https://open.spotify.com/album/4lA80Y2V39eT01w0SIMS04) | 3:11 | 2021-10-22 |  |
@@ -64,6 +65,7 @@
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2022-06-17 |  |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 | 2022-06-04 |
 | [Maniacapella](https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [The Other Side](https://open.spotify.com/album/5ih1oUrztdhanRibICrlHa) | 4:01 | 2021-10-22 |  |
+| [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 | 2023-06-09 |  |
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2021-10-22 |  |
 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 | 2022-06-17 |  |
 | [Millennial](https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 2:53 | 2021-10-22 | 2022-07-29 |
@@ -103,6 +105,7 @@
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-06-03 |  |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2021-10-22 | 2022-02-05 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-10-22 |  |
+| [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-06-09 |  |
 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 | 2022-06-17 |  |
 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 | 2021-10-22 | 2022-07-29 |
 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 | 2022-02-04 |  |

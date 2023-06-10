@@ -4,7 +4,7 @@
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-88 songs - 5 hr 37 min
+89 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Punto De Partida \(with Monica Naranjo\)](https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 7:35 | 2022-04-28 | 2023-04-12 |
 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 | 2022-04-28 |  |
 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 | 2022-11-03 |  |
-| [Quédate conmigo \- Eurovisión](https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Carácter Latino 2012](https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ) | 3:04 | 2022-04-28 |  |
+| [Quédate conmigo \(Eurovisión\)](https://open.spotify.com/track/5w4aMsqHAoxgx3M1mXA1TS) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Grandes Éxitos 2010s](https://open.spotify.com/album/3TDsEMQcWHFEtk8zG9BefQ) | 3:04 | 2022-11-03 |  |
+| [Quédate conmigo \- Eurovisión](https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Carácter Latino 2012](https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ) | 3:04 | 2022-04-28 | 2023-06-10 |
 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 | 2022-04-28 |  |
 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 | 2022-04-28 | 2022-07-27 |
 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 | 2022-04-28 |  |

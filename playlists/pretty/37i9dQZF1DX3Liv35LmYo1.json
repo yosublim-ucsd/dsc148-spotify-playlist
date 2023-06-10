@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 104385,
+  "num_followers": 104400,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjI1ZTY0MGJkYTE4NmJkNDZkMzEzZjM1ZDlkZWZiOTFiNmY2YTMw",
+  "snapshot_id": "MCwwZWUxMGY1NjQ1ZWVkYjM4NmU3YWE3MTU3MGU3MjAxZTEwYTE2NWFm",
   "tracks": [
     {
       "added_at": "2023-06-08 14:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
-    },
-    {
-      "added_at": "2023-06-08 14:00:00",
-      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
       },
@@ -535,18 +515,22 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
         }
       ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+      "duration_ms": 256000,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
     },
     {
       "added_at": "2023-06-08 14:00:00",
@@ -571,6 +555,38 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2023-06-08 14:00:00",
+      "album": {
+        "name": "Boo's Mood",
+        "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 263348,
+      "name": "Boo's Mood",
+      "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
+    },
+    {
+      "added_at": "2023-06-08 14:00:00",
+      "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
         "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
-    },
-    {
-      "added_at": "2023-06-08 14:00:00",
-      "album": {
-        "name": "Boo's Mood",
-        "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 263348,
-      "name": "Boo's Mood",
-      "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
     },
     {
       "added_at": "2023-06-08 14:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
-        "name": "Justine",
-        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Justine",
-      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
-    },
-    {
-      "added_at": "2023-06-08 14:00:00",
-      "album": {
         "name": "Memories In Flight",
         "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK"
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
       },
       "artists": [
         {
-          "name": "Acopia",
-          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 242661,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og"
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "added_at": "2023-06-08 14:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 260168,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+    },
+    {
+      "added_at": "2023-06-08 14:00:00",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "duration_ms": 242661,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og"
     },
     {
       "added_at": "2023-06-08 14:00:00",

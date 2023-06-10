@@ -4,7 +4,7 @@
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-87 songs - 3 hr 39 min
+88 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Little Maggie](https://open.spotify.com/track/32u5OStooAjxrQFv5dk2IQ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD), [The Clinch Mountain Boys](https://open.spotify.com/artist/5TRZoBM3xjsgdoTzndsko9) | [The Complete Mercury Recordings](https://open.spotify.com/album/4hlBTdtsmUgNyjAIt639NC) | 2:44 | 2018-04-04 |  |
 | [Living The Right Life Now](https://open.spotify.com/track/6lnDortf9eL4jBMdFGUA0s) | [Molly O'Day](https://open.spotify.com/artist/0CUHmzvWVrpQTtAAPnazXW) | [Living Legend Of Country Music](https://open.spotify.com/album/1VDp8OpYH7JMNUAutFUgZt) | 2:17 | 2018-04-04 |  |
 | [Living The Right Life Now](https://open.spotify.com/track/774olNzjaINBl70X6EUjMZ) | [Molly O'Day](https://open.spotify.com/artist/0CUHmzvWVrpQTtAAPnazXW) | [Living Legend Of Country Music](https://open.spotify.com/album/25OcCAHI2snkoN9620B1aw) | 2:17 | 2018-04-04 | 2022-07-29 |
+| [Matterhorn](https://open.spotify.com/track/3Ip1Z02mNhxAKQUPfYefc2) | [The Country Gentlemen](https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd) | [Matterhorn](https://open.spotify.com/album/5JQcYPZdtvwPfjrEKGgXMs) | 2:54 | 2023-06-09 |  |
 | [Memories of Mother](https://open.spotify.com/track/2RGRnGrglKrb61EA9gcCmv) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Good Old Camp Meeting Songs](https://open.spotify.com/album/13765L8ZA4QoTJNLPNI3vV) | 2:51 | 2018-04-04 |  |
 | [Memories of Mother](https://open.spotify.com/track/4uk1WENjMkYVgm9a0Of2KQ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Good Old Camp Meeting Songs](https://open.spotify.com/album/7bSng1kchWyLywbkzLiseT) | 2:51 | 2018-04-04 | 2022-07-29 |
 | [Memories of Mother and Dad](https://open.spotify.com/track/0awB83Y3jI3Zrr2DxVqXFT) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 2:39 | 2018-04-04 |  |

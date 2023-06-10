@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 84446,
+  "num_followers": 84553,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTE3NTM3N2IwOTQ2MmIxMjVkMWVmNzc1OWMwMzUyYTNmYTQyMTQ2",
+  "snapshot_id": "MCxkYjA4MGFmN2YyNDgwNDMxYzJkNjJiNTYwNGZhNDJlZDM4MmM5MDMw",
   "tracks": [
     {
       "added_at": "2023-05-12 20:52:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-12 20:52:22",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
-    },
-    {
-      "added_at": "2023-05-12 20:52:22",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+    },
+    {
+      "added_at": "2023-05-12 20:52:22",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
     },
     {
       "added_at": "2023-05-12 20:52:22",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-05-12 20:52:22",
       "album": {
-        "name": "Suitcase",
-        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 256493,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
+      "duration_ms": 213351,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

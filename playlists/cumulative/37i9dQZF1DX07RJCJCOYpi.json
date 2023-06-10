@@ -1051,6 +1051,40 @@
     },
     {
       "album": {
+        "name": "Es un secreto (feat. Pensi\u00f3n & Juanmih)",
+        "url": "https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Juanmih",
+          "url": "https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112741,
+      "name": "Es un secreto (feat. Pensi\u00f3n & Juanmih)",
+      "url": "https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf"
+    },
+    {
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1832,7 +1866,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190714,
       "name": "KLK",
       "url": "https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg"
@@ -1938,6 +1972,32 @@
       "duration_ms": 127237,
       "name": "La Alarma",
       "url": "https://open.spotify.com/track/1f1IXcEEvxkbCmy6eCv5Ol"
+    },
+    {
+      "album": {
+        "name": "La Bebe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158739,
+      "name": "La Bebe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
       "album": {
@@ -3812,6 +3872,28 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "album": {
+        "name": "Sentir Saudade (feat. Bia Caboz)",
+        "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Sentir Saudade (feat. Bia Caboz)",
+      "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
     },
     {
       "album": {

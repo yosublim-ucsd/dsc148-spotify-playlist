@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 236571,
       "name": "A Quien Tu Representas?",
       "url": "https://open.spotify.com/track/5FjVDUvJtqwIRWabbgpUBA"
@@ -344,10 +344,36 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219853,
       "name": "Conoce la Historia (Remix) [feat. Farruko & D.O Zi]",
       "url": "https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0"
+    },
+    {
+      "album": {
+        "name": "Linea de Fuego",
+        "url": "https://open.spotify.com/album/79Hw5CZASDrxZLJvQcSjRx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "D.OZi",
+          "url": "https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219010,
+      "name": "Conoce La Historia - Remix",
+      "url": "https://open.spotify.com/track/6TWCIS6XyDljNOOTOs6rBr"
     },
     {
       "album": {
@@ -1634,6 +1660,24 @@
       "duration_ms": 194400,
       "name": "Vuelvo a Ti",
       "url": "https://open.spotify.com/track/1urXHaIr14OJM47mFlMCNp"
+    },
+    {
+      "album": {
+        "name": "Solo Rap",
+        "url": "https://open.spotify.com/album/7kvpX3ZINcmhPYEBHrfzvZ"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236007,
+      "name": "\u00bfA Qui\u00e9n T\u00fa Representas?",
+      "url": "https://open.spotify.com/track/5cuzD8gewjk8O3cnWZFDKb"
     },
     {
       "album": {

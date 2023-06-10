@@ -2,7 +2,7 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> Life’s what you make it\. So let’s make it rock!
+> Yay me! Starring London Tipton 🩷
 
 119 songs - 6 hr 30 min
 

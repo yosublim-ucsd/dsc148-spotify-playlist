@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Only the best Hip-hop, only non-stop hits. Cover: Travis Scott\n",
+  "description": "Only the best Hip-hop, only non-stop hits. Cover: Metro Boomin\n",
   "name": "DOPE.",
   "tracks": [
     {
@@ -684,6 +684,28 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "Cut U Off",
+        "url": "https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203163,
+      "name": "Cut U Off",
+      "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
     },
     {
       "album": {

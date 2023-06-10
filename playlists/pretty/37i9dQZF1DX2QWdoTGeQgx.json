@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 45721,
+  "num_followers": 45739,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjRkNmY1MDFhNDEzMmNhOWU3ZDgwNmUwNThlOWY3M2FkOTE2NWJh",
+  "snapshot_id": "MCxlOTkxY2Y3MjNjZWNlODY4MmRhNGFmMGY2ODY5YjlmODM2OTJiMzc4",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Dancing with my phone",
         "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Bedroom (feat. Anne-Marie)",
-        "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 203990,
-      "name": "Bedroom (feat. Anne-Marie)",
-      "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -807,18 +803,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "Bedroom (feat. Anne-Marie)",
+        "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+      "duration_ms": 203990,
+      "name": "Bedroom (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -843,18 +843,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
+        "name": "Sakit",
+        "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        },
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
         }
       ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+      "duration_ms": 221700,
+      "name": "Sakit",
+      "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Sakit",
-        "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
       },
       "artists": [
         {
-          "name": "Zynakal",
-          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
-        },
-        {
-          "name": "Yonnyboii",
-          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 221700,
-      "name": "Sakit",
-      "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "The Outsider EP",
         "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "no space",
-        "url": "https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819"
       },
       "artists": [
         {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
         }
       ],
-      "duration_ms": 177586,
-      "name": "no space",
-      "url": "https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq"
+      "duration_ms": 186088,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK"
     }
   ],
   "unique_name": "Chill Lah",

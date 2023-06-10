@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,023 songs - 2 day 8 hr 5 min
+1,025 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-06-11 | 2022-06-14 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-09 | 2022-06-12 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
+| [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-09 |  |
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-02-14 | 2023-02-16 |
 | [50°](https://open.spotify.com/track/2yl8lePeFcQAPJKef8AM93) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:59 | 2022-09-17 | 2022-09-23 |
 | [7/7](https://open.spotify.com/track/4amTXPB0wsTVRQ47RLaw04) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [7/7](https://open.spotify.com/album/3gaIeLI062EL7svxxQQ2E4) | 2:37 | 2023-04-15 | 2023-04-17 |
@@ -67,7 +68,7 @@
 | [Andiamo](https://open.spotify.com/track/6NYnHglZxfbS15WpvUoK0k) | [RZ](https://open.spotify.com/artist/77cVQzbhjZZZSkeQtFYDPw), [Bimbim](https://open.spotify.com/artist/1jVkYEim3l4F8IgNh6undg) | [Andiamo](https://open.spotify.com/album/7JwH3B7aYhrmLbuMlt4qHx) | 2:17 | 2022-10-30 | 2022-11-02 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-06 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-20 | 2023-06-07 |
-| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 |  |
+| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-06-10 |
 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 | 2022-01-08 | 2022-01-15 |
 | [Anunnaki](https://open.spotify.com/track/6Emw7N6BUeyLQOB9E4GeMn) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:22 | 2022-02-05 | 2022-02-13 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-18 |
@@ -136,7 +137,7 @@
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 | 2023-01-02 |
 | [Bonne journée](https://open.spotify.com/track/0i0ESj6M9eV8ck3LP07QzD) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:12 | 2022-03-05 | 2022-03-18 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-05 | 2021-10-23 |
-| [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-10 |  |
+| [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-10 | 2023-06-10 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-16 | 2022-04-29 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-26 |
 | [Break a Broken Heart](https://open.spotify.com/track/5dRAJ9UsR0qyMMKnonWewz) | [Andrew Lambrou](https://open.spotify.com/artist/2LJg6YXPzGpih3QOUmyruJ) | [Break a Broken Heart](https://open.spotify.com/album/6E8mwCc1q5s5zhlY9f6xUz) | 2:58 | 2023-05-15 | 2023-05-17 |
@@ -296,6 +297,7 @@
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-23 | 2021-05-29 |
 | [Ensemble](https://open.spotify.com/track/64mVjYpiuyDCNu2FcPsium) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Skread](https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:43 | 2021-11-21 | 2021-11-26 |
 | [ENVIE7VIE](https://open.spotify.com/track/0lSB2n0DEvA2mnsGI9qI5f) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 2:20 | 2023-03-18 | 2023-03-20 |
+| [Erop of Eronder](https://open.spotify.com/track/2Hhx2hkyfFvOu8Q43EHfxP) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Erop of Eronder](https://open.spotify.com/album/3gYGzGqNMSyEvesmLqMdAm) | 2:41 | 2023-06-09 |  |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-12 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-29 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-06-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Dom Dolla, Nelly Furtado",
+  "description": "The best of today's dance hits. Cover: Jayda G",
   "name": "mint Canada",
   "tracks": [
     {
@@ -24,6 +24,32 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
+    {
+      "album": {
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
     },
     {
       "album": {
@@ -1054,7 +1080,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 288097,
       "name": "Assumptions - Kaytranada Edit",
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
@@ -1282,7 +1308,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 151893,
       "name": "BAD (feat. Discrete & Alex Hosking)",
       "url": "https://open.spotify.com/track/57jyHZNcnXvrl6UmQpEWgq"
@@ -1868,10 +1894,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203255,
       "name": "Bright Lights (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP"
+    },
+    {
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/7fZxEMpbSPrkb0gsJ8swk9"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1ghkYGLrfh3tBIqLs9npGn"
     },
     {
       "album": {
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -2924,7 +2968,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
@@ -3884,7 +3928,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139161,
       "name": "Dynamite (feat. Mougleta)",
       "url": "https://open.spotify.com/track/7Lijwh3vFfcvgLFNvPzKVL"
@@ -4653,6 +4697,28 @@
     },
     {
       "album": {
+        "name": "Feel (MK Remix)",
+        "url": "https://open.spotify.com/album/7jmhiEVVaYR7EJsSkFbLXj"
+      },
+      "artists": [
+        {
+          "name": "Riotron",
+          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Feel (MK Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/0z2NpkxY6Kqb1DaUyjha5B"
+    },
+    {
+      "album": {
         "name": "spotify singles",
         "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
       },
@@ -4992,7 +5058,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
@@ -7206,7 +7272,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 284351,
       "name": "In Sequence",
       "url": "https://open.spotify.com/track/1FF5tHeN98kcHYKDcUG3HG"
@@ -7902,7 +7968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
@@ -8730,7 +8796,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 291818,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N"
@@ -9184,7 +9250,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198750,
       "name": "Made Of Gold",
       "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
@@ -9546,7 +9612,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 224287,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
@@ -10454,7 +10520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
@@ -10780,7 +10846,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185250,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul"
@@ -10832,6 +10898,24 @@
       "duration_ms": 162187,
       "name": "Off Switch (with Elle Vee)",
       "url": "https://open.spotify.com/track/3bB7B7mvhRjmREvfO3MokW"
+    },
+    {
+      "album": {
+        "name": "Off Wiv Ya Headz",
+        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206694,
+      "name": "Off Wiv Ya Headz",
+      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
     },
     {
       "album": {
@@ -10954,6 +11038,36 @@
       "duration_ms": 254285,
       "name": "Oh Please",
       "url": "https://open.spotify.com/track/7l22c5ZACFSzIV5Lwomq9c"
+    },
+    {
+      "album": {
+        "name": "Oh The Glamour",
+        "url": "https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Oh The Glamour",
+      "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
     },
     {
       "album": {
@@ -12478,7 +12592,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
@@ -12948,7 +13062,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 133124,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2YO9S16xa3rnM8LZGntcHX"
@@ -13248,7 +13362,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 206210,
       "name": "Selfish Soul - ODESZA Remix",
       "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
@@ -14060,7 +14174,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
@@ -14192,7 +14306,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184761,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5hDUXwlPXCJ07mP7lEem9k"
@@ -14660,6 +14774,28 @@
       "duration_ms": 209714,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
+    },
+    {
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"
     },
     {
       "album": {
@@ -15257,6 +15393,24 @@
     },
     {
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "album": {
         "name": "The High",
         "url": "https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X"
       },
@@ -15470,6 +15624,36 @@
       "duration_ms": 190476,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
+    },
+    {
+      "album": {
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
     },
     {
       "album": {
@@ -16644,7 +16828,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 154146,
       "name": "Waitin On It",
       "url": "https://open.spotify.com/track/5eQrQe8sDGiCmStLjishRb"
@@ -16688,7 +16872,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194763,
       "name": "Waiting (feat. Stephen Puth)",
       "url": "https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl"
@@ -16965,6 +17149,28 @@
     },
     {
       "album": {
+        "name": "Welcome To The Opera (with Grimes)",
+        "url": "https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI"
+    },
+    {
+      "album": {
         "name": "What Girls Do",
         "url": "https://open.spotify.com/album/2OtdTo1M2HefYrtYZznKjj"
       },
@@ -17181,6 +17387,24 @@
     },
     {
       "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202375,
+      "name": "When She Dance",
+      "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
+    },
+    {
+      "album": {
         "name": "When The Lights Go Down (feat. Cody Simpson)",
         "url": "https://open.spotify.com/album/5HnqX5N3qsMW31YfPTpQ3q"
       },
@@ -17204,6 +17428,28 @@
       "duration_ms": 189265,
       "name": "When The Lights Go Down (feat. Cody Simpson)",
       "url": "https://open.spotify.com/track/3J3EdH1ZgXqk1ROTzQOF0U"
+    },
+    {
+      "album": {
+        "name": "When the Lights Go Out",
+        "url": "https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "When the Lights Go Out",
+      "url": "https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W"
     },
     {
       "album": {

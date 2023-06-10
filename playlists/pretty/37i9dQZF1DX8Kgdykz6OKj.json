@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1129457,
+  "num_followers": 1129438,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzUzYWIzYmMxOWI5MTYwNTNlYjljNmVmMTk2MDA1MWE0NjgwN2U3",
+  "snapshot_id": "MCw3NzlmZmRhOTY4YTQyMDVjNDYxYWNkNThkNjhmNGNkMTZjNmVhZjcz",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Done By The Forces Of Nature",
         "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258933,
       "name": "Doin' Our Own Dang",
       "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Call You?",
         "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 205865,
       "name": "Call You?",
       "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Every Eye",
-        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Running Shoes",
-      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Uhuru",
         "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 250360,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Every Eye",
+        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Running Shoes",
+      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Chino",
-        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 143903,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 297990,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Chino",
+        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Practice Makes Perfect",
         "url": "https://open.spotify.com/album/7lO7SXE6Ijleoo4eOkLPvO"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-06-01 22:00:00",

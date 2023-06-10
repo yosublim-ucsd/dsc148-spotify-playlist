@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Yussef Dayes",
+  "description": "New jazz for open minds. Cover: Aja Monet",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2435,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "when the poems do what they do",
+        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376610,
+      "name": "black joy",
+      "url": "https://open.spotify.com/track/77iu6yezCTvVSrikAWivdX"
+    },
+    {
+      "album": {
         "name": "Jean Carne JID012",
         "url": "https://open.spotify.com/album/4LnwmwZBGpxR7pY55udol1"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 400053,
       "name": "Blues in Sophistication",
       "url": "https://open.spotify.com/track/35MKOZi76NeP8SAkYeemjA"
@@ -3420,6 +3438,28 @@
       "duration_ms": 251426,
       "name": "Clandestin",
       "url": "https://open.spotify.com/track/3rfz42lDgNVg4vM2qImPsG"
+    },
+    {
+      "album": {
+        "name": "Rituals + Routines",
+        "url": "https://open.spotify.com/album/0C2JNKv7UBSIXdyxXk5Shh"
+      },
+      "artists": [
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "Cleanse - (The Waters) - feat. Braxton Cook",
+      "url": "https://open.spotify.com/track/6EPWNZTkW8ugUmpQlagLiz"
     },
     {
       "album": {
@@ -4188,6 +4228,36 @@
       "duration_ms": 447053,
       "name": "Deep Dive Down",
       "url": "https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg"
+    },
+    {
+      "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/0lVmpClUI0BWF1iN3pY3ga"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Ronald Bruner Jr.",
+          "url": "https://open.spotify.com/artist/1no0SQZN9toovc6SvuOcp1"
+        },
+        {
+          "name": "Mono Neon",
+          "url": "https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153267,
+      "name": "Deep Purple",
+      "url": "https://open.spotify.com/track/6aoSCsa7Hzl7APKqq7b1PI"
     },
     {
       "album": {
@@ -8480,7 +8550,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 308146,
       "name": "Isn't This My Sound Around Me? (feat. Reuben Rogers, Walter Smith III)",
       "url": "https://open.spotify.com/track/08wE4pl2bY1qaM5mqqCiG6"
@@ -12400,7 +12470,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168176,
       "name": "Orange Sun",
       "url": "https://open.spotify.com/track/4QfpUAU8dYvnR2NM8KNh4F"
@@ -13031,6 +13101,24 @@
     },
     {
       "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161286,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3"
+    },
+    {
+      "album": {
         "name": "Portrommet",
         "url": "https://open.spotify.com/album/0dIX5Fo56YwWzuyWv6vucl"
       },
@@ -13204,6 +13292,24 @@
       "duration_ms": 384685,
       "name": "Prime (feat. Jared Gold & McClenty Hunter Jr.)",
       "url": "https://open.spotify.com/track/15zayq9UsbCv3mu4mf1xSC"
+    },
+    {
+      "album": {
+        "name": "Accretion",
+        "url": "https://open.spotify.com/album/3pQNk3yX2QciBU96cR06i4"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302998,
+      "name": "Process Level Event",
+      "url": "https://open.spotify.com/track/5xqpc19sWHuS5gaD58DqaO"
     },
     {
       "album": {
@@ -14463,6 +14569,28 @@
     },
     {
       "album": {
+        "name": "SCENERY",
+        "url": "https://open.spotify.com/album/0NnfBFP7WbzQpf7NFAd14X"
+      },
+      "artists": [
+        {
+          "name": "halfpastseven",
+          "url": "https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152187,
+      "name": "SCENERY",
+      "url": "https://open.spotify.com/track/264eKUhlQqY520CEAT4GF4"
+    },
+    {
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
       },
@@ -15224,7 +15352,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183320,
       "name": "Smoke - (Herbs & Teas) - feat. Doelow Da Pilotman",
       "url": "https://open.spotify.com/track/587ljDX1e4oH75XnrdBs6N"
@@ -16836,7 +16964,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203489,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/705fm7i32l11qSVG0vRkiO"
@@ -19884,7 +20012,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 277283,
       "name": "why my love?",
       "url": "https://open.spotify.com/track/1FKQyGD0UVL5gAiNOGZ1YW"
@@ -20022,6 +20150,24 @@
       "duration_ms": 172857,
       "name": "Winter Wanderland",
       "url": "https://open.spotify.com/track/38SDSOUseCfC96TFYYxxjC"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/3rvlKiAEQgZiRtgRuihPuI"
+      },
+      "artists": [
+        {
+          "name": "Davy Mooney",
+          "url": "https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410775,
+      "name": "Wintry Mix",
+      "url": "https://open.spotify.com/track/0AV8QoP3V7NxKRaYThhDHH"
     },
     {
       "album": {

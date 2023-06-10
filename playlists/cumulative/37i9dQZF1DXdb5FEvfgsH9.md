@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-119 songs - 7 hr 19 min
+120 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Soy Gitano](https://open.spotify.com/track/2scAUFdLh4gHsF6iHytsYv) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Soy Gitano](https://open.spotify.com/album/0TbdylxsIf5Zlfvom2Q6Cz) | 3:22 | 2022-06-24 |  |
 | [Spins \- Lazywax Remix](https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Spins \(Lazywax Remix\)](https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus) | 5:47 | 2022-10-21 |  |
 | [Sweet Chocolate](https://open.spotify.com/track/4z3v6YfD5j0DiP2zE6cdYb) | [Bliss Station](https://open.spotify.com/artist/14nuxkCmtQBF2SJfwl6vLu), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [Sweet Chocolate](https://open.spotify.com/album/5BVVVTZBCxSdPnD53cTdwe) | 3:04 | 2023-03-31 |  |
+| [Sweet Connection](https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Sweet Connection](https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne) | 2:41 | 2023-06-09 |  |
 | [Tell Me](https://open.spotify.com/track/4YoxVwd6uLXE2RtcDtp2UP) | [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2), [U\-Key](https://open.spotify.com/artist/3JBIQGrl2NNFp8Vt5ZPyxk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Tell Me](https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52) | 4:17 | 2022-07-08 |  |
 | [The High](https://open.spotify.com/track/4ONDrXoqeT9cCgw5yqWAyX) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [The High \- EP](https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff) | 3:32 | 2021-07-26 |  |
 | [The Night is Calling](https://open.spotify.com/track/2NDQYOxU5QDH9DQLEPFSY4) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [The Night is Calling](https://open.spotify.com/album/7qDTP6pmqRSZJ03Qd8McKM) | 4:19 | 2021-07-26 | 2023-02-27 |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-531 songs - 22 hr 34 min
+533 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 | 2021-11-10 | 2023-01-13 |
 | [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 | 2023-02-10 |
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-04-15 |  |
+| [Calm Idle](https://open.spotify.com/track/0x63Et1eXjwD5ZdFdQAsSn) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Calm Idle](https://open.spotify.com/album/4LppqAEzldIVT3bSyozpgu) | 2:49 | 2023-06-09 |  |
 | [Calm Morning](https://open.spotify.com/track/79UTgOcBQ7GBXCXhAacWMl) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Calm Morning](https://open.spotify.com/album/7xfI7LvjjlI7TT2Ebzr5mB) | 1:56 | 2022-07-08 |  |
 | [Calma Tranquilla](https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Calma Tranquilla](https://open.spotify.com/album/2lLmQokjLZK9V3oJ9DQI8o) | 2:05 | 2021-11-10 | 2022-05-20 |
 | [Cancelling Plans](https://open.spotify.com/track/54djx2u1kdBBi8agW4FffU) | [My Companion](https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E) | [Cancelling Plans](https://open.spotify.com/album/33AWjc88zIczN31UGQh3Pa) | 2:16 | 2022-10-07 |  |
@@ -329,6 +330,7 @@
 | [Number\#](https://open.spotify.com/track/48db71uT5mlzqtkBG5BOtJ) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Number\#](https://open.spotify.com/album/0vCDjbfYpMvookIZDrLXvl) | 2:15 | 2022-10-28 |  |
 | [NYC Springtime](https://open.spotify.com/track/7cxy4O5Ya6lc1hRSey4kiy) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:01 | 2022-04-05 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-11-10 | 2022-05-20 |
+| [Ocean Silver](https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Ocean Silver](https://open.spotify.com/album/1eKWpj6bv2R6TwqT5g0euZ) | 2:35 | 2023-06-09 |  |
 | [Ocean Waves](https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M) | [Ocean Waves](https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf) | [Ocean Waves](https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV) | 2:19 | 2022-06-03 | 2023-01-13 |
 | [Oceans](https://open.spotify.com/track/3xnwGCg63UVgiS6P412mmN) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [Oceans](https://open.spotify.com/album/3mmvw87WMayIVdsfWsqbCY) | 4:05 | 2021-11-10 | 2022-07-08 |
 | [Oceans](https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Oceans](https://open.spotify.com/album/4lFbvDty9iztttqrujuryt) | 2:05 | 2023-03-10 |  |

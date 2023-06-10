@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "A Tu Vera",
+        "url": "https://open.spotify.com/album/6YpEaWnqTlyedWkM9kZveJ"
+      },
+      "artists": [
+        {
+          "name": "La Dstyler\u00eda",
+          "url": "https://open.spotify.com/artist/3QeFVejEMHhDmFthqr5qVd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221632,
+      "name": "A Tu Vera",
+      "url": "https://open.spotify.com/track/7kLTMJtWuA9aM2NS17G5Jx"
+    },
+    {
+      "album": {
         "name": "Our Struggle\u301c\u30aa\u30ec\u30bf\u30c1\u30ce\u6597\u4e89\u301c",
         "url": "https://open.spotify.com/album/2vGCOIXjlWd8bJWJmzdkTs"
       },
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201546,
       "name": "He's a Tripper",
       "url": "https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG"
@@ -2942,6 +2960,24 @@
       "duration_ms": 201546,
       "name": "He's A Tripper",
       "url": "https://open.spotify.com/track/6o2hAcWWl5uE3lyVBw9Qq5"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/6jUtRBhsXRQypfkSDqxEMI"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153540,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/42bD4w6u8lfSYJgle4pRIu"
     },
     {
       "album": {
@@ -3548,6 +3584,24 @@
       "duration_ms": 205866,
       "name": "Kick the Can",
       "url": "https://open.spotify.com/track/1rIwEr6CdixeV6HwNI3c4o"
+    },
+    {
+      "album": {
+        "name": "Kick the Can",
+        "url": "https://open.spotify.com/album/4NFqQszM8mEqOkgONsUBDG"
+      },
+      "artists": [
+        {
+          "name": "The Prizefighters",
+          "url": "https://open.spotify.com/artist/7kIBuEuher9xa3wxLSPz6N"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194121,
+      "name": "Kick the Can",
+      "url": "https://open.spotify.com/track/05RDFMBuPLfWqxIG7w4DCa"
     },
     {
       "album": {
@@ -7036,7 +7090,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 252874,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/7CD46uHkEz76YRfvyibghj"
@@ -7932,7 +7986,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 237163,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/7giR6E99Z3dVJaO3O19E1N"
@@ -9144,7 +9198,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228159,
       "name": "Why Won't You Call Me Back",
       "url": "https://open.spotify.com/track/2DsjgWKl0pyoMY3VJcLfSZ"
@@ -9220,6 +9274,28 @@
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "album": {
+        "name": "Yes It's True",
+        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243615,
+      "name": "Yes It's True",
+      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
     },
     {
       "album": {

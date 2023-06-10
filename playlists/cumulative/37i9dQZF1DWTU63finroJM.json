@@ -9008,7 +9008,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 260232,
       "name": "Like a fool",
       "url": "https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC"
@@ -10661,6 +10661,24 @@
     },
     {
       "album": {
+        "name": "Naakay",
+        "url": "https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158625,
+      "name": "Naakay",
+      "url": "https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA"
+    },
+    {
+      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY"
       },
@@ -11259,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
+    },
+    {
+      "album": {
         "name": "Nothing Gold Can Stay",
         "url": "https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki"
       },
@@ -11836,7 +11872,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
@@ -14011,6 +14047,24 @@
     },
     {
       "album": {
+        "name": "Shirt & Handtuch",
+        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "Shirt & Handtuch",
+      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
+    },
+    {
+      "album": {
         "name": "Nymph",
         "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
       },
@@ -14310,6 +14364,24 @@
       "duration_ms": 148609,
       "name": "so in love (tonight)",
       "url": "https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V"
+    },
+    {
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "album": {
@@ -14978,7 +15050,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
@@ -16548,7 +16620,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 162826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
@@ -16570,6 +16642,24 @@
       "duration_ms": 262583,
       "name": "Wala Kilma",
       "url": "https://open.spotify.com/track/4neB9HKoB5zBBd4nP9hmq8"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9"
+      },
+      "artists": [
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206966,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
     },
     {
       "album": {
@@ -16938,7 +17028,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
@@ -18402,6 +18492,24 @@
       "duration_ms": 185610,
       "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30ac\u30e0",
       "url": "https://open.spotify.com/track/3NsrYvrf8uecZRv8tuJxvD"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175367,
+      "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"
     },
     {
       "album": {

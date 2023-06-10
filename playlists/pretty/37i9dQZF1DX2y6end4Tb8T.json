@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 51630,
+  "num_followers": 51659,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQwODE5Y2I2Nzc4NGMwYjk4M2RlNzBiNzkzMTdmOWU5ZmQwNTBi",
+  "snapshot_id": "MCw1N2ZjMmFjOTViMjM2MjY0OTg5ZTQ2ZTllOTY3MzNmN2E1ZGE5MDU4",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -547,26 +547,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -679,30 +679,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 153147,
       "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
       "url": "https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
+        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Life's A Mess II (with Clever & Post Malone)",
+      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "UGLY (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "UGLY (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/0Wai6umy1E7IWqsKUASoyT"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 210035,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/42NACeANuRucHuCOFL5umq"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "UGLY (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "UGLY (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1735,6 +1735,30 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Double G (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6"
       },
@@ -1783,30 +1807,6 @@
       "duration_ms": 221640,
       "name": "Spicy (feat. J Balvin, YG, Tyga & Post Malone) - Remix",
       "url": "https://open.spotify.com/track/4Ae2ORKCPbA8L67WWFmVEV"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Dead Man Walking (feat. Future)",
+      "url": "https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "MONTANA",
         "url": "https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 262134,
       "name": "Twisted (feat. Juicy J, Logic & A$AP Rocky)",
       "url": "https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Dead Man Walking (feat. Future)",
-      "url": "https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -2043,22 +2043,18 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "LOAD IT UP",
-        "url": "https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA"
+        "name": "NO TV",
+        "url": "https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU"
       },
       "artists": [
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 177000,
-      "name": "LOAD IT UP",
-      "url": "https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO"
+      "duration_ms": 124546,
+      "name": "NO TV",
+      "url": "https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G"
     }
   ],
   "unique_name": "808.",

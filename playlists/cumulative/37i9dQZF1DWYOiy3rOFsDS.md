@@ -2,9 +2,9 @@
 
 ### [Boleros Pop](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
-> Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
+> Romance antigüito en voz de tus artistas pop con Daniel, Me Estás Matando en portada.
 
-245 songs - 14 hr 33 min
+246 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2022-12-20 |  |
 | [El Primer Amor](https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [El Primer Amor](https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2) | 3:37 | 2021-10-16 | 2022-07-25 |
 | [El primer amor \(feat\. Francisco Cespedes\)](https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:39 | 2021-10-16 | 2023-02-25 |
-| [El Reloj](https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:01 | 2021-10-16 |  |
+| [El Reloj](https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:01 | 2021-10-16 | 2023-06-10 |
 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 | 2021-10-16 | 2022-07-29 |
 | [El Talismán](https://open.spotify.com/track/64MZOaFCf4lNm505bYoNQ4) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [El Talismán](https://open.spotify.com/album/7fEE1iNLQdKRJjPhS74w7X) | 4:03 | 2021-10-16 | 2022-07-28 |
 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 | 2021-10-16 |  |
@@ -161,7 +161,7 @@
 | [Para Que Pides Perdon \(Bonus Track\)](https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 3:29 | 2022-01-11 |  |
 | [Para Que Pides Perdon \- Bonus Track](https://open.spotify.com/track/1mL823LB8IlMK8KBSPRZkm) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Para Que Pides Perdon](https://open.spotify.com/album/2btjmvJe3CoX86yMNvIaBx) | 3:29 | 2021-10-16 | 2022-07-23 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2021-10-16 | 2022-04-18 |
-| [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 | 2021-10-16 |  |
+| [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 | 2021-10-16 | 2023-06-10 |
 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:35 | 2023-05-05 |  |
 | [Perfidia](https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:26 | 2021-10-16 | 2022-07-29 |
 | [Perfume de Gardenia \(with Alejandro Fernández\)](https://open.spotify.com/track/4TlgiJ7Wm3A5bmNcuNYOSY) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:08 | 2022-01-11 | 2022-11-14 |
@@ -223,6 +223,7 @@
 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 | 2021-10-16 |  |
 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 | 2021-10-16 |  |
 | [Te Ofrezco](https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Te Ofrezco](https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY) | 3:26 | 2021-10-16 | 2022-07-21 |
+| [Te Tocaba A Ti Llorar](https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Te Tocaba A Ti Llorar](https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al) | 3:13 | 2023-06-09 |  |
 | [Te Venero](https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:07 | 2022-02-18 | 2023-02-22 |
 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 | 2021-10-16 |  |
 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 | 2022-04-20 | 2023-06-01 |
@@ -249,7 +250,7 @@
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-10-16 | 2022-09-04 |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2021-10-16 |  |
 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 | 2021-10-16 |  |
-| [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 | 2021-10-16 | 2022-07-29 |
+| [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 | 2021-10-16 |  |
 | [Ya Sé](https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam Vol\. 1](https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU) | 4:35 | 2021-10-16 | 2023-02-22 |
 | [¿Qué Voy a Hacer?](https://open.spotify.com/track/39VaE08TKJEJQLYyOBn8hM) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [¿Qué Voy a Hacer?](https://open.spotify.com/album/61TbtrFSK00wwyQVKGQ1R4) | 5:04 | 2021-10-16 | 2022-04-20 |
 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 | 2022-03-04 |  |

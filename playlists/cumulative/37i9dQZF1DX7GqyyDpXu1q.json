@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Rock swagger served neat. Cover: Pecos & the Rooftops",
+  "description": "Rock swagger served neat. Cover: Jason Isbell and the 400 Unit",
   "name": "Southern Comfort",
   "tracks": [
     {
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/2FueP1I7o4d562JTJ8wHAy"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148790,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0Lh0BSj5q1vsUgY2OmvOA5"
+    },
+    {
+      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -640,6 +658,24 @@
       "duration_ms": 349266,
       "name": "Brace for Impact (Live a Little)",
       "url": "https://open.spotify.com/track/1cRc03E5Ps0fwe4l8fz2J0"
+    },
+    {
+      "album": {
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215086,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
     },
     {
       "album": {
@@ -975,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270617,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1"
+    },
+    {
+      "album": {
         "name": "DLTGYD",
         "url": "https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9"
       },
@@ -1292,7 +1346,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
@@ -2358,7 +2412,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 315701,
       "name": "My Head",
       "url": "https://open.spotify.com/track/4xgf5wtpweaJlOyCklWa5e"
@@ -2376,7 +2430,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 299763,
       "name": "Nashville Tuesday Morning",
       "url": "https://open.spotify.com/track/0vXuLLkoItEoXhE65SbBuc"
@@ -2472,10 +2526,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
     },
     {
       "album": {
@@ -2515,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Where The Song Will Find Me",
+        "url": "https://open.spotify.com/album/4RbN6hi2eMIEDz3SDYdZ4N"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254468,
+      "name": "New York Comeback",
+      "url": "https://open.spotify.com/track/625yUfXi4e8pyFnYsLxXOt"
+    },
+    {
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/5v4qfdyDiRBYC4ZmFfvDTX"
       },
@@ -2526,7 +2616,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 252213,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/7uKxBnDDb58v88PQ0yylii"
@@ -3089,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
+      },
+      "artists": [
+        {
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272493,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
+    },
+    {
+      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -3154,7 +3266,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
@@ -3414,7 +3526,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215226,
       "name": "Time is a Healer",
       "url": "https://open.spotify.com/track/52Mlxac2gkHhZ9XZotDrrm"
@@ -3508,6 +3620,24 @@
       "duration_ms": 214048,
       "name": "What's Coming To Me",
       "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
+    },
+    {
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237703,
+      "name": "When We Were Close",
+      "url": "https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup"
     },
     {
       "album": {

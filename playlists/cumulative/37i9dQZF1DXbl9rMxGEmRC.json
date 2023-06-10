@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 380773,
       "name": "Black Flames March",
       "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 170000,
       "name": "Hades",
       "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 275419,
       "name": "Human Scum",
       "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
@@ -3961,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Vacuum Solution",
+        "url": "https://open.spotify.com/album/3BiBB0Duax8O9UJBtibIZN"
+      },
+      "artists": [
+        {
+          "name": "Mesarthim",
+          "url": "https://open.spotify.com/artist/4ZnlfGzJ64rXn81cR2OR0E"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Matter and Energy",
+      "url": "https://open.spotify.com/track/4hdlC6vb8ZuEfdPssn41lD"
+    },
+    {
+      "album": {
         "name": "Sidereus Nuncius",
         "url": "https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ"
       },
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 258733,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/62Mx4j3cybbW4aXhogbtH4"
@@ -6432,6 +6450,24 @@
       "duration_ms": 309213,
       "name": "The Serpentine Offering",
       "url": "https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU"
+    },
+    {
+      "album": {
+        "name": "The Shrike",
+        "url": "https://open.spotify.com/album/3P9ZznxjcZkWLoucfVYl1g"
+      },
+      "artists": [
+        {
+          "name": "KEN Mode",
+          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250346,
+      "name": "The Shrike",
+      "url": "https://open.spotify.com/track/4BwS5ZI5xpRUbe0uAtfefi"
     },
     {
       "album": {

@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/5LiIi2zLqoMtmBXHJGnQ5v"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00ed Rozman",
+          "url": "https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/2d69hiWlHGMSA1VQfnm3kU"
+    },
+    {
+      "album": {
         "name": "AMIGA",
         "url": "https://open.spotify.com/album/0vBbku18pQfN1H8q3mQWoc"
       },
@@ -373,6 +391,28 @@
     },
     {
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/2OkYmxdL6licorgOR34KyM"
+      },
+      "artists": [
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Kid Moonsta",
+          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7bwXbb2kOOXzUIWAVzVzi8"
+    },
+    {
+      "album": {
         "name": "BEYAKO",
         "url": "https://open.spotify.com/album/7pXFTJExzqj5EgXXozcHtK"
       },
@@ -436,7 +476,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 163880,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
@@ -494,7 +534,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 204981,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
@@ -755,6 +795,24 @@
     },
     {
       "album": {
+        "name": "como la brisa",
+        "url": "https://open.spotify.com/album/3owd58DY9eZjbi55sq5RzD"
+      },
+      "artists": [
+        {
+          "name": "Menesesynths",
+          "url": "https://open.spotify.com/artist/6SQnzGHdCUIw22KdJGvsXw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "como la brisa",
+      "url": "https://open.spotify.com/track/5ioimDn2KLDx7lGqDo8fLw"
+    },
+    {
+      "album": {
         "name": "Como Ni\u00f1os",
         "url": "https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV"
       },
@@ -806,7 +864,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195493,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
@@ -1304,7 +1362,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
@@ -1344,6 +1402,24 @@
       "duration_ms": 151020,
       "name": "Esos D\u00edas - Spotify Singles",
       "url": "https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY"
+    },
+    {
+      "album": {
+        "name": "Estar\u00e9 Bien (Sanando y Bailando)",
+        "url": "https://open.spotify.com/album/0HmsRZiQ88z2dYUrXXBVC2"
+      },
+      "artists": [
+        {
+          "name": "Luisa Ferss",
+          "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139263,
+      "name": "Estar\u00e9 Bien (Sanando y Bailando)",
+      "url": "https://open.spotify.com/track/5wFpwFRDpemvYPfTfi7t6a"
     },
     {
       "album": {
@@ -1438,7 +1514,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192668,
       "name": "FERNET",
       "url": "https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms"
@@ -2162,7 +2238,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201733,
       "name": "La Duda",
       "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
@@ -2228,7 +2304,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183225,
       "name": "LA PUERTA",
       "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
@@ -3137,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Musica Buena",
+        "url": "https://open.spotify.com/album/1QucIkH06Mqm8OGo4xZpA4"
+      },
+      "artists": [
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105550,
+      "name": "Musica Buena",
+      "url": "https://open.spotify.com/track/6P9mwxvTyfDDgiqyfvNJwI"
+    },
+    {
+      "album": {
         "name": "My Bichiyal",
         "url": "https://open.spotify.com/album/6GyWhqNMZj0iyPo73gV9zX"
       },
@@ -3185,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Nadie",
+        "url": "https://open.spotify.com/album/0dRfAW58wNMpe6adAr8Lom"
+      },
+      "artists": [
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/7hjPtPoZkgqqQNBiUT4bOz"
+    },
+    {
+      "album": {
         "name": "necesito un break de tanta pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -3204,7 +3316,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178741,
       "name": "necesito un break de tanta pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
@@ -3417,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
+      },
+      "artists": [
+        {
+          "name": "BrunOG",
+          "url": "https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276993,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP"
+    },
+    {
+      "album": {
         "name": "Numero 1",
         "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
       },
@@ -3520,7 +3650,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 149600,
       "name": "Pa' Eso Se Hizo",
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
@@ -3850,6 +3980,28 @@
       "duration_ms": 224415,
       "name": "PIEL AL NATURAL",
       "url": "https://open.spotify.com/track/2cGOVxy7kk9JMjIFxSkRKS"
+    },
+    {
+      "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
       "album": {
@@ -4841,6 +4993,28 @@
     },
     {
       "album": {
+        "name": "Tequila y piel",
+        "url": "https://open.spotify.com/album/3CGFsf2VCLSejxZKE3zVNa"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        },
+        {
+          "name": "Carlos Carrera",
+          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Tequila y piel",
+      "url": "https://open.spotify.com/track/2l9xAB7x01AWnR2A7cmloJ"
+    },
+    {
+      "album": {
         "name": "Termin\u00e9 Contigo",
         "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
       },
@@ -5110,6 +5284,32 @@
       "duration_ms": 181276,
       "name": "U Know",
       "url": "https://open.spotify.com/track/01jQHuLuBgtJvD0lMIgb4F"
+    },
+    {
+      "album": {
+        "name": "UNA GATA",
+        "url": "https://open.spotify.com/album/5CJfj01zYIljBUYaYrCQRI"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184632,
+      "name": "UNA GATA",
+      "url": "https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf"
     },
     {
       "album": {

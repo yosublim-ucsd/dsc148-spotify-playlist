@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 152648,
+  "num_followers": 152658,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODVmNzg5ZTVjNjM0ZTI0MjNhY2E5ZGVhMDQzYTFkOTI0ZDQyM2I1",
+  "snapshot_id": "MCwxMzRmMzE5NjIyNDNkMjczZTEwZDc3MDMwM2JjNjFmOWNmMzFmODc0",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "see u tomorrow (stripped)",
         "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197845,
       "name": "see u tomorrow - stripped",
       "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Here With Me - Acoustic",
         "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "I'm Sure He Loves You",
-        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "I'm Sure He Loves You",
-      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
       "added_at": "2023-02-24 11:06:00",
       "album": {
         "name": "Sometimes I Feel",
@@ -1231,6 +1215,22 @@
       "duration_ms": 147354,
       "name": "Sometimes I Feel",
       "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "The One I Love",
-        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Days That End in Y",
         "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 142686,
       "name": "Days That End in Y",
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "The One I Love",
+        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1499,38 +1483,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Breathe (Acoustic)",
-        "url": "https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5"
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
       "artists": [
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Neev",
-          "url": "https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC"
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
         }
       ],
-      "duration_ms": 245555,
-      "name": "Breathe - Acoustic",
-      "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1551,18 +1515,38 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Tofino",
-        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
       "artists": [
         {
-          "name": "Julianna Laine",
-          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Tofino",
-      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Breathe (Acoustic)",
+        "url": "https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Neev",
+          "url": "https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC"
+        }
+      ],
+      "duration_ms": 245555,
+      "name": "Breathe - Acoustic",
+      "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Tofino",
+        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+      },
+      "artists": [
+        {
+          "name": "Julianna Laine",
+          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Tofino",
+      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 140130,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Ep1",
-        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
-      },
-      "artists": [
-        {
-          "name": "Kay Nambiar",
-          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "Recompose",
-      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1651,18 +1635,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+        "name": "Ep1",
+        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Kay Nambiar",
+          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
         }
       ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+      "duration_ms": 204398,
+      "name": "Recompose",
+      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "God Save The Dream",
+        "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        }
+      ],
+      "duration_ms": 222473,
+      "name": "Fine On Your Own",
+      "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
     }
   ],
   "unique_name": "Soft Morning",

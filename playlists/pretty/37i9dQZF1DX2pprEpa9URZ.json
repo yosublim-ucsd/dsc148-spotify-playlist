@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 717819,
+  "num_followers": 718114,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTEwZjRhZGNkMGNkZDVhNmQzMzhiMzIxMzU5ZWY3OWZmNzFhNzJj",
+  "snapshot_id": "MCxiZmQ0NjhmNjMyZjJjNWJiZDQwYjgzYTBmOTk1ZGMyMGYxZGFlZmQ5",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 362411,
       "name": "Kidz of Tibet",
       "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        }
-      ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -727,22 +747,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
       "artists": [
         {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
         }
       ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ancestors",
         "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 287518,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Unsichtbar (Behrooz Zandi Remix)",
         "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        },
+        {
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
       },
       "artists": [
         {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        },
-        {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 521547,
       "name": "Tembo",
       "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
-      },
-      "artists": [
-        {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Kanasi",
         "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 486879,
       "name": "Parivartan",
       "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     }
   ],
   "unique_name": "Org\u00e1nica",

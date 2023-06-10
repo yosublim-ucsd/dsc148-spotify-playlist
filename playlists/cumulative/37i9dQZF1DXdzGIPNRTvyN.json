@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136838,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3Mny81g2sohJnkeG2Cesdh"
@@ -1334,6 +1334,24 @@
       "duration_ms": 158320,
       "name": "Part 15, Afternoon Melody",
       "url": "https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4"
+    },
+    {
+      "album": {
+        "name": "Forest Park Rain Soundwalk",
+        "url": "https://open.spotify.com/album/23kRnl0gIuVBMmeOn1DWae"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77544,
+      "name": "Part 2, Trailside Rivulet and Birdsong",
+      "url": "https://open.spotify.com/track/5VDpXmKgYlhwcDRm7Mzgm8"
     },
     {
       "album": {

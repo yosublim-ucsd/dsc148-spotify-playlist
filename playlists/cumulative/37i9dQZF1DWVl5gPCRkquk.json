@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
@@ -4120,6 +4120,24 @@
       "duration_ms": 170213,
       "name": "Stanley Park",
       "url": "https://open.spotify.com/track/0SWNotmLvAsYVMQSDJsRk8"
+    },
+    {
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250574,
+      "name": "Strawberry Woman",
+      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
     },
     {
       "album": {

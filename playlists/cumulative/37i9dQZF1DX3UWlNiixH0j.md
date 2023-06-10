@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: never young beach
 
-508 songs - 1 day 7 hr 56 min
+510 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ai no Tabi](https://open.spotify.com/track/46h2MN4oIAkBHVFIR9HEUB) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [Ai no Tabi](https://open.spotify.com/album/5eukf6HlQRiwypMC6XdGPE) | 4:01 | 2023-03-28 | 2023-04-05 |
 | [Alba](https://open.spotify.com/track/3HxMollV5fMOhd1vN2zLSY) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Alba](https://open.spotify.com/album/579Ju3LZTlOeLqXemfyqQX) | 7:10 | 2023-02-21 | 2023-03-01 |
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
+| [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 |  |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2023-01-12 | 2023-01-25 |
 | [Almost Blue](https://open.spotify.com/track/149IYcG5v0YPBiNLgABDQA) | [山中タクト](https://open.spotify.com/artist/1lzRj29LBri61awaqrOGN0) | [Almost Blue](https://open.spotify.com/album/5zR2jKKGxU9ky183AimzCm) | 3:05 | 2023-04-20 | 2023-04-26 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2023-01-12 | 2023-01-18 |
@@ -222,7 +223,7 @@
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 | 2023-03-15 |
 | [Old Fashioned](https://open.spotify.com/track/04pzS2S9nK0kw84Yu0pslx) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3A4Yb0z1thFYO9uysqeVGv) | 3:19 | 2023-02-16 | 2023-02-18 |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-04-30 |
-| [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 | 2023-05-23 |  |
+| [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 | 2023-05-23 | 2023-06-10 |
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-24 | 2023-05-08 |
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 |  |
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-23 | 2023-05-31 |
@@ -357,6 +358,7 @@
 | [さよならクレール](https://open.spotify.com/track/0vtywjF2euyyRUUJLMvirz) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:50 | 2023-03-30 |  |
 | [ずっとIMI](https://open.spotify.com/track/0R98847JNfUWNTNaeYCwTU) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [ずっとIMI](https://open.spotify.com/album/7wPGSbDiZtj7fPrOsgUPSx) | 2:58 | 2023-03-14 | 2023-03-22 |
 | [それでも、僕は](https://open.spotify.com/track/3vQGpmtadSq1uSkebkrLzW) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [それでも、僕は](https://open.spotify.com/album/7AigxeTzOuM1MoiHvL61KG) | 4:11 | 2023-02-28 | 2023-03-15 |
+| [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 | 2023-06-08 |  |
 | [たりないぼくら](https://open.spotify.com/track/4RwQK5CQQWMy77xbOukdYN) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [たりないぼくら](https://open.spotify.com/album/6hY8MJzTmUkw5MekeDre54) | 4:08 | 2023-01-17 | 2023-02-22 |
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-03-22 |
 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 | 2023-04-04 | 2023-04-12 |
@@ -484,7 +486,7 @@
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 | 2023-05-26 |
 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 | 2023-03-07 | 2023-04-20 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-03-28 |  |
-| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 |  |
+| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 | 2023-06-10 |
 | [王墓](https://open.spotify.com/track/4jfsKNlHaOB8yOJnmYByyX) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [王墓](https://open.spotify.com/album/38h1IyAAmHKyOgAtDJ1vQv) | 2:50 | 2023-03-28 | 2023-04-05 |
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |

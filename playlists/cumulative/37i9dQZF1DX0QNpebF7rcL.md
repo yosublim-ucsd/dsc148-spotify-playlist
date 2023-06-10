@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-280 songs - 18 hr 54 min
+281 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 | 2022-07-29 |
 | [I'd Climb Mountains](https://open.spotify.com/track/3Viv0Zuw0FT4EuxdVGfrDo) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/1eBYbklgOrUS8hYho7rPXj) | 3:30 | 2021-01-29 | 2022-04-23 |
 | [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 | 2022-07-01 |  |
-| [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 | 2021-09-17 |  |
+| [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 | 2021-09-17 | 2023-06-10 |
 | [I'm The One](https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm The One](https://open.spotify.com/album/3plZvUdCRuc5h5PzzoEs7S) | 3:52 | 2023-06-02 |  |
 | [I'm Tore Down](https://open.spotify.com/track/1Rh166Dr7vSbpCV2bUoBSW) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [I'm Tore Down](https://open.spotify.com/album/6nKz5WRlab96MD927id1gF) | 6:08 | 2021-04-16 | 2022-04-23 |
 | [I've Got to Use My Imagination](https://open.spotify.com/track/3xLigydauGKn4eJWYziPuN) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [I've Got to Use My Imagination](https://open.spotify.com/album/64ekAE6otxRFXCez5e5IeK) | 3:54 | 2021-03-19 | 2022-04-23 |
@@ -287,6 +287,7 @@
 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-03-31 | 2023-04-30 |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 | 2023-03-31 | 2023-05-13 |
 | [You've Been Cheatin'](https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [You've Been Cheatin'](https://open.spotify.com/album/1xsH8xPrguqeXMgn6ftCaT) | 3:03 | 2021-10-08 |  |
+| [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 3:38 | 2023-06-09 |  |
 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 | 2022-01-21 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

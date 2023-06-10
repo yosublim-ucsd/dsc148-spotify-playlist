@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Key to the Highway (Live at The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0Pc7Ti2YgK7xARnrmpCPZv"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392351,
+      "name": "Key to the Highway - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
+    },
+    {
+      "album": {
         "name": "Known Unknowns (Live)",
         "url": "https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG"
       },
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212732,
       "name": "Step By Step - Live",
       "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"

@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Rockin' The Boat",
+        "url": "https://open.spotify.com/album/1m5FfNABzazDNUxAE6HJAW"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459760,
+      "name": "Pork Chop - Remastered",
+      "url": "https://open.spotify.com/track/6AMhU6N8yCVHPvElPCfSdZ"
+    },
+    {
+      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },

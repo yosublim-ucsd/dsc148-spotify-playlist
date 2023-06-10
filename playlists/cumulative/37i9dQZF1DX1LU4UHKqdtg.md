@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-611 songs - 1 day 9 hr 37 min
+612 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Sweet Juice](https://open.spotify.com/track/3ujkoh6d5Pm2HUsnWS4zuI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/23dciQRIqQfqAFpw7jecMb) | 3:12 | 2023-02-16 | 2023-02-18 |
 | [Sweet Juice \-Japanese ver.\-](https://open.spotify.com/track/1hz0qhT9BCpv9KiW3DNc3K) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [DEAR VIOLET](https://open.spotify.com/album/4AFyJpgsZwTeHMjg227ZJC) | 3:13 | 2023-03-21 | 2023-03-23 |
 | [Sweet Juice \-Japanese ver.\-](https://open.spotify.com/track/7AnbZKm3Hbb6WtpcyYZDmM) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [DEAR VIOLET](https://open.spotify.com/album/2qMlHtNntlca4k59Fu5KGk) | 3:13 | 2023-03-21 | 2023-05-24 |
+| [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 |  |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-25 | 2023-01-21 |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-10 | 2022-07-07 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 | 2023-01-10 |

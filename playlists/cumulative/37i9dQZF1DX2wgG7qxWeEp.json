@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
+    },
+    {
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 324440,
       "name": "El Taxi",
       "url": "https://open.spotify.com/track/1qpbJ8GiPc706AfGqZAIei"

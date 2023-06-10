@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 36729,
+  "num_followers": 36802,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRmOTFkMTVlNTkwZDQ1YzdiOWY3Nzk1NTAzZDE5MDEzMjllOWI4",
+  "snapshot_id": "MCxmODAwMTEzYjZhNWY2MDQxODkyYTI5OTRiYjk0NjA4YmFhNzNhYjM0",
   "tracks": [
     {
       "added_at": "2023-04-14 13:13:25",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
       "added_at": "2023-04-14 13:13:25",
       "album": {
         "name": "To Yahweh's Delight",
@@ -419,22 +435,6 @@
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "There's an Overflow",
-        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "There's an Overflow",
-      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -723,6 +723,26 @@
       "duration_ms": 466666,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-06-09 00:01:00",
+      "album": {
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -799,34 +819,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Yes And Amen",
-        "url": "https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH"
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
       },
       "artists": [
         {
-          "name": "Tope Alabi",
-          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 405865,
-      "name": "You Are Worthy",
-      "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Way\u03b5 Me Yie",
-        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 303553,
-      "name": "Way\u03b5 Me Yie",
-      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -847,18 +851,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+        "name": "Yes And Amen",
+        "url": "https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Tope Alabi",
+          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
         }
       ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
+      "duration_ms": 405865,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
     },
     {
       "added_at": "2023-06-02 00:01:00",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+        "name": "Way\u03b5 Me Yie",
+        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+      "duration_ms": 303553,
+      "name": "Way\u03b5 Me Yie",
+      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -945,20 +965,20 @@
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
     },
     {
-      "added_at": "2023-04-14 13:13:25",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -977,40 +997,20 @@
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
+      "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
-    },
-    {
-      "added_at": "2023-06-09 00:01:00",
-      "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr"
     },
     {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
       "added_at": "2023-06-02 00:01:00",
       "album": {
         "name": "Protocol breaker",
@@ -1339,6 +1323,22 @@
       "duration_ms": 396725,
       "name": "Protocol breaker",
       "url": "https://open.spotify.com/track/2qAcPHYYGiKpIsxdyTxtxB"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 408856,
       "name": "Mensuro",
       "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
     },
     {
       "added_at": "2023-04-14 13:13:25",

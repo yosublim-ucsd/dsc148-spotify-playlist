@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Yssine
 
-560 songs - 1 day 1 hr 13 min
+561 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ai Ai Ai](https://open.spotify.com/track/0O1aOVz2AHByG9fM5ggg9W) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Ai Ai Ai](https://open.spotify.com/album/75flqZ7CwXhFXJ7DxjvyQw) | 2:20 | 2023-01-05 | 2023-03-18 |
 | [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 | 2022-11-18 |
 | [Ajena](https://open.spotify.com/track/4v7jRO3iw5Wcy8IVPF4JNy) | [JM Fuego](https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk), [JBigss](https://open.spotify.com/artist/26wDc3VG393s6Ta4W88AGX) | [Ajena](https://open.spotify.com/album/07tCBCAEuWiPg3tNvtxhsQ) | 2:42 | 2023-06-08 |  |
-| [All Eyes On You](https://open.spotify.com/track/2CvQycaLX8eGR46JOAhh8k) | [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3) | [All Eyes On You](https://open.spotify.com/album/00PVcrGVColJqZdOohU0ZR) | 3:22 | 2023-03-23 |  |
+| [All Eyes On You](https://open.spotify.com/track/2CvQycaLX8eGR46JOAhh8k) | [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3) | [All Eyes On You](https://open.spotify.com/album/00PVcrGVColJqZdOohU0ZR) | 3:22 | 2023-03-23 | 2023-06-10 |
 | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/track/1ChjcmCGJst5DyiaPFjsXs) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp), [Trevv](https://open.spotify.com/artist/0imoHB5M7KW6B9PApK7rMb) | [All I Want For Christmas Is A Klaksbeat](https://open.spotify.com/album/4NPLgh9dLfGdayk623LJxT) | 1:45 | 2022-12-01 | 2023-01-10 |
 | [All Of Dem Know \(Demon Time\)](https://open.spotify.com/track/36uv4BvGAhzvYkjT2oHbYc) | [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [Less Is Moré](https://open.spotify.com/album/2PGbBTsnDUej2PAXIEl2tb) | 2:23 | 2023-01-26 | 2023-05-26 |
 | [Allez Allez](https://open.spotify.com/track/0IeRfqzN4AonzZIKaPMXtw) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Allez Allez](https://open.spotify.com/album/0s2RgOo6slU8PkcfuoRaox) | 2:02 | 2022-09-08 | 2022-09-16 |
@@ -206,6 +206,7 @@
 | [Good Girls](https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jordan Knows](https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId) | [Good Girls](https://open.spotify.com/album/321080p33tt05xgRoJHEov) | 2:46 | 2022-09-08 | 2022-12-16 |
 | [Gran Canaria](https://open.spotify.com/track/0hgm955vBh1mR0f8kHzsV2) | [Leslie](https://open.spotify.com/artist/4EUhkiP7GREV2rIXE5SW0E), [Gillo](https://open.spotify.com/artist/5rpnx2zL1CZsNzk5BPed0V) | [Gran Canaria](https://open.spotify.com/album/1oPiNaxWADjB0jrlhTZSy7) | 3:04 | 2022-12-29 | 2023-01-13 |
 | [GYAL DEM](https://open.spotify.com/track/4UJKDyEVDp1yyrgDtZOX9l) | [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GYAL DEM](https://open.spotify.com/album/4UGnR78CQUxQpNzBjFsjdK) | 2:40 | 2023-03-30 | 2023-04-28 |
+| [Gyaldem](https://open.spotify.com/track/1BrD3E4UzmynNRC1az3yZg) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Gyaldem](https://open.spotify.com/album/4swjjIG4uIfaIijLiQrFGZ) | 2:13 | 2023-06-09 |  |
 | [Gymnastic](https://open.spotify.com/track/0BEJH3Z1ssdYqAQmWttViM) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Maki](https://open.spotify.com/artist/4FaQ2MFkq0JucRaCw69qLY) | [Gymnastic](https://open.spotify.com/album/3PpoGIk4czgWjtzo72L5lj) | 2:22 | 2023-01-12 | 2023-03-18 |
 | [Habiba \- Remix](https://open.spotify.com/track/7imx8YnFdPOEaOFhJptUSW) | [Kalibiboy D](https://open.spotify.com/artist/3WVqcOKgdST367tFuk2lzm), [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [DeMozah](https://open.spotify.com/artist/6xk6F2Ixz6Ljlxnt1FlMLU) | [Habiba \(Remix\)](https://open.spotify.com/album/5k3wkJ8CgwsIGOH0gdDHfj) | 2:24 | 2022-09-15 | 2022-10-14 |
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-12 | 2022-10-14 |

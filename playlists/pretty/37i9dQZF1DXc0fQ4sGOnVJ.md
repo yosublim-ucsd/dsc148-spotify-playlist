@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,761 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,778 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 23 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
 | 24 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
 | 25 | [Down the Road \(feat\. Colt Ford\) \- Remix](https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Down the Road \(feat\. Colt Ford\) \[Remix\]](https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb) | 2:45 |
-| 26 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 |
+| 26 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 |
 | 27 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 | 28 | [Hood](https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:09 |
-| 29 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 |
+| 29 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 |
 | 30 | [Willie Nelson \(feat\. Nate Kenyon\)](https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Rock](https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7) | 3:49 |
 | 31 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 32 | [Confetti](https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg) | 2:03 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 44 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 45 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
 | 46 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 |
-| 47 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
-| 48 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
+| 47 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
+| 48 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
 | 49 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 |
 | 50 | [Jack In My Coke](https://open.spotify.com/track/149jFcOq3geYOKnwF9DQT7) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/0N5anKkS2ywpioukIuU5YC) | 3:52 |
 | 51 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 |
 | 74 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 |
 
-Snapshot ID: `MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5`
+Snapshot ID: `MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx`

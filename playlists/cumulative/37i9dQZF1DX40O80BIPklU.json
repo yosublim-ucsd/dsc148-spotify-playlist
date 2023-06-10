@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "JOSEAR",
+        "url": "https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "JOSEAR",
+      "url": "https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1"
+    },
+    {
+      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/3fdbDPJG25YDPto5pWqEP0"
       },

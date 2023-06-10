@@ -4,7 +4,7 @@
 
 > The defining songs of the riot grrrl era, and the bands keeping their spirit alive\. Cover: Sleater\-Kinney
 
-133 songs - 6 hr 32 min
+136 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Be Yr Mama](https://open.spotify.com/track/6j3lskGn1FgtR9MmGp5M4t) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/1lcVEQrUSbGl7qRacBxTav) | 2:52 | 2021-06-11 | 2022-07-29 |
 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 | 2021-06-11 |  |
 | [Becky](https://open.spotify.com/track/2JXWrZnKf0PMklRuJapQgT) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Awkward](https://open.spotify.com/album/19ROncpBALfjlbLdXSLSzr) | 3:00 | 2021-06-11 | 2022-07-29 |
+| [Beg For The Torture](https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Beg For The Torture](https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ) | 1:25 | 2023-06-09 |  |
 | [Bombay](https://open.spotify.com/track/0IwDK2oWehrQ7cv4nA4rj5) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/0UHxWn1bDOZEGXznuz5oU3) | 3:44 | 2021-06-11 |  |
 | [Bombay](https://open.spotify.com/track/76g6YBOwh714ivn1zeSbCL) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/3c18ecpUu7nRe2nyVWOYnm) | 3:44 | 2021-06-11 | 2022-07-29 |
 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 | 2021-06-11 | 2022-07-29 |
@@ -69,6 +70,7 @@
 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 | 2021-06-11 |  |
 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 | 2021-06-11 |  |
 | [Half Girl Half Rant](https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT) | [Chloe Le Fay](https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16) | [Riot Grrrls and Kinder Whores](https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp) | 2:27 | 2021-06-11 |  |
+| [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 | 2023-06-09 |  |
 | [He's My Thing \- 2007 Remaster](https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Painkillers](https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa) | 2:55 | 2021-06-11 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/2U3DCTEnAF66pImTkso4Qo) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/7n281LqWVqFX2D2hbBULgM) | 3:33 | 2021-06-11 | 2023-04-30 |
 | [Hey Heartbreaker](https://open.spotify.com/track/2m4EMioktuQ98TZbkHVmZy) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/68VhZxHBW8rAwl0cD5D3hZ) | 3:33 | 2021-06-11 |  |
@@ -130,6 +132,7 @@
 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 | 2021-06-11 | 2022-07-29 |
 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 | 2021-06-11 |  |
 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 | 2021-06-11 |  |
+| [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 | 2023-06-09 |  |
 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 | 2021-06-11 |  |
 | [Volcano Girls](https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/1hqpIXsb19ux5c0rXNlJbq) | 3:18 | 2021-06-11 | 2022-07-29 |
 | [Volcano Girls](https://open.spotify.com/track/3cMliO9emUSa4d1Ap2MbfW) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5) | 3:18 | 2021-06-11 |  |

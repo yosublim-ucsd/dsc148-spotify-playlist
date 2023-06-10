@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 47873,
+  "num_followers": 47914,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGJiNmViNzg5YzZmNGRlYTYyNWE1NTVjNGFjNzVkZjg3ZTI4NDcx",
+  "snapshot_id": "MCxmYTlmNTFiNDAxNmQ1Mzg3NzI0YmU5YTU1ODY1YTZmZWI4ZDhjOWYw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -39,6 +39,26 @@
       "duration_ms": 252493,
       "name": "I Want To Shout About It",
       "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Life Don't Miss Nobody",
+        "url": "https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nelson",
+          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
+        },
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Your Funeral And My Trial (feat. Jontavious Willis)",
+      "url": "https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1687,22 +1707,6 @@
       "duration_ms": 154840,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt"
-    },
-    {
-      "added_at": "2021-09-17 05:00:00",
-      "album": {
-        "name": "One Way Out",
-        "url": "https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 278755,
-      "name": "I'm No Angel Myself",
-      "url": "https://open.spotify.com/track/1HENXx512ScE18AYoJm45r"
     },
     {
       "added_at": "2021-08-27 04:01:00",

@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-383 songs - 1 day 0 hr 16 min
+384 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF) | 3:17 | 2022-01-07 | 2022-07-29 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2023-01-09 |  |
 | [Jaywalker](https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 3:12 | 2021-12-17 | 2022-07-29 |
+| [Joy'All](https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:44 | 2023-06-09 |  |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-12-17 | 2022-07-01 |
 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-03-25 | 2022-04-21 |
 | [Lady in the Darkest Hour](https://open.spotify.com/track/0vx0HNWpitK8Y5L53ZY1C1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lady in the Darkest Hour](https://open.spotify.com/album/7DuLlRk308fbnlPKEDqbUY) | 4:35 | 2022-04-20 | 2022-07-29 |
@@ -285,7 +286,7 @@
 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 | 2022-03-25 | 2023-01-10 |
 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 | 2022-06-10 | 2022-10-13 |
 | [Shoot](https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Shoot](https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj) | 2:37 | 2022-03-25 | 2022-04-18 |
-| [Shoot](https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:37 | 2022-09-16 |  |
+| [Shoot](https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:37 | 2022-09-16 | 2023-06-10 |
 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 | 2022-03-25 | 2022-04-21 |
 | [Show Up](https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY) | 3:21 | 2022-06-10 | 2023-02-20 |
 | [Show Up](https://open.spotify.com/track/5b6LbhrciovNRfx2SIOI0j) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Scout](https://open.spotify.com/album/4LFFXjvrAvULCfFqgNO7xB) | 3:21 | 2022-03-25 | 2022-04-18 |

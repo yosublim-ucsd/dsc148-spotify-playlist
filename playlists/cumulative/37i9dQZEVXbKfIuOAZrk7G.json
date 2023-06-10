@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "All Eyez on Me Remix",
+        "url": "https://open.spotify.com/album/4qdCWrVMWLMoy70g7dt6fZ"
+      },
+      "artists": [
+        {
+          "name": "Thug Life",
+          "url": "https://open.spotify.com/artist/76fO70b6BK2xt3UVOe4BIZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "All Eyez on Me Remix",
+      "url": "https://open.spotify.com/track/7anqApFaBkxrD6hvjpI6uL"
+    },
+    {
+      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
       },
@@ -7916,7 +7934,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 165535,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/6DPK3fVzuAXaKAqs6M9AXJ"
@@ -14760,7 +14778,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
@@ -24294,7 +24312,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 146778,
       "name": "Sounds Like Something I'd Do",
       "url": "https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI"
@@ -28476,7 +28494,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 75715,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1g5RHGR5IPNmcID8BJBMaa"
@@ -29756,6 +29774,28 @@
       "duration_ms": 207546,
       "name": "What's That?",
       "url": "https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "What's Up Danger (with Black Caviar)",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
     },
     {
       "album": {

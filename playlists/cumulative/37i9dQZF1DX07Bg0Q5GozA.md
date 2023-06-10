@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Jayda G
 
-348 songs - 1 day 1 hr 0 min
+349 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Love Song](https://open.spotify.com/track/3w8bLR0i4JxPYgj1oiWHST) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Love Song](https://open.spotify.com/album/3lWowPEw7IgHz4UXhumHYw) | 4:22 | 2023-02-16 | 2023-02-24 |
 | [Love the Night Away \- Tiedye Remix](https://open.spotify.com/track/07Ns9rFnzsFlVEt5ZdY5Lt) | [DJ Kaos](https://open.spotify.com/artist/25IdOX2HbRLOCP98XoJujb), [Tiedye](https://open.spotify.com/artist/4tjweyUy01CX8opmk4VTjz) | [Dj Kaos Remixed](https://open.spotify.com/album/5G7QRwTR2tWqlR9WVhOtxB) | 7:12 | 2022-12-30 | 2023-01-02 |
 | [Love Vibration \- Yuksek Remix](https://open.spotify.com/track/21RCik7kfIcrYjBfFFx1Op) | [Sentimental Animals](https://open.spotify.com/artist/5wyOPDFPqdAfYMSOiZTrbu), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Nicki B The Vagabond](https://open.spotify.com/artist/1B76LVvwgQLQ6HTCm0HcrV) | [Love Vibration \(Yuksek Remix\)](https://open.spotify.com/album/4hCy4xHT1LbgOGTpV3QoVE) | 3:50 | 2022-12-30 | 2023-01-02 |
+| [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-06-09 |  |
 | [Loverboy \- Edit](https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Loverboy](https://open.spotify.com/album/27VAEEobniUQcVmXr07hsO) | 3:57 | 2023-06-01 |  |
 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 | 2023-03-09 |  |
 | [Magic Love](https://open.spotify.com/track/1rEjbK9xDZI36YNN6n4NwO) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [The Everlasting Blink](https://open.spotify.com/album/1lpp7JuzRfRx66HDQOOsOm) | 4:28 | 2022-12-30 | 2023-01-02 |

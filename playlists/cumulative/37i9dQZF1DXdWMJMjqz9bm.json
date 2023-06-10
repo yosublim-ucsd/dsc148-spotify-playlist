@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: Felly",
+  "description": "A little bit of pop, a little bit of rap. Cover: Nicky Youre",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 126461,
       "name": "Final Step",
       "url": "https://open.spotify.com/track/1ifhyypscRNLhEvXkv0zEU"
@@ -3658,6 +3658,24 @@
       "duration_ms": 164494,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49"
+    },
+    {
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Good Times Go",
+      "url": "https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy"
     },
     {
       "album": {
@@ -6149,6 +6167,32 @@
     },
     {
       "album": {
+        "name": "NO BAD DAYS (feat. Armani White, Collett)",
+        "url": "https://open.spotify.com/album/1IwDQZem4cLcWfJpuoIISn"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Collett",
+          "url": "https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173457,
+      "name": "NO BAD DAYS (feat. Armani White, Collett)",
+      "url": "https://open.spotify.com/track/3qrxa00Q7sONw0HuvDA3Pg"
+    },
+    {
+      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z"
       },
@@ -7036,7 +7080,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 116957,
       "name": "pretty little lies",
       "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
@@ -7674,6 +7718,24 @@
       "duration_ms": 220432,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
+    },
+    {
+      "album": {
+        "name": "safe to say",
+        "url": "https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122292,
+      "name": "safe to say",
+      "url": "https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM"
     },
     {
       "album": {
@@ -8444,6 +8506,24 @@
       "duration_ms": 165333,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/7xyPdtIfDcCGgB8tkVskLr"
+    },
+    {
+      "album": {
+        "name": "strings attached",
+        "url": "https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124621,
+      "name": "strings attached",
+      "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
     },
     {
       "album": {
@@ -9598,7 +9678,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 131300,
       "name": "wanna know",
       "url": "https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8"
@@ -9772,7 +9852,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 141062,
       "name": "When I Get Lonely",
       "url": "https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh"

@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-355 songs - 18 hr 58 min
+356 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-10-28 |  |
 | [All Day \(feat\. Nonô\)](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [All Day \(feat\. Nonô\)](https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ) | 3:02 | 2022-03-11 |  |
 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 | 2023-05-26 |  |
+| [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-06-09 |  |
 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 | 2021-12-03 |  |
 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 | 2022-11-18 |  |
 | [Antibodies](https://open.spotify.com/track/2kEvC6w9wRf96llW9sJrRU) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 3:20 | 2021-12-03 | 2022-01-08 |
@@ -238,7 +239,7 @@
 | [No Regrets](https://open.spotify.com/track/4Q6b6mAjV9cEECioJ9thlE) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [No Regrets](https://open.spotify.com/album/2lU1OJnKGULiDUV79swNCb) | 2:13 | 2021-12-03 | 2022-01-08 |
 | [No Rest](https://open.spotify.com/track/6kjSIZlRDnYVmu3xkSKhMz) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [No Rest](https://open.spotify.com/album/78T9zhxWrO6O3H0uSupza7) | 3:29 | 2021-12-03 | 2022-01-08 |
 | [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-03 | 2023-03-29 |
-| [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 | 2023-05-12 |  |
+| [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 | 2023-05-12 | 2023-06-10 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2021-12-03 | 2022-09-02 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2021-12-03 | 2023-05-13 |
 | [Only Way](https://open.spotify.com/track/2XqrW3DckGuX40QWSp3QnZ) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/0Zt0Qk54maTkJgUt2TCvAP) | 3:10 | 2021-12-03 | 2022-01-08 |

@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 95196,
+  "num_followers": 95332,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTMxYzRiODJiOTU3ZGY1M2IxOTZmM2U3MWU2MDYyZmVlMTkxMzU5",
+  "snapshot_id": "MCwxN2FjZGFkYWE2MDk2Y2IzYjNkYjc4MDA4OGZmZDI2MjFiMWIzMzNl",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91706,
-      "name": "Olson",
-      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 387593,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 387593,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Wandering",
-        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 347250,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 330973,
       "name": "Tabarin",
       "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 347250,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Into Daylight",
         "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 295989,
       "name": "Verbana (feat. Hush Forever)",
       "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Gentle EP",
         "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 347505,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 332820,
-      "name": "Tropicololo",
-      "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 332820,
+      "name": "Tropicololo",
+      "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
     },
     {
       "added_at": "2023-05-26 09:00:00",

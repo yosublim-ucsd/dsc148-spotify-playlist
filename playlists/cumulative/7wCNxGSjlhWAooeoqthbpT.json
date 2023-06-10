@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 135197,
       "name": "Beef",
       "url": "https://open.spotify.com/track/4FOHCHOhzKVbouBJjE21By"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 141272,
       "name": "Big Payment",
       "url": "https://open.spotify.com/track/55ZFgWnBbvzPQNwlIczIx0"
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Going Places",
+        "url": "https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Going Places",
+      "url": "https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU"
+    },
+    {
+      "album": {
         "name": "LARRY (Deluxe)",
         "url": "https://open.spotify.com/album/2N0IPzR54y3sYnQJFT0bsA"
       },
@@ -1994,6 +2012,24 @@
       "duration_ms": 122351,
       "name": "LAX",
       "url": "https://open.spotify.com/track/2i3zwimv2wquCiKHTC0l3T"
+    },
+    {
+      "album": {
+        "name": "Let's Go MIA",
+        "url": "https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180877,
+      "name": "Let's Go MIA",
+      "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
     },
     {
       "album": {
@@ -2689,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161036,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV"
+    },
+    {
+      "album": {
         "name": "Overdue (feat. DJ Lag & Kooldrink)",
         "url": "https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq"
       },
@@ -3004,7 +3058,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 224256,
       "name": "ROLL THE DICE (feat. DeJ Loaf)",
       "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
@@ -3262,7 +3316,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173658,
       "name": "Stargirl",
       "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
@@ -3619,6 +3673,36 @@
     },
     {
       "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -3696,6 +3780,28 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "album": {
@@ -3794,7 +3900,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144613,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4Srrjc22zSJ0pGWgvaFe73"

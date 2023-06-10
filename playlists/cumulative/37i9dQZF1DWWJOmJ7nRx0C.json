@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Tigercub",
+  "description": "The hardest songs, loud. Very loud. Cover: Corey Taylor",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -146,6 +146,28 @@
       "duration_ms": 213000,
       "name": "100 Little Deaths",
       "url": "https://open.spotify.com/track/65B9xDVwOLjOi2Sm4bRVdm"
+    },
+    {
+      "album": {
+        "name": "The Art Of Survival (Deluxe)",
+        "url": "https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266111,
+      "name": "1000 Years (with Amy Lee)",
+      "url": "https://open.spotify.com/track/4h1RBLxhbdApugOTryGZA6"
     },
     {
       "album": {
@@ -2652,7 +2674,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175101,
       "name": "Courtney, just relax (feat. World Of Pleasure)",
       "url": "https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi"
@@ -4454,7 +4476,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185171,
       "name": "Eye Of Horus",
       "url": "https://open.spotify.com/track/45kidLOOvy8t8BH6WZ4BEf"
@@ -5374,7 +5396,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186933,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/2goJK85OkKFSLkv7k0qa1f"
@@ -5558,6 +5580,24 @@
       "duration_ms": 194022,
       "name": "Graveyard Love",
       "url": "https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f"
+    },
+    {
+      "album": {
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/40py8Fn35TC6GnszSKccjZ"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266398,
+      "name": "Grey Veins",
+      "url": "https://open.spotify.com/track/7mdBFu9SMR39e7lK8uQvFB"
     },
     {
       "album": {
@@ -6265,6 +6305,28 @@
     },
     {
       "album": {
+        "name": "How We Roll",
+        "url": "https://open.spotify.com/album/6LmYOtAKfNuJkkcfTZMc2U"
+      },
+      "artists": [
+        {
+          "name": "Rockin'1000",
+          "url": "https://open.spotify.com/artist/63umtqFBxSYFUupAErOYi4"
+        },
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174868,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/1PEswZbSgJOEhMGY4FFLPE"
+    },
+    {
+      "album": {
         "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
         "url": "https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA"
       },
@@ -6378,6 +6440,32 @@
       "duration_ms": 175733,
       "name": "I Am The Weapon",
       "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
+    },
+    {
+      "album": {
+        "name": "I Can't Take It",
+        "url": "https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT"
+      },
+      "artists": [
+        {
+          "name": "LYELL",
+          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172398,
+      "name": "I Can't Take It",
+      "url": "https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg"
     },
     {
       "album": {
@@ -7348,6 +7436,24 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "album": {
+        "name": "Lacerate",
+        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210022,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
     },
     {
       "album": {
@@ -10518,7 +10624,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 205400,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6"
@@ -11120,7 +11226,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 200489,
       "name": "Saviour II",
       "url": "https://open.spotify.com/track/1hEogsBV8Ern5L994UMQPi"
@@ -12768,6 +12874,28 @@
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "album": {
+        "name": "Temple of Love",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204759,
+      "name": "Temple of Love - feat. VV",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "album": {
@@ -15194,7 +15322,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 257532,
       "name": "Without a Whisper",
       "url": "https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9"

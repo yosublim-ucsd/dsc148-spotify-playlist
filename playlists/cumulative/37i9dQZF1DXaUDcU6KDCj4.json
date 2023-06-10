@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Ben Harper",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Noah Kahan",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 239373,
       "name": "All the Money in the World",
       "url": "https://open.spotify.com/track/0UKYgpoFsWNfnOqteI5A8n"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 202800,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178030,
       "name": "Book of Memories",
       "url": "https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs"
@@ -3177,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/11YfmenYf3LmHrHWBsaIhA"
       },
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227680,
       "name": "Chutes & Ladders",
       "url": "https://open.spotify.com/track/4AgbKeOdczajIBLNayi1Gm"
@@ -3697,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Come Onn",
+        "url": "https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204339,
+      "name": "Come Onn",
+      "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
+    },
+    {
+      "album": {
         "name": "Misadventures Of Doomscroller",
         "url": "https://open.spotify.com/album/24FkcvXRLoG17447domdkg"
       },
@@ -3898,7 +3934,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
@@ -4484,6 +4520,24 @@
       "duration_ms": 150568,
       "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis - Spotify Singles",
       "url": "https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx"
+    },
+    {
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
     },
     {
       "album": {
@@ -5636,7 +5690,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
@@ -5864,7 +5918,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 206560,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/2ZPQJPtTvgwTc4A4WxnFTM"
@@ -7014,6 +7068,24 @@
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "album": {
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187742,
+      "name": "God in Everything",
+      "url": "https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse"
     },
     {
       "album": {
@@ -8246,7 +8318,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155262,
       "name": "Holdup",
       "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
@@ -8648,7 +8720,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228760,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ"
@@ -10202,7 +10274,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 257202,
       "name": "Inventing The Wheel",
       "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
@@ -10750,10 +10822,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "album": {
+        "name": "Lake Missoula (feat. Mt. Joy)",
+        "url": "https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204819,
+      "name": "Lake Missoula (feat. Mt. Joy)",
+      "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A"
     },
     {
       "album": {
@@ -12291,6 +12385,28 @@
     },
     {
       "album": {
+        "name": "Marvel Room",
+        "url": "https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv"
+      },
+      "artists": [
+        {
+          "name": "Rob Moose",
+          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184198,
+      "name": "Marvel Room (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0RolGZOTW6ygV5BaZNc3sK"
+    },
+    {
+      "album": {
         "name": "Wide Open Light",
         "url": "https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7"
       },
@@ -12728,6 +12844,24 @@
       "duration_ms": 215582,
       "name": "More of Your Love",
       "url": "https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157051,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/6ekrWBXDwoAlGeKviqSk1O"
     },
     {
       "album": {
@@ -13830,6 +13964,24 @@
       "duration_ms": 201320,
       "name": "Oldest Trick in the Book (feat. Bedouine)",
       "url": "https://open.spotify.com/track/30lNPXNCQywhRCHzhNhed1"
+    },
+    {
+      "album": {
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
     },
     {
       "album": {
@@ -15321,6 +15473,24 @@
     },
     {
       "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"
+    },
+    {
+      "album": {
         "name": "Quiet Moon, Wild Sea",
         "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
       },
@@ -16285,6 +16455,24 @@
     },
     {
       "album": {
+        "name": "Saturn Returning",
+        "url": "https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167016,
+      "name": "Saturn Returning",
+      "url": "https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K"
+    },
+    {
+      "album": {
         "name": "Saul",
         "url": "https://open.spotify.com/album/2DekRmPF2wvwgAHr9MS2e2"
       },
@@ -16564,6 +16752,24 @@
       "duration_ms": 186946,
       "name": "She's In L.A.",
       "url": "https://open.spotify.com/track/77V65eSkAs5k7JxfryGve2"
+    },
+    {
+      "album": {
+        "name": "Sheep Song",
+        "url": "https://open.spotify.com/album/0ETbfyLtecs5wGYVpGdo77"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Sheep Song",
+      "url": "https://open.spotify.com/track/12c743o30lNiAysRaNu29y"
     },
     {
       "album": {
@@ -17734,6 +17940,24 @@
       "duration_ms": 194475,
       "name": "Strong Swimmer",
       "url": "https://open.spotify.com/track/1B7pQD64u7zqQzhz6iHf1b"
+    },
+    {
+      "album": {
+        "name": "Stuck In A Room",
+        "url": "https://open.spotify.com/album/1Hus5kgGEybS8diRKiKWVb"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131013,
+      "name": "Stuck In A Room",
+      "url": "https://open.spotify.com/track/7qK6GYLSuy28Vz0wPZzVCB"
     },
     {
       "album": {
@@ -19342,7 +19566,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 316565,
       "name": "The Nighthawks Are Out",
       "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
@@ -19436,6 +19660,24 @@
       "duration_ms": 198416,
       "name": "The Redwing",
       "url": "https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU"
+    },
+    {
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "album": {
@@ -20077,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/7aHwTEU8eEbVHZa2gJQArj"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Til the Day I Die",
+      "url": "https://open.spotify.com/track/4DWerKpi6EkGiCBo1M7O6w"
+    },
+    {
+      "album": {
         "name": "Till the Flame Turns Blue",
         "url": "https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM"
       },
@@ -20088,7 +20348,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
@@ -22428,7 +22688,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 257669,
       "name": "Yard Sale",
       "url": "https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw"

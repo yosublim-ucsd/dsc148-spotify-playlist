@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music. Cover: Jon Batiste",
+  "description": "Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music. Cover: Allison Russell",
   "name": "Our Roots",
   "tracks": [
     {
@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/418UNeVZ41wZKjylFg4c1a"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/6wzVKMYMKthQ3OPzQ050kj"
+    },
+    {
+      "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 241800,
       "name": "Maniacapella",
       "url": "https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8"
+    },
+    {
+      "album": {
+        "name": "Wide Open Light",
+        "url": "https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164873,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB"
     },
     {
       "album": {
@@ -1772,6 +1808,24 @@
       "duration_ms": 218360,
       "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
       "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
+    },
+    {
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "album": {

@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a"
       },
@@ -1400,6 +1422,32 @@
       "duration_ms": 77217,
       "name": "Comecar",
       "url": "https://open.spotify.com/track/3WrHkFPgZ4zHa7eyeLe6Gg"
+    },
+    {
+      "album": {
+        "name": "Coopa",
+        "url": "https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89600,
+      "name": "Coopa",
+      "url": "https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek"
     },
     {
       "album": {
@@ -1910,7 +1958,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 105826,
       "name": "Deadly Vice",
       "url": "https://open.spotify.com/track/54ShqZjnusN1xknI6IycmY"
@@ -3319,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
+    },
+    {
+      "album": {
         "name": "FTP",
         "url": "https://open.spotify.com/album/41WOnjsI2bXuQsrgC8VXHD"
       },
@@ -3769,6 +3835,28 @@
     },
     {
       "album": {
+        "name": "haunt",
+        "url": "https://open.spotify.com/album/10Fl6RaP8e46eoYosibmfe"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105360,
+      "name": "haunt",
+      "url": "https://open.spotify.com/track/0nrnNb3z8ecImknVvpEPcR"
+    },
+    {
+      "album": {
         "name": "Haunted !",
         "url": "https://open.spotify.com/album/3acjd8HQntU7d3KQZEbQAM"
       },
@@ -4058,7 +4146,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137155,
       "name": "HIMARS",
       "url": "https://open.spotify.com/track/5tbD3QOzHSRHRBS4iLFldk"
@@ -4526,7 +4614,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144979,
       "name": "Keraunos",
       "url": "https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa"
@@ -5608,7 +5696,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 101538,
       "name": "Minha Casa",
       "url": "https://open.spotify.com/track/414UGMV0MiSbtzOZQSChcQ"
@@ -6272,7 +6360,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147375,
       "name": "Nosebleed - RAIZHELL Remix",
       "url": "https://open.spotify.com/track/0cMlQk5PcH29Pus92tx2er"
@@ -6414,6 +6502,28 @@
       "duration_ms": 122553,
       "name": "OPEN WOUNDS",
       "url": "https://open.spotify.com/track/7qV0qA9LhALiD6B8VwV6E3"
+    },
+    {
+      "album": {
+        "name": "ORACLE",
+        "url": "https://open.spotify.com/album/7eyfoy3k3n2lr5nw8Bp9QH"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "dnvn",
+          "url": "https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150058,
+      "name": "ORACLE",
+      "url": "https://open.spotify.com/track/7wjlOQUsP6uofLLP7jdw84"
     },
     {
       "album": {
@@ -6606,7 +6716,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 125567,
       "name": "Phantom Ride",
       "url": "https://open.spotify.com/track/4CBNLkJVUwhxz9O71oGJ5K"
@@ -6788,6 +6898,24 @@
       "duration_ms": 82514,
       "name": "PHONKGASKAR",
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
+    },
+    {
+      "album": {
+        "name": "PHONKOMES",
+        "url": "https://open.spotify.com/album/7fEJwyccXxbHX5lB2aG3rL"
+      },
+      "artists": [
+        {
+          "name": "Nothing Playa",
+          "url": "https://open.spotify.com/artist/4BMHSoFcmiFjG6Xc6B2KhG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93777,
+      "name": "PHONKOMES",
+      "url": "https://open.spotify.com/track/4hvUpefFvR9iawfPagRw9v"
     },
     {
       "album": {

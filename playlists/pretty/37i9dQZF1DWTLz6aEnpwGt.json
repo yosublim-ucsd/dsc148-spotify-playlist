@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 40478,
+  "num_followers": 40521,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDY5N2RmZWNiNDllNWRkZDcyNjI1MDNmYzhkN2VjODM2NzQ4NDE1",
+  "snapshot_id": "MCxjODJiOGEzNjhkMTZmYTZiM2JmZDMzMzc2ZDRlYmFjNjNiMDY2MTdi",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
         "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 125760,
       "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
       "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
     },
     {
       "added_at": "2022-08-19 10:45:11",

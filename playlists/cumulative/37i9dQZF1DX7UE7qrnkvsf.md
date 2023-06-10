@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-312 songs - 20 hr 48 min
+317 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-08-11 |  |
 | [Beautiful Moons Ago \- Live](https://open.spotify.com/track/6n1EOsR4Q7yYUHdnHQmWhe) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Testifyin! Live At The Village Vanguard](https://open.spotify.com/album/5XwJJNwHAKOjGPr9vDaGfI) | 6:25 | 2021-12-07 | 2022-04-27 |
+| [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-09 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 |  |
@@ -74,6 +75,7 @@
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-07 |  |
 | [Déjà vu](https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Déjà vu](https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk) | 3:48 | 2022-09-20 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 | 2023-03-04 |
+| [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-09 |  |
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2022-08-11 |  |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-05-10 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 |  |
@@ -96,10 +98,12 @@
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2021-12-07 |  |
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2021-12-07 |  |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-08-11 |  |
+| [Forever and ever](https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Forever and ever](https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8) | 4:19 | 2023-06-09 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 |  |
 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 | 2021-12-07 | 2022-08-18 |
 | [From This Day Until Forever](https://open.spotify.com/track/5iYYQ8CUMSPlaVOHhpB0Kw) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 3:51 | 2021-12-07 | 2022-04-27 |
+| [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-09 |  |
 | [Gloria's Step](https://open.spotify.com/track/70HkX7bVUQaKxUFb0QpkzU) | [Stephen Hall\-Jones](https://open.spotify.com/artist/6QMXa5PNJqncfTThAYNypG) | [Teach Me Tonight](https://open.spotify.com/album/2MAiNHkNj7COLmWTlJzrHv) | 3:35 | 2021-12-07 | 2022-08-18 |
 | [Going Places](https://open.spotify.com/track/79SAAdfxVmgw0mCH45gAir) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Going Places](https://open.spotify.com/album/78b424LoOsgW6dNinudhHL) | 4:18 | 2021-12-07 | 2022-09-30 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/25uz27qVvG2bgaYxnME2Qm) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 4:02 | 2021-12-07 | 2022-10-28 |
@@ -280,6 +284,7 @@
 | [These Empty Streets](https://open.spotify.com/track/65aPk9Q8mmd79kdNF7u4Z4) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [These Empty Streets](https://open.spotify.com/album/2sLHjSapdwQIquH70L6G5Y) | 3:04 | 2021-12-07 | 2022-09-07 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2021-12-07 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
+| [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-09 |  |
 | [Thoughtful Proposal](https://open.spotify.com/track/4upT0MOhQioDcN2eX2fScs) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [I Dream of a Sound](https://open.spotify.com/album/3VZjREftBTuIM3Ks8qiwSq) | 3:14 | 2022-10-06 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-08-11 |  |
 | [Till We Meet Again](https://open.spotify.com/track/1OujsmIAntjhB7vno18rsH) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [My favourite Things](https://open.spotify.com/album/2iL0UKkntzpYl2XtCqk60F) | 4:37 | 2022-08-11 |  |

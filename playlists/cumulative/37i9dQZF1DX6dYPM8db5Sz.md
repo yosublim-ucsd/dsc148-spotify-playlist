@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=teqXkrAlT8aQUdbJL1KbeA">HONEYMOAN</a>
 
-340 songs - 19 hr 48 min
+342 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-01 |  |
 | [Bad For My Health](https://open.spotify.com/track/5b7Fs1ejAcHoD02OyDIqYB) | [SunMan](https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1) | [Bad For My Health](https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw) | 2:57 | 2023-03-02 | 2023-04-22 |
 | [Bait](https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl) | [Chloe Theron](https://open.spotify.com/artist/4gt7EExnJtmS8Ed59AbAHa) | [Bait](https://open.spotify.com/album/2YsmbxnxeMuOAjhF0UKk0E) | 3:48 | 2023-03-02 | 2023-05-06 |
-| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 |  |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 |  |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2022-12-16 |
 | [Be Safe](https://open.spotify.com/track/4ew3JQ22NjwC0zyyzx0tob) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Be Safe](https://open.spotify.com/album/4kziQRgKsbodafWnaShxUM) | 3:25 | 2022-07-21 | 2022-11-25 |
 | [Before The Sun Comes Up](https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P) | [The Charles Géne Suite](https://open.spotify.com/artist/5IY1vGqRklTMkio7Pi33ci), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lerato lichaba](https://open.spotify.com/artist/2kGjcOOtMDyTEK9po6n9l4) | [Suite Nites](https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r) | 6:42 | 2022-07-21 | 2022-11-04 |
@@ -110,7 +110,8 @@
 | [First to Leave](https://open.spotify.com/track/6JYbCsAzIOeY3v7NfFX196) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [First to Leave](https://open.spotify.com/album/4qnGA5yi2g401vBGdlME23) | 4:09 | 2023-05-05 | 2023-05-12 |
 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 | 2023-02-16 | 2023-04-07 |
 | [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-22 | 2022-11-11 |
-| [Forgetful Hands](https://open.spotify.com/track/4gR0s1NfXA0m9yRHGg0aWE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Forgetful Hands](https://open.spotify.com/album/32sA5qWaj7y7s2SigYLIfJ) | 3:57 | 2023-06-01 |  |
+| [Forgetful Hands](https://open.spotify.com/track/2AjFiZSEJLN4a0uo7pWXpe) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Forgetful Hands](https://open.spotify.com/album/7kSVJTf8p13tHD6MxXFyna) | 3:57 | 2023-06-01 |  |
+| [Forgetful Hands](https://open.spotify.com/track/4gR0s1NfXA0m9yRHGg0aWE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Forgetful Hands](https://open.spotify.com/album/32sA5qWaj7y7s2SigYLIfJ) | 3:57 | 2023-06-01 | 2023-06-10 |
 | [Friends Once More / Outro](https://open.spotify.com/track/2bRQOhXThjQ3CiCHzloECX) | [Pat McKeown](https://open.spotify.com/artist/4CiBxATRLg1i9QyAQsLIcH) | [Songs for the Afternoon](https://open.spotify.com/album/2XckmmWD1kg8auQsAJpxzp) | 5:49 | 2023-06-01 |  |
 | [Funeral for the World](https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Funeral for the World](https://open.spotify.com/album/6WyntCOurB6GZLIRdEQPye) | 2:47 | 2023-02-23 | 2023-04-22 |
 | [Gaslight \(Caught Fire\)](https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Gaslight \(Caught Fire\)](https://open.spotify.com/album/1n2H1RFsKWsALRmyz1tewi) | 2:57 | 2022-07-28 | 2022-12-02 |
@@ -157,7 +158,7 @@
 | [In My Dreams](https://open.spotify.com/track/0DXmLK3tPnsVbwLn35SJui) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [In My Dreams](https://open.spotify.com/album/2bE6cQW9HoGmHSX6MlxCDY) | 3:36 | 2023-04-06 |  |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-23 |  |
 | [Inhale](https://open.spotify.com/track/2PNzm3EQxfSuWaJbvi4UE3) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Inhale](https://open.spotify.com/album/1N3uUWhZcQ7wfa2aa3W1ef) | 2:48 | 2022-08-04 | 2022-10-07 |
-| [It AIn't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-01 |  |
+| [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-01 |  |
 | [it's not me \(it's u\)](https://open.spotify.com/track/4R9pq6DudcNooi09OLvzNt) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 3:40 | 2023-03-02 | 2023-04-15 |
 | [Izibongo Zami](https://open.spotify.com/track/0cBmKjNZdIFdNk7eXvp1bT) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Izibongo Zami](https://open.spotify.com/album/3BMJkZqtOozpJTB2LzKue4) | 3:52 | 2022-07-21 | 2022-11-11 |
 | [Jitterbug](https://open.spotify.com/track/19vOqAbUEc0VGfFsahoTT4) | [Nic Preen](https://open.spotify.com/artist/4LSZlGbwEQvVj7V0f9ngU0) | [Jitterbug](https://open.spotify.com/album/455hS0gKWKpiAVMretDPgy) | 2:43 | 2023-04-14 |  |
@@ -241,7 +242,8 @@
 | [Purgatory](https://open.spotify.com/track/4Rgzp6jJEQDM5xrU3sC1wK) | [The Stinging Rogers](https://open.spotify.com/artist/56w2pRdYGieoXN5aOBpRTr) | [Purgatory](https://open.spotify.com/album/7dEGL4CXQgGihP18k6C1g5) | 3:30 | 2022-09-22 | 2022-10-21 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-04-06 |  |
 | [Queen of Nothing \- Radio Remix](https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [AM/FM](https://open.spotify.com/album/37c3d2zBC43BVUTodE178f) | 3:27 | 2023-03-23 |  |
-| [Rabbit](https://open.spotify.com/track/2YUM2QFAUS7LQTGvfw10wp) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/1k5sG5y99N3xzVzxoJcmVA) | 3:36 | 2023-06-08 |  |
+| [Rabbit](https://open.spotify.com/track/2YUM2QFAUS7LQTGvfw10wp) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/1k5sG5y99N3xzVzxoJcmVA) | 3:36 | 2023-06-08 | 2023-06-10 |
+| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-08 |  |
 | [Raise Me Up](https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Raise Me Up](https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp) | 3:01 | 2023-01-12 | 2023-03-25 |
 | [Raven's Nest](https://open.spotify.com/track/6lYBx2xoLtFDDBsDjmbf64) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Raven's Nest](https://open.spotify.com/album/2w17nBHfQsOySWxJYBjsed) | 3:21 | 2023-02-16 | 2023-03-25 |
 | [Rhinestone River](https://open.spotify.com/track/7mxcH6Ab9gnVjcVMPEeghZ) | [Amy Lilley](https://open.spotify.com/artist/0HmHTFgk53AKaQwLM3eZi4) | [Petrichor](https://open.spotify.com/album/2lY7kj1yqaqThxVc0ohgcT) | 3:11 | 2022-09-09 | 2022-12-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,455 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,530 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 34 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 |
 | 35 | [Dwell in Your House](https://open.spotify.com/track/37bn3FT2zwGxXXTG0FHsse) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Dwell in Your House](https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7) | 4:38 |
 | 36 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 |
-| 37 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
-| 38 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 |
+| 37 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 |
+| 38 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 39 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
 | 40 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 |
 | 41 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 68 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 |
 | 69 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
 | 70 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
-| 71 | [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 |
-| 72 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
+| 71 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
+| 72 | [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 |
 | 73 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 | 74 | [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 |
 | 75 | [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
 | 80 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 |
 
-Snapshot ID: `MCw5YmZhMGQyMmU2NzIzZThiYTJkNDkzZTc5MzU0N2Q0ZjQ1MmIzMDBm`
+Snapshot ID: `MCwzODZhMjdiNDhhMDc4Y2Y4YzI5ZmZhMmRkYzAwYTU1YTA5MGE2ZWUz`

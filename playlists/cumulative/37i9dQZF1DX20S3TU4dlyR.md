@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX20S3TU4dlyR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX20S3TU4dlyR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20S3TU4dlyR)
 
-### [Reggae Al Sur](https://open.spotify.com/playlist/37i9dQZF1DX20S3TU4dlyR)
+### [Reggae al Sur](https://open.spotify.com/playlist/37i9dQZF1DX20S3TU4dlyR)
 
-> Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
+> Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-212 songs - 14 hr 5 min
+213 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Irie](https://open.spotify.com/track/4zae6vj14sRuX58xFFIfLC) | [Koyobo Chant](https://open.spotify.com/artist/6oaylnj8VOq3PKSPUcbqbP) | [Irie](https://open.spotify.com/album/5SUSMzP6qMDoJR3pDWdzAR) | 4:16 | 2022-07-01 | 2022-07-24 |
 | [Jamaica Reggae \(En Vivo\)](https://open.spotify.com/track/6D3MOX8hJfilSYUpLzvCBg) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 3:55 | 2022-05-06 | 2022-07-29 |
 | [Kingston Town](https://open.spotify.com/track/1GZSTnbajPTV2m4KJMusQM) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Winston Francis](https://open.spotify.com/artist/69jzR5ruwfoZOnevlFf4DW) | [Kingston Town](https://open.spotify.com/album/4opQuQWOkTHymO6gsIhAHN) | 3:55 | 2022-05-06 | 2022-07-18 |
+| [Km 0](https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Km 0](https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf) | 2:46 | 2023-06-09 |  |
 | [La Alegría Manda](https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Stuartinfk](https://open.spotify.com/artist/73vQG2QcCRTld4tt9cQMpk) | [Nonpalidece](https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm) | 3:39 | 2022-05-06 | 2022-11-13 |
 | [La Chica](https://open.spotify.com/track/3DasnHSRVxAfvFaoUiHkz9) | [Dulce Mota](https://open.spotify.com/artist/46Ibposvk33Xfq83yJqpst) | [La Chica](https://open.spotify.com/album/2JWPyLW391bkYKxGZBvWpt) | 3:20 | 2022-05-06 | 2022-07-09 |
 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 | 2022-05-06 | 2022-11-12 |
@@ -111,7 +112,7 @@
 | [Laberintos](https://open.spotify.com/track/0nIMtjFwqqhJxk0cDljxHG) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4NzGzDvqUWJPkgzEqCGpnb) | 4:15 | 2022-05-06 | 2022-07-29 |
 | [Laberintos](https://open.spotify.com/track/6Ffn7NUO5bwZzrsseemgoR) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb) | 4:15 | 2022-07-01 |  |
 | [Let it Be](https://open.spotify.com/track/1sd0Y0rWsV3Y7RH0UnoZ5M) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Francistyle](https://open.spotify.com/artist/6H4AFNKueMsQx7ifVdo48z) | [Let it Be](https://open.spotify.com/album/502c2vbyXTzFFzIa4QSccC) | 3:32 | 2023-04-20 |  |
-| [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 | 2022-05-06 |  |
+| [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 | 2022-05-06 | 2023-06-10 |
 | [Life Is so Beautiful](https://open.spotify.com/track/6fELqQfQV8MGig8t9UmP0Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:39 | 2022-05-06 | 2022-07-27 |
 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 | 2022-05-06 |  |
 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 | 2022-05-06 |  |

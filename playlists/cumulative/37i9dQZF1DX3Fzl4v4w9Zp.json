@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Kevin Morby",
+  "description": "Keep your finger on the pulse of Americana. Cover: Colby Acuff ",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219391,
       "name": "Denial",
       "url": "https://open.spotify.com/track/7MQp9woZdjakP8lCby1Upc"
@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187742,
+      "name": "God in Everything",
+      "url": "https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse"
+    },
+    {
+      "album": {
         "name": "Unicorn",
         "url": "https://open.spotify.com/album/3tb5q9GynOzJaq0lIy9pvR"
       },
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228760,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ"
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198973,
       "name": "I\u2019m On Your Side",
       "url": "https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL"
@@ -4504,7 +4522,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227346,
       "name": "Low Dog Blues",
       "url": "https://open.spotify.com/track/07Xkk56uB6HfGekcA5N8wn"
@@ -5197,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
+    },
+    {
+      "album": {
         "name": "On The Ranch",
         "url": "https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS"
       },
@@ -5310,6 +5346,24 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "album": {
+        "name": "Western White Pines",
+        "url": "https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245373,
+      "name": "Outlaw in Me",
+      "url": "https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa"
     },
     {
       "album": {
@@ -6162,7 +6216,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 309098,
       "name": "Save the World",
       "url": "https://open.spotify.com/track/6ZSDpQ9SjjH0zvbj6DQtWT"
@@ -7497,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "The Town In Your Heart",
+        "url": "https://open.spotify.com/album/4daQzXnQBcdQ6iJTsr11iX"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233545,
+      "name": "The Town In Your Heart",
+      "url": "https://open.spotify.com/track/4lKn602elYFXHfKVvkEEZY"
+    },
+    {
+      "album": {
         "name": "The Way I Oughta Go",
         "url": "https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7"
       },
@@ -7614,6 +7686,24 @@
       "duration_ms": 189077,
       "name": "Thinkin' On You",
       "url": "https://open.spotify.com/track/2iHIA6MXyGkjP3658mROZw"
+    },
+    {
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "album": {

@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5"
+      },
+      "artists": [
+        {
+          "name": "Nerum",
+          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "Blue Ocean",
+      "url": "https://open.spotify.com/track/60nRJX1Tf1OVBhDkiWSds7"
+    },
+    {
+      "album": {
         "name": "Contemporal I",
         "url": "https://open.spotify.com/album/4Y3Y7ByaZDcjWb04jRiUat"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190909,
       "name": "Cloches d'Arbres",
       "url": "https://open.spotify.com/track/0WT8VyxSXvV9P39lRYE8TE"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 247750,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/1nY1hifiacx4skYuAgVPMd"
@@ -5478,7 +5496,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218884,
       "name": "Haze",
       "url": "https://open.spotify.com/track/4hv0YrKRtGmsDghhkURaNJ"
@@ -6036,7 +6054,7 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175738,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1ve6TCi0O78ypM3pyeXyYy"
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160310,
       "name": "Light The Dark",
       "url": "https://open.spotify.com/track/48mVKq6Z51m0MzfvPASYWZ"
@@ -8448,7 +8466,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201500,
       "name": "Opolnoc\u030ci",
       "url": "https://open.spotify.com/track/5VCjqZftDWL4HCmZTKuQO8"
@@ -9600,7 +9618,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 277555,
       "name": "retrospect",
       "url": "https://open.spotify.com/track/6uuZN0R5GocdsRO9RhB0Pn"
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196291,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1A227JO30dAB3OYMu0hJux"
@@ -10878,7 +10896,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203708,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/6SXJvDRDaChdN07Q5msQKE"
@@ -13374,7 +13392,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213576,
       "name": "With the Moon Behind",
       "url": "https://open.spotify.com/track/3kMB3ipBBWNUODlAEcV7K7"

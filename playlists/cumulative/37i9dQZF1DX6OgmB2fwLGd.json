@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4qSxDZrZjNNpDzNVHhkOQz"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285152,
+      "name": "100 Bars",
+      "url": "https://open.spotify.com/track/0yYYco9yk2nclC82ioryu8"
+    },
+    {
+      "album": {
         "name": "1011 next up (homeless refix)",
         "url": "https://open.spotify.com/album/464Eyxc4WTHtt6Qpakyskc"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 120790,
       "name": "Beat My Face",
       "url": "https://open.spotify.com/track/4l3rYp5GUAwRVhBbSIw5ZH"
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 96048,
       "name": "comehere!",
       "url": "https://open.spotify.com/track/3nA9HTAS0LsatoASXIfMVk"
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177230,
       "name": "external meMories",
       "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 302799,
       "name": "FED UP",
       "url": "https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO"
@@ -4516,6 +4534,36 @@
       "duration_ms": 90070,
       "name": "Floccer",
       "url": "https://open.spotify.com/track/7KOabkruJhAiQ85NUyooQt"
+    },
+    {
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/2qacgpQ0n3auIenJgT5yVA"
+      },
+      "artists": [
+        {
+          "name": "Horse Head",
+          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        },
+        {
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+        },
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Floorboards",
+      "url": "https://open.spotify.com/track/5ozjeOUHnkmrdBqsDzeTkt"
     },
     {
       "album": {
@@ -6205,6 +6253,28 @@
     },
     {
       "album": {
+        "name": "i of the storm",
+        "url": "https://open.spotify.com/album/26BbMv6aZkI5KnF91PA4XA"
+      },
+      "artists": [
+        {
+          "name": "Perry Maysun",
+          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
+        },
+        {
+          "name": "Young Wabo",
+          "url": "https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151101,
+      "name": "i of the storm",
+      "url": "https://open.spotify.com/track/0OktnjMxp7dF3zXfRfdadn"
+    },
+    {
+      "album": {
         "name": "i see london i see france",
         "url": "https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx"
       },
@@ -6548,7 +6618,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 126003,
       "name": "internet",
       "url": "https://open.spotify.com/track/6bESi3HGdhlapCvsG1vhL7"
@@ -7071,6 +7141,28 @@
     },
     {
       "album": {
+        "name": "Kosher Certified",
+        "url": "https://open.spotify.com/album/5votJ1LnPrD68Nei5nISbH"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        },
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144072,
+      "name": "Kosher Certified",
+      "url": "https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L"
+    },
+    {
+      "album": {
         "name": "Deaf 2 Society",
         "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
       },
@@ -7126,6 +7218,28 @@
       "duration_ms": 117263,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/3uEN1krSkx55bI4WljDFRB"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/4pDMivkVPVB3P37c84SaHC"
+      },
+      "artists": [
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/3ALMB72epp4pXoJrd97eKq"
     },
     {
       "album": {
@@ -8272,7 +8386,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 142846,
       "name": "Mr. Hanky",
       "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
@@ -9660,7 +9774,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -10148,7 +10262,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 143376,
       "name": "Reactive",
       "url": "https://open.spotify.com/track/2Dj7TxdeKh70Fux4Yxpnpo"
@@ -10226,6 +10340,28 @@
       "duration_ms": 168421,
       "name": "Reaper (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/0JJYlHPFJ9hCopWxY9nYPI"
+    },
+    {
+      "album": {
+        "name": "REASSURE ME (w/ 9lives)",
+        "url": "https://open.spotify.com/album/6u8o7pMxdxCwupogBFKYZh"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107942,
+      "name": "REASSURE ME (w/ 9lives)",
+      "url": "https://open.spotify.com/track/4V8fW5b68QcBr4CQXv0Z2M"
     },
     {
       "album": {
@@ -10668,6 +10804,28 @@
       "duration_ms": 82142,
       "name": "s3lf",
       "url": "https://open.spotify.com/track/59r61Bp9QribPoN9XizQhx"
+    },
+    {
+      "album": {
+        "name": "Sad & Alone",
+        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165431,
+      "name": "Sad & Alone",
+      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
     },
     {
       "album": {
@@ -12496,7 +12654,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155211,
       "name": "twisted",
       "url": "https://open.spotify.com/track/2eJSp2cHMegpyQpddwnB3o"
@@ -13366,6 +13524,28 @@
       "duration_ms": 80386,
       "name": "You Know?, Pt. 3",
       "url": "https://open.spotify.com/track/4e8v2ZEw8uO7rBeJVbnHWj"
+    },
+    {
+      "album": {
+        "name": "You Need God",
+        "url": "https://open.spotify.com/album/1OuDZVfPIiSuDYfRUEwrFL"
+      },
+      "artists": [
+        {
+          "name": "KEY!",
+          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "You Need God",
+      "url": "https://open.spotify.com/track/31L3KmjeHA8lMBvF0lLrv4"
     },
     {
       "album": {

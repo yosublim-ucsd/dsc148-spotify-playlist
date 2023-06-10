@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-550 songs - 16 hr 27 min
+551 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,8 +156,9 @@
 | [Evenings](https://open.spotify.com/track/2VFuBU3z399QXQoasOm4A9) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [My Miracle](https://open.spotify.com/album/4P8Vjiw4ct2leNS4xGkkXs) | 4:19 | 2022-02-10 |  |
 | [Everything Is Still](https://open.spotify.com/track/77rHMslVobj2YcBct5x3Af) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Bedtime Songs](https://open.spotify.com/album/6SuPONFKD4y5EICBPmerkN) | 1:08 | 2023-05-12 |  |
 | [Everytime I sleep](https://open.spotify.com/track/0L0RDiDft9D5IRLzxTuGRh) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [Everytime I sleep](https://open.spotify.com/album/4clt6pgzIPDseXZpW7Xd4W) | 1:15 | 2022-02-10 |  |
-| [Eyes Closed, Little One](https://open.spotify.com/track/1CyKJNVtJphqdQgFDivIsq) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/7bUXaXNfUE8gHEGk3QJmmA) | 2:01 | 2022-09-22 |  |
+| [Eyes Closed, Little One](https://open.spotify.com/track/1CyKJNVtJphqdQgFDivIsq) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/7bUXaXNfUE8gHEGk3QJmmA) | 2:01 | 2022-09-22 | 2023-06-10 |
 | [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 | 2022-02-10 | 2022-09-27 |
+| [Eyes Closed, Little One](https://open.spotify.com/track/6oCxpwHu5lzJiNAb0nALyG) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/5kYV3jYYitVQl2fIdcEo1B) | 2:01 | 2023-06-08 |  |
 | [È ora di andare a dormire](https://open.spotify.com/track/0mGk1SJsQcAw4Vr3YPQ63Y) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [È ora di andare a dormire](https://open.spotify.com/album/7tTXoQwrhoG7laIxSwIJBs) | 1:58 | 2022-02-10 |  |
 | [Fairy Dance](https://open.spotify.com/track/2iaSlKG9lGnAVbQhbB9gvb) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Fairy Dance](https://open.spotify.com/album/5bauyytuWIFbikiT6tnaGk) | 1:40 | 2023-03-17 |  |
 | [Fairytales](https://open.spotify.com/track/2DRsY2aiP3PQcyZwQk5ydf) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Bedtime Melodies](https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3) | 2:14 | 2023-05-12 |  |

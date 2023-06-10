@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "A Piece of Ground - Stereo Version",
+      "url": "https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ"
+    },
+    {
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
       },
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185400,
       "name": "Baby Ntsoare",
       "url": "https://open.spotify.com/track/0Z52y4NRv1AbZLs04MCa8o"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 152493,
       "name": "Kwazulu (In the Land of the Zulus)",
       "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167986,
       "name": "Lumumba - Remastered",
       "url": "https://open.spotify.com/track/6UiiS9cw9K2VzlOKsJffba"
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Mbube",
       "url": "https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164386,
       "name": "Suliram",
       "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 475627,
       "name": "Warrior Mbube",
       "url": "https://open.spotify.com/track/6h8EgWXQRKv1zmiD8ZNWWC"

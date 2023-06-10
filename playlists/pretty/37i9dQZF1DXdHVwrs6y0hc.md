@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,520 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,619 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 13 | [The Boys Of Killybegs](https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ) | [Brier](https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM) | [Sick Note](https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT) | 2:32 |
 | 14 | [Wild Mountain Thyme](https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [The Orchard](https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7) | 3:43 |
 | 15 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 |
-| 16 | [Smoke and Strong Whiskey](https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV) | [Turlough](https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R) | [Canyon Moonrise](https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq) | 4:16 |
-| 17 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
+| 16 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
+| 17 | [Smoke and Strong Whiskey](https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV) | [Turlough](https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R) | [Canyon Moonrise](https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq) | 4:16 |
 | 18 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
 | 19 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
 | 20 | [The Ferryman](https://open.spotify.com/track/22UgQjOvNowrKCJ7lgkY1r) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
 | 50 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 
-Snapshot ID: `MCwyODM0MTEwNmFlODhiN2M1MzFlN2FlZDdlN2IzMWFhOTdhZDE0MmQ3`
+Snapshot ID: `MCw4NzhhNGQ2ZmUxOTQ2OGU5NjQ5ODNkMzU4MGNmZDgwOGY3M2Q3OWM5`

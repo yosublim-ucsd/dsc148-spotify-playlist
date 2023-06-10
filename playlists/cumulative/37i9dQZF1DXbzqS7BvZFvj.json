@@ -231,6 +231,36 @@
     },
     {
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288548,
+      "name": "Ain't Too Much To It",
+      "url": "https://open.spotify.com/track/3HN5EZk2zIoZdWxfLLE1E6"
+    },
+    {
+      "album": {
         "name": "Keed Talk To \u2018Em 2",
         "url": "https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1"
       },
@@ -921,7 +951,7 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188014,
+      "duration_ms": 129384,
       "name": "ESTA",
       "url": "https://open.spotify.com/track/2m40vEmojw56p1XPgat2NM"
     },

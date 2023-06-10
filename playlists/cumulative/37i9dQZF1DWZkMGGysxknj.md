@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-265 songs - 15 hr 7 min
+266 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 2:38 | 2021-07-16 |  |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2021-07-16 | 2023-01-28 |
 | [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 | 2021-07-16 |  |
-| [L\-O\-V\-E](https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [L\-O\-V\-E](https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v) | 2:13 | 2021-07-16 |  |
+| [L\-O\-V\-E](https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [L\-O\-V\-E](https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v) | 2:13 | 2021-07-16 | 2023-06-10 |
 | [L.A Coliseum](https://open.spotify.com/track/22bndzPoPVfvHHuE3HM0Iv) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [L.A Coliseum](https://open.spotify.com/album/2Jjv3uvOBVcCauorURNgce) | 4:07 | 2021-07-16 | 2022-07-29 |
 | [La Marelle / Amarelinha](https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj) | [La Marelle / Amarelinha](https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d) | 3:02 | 2021-07-16 | 2022-07-28 |
 | [LA Rain \- Notes from California](https://open.spotify.com/track/7o5pA1QenpUx98kMbK7Uv9) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [LA Rain \(Notes from California\)](https://open.spotify.com/album/6sbRmz3v6EA8c1xXqV3Dh2) | 3:57 | 2021-07-16 | 2022-07-22 |
@@ -179,6 +179,7 @@
 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 | 2021-07-16 |  |
 | [Paper Thin](https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 4:58 | 2021-07-16 | 2022-07-29 |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-28 |  |
+| [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 |  |
 | [People Wither](https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Warping Youth](https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN) | 5:11 | 2021-07-16 |  |
 | [Perfect](https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Perfect](https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3) | 4:41 | 2021-07-16 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2021-07-16 | 2023-04-13 |

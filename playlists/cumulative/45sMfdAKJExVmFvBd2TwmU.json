@@ -871,6 +871,36 @@
     },
     {
       "album": {
+        "name": "Hasi Ban Gaye",
+        "url": "https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh"
+      },
+      "artists": [
+        {
+          "name": "Ami Mishra",
+          "url": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165499,
+      "name": "Hasi Ban Gaye",
+      "url": "https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5"
+    },
+    {
+      "album": {
         "name": "Hawayein (From \"Jab Harry Met Sejal\")",
         "url": "https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF"
       },

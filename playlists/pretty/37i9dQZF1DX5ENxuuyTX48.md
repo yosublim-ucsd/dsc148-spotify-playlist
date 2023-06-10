@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: shazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,815 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,840 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 29 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
 | 30 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
 | 31 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
-| 32 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
-| 33 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
+| 32 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
+| 33 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
 | 34 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
 | 35 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
 | 36 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
 | 37 | [Buru\-Buru](https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 3:42 |
 | 38 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
-| 39 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
+| 39 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 40 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 |
-| 41 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 42 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
-| 43 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 |
+| 41 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
+| 42 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 |
+| 43 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
 | 44 | [Kubahagia](https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 2:59 |
 | 45 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
-| 46 | [Bulan Yang Baik](https://open.spotify.com/track/5IgZ9Y4B9Dsi3VtIJSB75e) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Bulan Yang Baik](https://open.spotify.com/album/7E0mCwP1eQ0zIfmz7MWlWj) | 4:25 |
+| 46 | [Besok kita pergi makan](https://open.spotify.com/track/0xnzQ3Ek5X5r2pcbwIEQdc) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Besok kita pergi makan](https://open.spotify.com/album/0lXbxiqlyd0Wd6J5fGgLsy) | 3:26 |
 | 47 | [Langit Favoritku](https://open.spotify.com/track/22erAHtusIHAIuIMhHMKhR) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Langit Favoritku](https://open.spotify.com/album/4afbOrtCfY6DZRe9Mrbmz7) | 3:41 |
 | 48 | [Dancing In September](https://open.spotify.com/track/3PExB0N7a56JkDdFGZ6PV8) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Dancing In September](https://open.spotify.com/album/5wOgkWFVu8su1tW6135VQ5) | 4:10 |
 | 49 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
 | 50 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 
-Snapshot ID: `MCxkNjQzMTVmNmY5MTllOWVlYjQzNTgzYmNhNWNkOWIzYTE4MDVjMGZm`
+Snapshot ID: `MCw2ZTk1MzExYTAxNmM4NDU3NzgzZmFmYzZhZTM0MjFiZGE5MjA4NjRk`

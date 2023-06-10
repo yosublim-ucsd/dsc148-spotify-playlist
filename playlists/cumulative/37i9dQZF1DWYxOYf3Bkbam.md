@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-156 songs - 8 hr 8 min
+157 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 | 2021-11-19 | 2023-04-29 |
 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 | 2021-11-19 | 2022-12-21 |
 | [Gastando Taco y Suela](https://open.spotify.com/track/1PLxI6MfKHbuGA4F6M0Ph4) | [Azul Carrizo La Dama Del Acordeón](https://open.spotify.com/artist/2DeJ9SnWMsoaImaAeXjmqt), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Gastando Taco y Suela](https://open.spotify.com/album/2QCMPsSHLHeK2NkgsWmuXO) | 2:58 | 2021-11-19 | 2022-07-29 |
-| [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 | 2021-11-19 |  |
+| [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 | 2021-11-19 | 2023-06-10 |
 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 | 2021-11-19 |  |
 | [Guainita Posadeña](https://open.spotify.com/track/6rplTcstMbtUp4iRxOGgvT) | [Blasito Martínez Riera](https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f), [Los Hermanos Galarza](https://open.spotify.com/artist/26gtKLyvl6iWJHGrIvOdLc) | [El Salón De La Fama Del Chamamé](https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ) | 3:26 | 2021-11-19 | 2022-07-22 |
 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 | 2021-11-19 | 2023-05-07 |
@@ -155,6 +155,7 @@
 | [Taipero Poriahu](https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 3:09 | 2021-11-19 |  |
 | [Te amare eternamente](https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo) | [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:12 | 2021-11-19 |  |
 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 | 2021-11-19 | 2022-07-18 |
+| [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 | 2023-06-09 |  |
 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 | 2021-11-19 | 2023-04-24 |
 | [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 | 2021-11-19 |  |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 | 2022-07-05 |  |

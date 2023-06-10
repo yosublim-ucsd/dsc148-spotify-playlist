@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "King Fly",
+          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
+    },
+    {
+      "album": {
         "name": "Amor de Luto (Remix)",
         "url": "https://open.spotify.com/album/6eeCVg2glP5TRHuXL9Uo1B"
       },
@@ -7982,7 +8004,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"

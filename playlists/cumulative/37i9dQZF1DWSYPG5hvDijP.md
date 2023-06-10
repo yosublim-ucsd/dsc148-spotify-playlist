@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover\- Munawar Faruqui
 
-113 songs - 6 hr 10 min
+116 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cadillac](https://open.spotify.com/track/4xCFv3QBK1dgEaSBdv3oSQ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [G\-Deep](https://open.spotify.com/artist/04TBxwAscXweXCGgYdQ3zE) | [Storm Shadow](https://open.spotify.com/album/2t7PoBOHJGERxRqaqBpX9B) | 3:29 | 2023-03-29 | 2023-04-17 |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
+| [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 |  |
 | [COLORS](https://open.spotify.com/track/6iWuzQWaaccsdX5veQZxxt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 2:09 | 2023-04-28 | 2023-06-02 |
 | [COMING UP](https://open.spotify.com/track/5Slg73y7Ul41nQ4rY9QHlg) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [RAP GODDESS](https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1) | 2:57 | 2023-05-12 | 2023-06-02 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 |  |
@@ -58,6 +59,7 @@
 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-03-31 |  |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-29 |  |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-29 | 2023-04-17 |
+| [Gully Ka Sher](https://open.spotify.com/track/6mvCUCswLeGI86YviMtCCb) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gully Ka Sher](https://open.spotify.com/album/2FxoC4BBFOIYF3BetK17RG) | 3:12 | 2023-06-09 |  |
 | [Haath Varthi](https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Haath Varthi](https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg) | 2:29 | 2023-05-12 |  |
 | [Haraami 2](https://open.spotify.com/track/0FHT6mYzdrpnxbCtmw7m6I) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [DJ Lush](https://open.spotify.com/artist/7wF3w9xFKpJ4XoH3b52tH8), [Shubhankar Vaid](https://open.spotify.com/artist/29FZEz6utEPA25HVivPc5m), [Adi B](https://open.spotify.com/artist/410U8b20tmqVwS2T3g9gwU), [Ajay Rana](https://open.spotify.com/artist/6PSoBYTcsGfMnOg7RypdgG) | [Haraami 2](https://open.spotify.com/album/148IdeaVWQTqsk6jXhzGXi) | 3:51 | 2023-04-28 |  |
 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 | 2023-04-16 |  |
@@ -74,6 +76,7 @@
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 |  |
 | [King Of The Streets \- Intro](https://open.spotify.com/track/22Qz9UKeAAtGNPaMAbqT4P) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets \(Intro\)](https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5) | 2:00 | 2023-03-29 | 2023-04-17 |
+| [KOTS \- Freestyle](https://open.spotify.com/track/0rcb8gZqXRBSXzQfylEjCS) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:02 | 2023-06-09 |  |
 | [KULFA\-KAR\-MA](https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [KULFA\-KAR\-MA](https://open.spotify.com/album/0f53UzOwYgA5YC7KkoEJ7D) | 4:00 | 2023-04-28 |  |
 | [Lady Gaga](https://open.spotify.com/track/2zKVb9TTkIwBQy6c6AkWq9) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [Lady Gaga](https://open.spotify.com/album/5dCAd6jFbGF3KtBKpBHvSO) | 3:00 | 2023-04-16 | 2023-04-25 |
 | [Let It Go](https://open.spotify.com/track/6C0sGwIpz331wTNFXfu4pe) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Let It Go](https://open.spotify.com/album/3gPJ57t1vPx8Gg2CvK3UFJ) | 2:22 | 2023-04-28 |  |

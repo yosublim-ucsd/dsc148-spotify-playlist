@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: WurtS
 
-480 songs - 1 day 6 hr 17 min
+482 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 |  |
 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2023-04-07 |
+| [calcium](https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH) | 3:35 | 2023-06-08 |  |
 | [canary](https://open.spotify.com/track/4EbHLjQSDR3zBUl8f5ZUpK) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [canary](https://open.spotify.com/album/5ij14ELuI2F4sB1IqWRTeW) | 4:45 | 2023-04-04 | 2023-04-26 |
 | [Cantabile](https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Cantabile](https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F) | 3:46 | 2023-04-11 |  |
 | [Clockwise](https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Clockwise](https://open.spotify.com/album/3ZYJ3qfsls9eOCR2WcoAPF) | 3:26 | 2023-05-11 |  |
@@ -74,7 +75,8 @@
 | [Flowers](https://open.spotify.com/track/4qYIs02Uvh9qF82hXqlp0q) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Flowers](https://open.spotify.com/album/1Pj3yg2zcUPt6H5v66K8Jm) | 4:04 | 2023-01-13 | 2023-01-18 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 |  |
 | [FORCE LIGHT](https://open.spotify.com/track/3xpFEhZ5Jn10g8cZa3oqYJ) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [逆光備忘録](https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8) | 3:49 | 2023-05-09 |  |
-| [FRESH](https://open.spotify.com/track/03y9cmDvorte1vYP5PYkzM) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/7pEhMISZ0qA1CZWkrcGxYM) | 3:41 | 2023-06-08 |  |
+| [FRESH](https://open.spotify.com/track/03y9cmDvorte1vYP5PYkzM) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/7pEhMISZ0qA1CZWkrcGxYM) | 3:41 | 2023-06-08 | 2023-06-10 |
+| [FRESH](https://open.spotify.com/track/2fo7LTsIyhYkhpLC7KStNg) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 3:41 | 2023-06-08 |  |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-03-29 |
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2023-01-13 | 2023-02-10 |
 | [FUSION](https://open.spotify.com/track/5Am9Kz8iYJH7xmcRnApAuE) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 3:44 | 2023-01-13 | 2023-01-18 |
@@ -410,7 +412,7 @@
 | [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 | 2023-06-02 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 | 2023-06-07 |
 | [幸せの果てに](https://open.spotify.com/track/3nOSBHApPJXJeLWLuLamQh) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [幸せの果てに](https://open.spotify.com/album/4rYOedvAE0DQaTgl8hSuyI) | 2:59 | 2023-01-24 | 2023-02-22 |
-| [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 | 2023-06-06 |  |
+| [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 | 2023-06-06 | 2023-06-10 |
 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 | 2023-06-06 |  |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-01-13 | 2023-01-20 |

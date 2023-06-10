@@ -6767,6 +6767,24 @@
     },
     {
       "album": {
+        "name": "i'm gonna make it",
+        "url": "https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197068,
+      "name": "i'm gonna make it",
+      "url": "https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -8335,6 +8353,28 @@
     },
     {
       "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/27VAEEobniUQcVmXr07hsO"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237218,
+      "name": "Loverboy - Edit",
+      "url": "https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY"
+    },
+    {
+      "album": {
         "name": "Lovers in a Dangerous Time",
         "url": "https://open.spotify.com/album/7FP0qv5ekpPzDJQqvreVBR"
       },
@@ -8848,6 +8888,24 @@
       "duration_ms": 150001,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+    },
+    {
+      "album": {
+        "name": "Mistaken",
+        "url": "https://open.spotify.com/album/7z0iJ4V7BpiReJTnwdJyHr"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/4ZyRYtZMC8poztvj0KpgFK"
     },
     {
       "album": {
@@ -10704,6 +10762,24 @@
       "duration_ms": 210375,
       "name": "Queer",
       "url": "https://open.spotify.com/track/6nmuvquxXkrkBucbxpQ8Wo"
+    },
+    {
+      "album": {
+        "name": "Queer Lover",
+        "url": "https://open.spotify.com/album/4KbPQ0i9FhiCQj8LoVRQDj"
+      },
+      "artists": [
+        {
+          "name": "LIN",
+          "url": "https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Queer Lover",
+      "url": "https://open.spotify.com/track/3qMzLvNE4c6eLCjimguK3Y"
     },
     {
       "album": {

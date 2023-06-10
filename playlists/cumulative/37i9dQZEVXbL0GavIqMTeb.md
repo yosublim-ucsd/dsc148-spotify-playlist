@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-648 songs - 1 day 12 hr 53 min
+649 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-04 | 2021-07-31 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2022-02-25 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-20 |  |
+| [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-06-09 |  |
 | [Amor de Luto \- Remix](https://open.spotify.com/track/2soJD3UB4rSm7GLFiOnOf8) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Amor de Luto \(Remix\)](https://open.spotify.com/album/6eeCVg2glP5TRHuXL9Uo1B) | 5:05 | 2022-12-16 | 2022-12-20 |
 | [Ando](https://open.spotify.com/track/7GXTxO3A5c5NfblodP5FuG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Ando](https://open.spotify.com/album/3zlobv78HYPcEBY1nyxy89) | 2:30 | 2022-03-08 | 2022-07-17 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-07 | 2022-07-31 |
@@ -373,7 +374,7 @@
 | [Mi Gata](https://open.spotify.com/track/0Z46SPLJZUC2aKDAggsMvr) | [Standly / El Barto](https://open.spotify.com/artist/5qLs2jxwhB5HrAKSCYYkZZ) | [Mi Gata](https://open.spotify.com/album/1kLNKbt06XNjaELUhtKhab) | 3:22 | 2021-12-04 | 2021-12-26 |
 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 | 2021-03-27\* | 2021-06-16 |
 | [Mi Waxita](https://open.spotify.com/track/6phCM48H3WCQfy7MCYwy0A) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Izahn](https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk) | [Mi Waxita](https://open.spotify.com/album/1gyID6zOQdrbHWZRibFbG7) | 3:38 | 2021-12-27 | 2022-03-24 |
-| [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-25 |  |
+| [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-25 | 2023-06-10 |
 | [Millonarios Juntos](https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Millonarios Juntos](https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU) | 3:02 | 2023-05-13 |  |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-12 | 2023-02-19 |
 | [Minimo Esfuerzo \(feat\. Duki\)](https://open.spotify.com/track/4VOTF9Cnw0paixB9X0KUMh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:11 | 2023-03-30 | 2023-04-09 |

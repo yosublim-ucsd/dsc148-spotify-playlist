@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,788 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,239 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 56 | [She Knows](https://open.spotify.com/track/3NAhBt61RKlHP5TR4W5wj4) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [She Knows](https://open.spotify.com/album/3Wu1VndATqR1SyZlsXV0WS) | 1:45 |
 | 57 | [5min](https://open.spotify.com/track/4iYhkApfT5dTmYPQ6sT8K2) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ) | [5min](https://open.spotify.com/album/7s84VzAQm7w1tk479x2Qn2) | 2:53 |
 | 58 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 |
-| 59 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
+| 59 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
 | 60 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 |
 | 61 | [HOODIE](https://open.spotify.com/track/6sk1aE3qhb9y13TjOJgzuS) | [AMIR THE KID](https://open.spotify.com/artist/0uA9p2gKEXB9LHE0JGxHV2) | [HOODIE](https://open.spotify.com/album/0Ot6YEKUMWgPAuUFfXbal5) | 2:12 |
 | 62 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 |
 | 100 | [OFFLINE](https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [OFFLINE](https://open.spotify.com/album/0DQBs1u62ihgJjlsISodTb) | 2:18 |
 
-Snapshot ID: `MCxjOTFjZDZkNGNjMmUzNzQ0MjQyNWEzMGJmM2U5MTYyYjQ3M2Y3N2E3`
+Snapshot ID: `MCxlM2M3NTE4Y2I3Y2U0NTVhMDdmMWFkZGY1NTJmOWMxYjg0NTUzYjgz`

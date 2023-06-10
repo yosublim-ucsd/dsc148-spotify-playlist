@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/29lk5i3YQWTxNh9AANUPrL"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196499,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/7xkADeHElLMNmQ4yyo6O0S"
+    },
+    {
+      "album": {
         "name": "Clarinet Concerto in A Major, K. 622/II. Adagio",
         "url": "https://open.spotify.com/album/68VoCUnYwGfSk5U60Jf7cF"
       },
@@ -965,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Ker al Loch (Four Ways)",
+        "url": "https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359893,
+      "name": "Ker al Loch - Solo Piano",
+      "url": "https://open.spotify.com/track/3wS3AQejgbN67aLHiODBiM"
+    },
+    {
+      "album": {
         "name": "Stravinsky: Le sacre du printemps / Pt. 2: Le sacrifice: XIV. Danse sacrale: L'\u00c9lue",
         "url": "https://open.spotify.com/album/6sQUIVQxAxMQvliDgseLcQ"
       },
@@ -1172,6 +1208,24 @@
       "duration_ms": 243333,
       "name": "Nocturne in C-Sharp Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/5SNE9Fx3Xd5FDaHUFmorI7"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "Nokt\u00farna",
+      "url": "https://open.spotify.com/track/7DGpgdGHbdv3vty9CddXBQ"
     },
     {
       "album": {
@@ -1587,6 +1641,50 @@
     },
     {
       "album": {
+        "name": "Po\u00e9tiques de l'instant II: Ravel & Mantovani",
+        "url": "https://open.spotify.com/album/4Bh8OAnYx89v0QBr47Lazv"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor Voce",
+          "url": "https://open.spotify.com/artist/1waIgKiLjI9W0C2gcKjSPG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490586,
+      "name": "String Quartet in F Major, M. 35: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/2CyYvFLIAnNdzztFHcChpp"
+    },
+    {
+      "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/1gINO8mH8uSF8YDCTXtsrX"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pablo Sainz Villegas",
+          "url": "https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337840,
+      "name": "Suite bergamasque, L. 75: No. 3, Clair de Lune (Arr. for Guitar by Eduardo S\u00e1inz de la Maza)",
+      "url": "https://open.spotify.com/track/27Y0yJ0KaBjhFpkQjBpEo7"
+    },
+    {
+      "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
@@ -1840,6 +1938,36 @@
       "duration_ms": 274666,
       "name": "The Seal Lullaby",
       "url": "https://open.spotify.com/track/29b5TcQl92h4S0qcV33ZaU"
+    },
+    {
+      "album": {
+        "name": "Tikkun Olam (Repair the World) [Instrumental]",
+        "url": "https://open.spotify.com/album/6QNg4kHS1zs58ukDfbJrXE"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Krysztof Winieswski",
+          "url": "https://open.spotify.com/artist/7GpOMQTR4MB7BHnb53t1CR"
+        },
+        {
+          "name": "Valentino Worlitzsch",
+          "url": "https://open.spotify.com/artist/2NWi9mHR8Fd8rLe1StqONJ"
+        },
+        {
+          "name": "World Orchestra For Peace",
+          "url": "https://open.spotify.com/artist/0b4AeSGTxYbEhum1ig6lEJ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "Tikkun Olam (Repair the World) - Instrumental",
+      "url": "https://open.spotify.com/track/6MZBRbbAWv1OMo33Y7aqhN"
     },
     {
       "album": {
@@ -2286,6 +2414,28 @@
       "duration_ms": 218200,
       "name": "WTC 9/11: I. 9/11/01",
       "url": "https://open.spotify.com/track/0mIMV6fYaS5kqXAqaOICPb"
+    },
+    {
+      "album": {
+        "name": "C.P.E. Bach: W\u00fcrttemberg Sonatas / Sonata No. 3 in E Minor, H. 33: I. Allegro",
+        "url": "https://open.spotify.com/album/0RKflaotF1cIJewQc9gM3u"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361813,
+      "name": "W\u00fcrttemberg Sonatas / Sonata No. 3 in E Minor, H. 33: I. Allegro",
+      "url": "https://open.spotify.com/track/26x7jjMJoZIljbxPNR053C"
     },
     {
       "album": {

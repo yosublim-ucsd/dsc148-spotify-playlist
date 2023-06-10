@@ -742,10 +742,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227120,
       "name": "El Gordo",
       "url": "https://open.spotify.com/track/3nhzGsXUP6EHQDKjQfBzhU"
+    },
+    {
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/73BzCLoktGr7WNKRCMc8VK"
     },
     {
       "album": {

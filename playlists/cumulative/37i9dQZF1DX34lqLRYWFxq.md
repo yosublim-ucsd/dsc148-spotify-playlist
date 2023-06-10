@@ -2,13 +2,13 @@
 
 ### [Ready to Rock](https://open.spotify.com/playlist/37i9dQZF1DX34lqLRYWFxq)
 
-> New adventures in rock start here\. Cover: MICO
+> New adventures in rock start here\. Cover: The Glorious Sons
 
-301 songs - 16 hr 32 min
+309 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18](https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [18](https://open.spotify.com/album/6dt6PxFPlzfytvTJqYGXUv) | 2:46 | 2023-04-28 |  |
+| [18](https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [18](https://open.spotify.com/album/6dt6PxFPlzfytvTJqYGXUv) | 2:46 | 2023-04-28 | 2023-06-10 |
 | [2 Cups](https://open.spotify.com/track/6wm8PSkehuHYylR64rw1Gy) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [2 Cups](https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC) | 3:03 | 2023-03-17 | 2023-05-20 |
 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 | 2023-03-24 | 2023-05-13 |
 | [A Beautiful Darkness](https://open.spotify.com/track/06Z65ytAIPcSdlU8lgZyEO) | [Sultans Of String](https://open.spotify.com/artist/6GUPR8j10gupeAmKJYgP3I), [Nadjiwan](https://open.spotify.com/artist/6Awd9zbhqyJqAwjDSOlAko) | [A Beautiful Darkness](https://open.spotify.com/album/5uSc9KcRIB0rnx2a81hZcY) | 3:36 | 2023-03-03 | 2023-04-22 |
@@ -130,12 +130,14 @@
 | [Hold Your Horses](https://open.spotify.com/track/1SCT947KxLuD2NAnJWDnHE) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Hold Your Horses](https://open.spotify.com/album/13nvSgEsjQq0DQ41zrBPWE) | 2:49 | 2023-04-21 | 2023-05-20 |
 | [Hollywood Ending](https://open.spotify.com/track/12YUVwIZP9ymCIka2EETxj) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [Hollywood Ending](https://open.spotify.com/album/7AkgeWkZDxLKYrt3FSb4J9) | 2:47 | 2023-04-14 |  |
 | [Home](https://open.spotify.com/track/4OwToWXzwBlOX2i015SKRQ) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Home](https://open.spotify.com/album/5MvScV58d1usJ112nvYLFQ) | 3:06 | 2023-04-28 |  |
+| [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen / Kill Something](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-09 |  |
 | [I Dream Of You](https://open.spotify.com/track/1mvpuH8Z0DMYUQXBSGaWEW) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [I Dream Of You](https://open.spotify.com/album/2mkI3oYfKCwZQqXxKhe8Kx) | 3:57 | 2023-05-19 |  |
 | [Impersonal Hell](https://open.spotify.com/track/3J0amB6CUi5zTI1eO2HEGm) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [Impersonal Hell](https://open.spotify.com/album/5k2V9SlGuOZiOXdJnTVvtr) | 4:08 | 2023-03-24 |  |
 | [Inquisitor](https://open.spotify.com/track/2TndRA6UZPQc5vItqSvJqB) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Roy](https://open.spotify.com/album/5XdrMtjSQhbpiUl6ApvdvD) | 2:48 | 2023-04-28 |  |
 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 | 2023-04-28 |  |
 | [Inuuqatigi&arukki](https://open.spotify.com/track/3jevmCBHbBc2fbFzVMbW4G) | [Terry Uyarak](https://open.spotify.com/artist/3KEdNe4qRXyOjwxjnxkIkh) | [Inuuqatigi&arukki](https://open.spotify.com/album/1iIuAoUxRl6Q350wuCBNJU) | 4:03 | 2023-04-21 |  |
 | [Ipsissimus](https://open.spotify.com/track/5sk4GmZOneAuI46usKcbO2) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [Ipsissimus](https://open.spotify.com/album/79ZV0rIMGK4px8Mj1AXW6J) | 3:11 | 2023-04-14 | 2023-04-29 |
+| [It Is What It Is](https://open.spotify.com/track/4KHXKEpgVYlc879c3l7Lc8) | [Doghouse Rose](https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa) | [It Is What It Is](https://open.spotify.com/album/0thVe9pmX6KuIIUb6IZWoK) | 2:09 | 2023-06-09 |  |
 | [It's a Joke](https://open.spotify.com/track/6QGvM4sG1Hm3nZbNoV42tq) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [It's a Joke](https://open.spotify.com/album/0wi8ZxKcnHoTqBOSypCxRE) | 2:30 | 2023-03-03 | 2023-03-25 |
 | [It's My Year](https://open.spotify.com/track/1gegPAUUeSR2waLQ3YuUT2) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [It's My Year](https://open.spotify.com/album/4DQqqsHmPELRbUZKFHmORv) | 2:55 | 2023-02-10 | 2023-03-11 |
 | [January](https://open.spotify.com/track/3EAOQqsj22CuKtTvmPpKC1) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [January](https://open.spotify.com/album/4ADN9dF6lAY3saVz1hFPWu) | 4:36 | 2023-02-10 | 2023-02-25 |
@@ -174,7 +176,9 @@
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-17 | 2023-05-20 |
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 | 2023-04-15 |
 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 | 2023-02-10 | 2023-03-18 |
+| [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 |  |
 | [Microwave Food](https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Microwave Food](https://open.spotify.com/album/6DJcpUuwjIRMXrrRHLaBa7) | 2:08 | 2023-02-10 | 2023-03-18 |
+| [Milk & Honey](https://open.spotify.com/track/1SJFHy930Kjk7xuDMQbHB9) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo, Act 1](https://open.spotify.com/album/3HXcAoK3kdP0KkKFf4l9vQ) | 3:31 | 2023-06-09 |  |
 | [Mimi's Delivery Service](https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Mimi's Delivery Service](https://open.spotify.com/album/26i93seS4geUVSbjhloq5A) | 2:58 | 2023-03-17 | 2023-04-15 |
 | [Missing You](https://open.spotify.com/track/04fHMEmxrO9LBb1i9ZMigP) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Missing You](https://open.spotify.com/album/3D79TQYaOHTbhR4oPR9mUB) | 2:45 | 2023-02-10 | 2023-04-01 |
 | [Mom Jeans // Mom Genes](https://open.spotify.com/track/5PlEHIem5PW0zACASIyyjV) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Mom Jeans // Mom Genes](https://open.spotify.com/album/5QO9k6o82hBYjaNxdqkoB4) | 3:47 | 2023-03-10 | 2023-04-15 |
@@ -217,6 +221,7 @@
 | [Quitter](https://open.spotify.com/track/3npfbIcnm5abhKJOij4drN) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Quitter](https://open.spotify.com/album/1IKphIpjbnypIId4buiW9y) | 2:27 | 2023-04-14 | 2023-05-20 |
 | [RADIATION](https://open.spotify.com/track/0gYhKvqRSWK0hfBjbAlZCG) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/0gHb2KspaWK9XZx2I9QAIR) | 2:24 | 2023-04-14 | 2023-06-03 |
 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-03-17 | 2023-04-15 |
+| [Rainbows in Gasoline](https://open.spotify.com/track/5D6noDDEoUGX6Pe1Wtneqz) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Heavy Lifting](https://open.spotify.com/album/3MReBaspFGH0BwbFb3yb0w) | 4:23 | 2023-06-09 |  |
 | [Reality Bites](https://open.spotify.com/track/0fxLLGYZcQKkb1rJCh8DrI) | [Mise En Scene](https://open.spotify.com/artist/4r7GGIhQom0s0FVrXcWtrK) | [Reality Bites](https://open.spotify.com/album/3g17ItSCwGOLvQ99LuipH5) | 3:31 | 2023-03-31 | 2023-05-20 |
 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 | 2023-04-21 |  |
 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 | 2023-04-28 |  |
@@ -253,6 +258,7 @@
 | [Sunset Silhouette](https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [Sunset Silhouette](https://open.spotify.com/album/22kW8gKVlgMgihws4Rhj6Y) | 3:48 | 2023-03-03 | 2023-05-06 |
 | [Superstitious](https://open.spotify.com/track/7AzYq6DgwxvCZ5geJV26mZ) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Superstitious](https://open.spotify.com/album/7BUYbTf7xd7YeMcRVrHEGc) | 2:54 | 2023-02-24 | 2023-04-29 |
 | [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 | 2023-05-19 |  |
+| [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 | 2023-06-09 |  |
 | [Tear Me To Pieces](https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Tear Me To Pieces](https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi) | 3:07 | 2023-03-17 | 2023-05-20 |
 | [Temporary Dopamine](https://open.spotify.com/track/4J8Rge65ytAofdJUfUaqiJ) | [Jesse Merineau](https://open.spotify.com/artist/6ZZFdCU3kmBaCtZnHLeHE4) | [Temporary Dopamine](https://open.spotify.com/album/0lDKRECy0dM2E00xHjufiP) | 3:05 | 2023-04-28 |  |
 | [Tender Villain](https://open.spotify.com/track/03sl7CxshsxF4gh4pOB7c1) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Tender Villain](https://open.spotify.com/album/6liVpV2XCjdexlaYMaDmEV) | 2:47 | 2023-02-24 | 2023-04-29 |
@@ -284,6 +290,7 @@
 | [Uncertain Country](https://open.spotify.com/track/6LaxmYfJJxenLrs3Ds5mSm) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/42DTFW4SRLsUU9FmFL7Lis) | 4:11 | 2023-03-31 |  |
 | [Undefeated](https://open.spotify.com/track/7DB6pE9vaginlIr5EswRvF) | [Double Experience](https://open.spotify.com/artist/0xGNws7b5XGjcPiKrM5iSm) | [Undefeated](https://open.spotify.com/album/6NDq2o0OHGBembOOvkQFow) | 3:36 | 2023-02-10 | 2023-04-09 |
 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 | 2023-02-10 | 2023-03-25 |
+| [Vasectomia](https://open.spotify.com/track/3OgX2LraomT3dZzYWMQOs0) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Vasectomia](https://open.spotify.com/album/0T57Qcq4quqh1JnxRW9lcR) | 1:50 | 2023-06-09 |  |
 | [Visions](https://open.spotify.com/track/7w1DSf7k4mo05uFEdQbNJC) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Visions](https://open.spotify.com/album/3LzQ1zHi4k1t49ypJr3OAA) | 3:43 | 2023-03-31 | 2023-05-06 |
 | [Walk](https://open.spotify.com/track/7mwEmtkXvxSOE1nHlrieLK) | [Nick Stone](https://open.spotify.com/artist/0pBRYUUdtYzZ8NXTsLQTKd) | [Walk](https://open.spotify.com/album/2QIONaoD2FNjFMKxf8dN7q) | 4:16 | 2023-04-21 |  |
 | [WAR](https://open.spotify.com/track/6MLuCSgoyA4oPy9ZqSj3nJ) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [WAR / DEMONS](https://open.spotify.com/album/3RWXQTMVLHXJsD2nrkeI5L) | 3:04 | 2023-04-28 |  |
@@ -301,6 +308,7 @@
 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 | 2023-02-10 | 2023-03-04 |
 | [When You Stop](https://open.spotify.com/track/4lu7jm5pq8H9kOYrJkXR9b) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Remember Never Before](https://open.spotify.com/album/72uKcGYgxFDS0suNyqq2LU) | 3:20 | 2023-02-10 | 2023-03-25 |
 | [WHO B?](https://open.spotify.com/track/0kensEMts7A57aPNWp176e) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [WHO B?](https://open.spotify.com/album/2z0waPeuMzRefDNUgg5PhJ) | 1:40 | 2023-04-28 |  |
+| [Witches + Vampires](https://open.spotify.com/track/3Gr1doW9BPGUBxSH9ZBqXY) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [Witches + Vampires](https://open.spotify.com/album/1JK1buOtQgJAtzfKPNmK9C) | 3:22 | 2023-06-09 |  |
 | [Worm Day](https://open.spotify.com/track/73StJzaaOh9v695eoFtWAg) | [Mother Tongues](https://open.spotify.com/artist/5hSQzNi3OjFwQmAfkrYTdz) | [Worm Day](https://open.spotify.com/album/63a5rnokNIg2yHHASCgiZ3) | 2:55 | 2023-05-19 |  |
 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 | 2023-03-03 | 2023-04-29 |
 | [You Can't Keep A Good Man Down](https://open.spotify.com/track/1tyGH5UTbP3GwOlvfGUqVZ) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [You Can't Keep A Good Man Down](https://open.spotify.com/album/45puVkAAJGun3FnzG4TiL5) | 4:10 | 2023-02-17 | 2023-04-22 |

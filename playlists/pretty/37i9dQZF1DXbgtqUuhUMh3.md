@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: zeyne
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,288 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,346 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 |
-| 2 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 |
-| 3 | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk) | 4:59 |
+| 2 | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk) | 4:59 |
+| 3 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 |
 | 4 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 |
 | 5 | [Sokkar](https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Sokkar](https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd) | 3:01 |
 | 6 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 |
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 11 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 |
 | 12 | [الى من](https://open.spotify.com/track/2sT7usmmVUeFZjnSRSBWxD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [الى من](https://open.spotify.com/album/2rlw0EdR9PfNaGCO2y02EP) | 3:19 |
 | 13 | [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 |
-| 14 | [و كأنك سكر](https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [و كأنك سكر](https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z) | 3:48 |
+| 14 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
 | 15 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 |
-| 16 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
-| 17 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
-| 18 | [Milyar](https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Milyar](https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC) | 3:49 |
-| 19 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 |
+| 16 | [و كأنك سكر](https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [و كأنك سكر](https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z) | 3:48 |
+| 17 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
+| 18 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 |
+| 19 | [Milyar](https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Milyar](https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC) | 3:49 |
 | 20 | [Mamnounlak](https://open.spotify.com/track/48kZid7PsapGIxQ1HWq40C) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mamnounlak](https://open.spotify.com/album/4JVzSKHgVOJXWqzK1huMBy) | 2:42 |
 | 21 | [Baad Sneen](https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Baad Sneen](https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md) | 3:42 |
 | 22 | [Enta El Aseel](https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Enta El Aseel](https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl) | 3:36 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 43 | [DOPAMINE](https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [DOPAMINE](https://open.spotify.com/album/2xuSq58iRiMwy96wN9rV4C) | 3:19 |
 | 44 | [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 |
 | 45 | [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 |
-| 46 | [Elmagd](https://open.spotify.com/track/24UYFmNIhDChgHuP0EKeOx) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 5:19 |
-| 47 | [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 |
+| 46 | [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 |
+| 47 | [Elmagd](https://open.spotify.com/track/24UYFmNIhDChgHuP0EKeOx) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 5:19 |
 | 48 | [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 |
 | 49 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 |
 | 50 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
 
-Snapshot ID: `MCwwMDg2ZDQyNDJiNTE5YjVjMmIwODg4NDU2NWI5ZjY3OWFjMzU4NTFk`
+Snapshot ID: `MCw4ZGFkZGRkYTYxZTY2NjVhMmIyMTU4MGQ3MTE2NzVjMjg5YjMwY2Ux`

@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 86600,
+  "num_followers": 86674,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjAwYTI5YTY1NDgzMDYxZDM5ZTZmZGMyOTE2OGQyNDA3ODVlZDY4",
+  "snapshot_id": "MCwyYjczOWY3OGMwYWUyZDIxNjQxYzk3YzFjYmQxZTk0YzJiNGQ5N2Ew",
   "tracks": [
     {
       "added_at": "2023-05-26 20:55:47",
@@ -195,22 +195,18 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
       },
       "artists": [
         {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -231,18 +227,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
       },
       "artists": [
         {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -335,38 +335,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Socorro",
-        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Juju Juju",
         "url": "https://open.spotify.com/album/7pkUGzeyvr1wMnq3sxbdRe"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 184005,
       "name": "Juju Juju",
       "url": "https://open.spotify.com/track/4vvQ96TQ1mV3uQyq4malVN"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Socorro",
+        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+        "name": "Y Ya Tu Sabe Klk",
+        "url": "https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf"
       },
       "artists": [
         {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+          "name": "Los Teke Teke",
+          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+      "duration_ms": 182000,
+      "name": "El Teke Teke",
+      "url": "https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -523,22 +539,6 @@
       "duration_ms": 193593,
       "name": "Rana",
       "url": "https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Y Ya Tu Sabe Klk",
-        "url": "https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf"
-      },
-      "artists": [
-        {
-          "name": "Los Teke Teke",
-          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Teke Teke",
-      "url": "https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/3iAHbGpFZZDcw5ZH7HGfPc"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230249,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/5wV5mcU0b7BUXzpRExADOC"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Papi Abusa",
         "url": "https://open.spotify.com/album/0xC7uU6R7xFSFpnCAFcC6X"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 137586,
       "name": "Gass Pure",
       "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/3iAHbGpFZZDcw5ZH7HGfPc"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 230249,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/5wV5mcU0b7BUXzpRExADOC"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Tan Celoso",
         "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
       },
@@ -859,18 +875,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+        "name": "Dikiri",
+        "url": "https://open.spotify.com/album/1Lci4OziM3uOyNdD6cfDox"
       },
       "artists": [
         {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "Don Vasquez",
+          "url": "https://open.spotify.com/artist/0ajLdl7IiHvvXvrbxdy08T"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+      "duration_ms": 164589,
+      "name": "Dikiri",
+      "url": "https://open.spotify.com/track/3vjQnRK6rw78narY1Q6Rpu"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -887,6 +907,22 @@
       "duration_ms": 167786,
       "name": "Ponme to Eso Pa Lante",
       "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "No Smoking",
+        "url": "https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW"
+      },
+      "artists": [
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "duration_ms": 144004,
+      "name": "No Smoking",
+      "url": "https://open.spotify.com/track/4iKOxLji5LlmjkdbXHmMhB"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -931,42 +967,6 @@
       "duration_ms": 247344,
       "name": "Toy Recho",
       "url": "https://open.spotify.com/track/7EaqF8I2orDLusjuPgMvXO"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "No Smoking",
-        "url": "https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW"
-      },
-      "artists": [
-        {
-          "name": "Shelow Shaq",
-          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
-        }
-      ],
-      "duration_ms": 144004,
-      "name": "No Smoking",
-      "url": "https://open.spotify.com/track/4iKOxLji5LlmjkdbXHmMhB"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Dikiri",
-        "url": "https://open.spotify.com/album/1Lci4OziM3uOyNdD6cfDox"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        },
-        {
-          "name": "Don Vasquez",
-          "url": "https://open.spotify.com/artist/0ajLdl7IiHvvXvrbxdy08T"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Dikiri",
-      "url": "https://open.spotify.com/track/3vjQnRK6rw78narY1Q6Rpu"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Zumba (feat. Yomel El Meloso & Tivi Gunz)",
-        "url": "https://open.spotify.com/album/7rkHzNAym3AvfVnpChCH1S"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Zumba (feat. Yomel El Meloso & Tivi Gunz)",
-      "url": "https://open.spotify.com/track/5gRslx9ORG3Au16BcR2Df5"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Soy Mam\u00e1",
         "url": "https://open.spotify.com/album/6SSrvF72A4BxsRDPDCRPrG"
       },
@@ -1203,6 +1179,30 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Zumba (feat. Yomel El Meloso & Tivi Gunz)",
+        "url": "https://open.spotify.com/album/7rkHzNAym3AvfVnpChCH1S"
+      },
+      "artists": [
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Zumba (feat. Yomel El Meloso & Tivi Gunz)",
+      "url": "https://open.spotify.com/track/5gRslx9ORG3Au16BcR2Df5"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Cuando Bebo",
         "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Dominican Playero 40",
-        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
-      },
-      "artists": [
-        {
-          "name": "RMT",
-          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
-        }
-      ],
-      "duration_ms": 201039,
-      "name": "Dominican Playero 40",
-      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Tony (feat. Afro Nigga)",
         "url": "https://open.spotify.com/album/0CKRDcUGfCWkfqqGuCDAAn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 228004,
       "name": "Tony (feat. Afro Nigga)",
       "url": "https://open.spotify.com/track/24EPIb6Iiuc4l6Iw0dCkfF"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
+      },
+      "artists": [
+        {
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
+        }
+      ],
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "HIT DEMBOW",
+        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
+      },
+      "artists": [
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 250004,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Me Vale V3rg4",
         "url": "https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 195530,
       "name": "Me Vale V3rg4",
       "url": "https://open.spotify.com/track/4NZ71AIKdrpxMsSVTvggDe"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "HIT DEMBOW",
-        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
-      },
-      "artists": [
-        {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 250004,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1907,6 +1907,30 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Kame Hame Ha",
+        "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Luis Cordoba Remix",
+          "url": "https://open.spotify.com/artist/1xisiVS2nbjTnRsjDTkZU8"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Kame Hame Ha",
+      "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Punto 40 (Remix)",
         "url": "https://open.spotify.com/album/7AV4r4VWWF9eDsFtAIS4pc"
       },
@@ -1991,30 +2015,6 @@
       "duration_ms": 297278,
       "name": "Enpiripimpiao - Remix",
       "url": "https://open.spotify.com/track/4VkaLl2C7yKR3Y5Ryeit10"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Kame Hame Ha",
-        "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
-      },
-      "artists": [
-        {
-          "name": "Neron Delta",
-          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
-        },
-        {
-          "name": "Luis Cordoba Remix",
-          "url": "https://open.spotify.com/artist/1xisiVS2nbjTnRsjDTkZU8"
-        },
-        {
-          "name": "Mike Moonnight",
-          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Kame Hame Ha",
-      "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O"
-      },
-      "artists": [
-        {
-          "name": "Principe Baru",
-          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
-        }
-      ],
-      "duration_ms": 219951,
-      "name": "La Lata",
-      "url": "https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Ando en 30",
         "url": "https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 180000,
       "name": "Ando en 30",
       "url": "https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O"
+      },
+      "artists": [
+        {
+          "name": "Principe Baru",
+          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
+        }
+      ],
+      "duration_ms": 219951,
+      "name": "La Lata",
+      "url": "https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2583,6 +2583,26 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Mueve Eso",
+        "url": "https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        }
+      ],
+      "duration_ms": 142862,
+      "name": "Mueve Eso",
+      "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/2hT7r4QAlOX5UFg2RmdkrN"
       },
@@ -2647,6 +2667,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 195492,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Ayayai",
         "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
       },
@@ -2663,22 +2699,6 @@
       "duration_ms": 166025,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 195492,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2719,6 +2739,42 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "La Gomita",
+        "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Gomita",
+      "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Normalito",
+        "url": "https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS"
+      },
+      "artists": [
+        {
+          "name": "Jonatan Burlon",
+          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 216439,
+      "name": "Normalito",
+      "url": "https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "El Con Con",
         "url": "https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf"
       },
@@ -2739,42 +2795,6 @@
       "duration_ms": 156230,
       "name": "El Con Con",
       "url": "https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "La Gomita",
-        "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "La Gomita",
-      "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Mueve Eso",
-        "url": "https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 142862,
-      "name": "Mueve Eso",
-      "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2807,26 +2827,6 @@
       "duration_ms": 162580,
       "name": "CoCo",
       "url": "https://open.spotify.com/track/2jvUN5HZPToeweYPXhTLAe"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Normalito",
-        "url": "https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS"
-      },
-      "artists": [
-        {
-          "name": "Jonatan Burlon",
-          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 216439,
-      "name": "Normalito",
-      "url": "https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9"
     },
     {
       "added_at": "2023-05-26 20:55:47",

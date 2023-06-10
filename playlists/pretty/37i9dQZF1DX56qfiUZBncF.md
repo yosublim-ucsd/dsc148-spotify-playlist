@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,205 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,223 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 28 | [In Cold Blood](https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:26 |
 | 29 | [Caffeine](https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ) | 3:05 |
 | 30 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 |
-| 31 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 |
-| 32 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 31 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 32 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 |
 | 33 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 |
 | 34 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 |
 | 35 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 60 | [Feel Real](https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Life After Defo](https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW) | 4:12 |
 | 61 | [Julia \(Deep Diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
 | 62 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
-| 63 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
-| 64 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
+| 63 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
+| 64 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 65 | [I Can't Believe I Had You](https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Meet Again](https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd) | 4:28 |
 | 66 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 67 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 87 | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02) | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb) | 3:39 |
 | 88 | [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 |
 | 89 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
-| 90 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
-| 91 | [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 |
+| 90 | [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 |
+| 91 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
 | 92 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 | 93 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
 | 94 | [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 |
 | 100 | [Queen of the Valley](https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Size of Relief](https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI) | 4:06 |
 
-Snapshot ID: `MCxmNWZhMzlhZTNhYzc5OGUwN2JlNGQ1NTM3NDEwYjg1ZWMyZDE1OGRj`
+Snapshot ID: `MCw0YjU5YWJmNDliNzk2NDZjNDZkZjM0NWEyMGE3ZTlhM2EwNjNjZThj`

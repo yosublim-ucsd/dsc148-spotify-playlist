@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. cover: Ryan Beatty",
+  "description": "All the indescribable feelings that music gives you. cover: The Beaches",
   "name": "Lorem",
   "tracks": [
     {
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "album": {
         "name": "ANGEL FANGS",
         "url": "https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs"
       },
@@ -3796,6 +3814,24 @@
       "duration_ms": 179172,
       "name": "bellyache",
       "url": "https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg"
+    },
+    {
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189338,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
     },
     {
       "album": {
@@ -32711,6 +32747,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -40478,6 +40532,24 @@
       "duration_ms": 238679,
       "name": "Why Why Why Why Why",
       "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "album": {
+        "name": "Suddenly My Mind Is Blank",
+        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+      },
+      "artists": [
+        {
+          "name": "Jouska",
+          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236324,
+      "name": "Why'd You Leave Me in the Red?",
+      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
     },
     {
       "album": {

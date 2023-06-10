@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 
 > Best of Lata Mangeshkar, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,104 likes - 199 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,174 likes - 199 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 40 | [Dekha Ek Khwab \(From "Silsila"\)](https://open.spotify.com/track/6eu75OSNNFbQncfV3jbJ3a) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:20 |
 | 41 | [Pyar Kar](https://open.spotify.com/track/339XumxyHEbiKREnsOZXVN) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 6:45 |
 | 42 | [Aisa Des Hai Mera](https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Pritha Mazumdar](https://open.spotify.com/artist/0NHOjXrjKEiChop2sZkhdS), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 7:07 |
-| 43 | [Gore Rang Pe Itna Gumaan Na Kar \- Roti / Soundtrack Version](https://open.spotify.com/track/6ISF8WtUVBrjXB1rL1PMFu) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Roti](https://open.spotify.com/album/6kh8wgRD8UMX2tkZwtKD6v) | 4:51 |
+| 43 | [Gore Rang Pe Itna Gumaan Na Kar \- From "Roti"](https://open.spotify.com/track/6ISF8WtUVBrjXB1rL1PMFu) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Roti](https://open.spotify.com/album/6kh8wgRD8UMX2tkZwtKD6v) | 4:51 |
 | 44 | [Karvaten Badalte Rahe](https://open.spotify.com/track/2UOJRY0ujuCf7cw8mHJeY4) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aap Ki Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LLksUfnZhR0jADZxp23X1) | 5:10 |
 | 45 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 7:51 |
 | 46 | [Kuchh Kehta Hai Ye Savan](https://open.spotify.com/track/706iqGgPkURfJc40HC3VVP) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Mera Gaon Mera Desh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2N81TMWOFEtDsBnHeSgwiv) | 4:59 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 198 | [Gir Gaya Jhumka Girne Do \(From "Jugnu"\)](https://open.spotify.com/track/6GXfy68Lb9DjcrrsDAm1Pw) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:20 |
 | 199 | [Aaj Na Chodenge \- Reprise](https://open.spotify.com/track/6ULuZZaprXMB79riIxZZOb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 5:15 |
 
-Snapshot ID: `MCw3OWZjMTlhNzA4ZTk5YzU4YWFhZGRmNzMzYjZmNjdkN2E0ODRiODI0`
+Snapshot ID: `MCw2YTRhNjcxZGY4MzAxNjE0Mzk3ZThjMTliZmJkMjQ4OTlmODBhMWVm`

@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Kassi Valazza
+> Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-160 songs - 9 hr 46 min
+163 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 |  |
 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 | 2023-02-17 |  |
 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 | 2022-01-28 |  |
+| [Boy and a Bird Dog](https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Boy and a Bird Dog](https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV) | 3:04 | 2023-06-09 |  |
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 |  |
 | [Chewing on Fire](https://open.spotify.com/track/7rm6fiURucekbrUD8FAv0C) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Chewing on Fire](https://open.spotify.com/album/6FcBsDf1ak4GlyADejPDgL) | 3:15 | 2022-01-28 | 2023-01-14 |
 | [Country Blues](https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Don't You Marry No Railroad Man](https://open.spotify.com/album/4U4lTsGEiX6lnIwYug9Aep) | 3:20 | 2022-01-28 |  |
@@ -38,7 +39,7 @@
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-02-25 | 2022-10-14 |
 | [False Gods](https://open.spotify.com/track/3yP5h28oeRzAphURxUruUt) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Lonesome](https://open.spotify.com/album/4Tb5K95mAHziwCorYbpFOt) | 3:42 | 2022-01-28 | 2023-05-20 |
 | [Feelin' the Miles](https://open.spotify.com/track/6sBhfRlQWEGJ8QyEvZMX0v) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Feelin' the Miles](https://open.spotify.com/album/1StvJe5JR5Sx96l4hAw0Xv) | 4:17 | 2022-01-28 | 2022-07-29 |
-| [Feelin' the Miles](https://open.spotify.com/track/4cwBUZPtZpS4RqUFUZdr96) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:17 | 2022-01-28 |  |
+| [Feelin' the Miles](https://open.spotify.com/track/4cwBUZPtZpS4RqUFUZdr96) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:17 | 2022-01-28 | 2023-06-10 |
 | [Fine](https://open.spotify.com/track/0SY3flnPwcC7Yda2JTFnGo) | [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Autonomy](https://open.spotify.com/album/5oqJVnJBdqG7JB0A8udWco) | 2:40 | 2022-01-28 |  |
 | [Fine](https://open.spotify.com/track/6LmNt8QiBNUdJEjoH1LjX0) | [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Fine](https://open.spotify.com/album/7aEcSdpc5OpkK2hUxXEff8) | 2:40 | 2022-01-28 | 2022-07-29 |
 | [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 3:41 | 2022-02-25 |  |
@@ -56,6 +57,7 @@
 | [Gettin' Outta My Mind](https://open.spotify.com/track/5xVKhynmkODxlh6ol9GSN8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Gettin' Outta My Mind](https://open.spotify.com/album/6DGQItiDkYwvpJNrvKdOZ4) | 3:01 | 2023-02-03 |  |
 | [Give Until It Hurts](https://open.spotify.com/track/5zyUUj0HBMdDYEvgH6iiKS) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Way Down Here](https://open.spotify.com/album/4T9hHInEKiGIRNjFZbq9z4) | 3:17 | 2022-02-25 |  |
 | [Give Until It Hurts](https://open.spotify.com/track/6LtFRtkqcMYttZVFLdpjcT) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Give Until It Hurts](https://open.spotify.com/album/06ExLCRx2FS9iJfXd1z8rd) | 3:17 | 2022-02-25 | 2022-07-29 |
+| [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 | 2023-06-09 |  |
 | [Golden Child](https://open.spotify.com/track/54ST44raZeEPHldDpV0x2m) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Golden Child](https://open.spotify.com/album/3zgi09x1GpxbxjBx087ajX) | 3:59 | 2022-01-28 |  |
 | [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-05-19 |  |
 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2022-01-28 |  |
@@ -80,6 +82,7 @@
 | [If You Look Hard Enough](https://open.spotify.com/track/0hoPD9npxJurbrUPS3baxB) | [Fort Frances](https://open.spotify.com/artist/1b2FE6oSOgzJ9dwNZi0Pqn) | [If You Look Hard Enough](https://open.spotify.com/album/44V9nDnRNQ0mznXzbJCqQa) | 3:25 | 2022-02-25 |  |
 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 | 2022-01-28 | 2023-05-27 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 | 2023-01-28 |
+| [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 | 2023-06-09 |  |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2022-01-28 | 2022-07-29 |
 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-01-28 | 2023-04-01 |
 | [Jack of Fools](https://open.spotify.com/track/00uM0sUFwqzPQd3QA55xPM) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/1iCFOIlVgRXMe816f6Hzbz) | 4:48 | 2022-10-14 | 2022-11-13 |
@@ -125,7 +128,7 @@
 | [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 |  |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
-| [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 |  |
+| [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 | 2023-06-10 |
 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 | 2022-01-28 | 2023-04-01 |
 | [Room in the City](https://open.spotify.com/track/7KzIOGMfKB4fdpNAFDvrZP) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Kassi Valazza Knows Nothing](https://open.spotify.com/album/3V9b0YYvqjTA5F9Xg0DeiJ) | 4:11 | 2023-05-26 |  |
 | [Saint Augustine](https://open.spotify.com/track/0MMyVtSevLzI9slpJVoatM) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Saint Augustine](https://open.spotify.com/album/4LcBL38G18fEF4B2hYWDTb) | 3:23 | 2022-01-28 | 2023-04-01 |
@@ -158,7 +161,7 @@
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |
-| [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 |  |
+| [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 | 2023-06-10 |
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |
 | [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |

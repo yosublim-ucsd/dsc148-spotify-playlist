@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-237 songs - 14 hr 18 min
+238 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 | 2021-12-10 |  |
 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 | 2021-12-10 | 2022-07-29 |
 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 | 2023-06-09 |
+| [Just Friends](https://open.spotify.com/track/64UXS3LCIBSl0toiHBvCAr) | [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Just Friends](https://open.spotify.com/album/1AOjOljBvTYou6DK0GGzFq) | 3:18 | 2023-06-09 |  |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 |  |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |
@@ -138,7 +139,7 @@
 | [Margaritas \(with Orange Grove\)](https://open.spotify.com/track/0jZkoLBmXigAKcpeYbkXq6) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Orange Grove](https://open.spotify.com/artist/1OUTOOUK6WFuwXEIGjT1wx) | [Margaritas \(with G\. Love & Special Sauce, Orange Grove\)](https://open.spotify.com/album/4KAkq1TW4fIL9S380o3B1L) | 3:37 | 2021-12-10 | 2022-11-13 |
 | [Marinade](https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla) | 3:57 | 2022-07-06 |  |
 | [Mary Go Round](https://open.spotify.com/track/0wnwcuAm6WlXLhyJRlYyPe) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Mary Go Round](https://open.spotify.com/album/6NNbaYYuQhcl0D5InkEyXJ) | 2:21 | 2021-12-10 | 2022-07-29 |
-| [Mary Go Round](https://open.spotify.com/track/7xgloQZJrpjQOyKc0n3D0j) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Mary Go Round](https://open.spotify.com/album/6BiYSkrA67ZQGVhN8rtnSK) | 2:21 | 2022-07-06 |  |
+| [Mary Go Round](https://open.spotify.com/track/7xgloQZJrpjQOyKc0n3D0j) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Mary Go Round](https://open.spotify.com/album/6BiYSkrA67ZQGVhN8rtnSK) | 2:21 | 2022-07-06 | 2023-06-10 |
 | [Message to the World](https://open.spotify.com/track/3OUurzjheL7pC4TAYZdJ3d) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/1bvEcATMnVKaoDL2RJ7Qu6) | 3:44 | 2021-12-10 | 2022-07-29 |
 | [Middle Finger](https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Middle Finger](https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH) | 3:26 | 2021-12-10 |  |
 | [More Than Love](https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [More Than Love](https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0) | 4:20 | 2021-12-10 | 2022-07-29 |

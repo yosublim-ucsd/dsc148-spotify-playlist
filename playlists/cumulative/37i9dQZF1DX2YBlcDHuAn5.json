@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 259374,
       "name": "Big Grey Boxes",
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
@@ -1126,6 +1126,24 @@
       "duration_ms": 228431,
       "name": "This Time",
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
+    },
+    {
+      "album": {
+        "name": "This World Is Our Home",
+        "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "This World Is Our Home",
+      "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
     },
     {
       "album": {

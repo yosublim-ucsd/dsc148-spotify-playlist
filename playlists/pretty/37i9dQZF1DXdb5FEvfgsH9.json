@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 17371,
+  "num_followers": 17401,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmVkZWNhMzYwYzUzOTgyZDA0ZGQ3M2NjNzI4NWVlNWFiYmRkYzZk",
+  "snapshot_id": "MCwyY2Q4YzZmOGIyMDU3ZWJhMGEzYjZjYTcwY2UzOGY2ZjUyZjE4YjY3",
   "tracks": [
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Sweet Connection",
+        "url": "https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "duration_ms": 161692,
+      "name": "Sweet Connection",
+      "url": "https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {

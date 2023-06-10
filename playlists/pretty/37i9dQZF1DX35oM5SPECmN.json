@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2419480,
+  "num_followers": 2419451,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzYzOGJmYWJkOGUwNjA2NGM3YWYwYmMyOTk3NGMxNzlhNmFiNGM2",
+  "snapshot_id": "MCw0YTlmZWVhZDM5ZWRkNjFiZjE4NmNhMjZhYTFlYjA3ZWE0ZWQwOGM3",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Bears & Bulls",
+        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
+      },
+      "artists": [
+        {
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+        }
+      ],
+      "duration_ms": 110293,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Bears & Bulls",
-        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 110293,
-      "name": "Stomp",
-      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "All Or Nothin'",
         "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 190786,
       "name": "Can't Cheat Death",
       "url": "https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
       "artists": [
         {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 238413,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718"
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
     }
   ],
   "unique_name": "Run Wild",

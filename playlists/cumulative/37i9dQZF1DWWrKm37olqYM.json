@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Whatzup? Whatzup? (How You Wanna Carry It)",
+        "url": "https://open.spotify.com/album/3nTKgtbMunjGBdXLhGuTWq"
+      },
+      "artists": [
+        {
+          "name": "Miss Tony aka Big Tony",
+          "url": "https://open.spotify.com/artist/3b9KaliiUtdbwQQYV8xCGM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275104,
+      "name": "Whatzup? Whatzup? (How You Wanna Carry It) - 2023 Digital Remaster",
+      "url": "https://open.spotify.com/track/39Qzc6WNTZmQ6xQIKOyeVU"
+    },
+    {
+      "album": {
         "name": "The Cloud, Vol. 2 (Baltimore Club Remixes)",
         "url": "https://open.spotify.com/album/1AjBIRPKNHyB1fLrxM4IT2"
       },

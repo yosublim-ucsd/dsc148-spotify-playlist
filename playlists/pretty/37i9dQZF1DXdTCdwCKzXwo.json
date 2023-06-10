@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1139800,
+  "num_followers": 1139923,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDA5NmRjZWQ3OTM0OTRlYWVjYWVmZjY4ODg3MDJhODk0NmRjMGI3",
+  "snapshot_id": "MCw1YTNkNjdmZjg4Njk4YzAwYjNiYTY2OGMyMDRkZmVjYWE5Y2IxY2I5",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 351626,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Reading, Writing & Arithmetic",
-        "url": "https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT"
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
       "artists": [
         {
-          "name": "The Sundays",
-          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 234906,
-      "name": "Here's Where The Story Ends",
-      "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+        "name": "Reading, Writing & Arithmetic",
+        "url": "https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
+      "duration_ms": 234906,
+      "name": "Here's Where The Story Ends",
+      "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
     },
     {
       "added_at": "2023-03-14 21:51:39",

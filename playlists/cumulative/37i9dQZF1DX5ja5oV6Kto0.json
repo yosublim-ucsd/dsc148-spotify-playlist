@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=xQwIaNGoQ4OYze5ZfjJEMg\"> Boj</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=2RQQfnbdQy6PfmnM9el9Kw\"> Bloody Civilian</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -516,6 +516,24 @@
       "duration_ms": 110442,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4N6P3mAVkGM4gLdgbMuogo"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Angels in Tibet",
+      "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
     },
     {
       "album": {
@@ -1107,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3NZ6PcH6TPgZRBZJjLzwE5"
+      },
+      "artists": [
+        {
+          "name": "Shaun Mbah",
+          "url": "https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/699RAgFdoNpI5o1TxAFjej"
+    },
+    {
+      "album": {
         "name": "POST-19",
         "url": "https://open.spotify.com/album/3N0aPdI9wrcHPiZ48zaaMc"
       },
@@ -1122,6 +1158,28 @@
       "duration_ms": 177500,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6emc8ZxLfdSF86APJW1duQ"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "album": {
@@ -1256,7 +1314,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137283,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh"
@@ -1376,7 +1434,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 133354,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/034stq9rVCj8gaphhNyf6R"
@@ -2204,7 +2262,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II",
       "url": "https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm"
@@ -2230,7 +2288,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -4585,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180884,
+      "name": "Mad Apology",
+      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit"
       },
@@ -5102,6 +5178,28 @@
       "duration_ms": 109757,
       "name": "NEW ID",
       "url": "https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC"
+    },
+    {
+      "album": {
+        "name": "Next Move",
+        "url": "https://open.spotify.com/album/0psr5kCPCMwyjvtdsURhmu"
+      },
+      "artists": [
+        {
+          "name": "Forever Boy",
+          "url": "https://open.spotify.com/artist/1lyZ6cpt2PAztZxbZzx7iz"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162031,
+      "name": "Next Move",
+      "url": "https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR"
     },
     {
       "album": {
@@ -5624,7 +5722,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 150293,
       "name": "Pacifier",
       "url": "https://open.spotify.com/track/1pWiciwrA2f7sny0zC6XAt"
@@ -5894,6 +5992,24 @@
       "duration_ms": 186122,
       "name": "preSSUre",
       "url": "https://open.spotify.com/track/19N5psNQn5XtpM8ATXRWQ7"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Princess Going Digital",
+      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
     },
     {
       "album": {
@@ -6248,7 +6364,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213333,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT"
@@ -8020,6 +8136,24 @@
       "duration_ms": 86076,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "album": {

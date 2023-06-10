@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: MOLY
 
-231 songs - 17 hr 32 min
+232 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 | 2022-01-01 |  |
 | [Es por Ti](https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por Ti](https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et) | 3:04 | 2022-05-20 | 2023-04-17 |
 | [Es por ti](https://open.spotify.com/track/2aS68sRyREHLCF2hft3NOt) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por ti](https://open.spotify.com/album/2CQbvu5ncDwr0toXCR3JTF) | 3:04 | 2022-03-18 | 2022-07-29 |
+| [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 | 2023-06-09 |  |
 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 | 2022-01-01 |  |
 | [Fabricando Fantasías](https://open.spotify.com/track/6cKAPpR0QwLaEKghevxdHc) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 4:34 | 2022-01-01 | 2023-02-26 |
 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 | 2023-02-24 |  |
@@ -157,7 +158,7 @@
 | [Paula C.](https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSA PLUS!](https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8) | 5:36 | 2022-01-01 | 2022-07-26 |
 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 | 2022-09-09 | 2022-11-13 |
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-04-29 | 2022-11-20 |
-| [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 | 2023-01-19 |  |
+| [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 | 2023-01-19 | 2023-06-10 |
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2022-01-01 |  |
 | [Por Ella](https://open.spotify.com/track/7C2nNvvtr5zZSvV5ZTBAie) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sólo para Mujeres](https://open.spotify.com/album/28fSBWZmuscPV59hEgsxSF) | 4:37 | 2022-01-01 | 2022-07-29 |
 | [Por Retenerte](https://open.spotify.com/track/0vGEHf4yeVN0sn8IwY1HW4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/1aGfPCEPzO2N98CkYDA1f1) | 4:44 | 2022-01-01 | 2022-07-29 |

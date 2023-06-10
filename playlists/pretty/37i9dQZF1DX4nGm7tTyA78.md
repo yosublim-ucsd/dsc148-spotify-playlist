@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,197 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,246 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 9 | [Blah Blah Blah](https://open.spotify.com/track/6oXrwjNtNI8wxy8CfXkvak) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:46 |
 | 10 | [Hambre](https://open.spotify.com/track/09WDhsDxupGve070aX96bf) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Genelipsis](https://open.spotify.com/album/2cyhThTMj81byVvOOPkA8z) | 3:37 |
 | 11 | [Trapstyle \(Despue No Digan\)](https://open.spotify.com/track/5j93ejkWtwfjTtpkOekDMK) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Mejor Que Ayer](https://open.spotify.com/album/3EIOelbFnzyfqeaAZO9YKr) | 3:38 |
-| 12 | [Conoce la Historia \(Remix\) \[feat\. Farruko & D.O Zi\]](https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/6taVNEBUo86nbycmzQc20G) | 3:39 |
+| 12 | [Conoce La Historia \- Remix](https://open.spotify.com/track/6TWCIS6XyDljNOOTOs6rBr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/79Hw5CZASDrxZLJvQcSjRx) | 3:39 |
 | 13 | [Como David \(feat\. Natan El Profeta\)](https://open.spotify.com/track/3JBCTm1dV5e9sNIGSSKp4S) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/7CxwXgHtZJfbslvTh938cb) | 4:11 |
 | 14 | [Lift](https://open.spotify.com/track/3zTlidxfvKnuLay7tmxTfI) | [Carlos Herrera Music](https://open.spotify.com/artist/6XyhP9ocGrfEqrIm6vHDYG), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lift](https://open.spotify.com/album/5t62fhTVsy040NJgla87v2) | 3:04 |
 | 15 | [No Existe](https://open.spotify.com/track/4bK6jV6jIzoyksOipcKA4K) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/1LnSXoq8GRj8Mb1TWYa1Ro) | 4:10 |
 | 16 | [Dile Que No](https://open.spotify.com/track/6AGh6iGWH5fsDKkVlE59Uh) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 4:05 |
 | 17 | [No Fallará](https://open.spotify.com/track/2eX4TGFna9BzppcUxnPCww) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [No Fallará](https://open.spotify.com/album/57gGB5imNcp3Z8YZF2cm7S) | 4:41 |
-| 18 | [A Quien Tu Representas?](https://open.spotify.com/track/5FjVDUvJtqwIRWabbgpUBA) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Solo Rap](https://open.spotify.com/album/7Ll0LVmG75Z8N8QJbCOf9N) | 3:56 |
+| 18 | [¿A Quién Tú Representas?](https://open.spotify.com/track/5cuzD8gewjk8O3cnWZFDKb) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Solo Rap](https://open.spotify.com/album/7kvpX3ZINcmhPYEBHrfzvZ) | 3:56 |
 | 19 | [Ma Pikante Que Pablo](https://open.spotify.com/track/5YZL3XtA44dxe81a2uMqNV) | [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Ma Pikante Que Pablo](https://open.spotify.com/album/7zkjj8uSZvN4p4FWOs4IPK) | 3:42 |
 | 20 | [Rico De Cuna](https://open.spotify.com/track/6Z7JjhxyAoREUDcIssHTQw) | [Aposento Alto](https://open.spotify.com/artist/3K8yCJYKujMaVR2e15ozVU) | [Almas](https://open.spotify.com/album/25jmngIndRphyAJg6tjbUm) | 4:04 |
 | 21 | [Bros](https://open.spotify.com/track/2hycOlQpCV2B2jUKoLU0YS) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Bros](https://open.spotify.com/album/3hYfVSNqc1tCVEZna5bBPN) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 49 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 |
 | 50 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 |
 
-Snapshot ID: `MCxlYjFmNDJhYTBlMTgyNDAwYzliZDFhMmUxODRiNDJiM2FkZDViYjVl`
+Snapshot ID: `MCwyYTZiZjdhYjZmM2YxZDk4YzI0ZTFiNTljOWU5ODAzYTUxOTkyMTY5`

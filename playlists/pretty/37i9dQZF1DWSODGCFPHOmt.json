@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTc1ZDEyNWUzNmU3OGZjZTRiZDRiZTJkOGJlMzFhMTgyN2MzNTRl",
+  "snapshot_id": "MCw3MGI1MGY0ZTFhNThmMjJiMWMzZTg2ODY5MWZkOTlmMzlmNjM0Nzg4",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Una Noche Especial",
+        "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Una Noche Especial",
+      "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 149276,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Cada Diciembre",
-        "url": "https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 147657,
-      "name": "Cada Diciembre",
-      "url": "https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX"
     }
   ],
   "unique_name": "La Posada",

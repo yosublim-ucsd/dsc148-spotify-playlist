@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-256 songs - 15 hr 0 min
+258 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-07-19 | 2022-08-13 |
 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2023-05-19 |  |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-08 |  |
+| [Lo Que Soy](https://open.spotify.com/track/77dNHLJRvzinTeSz7X7eLH) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 3:01 | 2023-06-09 |  |
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-07-19 | 2023-05-20 |
 | [Los Chicos No Entienden](https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [A los Amigos](https://open.spotify.com/album/7GyrUntLwyy6TPN0ytvP2Y) | 3:16 | 2022-07-19 | 2023-04-29 |
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-06-29 | 2023-05-20 |
@@ -174,7 +175,7 @@
 | [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 | 2022-09-24 |
 | [Mil Ballenas](https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Mil Ballenas](https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI) | 3:53 | 2022-09-23 | 2023-05-20 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2023-05-19 |  |
-| [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 | 2023-05-19 |  |
+| [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 | 2023-05-19 | 2023-06-10 |
 | [Mundo de Hoy](https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 4:21 | 2022-07-29 | 2023-05-20 |
 | [Mundo Entero](https://open.spotify.com/track/6xZR3mbvw2UwZOaYs2bSz7) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Mundo Entero](https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak) | 3:22 | 2022-06-29 | 2022-08-13 |
 | [MUZZA](https://open.spotify.com/track/4hivokN9VRz22rLhE1E3na) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [MUZZA](https://open.spotify.com/album/0hINRsC4INcD20kaRhJaLD) | 3:57 | 2022-08-05 | 2023-05-20 |
@@ -238,6 +239,7 @@
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-29 | 2022-07-20 |
 | [Temor](https://open.spotify.com/track/0WzdhKUfEoeIP8jzrTtLSe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:24 | 2023-06-02 |  |
 | [Temporal](https://open.spotify.com/track/2HaEWrHRPZ2mG06Rdlngbu) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS), [Gonzalo Silva](https://open.spotify.com/artist/3vkk4b4g3KdMlhOhtzyIHm) | [Temporal](https://open.spotify.com/album/6ZkEGm4ZA8WScR7uLVfg1t) | 2:50 | 2022-06-29 | 2022-10-29 |
+| [Terapia](https://open.spotify.com/track/1BwEM6ZBPb2mGhkhAM6onu) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [Terapia](https://open.spotify.com/album/7dyFKdVNNFbAPuBULRbYi0) | 3:17 | 2023-06-09 |  |
 | [Tiempo](https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Tiempo](https://open.spotify.com/album/7hdrzPuHfK4VbgQVpvP8lA) | 3:12 | 2022-06-29 | 2023-05-20 |
 | [TIKI](https://open.spotify.com/track/6Oi46ZScfwLecGdnfi3lB3) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [TIKI](https://open.spotify.com/album/706jigUnjkVzVflc3lDOls) | 1:53 | 2023-05-19 |  |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 | 2023-05-20 |
@@ -262,7 +264,7 @@
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2023-05-30 | 2023-06-09 |
 | [X LAS DUDAS](https://open.spotify.com/track/4Mozf1AdGLgXtbBIczuXkw) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:34 | 2023-05-19 |  |
 | [Ya No](https://open.spotify.com/track/5tRWVChUhMaGXWUvHlkaUM) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Pato Fontanet](https://open.spotify.com/artist/1ZGMbSg4MnVbzPvkYLgrZi), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Ya No](https://open.spotify.com/album/4xTlycvNd0nZRQFZYnc8H7) | 3:53 | 2022-06-29 | 2022-07-20 |
-| [Yendo Hacia Tí](https://open.spotify.com/track/55JHECDH9MBGpkWtfI1MBh) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:47 | 2023-06-02 |  |
+| [Yendo Hacia Tí](https://open.spotify.com/track/55JHECDH9MBGpkWtfI1MBh) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:47 | 2023-06-02 | 2023-06-10 |
 | [Yo Caníbal](https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 2:56 | 2023-05-30 | 2023-06-09 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

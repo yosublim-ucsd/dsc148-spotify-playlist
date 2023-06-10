@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+      },
+      "artists": [
+        {
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Ecos de Meditaci\u00f3n",
+      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
+    },
+    {
+      "album": {
         "name": "Elm Lake",
         "url": "https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA"
       },

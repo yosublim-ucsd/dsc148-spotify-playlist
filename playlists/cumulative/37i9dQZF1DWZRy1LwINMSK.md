@@ -2,7 +2,7 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno\. Foto: AKRIILA.
+> La casa del trap chileno\. Foto: Piero 47.
 
 154 songs - 8 hr 21 min
 

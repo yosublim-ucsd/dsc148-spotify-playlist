@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in September for Otoño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,460 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,484 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 2 | [Libre y en Movimiento](https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Libre y en Movimiento](https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0) | 3:03 |
 | 3 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 |
 | 4 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
-| 5 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
+| 5 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 |
 | 6 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 |
 | 7 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 |
 | 8 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 24 | [Una parte](https://open.spotify.com/track/5Yaia4vlWgAxQqynU3QEXQ) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [Una parte](https://open.spotify.com/album/5QXPzWdxKA9kRYtyQ9jAzd) | 3:22 |
 | 25 | [Hoy brillando](https://open.spotify.com/track/6OVqgdTNsULYMAphPJPN6K) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:36 |
 
-Snapshot ID: `MCw3YTllMzM5NmM4Y2JjYTk3Yjk2MDE1Y2ZkMzRlM2JkNDBhNjJhMDM4`
+Snapshot ID: `MCw2ZmM1N2UyYjdlMjk4Y2FlZDBjM2NmYTJhZTk4OGYyNDU4ZTZiYWRl`

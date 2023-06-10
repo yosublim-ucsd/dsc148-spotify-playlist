@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Galopeira e os funks mais 🔑 do Brasil\. Foto: Mc Menor MT, DJ Deivão, DJ Gouveia
+> Tá Ok e os funks mais 🔑 do Brasil\. Foto: DENNIS, Mc Kevin o Chris
 
-171 songs - 9 hr 18 min
+172 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2022-02-18 | 2022-07-23 |
 | [Galopeira](https://open.spotify.com/track/1YTzCKxoOSZOqcNh6wa15I) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem) | [Galopeira](https://open.spotify.com/album/6ESu4TNB38eET9Rh4XHk5n) | 2:57 | 2023-05-12 |  |
 | [Giro dos Artistas](https://open.spotify.com/track/0Pjd5h1ZOSyhSwZrDeCIXg) | [Mc Bruninho da Praia](https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Giro dos Artistas](https://open.spotify.com/album/7dIiISUj9IcEcbcbABOEXq) | 5:38 | 2021-12-31 | 2022-03-24 |
+| [Gol Bolinha, Gol Quadrado 2](https://open.spotify.com/track/0U9CZWq6umZsN432nh3WWT) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI) | [Gol Bolinha, Gol Quadrado 2](https://open.spotify.com/album/4TYCCK3qrAyMY5soBMCNyO) | 1:57 | 2023-06-09 |  |
 | [Gonzaga Deu Fuga Com Uma Loira Cabulosa Em Cima Da 66](https://open.spotify.com/track/6mUNR2pJOxKRCVo97YVlHE) | [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [Mc Vitin Lc](https://open.spotify.com/artist/6xKZzLqIevrBxolUsY72ve) | [Gonzaga Deu Fuga Com Uma Loira Cabulosa Em Cima Da 66](https://open.spotify.com/album/15Y6a9S8nmrUePQrWLtH3I) | 2:07 | 2021-12-31 | 2022-11-26 |
 | [Gostosinho Tu Cai](https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Gostosinho Tu Cai](https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX) | 2:12 | 2022-04-29 | 2023-03-21 |
 | [Hit do Ano \- Peso do Voto](https://open.spotify.com/track/1d97IbmE6mQY0NTeK9XnYj) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Kapela](https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Mc Vitão Do Savoy](https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno), [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Hit do Ano \- Peso do Voto](https://open.spotify.com/album/3f56tCRGYAH1wKnyri67fg) | 15:49 | 2022-09-30 | 2022-10-15 |

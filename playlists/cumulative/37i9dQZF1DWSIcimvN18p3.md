@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-379 songs - 23 hr 10 min
+380 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-03-05 |  |
 | [Gold Hills](https://open.spotify.com/track/2rBp6v1PkDP2GWg625RrCz) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Ar Uair Bhig An Lae \- The Small Hours](https://open.spotify.com/album/7MuIL1yaYFof17gjVzPr8T) | 3:51 | 2021-03-05 | 2022-07-27 |
 | [Good Fight](https://open.spotify.com/track/7GjuCYAw1uU2cWC3NnB42q) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Good Fight](https://open.spotify.com/album/5pVjHc7xmTOz0jmSAz6Auh) | 3:18 | 2021-03-05 | 2022-07-29 |
-| [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-03-05 |  |
+| [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-03-05 | 2023-06-10 |
+| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-03-08 |  |
 | [Grace Has A Gun](https://open.spotify.com/track/23E8FeSah26e1flVQc5hpC) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 4:20 | 2021-03-05 | 2022-03-09 |
 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 | 2021-03-05 |  |
 | [Gunslinger \(A Ballad For Adult Westerns\)](https://open.spotify.com/track/4oFXW4wcrRQGGV85V18YSI) | [Katie Lee](https://open.spotify.com/artist/7mKkP1VviPDyZv98EOFT67) | [The Essential Collection](https://open.spotify.com/album/3gy4JVkmMmyWGAv1yj8HwZ) | 2:51 | 2021-03-05 | 2022-07-18 |

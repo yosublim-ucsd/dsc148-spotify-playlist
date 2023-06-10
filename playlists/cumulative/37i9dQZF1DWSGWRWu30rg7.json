@@ -8779,6 +8779,24 @@
     },
     {
       "album": {
+        "name": "Double Happiness (Freestyle)",
+        "url": "https://open.spotify.com/album/415fpCbsmyIl1XDlxeErUt"
+      },
+      "artists": [
+        {
+          "name": "Davi Sol",
+          "url": "https://open.spotify.com/artist/3zJT799hLRH5sT6AucfyPD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Double Happiness - Freestyle",
+      "url": "https://open.spotify.com/track/17nt31Y4kYcgnIewfwxIfW"
+    },
+    {
+      "album": {
         "name": "Doux Escape",
         "url": "https://open.spotify.com/album/144ft4nhLesdzxXZbGvgXE"
       },
@@ -23962,6 +23980,28 @@
       "duration_ms": 283636,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/7uRqQozkua10mFoPQSwdX4"
+    },
+    {
+      "album": {
+        "name": "Other Times",
+        "url": "https://open.spotify.com/album/24yw2OIxvPJ07GPdz0YKmy"
+      },
+      "artists": [
+        {
+          "name": "AUFA",
+          "url": "https://open.spotify.com/artist/57vTMw9BZDiAnFKH5xYuIO"
+        },
+        {
+          "name": "Helena Arnetta",
+          "url": "https://open.spotify.com/artist/32rZO17E9xlSq1vxQeYQyn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Other Times",
+      "url": "https://open.spotify.com/track/2jf2opLHn4yNmcqJaRJKik"
     },
     {
       "album": {

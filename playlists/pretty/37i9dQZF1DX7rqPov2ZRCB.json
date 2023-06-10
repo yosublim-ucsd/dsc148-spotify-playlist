@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 62554,
+  "num_followers": 62585,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDZhNzZkZDVhZTMyZGM2MWZlNzkyYjg2Y2JkNzY0MDAzNTY5NjRk",
+  "snapshot_id": "MCw2ODBkNjgwZjA1MDI4ZTJjMGFlOGRjY2NkY2ZkMTRjOWRlODAyNGU5",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -575,6 +575,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Por Mujeres Voy a Morir",
+        "url": "https://open.spotify.com/album/2VflDAQnjXjv6skaVYkozt"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 310005,
+      "name": "Por Mujeres Voy a Morir",
+      "url": "https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "A Otro Nivel",
         "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 234707,
       "name": "Sal\u00f3n de Belleza",
       "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Por Mujeres Voy a Morir",
-        "url": "https://open.spotify.com/album/2VflDAQnjXjv6skaVYkozt"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 310005,
-      "name": "Por Mujeres Voy a Morir",
-      "url": "https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -687,6 +687,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Coraz\u00f3n Bonito",
+        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 385680,
+      "name": "Se Fue La Bola",
+      "url": "https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "\u00cddolo Del Pueblo",
         "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
       },
@@ -735,34 +751,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Coraz\u00f3n Bonito",
-        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+        "name": "La Reina del Soberano",
+        "url": "https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
         }
       ],
-      "duration_ms": 385680,
-      "name": "Se Fue La Bola",
-      "url": "https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "El Consejo a Las Mujeres",
-        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
-      },
-      "artists": [
-        {
-          "name": "Blas Duran & Los Peluches",
-          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Consejo a las Mujeres",
-      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
+      "duration_ms": 305773,
+      "name": "Tipico Caliente",
+      "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -799,18 +799,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "La Reina del Soberano",
-        "url": "https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv"
+        "name": "El Consejo a Las Mujeres",
+        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
       },
       "artists": [
         {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+          "name": "Blas Duran & Los Peluches",
+          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
         }
       ],
-      "duration_ms": 305773,
-      "name": "Tipico Caliente",
-      "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
+      "duration_ms": 213880,
+      "name": "Consejo a las Mujeres",
+      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
     },
     {
       "added_at": "2019-09-09 17:49:24",

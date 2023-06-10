@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODg2NmVkY2FiZTAxNGZiMGM5MDFiMDQ1MmE2NjQyMmRkZDRiZmQw",
+  "snapshot_id": "MCwzZjM4N2JhN2UzMjc5MzhlZDI1ZTYwZmE5NmM1NjlmYmU5YjI0OTdk",
   "tracks": [
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1211,6 +1211,42 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
+        "name": "Boys and Girls",
+        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 208771,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1247,42 +1283,6 @@
       "duration_ms": 239960,
       "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
-        "name": "Boys and Girls",
-        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Predator",
-      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
     },
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 186644,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
-        "name": "Independent Music",
-        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
-      },
-      "artists": [
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 242022,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
         "name": "RESPECT",
         "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 184586,
       "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
       "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
+        "name": "Independent Music",
+        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
+      },
+      "artists": [
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 242022,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
     },
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 182500,
       "name": "Up up and away",
       "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2023-05-05 08:29:56",

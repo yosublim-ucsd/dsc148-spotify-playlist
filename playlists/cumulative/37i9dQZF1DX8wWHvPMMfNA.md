@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-510 songs - 1 day 9 hr 31 min
+511 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Quiet Place](https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [A Quiet Place](https://open.spotify.com/album/6pJy7KHyUogF78gFgqQOgu) | 2:28 | 2022-11-11 |  |
 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 | 2023-05-04 |  |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-05-04 |  |
+| [Ahead Of Us](https://open.spotify.com/track/19Cs9hnUVylVexTgnqvA6C) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Ahead Of Us](https://open.spotify.com/album/6k2n4F9pnvnOWU7gAS7TRm) | 3:26 | 2023-06-08 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-11 |  |
 | [Alfie](https://open.spotify.com/track/2l0iO5UB8vLpgjjih8sUYD) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Black Nile](https://open.spotify.com/album/7raIWmCNYHhrBKc1CZNWI4) | 3:37 | 2023-06-01 |  |
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-16 |  |
@@ -125,7 +126,7 @@
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-08 |  |
 | [Evening Dance](https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Evening Dance](https://open.spotify.com/album/02XU7xcCZKUiYUfV9fvaNV) | 3:35 | 2023-06-01 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-22 |  |
-| [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 | 2021-12-16 |  |
+| [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 | 2021-12-16 | 2023-06-10 |
 | [Everyday Mastery](https://open.spotify.com/track/7yNr96LdD5gGPXTNXsqSQb) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Everyday Mastery](https://open.spotify.com/album/4fC7aAnJNtNoPFgoiXbIdv) | 3:08 | 2023-06-01 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Nice People](https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p) | 5:19 | 2021-12-16 | 2022-11-11 |
 | [Everything I Love](https://open.spotify.com/track/3FVN9XVNvU2hc4HADT4I4i) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [Everything I Love](https://open.spotify.com/album/02xsVD9c3xV3SEIvqrf4v7) | 2:50 | 2023-06-01 |  |

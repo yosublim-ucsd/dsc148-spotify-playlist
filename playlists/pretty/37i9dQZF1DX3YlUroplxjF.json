@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 456396,
+  "num_followers": 456527,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGY0OWExYjVlYTgwNmFmOGJjM2Y5ZWY5M2JkMzA5NWFlNDU4NmUy",
+  "snapshot_id": "MCw0NzY4NjVlNjcxZDQ5MDdiOTZlZTg1NTdhOGY3MDk1ZDQ2ZWIzMWNh",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 236050,
       "name": "Lyrics Lie",
       "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 229896,
       "name": "Hypochondria",
       "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 196427,
       "name": "Bury a Lie",
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 226900,
+      "name": "satellites* *",
+      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 224453,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
       "artists": [
         {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1319,34 +1319,34 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
         }
       ],
-      "duration_ms": 170000,
-      "name": "No One's Listening",
-      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
       "artists": [
         {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+      "duration_ms": 170000,
+      "name": "No One's Listening",
+      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
     },
     {
       "added_at": "2023-03-17 17:52:49",

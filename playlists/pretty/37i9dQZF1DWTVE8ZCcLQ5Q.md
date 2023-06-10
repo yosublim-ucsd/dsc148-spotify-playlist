@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Luanna e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,767 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,765 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 19 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:11 |
 | 20 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
 | 21 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
-| 22 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
-| 23 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
+| 22 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
+| 23 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
 | 24 | [Tiro Foto, Mas Não Posto](https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Tiro Foto, Mas Não Posto](https://open.spotify.com/album/2F5juQtLZImwXCTtCWFMeS) | 2:24 |
 | 25 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 |
 | 26 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 | 75 | [Hemorragia Interna](https://open.spotify.com/track/7gqW8qNovNWU6FhgC4o2Wb) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Meire D' Origem](https://open.spotify.com/artist/3osVa8ApiX4HGAQx9K8A1E), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Hemorragia Interna](https://open.spotify.com/album/6tKsJWAPbnZbY6uoM442xO) | 2:45 |
 
-Snapshot ID: `MCw0NzdmMTY4OTBlOGQzYzFjZGRiMzVhZjc0ZDY3MTM0Y2NiOTYzMDIz`
+Snapshot ID: `MCxmM2Y3M2Q4NmMzOTFhY2YxMGRkZmI1N2EwOGVjNDE1ZWI1Mjc4OTM0`

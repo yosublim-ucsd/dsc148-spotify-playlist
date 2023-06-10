@@ -554,10 +554,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172093,
       "name": "El Plebe y el Cholo",
       "url": "https://open.spotify.com/track/2jR8SDgmlxxxsiJ2iwd6Ms"
+    },
+    {
+      "album": {
+        "name": "Reten de la Sierra",
+        "url": "https://open.spotify.com/album/70dZFfCYcbhLuUaslXfdzl"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "El Ret\u00e9n de la Sierra",
+      "url": "https://open.spotify.com/track/4jvFdMExvfNtlNAwUn4McE"
     },
     {
       "album": {
@@ -1401,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+    },
+    {
+      "album": {
         "name": "El Mero Chaka",
         "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
       },
@@ -1412,10 +1448,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144200,
       "name": "Pakas De A Kilo",
       "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+    },
+    {
+      "album": {
+        "name": "Ram\u00f3n Arellano",
+        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193844,
+      "name": "Ram\u00f3n Arellano",
+      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
     },
     {
       "album": {
@@ -1448,7 +1506,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166703,
       "name": "Reuni\u00f3n en la Sierra",
       "url": "https://open.spotify.com/track/6yRyUraWazUPBimI43HpeL"

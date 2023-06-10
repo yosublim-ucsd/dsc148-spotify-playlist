@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Full Crate",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Tay Iwar",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -650,6 +650,24 @@
       "duration_ms": 245426,
       "name": "Anxiety (Burlinda\u2019s Theme)",
       "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278733,
+      "name": "Aquamarie Luvs Ecstasy",
+      "url": "https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm"
     },
     {
       "album": {
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 210379,
       "name": "CALI LOVE (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
@@ -2226,6 +2244,28 @@
       "duration_ms": 160398,
       "name": "Church",
       "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
+    },
+    {
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109071,
+      "name": "Clarity (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2"
     },
     {
       "album": {
@@ -3192,6 +3232,24 @@
       "duration_ms": 227663,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
     },
     {
       "album": {
@@ -4178,7 +4236,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166779,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0moOYkWq8za1xk0abOjReo"
@@ -4446,6 +4504,24 @@
       "duration_ms": 198493,
       "name": "Fuck Around",
       "url": "https://open.spotify.com/track/1ORVLNzJKvmhgO9QFdlh3j"
+    },
+    {
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164738,
+      "name": "Fuck Your Friend",
+      "url": "https://open.spotify.com/track/55TjrzpNTh67khSEpZ6BCq"
     },
     {
       "album": {
@@ -5900,7 +5976,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 206100,
       "name": "Insanity (feat. Tone Stith)",
       "url": "https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4"
@@ -6038,7 +6114,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235514,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/56ReCzcMty0YgfutYrQsDO"
@@ -6172,6 +6248,24 @@
       "duration_ms": 111160,
       "name": "June 1st",
       "url": "https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2"
+    },
+    {
+      "album": {
+        "name": "Chekhov's Gun",
+        "url": "https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Just A Little",
+      "url": "https://open.spotify.com/track/3SOL11Sz3MwFoCye7r8gQW"
     },
     {
       "album": {
@@ -7048,6 +7142,24 @@
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
+      "album": {
+        "name": "The Found Album",
+        "url": "https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Gouch\u00e9",
+          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250375,
+      "name": "Love On You",
+      "url": "https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I"
     },
     {
       "album": {
@@ -8397,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Only Have Eyes 42",
+      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+    },
+    {
+      "album": {
         "name": "When Everything Is Better, I'll Let You Know",
         "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
       },
@@ -8590,6 +8720,24 @@
       "duration_ms": 196428,
       "name": "Orange",
       "url": "https://open.spotify.com/track/67QdCgQHAnBKCrs5mmbqcr"
+    },
+    {
+      "album": {
+        "name": "DIAMONDS & FREAKS",
+        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186061,
+      "name": "ORANGE WINE",
+      "url": "https://open.spotify.com/track/6mvFSD5KNfWyQIsBrIRst2"
     },
     {
       "album": {
@@ -9844,7 +9992,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176922,
       "name": "Say Less (with Tiana Major9)",
       "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
@@ -10412,6 +10560,36 @@
       "duration_ms": 168000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
+    },
+    {
+      "album": {
+        "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
+        "url": "https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198881,
+      "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
+      "url": "https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9"
     },
     {
       "album": {
@@ -11032,6 +11210,28 @@
       "duration_ms": 205479,
       "name": "Such A Thing",
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "album": {
@@ -12446,7 +12646,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144500,
       "name": "warmer on a wednesday",
       "url": "https://open.spotify.com/track/7JPk10CeThM1VbolptpdC4"
@@ -12468,6 +12668,24 @@
       "duration_ms": 165625,
       "name": "Water",
       "url": "https://open.spotify.com/track/0Rkn75x8Xcw8PdFDfYFTjR"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Water From Wine",
+      "url": "https://open.spotify.com/track/4iokZFTx4hmvHsY1cExFgn"
     },
     {
       "album": {
@@ -12578,6 +12796,24 @@
       "duration_ms": 190815,
       "name": "Wee Hours (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/52Jv5TSAOgAELwDC07F3EN"
+    },
+    {
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
     },
     {
       "album": {
@@ -13134,7 +13370,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197093,
       "name": "YOU GOTTA MAN",
       "url": "https://open.spotify.com/track/0pA0yHZ8gMyyoZwDKsOHs4"

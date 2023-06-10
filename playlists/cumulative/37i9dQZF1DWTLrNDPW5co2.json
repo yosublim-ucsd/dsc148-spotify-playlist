@@ -1721,6 +1721,36 @@
     },
     {
       "album": {
+        "name": "Oh The Glamour",
+        "url": "https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Oh The Glamour",
+      "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
+    },
+    {
+      "album": {
         "name": "Melbourne Street",
         "url": "https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS"
       },

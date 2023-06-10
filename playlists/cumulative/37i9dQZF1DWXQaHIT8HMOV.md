@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> 
+> Homegrown Ugandan hits in one playlist
 
-148 songs - 7 hr 38 min
+149 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 | 2023-03-21 |
 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 | 2023-03-20 |  |
 | [Omwana Wabandi \- Remix](https://open.spotify.com/track/0vK7OUdfdcCiucULQAPE59) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Lex Raven](https://open.spotify.com/artist/3mZYpQsk8ZyHkMCdtQL4iM) | [Omwana Wabandi \(Remix\)](https://open.spotify.com/album/2SJek9xY189sLRGmm17vin) | 2:44 | 2022-05-12 | 2022-09-02 |
+| [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 |  |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-06-24 |  |
 | [Only You](https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP) | [Tracie UG](https://open.spotify.com/artist/3aiGkLgNvUdSQjPdlXelw6), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Only You](https://open.spotify.com/album/1X7VdpscX61RBRxZJzwDFl) | 3:04 | 2023-02-03 | 2023-03-26 |
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 | 2022-10-06 |
@@ -123,7 +124,7 @@
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 | 2023-02-27 |
-| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 |  |
+| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-06-10 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 | 2023-05-11 |

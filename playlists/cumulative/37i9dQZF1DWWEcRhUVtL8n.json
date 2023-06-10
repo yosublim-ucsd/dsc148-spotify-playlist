@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Magdalena Bay",
+  "description": "New and approved indie pop. Cover: Sarah Kinsley",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "bestfriends girl",
+        "url": "https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151519,
+      "name": "bestfriends girl",
+      "url": "https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0"
+    },
+    {
+      "album": {
         "name": "Bet You Know",
         "url": "https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd"
       },
@@ -2868,6 +2886,24 @@
       "duration_ms": 144401,
       "name": "Black Coffee (feat. OCTAVIO the Dweeb)",
       "url": "https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO"
+    },
+    {
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222656,
+      "name": "Black Horse",
+      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
     },
     {
       "album": {
@@ -8200,7 +8236,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
@@ -10846,7 +10882,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
@@ -20056,7 +20092,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
@@ -23292,7 +23328,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
@@ -27005,6 +27041,24 @@
     },
     {
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183522,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs"
+    },
+    {
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK"
       },
@@ -27068,6 +27122,24 @@
       "duration_ms": 160159,
       "name": "UNBOUND - Austin Millz Remix",
       "url": "https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO"
+    },
+    {
+      "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG"
     },
     {
       "album": {

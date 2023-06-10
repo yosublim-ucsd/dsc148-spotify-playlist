@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 195297,
+  "num_followers": 195352,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjNiMmMzOTUxODdkMjZiZDg3ZGU4NGZkYTc4YTliM2M4YTJjMGRh",
+  "snapshot_id": "MCw5MTEyM2I3YWI0Y2ViODQ5NGRiMzRjNzI5N2QyY2MzZTM1NjNhMDIy",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "White Buffalo",
+        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 210697,
-      "name": "Like You Love Me",
-      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+      "duration_ms": 211200,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "White Buffalo",
-        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 211200,
-      "name": "More Than Me",
-      "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "The Walking in Between",
+        "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Forever Like That",
+      "url": "https://open.spotify.com/track/7wF4asYZw8cAHEljYd2Wid"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "The Walking in Between",
-        "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Forever Like That",
-      "url": "https://open.spotify.com/track/7wF4asYZw8cAHEljYd2Wid"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Gave You My Heart",
+        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Gave You My Heart",
+      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 226826,
       "name": "I Will Always Be Yours",
       "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Gave You My Heart",
-        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Gave You My Heart",
-      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Love in the West",
+        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "Love in the West",
+      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Love in the West",
-        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 138556,
-      "name": "Love in the West",
-      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+        "name": "Who Knew It Would Be So Hard to Be Myself",
+        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+      "duration_ms": 230808,
+      "name": "Big Ole Love",
+      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
     }
   ],
   "unique_name": "Higher Love",

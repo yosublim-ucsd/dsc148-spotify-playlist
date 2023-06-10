@@ -7520,7 +7520,7 @@
           "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         },
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
@@ -9497,7 +9497,7 @@
       "artists": [
         {
           "name": "Cha Woo Joo",
-          "url": "https://open.spotify.com/artist/3o5BGTGM1omXMh0eOu4khm"
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
         }
       ],
       "date_added": "2023-06-01",
@@ -86144,6 +86144,24 @@
       "duration_ms": 201533,
       "name": "Take the boat (feat. CHOSNG)",
       "url": "https://open.spotify.com/track/5wIA8zLUoxd6A9YVgHTBzr"
+    },
+    {
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
       "album": {

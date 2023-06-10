@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
+> Country gone wild! You never know what you're gonna get\. Cover: Diplo
 
-350 songs - 17 hr 44 min
+352 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-12-10 | 2022-08-20 |
 | [Backroad Flyin' \- Matthew Parker Remix](https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Backroad Flyin' \(Matthew Parker Remix\)](https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL) | 3:02 | 2022-08-19 | 2022-09-17 |
 | [Backwoods](https://open.spotify.com/track/64QS3eikdCpcoCXD3cukfr) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [Backwoods](https://open.spotify.com/album/0idBcdq0YwwCPty04TUCuZ) | 2:34 | 2021-12-10 | 2022-06-11 |
-| [Bad Decisions](https://open.spotify.com/track/3X0JZPRmG9lfR4NUlX49jL) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bad Decisions](https://open.spotify.com/album/3X0y9gC0hyk8iUcFQnxGn9) | 2:38 | 2023-05-19 |  |
+| [Bad Decisions](https://open.spotify.com/track/2b9REOIlmdLKHz4m9IzLUo) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bad Decisions](https://open.spotify.com/album/40hIVHrcmfHt3kFMVj9q7y) | 2:38 | 2023-06-09 |  |
+| [Bad Decisions](https://open.spotify.com/track/3X0JZPRmG9lfR4NUlX49jL) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bad Decisions](https://open.spotify.com/album/3X0y9gC0hyk8iUcFQnxGn9) | 2:38 | 2023-05-19 | 2023-06-10 |
 | [Bad Posture](https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Bad Posture](https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi) | 3:12 | 2021-12-10 | 2022-07-16 |
 | [Bar In Belize](https://open.spotify.com/track/7qoP8UanlYhL4OjQLyIPVm) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Bar In Belize](https://open.spotify.com/album/1Ch61lessoISQYShQ1gBwf) | 3:05 | 2022-05-06 | 2023-02-02 |
 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 |  |
@@ -302,6 +303,7 @@
 | [Tell You Everything](https://open.spotify.com/track/6q8BR4D8pvhSMVcIfrDHwS) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Tell You Everything](https://open.spotify.com/album/7gjPWAq21I5fMsQCroL3Zv) | 2:55 | 2021-12-10 | 2022-02-26 |
 | [Tequila Talkin'](https://open.spotify.com/track/3LjZIJQCRx5wh7yYOpYNFB) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:18 | 2022-02-04 |  |
 | [Tequila Talkin'](https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tequila Talkin'](https://open.spotify.com/album/3mFgRtQQYZ4lTVayUqHgqs) | 3:21 | 2021-12-10 | 2022-09-24 |
+| [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-06-09 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-27 |  |
 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 | 2021-12-10 | 2023-01-04 |
 | [The Ocean \(feat\. Charlie Worsham\)](https://open.spotify.com/track/3ndJ7tDSkqbJeXfj7Uww9z) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly](https://open.spotify.com/album/7uQZdPu3Ep9202R0lFQd8Z) | 3:35 | 2022-07-01 | 2023-01-04 |

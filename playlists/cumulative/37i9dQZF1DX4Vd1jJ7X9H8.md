@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-420 songs - 1 day 0 hr 58 min
+421 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 | 2021-11-12 | 2022-04-21 |
 | [Bucky Done Gun](https://open.spotify.com/track/5eQABBjViGlMlA7ZDB1QL7) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 3:46 | 2020-12-31 | 2022-04-19 |
 | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 | 2021-06-25 | 2022-04-11 |
-| [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 | 2023-05-04 |  |
+| [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 | 2023-05-04 | 2023-06-10 |
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2021-11-12 | 2022-07-29 |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2022-07-22 | 2022-08-12 |
 | [Can't Feel My Face](https://open.spotify.com/track/64bYIchESwtANfBlwJoK1e) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/36yJ6fcaSCVsK1tybnNizj) | 3:33 | 2020-12-31 | 2022-04-14 |
@@ -348,6 +348,7 @@
 | [Something New \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6u8hSdYZxbK5EczDPRIXXf) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 3:20 | 2020-12-31 | 2022-04-20 |
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2020-12-31 |  |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-08-27 | 2022-07-29 |
+| [Stay\-At\-Home DJ](https://open.spotify.com/track/1IaL8nSH8UiGMAb0UhgVnG) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd) | [Stay\-At\-Home DJ](https://open.spotify.com/album/0KesQUd4gYbiIaX6pLCEet) | 3:47 | 2023-06-09 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-07-22 | 2022-08-12 |
 | [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 | 2020-12-31 | 2022-07-23 |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2022-08-11 |  |

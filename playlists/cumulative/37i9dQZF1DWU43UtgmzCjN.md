@@ -4,7 +4,7 @@
 
 > Pa' toda la raza pesada\. Los Huracanes del Norte en portada.
 
-81 songs - 4 hr 12 min
+84 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [El Jardinero](https://open.spotify.com/track/0C7BYwQCy97wohoDE41D9y) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Solo Éxitos Originales](https://open.spotify.com/album/5C0NtlV6nT5q1jyWFxDwYr) | 3:09 | 2022-03-02 | 2022-11-14 |
 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 | 2021-10-15 |  |
 | [El Numero Uno](https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R) | [Los Incomparables De Tijuana](https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN) | [Los Corridos Del Millon](https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e) | 3:56 | 2021-10-15 |  |
-| [El Plebe y el Cholo](https://open.spotify.com/track/2jR8SDgmlxxxsiJ2iwd6Ms) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [El Mero León del Corrido](https://open.spotify.com/album/51xW5j4hSfm3UiqsDy5l7h) | 2:52 | 2023-02-24 |  |
+| [El Plebe y el Cholo](https://open.spotify.com/track/2jR8SDgmlxxxsiJ2iwd6Ms) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [El Mero León del Corrido](https://open.spotify.com/album/51xW5j4hSfm3UiqsDy5l7h) | 2:52 | 2023-02-24 | 2023-06-10 |
+| [El Retén de la Sierra](https://open.spotify.com/track/4jvFdMExvfNtlNAwUn4McE) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Reten de la Sierra](https://open.spotify.com/album/70dZFfCYcbhLuUaslXfdzl) | 3:35 | 2023-06-09 |  |
 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 | 2021-10-15 |  |
 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 | 2022-03-18 |  |
 | [En Que Trabaja El Muchacho](https://open.spotify.com/track/2mQ0j9CdvOdKaDp2UdJbZ4) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En Que Trabaja El Muchacho](https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB) | 2:02 | 2021-10-15 | 2022-12-08 |
@@ -84,9 +85,11 @@
 | [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 | 2021-10-15 |  |
 | [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [Pa' Los Plebes Y Mis Compas](https://open.spotify.com/track/3xFv8PN3uREVPOeTrm2OCN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pa' Los Plebes Y Mis Compas](https://open.spotify.com/album/26iPkmVGRZC4gSt8fuCQIb) | 2:31 | 2022-03-18 | 2023-02-24 |
-| [Pakas De A Kilo](https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD) | [El Halcon De La Sierra](https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU) | [El Mero Chaka](https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q) | 2:24 | 2021-10-15 |  |
+| [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 | 2023-06-09 |  |
+| [Pakas De A Kilo](https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD) | [El Halcon De La Sierra](https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU) | [El Mero Chaka](https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q) | 2:24 | 2021-10-15 | 2023-06-10 |
+| [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 | 2023-06-09 |  |
 | [Raquenel Villanueva](https://open.spotify.com/track/71rQncW9uGaAg4QplpEbeL) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [El Mero León del Corrido](https://open.spotify.com/album/51xW5j4hSfm3UiqsDy5l7h) | 3:15 | 2023-02-24 |  |
-| [Reunión en la Sierra](https://open.spotify.com/track/6yRyUraWazUPBimI43HpeL) | [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Reunión en la Sierra](https://open.spotify.com/album/3Walje4aOxMKP8rLQO4asL) | 2:46 | 2023-02-24 |  |
+| [Reunión en la Sierra](https://open.spotify.com/track/6yRyUraWazUPBimI43HpeL) | [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Reunión en la Sierra](https://open.spotify.com/album/3Walje4aOxMKP8rLQO4asL) | 2:46 | 2023-02-24 | 2023-06-10 |
 | [Se Les Peló Baltazar \(Época Pesada\) \- En Vivo](https://open.spotify.com/track/5GUCykbTpikELzpgO4WU68) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Se Les Peló Baltazar \(Época Pesada\) \[En Vivo\]](https://open.spotify.com/album/3TbM9ZwjrC54sz4UQ0C0fN) | 2:52 | 2021-10-15 | 2023-02-24 |
 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 | 2021-10-15 | 2023-02-24 |
 

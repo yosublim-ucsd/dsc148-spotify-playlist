@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,533 songs - 5 day 15 hr 41 min
+3,534 songs - 5 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [Flowow](https://open.spotify.com/track/7lY2zovuTeMCvUvk07Z0sG) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Flowow](https://open.spotify.com/album/08Ga0oeERhkVviuU1PML0I) | 1:55 | 2022-12-22 |  |
 | [Flowstate](https://open.spotify.com/track/3en1UeswrAkiqpJjy0yqM5) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Flowstate](https://open.spotify.com/album/26Xh03TQE0jvRP0mhqYAR6) | 1:52 | 2020-10-23 | 2021-05-21 |
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
+| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
 | [Fly Shit 2](https://open.spotify.com/track/253gLNG4TlHxP5Tgal2vzR) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Fly Shit 2](https://open.spotify.com/album/7shx3fdkpfpOqmgtssqu5I) | 4:03 | 2021-06-02 | 2021-07-16 |
 | [Flying Lessons](https://open.spotify.com/track/66cDR3rvUeDDt38UOkeJBa) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Flying Lessons](https://open.spotify.com/album/21RplqQnRza3oaZhjStyc4) | 2:39 | 2021-02-08 | 2021-03-06 |
@@ -1477,7 +1478,7 @@
 | [Jaywalking](https://open.spotify.com/track/0jMfLp8Tbfrexm7qgoEgPA) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Jaywalking](https://open.spotify.com/album/5OZclZ32XcBNVhbMhNLNUf) | 1:41 | 2023-05-04 |  |
 | [Jazz](https://open.spotify.com/track/0kQFM7bNOVlBRBVYmCDKgZ) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Jazz](https://open.spotify.com/album/4RNLKmLCS29J7G9QtQWIYF) | 1:47 | 2020-09-25 | 2021-03-14 |
 | [Jazz](https://open.spotify.com/track/3LkmrB45KwmI3pgBNv5qKX) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [One For: Two](https://open.spotify.com/album/1mrm4vTTNxy0c2caYq54NP) | 2:28 | 2022-08-01 | 2022-09-02 |
-| [Jazz Cat](https://open.spotify.com/track/6Rdzbt8DDH2zLsAI1bXvHP) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Jazz Cat](https://open.spotify.com/album/2zHO2Hb77NVUfm564Sp7bM) | 1:45 | 2023-06-01 |  |
+| [Jazz Cat](https://open.spotify.com/track/6Rdzbt8DDH2zLsAI1bXvHP) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Jazz Cat](https://open.spotify.com/album/2zHO2Hb77NVUfm564Sp7bM) | 1:45 | 2023-06-01 | 2023-06-10 |
 | [Jazz Cats](https://open.spotify.com/track/42GVxIGP9EOoi9OFAhDMhR) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Box of Tricks, Vol.1](https://open.spotify.com/album/3c43fmVPaC1KB3iEooUakt) | 2:22 | 2020-03-10 | 2020-06-09 |
 | [Jazz Hands](https://open.spotify.com/track/1hBEGXANHMGNqIjGvWUFmk) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Jazz Hands](https://open.spotify.com/album/7dMhFvDey2WAFtIomxb6J7) | 1:38 | 2022-11-24 | 2023-02-10 |
 | [Jazz Hands](https://open.spotify.com/track/5q2atGfcFptWfDwoHk7IYI) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Jazz Hands](https://open.spotify.com/album/7zW0HkTUxyMojrd5x4LdAj) | 1:38 | 2022-10-13 | 2022-11-24 |

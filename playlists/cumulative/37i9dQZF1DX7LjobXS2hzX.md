@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: The Weeknd
+> Voici les hits du moment\. Photo: Dua Lipa
 
-245 songs - 12 hr 55 min
+246 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-07-09 | 2022-09-03 |
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-07-09 | 2023-05-13 |
 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 | 2023-01-27 |  |
+| [99 Nights](https://open.spotify.com/track/1Bypyv9ERflkpxne0dZMBW) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk) | 2:56 | 2023-06-09 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-09 | 2022-10-15 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-07-09 | 2022-09-03 |
 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 | 2022-08-26 | 2023-04-22 |
@@ -111,7 +112,7 @@
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-09 | 2022-08-30 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-23 |  |
 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 | 2022-07-09 | 2022-12-10 |
-| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-09 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-09 | 2023-06-10 |
 | [I Don't Know Pas Savoir](https://open.spotify.com/track/6aelTinISLGEiUjdPwYbHe) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [I Don't Know Pas Savoir](https://open.spotify.com/album/4gF4gBpjJl2d2MHzJiHKIt) | 2:42 | 2022-07-09 | 2022-09-10 |
 | [I Feel Good](https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [DJ White Shadow](https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1) | [I Feel Good](https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9) | 2:52 | 2022-07-09 | 2023-01-14 |
 | [I Forgot, What Is Love ?](https://open.spotify.com/track/5HXqPlCwHoLWRGyCFI15UP) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [I Forgot, What Is Love ?](https://open.spotify.com/album/3FuZaR9VAM3rYKtIG3OCUZ) | 3:14 | 2022-07-09 | 2022-09-10 |
@@ -181,7 +182,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-07-09 | 2023-04-09 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-03 |  |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-24 | 2023-05-03 |
-| [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
 | [Pour toi](https://open.spotify.com/track/4OOCL2Sfbm6VVy8KrcuTjO) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Pour toi](https://open.spotify.com/album/6lIdkfl8jfTmc4xMaG6JwG) | 3:11 | 2023-02-17 | 2023-02-25 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-08-26 | 2022-09-17 |
 | [Quand la route est longue \- Radio Edit](https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Quand la route est longue \(feat\. FouKi\) \[Radio Edit\]](https://open.spotify.com/album/04V5LztQcB3ltQ9BXGJMEY) | 2:54 | 2022-07-09 | 2023-01-28 |

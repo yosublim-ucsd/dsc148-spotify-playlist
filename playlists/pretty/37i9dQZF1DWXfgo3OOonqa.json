@@ -1,12 +1,12 @@
 {
   "description": "d min bratkooooo",
-  "num_followers": 313455,
+  "num_followers": 313496,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGNkMWYxZDZlNmI0ZjkzOWI1YmY5OTNiYmQ5ODFjNzM1NWJiZGFm",
+  "snapshot_id": "MCw4YjJhZGQ5OTE2Yzc4ZDBlOWYxOTI4NTljYmIzMTk0YzQ1NDI0MjVl",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -247,8 +247,8 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "MALMO VICE",
-        "url": "https://open.spotify.com/album/7xnOMx2EiUCYSmNQkFxT4h"
+        "name": "MALM\u00d6 VICE",
+        "url": "https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy"
       },
       "artists": [
         {
@@ -257,8 +257,8 @@
         }
       ],
       "duration_ms": 120975,
-      "name": "MALMO VICE",
-      "url": "https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj"
+      "name": "MALM\u00d6 VICE",
+      "url": "https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -792,7 +792,7 @@
       "added_at": "2023-06-08 22:00:00",
       "album": {
         "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/463hymJPPE49Iyhxdzgy5s"
+        "url": "https://open.spotify.com/album/6G2FVjxl8Ag5rDe4eC3KkV"
       },
       "artists": [
         {
@@ -802,7 +802,7 @@
       ],
       "duration_ms": 148294,
       "name": "DIANA",
-      "url": "https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3"
+      "url": "https://open.spotify.com/track/3fYtCSU8WwhrUql7VHYoFn"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -931,17 +931,21 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Bacardi",
+        "name": "BACARDI",
         "url": "https://open.spotify.com/album/56orhnest5lbXKLNRCyTny"
       },
       "artists": [
         {
           "name": "RAMEL",
           "url": "https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h"
+        },
+        {
+          "name": "Peralta",
+          "url": "https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX"
         }
       ],
       "duration_ms": 158000,
-      "name": "Bacardi",
+      "name": "BACARDI",
       "url": "https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3024,
+  "num_followers": 3069,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODYzYzExNmU0NmU0ZmViZGQ5OWRiNTk5MmM2MzE0ZThlNTM3YTc2",
+  "snapshot_id": "MCw4YzlkYzkwMzRiN2ZjODhhZmVjZmNmOGFiYzc5ZTc5YzkyYmQyYjZk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tout \u00e9cartill\u00e9 (\u00c9dition deluxe)",
-        "url": "https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Je reviendrai \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/4e8LJBfqbFPybUtCUnLh2E"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Hagra, Vol.1",
         "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 145598,
       "name": "Filature",
       "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tout \u00e9cartill\u00e9 (\u00c9dition deluxe)",
+        "url": "https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Je reviendrai \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/4e8LJBfqbFPybUtCUnLh2E"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
+        "name": "Cassandre",
+        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
       },
       "artists": [
         {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
         }
       ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
+      "duration_ms": 184288,
+      "name": "Mauvais r\u00f4le",
+      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cassandre",
-        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
       },
       "artists": [
         {
-          "name": "BR\u00d6",
-          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
         }
       ],
-      "duration_ms": 184288,
-      "name": "Mauvais r\u00f4le",
-      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cow-Girl dor\u00e9e",
-        "url": "https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3"
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Martel",
-          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 194053,
-      "name": "Un amour qui ne veut pas mourir",
-      "url": "https://open.spotify.com/track/7hblNUL4xYe6Dwi4eaKLZi"
+      "duration_ms": 173843,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+        "name": "Cow-Girl dor\u00e9e",
+        "url": "https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3"
       },
       "artists": [
         {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+          "name": "Ren\u00e9e Martel",
+          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
         }
       ],
-      "duration_ms": 173843,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
+      "duration_ms": 194053,
+      "name": "Un amour qui ne veut pas mourir",
+      "url": "https://open.spotify.com/track/7hblNUL4xYe6Dwi4eaKLZi"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Parler",
-        "url": "https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO"
-      },
-      "artists": [
-        {
-          "name": "SOCIAL DANCE",
-          "url": "https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "Parler",
-      "url": "https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Parler",
+        "url": "https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO"
+      },
+      "artists": [
+        {
+          "name": "SOCIAL DANCE",
+          "url": "https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Parler",
+      "url": "https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Mon petit chemin",
-      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Il faut partir maintenant",
         "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Mon petit chemin",
+      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1331,26 +1331,6 @@
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Or",
-        "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "OneNessa",
-          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Or",
-      "url": "https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1375,22 +1355,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "C-17",
-        "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
+        "name": "Or",
+        "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
       "artists": [
         {
-          "name": "Lova",
-          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
         },
         {
-          "name": "MikeZup",
-          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+          "name": "OneNessa",
+          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
         }
       ],
-      "duration_ms": 172440,
-      "name": "C-17",
-      "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
+      "duration_ms": 207058,
+      "name": "Or",
+      "url": "https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1411,6 +1391,26 @@
       "duration_ms": 209559,
       "name": "Pas toi encore",
       "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "C-17",
+        "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        },
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "C-17",
+      "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Rap Queb Monuments",
+        "url": "https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "duration_ms": 253095,
+      "name": "Dans l'sang",
+      "url": "https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8"
       },
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Rap Queb Monuments",
-        "url": "https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 253095,
-      "name": "Dans l'sang",
-      "url": "https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 312653,
       "name": "A\u00e9roplane",
       "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Nouvelle administration",
-        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 198145,
-      "name": "Nouvelle administration",
-      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
-        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
       },
       "artists": [
         {
-          "name": "Isabelle Boulay",
-          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
         }
       ],
-      "duration_ms": 235880,
-      "name": "Je t'ai manqu\u00e9",
-      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1715,6 +1699,22 @@
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
+        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Je t'ai manqu\u00e9",
+      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
-      },
-      "artists": [
-        {
-          "name": "Zoo Baby",
-          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Diff\u00e9rent de toi",
-      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1951,6 +1935,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Diff\u00e9rent de toi",
+      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Aurore",
         "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
       },
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Fr\u00e9quence violence",
         "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 170346,
       "name": "Cristaux liquides",
       "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2111,6 +2111,38 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Winston Express",
+        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
+      },
+      "artists": [
+        {
+          "name": "Le Winston Band",
+          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Fais-moi tien",
+      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Bad Vibrations",
+        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
+      },
+      "artists": [
+        {
+          "name": "Mudie",
+          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
+        }
+      ],
+      "duration_ms": 167851,
+      "name": "Alien 2, le retour",
+      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Petite fille devient grande",
         "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
       },
@@ -2131,22 +2163,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Winston Express",
-        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
-      },
-      "artists": [
-        {
-          "name": "Le Winston Band",
-          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Fais-moi tien",
-      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Bad Vibrations",
-        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
-      },
-      "artists": [
-        {
-          "name": "Mudie",
-          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
-        }
-      ],
-      "duration_ms": 167851,
-      "name": "Alien 2, le retour",
-      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",

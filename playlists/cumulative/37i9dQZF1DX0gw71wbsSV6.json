@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "call me",
+        "url": "https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My"
+      },
+      "artists": [
+        {
+          "name": "erdocia",
+          "url": "https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX"
+        },
+        {
+          "name": "Gracio Zaqueu",
+          "url": "https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438400,
+      "name": "call me",
+      "url": "https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln"
+    },
+    {
+      "album": {
         "name": "Calm Down (Dennis Bovell dUb Remix)",
         "url": "https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL"
       },
@@ -316,7 +338,7 @@
       },
       "artists": [
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         },
         {
@@ -1504,7 +1526,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 302000,
       "name": "Let You Break My Heart Again - Live at The Symphony",
       "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"

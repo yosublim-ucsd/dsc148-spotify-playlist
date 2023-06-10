@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-362 songs - 20 hr 32 min
+363 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [How Would It Feel](https://open.spotify.com/track/7mzuPw1HXwxQge1C1yUFY9) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [How Would It Feel](https://open.spotify.com/album/4t4dxJtjTLKS4FRBqgEWvo) | 2:26 | 2021-10-29 | 2023-04-29 |
 | [How You Holding Up](https://open.spotify.com/track/2OolzGY8DXkFiF0ZxasiSP) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [How You Holding Up](https://open.spotify.com/album/43KZCd48RCaL2JiDvIEQTk) | 3:08 | 2021-04-24 | 2021-10-16 |
 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 | 2022-09-16 |  |
+| [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 | 2023-06-09 |  |
 | [Howling](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Howling](https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG) | 3:07 | 2020-12-26 |  |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-10-30 |  |
 | [I Can't Sleep](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [I Can't Sleep](https://open.spotify.com/album/06SmE9wI7ZTaCHnil6sNWl) | 3:11 | 2020-11-07 | 2023-03-18 |

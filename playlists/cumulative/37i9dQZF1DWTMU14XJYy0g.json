@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "El Universo",
+        "url": "https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136747,
+      "name": "El Universo",
+      "url": "https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H"
+    },
+    {
+      "album": {
         "name": "Ella Va / La Cita",
         "url": "https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX"
       },
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 162591,
       "name": "Inventario",
       "url": "https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq"
@@ -2043,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Mago",
+        "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Mago",
+      "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
+    },
+    {
+      "album": {
         "name": "Maldito Show",
         "url": "https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO"
       },
@@ -2456,7 +2496,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195201,
       "name": "Otra Ruta Desierta",
       "url": "https://open.spotify.com/track/5KNp5cdwR9buN93aPQMjcD"

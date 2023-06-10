@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 169092,
+  "num_followers": 169666,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGUwNWEzY2RjMGZiYjg4ZTgxMTVhYTNmNTg0YTZjNDQ5NDE2OGNj",
+  "snapshot_id": "MCwyMTA2ZWRiMDI5ZjRiYzcyZTIzY2ExODQzNjI0NWQzMmY2ZTFjYWQw",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "All In The Mind",
-        "url": "https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU"
-      },
-      "artists": [
-        {
-          "name": "The Bucketheads",
-          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
-      "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "All In The Mind",
+        "url": "https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU"
+      },
+      "artists": [
+        {
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Everybody's Free",
-        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
-      },
-      "artists": [
-        {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Everybody's Free (Single Version)",
-      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 450912,
       "name": "Pjanoo - Club Mix",
       "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Everybody's Free",
+        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Everybody's Free (Single Version)",
+      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Extra Virgin",
-        "url": "https://open.spotify.com/album/7KmNl25MQnnmcb6YfIT08V"
-      },
-      "artists": [
-        {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
-        }
-      ],
-      "duration_ms": 271026,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0L5oYrkC94ArMJDmjtvJWC"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201453,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Extra Virgin",
+        "url": "https://open.spotify.com/album/7KmNl25MQnnmcb6YfIT08V"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
+        }
+      ],
+      "duration_ms": 271026,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0L5oYrkC94ArMJDmjtvJWC"
     },
     {
       "added_at": "2022-04-13 15:02:41",

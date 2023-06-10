@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "El Universo",
+        "url": "https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136747,
+      "name": "El Universo",
+      "url": "https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H"
+    },
+    {
+      "album": {
         "name": "Enemigo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },

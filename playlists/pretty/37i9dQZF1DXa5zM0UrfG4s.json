@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 99137,
+  "num_followers": 99202,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODBjYzI4NzY3YjcxNzhmN2IxOTNmODU3YmM2MGY5MzY4M2UwZmM1",
+  "snapshot_id": "MCxiMzNkMTQ1OTE1OWNlMGIyMWIzZGU3YmRhNDI4NGE0NTI4MjI4YmNj",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -159,6 +159,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "ALBUMTRAOZ",
-        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        },
-        {
-          "name": "K\u00e5ren",
-          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Raggarbil",
-      "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -323,26 +323,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Mawbys",
-        "url": "https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8"
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
       "artists": [
         {
-          "name": "Br\u00f8drene Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Thomskalle",
-          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
-        },
-        {
-          "name": "Ginger Joe",
-          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 184508,
-      "name": "Mawbys",
-      "url": "https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv"
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -363,22 +355,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Stavangerkameratene",
         "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
       },
@@ -391,22 +367,6 @@
       "duration_ms": 210093,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Raggen m\u00e5ste g\u00e5",
-        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "Raggen m\u00e5ste g\u00e5",
-      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -427,6 +387,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Ja likav\u00e4l",
         "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
       },
@@ -439,26 +415,6 @@
       "duration_ms": 161917,
       "name": "Ja likav\u00e4l",
       "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -479,6 +435,26 @@
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -519,46 +495,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        }
-      ],
-      "duration_ms": 140245,
-      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "V\u00e5rrull",
         "url": "https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx"
       },
@@ -571,6 +507,22 @@
       "duration_ms": 137774,
       "name": "V\u00e5rrull",
       "url": "https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -631,18 +583,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "TOP GUN",
-        "url": "https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c"
+        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
         }
       ],
-      "duration_ms": 140307,
-      "name": "TOP GUN",
-      "url": "https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE"
+      "duration_ms": 140245,
+      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -659,6 +619,22 @@
       "duration_ms": 180393,
       "name": "Konge p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "TOP GUN",
+        "url": "https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "TOP GUN",
+      "url": "https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -751,6 +727,34 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "\u00c6rmen i k\u00e6rmen (Remix)",
+        "url": "https://open.spotify.com/album/2zSfoNFUTIFuT5CaH9C8zY"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sellevoll",
+          "url": "https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Mr. Pimp-Lotion",
+          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 163196,
+      "name": "\u00c6rmen i k\u00e6rmen - Remix",
+      "url": "https://open.spotify.com/track/6U1SykqBrf8ogs548afPUW"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -787,34 +791,6 @@
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "\u00c6rmen i k\u00e6rmen (Remix)",
-        "url": "https://open.spotify.com/album/2zSfoNFUTIFuT5CaH9C8zY"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sellevoll",
-          "url": "https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Mr. Pimp-Lotion",
-          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 163196,
-      "name": "\u00c6rmen i k\u00e6rmen - Remix",
-      "url": "https://open.spotify.com/track/6U1SykqBrf8ogs548afPUW"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -971,22 +947,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "En gammal Amazon",
         "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
@@ -1019,6 +979,22 @@
       "duration_ms": 146315,
       "name": "Skal du ikke bade, Petter?",
       "url": "https://open.spotify.com/track/3XkGqWAbP5iqPy8HzCFgTc"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1063,22 +1039,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "En drikkesang",
         "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
       },
@@ -1099,6 +1059,22 @@
       "duration_ms": 134973,
       "name": "En drikkesang",
       "url": "https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        }
+      ],
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1243,22 +1219,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Denne Sommer\u00b4n",
         "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
       },
@@ -1271,6 +1231,22 @@
       "duration_ms": 160720,
       "name": "Denne Sommer\u00b4n",
       "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1319,6 +1295,22 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
+      },
+      "artists": [
+        {
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

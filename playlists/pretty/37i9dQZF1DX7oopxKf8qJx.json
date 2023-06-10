@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 61250,
+  "num_followers": 61334,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWQyZmQyZjNiMTA3ZWM3MDgwOTUwNTI2ZTI4MzBmY2FjYjZkNDZl",
+  "snapshot_id": "MCw2ZjcxODVjYTg1ZGU1NzAxNzc0YThhN2FjMzY5MTkxNzVhYzI1NGI4",
   "tracks": [
     {
       "added_at": "2023-06-08 13:25:57",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
+        "name": "Film Festival",
+        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
+      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
+    },
+    {
+      "added_at": "2023-06-08 13:25:57",
+      "album": {
         "name": "The Third Man - Cinema Gala",
         "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 160000,
       "name": "Moon River - From \"Breakfast At Tiffanys\"",
       "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
-    },
-    {
-      "added_at": "2023-06-08 13:25:57",
-      "album": {
-        "name": "Film Festival",
-        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
-      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
     },
     {
       "added_at": "2023-06-08 13:25:57",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
-        "name": "The Essential Henry Mancini",
-        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 160693,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
+      "duration_ms": 191066,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
     },
     {
       "added_at": "2023-06-08 13:25:57",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "The Essential Henry Mancini",
+        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
       },
       "artists": [
         {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
+      "duration_ms": 160693,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
     },
     {
       "added_at": "2023-06-08 13:25:57",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
-        "name": "A Warm Shade of Ivory",
-        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
+        "name": "You and the Night and the Music",
+        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "The Melachrino Strings and Orchestra",
+          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
         }
       ],
-      "duration_ms": 185680,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
+      "duration_ms": 169493,
+      "name": "Violins in the Night",
+      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
     },
     {
       "added_at": "2023-06-08 13:25:57",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
-        "name": "You and the Night and the Music",
-        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
       "artists": [
         {
-          "name": "The Melachrino Strings and Orchestra",
-          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Violins in the Night",
-      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-06-08 13:25:57",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-06-08 13:25:57",
       "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+        "name": "A Warm Shade of Ivory",
+        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
       },
       "artists": [
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+      "duration_ms": 185680,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
     },
     {
       "added_at": "2023-06-08 13:25:57",

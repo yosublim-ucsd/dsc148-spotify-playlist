@@ -2,9 +2,9 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Becky G & Omega
+> Hits con sabor\. Cover: Maluma
 
-279 songs - 18 hr 8 min
+280 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-01-28 |  |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2021-12-03 | 2022-02-15 |
 | [Cobarde \- Remix](https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Cobarde \(Remix\)](https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx) | 3:51 | 2022-05-13 | 2023-01-13 |
+| [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 |  |
 | [Colombia, Mi Encanto](https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:55 | 2022-02-14 |  |
 | [Como Abeja a la Flor](https://open.spotify.com/track/1XSIDSBoFIlXEy9WpxSMdo) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Como Abeja a la Flor](https://open.spotify.com/album/2FvnEzBegeI1BjMpGwhuIX) | 3:51 | 2021-12-03 | 2022-02-14 |
 | [Con los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 | 2021-12-03 | 2022-02-15 |
@@ -180,7 +181,7 @@
 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 | 2021-12-03 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2021-12-03 | 2022-02-15 |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2021-12-03 | 2022-02-15 |
-| [Ojalá](https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ojalá](https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW) | 3:35 | 2022-03-04 |  |
+| [Ojalá](https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ojalá](https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW) | 3:35 | 2022-03-04 | 2023-06-10 |
 | [Ojalá \- Remix](https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Ojalá \(Remix\)](https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH) | 3:39 | 2022-04-15 | 2023-01-13 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-03 |  |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-28 | 2023-04-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 196049,
+  "num_followers": 196098,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjBkZWJmODBjMGJhMjRiM2IwYzNkYjdmMjIzZGY2M2E5ZjJmZTMz",
+  "snapshot_id": "MCw3MWZkOWQ3OGYzODdkNmZjZmYyMDFjOWVmM2Q4NTQ4MzAzYzNhYmEz",
   "tracks": [
     {
       "added_at": "2023-05-12 07:31:44",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 277400,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Original Musiquarium",
-        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 251520,
       "name": "Sideshow",
       "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 332866,
+      "name": "Feel the Fire",
+      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 332866,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
     },
     {
       "added_at": "2023-05-12 07:31:44",

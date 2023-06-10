@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"> Theresa Phondo </a>
 
-117 songs - 10 hr 39 min
+119 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/6u0ggURapgKtAjEKdNjcRG) | [Michoman](https://open.spotify.com/artist/1PAOc2GbOyctxnqGtf0XAI) | [All I Ever Wanted](https://open.spotify.com/album/51ZwmNFU7KkoriFPOLklbD) | 3:18 | 2023-06-09 |  |
 | [All I have is You](https://open.spotify.com/track/7mJ1bWL8MDTQUfK5On1wOi) | [Silver\-Ajifa](https://open.spotify.com/artist/3JnpW6KA64hTOyFotD9bDE) | [All I have is You](https://open.spotify.com/album/3jTu3pt592K1vmiJ27HdYC) | 2:36 | 2023-05-26 | 2023-06-09 |
 | [All I Want](https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Destination!](https://open.spotify.com/album/5oMsAkJPogSjaruQA9O8OK) | 3:36 | 2023-05-19 | 2023-06-02 |
+| [All My Days](https://open.spotify.com/track/3ScFw4HM820FIsQmKAqzDt) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 6:30 | 2023-06-09 |  |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 | 2023-06-09 |
 | [Amandla](https://open.spotify.com/track/2cfsyu1dekGGRmQ5UAdqx5) | [Frank Apollo](https://open.spotify.com/artist/6mErHUDhtgMv8k7mvatV1E), [Ginger Nkosi](https://open.spotify.com/artist/5DCRdpg10wtsIw9RBGknz0) | [Amandla](https://open.spotify.com/album/27WitI12rkBtSquZjHjIeK) | 3:35 | 2023-06-09 |  |
 | [AMEN](https://open.spotify.com/track/5te8eGMqNTYJdqzKGveC4Q) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [AMEN](https://open.spotify.com/album/5Rs6ZVBFj6M80hbzXg6Dis) | 3:39 | 2023-06-09 |  |
@@ -109,6 +110,7 @@
 | [Steadfast Love](https://open.spotify.com/track/53KKXy5hUFyX5e6A2TEmrj) | [ELNAVES](https://open.spotify.com/artist/6hpcf8vS352DveXt886rGp), [Cedart](https://open.spotify.com/artist/3913fbVlXa5aoRL8NUjbFk) | [Steadfast Love](https://open.spotify.com/album/6s2TyaRf0jxIOACox1egjc) | 3:33 | 2023-05-19 | 2023-06-02 |
 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 | 2023-06-02 |  |
 | [Te Bola Be?](https://open.spotify.com/track/3GPQwkDMPQgxgJx1252ypX) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 3:36 | 2023-06-02 | 2023-06-09 |
+| [Thank You Lord](https://open.spotify.com/track/5vy5AVFTef17Yt4dCTUc7s) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 4:55 | 2023-06-09 |  |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 |  |
 | [Thanking You \- Remix](https://open.spotify.com/track/25LTvztke58U8QK1C6ekIq) | [Moyin Omidiji](https://open.spotify.com/artist/6r6eojUtT5LvbEIJ9o1Aaw) | [Thanking You \(Remix\)](https://open.spotify.com/album/1sSRoP0gbjbT6iiJBdR7Y1) | 4:29 | 2023-06-02 |  |
 | [The Price](https://open.spotify.com/track/7hQOxvEUfpxM7GdNv7nozp) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [The Price](https://open.spotify.com/album/1r41QqSNv2ytp2iwyNZwrG) | 2:10 | 2023-06-02 | 2023-06-09 |

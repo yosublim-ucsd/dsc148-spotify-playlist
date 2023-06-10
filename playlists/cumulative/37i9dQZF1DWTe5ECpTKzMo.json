@@ -1891,6 +1891,28 @@
     },
     {
       "album": {
+        "name": "Luces Fantasma",
+        "url": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273176,
+      "name": "Solo Como Amigos",
+      "url": "https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },

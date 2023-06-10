@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 347497,
+  "num_followers": 347574,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmE1NTY3MjUyYjgwZDVmMzlhNmIyNDdmYzYwNGNhYzRkMDYwNjJj",
+  "snapshot_id": "MCw3NjU3YWY3OTNmZjU3MjdmMmM1MGUwNjM0ZDNhY2YyZGYyN2VlMTBm",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Bennu",
         "url": "https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/0sdzZh61bpEFsBSDQ5G8GA"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Semillero",
-        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
       "artists": [
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
         }
       ],
-      "duration_ms": 348009,
-      "name": "Pua",
-      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -963,6 +943,26 @@
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Zenit & Nadir",
-        "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Mikongo",
-          "url": "https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45"
-        },
-        {
-          "name": "Sara Van",
-          "url": "https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY"
-        }
-      ],
-      "duration_ms": 285581,
-      "name": "El Cavilante",
-      "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Ghetto Kumb\u00e9",
         "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
       },
@@ -1087,6 +1063,26 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

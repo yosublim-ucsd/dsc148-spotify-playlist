@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155000,
       "name": "Calmative",
       "url": "https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213250,
       "name": "Despina",
       "url": "https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 169250,
       "name": "Fairy Glen",
       "url": "https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 152884,
       "name": "Moon Shimmer",
       "url": "https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh"
@@ -2576,6 +2576,24 @@
       "duration_ms": 188691,
       "name": "Muna",
       "url": "https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g"
+    },
+    {
+      "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w"
+      },
+      "artists": [
+        {
+          "name": "Merlin Loughty",
+          "url": "https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185145,
+      "name": "Myriad",
+      "url": "https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit"
     },
     {
       "album": {
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198250,
       "name": "Quand je te vois",
       "url": "https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"

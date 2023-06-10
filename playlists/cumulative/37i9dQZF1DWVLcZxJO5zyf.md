@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Juliette
 
-206 songs - 9 hr 35 min
+208 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [FBI](https://open.spotify.com/track/1njlseyMEPqQANyj9K3Khf) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [FBI](https://open.spotify.com/album/6Lu78aAF95EFbMEtCfBgav) | 3:37 | 2022-05-06 | 2022-09-03 |
 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 |  |
 | [Fivela \(feat\. Flow Key, Bernax\)](https://open.spotify.com/track/6KUC0Tp3HhbUzxya6HgN0L) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Cowboy do Mandelão](https://open.spotify.com/album/5L3BFkg9tDR8nCh6YMnQOF) | 1:59 | 2022-09-02 | 2022-11-24 |
+| [Flash Volta](https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Flash Volta](https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa) | 2:58 | 2023-06-09 |  |
 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 | 2023-01-27 | 2023-03-25 |
 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 | 2022-02-11 | 2022-08-13 |
 | [fugitivos :\)](https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [fugitivos :\)](https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu) | 3:26 | 2022-01-14 | 2022-02-05 |
@@ -148,7 +149,8 @@
 | [Piripaque](https://open.spotify.com/track/34YiGxsF0ESM7TEGRYf38X) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Piripaque](https://open.spotify.com/album/2t02byB5tMIdKeAh3bdXlE) | 2:04 | 2022-12-16 | 2023-01-06 |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 | 2022-03-05 |
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2023-01-04 |  |
-| [Ponto de Brasa](https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Ponto de Brasa](https://open.spotify.com/album/50JIAfAwNqPWVIzuYwgFPh) | 2:40 | 2023-04-14 |  |
+| [Ponto de Brasa](https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Ponto de Brasa](https://open.spotify.com/album/50JIAfAwNqPWVIzuYwgFPh) | 2:40 | 2023-04-14 | 2023-06-10 |
+| [Ponto de Brasa](https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:40 | 2023-06-09 |  |
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-01-14 | 2023-01-28 |
 | [Potência](https://open.spotify.com/track/4hjUqN9S84dPLGdlUufp0c) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Potência](https://open.spotify.com/album/1CwQPBAAD3xos4HZemsZvf) | 2:59 | 2022-07-29 | 2022-11-12 |
 | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/track/3iNjNUUuuF5Mjk7tYWAI9N) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Suku Ward](https://open.spotify.com/artist/11mHQVYCOp3dbhqezMJDGq) | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5) | 2:37 | 2022-01-14 | 2022-02-05 |

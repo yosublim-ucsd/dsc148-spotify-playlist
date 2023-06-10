@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 489182,
+  "num_followers": 489300,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjllYmU0MTY0ZTk3ODYwMTc5ZTdkYWRkYmYxMGY4ZWJkOTgyYjQ4",
+  "snapshot_id": "MCxkMWFiMTdiZWNkN2Q1MjFlYTI5OTc1Y2IwNGM2MjU4ODIzMWNjODdj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Only Human (Special Edition)",
         "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Unbreakable Smile",
         "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 188946,
       "name": "I Was Made For Loving You",
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1945,22 +1945,6 @@
       "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
     },
     {
-      "added_at": "2023-04-21 11:56:43",
-      "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Air: Aquarius' Songs",
@@ -1975,6 +1959,22 @@
       "duration_ms": 270486,
       "name": "Ghost in the Wind",
       "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
+    },
+    {
+      "added_at": "2023-04-21 11:56:43",
+      "album": {
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
-      },
-      "artists": [
-        {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Lightyears",
         "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 250893,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     },
     {
       "added_at": "2023-02-10 11:00:00",

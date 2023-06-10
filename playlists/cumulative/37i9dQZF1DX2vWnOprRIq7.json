@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
+  "description": "El lado fluorescente del indie latino featuring Julais.",
   "name": "NE\u00d3N",
   "tracks": [
     {
@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+    },
+    {
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1198,7 +1220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219800,
       "name": "La Luna de Madrid",
       "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
@@ -1252,7 +1274,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 237962,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF"
@@ -2570,6 +2592,28 @@
       "duration_ms": 182062,
       "name": "Vital",
       "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
+    },
+    {
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "album": {

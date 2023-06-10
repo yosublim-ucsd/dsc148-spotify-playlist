@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Jordan Susanto
 
-1,987 songs - 5 day 1 hr 45 min
+1,989 songs - 5 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Don’t Judge Me](https://open.spotify.com/track/0u0ivkMMnw6ADn3IelvMyq) | [Nino Kuya](https://open.spotify.com/artist/0LV1a6lI6oiQU2QyhNrUND) | [Don’t Judge Me](https://open.spotify.com/album/5CS0sXtMgbKn2H1NfyGxCN) | 3:20 | 2022-06-09 | 2022-07-01 |
 | [Don’t Leave Me on My Own](https://open.spotify.com/track/1gKFMTNytZMo9WJPbFp33R) | [Mega Bhu](https://open.spotify.com/artist/30hNhIAEL9CI7804oMJXS6) | [Don’t Leave Me on My Own](https://open.spotify.com/album/6YKpHOd0WryEUAWsvFVma2) | 4:42 | 2023-01-12 | 2023-01-27 |
 | [Dopamine](https://open.spotify.com/track/6nIdc63CNRI3CqmqFrTXiN) | [Atha Rafif](https://open.spotify.com/artist/6DFJ8h0sIeIpd39fcliTwa) | [Dopamine](https://open.spotify.com/album/1zSFbB5v2xqSBdwboNu5Oh) | 4:12 | 2023-04-27 | 2023-05-19 |
+| [Double Happiness \- Freestyle](https://open.spotify.com/track/17nt31Y4kYcgnIewfwxIfW) | [Davi Sol](https://open.spotify.com/artist/3zJT799hLRH5sT6AucfyPD) | [Double Happiness \(Freestyle\)](https://open.spotify.com/album/415fpCbsmyIl1XDlxeErUt) | 3:05 | 2023-06-08 |  |
 | [Doux Escape](https://open.spotify.com/track/2ViL01hAtFzX4gDTNFzfBD) | [Rasya](https://open.spotify.com/artist/1DJOVIe6ZV05Dhqu9lkQDO) | [Doux Escape](https://open.spotify.com/album/144ft4nhLesdzxXZbGvgXE) | 3:30 | 2022-03-10 | 2023-01-13 |
 | [down](https://open.spotify.com/track/42ZvBCbOZIPSswXXmL7eWC) | [Ramandhika](https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt) | [down](https://open.spotify.com/album/2C5TRWMxdkBcKWI16NkEWB) | 3:02 | 2023-06-08 |  |
 | [Down & Done \- Demo](https://open.spotify.com/track/3ebLX6bDmUlScjrbBujgrg) | [Youga](https://open.spotify.com/artist/2zVIPdUrSb78d75HbaPZ68) | [Down & Done \(Demo\)](https://open.spotify.com/album/0TxwqIwnXE69qFLMzb095l) | 2:40 | 2022-01-13 | 2022-01-28 |
@@ -1282,6 +1283,7 @@
 | [Ooh La La](https://open.spotify.com/track/2wGGoU7GG3T0xzuC9XY4nU) | [Liquidsilva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Ooh La La](https://open.spotify.com/album/6Twggz0WqiTpGDKSx6SzKd) | 3:33 | 2022-01-20 | 2022-02-04 |
 | [oOoyea](https://open.spotify.com/track/6vwvbXdQJ0cII3VGbW0XKv) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [oOoyea](https://open.spotify.com/album/22os5jvH0IFvF4X5HAWtSC) | 2:42 | 2022-04-14 | 2022-05-06 |
 | [Orbit](https://open.spotify.com/track/7uRqQozkua10mFoPQSwdX4) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [Orbit](https://open.spotify.com/album/2FdM9kSUb3x6JH9oB89UEa) | 4:43 | 2023-01-12 | 2023-01-27 |
+| [Other Times](https://open.spotify.com/track/2jf2opLHn4yNmcqJaRJKik) | [AUFA](https://open.spotify.com/artist/57vTMw9BZDiAnFKH5xYuIO), [Helena Arnetta](https://open.spotify.com/artist/32rZO17E9xlSq1vxQeYQyn) | [Other Times](https://open.spotify.com/album/24yw2OIxvPJ07GPdz0YKmy) | 4:01 | 2023-06-08 |  |
 | [Otherside](https://open.spotify.com/track/34Pe15InqvlN8OiwpeMkwV) | [Zedphoria](https://open.spotify.com/artist/6gaK3wKGbPft0OHtdecBgT) | [Otherside](https://open.spotify.com/album/7GL2MwCGiTWYHnlJBiT4dh) | 2:52 | 2023-04-20 | 2023-05-12 |
 | [OUT](https://open.spotify.com/track/5A38B8zWmxDmx9aoE4GrZM) | [Chika Olivia](https://open.spotify.com/artist/6bFosFvff0gpjAmdnBZYbd) | [OUT](https://open.spotify.com/album/50N67DLd0Lx6DKnkIFFVsQ) | 4:10 | 2022-04-28 | 2022-05-13 |
 | [out here dying](https://open.spotify.com/track/1KLmCsnuyYS5g1Svx1VKXQ) | [The Backdoor Hours](https://open.spotify.com/artist/3u5XGIc6oD5ZdoyidlX39q), [Mutual House](https://open.spotify.com/artist/2n7kInDyNFUkYZX8PtY5Cq) | [out here dying](https://open.spotify.com/album/45d067h43vled0MVBeDkMK) | 3:54 | 2022-09-01 | 2022-09-16 |

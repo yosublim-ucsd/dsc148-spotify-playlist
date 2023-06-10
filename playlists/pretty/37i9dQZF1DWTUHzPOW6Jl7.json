@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 466459,
+  "num_followers": 466981,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDBlYTc4MjNhZjI3NTlkNjQ5OTQ5Y2FkNTIwMzcyOTI4N2MwNjM5",
+  "snapshot_id": "MCw2YjkzNmU1ZTMwYTMzOGNjMDNjYmRiZmQ5MGJkMzM4NTM0NWI1ZGI0",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Hurtin' Me",
         "url": "https://open.spotify.com/album/2xhP3p0znN775vRxRP71ET"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 212815,
       "name": "Hurtin' Me",
       "url": "https://open.spotify.com/track/76IkF7pA7RscjDTvOFT4vb"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1405,7 +1405,23 @@
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
-      "added_at": "2023-06-09 01:39:12",
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Concrete Rose",
+        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Only U - No Intro",
+      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+    },
+    {
+      "added_at": "2023-06-10 01:15:38",
       "album": {
         "name": "In Pieces",
         "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
@@ -1423,22 +1439,6 @@
       "duration_ms": 204832,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Concrete Rose",
-        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Only U - No Intro",
-      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Body Do",
-        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 142809,
-      "name": "Body Do",
-      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Fear Of Flying",
@@ -1547,6 +1531,22 @@
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
       "added_at": "2022-08-02 10:25:51",

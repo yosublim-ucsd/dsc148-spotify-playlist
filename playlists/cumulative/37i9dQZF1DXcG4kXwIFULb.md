@@ -4,7 +4,7 @@
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-187 songs - 15 hr 29 min
+188 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 | 2020-09-04 | 2022-07-29 |
 | [Angel Echoes](https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 3:59 | 2020-09-04 |  |
 | [Angelica](https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje) | 3:40 | 2020-09-04 | 2022-07-29 |
-| [Angelica](https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p) | 3:44 | 2020-09-04 |  |
+| [Angelica](https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p) | 3:44 | 2020-09-04 | 2023-06-10 |
 | [Angels](https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ) | 4:03 | 2020-09-04 |  |
 | [Angels](https://open.spotify.com/track/5r3eWOSUAcHHbX7cydZ4Q7) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/4r2rfpOZy2TJgtIZJYOpBa) | 4:03 | 2020-09-04 | 2023-04-29 |
 | [Angels](https://open.spotify.com/track/6blaP5IdMxaeXDCSm8hSrf) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/0hvFNcdXKIaEJWvrSByf5L) | 4:03 | 2020-09-04 | 2022-07-29 |
@@ -179,6 +179,7 @@
 | [Time Is the Enemy](https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY) | 3:43 | 2020-09-04 |  |
 | [Time Is the Enemy](https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT) | 3:43 | 2020-09-04 | 2023-04-29 |
 | [Transatlantic](https://open.spotify.com/track/25WbZC6FWY8vLPaSJfm44G) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/1pUrBpL9xNwHUlVHqTAoSi) | 4:42 | 2020-09-04 | 2022-07-29 |
+| [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 | 2020-09-04 |  |
 | [Transatlantic](https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf) | 4:44 | 2020-09-04 | 2023-04-29 |
 | [Trigger Hippie](https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 5:31 | 2020-09-04 | 2022-07-29 |
 | [Under the Gun](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 3:30 | 2020-09-04 | 2022-07-29 |

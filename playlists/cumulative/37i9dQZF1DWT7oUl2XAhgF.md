@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-304 songs - 18 hr 42 min
+305 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-01-14 | 2022-07-25 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2023-01-20 |  |
 | [Get It Right](https://open.spotify.com/track/34C4K4p6tnU9So52HFbpMZ) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Get It Right](https://open.spotify.com/album/15y0gBM5PFz4ftsLO1O1v3) | 3:01 | 2023-04-21 |  |
-| [Golden](https://open.spotify.com/track/52bSduJitvvc9Rj8NifQTm) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Golden](https://open.spotify.com/album/4zCLgozrcJZMxSI91GiaQG) | 3:42 | 2022-01-21 |  |
+| [Golden](https://open.spotify.com/track/52bSduJitvvc9Rj8NifQTm) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Golden](https://open.spotify.com/album/4zCLgozrcJZMxSI91GiaQG) | 3:42 | 2022-01-21 | 2023-06-10 |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-15 | 2023-03-25 |
 | [Good Love](https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Good Love](https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ) | 3:20 | 2022-03-21 | 2022-07-29 |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-01-28 |  |
@@ -186,6 +186,7 @@
 | [Mystical and Paranoid](https://open.spotify.com/track/4d77W326jSVAmDrHlPG4bu) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Mystical and Paranoid](https://open.spotify.com/album/2cbbT7XzhQLBM19Pfhiv0z) | 3:44 | 2022-10-28 | 2022-11-12 |
 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 | 2022-04-22 |  |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2021-12-03 | 2022-11-13 |
+| [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 |  |
 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 | 2021-12-17 | 2023-01-28 |
 | [NORMA](https://open.spotify.com/track/6bI2PZ9Fepx6RPwuD3AVB6) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [NORMA](https://open.spotify.com/album/6wVvcTZuP8eyj2u9A7BupJ) | 3:41 | 2022-08-09 | 2022-08-27 |
 | [Not In My Name](https://open.spotify.com/track/4z7lYZSO6VUnqIYJrB8WsT) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Give Me Hope](https://open.spotify.com/album/60tTpmxbyNd7YFYr8zdkGb) | 3:29 | 2022-02-15 |  |

@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-148 songs - 9 hr 23 min
+149 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2021-12-15 |  |
 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 | 2021-12-15 | 2022-11-13 |
 | [Happy Birthday, Baby](https://open.spotify.com/track/0lPhxCOJ4RrJL8gzfFEdcf) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:45 | 2021-12-15 | 2022-07-28 |
-| [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 | 2021-12-15 |  |
+| [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 | 2021-12-15 | 2023-06-10 |
 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 | 2021-12-15 |  |
 | [Hermosa Drive](https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hermosa Drive](https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7) | 3:54 | 2022-10-14 |  |
 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 | 2021-12-15 |  |
@@ -109,6 +109,7 @@
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2021-12-15 |  |
 | [Sour Apple](https://open.spotify.com/track/1tWuOd7rz1nBAfhsDi6FsZ) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Evil](https://open.spotify.com/album/3Uf0xC2IAZ9hAzvI46tcUP) | 3:11 | 2021-12-15 | 2022-07-26 |
 | [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 | 2021-12-15 | 2022-07-29 |
+| [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 | 2023-06-09 |  |
 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 | 2021-12-15 |  |
 | [Still Waiting](https://open.spotify.com/track/0RApjVPmGOFbLJaVIFIObr) | [Ryan Sobb and the Dead Mall](https://open.spotify.com/artist/1q5EP0GKRrvj7pnMCp2IyI) | [Concrete Feelings](https://open.spotify.com/album/4WB6BFuAYpAkyJWkqJmzRU) | 3:34 | 2021-12-15 | 2022-07-29 |
 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 | 2021-12-15 |  |

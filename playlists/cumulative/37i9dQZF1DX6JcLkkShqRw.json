@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Gino Mella.",
+  "description": "Flow sudamericano con Emilia & Polim\u00e1 Westcoast.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Ambici\u00f3n",
+        "url": "https://open.spotify.com/album/1T6TMQx5PXd4TaMtShzCBx"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185163,
+      "name": "Ambici\u00f3n",
+      "url": "https://open.spotify.com/track/2cBeCJBqMNcnRDLxjBqZ5s"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
@@ -2420,6 +2442,28 @@
       "duration_ms": 281218,
       "name": "BURBERRY",
       "url": "https://open.spotify.com/track/1cH9JMgvzkOXGKPiegrBjw"
+    },
+    {
+      "album": {
+        "name": "Buscando Lo M\u00edo",
+        "url": "https://open.spotify.com/album/2QPZsL9Hz9RmyKg3aX9CpN"
+      },
+      "artists": [
+        {
+          "name": "Drapeo",
+          "url": "https://open.spotify.com/artist/1Wax5o7N3GDcG6FfaDLlXr"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128112,
+      "name": "Buscando Lo M\u00edo",
+      "url": "https://open.spotify.com/track/2O5ZjJzuZfHKitHg5cRUIA"
     },
     {
       "album": {
@@ -3544,6 +3588,24 @@
       "duration_ms": 186606,
       "name": "Coraz\u00f3n Envenenado - Remix",
       "url": "https://open.spotify.com/track/1JITpAVU1TswbivUqHsWqC"
+    },
+    {
+      "album": {
+        "name": "Mafia Lirical",
+        "url": "https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170787,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB"
     },
     {
       "album": {
@@ -6869,6 +6931,28 @@
     },
     {
       "album": {
+        "name": "Gusty Dj | Jordan23 - Session en el Barrio #9",
+        "url": "https://open.spotify.com/album/3RIE0lF9l4iYuwqd9aUw9W"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158334,
+      "name": "Gusty Dj | Jordan23 - Session en el Barrio #9",
+      "url": "https://open.spotify.com/track/2wBHsMud9cSITaoY32oeDo"
+    },
+    {
+      "album": {
         "name": "G\u00e1rgola",
         "url": "https://open.spotify.com/album/0LPJcZRwuXS2Kr0LSVbvAr"
       },
@@ -8553,6 +8637,28 @@
     },
     {
       "album": {
+        "name": "LAS 2",
+        "url": "https://open.spotify.com/album/7Bd9ISXtfykKDTUPs7BoQi"
+      },
+      "artists": [
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216615,
+      "name": "LAS 2",
+      "url": "https://open.spotify.com/track/13bLoJttbnvfG7gURJlT3x"
+    },
+    {
+      "album": {
         "name": "Las Coronas",
         "url": "https://open.spotify.com/album/2jj2HS3DfNgsMOz6796Tpw"
       },
@@ -9604,7 +9710,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
@@ -11485,6 +11591,28 @@
     },
     {
       "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
+    },
+    {
+      "album": {
         "name": "Naipe",
         "url": "https://open.spotify.com/album/0KS8inp3tGDrLsXEvqlxyZ"
       },
@@ -12290,7 +12418,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 257683,
       "name": "NOPALATELE",
       "url": "https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9"
@@ -13196,7 +13324,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -13316,6 +13444,40 @@
       "duration_ms": 265909,
       "name": "Para el Barrio",
       "url": "https://open.spotify.com/track/6mFokhOxzKe5tIpQaajnUY"
+    },
+    {
+      "album": {
+        "name": "Para Ti (feat. Maikel Delacalle & Omar Varela)",
+        "url": "https://open.spotify.com/album/3RIXKogj9l5XAGQcqQYc7U"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Para Ti (feat. Maikel Delacalle & Omar Varela)",
+      "url": "https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl"
     },
     {
       "album": {
@@ -15244,7 +15406,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171134,
       "name": "Sabor A Miel",
       "url": "https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE"
@@ -15384,7 +15546,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181224,
       "name": "Salimos Del Tarro",
       "url": "https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8"
@@ -15684,7 +15846,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -18215,6 +18377,32 @@
     },
     {
       "album": {
+        "name": "UNA GATA",
+        "url": "https://open.spotify.com/album/5CJfj01zYIljBUYaYrCQRI"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184632,
+      "name": "UNA GATA",
+      "url": "https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf"
+    },
+    {
+      "album": {
         "name": "Una Luz en Todo Esto",
         "url": "https://open.spotify.com/album/5LsWezLLDfSW0aijS2yFeR"
       },
@@ -18278,7 +18466,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194823,
       "name": "Una Noche Loca",
       "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"

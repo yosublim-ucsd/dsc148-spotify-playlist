@@ -1197,6 +1197,32 @@
     },
     {
       "album": {
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "Heaven By Then",
+      "url": "https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO"
+    },
+    {
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD"
       },

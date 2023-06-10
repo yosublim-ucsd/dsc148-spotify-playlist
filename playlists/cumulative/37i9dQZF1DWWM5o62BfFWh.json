@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196976,
       "name": "Ojal\u00e1 - Remix",
       "url": "https://open.spotify.com/track/5sWqQjbO1NgzjKMAbLZ0Rq"
@@ -2048,6 +2048,24 @@
       "duration_ms": 210228,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+    },
+    {
+      "album": {
+        "name": "Pa' la calle sali\u00f3",
+        "url": "https://open.spotify.com/album/0UNjMr8P7xvMy4tkL01BVj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152834,
+      "name": "Pa la Calle Sali\u00f3",
+      "url": "https://open.spotify.com/track/1zD4MUXUAVuwqwbnOs85uL"
     },
     {
       "album": {

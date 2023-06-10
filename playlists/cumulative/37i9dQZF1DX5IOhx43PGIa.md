@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Katherine Li.
 
-460 songs - 23 hr 58 min
+463 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Backhouse Ballin' \(feat\. James Reid\)](https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:36 | 2022-05-27 | 2022-11-12 |
 | [BAD DECISIONS](https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [BAD DECISIONS](https://open.spotify.com/album/61WyYQC1peEOTLBFlCC1I9) | 3:24 | 2022-05-27 | 2022-07-28 |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-05-27 |  |
+| [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 | 2023-06-09 |  |
 | [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2022-08-15 |  |
 | [bayou](https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [bayou](https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm) | 3:49 | 2023-01-06 |  |
 | [Be Alright](https://open.spotify.com/track/3t6NBoUIutK70vB2KZovVc) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/5q7KteYBoEbtdEPrYec9yf) | 3:34 | 2022-05-27 | 2022-07-21 |
@@ -48,6 +49,7 @@
 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 | 2022-07-22 | 2022-09-05 |
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-05-27 | 2023-06-06 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-09-23 | 2022-10-08 |
+| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 |  |
 | [Blacklist \(with Matisyahu\)](https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Mood Swing](https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY) | 3:26 | 2023-02-24 |  |
 | [Blow](https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Blow](https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR) | 2:09 | 2022-10-07 | 2022-12-03 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-05-27 |  |
@@ -135,7 +137,7 @@
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-02-07 |  |
 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 | 2022-09-23 | 2022-10-08 |
 | [Foreign Language](https://open.spotify.com/track/2T4XwrLVpnSFIxC503DDnO) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 1:57 | 2022-05-27 | 2022-07-25 |
-| [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-05-27 |  |
+| [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-05-27 | 2023-06-10 |
 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 | 2022-05-27 |  |
 | [Friendzone](https://open.spotify.com/track/3EucONkQ7sCKKJaaOFXiuW) | [EDEN KAI](https://open.spotify.com/artist/2vSFtalWyx07nEqzKyqMuL) | [Friendzone](https://open.spotify.com/album/24g9dIUljRjz8sxpwHnfRP) | 4:07 | 2022-05-27 | 2022-07-29 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
@@ -266,7 +268,7 @@
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 |  |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2022-05-27 | 2022-07-29 |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 | 2022-07-22 | 2023-04-09 |
-| [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 | 2023-04-29 |  |
+| [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 | 2023-04-29 | 2023-06-10 |
 | [Mercury \(feat\. ØZI\)](https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [I AM U](https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq) | 2:22 | 2022-05-27 | 2023-01-05 |
 | [Meri Mehbooba](https://open.spotify.com/track/18zXF2JNbtMthfQnQPaV45) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-06-03 | 2022-06-11 |
 | [Merry Midnight](https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK) | 4:29 | 2022-05-27 | 2022-07-29 |
@@ -418,6 +420,7 @@
 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 | 2022-07-22 |  |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [traveling](https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [DEEP RIVER](https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr) | 5:13 | 2022-09-23 | 2022-10-08 |
+| [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 | 2023-06-09 |  |
 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 | 2022-07-08 | 2023-05-27 |
 | [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 | 2023-03-04 |  |
 | [Turbo](https://open.spotify.com/track/6muijR8MRpGebvqYGirdnH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Turbo](https://open.spotify.com/album/3ba4FMtjRWo1fOlBv6XEPh) | 3:42 | 2023-04-14 |  |
@@ -467,6 +470,6 @@
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 |  |
 | [途中](https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-06-17 | 2022-07-29 |
-| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 |  |
+| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 | 2023-06-10 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

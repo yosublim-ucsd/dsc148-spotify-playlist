@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 49663,
+  "num_followers": 49713,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDIzNjM0OGM5MDkyZTI5ZDlhMmVmMjY0OWFhYTg3MzZhODUxNDhj",
+  "snapshot_id": "MCxjOTVkMzY5NjZlYzE1ZjI1ZTFhOTkxMWJjOGRmNGU4MTQ4ZGFlMmU1",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 256057,
       "name": "Nice and Easy (Walter's Version)",
       "url": "https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 278895,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -61,6 +81,22 @@
       "url": "https://open.spotify.com/track/0jehP0aRhFBpjSZCXxfm2v"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Nico\u2019s Groove",
+        "url": "https://open.spotify.com/album/2QxxlPUxcATya406iG9izA"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 417363,
+      "name": "Nico\u2019s Groove",
+      "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Groove Factor",
@@ -91,6 +127,22 @@
       "duration_ms": 293026,
       "name": "Undulation",
       "url": "https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -523,22 +575,6 @@
       "duration_ms": 259624,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Cupid Shuffle",
-        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 232810,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1453,22 +1489,6 @@
       "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
     },
     {
-      "added_at": "2022-02-14 15:37:05",
-      "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Give Me Your Love",
@@ -1615,26 +1635,6 @@
       "duration_ms": 219777,
       "name": "Here She Comes",
       "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/16M4hOJYp2hXZcRYMjh06F"
-      },
-      "artists": [
-        {
-          "name": "Greg Manning",
-          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
-        },
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 271933,
-      "name": "The One - Vocal",
-      "url": "https://open.spotify.com/track/2BthCO2NWEyStwmCcQANRe"
     },
     {
       "added_at": "2022-06-03 04:02:00",

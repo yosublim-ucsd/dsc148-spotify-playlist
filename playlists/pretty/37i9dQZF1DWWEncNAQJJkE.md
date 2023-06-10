@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,222 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,236 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 55 | [City of Gods](https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:16 |
 | 56 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
 | 57 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 |
-| 58 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 |
+| 58 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 |
 | 59 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
 | 60 | [Hard In The Paint](https://open.spotify.com/track/2WWxxvg8mD2L4vK0oRZaGw) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Hard In The Paint](https://open.spotify.com/album/2Z2HdCtaln12Dl9SUs6Dgq) | 1:48 |
 | 61 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 74 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 |
 | 75 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 
-Snapshot ID: `MCxiMWFlMDZiOTM4MGM2MjkyYzRmNzZhOWI1MGRkNjBmNjRjMzc4MWJk`
+Snapshot ID: `MCxlNjRiOWRmNjUwZDk5NTVhYjc5ZTBkZDEyOGZjODg4YmYyNDkyZmYw`

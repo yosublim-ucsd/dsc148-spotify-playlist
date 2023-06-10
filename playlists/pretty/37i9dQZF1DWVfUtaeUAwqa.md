@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,188 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,193 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 35 | [Royal Garden Blues](https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Dukes At Disneyland](https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB) | 6:02 |
 | 36 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 37 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
-| 38 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
-| 39 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
+| 38 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
+| 39 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 40 | [The Billboard](https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [On Parade](https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ) | 2:16 |
 | 41 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
 | 42 | [Bill Bailey, Won't You Please Come Home?](https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [The Al Hirt Collection](https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp) | 3:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 | 55 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 
-Snapshot ID: `MCxhNWYxMzEwYzljYjg5YWUzODYxZWQ0YTNhMTE1N2QyNDY1OTE1ZDNk`
+Snapshot ID: `MCxiNjJkZDkxZmRhMDI5ODdjMjExZjRlOGFmMWZkYzhiMTNmMWRhYWI2`

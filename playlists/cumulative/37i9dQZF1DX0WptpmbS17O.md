@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-76 songs - 5 hr 2 min
+78 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Baby's Arms](https://open.spotify.com/track/19GJyFd7ZzBb2Lbq34yYoe) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/3EnRrBJSdDB4tq7dKKfiT3) | 4:44 | 2022-10-12 |  |
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 |  |
 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 | 2022-10-12 |  |
+| [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 | 2023-06-09 |  |
 | [Caroline](https://open.spotify.com/track/3S5mohVxC0Xuj0tgZ7vU7g) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Indiana](https://open.spotify.com/album/7nfm0AkAW1WqxJ167DHuXV) | 3:25 | 2022-10-12 |  |
 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 | 2022-10-12 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2022-10-12 |  |
@@ -76,6 +77,7 @@
 | [The Former](https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [The Former](https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i) | 2:37 | 2023-02-08 |  |
 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 | 2022-10-12 |  |
 | [Visions of Gideon](https://open.spotify.com/track/5c9qm0bMYawSyRNUTmUMs5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:07 | 2022-10-12 |  |
+| [Watching You Leave](https://open.spotify.com/track/3D9n5JHtVrMCJZAKMwIiFq) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Demos from the Barracks: Vol\. 2](https://open.spotify.com/album/17vi9MGAFrT4ifTdRJJsMS) | 1:52 | 2023-06-09 |  |
 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 | 2023-03-31 |  |
 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 | 2022-10-12 |  |
 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 | 2022-10-12 |  |

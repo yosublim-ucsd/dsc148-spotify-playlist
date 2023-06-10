@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220769,
       "name": "Beau bapt\u00eame",
       "url": "https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5"
@@ -680,6 +680,28 @@
       "duration_ms": 194239,
       "name": "Et Hop",
       "url": "https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09"
+    },
+    {
+      "album": {
+        "name": "F.I.N.I",
+        "url": "https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq"
+      },
+      "artists": [
+        {
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "F.I.N.I",
+      "url": "https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf"
     },
     {
       "album": {

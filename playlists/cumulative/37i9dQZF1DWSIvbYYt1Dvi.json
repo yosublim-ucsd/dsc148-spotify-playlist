@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "kawe e baco \u00e9 AULAS ",
+  "description": "tasha e kyan, tracie e gregory \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -1272,6 +1272,24 @@
       "duration_ms": 75453,
       "name": "DoisTr\u00eas",
       "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
+    },
+    {
+      "album": {
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "DRAKE DA CAPITAL",
+      "url": "https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0"
     },
     {
       "album": {
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156521,
       "name": "Vim da Lama",
       "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"

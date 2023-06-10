@@ -4,7 +4,7 @@
 
 > Best of Hip\-Hop from India\. Cover\- Emiway Bantai
 
-78 songs - 4 hr 26 min
+81 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,14 @@
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 |  |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 |  |
+| [Beta Karta Rap](https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:20 | 2023-06-09 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-27 |  |
 | [Chal Bombay](https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:54 | 2023-03-27 | 2023-06-02 |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Chhore NCR Aale](https://open.spotify.com/track/6L6irlPBbXb0Wsgn3qXAvX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4XWCQnLpIG5GgCIL9eHwJh) | 3:22 | 2023-03-27 |  |
 | [CHUSAMBA](https://open.spotify.com/track/73N5AghXPjYtAoS6RIYPZd) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [CHUSAMBA](https://open.spotify.com/album/7CQ4iAL3oD3jZ4nbUqjLgt) | 3:13 | 2023-03-27 |  |
 | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 | 2023-03-27 |  |
+| [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 |  |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-27 |  |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-27 |  |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/78tqiIz7GGnBnDRmPdvkLr) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Desi Dan Bilzerian](https://open.spotify.com/album/6JCXD4JCMwpzOxuD4Ch3Um) | 3:21 | 2023-03-27 |  |
@@ -56,6 +58,7 @@
 | [Kya Bolti Public](https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Kya Bolti Public](https://open.spotify.com/album/3C6F1TyvCL67WNnYLNlzvK) | 2:24 | 2023-05-08 |  |
 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 | 2023-03-27 |  |
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-27 |  |
+| [Madari \(feat\. Karan Kanchan\)](https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Farhan Khan](https://open.spotify.com/artist/24ltYRztptq8hTRRVqhRdX), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 3:21 | 2023-06-09 |  |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2023-06-01 | 2023-06-09 |
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-27 |  |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-27 |  |

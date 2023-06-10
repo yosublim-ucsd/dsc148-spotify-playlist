@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 341723,
+  "num_followers": 341959,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjdlMTQzOGMzMTNkMmYwYTNhNzZlYmU4ZTFlMTM2MDJjZWFjNjZm",
+  "snapshot_id": "MCwyYTNjMzRlYzNiYmQ5MDgyMmIxNzM0ZjZmNGEyMzZkZmE4ZWRiMjE4",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "It's Pony Time/Let's Twist Again",
         "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Trammps",
-        "url": "https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Trammps",
+        "url": "https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
       },
@@ -2419,18 +2403,34 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Lost in Music - 1995 Remaster",
-      "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
+      "duration_ms": 158853,
+      "name": "Then He Kissed Me",
+      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Hot Stuff - Single Version",
+      "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
     }
   ],
   "unique_name": "Feel Good Classics",

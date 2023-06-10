@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 416991,
+  "num_followers": 417247,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE1MjJlODI3MWZkMzdjYjViM2ZkZGFmMmU5YTQ0YmIxZTg4N2U4",
+  "snapshot_id": "MCw0NGY0Nzc5ZjA4MjYxYzdlMDVmMTNjNzVjODcwMWRjYzZjMzc5NWFh",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 203225,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
         "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Rap Do Silva (Remix)",
-        "url": "https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "KOLTENS",
-          "url": "https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE"
-        },
-        {
-          "name": "Bob Rum",
-          "url": "https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Rap Do Silva (Remix)",
-      "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Falling Like The Stars (Madism Remix)",
         "url": "https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Rap Do Silva (Remix)",
+        "url": "https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "KOLTENS",
+          "url": "https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE"
+        },
+        {
+          "name": "Bob Rum",
+          "url": "https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Rap Do Silva (Remix)",
+      "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
     },
     {
       "added_at": "2023-03-31 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New single from Aluna, plus the latest cuts from Jam City, MJ Nebreda and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,358 likes - 80 songs - 4 hr 37 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,357 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

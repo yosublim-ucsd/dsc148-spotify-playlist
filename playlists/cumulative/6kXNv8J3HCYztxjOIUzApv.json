@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Sho Nuff",
+        "url": "https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150772,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy"
+    },
+    {
+      "album": {
         "name": "Shotgun Blues",
         "url": "https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u"
       },

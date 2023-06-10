@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 5 hr 22 min
+87 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [House On Fire](https://open.spotify.com/track/01mKJ0Xz90naXw0iOf0YhH) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:01 | 2022-09-08 |  |
 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 | 2022-09-08 |  |
 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 | 2022-09-08 |  |
+| [I'll Do It](https://open.spotify.com/track/54TtC7panYEEymLPoHZI1X) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [I'll Do It](https://open.spotify.com/album/5qmrI4QzGtnHZ82fIFD3MZ) | 3:33 | 2023-06-09 |  |
 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2022-09-08 |  |
-| [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 | 2023-05-08 |  |
+| [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 | 2023-05-08 | 2023-06-10 |
 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious Vol\. 5](https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5) | 3:58 | 2022-09-08 | 2023-03-11 |
 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 | 2023-03-10 |  |
 | [Into the Wild](https://open.spotify.com/track/2gY0Ff8dmJNlCyQxDDqBEf) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 | 2022-09-08 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\u2600\ufe0f",
+  "description": "canzoni felici italiane e internazionali per un'estate presa bene \u2600\ufe0f",
   "name": "una playlist felice",
   "tracks": [
     {
@@ -1211,6 +1211,36 @@
     },
     {
       "album": {
+        "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
+        "url": "https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Mr Pallotta",
+          "url": "https://open.spotify.com/artist/4tEI46zAJnSywDwnTFFCAJ"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
+      "url": "https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9"
       },
@@ -1732,7 +1762,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
@@ -2325,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Good Times Go",
+      "url": "https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy"
+    },
+    {
+      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
       },
@@ -2726,7 +2774,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 214071,
       "name": "I don\u2019t care about the rain",
       "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
@@ -3020,6 +3068,24 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "album": {
+        "name": "Jello",
+        "url": "https://open.spotify.com/album/3IPxTrFU42DwgPLAuaBLiF"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159716,
+      "name": "Jello",
+      "url": "https://open.spotify.com/track/53nhFKZZoeAtWPbSq3RxS4"
     },
     {
       "album": {
@@ -3805,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Mi Scivoli Addosso",
+        "url": "https://open.spotify.com/album/05WaW0NduVHtfZPtfAtYhD"
+      },
+      "artists": [
+        {
+          "name": "Ophelia Lia",
+          "url": "https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149371,
+      "name": "Mi Scivoli Addosso",
+      "url": "https://open.spotify.com/track/5rAXBt0QeQpB90hvkOv6OI"
+    },
+    {
+      "album": {
         "name": "Lungolinea.",
         "url": "https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh"
       },
@@ -4240,7 +4324,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
@@ -4620,7 +4704,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 141218,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v"
@@ -5058,7 +5142,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172131,
       "name": "Tapis roulant",
       "url": "https://open.spotify.com/track/4yoDWwQ8B9AqQU7lVgchMx"
@@ -5384,6 +5468,24 @@
       "duration_ms": 197956,
       "name": "Tuttecose (feat. Mara Sattei)",
       "url": "https://open.spotify.com/track/6KLjClrXcuXiX4PWGHtmDk"
+    },
+    {
+      "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
+      },
+      "artists": [
+        {
+          "name": "NARA",
+          "url": "https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
     },
     {
       "album": {

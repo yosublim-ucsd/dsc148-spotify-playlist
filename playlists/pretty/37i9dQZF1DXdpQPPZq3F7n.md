@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,775 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,365 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Sanu Ek Pal Chain](https://open.spotify.com/track/0qilTtN718ldWzIFc37zAl) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Raid](https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z) | 3:30 |
 | 75 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 |
 
-Snapshot ID: `MCxlZjAzMzk1YTY2MDYyNmUxZWZkYjBhOTFmZjVlYjk1YWYxYmE4NmVh`
+Snapshot ID: `MCw1MDgyYzYyMDBmZjViY2U3MWQ4NzZjMmQ3OWNjYzczNTEwZmM0ZTUx`

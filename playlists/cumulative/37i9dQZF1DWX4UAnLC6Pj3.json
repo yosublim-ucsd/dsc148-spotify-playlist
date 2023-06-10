@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Mac\u00edas en portada.",
   "name": "Banda 2023",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 143786,
       "name": "Amor Ranchero",
       "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 172842,
       "name": "Bendito Destino",
       "url": "https://open.spotify.com/track/61dvkuoxkU2jmWZChXcKp5"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "Cambiaste Mis Planes",
       "url": "https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 178189,
       "name": "Dos Gotas De Agua",
       "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
@@ -1122,6 +1122,28 @@
       "duration_ms": 191685,
       "name": "El Bob Esponja (Versi\u00f3n Banda)",
       "url": "https://open.spotify.com/track/6k66FmM0fjoVkO3hYx3FhI"
+    },
+    {
+      "album": {
+        "name": "El Borracho (En Vivo)",
+        "url": "https://open.spotify.com/album/1aBYwSTMQCW5LXLbFHF0m9"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
+          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232913,
+      "name": "El Borracho (En Vivo)",
+      "url": "https://open.spotify.com/track/1evaAZr2Y7AB8tMwVnPuVO"
     },
     {
       "album": {
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 253053,
       "name": "Esta Vez Soy Yo",
       "url": "https://open.spotify.com/track/6D9q9JuF13LSpuXE2U4Yar"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Hoy Me Puse A Tomar",
       "url": "https://open.spotify.com/track/4jSkQnOKZ55MSpejX7yBfZ"
@@ -2006,7 +2028,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "La Contrase\u00f1a De Tu Cuerpo",
       "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 218282,
       "name": "La Llamada De Mi Ex (En Vivo)",
       "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
@@ -2352,7 +2374,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 177631,
       "name": "Me Equivoqu\u00e9 en Amarte",
       "url": "https://open.spotify.com/track/46i0h9eAuaj4cMCDKUYF2P"
@@ -2490,6 +2512,24 @@
       "duration_ms": 159387,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
+    },
+    {
+      "album": {
+        "name": "Mi Destino Es Ser Borracho",
+        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199552,
+      "name": "Mi Destino Es Ser Borracho",
+      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
     },
     {
       "album": {
@@ -2717,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
+    },
+    {
+      "album": {
         "name": "Necesito Tu Perd\u00f3n",
         "url": "https://open.spotify.com/album/15o4wGalDXk6QJgHEhx50c"
       },
@@ -2750,7 +2808,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 213471,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7"
@@ -2793,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "No Hay Nada Mas Que Decir",
+        "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "No Hay Nada Mas Que Decir",
+      "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
+    },
+    {
+      "album": {
         "name": "No Le Digas",
         "url": "https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd"
       },
@@ -2830,10 +2906,28 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 205802,
       "name": "No Le Digas",
       "url": "https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG"
+    },
+    {
+      "album": {
+        "name": "No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe"
+      },
+      "artists": [
+        {
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd"
     },
     {
       "album": {
@@ -2848,7 +2942,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 143133,
       "name": "No Se Lo Deseo a Nadie",
       "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
@@ -3428,7 +3522,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Que Falta Me Hace Mi Padre",
       "url": "https://open.spotify.com/track/1aEicowaVDN82dt0U1r3og"
@@ -3694,7 +3788,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
@@ -4074,7 +4168,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 220746,
       "name": "Te Va A Ir Bien",
       "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"
@@ -4136,6 +4230,28 @@
       "duration_ms": 290120,
       "name": "TikTokeras 2.0",
       "url": "https://open.spotify.com/track/46K67TQL7ZuHEW5IwKv7Gv"
+    },
+    {
+      "album": {
+        "name": "Todo Depende de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/6Uw8SR3sqcGD58x8PVvkn1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209365,
+      "name": "Todo Depende de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/5rSx6fcfJvoCqy6JHcLv7d"
     },
     {
       "album": {
@@ -4516,7 +4632,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 204266,
       "name": "Ya Estuvo Suave",
       "url": "https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ"
@@ -4578,6 +4694,28 @@
       "duration_ms": 204000,
       "name": "Ya No Est\u00e9s Chingando",
       "url": "https://open.spotify.com/track/6cWW02JMQj4Ey06QtkRsDs"
+    },
+    {
+      "album": {
+        "name": "Ya No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
     },
     {
       "album": {
@@ -4734,6 +4872,24 @@
       "duration_ms": 179000,
       "name": "\u00bfQu\u00e9 Tienen Tus Palabras?",
       "url": "https://open.spotify.com/track/3fO7qqgw1dcP2MANXW0QXi"
+    },
+    {
+      "album": {
+        "name": "Dentro de Mis Ojos",
+        "url": "https://open.spotify.com/album/5GFcvBoOgJdhcCZT2BJGkL"
+      },
+      "artists": [
+        {
+          "name": "Luis Coronel",
+          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "\u00d3rale",
+      "url": "https://open.spotify.com/track/0HNC7Mpsg8fecxkmIFyZ1S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3"

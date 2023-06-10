@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-180 songs - 10 hr 3 min
+182 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 | 2023-05-20 |
 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
 | [I Don't Wanna See You Cryin' Anymore](https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW) | 3:43 | 2021-04-19 | 2022-04-29 |
+| [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 | 2023-06-09 |  |
 | [I Remember Everything](https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [I Remember Everything](https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms) | 2:41 | 2021-04-19 | 2022-08-13 |
 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 | 2021-04-19 |  |
 | [I'm Here](https://open.spotify.com/track/7Gj9uY2bWQOSl6ubnM7WZk) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [I'm Here](https://open.spotify.com/album/3f3VCQQtms7Ns87vTJfvvU) | 2:58 | 2021-04-19 |  |
@@ -133,7 +134,8 @@
 | [Sing Along](https://open.spotify.com/track/1zb4ZZelw0x6HSlAElN2VR) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Sing Along](https://open.spotify.com/album/1SVQFBoPhymTt2uTkEUY9H) | 3:06 | 2021-04-19 | 2022-06-04 |
 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 | 2021-04-19 |  |
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2021-04-19 | 2022-07-29 |
-| [Someday](https://open.spotify.com/track/7lzN9YCOgAWSJpyfCnoLeN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Someday](https://open.spotify.com/album/3RmRr6DvjdZlnC4Wl1fTAC) | 3:12 | 2021-10-01 |  |
+| [Someday](https://open.spotify.com/track/1GKX2PkXFxIE9NfuJrP7Tj) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Someday](https://open.spotify.com/album/2mZmtAxIL1FXvZseUo7caY) | 3:12 | 2021-10-01 |  |
+| [Someday](https://open.spotify.com/track/7lzN9YCOgAWSJpyfCnoLeN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Someday](https://open.spotify.com/album/3RmRr6DvjdZlnC4Wl1fTAC) | 3:12 | 2021-10-01 | 2023-06-10 |
 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 | 2021-04-19 | 2022-07-29 |
 | [Stand Like An Oak](https://open.spotify.com/track/77TcbXD97SC7XFkiwPf1AA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/5Jgrs4V3LjPJ5tSxt4FkPO) | 3:01 | 2021-04-19 | 2022-09-30 |
 | [Stand Like An Oak](https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid) | 3:01 | 2021-04-19 |  |
@@ -175,7 +177,7 @@
 | [Universe](https://open.spotify.com/track/39xLmel5EtdwNhLlckj1TN) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Universe](https://open.spotify.com/album/5Of0tnCeK1LKLjNBeziUX1) | 3:09 | 2021-04-19 |  |
 | [Waiting on a Ring](https://open.spotify.com/track/4U1pG0MZYc9OlPdpBx9Y3U) | [Roxan](https://open.spotify.com/artist/1oF4o7vpha3pVOrkH8KAT8) | [Waiting on a Ring](https://open.spotify.com/album/7p6FLb35eS8doM6Ndia7TN) | 2:33 | 2021-04-19 |  |
 | [Walk Away](https://open.spotify.com/track/6B7zz2H6qdYcQWQg2SLX5y) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City EP](https://open.spotify.com/album/6nsYelfToPxfGvms4pAjDH) | 3:15 | 2021-11-19 |  |
-| [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2021-04-19 |  |
+| [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2021-04-19 | 2023-06-10 |
 | [When Scars Become Art II](https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [When Scars Become Art II](https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD) | 4:12 | 2022-04-22 |  |
 | [Where It's Blue](https://open.spotify.com/track/7lRu8gSOYHTtJLQLC33cBX) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Where It's Blue](https://open.spotify.com/album/6T6SSf92sAyoir4a3e5dzD) | 3:49 | 2021-04-19 |  |
 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 | 2021-04-19 |  |

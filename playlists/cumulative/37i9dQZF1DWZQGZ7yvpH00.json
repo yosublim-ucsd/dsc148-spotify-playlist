@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 158875,
       "name": "Ando Sad",
       "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
@@ -364,6 +364,28 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201993,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "album": {
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
@@ -1037,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
+    },
+    {
+      "album": {
         "name": "Zexta Alianza En Vivo, Vol. 1",
         "url": "https://open.spotify.com/album/3FoG2WRCPii9iCTcuNz3n9"
       },
@@ -1200,7 +1244,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137541,
       "name": "La Neta",
       "url": "https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq"
@@ -1719,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "No Hay Nadie Mas",
+        "url": "https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu"
+      },
+      "artists": [
+        {
+          "name": "Christian Velazquez",
+          "url": "https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE"
+        },
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "No Hay Nadie Mas",
+      "url": "https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp"
+    },
+    {
+      "album": {
         "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
       },
@@ -1730,7 +1796,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164135,
       "name": "No Se Puede Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
@@ -1994,7 +2060,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 222551,
       "name": "Por las Noches - Remix",
       "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
@@ -2160,6 +2226,24 @@
       "duration_ms": 138111,
       "name": "Reina De Mi Amor",
       "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
+    },
+    {
+      "album": {
+        "name": "Soy El Nata",
+        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146549,
+      "name": "Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/4QOequf0gyDi53EEoecUp7"
     },
     {
       "album": {
@@ -2521,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Superando...y Mas",
+        "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
+      },
+      "artists": [
+        {
+          "name": "Angel Arevalo",
+          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260364,
+      "name": "Superando",
+      "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
+    },
+    {
+      "album": {
         "name": "En Vivo EP, Vol. 1 (En vivo)",
         "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
@@ -2640,7 +2742,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195348,
       "name": "Termine Sufriendo",
       "url": "https://open.spotify.com/track/79A1VwJknwHTh2105djsQm"
@@ -2688,6 +2790,24 @@
       "duration_ms": 236945,
       "name": "Tomando Tequila",
       "url": "https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I"
+    },
+    {
+      "album": {
+        "name": "TRAICIONADO",
+        "url": "https://open.spotify.com/album/1lgzeshYy11QmjANXcU94N"
+      },
+      "artists": [
+        {
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131108,
+      "name": "TRAICIONADO",
+      "url": "https://open.spotify.com/track/4rTd6t7bTU3UvdLdw9XIyy"
     },
     {
       "album": {

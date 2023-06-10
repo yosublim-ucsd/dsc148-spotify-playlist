@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-161 songs - 9 hr 16 min
+162 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 | 2022-12-08 |  |
 | [Den Haag Hakkûh](https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Den Haag Hakkûh](https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR) | 3:21 | 2023-04-06 |  |
 | [DEQUINOX 100](https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [DEQUINOX 100](https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ) | 3:42 | 2022-12-08 |  |
-| [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 |  |
+| [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 | 2023-06-10 |
 | [Dikke Rave Beat](https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Dikke Rave Beat](https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC) | 2:53 | 2023-06-01 |  |
 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 | 2023-04-20 |  |
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 |  |
@@ -123,6 +123,7 @@
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 |  |
 | [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 | 2023-02-13 |
+| [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2023-06-08 |  |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-09 |  |
 | [Projet 19](https://open.spotify.com/track/6sCuHk1wZhvj4UCNOu3ndg) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [LE BASK](https://open.spotify.com/artist/23ZF6wwvduGxWSH2j97Ish) | [Projet 19](https://open.spotify.com/album/4e57RPKr7Rl7LptAlWNj6A) | 4:16 | 2022-12-08 | 2022-12-16 |
 | [Psychopath](https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Psychopath](https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e) | 3:37 | 2023-04-20 |  |

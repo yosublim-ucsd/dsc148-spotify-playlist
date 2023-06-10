@@ -4,7 +4,7 @@
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-148 songs - 8 hr 54 min
+149 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [I Want You to Want Me](https://open.spotify.com/track/2h0ya1V438GDzgzf8eq6tv) | [Children of Paradise](https://open.spotify.com/artist/2Hd1eRtCd5MLhUt1kNyl2F), [Chantal Claret](https://open.spotify.com/artist/73MPL59xAchKP5lGXHa7TB) | [I Want You to Want Me](https://open.spotify.com/album/2I3IHxjS8TqqIYjs23Il0B) | 3:24 | 2023-02-09 |  |
 | [I'll Never Give You Up](https://open.spotify.com/track/4jBTq998L1Fxlw8QO9a6mo) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I'll Never Give You Up](https://open.spotify.com/album/2lgcdpRVm2C4gzg0qSP6t4) | 4:12 | 2023-02-09 |  |
 | [I'll Take Care Of You](https://open.spotify.com/track/4Nxid85fmQidPAY1ZD8Bo1) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:16 | 2023-02-09 |  |
-| [Inside of My Eyelids](https://open.spotify.com/track/4Y2QuvgYFm30gcsToZmojA) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/082w0kWPKkY25GsoqFSXqP) | 3:48 | 2023-02-11 |  |
+| [Inside of My Eyelids](https://open.spotify.com/track/4Y2QuvgYFm30gcsToZmojA) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/082w0kWPKkY25GsoqFSXqP) | 3:48 | 2023-02-11 | 2023-06-10 |
+| [Inside of My Eyelids](https://open.spotify.com/track/6N0TaPAonUGCLvVT1rhJYV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/18BDPJhQ7oIrszk1Q0OMdj) | 3:48 | 2023-03-09 |  |
 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 | 2023-02-09 |  |
 | [It's Been A Long, Long Time](https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:22 | 2023-02-09 |  |
 | [It's The Same Old Song](https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:46 | 2023-03-09 |  |

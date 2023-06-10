@@ -1,12 +1,12 @@
 {
   "description": "Gettin' figgy with it, bana-na-na-nanana",
-  "num_followers": 950629,
+  "num_followers": 951034,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGM3NGMxYzY4M2RkY2Y3YmRhY2VkZDJjMzU0MGI4NjUyOGQ2ZmUx",
+  "snapshot_id": "MCw0OTkzMTEyMWY5ODRiNDBiOWE2YzQxNDcwNDk2NjE1Nzg1YTJkNWEz",
   "tracks": [
     {
       "added_at": "2023-04-19 16:05:06",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Kind Reminder",
-        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
       "artists": [
         {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 220096,
-      "name": "Musta Been a Ghost",
-      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+        "name": "Kind Reminder",
+        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
         }
       ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+      "duration_ms": 220096,
+      "name": "Musta Been a Ghost",
+      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 170160,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Will I See You Again?",
         "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 240653,
       "name": "Will I See You Again?",
       "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Video",
-      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Fun Machine EP",
         "url": "https://open.spotify.com/album/0fhggG3ywOi3jav209WMoI"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 217920,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Video",
+      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
     },
     {
       "added_at": "2023-04-19 16:05:06",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 27042,
+  "num_followers": 27076,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQ5YzgxOTExZDVhZmVhY2JjZjkzNTRmNTA5ZmNjZDc5YzgwM2Ew",
+  "snapshot_id": "MCxmMGRkZjFjYThkNGU0MDEwOTlhNzFmNWM1ODY0MmVjMGM0NGE2NjBk",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -191,6 +191,26 @@
       "duration_ms": 212992,
       "name": "Taithom",
       "url": "https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55"
+    },
+    {
+      "added_at": "2023-06-09 06:17:32",
+      "album": {
+        "name": "Kalle Kalle",
+        "url": "https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R"
+      },
+      "artists": [
+        {
+          "name": "Sunny Austin",
+          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
+        },
+        {
+          "name": "Chinna Swamy",
+          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Kalle Kalle",
+      "url": "https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K"
     },
     {
       "added_at": "2023-06-04 11:09:04",
@@ -883,30 +903,6 @@
       "duration_ms": 146666,
       "name": "Chelimidata",
       "url": "https://open.spotify.com/track/3G1hvYenckuF0w4n27eMwb"
-    },
-    {
-      "added_at": "2023-02-14 05:58:39",
-      "album": {
-        "name": "Madhura",
-        "url": "https://open.spotify.com/album/4ThLPRJ62yZJZM4QndHCGR"
-      },
-      "artists": [
-        {
-          "name": "Vinod Viola",
-          "url": "https://open.spotify.com/artist/0ejdZrvlP0GKy8CO5as9WL"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Sai Bhavana Krovvida",
-          "url": "https://open.spotify.com/artist/7qWAZBh15FCFhHdijvLkkD"
-        }
-      ],
-      "duration_ms": 247579,
-      "name": "Madhura",
-      "url": "https://open.spotify.com/track/5Y6S7V3wyaa8aZtiBpKOUe"
     },
     {
       "added_at": "2022-07-18 06:19:46",

@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-123 songs - 6 hr 44 min
+124 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0TfqrsPnjt2xgFT7nrGy5I) | 2:06 | 2022-10-28 | 2022-11-13 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/04xh7Ut9l4fDoylyWu89zZ) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Now That's What I Call Christmas](https://open.spotify.com/album/3eYqEBNC8yVgeExCQgogQh) | 2:31 | 2021-12-17 | 2022-07-29 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6CKN3aSdYCWAGE8VIxY2oI) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Family Christmas Singalong](https://open.spotify.com/album/66geHFCxf6P76sww1sCHHA) | 2:31 | 2022-10-28 | 2022-11-13 |
-| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 | 2021-12-17 |  |
+| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/013OtfiI9W3qO3dGwte8hv) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 2:31 | 2022-12-16 |  |
+| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 | 2021-12-17 | 2023-06-10 |
 | [Santa Baby](https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [A Kylie Christmas](https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR) | 3:22 | 2021-12-17 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/012mGdSYIBEmERuScm2iOl) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Number 1's](https://open.spotify.com/album/4UvvfXA7W1IHzBaUCaRj2k) | 2:23 | 2021-12-17 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-17 |  |

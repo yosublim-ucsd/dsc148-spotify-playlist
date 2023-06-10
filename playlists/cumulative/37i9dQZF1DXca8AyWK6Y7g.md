@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,667 songs - 3 day 12 hr 44 min
+1,669 songs - 3 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-04-22 | 2021-11-20 |
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-17 | 2021-11-17 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-15 | 2022-06-07 |
+| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 |  |
 | [Blame](https://open.spotify.com/track/3wEQw2wqcsWe5l798FwSMB) | [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [Blame](https://open.spotify.com/album/5eDnp1dBimNzEDNCrPzEqo) | 2:46 | 2019-09-06 | 2020-04-18 |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2022-10-16 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-12-03 | 2022-01-29 |
@@ -587,6 +588,7 @@
 | [Goo](https://open.spotify.com/track/386y7lYyXr0sni9FuQNH50) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:56 | 2022-08-12 | 2022-09-03 |
 | [Good At Being Lonely](https://open.spotify.com/track/0LYe73e9juUPjSDfsYSRhV) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Good At Being Lonely](https://open.spotify.com/album/5KdiRRFqcb3vBDm2FIkIVC) | 2:24 | 2021-07-28 | 2021-11-20 |
 | [Good Company](https://open.spotify.com/track/6GFJBdoLNY1mKZYwyMTDv7) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Good Company](https://open.spotify.com/album/7us6tSlNirxmxDNnkUV4SC) | 3:58 | 2021-10-12 | 2021-10-13 |
+| [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 | 2023-06-02 |  |
 | [good guys](https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [good guys](https://open.spotify.com/album/1rvGSofYK4rYkX2INIzFjI) | 3:44 | 2020-05-22 | 2021-10-14 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-10 | 2022-09-17 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-10 | 2022-07-25 |
@@ -1615,7 +1617,7 @@
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-16 | 2022-07-16 |
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2022-10-29 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
-| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 | 2023-06-10 |
 | [Whatever You Want](https://open.spotify.com/track/4ZSrRU8pPoieBahQ0ZMefB) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Whatever You Want](https://open.spotify.com/album/1b8kG4SDFHlIUpFiOlPhkL) | 3:04 | 2023-01-20 | 2023-02-04 |
 | [Whatever You Want](https://open.spotify.com/track/3qskzElWxkInIwK3zm8WW7) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/7uPYJlZtWuThRn1hZHxOSG) | 3:20 | 2020-06-12 | 2021-11-10 |
 | [When I Die](https://open.spotify.com/track/0GXnZ1eaJ2TmbFXrDX7pnU) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [When I Die](https://open.spotify.com/album/6wjps6LANkpBonwtE1VXw8) | 2:37 | 2019-05-26\* | 2021-05-27 |
@@ -1668,7 +1670,7 @@
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-19 | 2023-06-03 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 |  |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
-| [Younger](https://open.spotify.com/track/51eQMjXhiJ9QXeILUujs0I) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:10 | 2023-06-02 |  |
+| [Younger](https://open.spotify.com/track/51eQMjXhiJ9QXeILUujs0I) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:10 | 2023-06-02 | 2023-06-10 |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-05-14 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 | 2023-01-28 |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 | 2022-03-12 |

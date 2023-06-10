@@ -1282,6 +1282,28 @@
     {
       "album": {
         "name": "(II)",
+        "url": "https://open.spotify.com/album/5nHvMBqwzqQIFdVFE1BIcx"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Not In Love - Radio Version",
+      "url": "https://open.spotify.com/track/1Xex5Fnp0MMyg7yjbfFyyK"
+    },
+    {
+      "album": {
+        "name": "(II)",
         "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
       },
       "artists": [
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 170387,
       "name": "Wrong Time",
       "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"

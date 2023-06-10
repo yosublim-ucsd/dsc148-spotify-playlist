@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,795 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 17 | [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 |
 | 18 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 |
 | 19 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 |
-| 20 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 |
+| 20 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 |
 | 21 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 |
 | 22 | [Shorebreak \(From Now On\)](https://open.spotify.com/track/2TuHrjiUrpAOGde9vZyT52) | [Coastal Elite](https://open.spotify.com/artist/7qbl8kBoOMQhHSI6dl3mmG) | [Music For Marinas: Pt\. 01](https://open.spotify.com/album/4o8qb2b52Z1Cro8qZtqrWZ) | 4:02 |
 | 23 | [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 |
 | 50 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 |
 
-Snapshot ID: `MCxiZjIwNGQ5ODlmYzg4YjZjYWVkZTExY2Q0MWMzMTZjMWNiMzM4NjM4`
+Snapshot ID: `MCxmYWVmODk2OGJiY2M0NWIyNzVmYjYzMTc3NGFmMDcxN2RiOTgxODA2`

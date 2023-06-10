@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "album": {
         "name": "Greatest Enemy",
         "url": "https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu"
       },
@@ -3096,7 +3114,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220212,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64"

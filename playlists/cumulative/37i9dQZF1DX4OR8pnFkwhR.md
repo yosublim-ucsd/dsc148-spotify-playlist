@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-884 songs - 2 day 6 hr 37 min
+885 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Ladder Lottery](https://open.spotify.com/track/5RlDY900FPy0SPd77PCxhP) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Ladder Lottery](https://open.spotify.com/album/6JvkDaCryLnjhr79T2fP6U) | 3:31 | 2022-12-06 | 2023-01-13 |
 | [landmark](https://open.spotify.com/track/62tLXNKaqiikAuHZLX0Nlz) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [landmark](https://open.spotify.com/album/17CIPmeFbsVxWX48vMFhdQ) | 4:57 | 2022-04-19 | 2022-05-25 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2022-10-28 |
-| [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 |  |
+| [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
+| [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-08 |  |
 | [Leave me alone](https://open.spotify.com/track/21ISwJKtTBq7xFKxDIfoQ2) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/2pWGr0HKrHmrNZe1oevebe) | 2:51 | 2022-07-26 | 2022-07-29 |
 | [Leave me alone](https://open.spotify.com/track/2GvJFQIbuefTikZwFQw2yB) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/7EpGO4JH8L51qqDdxLKIIW) | 2:51 | 2022-07-28 | 2022-08-17 |
 | [Legit Soul](https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Legit Soul](https://open.spotify.com/album/6wrAech1TtN0JNVOLVeAFo) | 3:12 | 2023-05-30 |  |

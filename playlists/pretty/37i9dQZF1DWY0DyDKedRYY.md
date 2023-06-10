@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Peso Pluma on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,203 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,730 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 21 | [Energy \- Latto Remix](https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Energy \(Latto Remix\)](https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1) | 3:10 |
 | 22 | [Doc Whiler](https://open.spotify.com/track/6RL7Xvxk0htXlECrGYxBXH) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Doc Whiler](https://open.spotify.com/album/3EAqstGaIsOkkYsVkFd3JF) | 2:29 |
 | 23 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 |
-| 24 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 |
+| 24 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 |
 | 25 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 26 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
 | 27 | [bingo](https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [breeze](https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI) | 1:24 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 51 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 |
 | 52 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
 
-Snapshot ID: `MCxlNWZjNmU5NjU5MGM3ZjExZTMzNWQ2ZmFjMzdlYzI5Mjk5M2U4ZDY1`
+Snapshot ID: `MCw2NzA1MDMzMzU3N2MyNzBhNDZlMTU0ZGZhYTBlM2UwYjMxMzA3YTFj`

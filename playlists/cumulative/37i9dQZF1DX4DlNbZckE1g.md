@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-138 songs - 7 hr 45 min
+139 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 | 2022-02-10 |  |
 | [FOREVER \(feat\. Broods\)](https://open.spotify.com/track/4emwuOeiW0f5ACgkWNZWtl) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/1csTPYu7DloHLOLPZygikk) | 3:48 | 2022-02-10 | 2022-10-03 |
 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 | 2022-02-10 |  |
-| [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-02-10 |  |
+| [Freaky \(RGB\)](https://open.spotify.com/track/6x74a97yVVRskQeOm787SG) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1) | 1:49 | 2022-02-10 |  |
+| [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-02-10 | 2023-06-10 |
 | [FRIENDZONE \(feat\. Genesis Owusu\)](https://open.spotify.com/track/5iXfAW8s28fgALFEpcxSmG) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [FRIENDZONE \(feat\. Genesis Owusu\)](https://open.spotify.com/album/43r2xCfXKj8UyfJnnnFeQI) | 3:06 | 2022-02-10 |  |
 | [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 | 2022-02-10 |  |
 | [Get Out!](https://open.spotify.com/track/6VfcB4zhSDWwScKfm9MhdJ) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Daisy](https://open.spotify.com/album/7bRnODChpZFbtH31jBr31L) | 5:12 | 2022-02-10 |  |

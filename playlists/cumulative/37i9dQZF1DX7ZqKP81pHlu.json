@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Maniche mchoqu\u00e9",
+        "url": "https://open.spotify.com/album/0n2FzHUEbviZB21GiQHvKo"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Benchenet",
+          "url": "https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322758,
+      "name": "Maniche mchoqu\u00e9",
+      "url": "https://open.spotify.com/track/4zz2mlE7nVpblI9JnoG9Gr"
+    },
+    {
+      "album": {
         "name": "Manimane",
         "url": "https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 247272,
       "name": "Thatmet Lekdar",
       "url": "https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1"

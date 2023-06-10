@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "El Universo",
+        "url": "https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136747,
+      "name": "El Universo",
+      "url": "https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H"
+    },
+    {
+      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 266773,
       "name": "Encuentros Cercanos",
       "url": "https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX"
@@ -1116,6 +1134,24 @@
       "duration_ms": 271332,
       "name": "Luz",
       "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
+    },
+    {
+      "album": {
+        "name": "MADRID SIN VOS",
+        "url": "https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224277,
+      "name": "MADRID SIN VOS",
+      "url": "https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1"
     },
     {
       "album": {
@@ -1772,7 +1808,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"

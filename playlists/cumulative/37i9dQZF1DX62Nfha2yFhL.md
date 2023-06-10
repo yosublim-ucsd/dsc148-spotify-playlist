@@ -2,9 +2,9 @@
 
 ### [Soul Lounge](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
 
-> 
+> every day grooves for a laid back day.
 
-129 songs - 7 hr 31 min
+131 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Black British](https://open.spotify.com/track/0ZYWQYsfhLLiZW5FPIkXw1) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Black British](https://open.spotify.com/album/4jdpV7FhHIp2BlesVDerOX) | 4:18 | 2023-03-31 |  |
 | [Black Love](https://open.spotify.com/track/60mKQHD4tf5NrzconZVeyV) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH) | [Black Love](https://open.spotify.com/album/63f5qxkrMMabbh7cb1iubV) | 3:52 | 2021-10-22 |  |
 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 | 2022-09-09 |  |
+| [BROKE FOLK FUNK](https://open.spotify.com/track/50apqlJFK6vnF4W65TPpSo) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:26 | 2023-06-09 |  |
 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 | 2022-07-22 |  |
 | [Carrot Juice](https://open.spotify.com/track/2cXlc9LWmg2N8t4KgVWZAl) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Carrot Juice](https://open.spotify.com/album/45qI6qObAt7ocSH0ancfEQ) | 4:49 | 2021-10-22 | 2022-07-23 |
 | [Charcoal Baby](https://open.spotify.com/track/4yOT0bYT83QZ0aXlJ3Tb2p) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Charcoal Baby](https://open.spotify.com/album/225NQB3CCjOwiEnDE2Y3Cd) | 4:02 | 2021-10-22 | 2022-07-23 |
@@ -95,6 +96,7 @@
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2023-05-05 |  |
 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 | 2021-10-22 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 |  |
+| [No Particulars](https://open.spotify.com/track/3wF0M5BsOWABoOV4vr3wCr) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Syd](https://open.spotify.com/artist/2AWG3k9wVqM2qKpAiz6TpV), [Didda Joe](https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP), [August Rose](https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44) | [So Gold](https://open.spotify.com/album/2n8xGkaNui2V7g59g9EAjC) | 4:23 | 2023-06-09 |  |
 | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/track/5f2CDk3D2XX8XyL6kViwZI) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/album/6KhNL7xE9vbfCcx6brXPiO) | 3:24 | 2021-10-22 | 2022-02-19 |
 | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/track/4Mj9FULUmiSVbcN0EcWo5r) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/album/3W3oMpBoKd5sISjqByge4g) | 3:26 | 2021-10-22 |  |
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-10-22 | 2022-07-29 |

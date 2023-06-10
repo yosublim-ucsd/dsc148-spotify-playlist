@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,849 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,963 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 | 50 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 
-Snapshot ID: `MCw1M2M5Mjk5ZDkzZThjNWE0MTk1ZWRlMTZiYzQ1YjViMTE3NzJmMmI4`
+Snapshot ID: `MCwxY2MzNGQyMzFjOTNiN2M1Mjc5NTMzNjliNzkwNGRmMmRkYThlNjky`

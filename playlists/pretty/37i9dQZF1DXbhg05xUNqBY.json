@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 309268,
+  "num_followers": 309401,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTIxOWY1NDVkMThkYjliMTE0NGRkMmMyNTFiMWM2NTkyMDBlYzg5",
+  "snapshot_id": "MCwzMzE5NzczY2RiZjdhMTY0NTc0YzRiM2JkZmEwMGFiZDZjYjc3MmNj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/3qTycMB7VucF8cIv2ZbVu4"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "If I Had Stayed",
+        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "If I Had Stayed",
+      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 175463,
       "name": "New Day",
       "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "If I Had Stayed",
-        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "If I Had Stayed",
-      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Belovedness",
-        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+        "name": "Ordinary Days",
+        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Belovedness",
-      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+      "duration_ms": 248386,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ordinary Days",
-        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
+        "name": "Belovedness",
+        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 248386,
-      "name": "Ordinary Days",
-      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
+      "duration_ms": 222666,
+      "name": "Belovedness",
+      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
     },
     {
       "added_at": "2023-02-07 17:43:02",

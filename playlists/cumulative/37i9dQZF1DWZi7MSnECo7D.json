@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188522,
       "name": "A Sociedade dos Nerds Psic\u00f3ticos",
       "url": "https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191570,
       "name": "Agora Eu Preciso Pagar Contas",
       "url": "https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO"
@@ -428,6 +428,32 @@
       "duration_ms": 152616,
       "name": "AMADA",
       "url": "https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ"
+    },
+    {
+      "album": {
+        "name": "amanh\u00e3 eu durmo",
+        "url": "https://open.spotify.com/album/5zIuk4e5RIJiFosVzJERVC"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        },
+        {
+          "name": "enzo dicarlo",
+          "url": "https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2"
+        },
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111789,
+      "name": "amanh\u00e3 eu durmo",
+      "url": "https://open.spotify.com/track/28hlY3G6T278H0ib6OYmUN"
     },
     {
       "album": {
@@ -606,7 +632,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 283818,
       "name": "Aqueles Homens",
       "url": "https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz"
@@ -1473,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Chorar na Boate",
+        "url": "https://open.spotify.com/album/2eWfo2r3Qc0tuRigW1nomv"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205749,
+      "name": "Chorar na Boate",
+      "url": "https://open.spotify.com/track/7hAHcLcTutuOY2cQX2VKxy"
+    },
+    {
+      "album": {
         "name": "mar calmo (nunca fez bom marinheiro)",
         "url": "https://open.spotify.com/album/3OuNpJ2TNTbA03Z4Btmylw"
       },
@@ -1734,7 +1778,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 261142,
       "name": "Cores de Oxum",
       "url": "https://open.spotify.com/track/5QN7Eg96hscUhJ4JDOkgZh"
@@ -1872,6 +1916,24 @@
       "duration_ms": 227318,
       "name": "Decidez",
       "url": "https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20"
+    },
+    {
+      "album": {
+        "name": "Vitrais",
+        "url": "https://open.spotify.com/album/5qFfLFUEOLo6DVb9JF2rAb"
+      },
+      "artists": [
+        {
+          "name": "Zambonii",
+          "url": "https://open.spotify.com/artist/010ghLTjpH3itDq6KkyXN3"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171615,
+      "name": "Decorei o Jornal",
+      "url": "https://open.spotify.com/track/7MQXecuMrLgGSmUX4TAO5t"
     },
     {
       "album": {
@@ -2847,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Feche Os Olhos",
+        "url": "https://open.spotify.com/album/6bEDSjuJSVCE4nIcjWvHbn"
+      },
+      "artists": [
+        {
+          "name": "Adriano Cintra",
+          "url": "https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247890,
+      "name": "Feche Os Olhos",
+      "url": "https://open.spotify.com/track/0nqkb9CJmXvkpUUbcWnLlA"
+    },
+    {
+      "album": {
         "name": "Feito pra Durar",
         "url": "https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU"
       },
@@ -3532,7 +3612,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 261678,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd"
@@ -5882,7 +5962,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194264,
       "name": "Retic\u00eancias (...)",
       "url": "https://open.spotify.com/track/4XSgzlOaOEpBp6ZbM4xC8r"
@@ -5998,7 +6078,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 388267,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/40620QtxFau2xe1C7cgMaO"
@@ -6050,6 +6130,28 @@
       "duration_ms": 155411,
       "name": "Sambatango",
       "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
+    },
+    {
+      "album": {
+        "name": "Eu Mais Tu / Sampa Sampa",
+        "url": "https://open.spotify.com/album/7uihQWG5bmL0mb3wq32hkb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206365,
+      "name": "Sampa Sampa",
+      "url": "https://open.spotify.com/track/7zwPQUz6FgTwj8r70HfmPM"
     },
     {
       "album": {
@@ -6925,6 +7027,28 @@
     },
     {
       "album": {
+        "name": "Trabalhar na MTV",
+        "url": "https://open.spotify.com/album/0ShffzuYbSIJGLovvcoPoX"
+      },
+      "artists": [
+        {
+          "name": "perdido",
+          "url": "https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp"
+        },
+        {
+          "name": "Pullovers",
+          "url": "https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Trabalhar na MTV",
+      "url": "https://open.spotify.com/track/3gTjKo4KRxQoBnN3Xpbjs9"
+    },
+    {
+      "album": {
         "name": "Transtornos",
         "url": "https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa"
       },
@@ -7066,6 +7190,24 @@
       "duration_ms": 179333,
       "name": "Tudo que eu n\u00e3o fa\u00e7o",
       "url": "https://open.spotify.com/track/46BFqbGaJ0pC8FOYX68qR2"
+    },
+    {
+      "album": {
+        "name": "Tudo Tem Seu Tempo",
+        "url": "https://open.spotify.com/album/4kq1vmsePXWUI48bWTEuPV"
+      },
+      "artists": [
+        {
+          "name": "MIDRA",
+          "url": "https://open.spotify.com/artist/2cXLmixZOwQcoagexS2DtI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253755,
+      "name": "Tudo Tem Seu Tempo",
+      "url": "https://open.spotify.com/track/4i1bwFnjZkruu2I9HGCLII"
     },
     {
       "album": {

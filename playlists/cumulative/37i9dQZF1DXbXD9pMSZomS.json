@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Deep Love",
+        "url": "https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs"
+      },
+      "artists": [
+        {
+          "name": "Ash Lauryn",
+          "url": "https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g"
+        },
+        {
+          "name": "Stefan Ringer",
+          "url": "https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Deep Love",
+      "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
+    },
+    {
+      "album": {
         "name": "Dilatant",
         "url": "https://open.spotify.com/album/5RBsJ7SCvQp6qvNIDFn0Xs"
       },
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 255737,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/3U5mWctRA14bI1oxKTSqWV"
@@ -1512,7 +1534,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 376563,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS"
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 138000,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
@@ -1916,6 +1938,24 @@
       "duration_ms": 142341,
       "name": "it was love",
       "url": "https://open.spotify.com/track/5093y2i2JV5h2e78FI7CA2"
+    },
+    {
+      "album": {
+        "name": "It's in My Ears",
+        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
+      },
+      "artists": [
+        {
+          "name": "Gallegos",
+          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "It's in My Ears",
+      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
     },
     {
       "album": {
@@ -2264,7 +2304,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 362177,
       "name": "Maxi Dance",
       "url": "https://open.spotify.com/track/6O3CR2AhsWtwNioBZ5VDJX"
@@ -2472,7 +2512,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207272,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
@@ -3130,6 +3170,24 @@
       "duration_ms": 351207,
       "name": "Rare Happiness",
       "url": "https://open.spotify.com/track/4CfkxZ4w0qCNuSA0hMJPeH"
+    },
+    {
+      "album": {
+        "name": "Raw Cuts",
+        "url": "https://open.spotify.com/album/1L1vKtDOo3quuArwtcVDst"
+      },
+      "artists": [
+        {
+          "name": "Dave Dashur",
+          "url": "https://open.spotify.com/artist/2nXLmBDkeyD6aHCtdh8MHn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Raw Cuts",
+      "url": "https://open.spotify.com/track/4EREliOTaWHIrM7H1y9j0o"
     },
     {
       "album": {
@@ -3798,7 +3856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 287767,
       "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
       "url": "https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0"
@@ -4058,7 +4116,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"

@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-191 songs - 11 hr 41 min
+192 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Greatest Hits](https://open.spotify.com/track/5HHk0B7B7mz6REWAlarrdA) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Greatest Hits](https://open.spotify.com/album/2MelPAapOVxlQkP78Uo2Fk) | 3:23 | 2023-02-17 |  |
 | [Grew Up On That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 | 2021-12-10 |  |
 | [Heart of God](https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Heart of God](https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS) | 3:53 | 2022-07-29 |  |
+| [Heaven By Then](https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 3:02 | 2023-06-09 |  |
 | [Heaven Down Here](https://open.spotify.com/track/0XWNEv2MhiUqfdyVlQabIi) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Heaven Down Here](https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD) | 3:33 | 2021-12-10 |  |
 | [Heaven Was Needing A Hero](https://open.spotify.com/track/1ZORIAAPFg3akZMeiPaXCO) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:24 | 2022-03-04 |  |
 | [Here On Earth](https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/7haZ3eXsSFhEjG6kL2kRx8) | 4:21 | 2021-12-10 | 2022-07-29 |

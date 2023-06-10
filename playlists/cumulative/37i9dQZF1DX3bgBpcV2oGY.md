@@ -4,14 +4,14 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-213 songs - 9 hr 0 min
+216 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 | 2021-12-23 |  |
 | [A Little Misty](https://open.spotify.com/track/3egzfC5HyVnsg08R89AkgK) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [A Little Misty](https://open.spotify.com/album/7rlmehCkUmWRwo8vu6AdYe) | 3:05 | 2021-12-23 |  |
 | [A Small Benefit](https://open.spotify.com/track/6fAbcismuIy0lskW32yURN) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [A Small Benefit](https://open.spotify.com/album/3rcRBHjc26uKB0H5Nf4QKp) | 3:11 | 2023-04-28 |  |
-| [A Stranger In Love](https://open.spotify.com/track/4HTm7WPkq24oFXqGliyMif) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [A Stranger In Love](https://open.spotify.com/album/18gBpQ8j0JTFBASiMiEZjD) | 2:58 | 2023-04-28 |  |
+| [A Stranger In Love](https://open.spotify.com/track/4HTm7WPkq24oFXqGliyMif) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [A Stranger In Love](https://open.spotify.com/album/18gBpQ8j0JTFBASiMiEZjD) | 2:58 | 2023-04-28 | 2023-06-10 |
 | [Adagio Albinoni](https://open.spotify.com/track/5xEcZIjrJu3DI7hz8k4Ltw) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 2:35 | 2021-12-23 | 2022-10-29 |
 | [After the Rain](https://open.spotify.com/track/2aG0red2pPM6Jywl3ugaDp) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [After the Rain](https://open.spotify.com/album/68kVm95bJvp3yYwLvkQwnF) | 2:04 | 2023-05-19 |  |
 | [Ali](https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p) | [Caleufu](https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4) | [Caleufu](https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12) | 2:07 | 2021-12-23 | 2022-03-02 |
@@ -140,18 +140,20 @@
 | [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2022-09-23 |  |
 | [Mixtlan](https://open.spotify.com/track/75p0DeAYdpGsevS7azLsPu) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [Mollification](https://open.spotify.com/track/7lPmCMnHc9EqaI6J824B9J) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Mollification](https://open.spotify.com/album/40o4fe8ElKwZf0MZEsJYQr) | 2:23 | 2023-03-10 |  |
+| [Mondo Piccolo](https://open.spotify.com/track/375O24y2MnIWs0NWBBZOdh) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Mondo Piccolo](https://open.spotify.com/album/50nZWa8vmigRohNyBfdjn6) | 2:15 | 2023-06-09 |  |
 | [My Favorite Memory Of You](https://open.spotify.com/track/7qQi4pHT2tdu32Po9MsrME) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [My Favorite Memory Of You](https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia) | 3:42 | 2021-12-23 | 2023-02-25 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-31 |  |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2021-12-23 | 2023-05-19 |
 | [Mystic Haze](https://open.spotify.com/track/7CCfGOPrqmX4PXKslek2tz) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Mystic Haze](https://open.spotify.com/album/0ojYKJa1gBvODDsonAL75f) | 2:23 | 2021-12-23 | 2022-04-06 |
 | [Mélancolique](https://open.spotify.com/track/27KijYKSU8KvAyZ2gxl6ZR) | [Jürgen Saalmann](https://open.spotify.com/artist/6nhA5eaz9JxA8KEeLDUWB3) | [Traumzeit](https://open.spotify.com/album/1xDE8eeeK8dpw3l1QzJzgM) | 3:08 | 2021-12-23 | 2023-03-11 |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2021-12-23 | 2022-05-27 |
+| [Night Poem](https://open.spotify.com/track/58Ga0rVIloMeV5eRtJh7pR) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Night Poem](https://open.spotify.com/album/3lr2YxjxbYbO6MmhUEaxIX) | 2:27 | 2023-06-09 |  |
 | [No es mi mente](https://open.spotify.com/track/7ni5mRayDGv27vipkVC1Gg) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [No es mi mente](https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt) | 2:30 | 2021-12-23 |  |
 | [Noonshine](https://open.spotify.com/track/3WQo0KrZjjBNMYMcmQt0dU) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Noonshine](https://open.spotify.com/album/24FjqpHVdBuMyrYS49b8Ho) | 2:09 | 2023-05-19 |  |
 | [northbound](https://open.spotify.com/track/0wel6YUiZGtGag0OfeAfCy) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [northbound](https://open.spotify.com/album/0OlobwdD3J8cVZ3z16eLJ4) | 2:03 | 2023-05-19 |  |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-23 | 2023-05-19 |
 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 | 2022-03-01 |  |
-| [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 | 2022-06-10 |  |
+| [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 | 2022-06-10 | 2023-06-10 |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-02-24 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-23 |  |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-23 |  |
@@ -188,6 +190,7 @@
 | [Somewhere in Paris](https://open.spotify.com/track/5XSYoYpF1RBnddnKXSFbQS) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Somewhere in Paris](https://open.spotify.com/album/1Jcfg22eDo6NZJIRFx06fl) | 2:32 | 2021-12-23 | 2022-04-06 |
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-23 | 2023-05-19 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-19 |
+| [Sunrise In Altona](https://open.spotify.com/track/14yq883gXycyEjpfU0R5Ol) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sunrise In Altona](https://open.spotify.com/album/6WpTMJ1M9Sbsp8aj7KNDau) | 2:33 | 2023-06-09 |  |
 | [Syr Darya](https://open.spotify.com/track/5aPyQLy7KhxjIqj5CgNF8w) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Syr Darya](https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE) | 3:35 | 2023-02-24 |  |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-23 |  |
 | [Telefono A](https://open.spotify.com/track/6E6U7GLpd3Hod0QEv2AvsJ) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:29 | 2021-12-23 | 2022-03-02 |

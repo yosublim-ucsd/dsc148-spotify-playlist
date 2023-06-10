@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. 5\-STAR is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,972 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,736 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 159 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 |
 | 160 | [STOP](https://open.spotify.com/track/552ixkxUI6snTyEcZUlYRN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:09 |
 
-Snapshot ID: `MCwzZGU1MzkwNTdlZTIwYTAxZjdjMjRkNmU2ZjI0MWVhNDgxM2ExNmVk`
+Snapshot ID: `MCwwNjRlYTU0ZGY2ZjFlM2MxZjMwOGJiNjMzZTVlZjM2NzczYjUzMjEx`

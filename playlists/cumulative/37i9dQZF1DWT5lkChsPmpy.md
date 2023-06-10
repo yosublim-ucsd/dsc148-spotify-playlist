@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-435 songs - 19 hr 27 min
+437 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 |  |
 | [in solitude](https://open.spotify.com/track/0AObwfIRlQauAl0GgRB0vk) | [réel vie](https://open.spotify.com/artist/6o4jkladkbsym75YLbCDB6) | [in solitude](https://open.spotify.com/album/5GXDZ4lnQfcxdvMQfGCRGx) | 3:23 | 2021-11-10 | 2022-05-20 |
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 |  |
+| [In unison](https://open.spotify.com/track/17GYUIV3rj9iZqahdnAs7U) | [Jay Groovi](https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn) | [Up n runnin](https://open.spotify.com/album/02vcNzVx4gOvSHsaZgq41R) | 2:26 | 2023-06-09 |  |
 | [ineludibile](https://open.spotify.com/track/0HhbAv27JYas4KxW5V9EfQ) | [navigliairbnb](https://open.spotify.com/artist/2PqDOSLvgwyLNEb68hVP5z) | [ineludibile](https://open.spotify.com/album/5z0pUfdBheEtEXax6XSWNE) | 2:27 | 2022-08-19 | 2023-04-07 |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 |  |
 | [intheshadow](https://open.spotify.com/track/7uuuKH7gERcMn0DZzehIzi) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [intheshadow](https://open.spotify.com/album/6nvk51yGLV7Q54S3coE0Ue) | 2:06 | 2021-11-10 | 2022-06-03 |
@@ -308,6 +309,7 @@
 | [Peachy Divas](https://open.spotify.com/track/2aS040mC8a4oy6raqnt2J5) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That Three](https://open.spotify.com/album/1Zncbz3KTlYmouGjvMhjC6) | 2:50 | 2022-05-27 | 2023-04-22 |
 | [Persistence](https://open.spotify.com/track/6Rvt3ZDsMwomIXe31YYeyd) | [Maître](https://open.spotify.com/artist/6z6AixATA2E6RUoZWVjilH) | [Persistence](https://open.spotify.com/album/00aiCIN3aO3x0nYzCfvQEU) | 2:08 | 2021-11-10 | 2022-05-20 |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |
+| [pink cloud](https://open.spotify.com/track/5U9SYC8B9IXMxncy0wBD2a) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [pink cloud](https://open.spotify.com/album/72DsWYTv72GHU6pkfsWpPt) | 2:13 | 2023-06-09 |  |
 | [Pink Sky](https://open.spotify.com/track/25BNKbe6o81aIuVgUefAP9) | [D.A.I.N](https://open.spotify.com/artist/7cLCbn7Wsch3YIHbIOzg8c) | [Pink Sky](https://open.spotify.com/album/34ZsX0cVwmQuycCx1VD97h) | 2:34 | 2021-11-10 | 2022-04-06 |
 | [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-20 |  |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2021-11-10 | 2023-01-21 |

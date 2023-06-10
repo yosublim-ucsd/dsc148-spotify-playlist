@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,104 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,107 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 38 | [Ride](https://open.spotify.com/track/4wUacul6Q4r43wU1DQsbi3) | [Kaz Skellington](https://open.spotify.com/artist/5ZhRujklmul3Ov7IpkGsSU) | [Ride](https://open.spotify.com/album/6fJF2KR25B8SAlzfiRDsCh) | 2:46 |
 | 39 | [Dream Out Loud \- feat\. ØZI](https://open.spotify.com/track/5jEP1KTapV6wun91fLJchx) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Dream Out Loud \(feat\. ØZI\)](https://open.spotify.com/album/0GxY6xNtyRNho50fN3janA) | 3:51 |
 | 40 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 |
-| 41 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
+| 41 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
 | 42 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
 | 43 | [Change My Mind](https://open.spotify.com/track/0tgS3CxQIBjwgkeQbb82cx) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [World Class Trouble Solvers](https://open.spotify.com/album/2XdJ8pSuKFgaxUTmjaAh8d) | 2:24 |
 | 44 | [How Much Do You Love Me](https://open.spotify.com/track/5GpJ5L1VcqC3njxdZVCmIT) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Love Groovin'](https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Love Groovin'](https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi) | 3:05 |
 | 60 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 |
 
-Snapshot ID: `MCxmYmJjOGNmMzk1ZGM1N2FlOGJhZDdjZGY1OWEzYTMyMDljMTg3YjUz`
+Snapshot ID: `MCw4YWMyYmFjNTg2YmYxY2QwMmNmMjcyZDg0NDNjMTRmMmY2MTE4NWMw`

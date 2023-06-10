@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
+  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Ivonne Galaz & Tania Dominguez en portada.",
   "name": "La Nueva Ola: M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+      },
+      "artists": [
+        {
+          "name": "Jose Torres El Rey De Alto Mando",
+          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "De Este Lado",
+      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
+    },
+    {
+      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172645,
       "name": "En Cada Trago",
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
@@ -4309,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165919,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
+    },
+    {
+      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK"
       },
@@ -4771,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211741,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
+    },
+    {
+      "album": {
         "name": "Quiero Contarte",
         "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
       },
@@ -4818,7 +4876,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
@@ -5276,7 +5334,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186274,
       "name": "Sin Lado Izquierdo - En Vivo",
       "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"

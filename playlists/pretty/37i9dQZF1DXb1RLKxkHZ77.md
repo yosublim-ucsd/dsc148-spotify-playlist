@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,480 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,567 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Bukan Dengan Kita](https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bukan Dengan Kita](https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy) | 4:33 |
 | 50 | [Muli](https://open.spotify.com/track/3oWjlc77uEpysJso9fYSNq) | [Masmona](https://open.spotify.com/artist/1zoySdlgpTQeRR8EqTEqii), [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Muli](https://open.spotify.com/album/5KwnbPGbQHdnRhTXZgNIup) | 3:34 |
 
-Snapshot ID: `MCw4NTAwYTJlNTIwZGEyMWE2NDkyNDhhZTc4NTQxNjMzZGFmMzI1NjY3`
+Snapshot ID: `MCwzZjM3ODBjMGFhODI4ZjRiYWFjNTA3MGQxZTZkOWEwNGYzMmFmZjA3`

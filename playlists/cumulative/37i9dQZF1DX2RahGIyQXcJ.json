@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "G-2",
+        "url": "https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ"
+      },
+      "artists": [
+        {
+          "name": "Gopi Waraich",
+          "url": "https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141334,
+      "name": "Naal Jehde Vekhe",
+      "url": "https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E"
+    },
+    {
+      "album": {
         "name": "Nahi Hai Woh",
         "url": "https://open.spotify.com/album/08ZMnNLFa5lDq08HzUJ4v1"
       },

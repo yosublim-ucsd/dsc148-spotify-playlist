@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-253 songs - 13 hr 58 min
+254 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Echelon](https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Echelon](https://open.spotify.com/album/77ZmYo3i76tieicsQ5VmbR) | 3:02 | 2022-01-21 | 2022-02-01 |
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 | 2023-02-15 |
 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 | 2022-12-02 |  |
-| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-17 |  |
+| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-17 | 2023-06-10 |
 | [enough](https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [enough](https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw) | 2:38 | 2021-11-19 | 2022-12-01 |
 | [Eternal](https://open.spotify.com/track/1Bhy4eBv3f3m7cXQxyQVZ6) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [R3VXS](https://open.spotify.com/artist/2utEH3EfW0uJCHSDyXnJjB) | [Eternal](https://open.spotify.com/album/1GykPsowuX6anZe67MflnU) | 2:24 | 2021-11-19 | 2022-02-02 |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-19 | 2022-02-02 |
@@ -210,6 +210,7 @@
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:35 | 2021-11-26 | 2022-01-21 |
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(feat\. Calivania\)](https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L) | 3:35 | 2021-11-19 | 2022-08-31 |
 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 | 2022-02-01 |  |
+| [SIDE2SIDE](https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [SIDE2SIDE](https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH) | 3:53 | 2023-06-09 |  |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 |  |
 | [Sinner](https://open.spotify.com/track/6r4evry8ZJxJRkjKBiHncf) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Sinner](https://open.spotify.com/album/2kpCIlKMYr7Z0AZbhBCoTb) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 | 2022-02-01 |  |

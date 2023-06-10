@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "album": {
         "name": "In Loving Memory",
         "url": "https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek"
       },
@@ -472,6 +490,42 @@
       "duration_ms": 295357,
       "name": "Bobcaygeon",
       "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
+    },
+    {
+      "album": {
+        "name": "another eternity",
+        "url": "https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173213,
+      "name": "bodyache",
+      "url": "https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
     },
     {
       "album": {
@@ -1560,6 +1614,24 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "album": {
@@ -3250,7 +3322,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181613,
       "name": "Nowhere With You",
       "url": "https://open.spotify.com/track/7JUGIQLHiPvCUBKp3988fR"
@@ -4418,7 +4490,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 221746,
       "name": "Stompa",
       "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
@@ -4670,7 +4742,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240613,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
@@ -5542,7 +5614,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 259026,
       "name": "Wheat Kings",
       "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"

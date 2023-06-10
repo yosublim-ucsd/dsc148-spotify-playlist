@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
@@ -1441,6 +1441,32 @@
     },
     {
       "album": {
+        "name": "Coconut",
+        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/3FCgEIMhNRdxLWB3Twi5SB"
       },
@@ -2786,7 +2812,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173694,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
@@ -2830,7 +2856,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
@@ -4950,7 +4976,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 214103,
       "name": "Love You Back",
       "url": "https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU"
@@ -5132,7 +5158,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -5744,7 +5770,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Nobody Like You (feat. Lost Boy)",
       "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
@@ -6050,7 +6076,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160014,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/0FzqS9TaYAKwhjdIXfphtd"
@@ -6226,7 +6252,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
@@ -6418,7 +6444,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/6zXyPzGp9AjpbrOYMQ1sc9"
@@ -6892,7 +6918,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 242880,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
@@ -7848,7 +7874,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
@@ -8454,7 +8480,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
@@ -8546,6 +8572,28 @@
       "duration_ms": 186400,
       "name": "The One",
       "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
+    },
+    {
+      "album": {
+        "name": "The Show (with JJ Lin)",
+        "url": "https://open.spotify.com/album/5GJCAZCsQS8hCQsxjrVdvo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207550,
+      "name": "The Show - with JJ Lin",
+      "url": "https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr"
     },
     {
       "album": {
@@ -8824,7 +8872,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147260,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
@@ -8960,7 +9008,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 168148,
       "name": "Unity",
       "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"

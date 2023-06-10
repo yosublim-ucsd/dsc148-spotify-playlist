@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Music from the ether to focus to.",
+  "description": "Music from the ether to focus and study to.",
   "name": "Atmospheric Focus",
   "tracks": [
     {
@@ -1134,6 +1134,24 @@
       "duration_ms": 178500,
       "name": "Gentle Whisper",
       "url": "https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B"
+    },
+    {
+      "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8"
+      },
+      "artists": [
+        {
+          "name": "Pursue Earth",
+          "url": "https://open.spotify.com/artist/2p9T2VRJ5VITfZP2brFNVE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/7mVts0s26dcB926oonXeoT"
     },
     {
       "album": {
@@ -2797,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "Stoic",
+        "url": "https://open.spotify.com/album/1R188q8lWvdB1tXdr9j3Xe"
+      },
+      "artists": [
+        {
+          "name": "Sun Kissed Sky",
+          "url": "https://open.spotify.com/artist/5HkFsCNO0S6DI1nfvHxUi6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "Stoic",
+      "url": "https://open.spotify.com/track/5MkNHsjfPQJT55YRNawXDC"
+    },
+    {
+      "album": {
         "name": "Submerse",
         "url": "https://open.spotify.com/album/51rKwdDlgPKoZjKUcdlFS7"
       },
@@ -2992,6 +3028,24 @@
       "duration_ms": 383365,
       "name": "The C In Certain",
       "url": "https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj"
+    },
+    {
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/3aE5W4L8nurRgcvUIgvNUj"
+      },
+      "artists": [
+        {
+          "name": "Cherries & Daydreams",
+          "url": "https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139548,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6CsUuJ9gacyycbcVSUVBvk"
     },
     {
       "album": {

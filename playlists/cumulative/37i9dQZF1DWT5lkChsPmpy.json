@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Up n runnin",
+        "url": "https://open.spotify.com/album/02vcNzVx4gOvSHsaZgq41R"
+      },
+      "artists": [
+        {
+          "name": "Jay Groovi",
+          "url": "https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146524,
+      "name": "In unison",
+      "url": "https://open.spotify.com/track/17GYUIV3rj9iZqahdnAs7U"
+    },
+    {
+      "album": {
         "name": "ineludibile",
         "url": "https://open.spotify.com/album/5z0pUfdBheEtEXax6XSWNE"
       },
@@ -5478,6 +5496,24 @@
       "duration_ms": 178500,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT"
+    },
+    {
+      "album": {
+        "name": "pink cloud",
+        "url": "https://open.spotify.com/album/72DsWYTv72GHU6pkfsWpPt"
+      },
+      "artists": [
+        {
+          "name": "soulful beats",
+          "url": "https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "pink cloud",
+      "url": "https://open.spotify.com/track/5U9SYC8B9IXMxncy0wBD2a"
     },
     {
       "album": {

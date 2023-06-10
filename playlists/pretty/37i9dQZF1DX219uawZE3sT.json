@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 118294,
+  "num_followers": 118389,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGVmYzg1NzUzZmIzODMyODNiZWJhOTNlODEyOWQ4YjI2YTAyMzdk",
+  "snapshot_id": "MCxmM2IzOGM4ZjliMTUwM2QyZDVjMjE2MzZhYWUwZGY3ZDVjOGMxNDk1",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 274906,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+        "name": "Sue\u00f1os de Juventud",
+        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
       },
       "artists": [
         {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+          "name": "DKDA",
+          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Te Quiero Tanto, Tanto - Versi\u00f3n de la Telenovela Mi Peque\u00f1a Traviesa",
-      "url": "https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7"
+      "duration_ms": 335751,
+      "name": "\u00c1mame Como Soy (En Vivo)",
+      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
     }
   ],
   "unique_name": "Telenovelas",

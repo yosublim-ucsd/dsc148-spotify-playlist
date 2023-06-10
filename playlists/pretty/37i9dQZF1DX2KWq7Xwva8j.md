@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,038 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,043 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 30 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
 | 31 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
 | 32 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
-| 33 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
+| 33 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
 | 34 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
-| 35 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
+| 35 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 36 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
 | 37 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
 | 38 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 41 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 42 | [Entre Tú y Yo](https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [Entre Tú y Yo](https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva) | 3:19 |
 | 43 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 |
-| 44 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
-| 45 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 |
+| 44 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 |
+| 45 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
 | 46 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
 | 47 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 48 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 |
 | 49 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 | 50 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
 
-Snapshot ID: `MCw5MjBmYWFmYjZmODBlNzljNWFmMzA4MzMwZDg2MTY2MWIzYTM0MTMy`
+Snapshot ID: `MCw3Y2IxNjJlMTdhNzM0ZWI3MGRhNDAyNDk1MDI0OTVmYTEwZTUwOWI4`

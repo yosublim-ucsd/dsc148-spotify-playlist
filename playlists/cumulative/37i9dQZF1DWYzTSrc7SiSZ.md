@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-223 songs - 11 hr 58 min
+224 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 | 2023-04-07 |  |
 | [Baila Pa Mi](https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Baila Pa Mi](https://open.spotify.com/album/5UnOLBXoGj0MKejGINxn24) | 2:40 | 2022-10-27 | 2023-01-07 |
 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 | 2022-05-20 |  |
+| [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 | 2023-06-09 |  |
 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 | 2022-05-20 | 2022-10-28 |
 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 | 2022-10-27 | 2023-01-07 |
 | [Bolitas](https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Bolitas](https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB) | 3:41 | 2022-05-20 |  |
@@ -136,7 +137,7 @@
 | [Muy Muy Chico](https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh) | 2:12 | 2022-07-11 | 2023-01-07 |
 | [Muy Muy Chico](https://open.spotify.com/track/4gesrDJeUIRwdbI7gZ5L5y) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/70XdZ1wGz5BYZgVQcxb1TQ) | 2:12 | 2022-05-20 | 2022-07-29 |
 | [Muy Muy Chico](https://open.spotify.com/track/7MZABblgzc8fO9NNCyWhRX) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Pasarla Bien](https://open.spotify.com/album/0VnANUdEATK0NM2VCTOnMf) | 2:12 | 2022-10-27 | 2022-11-13 |
-| [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-11 |  |
+| [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-11 | 2023-06-10 |
 | [My Summertime](https://open.spotify.com/track/2PEBWGIrWhGDkCmW4F5Lmf) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summertime](https://open.spotify.com/album/6E8xuq7EGoActOijjeGrdw) | 3:07 | 2022-05-20 | 2022-07-29 |
 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 | 2022-08-10 |  |
 | [Nada Más Que Hablar](https://open.spotify.com/track/3Yf06TiTW89uu20Iyz32VJ) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Encanto](https://open.spotify.com/album/26AjKOBqXEbgvvYQNLydR7) | 3:53 | 2022-05-20 | 2022-10-28 |

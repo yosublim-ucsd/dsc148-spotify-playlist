@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Within Temptation",
-  "num_followers": 734413,
+  "num_followers": 734521,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjA0YTYwZTQ5ZWNiMjcxMTE0MGUwNzY1OTM1MmI2MGJjY2U5NWIw",
+  "snapshot_id": "MCw2OWRjNjUxZmY0ZDhmZmY1N2Q0YTU2NjVmNWZiMzI0YjI4MzZmNTVl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Diamanti",
         "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 305506,
       "name": "Pure Life Unfolds",
       "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nekonomicon",
-        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
-      },
-      "artists": [
-        {
-          "name": "Nekonomicon",
-          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
-        },
-        {
-          "name": "Kylee Brielle",
-          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
-        }
-      ],
-      "duration_ms": 237031,
-      "name": "Dismantled",
-      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 230480,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Nekonomicon",
+        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
+      },
+      "artists": [
+        {
+          "name": "Nekonomicon",
+          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
+        },
+        {
+          "name": "Kylee Brielle",
+          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
+        }
+      ],
+      "duration_ms": 237031,
+      "name": "Dismantled",
+      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
-        }
-      ],
-      "duration_ms": 242146,
-      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
     },
     {
       "added_at": "2023-05-19 04:00:00",

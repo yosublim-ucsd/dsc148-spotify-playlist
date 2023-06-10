@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Utsavi Jha
+> Most exciting artists from the Indian Indie scene\. Cover : Ramil  Ganjoo
 
-239 songs - 14 hr 11 min
+240 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Karwaan](https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Karwaan](https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz) | 4:00 | 2022-07-01 |  |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-10 | 2023-03-11 |
 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 | 2021-12-06 | 2022-02-16 |
+| [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-09 |  |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 | 2022-07-01 |  |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 |  |
@@ -152,7 +153,7 @@
 | [Martbaan](https://open.spotify.com/track/3NyVaRd7ei6erCESpTQzDL) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN), [June](https://open.spotify.com/artist/0WSJQxpWnYJswHWehTfJnP), [Sarah Mehdi](https://open.spotify.com/artist/5hj5wOlAgSI6WM3YP1LOd4) | [Martbaan](https://open.spotify.com/album/4rhWPluu9U2NusNDQVdogO) | 5:30 | 2022-01-10 | 2023-01-11 |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-10 | 2022-10-15 |
 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-10-13 | 2023-02-11 |
-| [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 |  |
+| [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 | 2023-06-10 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-10-04 |  |
 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-01-24 |  |
 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 |  |

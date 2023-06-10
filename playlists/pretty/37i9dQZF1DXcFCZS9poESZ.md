@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,143 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,227 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 2 | [Touch](https://open.spotify.com/track/1YgsafBW9O7vhTjeeSuapN) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/19XENSrORBPh2v5EVAOtI1) | 3:13 |
 | 3 | [CAT'S EYE](https://open.spotify.com/track/7FGbwJMZxCbW6U8aGNBgOm) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [MY FAVORITE SONGS](https://open.spotify.com/album/7zgw8ntFBLiJmamS7HtVyw) | 3:22 |
 | 4 | [ルパン三世'80](https://open.spotify.com/track/273uFgAPSKdPioIGTPmpZb) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック3](https://open.spotify.com/album/7Hnnn5lTZeCIuG1UR1eUFG) | 3:40 |
-| 5 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 |
+| 5 | [Tobe! GUNDAM](https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2) | [Tobe! GUNDAM](https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU) | 2:45 |
 | 6 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 |
 | 7 | [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 |
 | 8 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 35 | [ニルスのふしぎな旅](https://open.spotify.com/track/1ox2VEg2wjLnc8l7Q6xGAf) | [Katsumi Kahashi](https://open.spotify.com/artist/6ESuChUdfvDtfNIhzQLmIP), [SSAAB](https://open.spotify.com/artist/2kL8Yf9VfmypuWZErTtZcL) | [ニルスのふしぎな旅 楽しいうたと音楽集](https://open.spotify.com/album/0c1fU2A9fyTVrxYwZJz8SP) | 3:17 |
 | 36 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
 | 37 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/3NUwz8ui16l77S1VVkzfWH) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:52 |
-| 38 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 |
+| 38 | [Ai Senshi](https://open.spotify.com/track/1H69lVwtjpEUB8nAyeahfy) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Ai Senshi](https://open.spotify.com/album/7ElpBzSDigXgsFhCgxS2mm) | 3:51 |
 | 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 40 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 |
 | 41 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/58Uv6tYdQU74invXpeN0u1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [City Pop Essentials Vol\. 2](https://open.spotify.com/album/0vR0kzwQJmXWVyuINLiQ7m) | 4:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 47 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
 | 48 | [City Hunter 〜愛よ消えないで〜](https://open.spotify.com/track/4c0G3S4tGbwoJrF8Ve662r) | [Kahoru Kohiruimaki](https://open.spotify.com/artist/25AlSzLodlCYZrjU8je4pJ) | [The LEGEND](https://open.spotify.com/album/2X7Bq9qIsYPbva7aAZyB87) | 4:06 |
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
-| 50 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 |
+| 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCw5Y2QxZmIwZGUwZGE1ODFmOTJkZTUxZDA3MjIwOWNmNGNmYzQ1NTU3`
+Snapshot ID: `MCw5YWZmOTE1NDJjOGMzMzRjM2U5ZGY0ODY3NGE1OTJkYmY5NWY5OWVk`

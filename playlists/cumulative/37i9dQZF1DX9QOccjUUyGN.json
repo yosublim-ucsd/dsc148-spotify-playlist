@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 138333,
       "name": "Celebrando",
       "url": "https://open.spotify.com/track/1ZynCssuMvuqVH5fwFeSOw"
@@ -7780,6 +7780,32 @@
       "duration_ms": 151208,
       "name": "Sei Que C\u00ea Gosta 2",
       "url": "https://open.spotify.com/track/49uDp13lp4yG8VZ0hlPtTx"
+    },
+    {
+      "album": {
+        "name": "Sem Roteiro",
+        "url": "https://open.spotify.com/album/1oCglryXjtrhK3kGkcPWie"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165389,
+      "name": "SEM ROTEIRO",
+      "url": "https://open.spotify.com/track/2L22S6sgS9rTIrLV0m6eav"
     },
     {
       "album": {

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "$aldo",
+        "url": "https://open.spotify.com/album/1zhQIpMgGd5ewOrqur1CPh"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90612,
+      "name": "$aldo",
+      "url": "https://open.spotify.com/track/7qpFnUhICF3BuXpWiX15oM"
+    },
+    {
+      "album": {
         "name": "1, 2, 3",
         "url": "https://open.spotify.com/album/7dnzWYXTwFpuEhZughi0D3"
       },
@@ -744,6 +762,32 @@
       "duration_ms": 156800,
       "name": "Al\u00e7ando Voo",
       "url": "https://open.spotify.com/track/2xkkVqTj9Kxh5xFuC4mdwq"
+    },
+    {
+      "album": {
+        "name": "Amante Do Crime",
+        "url": "https://open.spotify.com/album/5CVbFluBG4WNt4vK79wn3T"
+      },
+      "artists": [
+        {
+          "name": "Lenco",
+          "url": "https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Amante Do Crime",
+      "url": "https://open.spotify.com/track/1MmI32s7k23iL3Y7DgzZhR"
     },
     {
       "album": {
@@ -2398,7 +2442,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 115634,
       "name": "Buxixo",
       "url": "https://open.spotify.com/track/7cswkuNpLyyJSjn4miyLPc"
@@ -2732,6 +2776,24 @@
       "duration_ms": 192000,
       "name": "Capital das Notas",
       "url": "https://open.spotify.com/track/3YfEP7VqhCfE4X2l4kHvvN"
+    },
+    {
+      "album": {
+        "name": "Capital No Topo",
+        "url": "https://open.spotify.com/album/2iG1wcTSNzRqIxbizAYOWl"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138142,
+      "name": "Capital No Topo",
+      "url": "https://open.spotify.com/track/2OuWG3kum65CumD5hgcB8m"
     },
     {
       "album": {
@@ -4255,6 +4317,32 @@
     },
     {
       "album": {
+        "name": "MEN\u00d3",
+        "url": "https://open.spotify.com/album/5wIURgMTHBOBE49tIIK8sN"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Mirim",
+          "url": "https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6"
+        },
+        {
+          "name": "Drako",
+          "url": "https://open.spotify.com/artist/0LI28YfJUBOuLmw2BpDpmV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "DESESPERO (INTRO)",
+      "url": "https://open.spotify.com/track/3fk4fRC7tFoQEo1zkq8B1u"
+    },
+    {
+      "album": {
         "name": "Design",
         "url": "https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR"
       },
@@ -5276,7 +5364,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136515,
       "name": "Ela S\u00f3 Me Levantou...",
       "url": "https://open.spotify.com/track/1GpvILBvCojL5SzBrA96hN"
@@ -6700,7 +6788,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136889,
       "name": "G19",
       "url": "https://open.spotify.com/track/7leBjfWI2ofnMeEWLqVSer"
@@ -7236,7 +7324,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Idle Time - Extended",
       "url": "https://open.spotify.com/track/2arCWV03Vy8n5wGdcpxZ6U"
@@ -7906,7 +7994,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201789,
       "name": "LATREL FREESTYLE",
       "url": "https://open.spotify.com/track/0GG5jOXPSAB2xQ7BWAN6Nj"
@@ -11297,6 +11385,44 @@
     },
     {
       "album": {
+        "name": "Pique de Favela (feat. Crias da M\u00fasica, DJ Swag do Complexo & DetonaCry)",
+        "url": "https://open.spotify.com/album/30VGSnAsYPPKhloaR49STY"
+      },
+      "artists": [
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "MC Lizzie",
+          "url": "https://open.spotify.com/artist/4fbOla76FbjSxY1feTi2A5"
+        },
+        {
+          "name": "Evy",
+          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
+        },
+        {
+          "name": "Crias da M\u00fasica",
+          "url": "https://open.spotify.com/artist/2VooT186aC3JWeTLzEFSli"
+        },
+        {
+          "name": "DJ Swag do Complexo",
+          "url": "https://open.spotify.com/artist/7jIZzhw1kzIiFmaWz06PxA"
+        },
+        {
+          "name": "DetonaCry",
+          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212187,
+      "name": "Pique de Favela (feat. Crias da M\u00fasica, DJ Swag do Complexo & DetonaCry)",
+      "url": "https://open.spotify.com/track/7qxszlKLOmhXNMpYdHOOFI"
+    },
+    {
+      "album": {
         "name": "MONTE RUSH+",
         "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
       },
@@ -11434,6 +11560,32 @@
       "duration_ms": 192000,
       "name": "Placo (feat. Putodiparis)",
       "url": "https://open.spotify.com/track/457MK81IVMIuYQWpJzFQgU"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/72BEI7isjE7dZV6hxUUpB7"
+      },
+      "artists": [
+        {
+          "name": "Marri",
+          "url": "https://open.spotify.com/artist/53LwshhqBJWCTFM0zHerxN"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Famed",
+          "url": "https://open.spotify.com/artist/2z28lqkmvkWqatQ5clLbcU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/75B1gzZTax7e6baTr0NEvD"
     },
     {
       "album": {
@@ -11588,6 +11740,36 @@
       "duration_ms": 165241,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/11vfaxci6Y5tgXDu84odv0"
+    },
+    {
+      "album": {
+        "name": "Pole",
+        "url": "https://open.spotify.com/album/15kzRUS8X2wmmWLVY4kfZZ"
+      },
+      "artists": [
+        {
+          "name": "Dael",
+          "url": "https://open.spotify.com/artist/6Uy2GiLcsMHecZeLAO2vWB"
+        },
+        {
+          "name": "Aimar",
+          "url": "https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy"
+        },
+        {
+          "name": "coldboyballer",
+          "url": "https://open.spotify.com/artist/2glKoqeafb0q8pLm4jntjr"
+        },
+        {
+          "name": "izzat",
+          "url": "https://open.spotify.com/artist/062i8CdoT1K5E18Ai4YwVE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208548,
+      "name": "Pole",
+      "url": "https://open.spotify.com/track/0dot6rrxrnvX0jYewjTS0X"
     },
     {
       "album": {
@@ -11978,7 +12160,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139598,
       "name": "PSG",
       "url": "https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs"
@@ -12430,7 +12612,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 90383,
       "name": "Real Plug 3",
       "url": "https://open.spotify.com/track/0oS5N2TAqwww6BdI3mMV1c"

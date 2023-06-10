@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+        "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292527,
+      "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+      "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
+    },
+    {
+      "album": {
         "name": "24/7 (feat. JC Stewart)",
         "url": "https://open.spotify.com/album/30zhkm14VV1Llw59uYFt3G"
       },
@@ -166,7 +184,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 270082,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr"
@@ -262,7 +280,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172800,
       "name": "All I Ever",
       "url": "https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184880,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 269880,
       "name": "Breakout (feat. LaMeduza)",
       "url": "https://open.spotify.com/track/1gyUWnRt5qvq0pqgvTzHKI"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179420,
       "name": "Bringing Me Back (feat. Rosie Darling)",
       "url": "https://open.spotify.com/track/0wj3Kfwb3AnYJ7Dc9YGIDY"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168585,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3mMWre0KnZ4aPuhZF62KmV"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 148571,
       "name": "Day by Day - DubVision Remix",
       "url": "https://open.spotify.com/track/1F8zJJ4mUrgtXoSkaNFYF9"
@@ -2151,6 +2169,32 @@
     },
     {
       "album": {
+        "name": "Face",
+        "url": "https://open.spotify.com/album/1semThNRoxCeYqerwMftAQ"
+      },
+      "artists": [
+        {
+          "name": "BELLMAN",
+          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+        },
+        {
+          "name": "LVSN",
+          "url": "https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145584,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/2ARzBgGU6S3F9Dhm59dVn8"
+    },
+    {
+      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91"
       },
@@ -2366,7 +2410,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173147,
       "name": "Feels Like Summer - Teddy Cream Remix",
       "url": "https://open.spotify.com/track/7nvBVhOAEsykStzHjs407V"
@@ -2418,6 +2462,24 @@
       "duration_ms": 171147,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/2PW4kMcE6EanzEPGwqNfgT"
+    },
+    {
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186231,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
     },
     {
       "album": {
@@ -2506,7 +2568,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 225437,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO"
@@ -2754,7 +2816,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 284772,
       "name": "GOOD TIMES - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/4Gn1QTNQReiekDQe4G9Nwn"
@@ -2798,7 +2860,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
@@ -2824,7 +2886,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167434,
       "name": "Hallucination - Luude Remix",
       "url": "https://open.spotify.com/track/272Pe5QxPswPH6P1qLq05K"
@@ -2864,7 +2926,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 290066,
       "name": "Heard Me Right",
       "url": "https://open.spotify.com/track/2c1rczYCpnnoRPVhUtrKoT"
@@ -2938,7 +3000,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188571,
       "name": "HEAVEN'S GATES (feat. Izzy Camina)",
       "url": "https://open.spotify.com/track/25lRu5PG4eZnDz9earNetB"
@@ -3004,7 +3066,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
@@ -3088,7 +3150,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168980,
       "name": "Hopeless Romantic - 220 KID Remix",
       "url": "https://open.spotify.com/track/14MGnFEwZBfX7FZPdjIDFL"
@@ -3228,7 +3290,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 150923,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3"
@@ -3408,7 +3470,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173296,
       "name": "I See You (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq"
@@ -3602,7 +3664,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 267416,
       "name": "In The Dark - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/1pBLngw373DH81ew7BzACD"
@@ -3708,7 +3770,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194395,
       "name": "K1EN",
       "url": "https://open.spotify.com/track/3n2KGtnCjT6ttucbyXnt9q"
@@ -3766,7 +3828,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194374,
       "name": "Keep It Movin (feat. Knox Fortune)",
       "url": "https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa"
@@ -4016,6 +4078,28 @@
       "duration_ms": 264960,
       "name": "Let It Come",
       "url": "https://open.spotify.com/track/2PUn6EP3v7X5RY6xar1CVO"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183495,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
     },
     {
       "album": {
@@ -4361,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Magic City (Vip Mix)",
+        "url": "https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Magic City - Vip Mix",
+      "url": "https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT"
+    },
+    {
+      "album": {
         "name": "Make Some Noise",
         "url": "https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH"
       },
@@ -4474,7 +4576,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 250756,
       "name": "Melody - Extended",
       "url": "https://open.spotify.com/track/2zJLNGhDzCqiqivA5oLgLn"
@@ -4782,7 +4884,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137910,
       "name": "Never Gonna Sleep (feat. Julia Hallasen)",
       "url": "https://open.spotify.com/track/4EEnUGQG5SHwglyUEfirKQ"
@@ -4992,7 +5094,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180003,
       "name": "No Te Sientes Igual",
       "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
@@ -5106,7 +5208,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 152990,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
@@ -5182,7 +5284,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187923,
       "name": "Original Sin - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
@@ -5406,7 +5508,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203411,
       "name": "Payback (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt"
@@ -5592,7 +5694,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 275966,
       "name": "Post Punk (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK"
@@ -5840,7 +5942,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 161284,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/3uh4LGc6d5uvYUdWlTaZSX"
@@ -6486,7 +6588,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139066,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/5XjN6oX6pjwC53LZkcelHv"
@@ -7103,6 +7205,36 @@
     },
     {
       "album": {
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "album": {
         "name": "The Way (Dennis Lloyd Remix)",
         "url": "https://open.spotify.com/album/6elTX2Ty2PrsvaGqNUyAFQ"
       },
@@ -7384,10 +7516,32 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "album": {
+        "name": "Took The Night (J. Worra Remix)",
+        "url": "https://open.spotify.com/album/5Db7KWY3EGNin5UMFSLyXu"
+      },
+      "artists": [
+        {
+          "name": "Chelley",
+          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
+        },
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303250,
+      "name": "Took The Night - J. Worra Remix",
+      "url": "https://open.spotify.com/track/5HBOOjUPTqfDFr6rLQrzkz"
     },
     {
       "album": {
@@ -7450,7 +7604,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 152923,
       "name": "U Gave Me Nothing (feat. Selin)",
       "url": "https://open.spotify.com/track/1sQKGjOvLmEFP3AWYFbo63"
@@ -7490,7 +7644,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
@@ -7699,6 +7853,24 @@
     },
     {
       "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
+        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "WET WHITE TEE SHIRT (SIDE A)",
+      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "album": {
         "name": "What Goes Up?",
         "url": "https://open.spotify.com/album/288mf5abbPDthXNXmdEwWj"
       },
@@ -7776,7 +7948,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207957,
       "name": "When I Talk",
       "url": "https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU"

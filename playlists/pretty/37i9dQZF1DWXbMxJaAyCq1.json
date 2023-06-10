@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Justin Quiles, Myke Towers, Ozuna",
-  "num_followers": 402625,
+  "num_followers": 402919,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjA5NDRhYWQ5YjFlMDA3M2ZjOWMyODRhNDFkNDMzNjk2MDdhMTZl",
+  "snapshot_id": "MCxhNmJhMDNiMjZiZmYwYzgwYjVhZmZmN2FlY2NhOWJhZWQ1Yzg1ZmM2",
   "tracks": [
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Darte Remix",
         "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 512060,
       "name": "Darte Remix",
       "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Mi Gata (Remix)",
-        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "Mi Gata - Remix",
-      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
         "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 192745,
       "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
       "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Mi Gata (Remix)",
+        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "Mi Gata - Remix",
+      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -2119,26 +2119,22 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Caramelo (Remix)",
-        "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
+        "name": "S\u00edgueme (Remix)",
+        "url": "https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Caramelo - Remix",
-      "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
+      "duration_ms": 202546,
+      "name": "S\u00edgueme - Remix",
+      "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
     }
   ],
   "unique_name": "Remixes Urbanos",

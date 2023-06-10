@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 328775,
+  "num_followers": 328887,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2Q5MzE0OGNlYWM4NWZmZDJlNzdjYTRlOWZiOWJkNGU3NzA5YjM5",
+  "snapshot_id": "MCxhN2Y5YzRlZTAxYTFmYjZlODllNTdmZDgyMDg1YzkxYmNhYzFlYjA3",
   "tracks": [
     {
       "added_at": "2023-05-05 16:49:46",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Life Is Confusing",
+      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+        "name": "Wandered Away",
+        "url": "https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Life Is Confusing",
-      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
+      "duration_ms": 255493,
+      "name": "My Soul I",
+      "url": "https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p"
     }
   ],
   "unique_name": "Easy Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,743 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,757 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 46 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 47 | [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 |
 | 48 | [Swamp Thang](https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G) | 2:47 |
-| 49 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
-| 50 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 49 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 50 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
 
-Snapshot ID: `MCxmNWQzZjI0MmNiNWQwZTk4ZDQ2ZmEwZDI0NjZjZDU5MjRlYTQ0ODIx`
+Snapshot ID: `MCw1ZDBmZWRjM2JlMTdjNjQ0ZWY0N2VlMDNlNTU5ODhiYjAwMjRiMDQw`

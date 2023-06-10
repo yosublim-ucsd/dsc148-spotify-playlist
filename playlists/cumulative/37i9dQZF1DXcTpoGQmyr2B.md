@@ -4,13 +4,14 @@
 
 > Let your stress melt away while you work up a sweat.
 
-244 songs - 13 hr 38 min
+246 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-11-11 |  |
+| [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-11-11 | 2023-06-10 |
 | [21 Guns](https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [21 Guns](https://open.spotify.com/album/2bhmc2HWr3SFTNKpGg9fxw) | 4:03 | 2022-08-03 | 2023-06-02 |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2022-10-14 |  |
+| [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-09 |  |
 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 | 2023-02-17 |  |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-09 |  |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-03 | 2022-11-07 |
@@ -22,7 +23,7 @@
 | [apologize](https://open.spotify.com/track/2UQJXhcg7d7pY80VMknAUs) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [apologize](https://open.spotify.com/album/5nuhZCXLzUKCcknWkmsFS7) | 2:58 | 2023-06-02 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2022-03-03 |  |
 | [As It Was](https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x) | [Killian Turner](https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5) | [As It Was](https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB) | 3:46 | 2023-02-17 | 2023-06-02 |
-| [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-06-03 |  |
+| [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-06-03 | 2023-06-10 |
 | [Attention](https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Attention](https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI) | 2:58 | 2022-12-09 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2022-03-03 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-03-03 | 2023-06-02 |
@@ -35,6 +36,7 @@
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2022-03-03 | 2022-07-29 |
 | [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2022-08-03 |  |
 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 | 2022-03-03 | 2022-10-15 |
+| [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-09 |  |
 | [Bound For The Floor](https://open.spotify.com/track/31PCgVHSfF31y58BPMt59H) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Bound For The Floor](https://open.spotify.com/album/02bm3jjVSoyLWTPgbsT3lN) | 2:53 | 2022-03-03 |  |
 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2022-03-03 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2023-02-17 | 2023-06-02 |

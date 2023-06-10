@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Feed your focus with restaurant ambience from around the world.",
+  "description": "Feed your focus with busy restaurant sounds, background chatter and coffee shop ambience. \n",
   "name": "Restaurant Focus Noise",
   "tracks": [
     {
@@ -160,10 +160,90 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 115176,
       "name": "At The Coffee shop",
       "url": "https://open.spotify.com/track/6AYeqUp8AR8NPPseKRSsRG"
+    },
+    {
+      "album": {
+        "name": "Ambient Sound Effects",
+        "url": "https://open.spotify.com/album/7HPNuIK4pbQM2OZagzaZqS"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Bar Ambience (Restaurant Pub People Talk Talking Chatter Walla Background Noise Soundscape Clip) [Sound Effect]",
+      "url": "https://open.spotify.com/track/00iu0LbUotX33gAf4lpAuL"
+    },
+    {
+      "album": {
+        "name": "Restaurants",
+        "url": "https://open.spotify.com/album/0irPExd1a4Xx0n9E2S7sBa"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179780,
+      "name": "Busy Cafeteria Ambience with Heavy Dish Noise",
+      "url": "https://open.spotify.com/track/3oPaxlbJp8pB9wx5Q5qnAv"
+    },
+    {
+      "album": {
+        "name": "Crowd Sound Effects",
+        "url": "https://open.spotify.com/album/2KCDi2W0PIlGZVnBoD8tzz"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173244,
+      "name": "Busy Open Restaurant with Active Voices and Busy Dish Noise",
+      "url": "https://open.spotify.com/track/2zSbESVJMuvcTExKjU7Joc"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Busy Restaurant White Noise (Loopable no fade)",
+      "url": "https://open.spotify.com/track/7HSIem4N90Egl27X1dKG2F"
     },
     {
       "album": {
@@ -185,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Busy Cafe Background Noise",
+        "url": "https://open.spotify.com/album/75avKVUUNDDMgPVCb5vUGh"
+      },
+      "artists": [
+        {
+          "name": "Lost & Sound",
+          "url": "https://open.spotify.com/artist/72Q1D3UYd6EEz3nTT0YATz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cafe Restaurant Ambience",
+      "url": "https://open.spotify.com/track/1kldzLCCyISWQ6lO1bVzkR"
+    },
+    {
+      "album": {
         "name": "Airport, Subway, City Soundscapes",
         "url": "https://open.spotify.com/album/5ZYlwZ93npvJMvJgZ6iL1w"
       },
@@ -200,6 +298,24 @@
       "duration_ms": 150000,
       "name": "Cafe Soundscape",
       "url": "https://open.spotify.com/track/3ghuqvkZdQZEXjjzqFDRmo"
+    },
+    {
+      "album": {
+        "name": "Background Sound Effects",
+        "url": "https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Cafeteria Ambience (Cafe Coffee Shop Restaurant People Talking) [Background Ambient Noise Sound Effect]",
+      "url": "https://open.spotify.com/track/3pOINHAWLUX2pn7hn6CDiB"
     },
     {
       "album": {
@@ -358,7 +474,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219490,
       "name": "Coca o Sprite",
       "url": "https://open.spotify.com/track/7h4E3awajAykEGVDbvEB51"
@@ -412,7 +528,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136000,
       "name": "Coffee Break Time - Seamless",
       "url": "https://open.spotify.com/track/0VShnrpz2LtqtG3TmGe3qn"
@@ -491,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Background Sound Effects",
+        "url": "https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Coffee Shop Ambience (Version 1) [Cafe Cafeteria Restaurant] [Background Ambient Noise Sound Effect]",
+      "url": "https://open.spotify.com/track/39PcnsTzbQaxm6V2WYcpAm"
+    },
+    {
+      "album": {
         "name": "French Coffee House Ambience",
         "url": "https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A"
       },
@@ -556,7 +690,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Coffeehouse Ambience Soft Music",
       "url": "https://open.spotify.com/track/0TCWoQ37uL9yg25s9UMf0E"
@@ -574,7 +708,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Coffeehouse Background",
       "url": "https://open.spotify.com/track/3QEIiphlGHZTd2c2UIgGMG"
@@ -610,7 +744,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Coffeehouse Patio",
       "url": "https://open.spotify.com/track/4s3oMjF2tPE4gtq9hVlR9j"
@@ -628,7 +762,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Coffeehouse Vibes",
       "url": "https://open.spotify.com/track/2bAaZdyBMXMQajkjdQQtAA"
@@ -754,7 +888,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203617,
       "name": "De Tamarindo",
       "url": "https://open.spotify.com/track/6SkGKLhfOQ4tTwYQc2geoV"
@@ -776,6 +910,32 @@
       "duration_ms": 174000,
       "name": "Diner Ambience",
       "url": "https://open.spotify.com/track/0Q0moXW83ZneJzYnoKLeYv"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Diner Restaurant Talking Background (Loopable no fade)",
+      "url": "https://open.spotify.com/track/6zGG6KOU8Kchtse9YPeeuJ"
     },
     {
       "album": {
@@ -923,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Background Sound Effects",
+        "url": "https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Food Court Ambience (Version 1) [Shopping Mall Fast Food Restaurant] [Background Ambient Noise Sound Effect]",
+      "url": "https://open.spotify.com/track/2fGQfUlkseTfQgg0KByhx6"
+    },
+    {
+      "album": {
         "name": "French Bistro Sound",
         "url": "https://open.spotify.com/album/69AggoyBvCHK83e0hcjKzP"
       },
@@ -988,10 +1166,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181000,
       "name": "French Restaurant Ambience",
       "url": "https://open.spotify.com/track/4HOVxq1LzqBVP9M9k8Zlok"
+    },
+    {
+      "album": {
+        "name": "Restaurants",
+        "url": "https://open.spotify.com/album/0irPExd1a4Xx0n9E2S7sBa"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Heavy Crowd Ambience with Dish Noise in Large Restaurant",
+      "url": "https://open.spotify.com/track/5zCiUthDVx1kt5ZCyH805A"
     },
     {
       "album": {
@@ -1031,6 +1227,32 @@
     },
     {
       "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Italian Restaurant Soft Background Ambience (Loopable no fade)",
+      "url": "https://open.spotify.com/track/5k6ncYtvWLnwhOVmSmF9lB"
+    },
+    {
+      "album": {
         "name": "Coffeehouse Lullaby",
         "url": "https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS"
       },
@@ -1046,6 +1268,42 @@
       "duration_ms": 198178,
       "name": "Java House Noise",
       "url": "https://open.spotify.com/track/2grDfUtrDXvwMhTsJDhnfr"
+    },
+    {
+      "album": {
+        "name": "Crowd Sound Effects",
+        "url": "https://open.spotify.com/album/2KCDi2W0PIlGZVnBoD8tzz"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160136,
+      "name": "Large Deli Restaurant with Busy Crowd, Voices and Dish Noise",
+      "url": "https://open.spotify.com/track/2WWllXa2vXG9rsM6ZnOHzl"
+    },
+    {
+      "album": {
+        "name": "Public Places",
+        "url": "https://open.spotify.com/album/2NNPKUPKuPurShHkw6teTx"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179559,
+      "name": "Large Restaurant Ambience with Medium Crowd, Dishes & Ventilation Noise",
+      "url": "https://open.spotify.com/track/36CbMboS89MndcunkqNDIz"
     },
     {
       "album": {
@@ -1082,6 +1340,24 @@
       "duration_ms": 86769,
       "name": "Lazy Hours",
       "url": "https://open.spotify.com/track/7ufn33IajRX5wPbxloXfni"
+    },
+    {
+      "album": {
+        "name": "Restaurants",
+        "url": "https://open.spotify.com/album/0irPExd1a4Xx0n9E2S7sBa"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120499,
+      "name": "Medium Crowd Ambience with Dishes & Freezer Compressor Noise",
+      "url": "https://open.spotify.com/track/3VhfmVfH3ifdTJbjjePrif"
     },
     {
       "album": {
@@ -1175,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Crowds, Applause & Laughter: Sounds of People",
+        "url": "https://open.spotify.com/album/5jNCLg0bw9wF2dbnQUB7Bj"
+      },
+      "artists": [
+        {
+          "name": "Pro Sound Effects Library",
+          "url": "https://open.spotify.com/artist/5DE7ftfW6Nt36ckDA8VzKj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288066,
+      "name": "Noisey Restaurant",
+      "url": "https://open.spotify.com/track/5D0IR8pcVI5yq4rqOf0BbR"
+    },
+    {
+      "album": {
         "name": "Tokyo Morning Coffee",
         "url": "https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy"
       },
@@ -1222,7 +1516,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177500,
       "name": "Outdoors Java Chill",
       "url": "https://open.spotify.com/track/05X7OFp7lfq70X9KYE2ZNw"
@@ -1265,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "France Sound Effects",
+        "url": "https://open.spotify.com/album/751hwmLYTytarl0vQpayDE"
+      },
+      "artists": [
+        {
+          "name": "Sound Ideas",
+          "url": "https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179792,
+      "name": "Paris, France Restaurant Ambience with a Large Crowd & Busy Voices & Dish Noises",
+      "url": "https://open.spotify.com/track/2JCisE5HD0O0JPbmLKfy4r"
+    },
+    {
+      "album": {
         "name": "Tacos Playa Del Carmen",
         "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
       },
@@ -1276,7 +1588,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166635,
       "name": "Pastor, Pastor, Pastor",
       "url": "https://open.spotify.com/track/5wWgFTfM2DpjW8gLtrIJRs"
@@ -1312,10 +1624,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188454,
       "name": "Peaceful City Caf\u00e9 Sounds",
       "url": "https://open.spotify.com/track/63vRVFIdLHlw1XiIjLqhWg"
+    },
+    {
+      "album": {
+        "name": "People Sound Effects 2",
+        "url": "https://open.spotify.com/album/0ZuntZH8oA7sZwGaH2bdiu"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "People Talking in Coffee Shop (Background Ambience Cafe Cafeteria Restaurant Ambient Noise) [Sound Effect]",
+      "url": "https://open.spotify.com/track/6olGhU0WDJrmgvc8TGfUCL"
     },
     {
       "album": {
@@ -1330,10 +1660,200 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208032,
       "name": "Playa La Ropa",
       "url": "https://open.spotify.com/track/3YVoUQOMYfsNw1Z5EqzYrG"
+    },
+    {
+      "album": {
+        "name": "Restaurants: Sound Effects",
+        "url": "https://open.spotify.com/album/4DjODkTSBzYsw4fGjaaBED"
+      },
+      "artists": [
+        {
+          "name": "Sound Effects Library",
+          "url": "https://open.spotify.com/artist/6BzziB95IQ1jfkr7GHCfl3"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179780,
+      "name": "Restaurant - Busy Cafeteria Ambience: Crowd, Heavy Dishes Restaurants, Cafes & Cafeterias",
+      "url": "https://open.spotify.com/track/3TofQi8T7UEuEOD4B2vBCY"
+    },
+    {
+      "album": {
+        "name": "Restaurant 3D Sound",
+        "url": "https://open.spotify.com/album/3pHS3ru0D7OKLinsTPiIxk"
+      },
+      "artists": [
+        {
+          "name": "Discovery Soundscapes",
+          "url": "https://open.spotify.com/artist/6XrTaOWstLi77Ns9GkcMTT"
+        },
+        {
+          "name": "White Noise Soundscapes",
+          "url": "https://open.spotify.com/artist/38BLebxcKZ47ZQl7y4VwKh"
+        },
+        {
+          "name": "Discovery White Noise",
+          "url": "https://open.spotify.com/artist/1Jog3PL9g7w1LVbRmxDLBl"
+        },
+        {
+          "name": "Discovery Nature Sound",
+          "url": "https://open.spotify.com/artist/4kMlGMbhHfbDkhjf64QirT"
+        },
+        {
+          "name": "Discovery Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/4Hh38T9TZbiHmkEsDIKeWU"
+        },
+        {
+          "name": "Sounds Nature",
+          "url": "https://open.spotify.com/artist/4QnTwC6fislNx8Xzr6ORL1"
+        },
+        {
+          "name": "Restaurant Sounds",
+          "url": "https://open.spotify.com/artist/3LARERoPDzeiRrof2vRymn"
+        },
+        {
+          "name": "Soothing Nature Sounds",
+          "url": "https://open.spotify.com/artist/5TYBu7aYj2RbyJhQ03QB9Q"
+        },
+        {
+          "name": "White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3q3dE3qsl5FYAZzzxBIVLI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134489,
+      "name": "Restaurant 3D Sound",
+      "url": "https://open.spotify.com/track/3qPAxlK1N38vr0lNgRwyoK"
+    },
+    {
+      "album": {
+        "name": "Background Sound Effects",
+        "url": "https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Restaurant Ambience (Version 2) [People Dining Eating Talking] [Background Ambient Noise Sound Effect]",
+      "url": "https://open.spotify.com/track/7fkXihHeA0Mb8HYX1Q7Kgb"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Restaurant Ambience White Noise For Sleeping (Loopable no fade)",
+      "url": "https://open.spotify.com/track/40hxUqbf7G3w77SjezcD17"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Restaurant Ambience White Noise to Focus (Loopable no fade)",
+      "url": "https://open.spotify.com/track/47Vi1Vemd01cpZe4D9CeAy"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Restaurant Background Noise (Loopable no fade)",
+      "url": "https://open.spotify.com/track/3Z4LPow2NoahHioEozZpYU"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Restaurant Chatter Noise (Loopable no fade)",
+      "url": "https://open.spotify.com/track/4xwXKQgawTLhhfmRzU9CTC"
     },
     {
       "album": {
@@ -1355,6 +1875,52 @@
     },
     {
       "album": {
+        "name": "Restaurant Kitchen Sounds",
+        "url": "https://open.spotify.com/album/0k4Q6ikLw8WFogAV3I0dLi"
+      },
+      "artists": [
+        {
+          "name": "White Noise Sound",
+          "url": "https://open.spotify.com/artist/7g1pYoYiarKHmnu2rSBAL4"
+        },
+        {
+          "name": "Soothing Sounds",
+          "url": "https://open.spotify.com/artist/2NZ0IKKiBoU3ZphPjGjh40"
+        },
+        {
+          "name": "Restaurant Kitchen Sounds",
+          "url": "https://open.spotify.com/artist/2tmk2s750ATIPfStaspjsh"
+        },
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/6ijNGOUIeAM7iLCouzUph1"
+        },
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        },
+        {
+          "name": "The Nature Sound",
+          "url": "https://open.spotify.com/artist/5IVOjLprY10O8tpbajdOrE"
+        },
+        {
+          "name": "Calming Nerves Sounds",
+          "url": "https://open.spotify.com/artist/4ul24tkrrBEuxQ9XUAoyEI"
+        },
+        {
+          "name": "Calming Sounds",
+          "url": "https://open.spotify.com/artist/5YMYsjNJU38MsiOXYQmBjN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157709,
+      "name": "Restaurant Kitchen Noise",
+      "url": "https://open.spotify.com/track/1vjxGPGyvu0Cuj4K6UxaJo"
+    },
+    {
+      "album": {
         "name": "Restaurant Sounds For Relaxations",
         "url": "https://open.spotify.com/album/5wbLcoVQO6HZMJNQy25bOL"
       },
@@ -1370,6 +1936,50 @@
       "duration_ms": 188000,
       "name": "Restaurant Sounds For Relaxations",
       "url": "https://open.spotify.com/track/6uVjQRdzp7MuFN4mr6SIXk"
+    },
+    {
+      "album": {
+        "name": "Background Sound Effects",
+        "url": "https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sandwich Shop Ambience (Restaurant Cafe Cafeteria Coffee Deli Store) [Background Ambient Noise Sound Effect]",
+      "url": "https://open.spotify.com/track/2TtevSHUGEGEKTmF1opmyt"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "School Cafeteria Study Noise Ambience (Loopable no fade)",
+      "url": "https://open.spotify.com/track/2oh4trbzJlfCerq2QpqTMU"
     },
     {
       "album": {
@@ -1406,6 +2016,32 @@
       "duration_ms": 168000,
       "name": "Shinjuku Caf\u00e9",
       "url": "https://open.spotify.com/track/2QXQYNItlNAlXmx65LmfLh"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Small Restaurant Background Ambience Chill (Loopable no fade)",
+      "url": "https://open.spotify.com/track/6s1hp2qDhoYsXHNmduxfmc"
     },
     {
       "album": {
@@ -1546,7 +2182,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144000,
       "name": "The Beach Caf\u00e9",
       "url": "https://open.spotify.com/track/5nyEWxmTc1UgfhLxWUy41C"
@@ -1564,7 +2200,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 111821,
       "name": "The Coffeeshop Round The Corner",
       "url": "https://open.spotify.com/track/1I92qi9NoZD3GLcPxwc4QD"
@@ -1582,7 +2218,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172000,
       "name": "The Harbour Caf\u00e9 - Seamless",
       "url": "https://open.spotify.com/track/52l6s4sdjspyuk52GgDZad"
@@ -1600,7 +2236,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 132000,
       "name": "The Waterfalls Caf\u00e9",
       "url": "https://open.spotify.com/track/51RI17EJHVrXxoKUAYJvDw"
@@ -1658,6 +2294,32 @@
       "duration_ms": 173000,
       "name": "W 11th Street Caf\u00e9",
       "url": "https://open.spotify.com/track/3xXd55rjH88JjMjzETF9kT"
+    },
+    {
+      "album": {
+        "name": "Background Noises For Sleeping, Working or Studying",
+        "url": "https://open.spotify.com/album/6aIiO6wK81w4WpsSJLyflp"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "White Noise Restaurant Study or Relax (Loopable no fade)",
+      "url": "https://open.spotify.com/track/0pVfesTEEP0pprnJIMPBuB"
     },
     {
       "album": {

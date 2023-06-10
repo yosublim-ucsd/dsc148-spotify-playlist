@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,634 likes - 103 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,706 likes - 103 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 3 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
 | 4 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 |
 | 5 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 |
-| 6 | [Downpour](https://open.spotify.com/track/7ssmctXdiUbOhVqCDdh6Ew) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Downpour](https://open.spotify.com/album/1tSRjNT3dwEEJMHrCPEJ8U) | 2:48 |
+| 6 | [Downpour](https://open.spotify.com/track/3XD0dzwEnvqYz31gCT4jch) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Frame](https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg) | 2:48 |
 | 7 | [Words](https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Waking Up](https://open.spotify.com/album/5740DSdBXecq02r5WpIigM) | 5:25 |
 | 8 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 9 | [Coyote Caller](https://open.spotify.com/track/6pWd9dkHmrR92kqSKFbRuw) | [Joshua James](https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO) | [My Spirit Sister](https://open.spotify.com/album/4ItmWXeF6QGjyG32aZMgOX) | 3:27 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 102 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 103 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCwzZjQ5ZTNhMzFmYTU4NDExZjE5OTkwZWM0YTczYjhkOTBiZWIwNmJj`
+Snapshot ID: `MCxjYjBmODBmNWQ4NjY0MzIyNzJkNGJlMGE4ODJiMWJjNmZkNzNhZTcz`

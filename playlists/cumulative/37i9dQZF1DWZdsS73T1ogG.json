@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Tainy & Jhayco",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Saiko, Quevedo, Feid & Mora",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 135003,
       "name": "ANGOLA",
       "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137093,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea"
+    },
+    {
+      "album": {
         "name": "Dol\u00eda (feat. Las Villa)",
         "url": "https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA"
       },
@@ -3822,6 +3840,24 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
+    },
+    {
+      "album": {
+        "name": "El Sol Me Da",
+        "url": "https://open.spotify.com/album/5sjkOWbqvRaC1MeTvqd6Pw"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "El Sol Me Da",
+      "url": "https://open.spotify.com/track/0IPuDbJgvcHLtb8zicEQnE"
     },
     {
       "album": {
@@ -6682,7 +6718,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186727,
       "name": "Lo Que T\u00f9 Digas",
       "url": "https://open.spotify.com/track/45UwuICLPKJmjUhnDUoK1F"
@@ -8244,6 +8280,28 @@
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
+    },
+    {
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "album": {
@@ -9843,6 +9901,36 @@
     },
     {
       "album": {
+        "name": "POLARIS (Remix)",
+        "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "POLARIS - Remix",
+      "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "album": {
         "name": "Pol\u00e9mica",
         "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
       },
@@ -9854,7 +9942,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 151718,
       "name": "Pol\u00e9mica",
       "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
@@ -13810,7 +13898,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"

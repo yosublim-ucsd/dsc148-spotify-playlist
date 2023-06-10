@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 215458,
+  "num_followers": 215566,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI5ZjA4NWFjZDFiY2Y5YmZhNDRhYmU0NTAwMjY1NDAyNjI4NzYw",
+  "snapshot_id": "MCxkMTAwMmMwZTVhNGRhMThhYzJiYzNkYjIyNjUyZDY1ZGQ3YjRlMjQ2",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Devu\u00e9lveme Mi Libertad",
         "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 212584,
       "name": "Fecha de Vencimiento",
       "url": "https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Creiste",
-        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 257488,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "La Historia de Mi Vida: El Final, Vol. 1",
+        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Bellas",
+      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Bachatica",
         "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
@@ -1039,22 +1059,6 @@
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Alma Perdida",
-        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
-      },
-      "artists": [
-        {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "No Es Brujeria",
-      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Historia de Mi Vida: El Final, Vol. 1",
-        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Bellas",
-      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+      "duration_ms": 248600,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
       "artists": [
         {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 242680,
-      "name": "Carta De Verano",
-      "url": "https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q"
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+      "duration_ms": 242680,
+      "name": "Carta De Verano",
+      "url": "https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Busca un Confidente",
-      "url": "https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Como Yo",
         "url": "https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 220264,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Busca un Confidente",
+      "url": "https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ"
     },
     {
       "added_at": "2023-04-27 23:54:49",

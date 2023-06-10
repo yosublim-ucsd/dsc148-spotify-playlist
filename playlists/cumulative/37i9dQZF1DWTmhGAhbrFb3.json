@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Before The Full Moon.",
+        "url": "https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf"
+      },
+      "artists": [
+        {
+          "name": "Isah Atkins",
+          "url": "https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Before The Full Moon",
+      "url": "https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq"
+    },
+    {
+      "album": {
         "name": "Tomorrow Will Save Us",
         "url": "https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC"
       },
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 127865,
       "name": "My Sleeping Rose",
       "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"

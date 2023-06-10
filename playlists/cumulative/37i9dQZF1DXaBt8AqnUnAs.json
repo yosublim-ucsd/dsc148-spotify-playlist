@@ -545,6 +545,32 @@
     },
     {
       "album": {
+        "name": "Play, Som e Sexo",
+        "url": "https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Baby Quando Voc\u00ea Desce",
+      "url": "https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd"
+    },
+    {
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/1BKfLQQb9feWxOhz2mUIff"
       },
@@ -2616,7 +2642,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 129175,
       "name": "Hoje a Quebrada N\u00e3o Para!!",
       "url": "https://open.spotify.com/track/2X59Pdxm3rkUk3sfc5IFet"
@@ -5496,6 +5522,10 @@
         {
           "name": "V1ttinho",
           "url": "https://open.spotify.com/artist/5uM0ZrdHKEQkM03AbNv4Rx"
+        },
+        {
+          "name": "Neytxn",
+          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
         }
       ],
       "date_added": "2023-05-26",

@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-191 songs - 10 hr 50 min
+195 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Apologize](https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Apologize](https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna) | 3:01 | 2021-12-22 | 2023-06-03 |
 | [apologize](https://open.spotify.com/track/2UQJXhcg7d7pY80VMknAUs) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [apologize](https://open.spotify.com/album/5nuhZCXLzUKCcknWkmsFS7) | 2:58 | 2023-03-09 |  |
 | [As It Was](https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x) | [Killian Turner](https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5) | [As It Was](https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB) | 3:46 | 2023-01-20 |  |
-| [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-18 |  |
+| [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-18 | 2023-06-10 |
 | [Attention](https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Attention](https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk) | 4:04 | 2021-12-22 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2021-12-22 | 2023-06-03 |
 | [Back To You](https://open.spotify.com/track/2GwShNdcJHDLEkGO4L34lF) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back To You](https://open.spotify.com/album/7AgRUp5Sc4PwDM5l950FeH) | 3:39 | 2021-12-22 | 2023-06-03 |
@@ -56,13 +56,16 @@
 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 | 2021-12-22 |  |
 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 | 2022-08-12 | 2023-05-16 |
 | [Edge of Desire](https://open.spotify.com/track/5rUP1a9DK0qavCALVdg8lV) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/021ZE1jBAigr08tah7BN04) | 5:31 | 2023-05-12 |  |
+| [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2023-06-09 |  |
 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 | 2023-04-21 |  |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-15 |  |
 | [Fireproof](https://open.spotify.com/track/210ndBj74sya9gALSQlWfe) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Fireproof](https://open.spotify.com/album/2x6tj6drKrzTBDLRiMzjJm) | 3:02 | 2022-05-04 | 2022-11-20 |
 | [Fireproof](https://open.spotify.com/track/5hn81KcRWFyrwi38PJMG8u) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Other Shores](https://open.spotify.com/album/0lp31Gds7JY3tIcxYl6TFX) | 3:02 | 2022-11-18 |  |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-07-26 |  |
 | [Fix You](https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto) | 4:21 | 2021-12-22 | 2022-07-29 |
-| [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 | 2023-03-31 |  |
+| [Fix You \- Live for There With Care](https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Fix You \(Live for There With Care\)](https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ) | 6:09 | 2023-06-09 |  |
+| [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 | 2023-03-31 | 2023-06-10 |
+| [Flowers](https://open.spotify.com/track/6mg7fwFJk743tkHUCl1eHU) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Flowers](https://open.spotify.com/album/7zAhFzI9v5nrtBQBiNDXR6) | 3:31 | 2023-06-09 |  |
 | [Forget Me](https://open.spotify.com/track/35hEBYKKgxPP0wJHCtqPB2) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [Forget Me](https://open.spotify.com/album/1EoabBUf3lsf4GzqWTr0Ue) | 3:19 | 2023-01-20 |  |
 | [From This Place](https://open.spotify.com/track/7KL9fO8eEAWbI422qMvjRp) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 2:49 | 2021-12-22 | 2022-07-30 |
 | [Frozen](https://open.spotify.com/track/5bGkeM9o4GAtOLeafHhHpm) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Frozen](https://open.spotify.com/album/0Gn6fMwduv7GHXGXfY30OP) | 3:55 | 2023-01-20 |  |
@@ -113,6 +116,7 @@
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2022-02-02 |  |
 | [Lonely \- Acoustic Piano](https://open.spotify.com/track/12AKFQyF4FaQY4AKYqBUvc) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe) | [Lonely \(Remix\)](https://open.spotify.com/album/0g8fDP339rvtttYJdPv5OO) | 2:29 | 2021-12-22 | 2023-01-21 |
 | [lonely together](https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [lonely together](https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G) | 3:21 | 2023-03-31 |  |
+| [Love Hurts](https://open.spotify.com/track/1NphB0TmPaHmkG7ePks1bp) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Love Hurts](https://open.spotify.com/album/3N7BurfvoI5nnX7m4W2SrP) | 3:06 | 2023-06-09 |  |
 | [Love Hurts](https://open.spotify.com/track/7wNJQxgDgLZ6cr3aYFHxpM) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Love Hurts](https://open.spotify.com/album/6NCY5LjRA3AmouJv2Rq6xj) | 3:22 | 2023-04-21 |  |
 | [Love Is a Battlefield](https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:41 | 2022-06-15 | 2023-02-15 |
 | [Love Is a Battlefield](https://open.spotify.com/track/6hi5gIwL3pKSDPZQj7eoKz) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:41 | 2023-01-20 |  |
@@ -191,7 +195,7 @@
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-09-05 | 2023-06-03 |
 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 | 2021-12-22 | 2023-01-05 |
 | [Without Me](https://open.spotify.com/track/3HOcPWc2LUUv5te756KfAH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Without Me](https://open.spotify.com/album/0z10WtX0Ex2wZ00GKPZeeY) | 3:22 | 2021-12-22 | 2022-11-19 |
-| [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 | 2022-11-18 |  |
+| [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 | 2022-11-18 | 2023-06-10 |
 | [Without You](https://open.spotify.com/track/1SesKQRY9HNlqbOtCGYWMa) | [Salty Snacks](https://open.spotify.com/artist/5rXaOEzB1J3SPGCwb6yVcG) | [Without You](https://open.spotify.com/album/3v8B4HwyvJA7WolDLNMWVM) | 2:59 | 2022-09-30 |  |
 | [Wonderwall](https://open.spotify.com/track/3YFNoWIYjbSIsvUBWrCgqq) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Wonderwall](https://open.spotify.com/album/19mcR8eRojfUN67K8jF64h) | 2:24 | 2022-06-15 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/0Jm6AaECnFWMR9cFvUODGj) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/3clmJwLKes3r1vitnP9at6) | 2:56 | 2022-06-15 | 2023-06-03 |

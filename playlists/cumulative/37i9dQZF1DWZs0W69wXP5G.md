@@ -2,9 +2,9 @@
 
 ### [Off Broadway](https://open.spotify.com/playlist/37i9dQZF1DWZs0W69wXP5G)
 
-> Everything Broadway\-adjacent\. Cover: The cast of Grease: Rise of the Pink Ladies
+> Everything Broadway\-adjacent\. Cover: Idina Menzel
 
-110 songs - 6 hr 38 min
+111 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Don't Lose Ur Head](https://open.spotify.com/track/1rUexwfDLRGzOyX1VGwaoq) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Andrea Macasaet](https://open.spotify.com/artist/7tHMZIoL7q0wWasr0vku1K) | [SIX: LIVE ON OPENING NIGHT \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0VEsR6Rw4ApD0jeIlx4gsq) | 4:51 | 2022-08-12 | 2022-10-01 |
 | [Don't Rain on My Parade \(Glee Cast Version\)](https://open.spotify.com/track/4gyo8vLgo6MPiqqEiM4Tv6) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Don't Rain on My Parade \(Glee Cast Version\)](https://open.spotify.com/album/5IhO6vqLkXxZ0y2BFPP9ry) | 2:47 | 2022-08-21 |  |
 | [Drag Is Expensive](https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3) | [Nick Adams](https://open.spotify.com/artist/0HY3GE5ZIVvA76aObgPviV), [Max Von Essen](https://open.spotify.com/artist/74YVw9S41bO4eb7Zd2Nsjv), [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9), [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [DRAG: The Musical \(The Studio Recording\)](https://open.spotify.com/album/6ozegwO34a67mkDh0gjZ6m) | 3:56 | 2022-08-12 |  |
+| [Dramatic](https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Dramatic](https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW) | 3:12 | 2023-06-09 |  |
 | [Dream Girl](https://open.spotify.com/track/73QEmww7TRmy7zF3qV5DAE) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Cinderella Original Motion Picture Cast](https://open.spotify.com/artist/4TAsZr2gYCDPlKkc0ezXZ8) | [Cinderella \(Soundtrack from the Amazon Original Movie\)](https://open.spotify.com/album/1zrMpRxr8tOAW75p4PrzHV) | 2:58 | 2022-08-12 |  |
 | [Drum Circle](https://open.spotify.com/track/37moVY9Iahrhbli5evfsmH) | [Ahmad Maksoud](https://open.spotify.com/artist/5Kpp7C9FObbmlTqVYDoJkh), [David Hyde Pierce](https://open.spotify.com/artist/3mQy6KS8nlt1YTZBqyslIe), ['The Visitor' Original Cast](https://open.spotify.com/artist/7rCz0JRKEM8KjwVnoFYrzp) | [The Visitor \(Original Cast Recording\)](https://open.spotify.com/album/6piOe7AuxYsGnPyf7kjNeF) | 3:35 | 2022-08-12 | 2022-08-20 |
 | [Easy Way Out](https://open.spotify.com/track/7nwH6jOOzg0T6ZM5iKFESi) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Easy Way Out](https://open.spotify.com/album/4uFnmd6UA4f2wNG031sQ2o) | 3:11 | 2022-12-16 | 2023-05-28 |

@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-397 songs - 1 day 0 hr 21 min
+398 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [By Your Side](https://open.spotify.com/track/6Tzacf8BGC7fyPuQIsG49K) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/5gSvrjjjJPhJ7U1xBpr86V) | 4:55 | 2021-03-12 | 2022-04-20 |
 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 | 2021-03-12 | 2022-08-10 |
 | [California Dreamin'](https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 3:08 | 2021-03-12 | 2022-08-10 |
+| [Can I Call You Tonight? / Quarterback](https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Can I Call You Tonight? / Quarterback](https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX) | 3:15 | 2023-05-05 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3kkGQZCcJAW0W0sURDT0gQ) | 3:13 | 2021-03-12 | 2022-04-20 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/5PDPuNnEocaxBD0NzVEjmh) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 2:54 | 2021-03-12 | 2022-07-28 |
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 | 2022-08-09 | 2023-04-12 |
@@ -348,7 +349,7 @@
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |
 | [To Love Somebody](https://open.spotify.com/track/3cvy4tBUqyobzmY6RuwA72) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [To Love Somebody](https://open.spotify.com/album/6DYLccj0e1SPoIYOWyua3c) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 | 2021-04-02 | 2022-06-22 |
-| [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 |  |
+| [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 | 2023-06-10 |
 | [Today](https://open.spotify.com/track/51687Ggg1BMhFGufB2WmrF) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Today](https://open.spotify.com/album/3tSFoDl4xhYkcUadWfCY6N) | 4:15 | 2021-03-12 | 2022-07-29 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 |  |
 | [Tonight Tonight](https://open.spotify.com/track/0jzYWajrQdUtNzcFtBOtNl) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Tonight Tonight](https://open.spotify.com/album/5UMoMmwxOJFOlF2JQguF56) | 3:34 | 2021-10-08 | 2022-07-29 |

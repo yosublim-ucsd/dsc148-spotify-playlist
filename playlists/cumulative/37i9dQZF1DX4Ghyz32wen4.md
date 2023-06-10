@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Alvaro Diaz en portada.
 
-110 songs - 5 hr 52 min
+111 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 |  |
 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 | 2023-02-10 |  |
 | [Vuelves A Llamar](https://open.spotify.com/track/6FBG0d4cNJUqp0JpXAf0S8) | [PPMARI](https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq), [Jozue](https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Vuelves A Llamar](https://open.spotify.com/album/4RObhJeSMtfft3ALBO4Pwg) | 3:19 | 2023-04-07 |  |
+| [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-09 |  |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 |  |
 | [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-25 | 2022-12-01 |
 | [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-07-23 |  |

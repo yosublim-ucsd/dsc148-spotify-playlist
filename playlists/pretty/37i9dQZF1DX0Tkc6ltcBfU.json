@@ -1,13 +1,65 @@
 {
   "description": "The hottest out the south. Cover: Moneybagg Yo",
-  "num_followers": 1164866,
+  "num_followers": 1165148,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmVlMzc1M2YwNWUwNTBjYTkwMjY2NzUyNTExMjY5NGIwNzg1MmJk",
+  "snapshot_id": "MCxmNzU3MTczMTcwZTRhOGZhMmE2MjNmOGU2OGUwMTgwMDVlMjYwNTFk",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Ocean Spray",
+        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
+    },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
@@ -49,62 +101,6 @@
       "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Ocean Spray",
-        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Ocean Spray",
-      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "My Turn (Deluxe)",
@@ -135,6 +131,54 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+        "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 202468,
+      "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -231,6 +275,42 @@
       "duration_ms": 205266,
       "name": "Danger (Spider) (Offset & JID)",
       "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ],
+      "duration_ms": 167125,
+      "name": "Woedy",
+      "url": "https://open.spotify.com/track/0SA4nmbOKqfmpgu7yuRVLE"
     },
     {
       "added_at": "2023-04-14 04:15:36",
@@ -421,22 +501,6 @@
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Richest Opp",
@@ -521,22 +585,6 @@
       "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "First Show",
-        "url": "https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 121237,
-      "name": "First Show",
-      "url": "https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "DRACULA",
@@ -551,22 +599,6 @@
       "duration_ms": 178293,
       "name": "DRACULA",
       "url": "https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Keep Dat Nigga",
-        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
-      },
-      "artists": [
-        {
-          "name": "Icandy",
-          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
-        }
-      ],
-      "duration_ms": 138945,
-      "name": "Keep Dat Nigga",
-      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -587,6 +619,22 @@
       "duration_ms": 238000,
       "name": "House Call",
       "url": "https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -749,20 +797,20 @@
       "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Somebody can love you",
-        "url": "https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8"
+        "name": "First Show",
+        "url": "https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC"
       },
       "artists": [
         {
-          "name": "Young Combo",
-          "url": "https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 165144,
-      "name": "Somebody can love you",
-      "url": "https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ"
+      "duration_ms": 121237,
+      "name": "First Show",
+      "url": "https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -787,22 +835,6 @@
       "duration_ms": 230214,
       "name": "OFF THE PORCH (feat. BigXthaPlug & Maxo Kream)",
       "url": "https://open.spotify.com/track/3RPLr5siFwdjQbueFakIQB"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "KANEKI",
-        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "KANEKI",
-      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -835,22 +867,6 @@
       "duration_ms": 160714,
       "name": "Fight The Feeling",
       "url": "https://open.spotify.com/track/7l6nGz4gp6HGs5Cvmdeqe4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Head Over heels",
-        "url": "https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 158196,
-      "name": "Head Over heels",
-      "url": "https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax"
     },
     {
       "added_at": "2023-04-21 04:00:00",

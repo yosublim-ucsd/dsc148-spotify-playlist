@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-279 songs - 1 day 3 hr 4 min
+280 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [The Dove \- Live](https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Dove \(Live\)](https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV) | 9:55 | 2023-01-04 |  |
 | [The Good Thief \(Hallelujah\) \- Live](https://open.spotify.com/track/4jaMzKsUKz42S4tI1hfKdk) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [The Good Thief \(Hallelujah\) \[Live\]](https://open.spotify.com/album/6rCcZL8tO4yNTfDlf3O3s3) | 5:24 | 2022-02-18 | 2023-01-05 |
 | [The Kindness Of The Cross](https://open.spotify.com/track/5NkRkMWyUaIFnfBTdccuqX) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Kindness Of The Cross](https://open.spotify.com/album/1vxB7fbWYLquhtIYSFaDL0) | 4:16 | 2022-04-11 | 2022-06-10 |
+| [The King](https://open.spotify.com/track/0YoqMFFzvvxzoxRtw7kv2r) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [The King](https://open.spotify.com/album/5PYZt9Tq52VBtmtellKGM5) | 5:55 | 2023-06-09 |  |
 | [The King Is On The Way](https://open.spotify.com/track/530DokdFbJqxMVU1wHQyVs) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 4:22 | 2023-04-28 |  |
 | [The Lion And The Lamb](https://open.spotify.com/track/2CEQ0ykwvuD2KC6gn2ijIX) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Songs Of Glory](https://open.spotify.com/album/4Ry1jLIuWo8s8UrJLlhLck) | 4:36 | 2022-02-17 | 2022-04-05 |
 | [The Lord Almighty Reigns](https://open.spotify.com/track/283smqTiVNtIDD1v0jXOFS) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [The Lord Almighty Reigns](https://open.spotify.com/album/5ScPt3LXhLuUFqYFXKtqas) | 3:48 | 2022-09-02 | 2022-09-25 |

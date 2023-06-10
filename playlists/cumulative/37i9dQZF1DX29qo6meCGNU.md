@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-359 songs - 19 hr 40 min
+360 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Relación](https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:04 | 2022-07-08 |  |
 | [Relación](https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Relación](https://open.spotify.com/album/378KGomt21mlfxD786uF7c) | 3:04 | 2022-01-14 | 2022-07-29 |
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-01-14 | 2022-02-12 |
-| [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 | 2022-01-14 |  |
+| [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 | 2022-01-14 | 2023-06-10 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2022-02-28 | 2022-04-17 |
 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-14 | 2022-07-29 |
 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 | 2023-01-13 |  |
@@ -357,6 +357,7 @@
 | [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 | 2023-04-13 |  |
 | [Volar \(feat\. Los Legendarios\)](https://open.spotify.com/track/6hrLV324vAy3frmFZZvnEX) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Volar \(feat\. Los Legendarios\)](https://open.spotify.com/album/6ktIFKel3BO3Mv9VLvR6R1) | 3:33 | 2022-07-01 | 2022-08-05 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2022-01-14 |  |
+| [Víctima](https://open.spotify.com/track/07JKF0giRpcmEfllEt2qaY) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ) | [Víctima](https://open.spotify.com/album/03wsHpm0Ow0xlQXwq2eAeW) | 2:56 | 2023-06-09 |  |
 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 | 2023-01-13 |  |
 | [Winnie Pooh](https://open.spotify.com/track/0QupfeRNFEdNatL4gkcZUp) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Winnie Pooh](https://open.spotify.com/album/0oDpw4EOFV53oC23SU5jJT) | 3:00 | 2022-04-29 | 2022-07-29 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-25 |  |

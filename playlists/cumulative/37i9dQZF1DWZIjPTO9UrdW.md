@@ -4,7 +4,7 @@
 
 > The perfect jazz backdrop to the cocktails.
 
-76 songs - 4 hr 30 min
+78 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2023-05-10 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-05-10 |  |
 | [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-05-10 |  |
+| [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-09 |  |
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2023-05-10 |  |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2023-05-10 |  |
 | [Evening Dance](https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Evening Dance](https://open.spotify.com/album/02XU7xcCZKUiYUfV9fvaNV) | 3:35 | 2023-05-10 |  |
@@ -73,6 +74,7 @@
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-05-10 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-10 |  |
 | [These Foolish Things](https://open.spotify.com/track/1JgLeExcYdY77a9m5fhls2) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [These Foolish Things](https://open.spotify.com/album/5bHOv2bIx20K3sVVbEYQcb) | 4:24 | 2023-05-10 |  |
+| [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-09 |  |
 | [Velvet moon](https://open.spotify.com/track/4LFrDaeeAzS9blLZhRpqZ6) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Velvet moon](https://open.spotify.com/album/3dCXLtgEvQxmKzda1QeQUu) | 3:32 | 2023-05-10 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-05-10 |  |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2023-05-10 |  |

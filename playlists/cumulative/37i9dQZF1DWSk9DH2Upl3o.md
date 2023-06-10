@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-130 songs - 12 hr 23 min
+133 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Colorado](https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/3pCxaR5TAlOmGAZQ7TLtwI) | 5:06 | 2022-07-01 |  |
 | [Comes In Waves \- Live at EastWest Studios](https://open.spotify.com/track/6y4xSKfYeOjof39UciTQGz) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller \(Deluxe\)](https://open.spotify.com/album/7KiWpWWSK7VCN5zzi0rb0U) | 5:48 | 2023-02-17 |  |
 | [Cottonmouth](https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX) | [WOLF!](https://open.spotify.com/artist/4Xp09N3LwGCuUqyXNRHaVR), [Scott Metzger](https://open.spotify.com/artist/0ZILxKPM8Y2vYZ1UToHidc) | [Adult Entertainment](https://open.spotify.com/album/4XBDWweRR7036JySp1V0rV) | 3:27 | 2022-10-28 |  |
-| [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 | 2022-06-23 |  |
+| [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 | 2022-06-23 | 2023-06-10 |
 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 | 2022-06-23 |  |
 | [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 | 2023-01-13 |  |
 | [Define Devine](https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo) | [The Mad Children](https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF) | [The Mad Children \- EP](https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv) | 5:47 | 2022-07-01 |  |
@@ -54,7 +54,9 @@
 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 | 2022-06-23 |  |
 | [Hungersite](https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Hungersite](https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m) | 7:06 | 2022-06-23 | 2022-08-18 |
 | [Hungersite](https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 7:06 | 2022-06-23 |  |
+| [I Go To Work](https://open.spotify.com/track/5JcuGefnbHdsRDCwxa6a2t) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [I Go To Work](https://open.spotify.com/album/0zYl2aLQ8iZ3ZdAlAFf9Hl) | 2:31 | 2023-06-09 |  |
 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 | 2022-07-15 |  |
+| [Ishmael](https://open.spotify.com/track/4cXii3eY0wiLiMYXJXHjpc) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Ishmael](https://open.spotify.com/album/1H38Z8Ck6kaSbnghLJ9HxT) | 4:39 | 2023-06-09 |  |
 | [Jamflowman](https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Natural Evolution of Consciousness](https://open.spotify.com/album/7oTK70UwrJTNwGwJ9cGKNT) | 7:58 | 2022-06-23 |  |
 | [Jones Wood](https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25) | [The Whags](https://open.spotify.com/artist/0sSvO4hBwHX96HiNK2W9u4) | [Jones Wood](https://open.spotify.com/album/0P5MO5Z0J9zyfYOMN1BEc5) | 4:05 | 2023-03-17 |  |
 | [Joyfell](https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Joyfell](https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj) | 5:08 | 2022-06-23 |  |
@@ -68,6 +70,7 @@
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 |  |
 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 |  |
+| [Lend Me A Hand](https://open.spotify.com/track/6PpiEYX8cpunaDTVHoJfer) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Lend Me A Hand](https://open.spotify.com/album/5rcDq6iyHqeyC6QvUDqgjo) | 4:09 | 2023-06-09 |  |
 | [Lessons](https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8) | 4:10 | 2022-09-09 |  |
 | [Lessons](https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2) | 4:10 | 2022-09-09 | 2023-04-30 |
 | [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 | 2022-09-17 |
@@ -109,7 +112,7 @@
 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 | 2023-02-17 |  |
 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 | 2023-04-21 |  |
 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 | 2022-09-09 |  |
-| [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 | 2022-06-23 |  |
+| [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 | 2022-06-23 | 2023-06-10 |
 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 | 2022-07-29 |  |
 | [Tallulah](https://open.spotify.com/track/0uaVXrLlbi6d9JMQEUuzH8) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Tallulah](https://open.spotify.com/album/2Jl6NXo215uBKRgtKwqKbe) | 7:34 | 2023-02-24 |  |
 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 | 2023-03-17 |  |
@@ -133,7 +136,7 @@
 | [Weeknight Revival](https://open.spotify.com/track/5GrPSvu8FuPiYITxj3LDOW) | [Lucky Gallops](https://open.spotify.com/artist/3HHY9PnBoxmGUQBHasbGtt), [Caveman::Beta](https://open.spotify.com/artist/21PE7CMxuh99lWEkp0udZs) | [Weeknight Revival](https://open.spotify.com/album/2Z36IOgQMrFSgV8MDaGQtl) | 7:29 | 2022-10-07 |  |
 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 |  |
 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 |  |
-| [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 |  |
+| [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2023-06-10 |
 | [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 | 2022-11-11 |  |
 | [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 |  |
 | [You’re a Catman](https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [You're a Catman](https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF) | 5:42 | 2022-12-09 | 2023-06-03 |

@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A1 (Feeling Disorder)",
+        "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125137,
+      "name": "A1 (Feeling Disorder)",
+      "url": "https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu"
+    },
+    {
+      "album": {
         "name": "Abobi",
         "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180584,
       "name": "Amdallah",
       "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207909,
       "name": "By Force",
       "url": "https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II",
       "url": "https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm"
@@ -2420,6 +2438,32 @@
       "duration_ms": 163158,
       "name": "Good Bad Boy",
       "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
+    },
+    {
+      "album": {
+        "name": "Memories That Last Forever 2",
+        "url": "https://open.spotify.com/album/6PUjWFCiY99oOGa8fV6yGB"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Perfext",
+          "url": "https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214513,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/632maZyihLFATahwU2jyu0"
     },
     {
       "album": {
@@ -3284,7 +3328,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
@@ -4147,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
+    },
+    {
+      "album": {
         "name": "nwayi",
         "url": "https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ"
       },
@@ -4158,7 +4224,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
@@ -4847,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -4953,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Princess Going Digital",
+      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/0irnt3dtaoyMB5T7uqZQws"
       },
@@ -4968,7 +5070,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208928,
       "name": "Problems",
       "url": "https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h"
@@ -5926,7 +6028,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 320000,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4z9ypdntkvGCIKYnAeaIJA"

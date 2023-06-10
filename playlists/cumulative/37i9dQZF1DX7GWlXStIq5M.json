@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Thiago Pantale\u00e3o",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Clarissa",
   "name": "Palco POP",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207030,
       "name": "BAILE (dn\u00e7a p vc)",
       "url": "https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu"
@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "danos colaterais",
+        "url": "https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161587,
+      "name": "danos colaterais",
+      "url": "https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC"
+    },
+    {
+      "album": {
         "name": "Clube dos Cora\u00e7\u00f5es Partidos",
         "url": "https://open.spotify.com/album/6AVbmvq2Xau0692kLrF3be"
       },
@@ -2012,6 +2030,24 @@
       "duration_ms": 152137,
       "name": "Deixa Pra L\u00e1",
       "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "album": {
@@ -2610,6 +2646,28 @@
       "duration_ms": 155937,
       "name": "Flash",
       "url": "https://open.spotify.com/track/3UEm2avDtIIaT3UvuvsxES"
+    },
+    {
+      "album": {
+        "name": "Flash Volta",
+        "url": "https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Flash Volta",
+      "url": "https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB"
     },
     {
       "album": {
@@ -3537,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "incendiou",
+        "url": "https://open.spotify.com/album/3Tuj3hfYgdrb6Un6leT4Js"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170189,
+      "name": "incendiou",
+      "url": "https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk"
+    },
+    {
+      "album": {
         "name": "Aqu\u00e1rio",
         "url": "https://open.spotify.com/album/1Sv9ms2IZZCIbAeoUS5VPA"
       },
@@ -4200,6 +4276,32 @@
       "duration_ms": 136235,
       "name": "MALA MEMO",
       "url": "https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW"
+    },
+    {
+      "album": {
+        "name": "MALDADE",
+        "url": "https://open.spotify.com/album/52nHq9WKHMGtH2Wyily71x"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MALDADE",
+      "url": "https://open.spotify.com/track/0WHlG8p1XeTHV773c2oSGE"
     },
     {
       "album": {
@@ -6324,10 +6426,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160967,
       "name": "Ponto de Brasa",
       "url": "https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf"
+    },
+    {
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160967,
+      "name": "Ponto de Brasa",
+      "url": "https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE"
     },
     {
       "album": {
@@ -7301,6 +7425,32 @@
     },
     {
       "album": {
+        "name": "Sem Roteiro",
+        "url": "https://open.spotify.com/album/1oCglryXjtrhK3kGkcPWie"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165389,
+      "name": "SEM ROTEIRO",
+      "url": "https://open.spotify.com/track/2L22S6sgS9rTIrLV0m6eav"
+    },
+    {
+      "album": {
         "name": "sen(ti)r perdeu a gra\u00e7a",
         "url": "https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA"
       },
@@ -7883,6 +8033,24 @@
     },
     {
       "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157628,
+      "name": "Te Ver Sorrindo",
+      "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
+    },
+    {
+      "album": {
         "name": "te vi na festa (e nem doeu)",
         "url": "https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc"
       },
@@ -7982,7 +8150,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168571,
       "name": "Ter\u00e7a Feira",
       "url": "https://open.spotify.com/track/3XdQFjsygFV5iNaVpESQA7"
@@ -8392,7 +8560,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 248571,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp"

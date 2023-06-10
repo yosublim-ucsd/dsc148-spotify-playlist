@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-118 songs - 8 hr 16 min
+119 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [No Idol \- Remix](https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/0Ooq11mWBxMx34PbeorVkz) | 2:36 | 2021-10-15 | 2022-07-29 |
 | [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 | 2023-03-31 |  |
 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 | 2021-10-15 |  |
+| [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-09 |  |
 | [Peanut Power](https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Melbourne Street](https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS) | 4:54 | 2021-10-15 | 2023-04-01 |
 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 | 2022-06-03 |  |
 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 | 2021-10-15 |  |

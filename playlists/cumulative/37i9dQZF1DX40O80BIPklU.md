@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Nicki Nicole en portada.
 
-191 songs - 10 hr 42 min
+192 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Guajiro Dream](https://open.spotify.com/track/1KNF7lPnpTrLJcJS2LD6Xw) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Guajiro Dream](https://open.spotify.com/album/1suN2dF04oJFn55u0nN8Cv) | 3:15 | 2023-03-17 |  |
 | [Hip Hop Terapia](https://open.spotify.com/track/2BTdud0C6KRZYTUNPlNPwS) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Terapia Beats](https://open.spotify.com/artist/6ZAzpyUYn2JCRK51BprhFi) | [Hip Hop Terapia](https://open.spotify.com/album/4Ex3yPwbjU9Y7sgOcF8HYB) | 3:45 | 2021-12-30 | 2022-11-08 |
 | [Ilegal](https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ilegal](https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG) | 4:45 | 2021-12-30 |  |
+| [JOSEAR](https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [JOSEAR](https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG) | 3:47 | 2023-06-09 |  |
 | [Juego](https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Juego](https://open.spotify.com/album/3fdbDPJG25YDPto5pWqEP0) | 3:33 | 2021-12-30 | 2022-05-14 |
 | [Kachipun](https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Kachipun](https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW) | 2:48 | 2022-10-28 | 2023-03-04 |
 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-12-30 | 2022-03-22 |

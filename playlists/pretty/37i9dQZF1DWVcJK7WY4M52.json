@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 22762,
+  "num_followers": 23272,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFkOWE3ZWZjODU4MWM0MTM1MmU5ZGM3ZDYwZDdhNTdhYTY0MjM2",
+  "snapshot_id": "MCw5Yjc4MjE5Yjc2ZWE5YmYwZTkzODI5YTA4MDg1ZWNhODRlZGQ5NzE3",
   "tracks": [
     {
       "added_at": "2023-04-27 03:36:27",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -703,22 +719,6 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Wilson Phillips",
-        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
-      },
-      "artists": [
-        {
-          "name": "Wilson Phillips",
-          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204753,
       "name": "Stop",
       "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Wilson Phillips",
+        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
+      },
+      "artists": [
+        {
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
     },
     {
       "added_at": "2023-04-27 03:36:27",

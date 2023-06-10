@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:1HVA7XWQZ5OZgJLhSaTDXA">Il Mago Del Gelato</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,985 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,989 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Clara](https://open.spotify.com/track/3dZxdF4oBB0zayJuvQ01oN) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [Clara](https://open.spotify.com/album/1ZnbZLBhdfXxiiqeOSadNg) | 2:28 |
 | 50 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 |
 
-Snapshot ID: `MCxhMzg4MzNmYjMwNzAyMzhmYzYzYWEwZGU4MzM4OTY1YWQzYTU5MjA4`
+Snapshot ID: `MCxhYTkyMTQ0NDg5YzgxYzQyMmYxNWNmMGYxODFiMjliNmNiYWU4ZGQ1`

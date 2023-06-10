@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 39 min
+76 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [I Got the Six \- 2008 Remaster](https://open.spotify.com/track/2WcnvJKsp1aYs8xp2nJyDN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 2:54 | 2022-10-06 |  |
 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 | 2022-09-17 |  |
 | [I Need You Tonight \- 2008 Remaster](https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 6:18 | 2022-09-17 |  |
+| [I Thank You](https://open.spotify.com/track/0XJ91yu0ZSLOIGyOCuIrOV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:01 | 2023-06-09 |  |
 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 | 2022-10-30 | 2023-05-02 |
-| [I Thank You \- 2003 Remaster](https://open.spotify.com/track/0GBxieUHB1YUPG0P6BnDzu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/3FZ3Hbn9rKDVn66EbpKypM) | 3:23 | 2023-05-01 |  |
+| [I Thank You \- 2003 Remaster](https://open.spotify.com/track/0GBxieUHB1YUPG0P6BnDzu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/3FZ3Hbn9rKDVn66EbpKypM) | 3:23 | 2023-05-01 | 2023-06-10 |
 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/7hq8ntGVskliIPeoP99nA2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 | 2022-09-17 |  |
 | [If I Could Only Flag Her Down \- 2008 Remaster](https://open.spotify.com/track/12kRyzNezk2nE2EzJ2nq2l) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:40 | 2022-09-17 | 2022-09-19 |
 | [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 | 2022-09-17 | 2023-04-15 |

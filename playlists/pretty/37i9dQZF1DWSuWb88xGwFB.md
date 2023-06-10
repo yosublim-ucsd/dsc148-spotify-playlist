@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,412 likes - 75 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,430 likes - 75 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 45 | [Justify \- Vocal Mix](https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb) | [M&S](https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT) | [Justify](https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9) | 9:05 |
 | 46 | [Love Trax \- Love Izz](https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Love Trax](https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9) | 6:46 |
 | 47 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
-| 48 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
-| 49 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
-| 50 | [Choices \- Choices Vocal Mix](https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa) | [Full Swing](https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ) | [Choices](https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE) | 7:52 |
-| 51 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
+| 48 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
+| 49 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
+| 50 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
+| 51 | [Choices \- Choices Vocal Mix](https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa) | [Full Swing](https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ) | [Choices](https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE) | 7:52 |
 | 52 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
 | 53 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
 | 54 | [Wanna Be Your Girl \- A 'G' Thang Mix](https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH) | [Raw Power](https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 4:57 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 59 | [Dancin](https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 12:11 |
 | 60 | [I Could Be This¦ \(The Remix\) \- Morel's That Mix](https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m) | [Androgeny](https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 8:14 |
 | 61 | [Tribal Seagulls](https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T) | [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Strictly Rhythms, Vol\. 1](https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i) | 12:46 |
-| 62 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |
-| 63 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
+| 62 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
+| 63 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |
 | 64 | [Set My Spirit Free \(feat\. Sandy Rivera\)](https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [Set My Spirit Free \(feat\. Sandy Rivera\)](https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN) | 7:48 |
 | 65 | [The Beat That Makes U Move \- The Rhythm Hype Mix](https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR), [Dreamgirl Vee](https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN) | [The Beat That Makes U Move](https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw) | 7:39 |
 | 66 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
 | 75 | [Muzik \- The Siren Mix](https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Muzik](https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ) | 6:19 |
 
-Snapshot ID: `MCwwZTRiZDFkMzVhNTQwNzYwMDliYmE1YmM5MDRjM2I2ZmU1YTVkZGNh`
+Snapshot ID: `MCw3N2M4YmY5MjBiYTk5NjliYjc4OTdkZTA4NWM2MmZkMzZiNjYzYmQ1`

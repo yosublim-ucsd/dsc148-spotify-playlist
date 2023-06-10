@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Half Moon Run
+> A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-473 songs - 1 day 4 hr 35 min
+476 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [After All This Time](https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [After All This Time](https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az) | 2:50 | 2023-02-03 | 2023-03-11 |
 | [afterall](https://open.spotify.com/track/0JFAzsu2ZYX7HmtjRQ3dVu) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [afterall](https://open.spotify.com/album/0owHLrBuiNkiNgVJZJoY2g) | 3:22 | 2023-03-17 | 2023-04-15 |
 | [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 | 2023-04-21 | 2023-06-03 |
-| [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 |  |
+| [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 | 2023-06-10 |
 | [All At Once](https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [All At Once](https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO) | 3:47 | 2023-03-31 |  |
 | [All Dogs Go To Heaven](https://open.spotify.com/track/2bnsdRSIKnbsn8cuv88sSr) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [All Dogs Go To Heaven](https://open.spotify.com/album/4MWgzKggGePOjpjRhlcdHF) | 2:47 | 2023-05-05 |  |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
@@ -104,6 +104,7 @@
 | [Delaney's Dad](https://open.spotify.com/track/0XGVEHblDAz53ZsEgXswjG) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [Delaney's Dad](https://open.spotify.com/album/1FEn8KVTpedBnhEvPMHav5) | 2:29 | 2022-05-13 | 2022-07-23 |
 | [Desert Road](https://open.spotify.com/track/0KlEiSPThHV6VBbMVXaUQ4) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU), [Boom Forest](https://open.spotify.com/artist/2Ij7GjubJdLi813xVxqt9u) | [Desert Road](https://open.spotify.com/album/35Lq9xznhp3oxM3ZxJNwx8) | 2:58 | 2022-09-30 | 2022-12-10 |
 | [Devil Does](https://open.spotify.com/track/4qBElpjcT3DB8txnI43Jw5) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Moonlit Building](https://open.spotify.com/album/0szTemR8lk9moDRoIu2C79) | 2:37 | 2023-01-27 | 2023-05-06 |
+| [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-09 |  |
 | [Do You Ever](https://open.spotify.com/track/0XkshYPtSxbm6Wg20tbC1r) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:44 | 2022-05-13 | 2022-07-09 |
 | [domino](https://open.spotify.com/track/5GGfyQ7i1kx71eGmUg5Z3J) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [domino](https://open.spotify.com/album/6UJQ8oO9XsGKfvcFcLq8jg) | 4:04 | 2022-06-24 | 2023-02-04 |
 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-05-13 | 2022-11-12 |
@@ -134,7 +135,7 @@
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-03 | 2023-03-11 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 | 2022-07-09 |
 | [Everyday Sunflower](https://open.spotify.com/track/2wdIXkZ4nFlaYbzvifuAp1) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Everyday Sunflower](https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp) | 2:50 | 2022-09-23 | 2023-03-25 |
-| [Everything Changes](https://open.spotify.com/track/1SODZeCGoXb4wu9ixDaAtv) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [The Runaway EP](https://open.spotify.com/album/4rCms7IqnpaFFDqAwCBChT) | 3:48 | 2023-02-17 |  |
+| [Everything Changes](https://open.spotify.com/track/1SODZeCGoXb4wu9ixDaAtv) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [The Runaway EP](https://open.spotify.com/album/4rCms7IqnpaFFDqAwCBChT) | 3:48 | 2023-02-17 | 2023-06-10 |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-24 |  |
 | [Explain It](https://open.spotify.com/track/59UjcIXiJJ3nb2kIRrSxzR) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [Great Loves](https://open.spotify.com/album/1A4GYBkNOSdadRNkpGwufs) | 3:27 | 2022-11-25 | 2022-12-31 |
 | [Explain It](https://open.spotify.com/track/7HUmzWxcmldnjewITpD5xb) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [Great Loves](https://open.spotify.com/album/1R4eaekeqqTTCMCxKEsQuV) | 3:27 | 2022-12-23 | 2023-03-11 |
@@ -234,7 +235,7 @@
 | [just wanna forget you](https://open.spotify.com/track/1KoKAKqq7vOV0Za6ZE1lkQ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:49 | 2023-03-10 | 2023-03-20 |
 | [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 | 2023-03-03 | 2023-03-12 |
 | [just wanna forget you](https://open.spotify.com/track/5uPPfimPoseZ6ptvx1EYhK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:49 | 2023-03-17 | 2023-03-29 |
-| [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-07 |  |
+| [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-07 | 2023-06-10 |
 | [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 | 2023-03-24 | 2023-04-05 |
 | [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 | 2023-03-05 |
 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-03-08 |
@@ -303,6 +304,7 @@
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 | 2022-11-19 |
 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 | 2023-03-03 | 2023-04-09 |
 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-04-07 |  |
+| [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 | 2023-06-09 |  |
 | [On the Edge](https://open.spotify.com/track/4ghxG39Um1SQ8OHdDgUH1p) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/3Ifz0AOMdu8Rs2lhtjuDcJ) | 2:40 | 2022-10-07 | 2022-11-26 |
 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 | 2022-10-13 |
 | [On the Vine](https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [On the Vine](https://open.spotify.com/album/6V9q9qY3TBny1doKIxKdLy) | 3:22 | 2023-05-05 |  |
@@ -317,6 +319,7 @@
 | [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2022-11-11 | 2023-03-25 |
 | [Other Rivers](https://open.spotify.com/track/1Y2Oah15zszzFVtCw0seA3) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Light the Candle, Hold the Mirror](https://open.spotify.com/album/2Z3mENqN7BRKOp8VGJyvwz) | 3:47 | 2022-10-21 | 2022-12-10 |
 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 | 2023-01-27 | 2023-04-01 |
+| [Outlaw in Me](https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:05 | 2023-06-09 |  |
 | [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 | 2023-02-17 | 2023-02-25 |
 | [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-01-27 | 2023-02-21 |
 | [Paper Moth Flame](https://open.spotify.com/track/7Hi5HKcidYR1EdqIKLnVq1) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Paper Moth Flame](https://open.spotify.com/album/0RnFXtW6Xaz4S6AQSdmdaZ) | 3:30 | 2022-07-01 | 2022-07-30 |

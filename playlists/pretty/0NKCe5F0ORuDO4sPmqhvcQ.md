@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,020 likes - 136 songs - 7 hr 42 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,020 likes - 137 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 134 | [Bad Communicator](https://open.spotify.com/track/400vCzbzkoYeW08ksWdXMJ) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Bad Communicator](https://open.spotify.com/album/57BzNbjOo8ZzmkoymnXKjh) | 3:49 |
 | 135 | [Aurora](https://open.spotify.com/track/5FEbMc1hZuQahbLv0KDTNI) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Aurora](https://open.spotify.com/album/0wsTnLWu8E6Ly8Jl84dG0O) | 7:08 |
 | 136 | [bones \(sinking like stones\)](https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [bones \(sinking like stones\)](https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj) | 2:21 |
+| 137 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 |
 
-Snapshot ID: `MTAzMTUsYjMzZjFlNGRiMjNhMWNhZDAwNjc2MzJhN2NmNDgwNzI2MWQxNjRiNw==`
+Snapshot ID: `MTAzMTYsOWQyOGJkZDFhZWNlMjY4NjY3MzgyMDYwMjljNmM3NzJhMDRjZjA4ZQ==`

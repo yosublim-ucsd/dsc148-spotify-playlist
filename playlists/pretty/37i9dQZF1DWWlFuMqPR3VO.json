@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 11834,
+  "num_followers": 11851,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRiYTJkNjA1YTg5MDM4MWY5OTFkMTcyZWE5Y2I2MTgyNmVhOWI0",
+  "snapshot_id": "MCxmM2I4MWIyOWI4YWU5NzhjYTA4MjgxZTBhMTQ1MmM0NWJlNjMzMDYw",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Saint James Infirmary",
-      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Heart and Soul",
         "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 197309,
       "name": "Georgia Morning Dew",
       "url": "https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Saint James Infirmary",
+      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
         }
       ],
-      "duration_ms": 193333,
-      "name": "I Got a Woman",
-      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -315,38 +315,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
-      },
-      "artists": [
-        {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "I Hear You Knockin'!",
         "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
       },
@@ -363,8 +331,8 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
@@ -372,9 +340,41 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
+      "duration_ms": 193333,
+      "name": "I Got a Woman",
+      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 235431,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,44 +459,8 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 235431,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
-      },
-      "artists": [
-        {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
       "artists": [
         {
@@ -504,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -539,6 +503,26 @@
       "duration_ms": 255933,
       "name": "Yellow Dog Blues",
       "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -623,6 +607,38 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Walking On A Tightrope - The Songs Of Percy Mayfield",
         "url": "https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 346600,
       "name": "Walking On A Tightrope",
       "url": "https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD"
-      },
-      "artists": [
-        {
-          "name": "Robert Pete Williams",
-          "url": "https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I've Grown So Ugly",
-      "url": "https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM"
     }
   ],
   "unique_name": "Louisiana Blues",

@@ -554,7 +554,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 274946,
       "name": "Bossy Featuring Too $hort (feat. Too $hort)",
       "url": "https://open.spotify.com/track/0Eu5SrReZzaJX0NLKI8tQS"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "Bring It All to Me (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 211200,
       "name": "Confessions Part II",
       "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207040,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
+    },
+    {
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 214786,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/2CZi8d774dBB0wiuWMIpr8"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
@@ -2458,6 +2476,24 @@
       "duration_ms": 208613,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
+    },
+    {
+      "album": {
+        "name": "Legally Blonde",
+        "url": "https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Perfect Day - Chris Lord Alge Mix",
+      "url": "https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi"
     },
     {
       "album": {
@@ -2834,7 +2870,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
@@ -2896,6 +2932,24 @@
       "duration_ms": 215333,
       "name": "So Yesterday",
       "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
+    },
+    {
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4"
     },
     {
       "album": {
@@ -3130,7 +3184,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -3166,7 +3220,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 186866,
       "name": "Ultimate - From \"Freaky Friday\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/69Zl2MdeQE8twZdiMXJXxZ"
@@ -3256,7 +3310,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Us Against the World",
       "url": "https://open.spotify.com/track/7ID5MLSB71awNzjI7jyojG"
@@ -3353,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "album": {
         "name": "What Is Love (Reloaded)",
         "url": "https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M"
       },
@@ -3382,7 +3454,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185013,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"

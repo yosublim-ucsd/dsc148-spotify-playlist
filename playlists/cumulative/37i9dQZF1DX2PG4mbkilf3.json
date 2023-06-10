@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with The Weeknd.",
+  "description": "This is R&B in Canada, elevate your aura with The Weeknd. \u2728 ",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2wS9q6nJ6AL1KhRaD3JDc7"
+      },
+      "artists": [
+        {
+          "name": "Mileena",
+          "url": "https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199611,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/3yEUC5XUSxWv7Z4nkcYW4Q"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -1172,6 +1190,24 @@
       "duration_ms": 163691,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC"
+    },
+    {
+      "album": {
+        "name": "You Made A Big Mistake",
+        "url": "https://open.spotify.com/album/2DCU3YNuwMQEJo6mgzK3hK"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200441,
+      "name": "Big Mistake",
+      "url": "https://open.spotify.com/track/043bwUOxMoxTIPvjkvHAwS"
     },
     {
       "album": {
@@ -2046,6 +2082,24 @@
       "duration_ms": 153652,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/7kFEzXF6szueVB1IeWMRT8"
+    },
+    {
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/3gq2ExVPSOe3VtPAN1Rawz"
+      },
+      "artists": [
+        {
+          "name": "SNACKIE",
+          "url": "https://open.spotify.com/artist/4tQuTF6MDLLvtVbUT8IsbE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192874,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/6EfPRY52PtJOwYhFESgxCb"
     },
     {
       "album": {
@@ -2970,7 +3024,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195555,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3tH0vbWaVb3rzlhqlA29Nu"
@@ -3829,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0nBhqsnGuphLGvBfK6ONFb"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1sDHnW7KdjZ3ephPYF6qXE"
+    },
+    {
+      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/6Tnd47ca9H7Y7dto7CW1ZT"
       },
@@ -3916,6 +3988,28 @@
       "duration_ms": 148608,
       "name": "Garden",
       "url": "https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv"
+    },
+    {
+      "album": {
+        "name": "GETAWAY (feat. Kimmortal)",
+        "url": "https://open.spotify.com/album/2bHNrkYxX9tCjDFzOl7152"
+      },
+      "artists": [
+        {
+          "name": "DACEY",
+          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
+        },
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "GETAWAY (feat. Kimmortal)",
+      "url": "https://open.spotify.com/track/2y9kErdcvZQ8vbRjVzrUo1"
     },
     {
       "album": {
@@ -6503,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/5AJfKqBdiXc6bkEDD1NwEY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Chambers",
+          "url": "https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340311,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/0Qp7hPXXCCEfGOI8v4Cuq9"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
       },
@@ -7332,7 +7444,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196534,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS"
@@ -7368,7 +7480,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208040,
       "name": "Not Mad",
       "url": "https://open.spotify.com/track/2LSLOF95FlWBCvHauAEU7e"
@@ -8362,7 +8474,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 130923,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
@@ -8615,7 +8727,7 @@
     },
     {
       "album": {
-        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
       "artists": [
@@ -8636,7 +8748,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
@@ -8778,7 +8890,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 225691,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac"
@@ -9477,6 +9589,24 @@
     },
     {
       "album": {
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/212iYfDTxThBbwQgCbUySR"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7HSO5TPDAgtEjhu2qrDF0h"
+    },
+    {
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn"
       },
@@ -9632,7 +9762,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172857,
       "name": "Side Eye",
       "url": "https://open.spotify.com/track/3nrPLwBP7AXFjjUV9XHkaI"
@@ -10239,6 +10369,24 @@
     },
     {
       "album": {
+        "name": "Spring Cleaning",
+        "url": "https://open.spotify.com/album/4WwHFPtV5d0ielt0pDShvT"
+      },
+      "artists": [
+        {
+          "name": "Yzabo",
+          "url": "https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215350,
+      "name": "Spring Cleaning",
+      "url": "https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli"
+    },
+    {
+      "album": {
         "name": "Every Lie is Two Lies",
         "url": "https://open.spotify.com/album/3bfxgzdQ84efmbinTHGali"
       },
@@ -10388,7 +10536,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173906,
       "name": "Straight To The Moon",
       "url": "https://open.spotify.com/track/7KAUmjBuc9AnuJoC7dRhjY"
@@ -10424,7 +10572,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 216696,
       "name": "Stronger Than You Know",
       "url": "https://open.spotify.com/track/566iyMrmzbowNCMDO0eOO3"
@@ -10817,6 +10965,28 @@
     },
     {
       "album": {
+        "name": "Temporary Baby",
+        "url": "https://open.spotify.com/album/1GZcwienCX2mcJHprGFxry"
+      },
+      "artists": [
+        {
+          "name": "Omega Mighty",
+          "url": "https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r"
+        },
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "Temporary Baby",
+      "url": "https://open.spotify.com/track/7wbR9tAbacRzZVJS625xff"
+    },
+    {
+      "album": {
         "name": "REDR\u00dcM",
         "url": "https://open.spotify.com/album/6OZfa3qYKpGQxi94t2aNPS"
       },
@@ -10994,7 +11164,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171464,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/4mCxb7qGqQ0aKZBaGiQ7Zb"
@@ -11884,7 +12054,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201824,
       "name": "We Make Sense",
       "url": "https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs"
@@ -12124,6 +12294,28 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "album": {

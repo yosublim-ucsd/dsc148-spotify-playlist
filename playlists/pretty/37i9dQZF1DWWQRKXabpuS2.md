@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: أميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,059 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,103 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
-| 2 | [Zilzal](https://open.spotify.com/track/5lIo6Uqv9tzArhAGSlp4Ch) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 4:16 |
+| 2 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 |
 | 3 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 |
 | 4 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 |
 | 5 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [يا طير \(feat\. Daffy\)](https://open.spotify.com/track/0sq1pHRicXP7CyuDg9N9lo) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [يا طير \(feat\. Daffy\)](https://open.spotify.com/album/3wSmueX8VqBpdriZXGLgqP) | 3:25 |
 | 50 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 |
 
-Snapshot ID: `MCwzZjY3MmM2ODY2NjZhODE2ZmUxOTYzMjI0MzQwYWFkMzFhMmVlYTRl`
+Snapshot ID: `MCxkZWI1MTM0MTRlYWIxYjM0NWU2YWRjMDhhM2RhYmU3NmMyMjE0ZmVl`

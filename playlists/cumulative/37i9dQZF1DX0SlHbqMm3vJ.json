@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Guchi",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Simi",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "Different (With Majid Jordan)",
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177300,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 120500,
       "name": "Lose Ya",
       "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
@@ -4090,6 +4090,28 @@
       "duration_ms": 147487,
       "name": "Loud",
       "url": "https://open.spotify.com/track/5JHZt404UXlozqWc1opVkt"
+    },
+    {
+      "album": {
+        "name": "Love & Trust",
+        "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "Love and Trust",
+      "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
     },
     {
       "album": {
@@ -5120,7 +5142,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 153675,
       "name": "Omo Eko",
       "url": "https://open.spotify.com/track/7pN5oIZyVEEk8tFtxE7yBV"
@@ -6330,7 +6352,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 211807,
       "name": "Soak Garri",
       "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
@@ -6610,6 +6632,46 @@
       "duration_ms": 167584,
       "name": "STONES",
       "url": "https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "album": {
@@ -7110,7 +7172,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm"
@@ -7802,6 +7864,24 @@
       "duration_ms": 168461,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1"
+    },
+    {
+      "album": {
+        "name": "Okay Baby, Lets Do This",
+        "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212341,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR"
     },
     {
       "album": {

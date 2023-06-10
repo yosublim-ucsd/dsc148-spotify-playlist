@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-110 songs - 6 hr 25 min
+111 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 | 2022-02-15 |  |
 | [Te Extraño](https://open.spotify.com/track/2Jm6Vb7FsOuzg8NVZsNik8) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Te Extraño](https://open.spotify.com/album/1zY8Vg48fVFebEsLarexDO) | 3:49 | 2021-12-15 | 2022-01-15 |
 | [Te Necesito](https://open.spotify.com/track/1qym5o53zYbVzQfi8Z64eO) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Te Necesito](https://open.spotify.com/album/2AK9BzB9vpUYJelImHLMZW) | 2:43 | 2021-12-15 |  |
+| [TODAVÍA](https://open.spotify.com/track/5LgNvic5PJYqECG6or0tBZ) | [Los Audio Kimikos](https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl), [Carlos uzi](https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3) | [TODAVÍA](https://open.spotify.com/album/7c9WHDjHOwphOmJUp7C7WG) | 2:52 | 2023-06-09 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 | 2021-12-15 |  |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-28 |  |

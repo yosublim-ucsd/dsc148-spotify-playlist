@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,026 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,131 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 16 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 |
 | 17 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 |
 | 18 | [Saturn](https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 3:37 |
-| 19 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 |
-| 20 | [The Vice Yard](https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:11 |
+| 19 | [The Vice Yard](https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:11 |
+| 20 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 |
 | 21 | [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 |
 | 22 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
 | 23 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 |
 | 24 | [Head for Backstage Pass](https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 2:44 |
 | 25 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
-| 26 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
-| 27 | [Open Season](https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt) | 5:09 |
+| 26 | [Open Season](https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt) | 5:09 |
+| 27 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
 | 28 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 |
 | 29 | [The Wrangler](https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 2:59 |
 | 30 | [The Duke](https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Exciting Sounds of Menahan Street Band](https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF) | 2:46 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 77 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
 | 78 | [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 |
 | 79 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 |
-| 80 | [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 |
+| 80 | [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 |
 
-Snapshot ID: `MCwzOThhYzgxM2ZhMGVlZGViMzY2NzA3OTk2MzhjZDliNGZkNjZkNDcx`
+Snapshot ID: `MCw2NjEyZTFhODY3OTFjNTA4NzE1NThiNzljY2QwYzNiNThiMDZiNmM5`

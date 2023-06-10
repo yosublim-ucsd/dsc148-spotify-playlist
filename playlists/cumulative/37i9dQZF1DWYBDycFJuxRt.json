@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "All Things Must Pass",
+        "url": "https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279511,
+      "name": "All Things Must Pass",
+      "url": "https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54"
+    },
+    {
+      "album": {
         "name": "I Have a Dream.",
         "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
       },
@@ -2026,7 +2044,7 @@
           "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         },
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
@@ -3130,6 +3148,24 @@
       "duration_ms": 197967,
       "name": "Caddy&Rari",
       "url": "https://open.spotify.com/track/3aCTLTekUXTvmceFq7RKQd"
+    },
+    {
+      "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215328,
+      "name": "calcium",
+      "url": "https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu"
     },
     {
       "album": {
@@ -15255,7 +15291,7 @@
     },
     {
       "album": {
-        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
       "artists": [
@@ -15276,7 +15312,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
@@ -28854,7 +28890,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215328,
       "name": "\u5f7c\u6c0f\u6709\u7121",
       "url": "https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW"
@@ -30736,7 +30772,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 279511,
       "name": "\u7121\u5e38\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np"

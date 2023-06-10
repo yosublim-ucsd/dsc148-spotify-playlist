@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-288 songs - 16 hr 51 min
+289 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 | 2020-11-20 |  |
 | [Devil](https://open.spotify.com/track/5lZ6jqDJ8tnGbGKlKB9j9X) | [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm), [Sammy Legs](https://open.spotify.com/artist/6t2Dat6onFMWgVdW05EAVA) | [Devil](https://open.spotify.com/album/1lCv8YrMeIi4VjQdRhLy4J) | 3:46 | 2022-10-12 | 2022-11-08 |
 | [Die House](https://open.spotify.com/track/4a4DHr0YWNmndbm8wRRMrM) | [The Musical Ghost](https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n), [Or3o](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Video Game Electro Swing](https://open.spotify.com/album/3jsu4ikkljG5Z6ZvNjOwRC) | 2:51 | 2022-10-12 | 2022-11-08 |
-| [Different \- Glenn Gatsby Remix](https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Different \(Glenn Gatsby Remix\)](https://open.spotify.com/album/4RLUDNllrSV4ayYibJfJiw) | 2:24 | 2022-08-26 |  |
+| [Different \- Glenn Gatsby Remix](https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Different \(Glenn Gatsby Remix\)](https://open.spotify.com/album/4RLUDNllrSV4ayYibJfJiw) | 2:24 | 2022-08-26 | 2023-06-10 |
 | [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/0sWVVpEQ3hB7NVAXoZJ7Pd) | 3:19 | 2020-10-30 | 2022-08-13 |
 | [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny) | 3:19 | 2020-10-30 | 2022-07-29 |
 | [Dizzy \- Radio Edit](https://open.spotify.com/track/2PN0FcvL9PECkRvXFtandp) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Dizzy](https://open.spotify.com/album/0Ecc5qXRqwi4vmFcfH8pIb) | 2:53 | 2022-10-12 | 2022-11-08 |
@@ -130,6 +130,7 @@
 | [Loco](https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Loco](https://open.spotify.com/album/7B5WriVLhr9U53qfxVUcX6) | 2:58 | 2021-04-23 |  |
 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 | 2020-10-30 |  |
 | [Lone Digger](https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V) | 3:49 | 2020-10-30 | 2022-07-29 |
+| [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 | 2023-06-09 |  |
 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 | 2022-11-25 | 2023-02-04 |
 | [Love Us a Ruckus](https://open.spotify.com/track/6AUwEemrg6TQjYkGTr3det) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Bad Manners](https://open.spotify.com/album/2ChFqWOdeu5Wyppaaxfy51) | 4:04 | 2022-12-09 |  |
 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 | 2022-06-17 |  |

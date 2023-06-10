@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 257394,
+  "num_followers": 257682,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQwNTM2MjFlODliYjc4Y2U0ZjBmODAxZGIwZjc3MjhlZDJiNzM5",
+  "snapshot_id": "MCw4ZmE2ZDY4ZmFjMTdjNjEzYjBkMDhhMWQ4ZWYxM2UwMDg4MzEzNDQx",
   "tracks": [
     {
       "added_at": "2023-05-15 18:59:47",
@@ -135,26 +135,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "On My Mind (Jorja Smith X Preditah)",
-        "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        }
-      ],
-      "duration_ms": 181509,
-      "name": "On My Mind (Jorja Smith X Preditah)",
-      "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -175,6 +155,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2023-06-09 17:09:28",
+      "album": {
+        "name": "Stay-At-Home DJ",
+        "url": "https://open.spotify.com/album/0KesQUd4gYbiIaX6pLCEet"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        }
+      ],
+      "duration_ms": 227961,
+      "name": "Stay-At-Home DJ",
+      "url": "https://open.spotify.com/track/1IaL8nSH8UiGMAb0UhgVnG"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -355,6 +351,26 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "On My Mind (Jorja Smith X Preditah)",
+        "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        }
+      ],
+      "duration_ms": 181509,
+      "name": "On My Mind (Jorja Smith X Preditah)",
+      "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Electric U",
         "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 246266,
       "name": "Peaceful Life",
       "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1087,26 +1103,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Electric Photograph",
         "url": "https://open.spotify.com/album/0yCpeH8KWCQYACEAc4qk2u"
       },
@@ -1127,6 +1123,26 @@
       "duration_ms": 175381,
       "name": "Electric Photograph",
       "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1271,6 +1287,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1287,22 +1319,6 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1383,6 +1399,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 201376,
+      "name": "Dance Moves",
+      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -1399,22 +1431,6 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 201376,
-      "name": "Dance Moves",
-      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "What Box?",
-        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
-      },
-      "artists": [
-        {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "GEEK OUT!",
         "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
       },
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
     },
     {
-      "added_at": "2023-05-26 15:33:25",
+      "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql"
+        "name": "What Box?",
+        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
       "artists": [
         {
-          "name": "DLG.",
-          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
         }
       ],
-      "duration_ms": 228545,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv"
+      "duration_ms": 184826,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1659,6 +1659,22 @@
       "duration_ms": 167328,
       "name": "Crash Course (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo"
+    },
+    {
+      "added_at": "2023-05-26 15:33:25",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql"
+      },
+      "artists": [
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1701,6 +1717,22 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
+      "added_at": "2023-05-19 18:50:51",
+      "album": {
+        "name": "1986",
+        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "1986",
+      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "DAYS GO BY",
@@ -1719,22 +1751,6 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
-    },
-    {
-      "added_at": "2023-05-19 18:50:51",
-      "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
-      },
-      "artists": [
-        {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "1986",
-      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1783,22 +1799,6 @@
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Calvaire",
-        "url": "https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 117499,
-      "name": "Calvaire",
-      "url": "https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld"
     }
   ],
   "unique_name": "Soir\u00e9e",

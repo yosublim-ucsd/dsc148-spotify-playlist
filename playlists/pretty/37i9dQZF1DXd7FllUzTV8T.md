@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 25 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 25 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 3 | [How High Is the Moon](https://open.spotify.com/track/2Gy8akJ4dmH5yVyaVVWh8W) | [Maude De Geyndt](https://open.spotify.com/artist/6W7IM4n11sIO9QqcCVQcNX) | [How High Is the Moon](https://open.spotify.com/album/4QHQ99exCjhNpTcYA5hkWX) | 3:37 |
 | 4 | [Did you dream too](https://open.spotify.com/track/0F9nEWUXKZc4fJugGPqVX7) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/6T2PyJ2bjFRCtX5w5P8Ko6) | 3:17 |
 | 5 | [Can't Help Loving That Man](https://open.spotify.com/track/2ozs4ChNBhN0V2x2sHVj7x) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/72e5VzjaNRQ56KLxh8sbdI) | 2:40 |
-| 6 | [Ruby me dear](https://open.spotify.com/track/5UjVAb3BTVReMbqmjWRA1I) | [Alicia Sterner](https://open.spotify.com/artist/5WNrIhpt9DdDgMBzXJhZMu) | [Ruby me dear](https://open.spotify.com/album/7eBMDEhvGNaDybjNgygMpK) | 2:35 |
-| 7 | [The Night We Called It A Day](https://open.spotify.com/track/1bcX1m3L3Mil06ViTrMZwW) | [Charlie Hacket](https://open.spotify.com/artist/62jSmyPVlrdwQVXddRZWro) | [The Night We Called It A Day](https://open.spotify.com/album/7IxmUJgQR2qGZxWnuaYiwN) | 2:57 |
-| 8 | [Love on a Lonely Street](https://open.spotify.com/track/6KTss9Ov89YTDbAMQv4AEa) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Love on a Lonely Street](https://open.spotify.com/album/73CbHeRVtFiHZZ7cSTmVGW) | 3:14 |
-| 9 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
-| 10 | [Hush](https://open.spotify.com/track/5GRrBWwmmCwYqXxDNUJxg7) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Hush](https://open.spotify.com/album/6kwcGFHlU9rvA8Bepf8YZn) | 2:36 |
-| 11 | [Estrellita](https://open.spotify.com/track/5kgefxPXrQeJ2oPENUQhGi) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/5QJ5jmZQ9nRnZNDAwlstUL) | 3:10 |
+| 6 | [The Night We Called It A Day](https://open.spotify.com/track/1bcX1m3L3Mil06ViTrMZwW) | [Charlie Hacket](https://open.spotify.com/artist/62jSmyPVlrdwQVXddRZWro) | [The Night We Called It A Day](https://open.spotify.com/album/7IxmUJgQR2qGZxWnuaYiwN) | 2:57 |
+| 7 | [Love on a Lonely Street](https://open.spotify.com/track/6KTss9Ov89YTDbAMQv4AEa) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Love on a Lonely Street](https://open.spotify.com/album/73CbHeRVtFiHZZ7cSTmVGW) | 3:14 |
+| 8 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
+| 9 | [Hush](https://open.spotify.com/track/5GRrBWwmmCwYqXxDNUJxg7) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Hush](https://open.spotify.com/album/6kwcGFHlU9rvA8Bepf8YZn) | 2:36 |
+| 10 | [Estrellita](https://open.spotify.com/track/5kgefxPXrQeJ2oPENUQhGi) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/5QJ5jmZQ9nRnZNDAwlstUL) | 3:10 |
+| 11 | [Ruby me dear](https://open.spotify.com/track/5UjVAb3BTVReMbqmjWRA1I) | [Alicia Sterner](https://open.spotify.com/artist/5WNrIhpt9DdDgMBzXJhZMu) | [Ruby me dear](https://open.spotify.com/album/7eBMDEhvGNaDybjNgygMpK) | 2:35 |
 | 12 | [Come Sunday](https://open.spotify.com/track/7yHcLHOC6PeYvNf3DUgtCu) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Come Sunday](https://open.spotify.com/album/229mvjpr3IdMq3cZBrXpWM) | 2:54 |
 | 13 | [Closing Time](https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Closing Time](https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd) | 3:05 |
 | 14 | [Unforgettable](https://open.spotify.com/track/54ssz8UwxkRTcwR1GkE1O9) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Unforgettable](https://open.spotify.com/album/60GvB1LpuZEejTw6HrC7kf) | 2:33 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 24 | [The Masquerade is Over](https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [The Masquerade is Over](https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ) | 2:40 |
 | 25 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCxlYTc5ODljY2FhZWU5MTcyYWUwY2MyNjVlOTU5OGJhMzFkNzM1M2Zl`
+Snapshot ID: `MCxlMzY2N2ZkODQ3YmUzYzJkMmMyMDJmYjRmNzNlMzkwNGUyNGQwNTIz`

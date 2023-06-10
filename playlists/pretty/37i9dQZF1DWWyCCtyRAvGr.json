@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 151855,
+  "num_followers": 151922,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY0MDU4ZWFhNDllYjY2M2MzYThhOWRiOTFlOGIyOTNmZDEyMGVi",
+  "snapshot_id": "MCwxOWU0MmU0YzIxNTg0ZDg1MzNhODY1ZDVhN2Q0NzFhNWQwZjU2NmJi",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Hoodoo",
-        "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "Who You Gonna Hoodoo Now?",
-      "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Hoodoo",
+        "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 401040,
-      "name": "Make It Rain",
-      "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -539,6 +523,42 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 401040,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -567,42 +587,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "The Amogla Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
-      },
-      "artists": [
-        {
-          "name": "Floyd Lee & His Mean Blues Band",
-          "url": "https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg"
-        }
-      ],
-      "duration_ms": 299973,
-      "name": "Mean Blues",
-      "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Amogla Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lee & His Mean Blues Band",
+          "url": "https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg"
+        }
+      ],
+      "duration_ms": 299973,
+      "name": "Mean Blues",
+      "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 355434,
-      "name": "Come on and Go with Me",
-      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 341173,
       "name": "Gambler's Blues",
       "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Outta' Season",
-        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193130,
       "name": "Your Lies",
       "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Outta' Season",
+        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 202627,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "One Scotch, One Bourbon, One Beer",
-        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 192121,
-      "name": "One Scotch, One Bourbon, One Beer",
-      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+        "name": "One Scotch, One Bourbon, One Beer",
+        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+      "duration_ms": 192121,
+      "name": "One Scotch, One Bourbon, One Beer",
+      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "One Day Closer To Home",
-        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "One Day Closer To Home",
-      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 214320,
       "name": "Dirt Road Blues - 2022 Remix",
       "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "One Day Closer To Home",
+        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "One Day Closer To Home",
+      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 443160,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 443160,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 200266,
       "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-04-28 16:37:16",

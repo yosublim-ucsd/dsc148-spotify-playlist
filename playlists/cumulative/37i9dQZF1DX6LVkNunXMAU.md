@@ -2,9 +2,9 @@
 
 ### [mandarina](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Dulce y ácido: indie pop latino en estado natural\. Foto: Juku Ares + Koino Yokan.
+> Dulce y ácido: indie pop latino en estado natural\. Foto: Elsa y Elmar & Conociendo Rusia.
 
-193 songs - 10 hr 40 min
+194 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,8 +144,9 @@
 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 | 2022-08-26 |  |
 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 | 2023-04-07 |  |
 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 | 2023-04-07 |  |
-| [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 |  |
+| [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 | 2023-06-10 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-05-20 | 2023-04-15 |
+| [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 |  |
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-19 |  |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2022-05-20 | 2023-04-15 |
 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 | 2023-05-19 |  |

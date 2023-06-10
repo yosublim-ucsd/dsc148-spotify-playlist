@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3?si=370c356c6652410b\">Stephen McWhirter</a> and <a href=\"https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW?si=0e079eeb35034a83\">Jason Clayborn</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8?si=rlupnhYqRJSXQ_BpkEIGYg\">Kristene DiMarco</a> and <a href=\"https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij?si=420690ca01c349f6\">Sam McCabe</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 302000,
       "name": "Behold - Live",
       "url": "https://open.spotify.com/track/2uhrVuH8Rz1nQfrRLWIKDU"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
@@ -1062,6 +1062,28 @@
       "duration_ms": 339559,
       "name": "Chariot - Two Palms Sessions",
       "url": "https://open.spotify.com/track/327dDs4v50npSuWt01R2HO"
+    },
+    {
+      "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "album": {
@@ -4558,6 +4580,24 @@
       "duration_ms": 360290,
       "name": "My Soul Sings",
       "url": "https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI"
+    },
+    {
+      "album": {
+        "name": "My Worth Is Not in What I Own",
+        "url": "https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "My Worth Is Not in What I Own",
+      "url": "https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ"
     },
     {
       "album": {

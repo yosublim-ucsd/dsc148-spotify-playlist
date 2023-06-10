@@ -5205,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/5PYZt9Tq52VBtmtellKGM5"
+      },
+      "artists": [
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355800,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/0YoqMFFzvvxzoxRtw7kv2r"
+    },
+    {
+      "album": {
         "name": "Closer Than You Think",
         "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
       },

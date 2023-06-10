@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: Joeboy",
-  "num_followers": 288862,
+  "num_followers": 288992,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjgyNTc0NTU2YWI5YjgyZmIwYzEzYzJjYWMxNTg1NWU0NzY5OGEx",
+  "snapshot_id": "MCxlYTUzZGI4MDJiYmYwMzZmZDI3YzM0ZDA1NTQ5ODg1ZWQ2MTY2MGU1",
   "tracks": [
     {
       "added_at": "2023-05-24 08:03:15",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-05-24 08:03:15",
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "added_at": "2023-05-24 08:03:15",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 168626,
       "name": "Slow Motion (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha"
-    },
-    {
-      "added_at": "2023-05-24 08:03:15",
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
       "added_at": "2023-05-24 08:03:15",

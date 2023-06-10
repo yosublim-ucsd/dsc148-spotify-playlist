@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 182350,
+  "num_followers": 182460,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTRlNzE3M2IxYzc4OTNiNGQxZWU0YzdhZGEyMTMwN2E4NDdmY2Ji",
+  "snapshot_id": "MCxiMDc1ZWFlYmVmNDE5NDJmOTNlMjBlY2U3ZjYwNTMxMzk3MmJiNTI3",
   "tracks": [
     {
       "added_at": "2023-03-17 00:18:30",
@@ -23,22 +23,6 @@
       "duration_ms": 200866,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Bluchanga",
-        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Bluchanga",
-      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -63,6 +47,22 @@
       "duration_ms": 176733,
       "name": "Vivo Sohando - Stereo Version",
       "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Bluchanga",
+        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Bluchanga",
+      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -183,6 +183,30 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Jazz 'Round Midnight: Bossa Nova",
+        "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Para Machuchar Meu Coracao",
+      "url": "https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Novo Bossa Nova",
         "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
       },
@@ -211,30 +235,6 @@
       "duration_ms": 160850,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Jazz 'Round Midnight: Bossa Nova",
-        "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 306906,
-      "name": "Para Machuchar Meu Coracao",
-      "url": "https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 167764,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Qualquer Coisa",
         "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 174133,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 167764,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Happy Madness",
-        "url": "https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ"
-      },
-      "artists": [
-        {
-          "name": "Delicatessen",
-          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
-        }
-      ],
-      "duration_ms": 265861,
-      "name": "Ing\u00eanuo",
-      "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Balan\u00e7o na Quebrada",
         "url": "https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 224415,
       "name": "Quinze Pras Sete na Vila",
       "url": "https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Happy Madness",
+        "url": "https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen",
+          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+        }
+      ],
+      "duration_ms": 265861,
+      "name": "Ing\u00eanuo",
+      "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -947,34 +947,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Borges",
-          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
-        },
-        {
-          "name": "Mauricio Tizumba",
-          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
-        },
-        {
-          "name": "Josi Lopes",
-          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
-        },
-        {
-          "name": "Play",
-          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Bossa Got the Blues",
         "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
       },
@@ -1007,6 +979,34 @@
       "duration_ms": 300126,
       "name": "A Mac\u0327a\u0303",
       "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Borges",
+          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
+        },
+        {
+          "name": "Mauricio Tizumba",
+          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
+        },
+        {
+          "name": "Josi Lopes",
+          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
+        },
+        {
+          "name": "Play",
+          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
+        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 194576,
+      "name": "Maria e o Samba",
+      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Ternura Do Saber",
         "url": "https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 161233,
       "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
       "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
-        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 194576,
-      "name": "Maria e o Samba",
-      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1391,6 +1391,34 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Feito \u00e0 M\u00e3o",
+        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
+      },
+      "artists": [
+        {
+          "name": "Bisdr\u00e9 Santos",
+          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
+        },
+        {
+          "name": "Gabriel Gavi",
+          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
+        },
+        {
+          "name": "Stefano Moliner",
+          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
+        },
+        {
+          "name": "Beb\u00ea do G\u00f3es",
+          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
+        }
+      ],
+      "duration_ms": 279456,
+      "name": "Bossa de Maio",
+      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
@@ -1423,34 +1451,6 @@
       "duration_ms": 124088,
       "name": "Na Casa do Jornalista",
       "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Feito \u00e0 M\u00e3o",
-        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
-      },
-      "artists": [
-        {
-          "name": "Bisdr\u00e9 Santos",
-          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
-        },
-        {
-          "name": "Gabriel Gavi",
-          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
-        },
-        {
-          "name": "Stefano Moliner",
-          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
-        },
-        {
-          "name": "Beb\u00ea do G\u00f3es",
-          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
-        }
-      ],
-      "duration_ms": 279456,
-      "name": "Bossa de Maio",
-      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
     },
     {
       "added_at": "2023-03-17 00:18:30",

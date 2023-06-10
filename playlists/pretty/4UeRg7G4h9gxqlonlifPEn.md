@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,458 likes - 127 songs - 6 hr 2 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,457 likes - 127 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 93 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
 | 94 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 95 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
-| 96 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 |
+| 96 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 |
 | 97 | [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 |
 | 98 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO) | 3:42 |
 | 99 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |

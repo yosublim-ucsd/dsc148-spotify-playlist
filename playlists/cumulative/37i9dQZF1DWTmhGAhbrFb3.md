@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-308 songs - 15 hr 18 min
+309 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 | 2023-04-06 |  |
 | [Beatific](https://open.spotify.com/track/3ggQqaU6hdn5udlJEGt5Ut) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Beatific](https://open.spotify.com/album/4reMaKYbd4T46jVORffBF4) | 3:16 | 2023-04-06 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2023-04-06 |  |
+| [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-06-09 |  |
 | [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2023-04-06 |  |
 | [Bid to Wonder](https://open.spotify.com/track/3o9ntzrGGcWTf455Cotank) | [Reinstallation Conundrum](https://open.spotify.com/artist/0wi4qBw9aaXBjMr7peZ8eT) | [Sochi](https://open.spotify.com/album/2gvyCBlwTSzWCQlmAkw2CW) | 3:11 | 2023-04-06 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2023-04-06 |  |
@@ -188,7 +189,7 @@
 | [Moving Like the Mountain](https://open.spotify.com/track/2Ka7W7Gz06zhtKCOrLB0pR) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Courage In Her Pocket](https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx) | 2:59 | 2023-04-06 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-04-06 |  |
 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 | 2023-04-06 |  |
-| [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 | 2023-04-06 |  |
+| [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 | 2023-04-06 | 2023-06-10 |
 | [Nature Calling](https://open.spotify.com/track/1U5nro2p0IGtHE6kZqt8WG) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Nature Calling](https://open.spotify.com/album/1IHAC5mZAYnmqlKkfEoH4L) | 1:54 | 2023-04-06 |  |
 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2023-04-06 |  |
 | [New Star](https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 2:43 | 2023-04-06 |  |

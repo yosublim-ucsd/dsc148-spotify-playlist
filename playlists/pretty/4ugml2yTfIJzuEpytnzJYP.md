@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,185 likes - 20 songs - 1 hr 22 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,187 likes - 27 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,12 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 18 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 |
 | 19 | [Strike](https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Strike](https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL) | 5:37 |
 | 20 | [Starseed 47 \- VIP Mix](https://open.spotify.com/track/4dDUGzPZifKdH97ecN9V9W) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Return to Taygeta](https://open.spotify.com/album/3vn29spZzdHiGqBIusy2Qh) | 3:59 |
+| 21 | [Lose My Breath](https://open.spotify.com/track/3dcHTQceN4dnOXmFJ7a7a5) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Syntheism](https://open.spotify.com/album/4cNbfcidFGCWOlFYZAajB2) | 3:22 |
+| 22 | [Tribal Swagger \- Instrumental](https://open.spotify.com/track/36fgNw9vQFIIz5ftfARVtU) | [Temple Step Project](https://open.spotify.com/artist/23NuCo2z6vAcQpKJ7jCTzj) | [Tribal Swagger](https://open.spotify.com/album/717tX0wFwpCy6X7PnAmkJ6) | 4:48 |
+| 23 | [Here's to You](https://open.spotify.com/track/23kBwWY4xzB4zPINtDFSed) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Underlux](https://open.spotify.com/artist/2DpJoDAMDt3z25itivGT9a), [Rodrick Malone](https://open.spotify.com/artist/7bnlqY46DCVuR1BVHLhI23) | [Here's to You](https://open.spotify.com/album/6QHq68y7Bm2dAHfvymB9XT) | 3:42 |
+| 24 | [Empire of Dirt \(Dub Version\)](https://open.spotify.com/track/0gJdyAe8grvrfO2aWq75Rt) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Empire of Dirt \(Versions\)](https://open.spotify.com/album/4odS5jZu3TFxSM9h8qhOQf) | 4:40 |
+| 25 | [Rise Above](https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Crumpets](https://open.spotify.com/album/5cx3u1fBnyF2oKl7S6lo4U) | 3:43 |
+| 26 | [Crestmoon](https://open.spotify.com/track/46laC2xpWtJSIBmFoFcpDm) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk), [Ego Death](https://open.spotify.com/artist/3ylzaJJItjsKnPkvy87cZp) | [Sanskrit EP](https://open.spotify.com/album/6uGEF0BjZ08mAk7jqHPeGP) | 3:27 |
+| 27 | [Head Rearranger](https://open.spotify.com/track/7HSnE5WcCrebbcZWTnTiPg) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Gallery Of Sound](https://open.spotify.com/album/78h5TmDIvJ6rBgLA3zOhoS) | 3:18 |
 
-Snapshot ID: `MjIyNiw0YmZhN2QzZDNjZmRiNTQ4Mzk0OGIwZDU0OWQ5MWRkNDViYTZjODI0`
+Snapshot ID: `MjIzMyxjZjc2MDNkZmQyNzYyNTRlZGM0NTI2MDI1YzNmNGU0MTQ2MmM5OTEx`

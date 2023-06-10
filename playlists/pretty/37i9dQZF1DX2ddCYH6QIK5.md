@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: AMBRA, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,363 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,383 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Aus Liebe](https://open.spotify.com/track/5L77WMdtYInJ6Hy96dVFQ7) | [Die Benjamins](https://open.spotify.com/artist/7wdPP54vw7ThJkqyX1VL2d) | [Aus Liebe](https://open.spotify.com/album/2i0jUEC4w7HGKR8XHOb8Py) | 1:55 |
 | 80 | [Is It Me](https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Is It Me](https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4) | 3:14 |
 
-Snapshot ID: `MCwxOGU4ZTQ4N2EzZWRhZjI0NzI1MDUwZDYzMTU5MTZhYTMzZmE5MWUx`
+Snapshot ID: `MCxlOGUyZjIwYWI1MWMxODBlMTY2MzgyZWI4NmJmMTA0MTkwYWE5Mjhh`

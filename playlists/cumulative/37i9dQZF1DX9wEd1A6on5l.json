@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
@@ -1737,6 +1737,32 @@
     },
     {
       "album": {
+        "name": "Feel Different",
+        "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Feel Different",
+      "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -2716,7 +2742,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
@@ -3081,6 +3107,28 @@
     },
     {
       "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
+    },
+    {
+      "album": {
         "name": "NSV",
         "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
@@ -3372,7 +3420,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
@@ -3544,6 +3592,24 @@
       "duration_ms": 166556,
       "name": "Philo - Remix",
       "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+    },
+    {
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
     },
     {
       "album": {

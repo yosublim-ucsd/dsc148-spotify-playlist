@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22038,
+  "num_followers": 22043,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjBmYWFmYjZmODBlNzljNWFmMzA4MzMwZDg2MTY2MWIzYTM0MTMy",
+  "snapshot_id": "MCw3Y2IxNjJlMTdhNzM0ZWI3MGRhNDAyNDk1MDI0OTVmYTEwZTUwOWI4",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Porque t\u00fa lo sabr\u00edas",
-        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 191806,
-      "name": "Porque t\u00fa lo sabr\u00edas",
-      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+        "name": "Porque t\u00fa lo sabr\u00edas",
+        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
         }
       ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+      "duration_ms": 191806,
+      "name": "Porque t\u00fa lo sabr\u00edas",
+      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Muchas gracias por venir",
-        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 202156,
-      "name": "Muchas gracias por venir",
-      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "quien me quiere (no me quiere contigo)",
         "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 167722,
       "name": "quien me quiere (no me quiere contigo)",
       "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Muchas gracias por venir",
+        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 202156,
+      "name": "Muchas gracias por venir",
+      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
     },
     {
       "added_at": "2023-05-19 09:08:21",

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "25 G",
+        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "25 G",
+      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
+    },
+    {
+      "album": {
         "name": "Vrai 2 vrai",
         "url": "https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg"
       },
@@ -13408,7 +13426,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -19414,7 +19432,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155878,
       "name": "Piranha (feat. Vacra)",
       "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
@@ -24444,7 +24462,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167933,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"

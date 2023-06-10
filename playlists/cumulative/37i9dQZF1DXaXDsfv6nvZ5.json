@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Promise To Love",
+        "url": "https://open.spotify.com/album/6zkaALTuAQrZsq0sK16y4P"
+      },
+      "artists": [
+        {
+          "name": "LeVelle",
+          "url": "https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP"
+        },
+        {
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238126,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0ETSkT4dr5MjSEugPu8yLm"
+    },
+    {
+      "album": {
         "name": "AM/FM",
         "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
@@ -928,6 +950,28 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109071,
+      "name": "Clarity (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2"
     },
     {
       "album": {
@@ -1768,7 +1812,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218972,
       "name": "Forgot Your Name (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
@@ -1888,6 +1932,24 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "album": {
+        "name": "These Songs Are For Anyone Sick Of Earth",
+        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+      },
+      "artists": [
+        {
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229299,
+      "name": "Good For The Money",
+      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
     },
     {
       "album": {
@@ -2040,7 +2102,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 239815,
       "name": "H.I.",
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
@@ -2739,6 +2801,28 @@
     },
     {
       "album": {
+        "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200252,
+      "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
+    },
+    {
+      "album": {
         "name": "Look At Me",
         "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
       },
@@ -3140,7 +3224,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167812,
       "name": "Mile Away",
       "url": "https://open.spotify.com/track/49LmPgSvjaDAASm0XzBPKG"

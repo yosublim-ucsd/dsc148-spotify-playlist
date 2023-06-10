@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 68436,
+  "num_followers": 68484,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRkY2E2MjU3OTBjNTRhYmM3Zjk2ZTk3NmIwYmU1ZmU3Y2E4YTdm",
+  "snapshot_id": "MCwyOWI5NDYzZGJiMzU5NDU0MWJjNTRiMGJiYTA2N2Q3ZDQ5MzViZjE2",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/3u7zzDePAxMkttN2cREyvv"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 273792,
-      "name": "Sticks and Stones - Live",
-      "url": "https://open.spotify.com/track/24WfJXpVPfLuT2BfJmkRow"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Live At Texas Stadium",
         "url": "https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 236613,
       "name": "It's 5 O'Clock Somewhere - Live",
       "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/3u7zzDePAxMkttN2cREyvv"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 273792,
+      "name": "Sticks and Stones - Live",
+      "url": "https://open.spotify.com/track/24WfJXpVPfLuT2BfJmkRow"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Dwight Live",
+        "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 367973,
-      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
+      "duration_ms": 445293,
+      "name": "Suspicious Minds - Live",
+      "url": "https://open.spotify.com/track/6bBacKPEKJ7xRS8EzArysc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Dwight Live",
-        "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 445293,
-      "name": "Suspicious Minds - Live",
-      "url": "https://open.spotify.com/track/6bBacKPEKJ7xRS8EzArysc"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
-        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Come Monday - Live",
-      "url": "https://open.spotify.com/track/6P0lgXMMtRVcdLigJHQAgA"
+      "duration_ms": 367973,
+      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 315933,
       "name": "Heartbreak Hotel - Live at The International Hotel, Las Vegas, NV - 8/21/69 Midnight Show",
       "url": "https://open.spotify.com/track/2l9w5DuUTekKJEXs1rlF8a"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
+        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Come Monday - Live",
+      "url": "https://open.spotify.com/track/6P0lgXMMtRVcdLigJHQAgA"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Live From Austin, TX",
         "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 209293,
       "name": "Streets of Bakersfield - Live",
       "url": "https://open.spotify.com/track/7nLdau7g2f0PemdWBm0Wmb"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "Top of the World Tour Live",
+        "url": "https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Love Without End, Amen - Live",
-      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
+      "duration_ms": 342720,
+      "name": "Wide Open Spaces - Live - 2003",
+      "url": "https://open.spotify.com/track/28codLcsqWN5P78dqUgTvw"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Top of the World Tour Live",
-        "url": "https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 342720,
-      "name": "Wide Open Spaces - Live - 2003",
-      "url": "https://open.spotify.com/track/28codLcsqWN5P78dqUgTvw"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Hank Live",
         "url": "https://open.spotify.com/album/452iLBdGqmrI4qdQU0miaS"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 255640,
       "name": "Family Tradition / Hey, Good Lookin' - Live",
       "url": "https://open.spotify.com/track/0EFgbjQoXRhVx8ElQqhluv"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Essential Bobby Bare",
+        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "The Winner",
+      "url": "https://open.spotify.com/track/2nt7A0D3IBl37iOYg9Onjy"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Essential Bobby Bare",
-        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
       "artists": [
         {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 317946,
-      "name": "The Winner",
-      "url": "https://open.spotify.com/track/2nt7A0D3IBl37iOYg9Onjy"
+      "duration_ms": 185013,
+      "name": "Love Without End, Amen - Live",
+      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS"
       },
       "artists": [
         {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
+      "duration_ms": 195067,
+      "name": "I'm From The Country",
+      "url": "https://open.spotify.com/track/7Dk5WbllAY0VT1rune1mOs"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS"
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 195067,
-      "name": "I'm From The Country",
-      "url": "https://open.spotify.com/track/7Dk5WbllAY0VT1rune1mOs"
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2059,8 +2059,8 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
-        "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
+        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
+        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
       },
       "artists": [
         {
@@ -2068,9 +2068,9 @@
           "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 439506,
-      "name": "Simple Man - Live",
-      "url": "https://open.spotify.com/track/2NDJucOxHz73g8JBbdGYlX"
+      "duration_ms": 432773,
+      "name": "Sweet Home Alabama - 1976/Live At Bill Graham's Winterland",
+      "url": "https://open.spotify.com/track/32bB946H1yPQvXjP0MH4vk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "The Whiskey Ain't Working Anymore",
+      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Pam Tillis - Live in Nashville",
         "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
       },
@@ -2203,6 +2219,22 @@
       "duration_ms": 214333,
       "name": "Don't Tell Me What to Do - Live",
       "url": "https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
+        "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 439506,
+      "name": "Simple Man - Live",
+      "url": "https://open.spotify.com/track/2NDJucOxHz73g8JBbdGYlX"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2223,54 +2255,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
-        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 432773,
-      "name": "Sweet Home Alabama - 1976/Live At Bill Graham's Winterland",
-      "url": "https://open.spotify.com/track/32bB946H1yPQvXjP0MH4vk"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "The Whiskey Ain't Working Anymore",
-      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Circlin' Back - Celebrating 50 Years (Live)",
-        "url": "https://open.spotify.com/album/2Wjlh7SC5R4sEJrlCm5N8l"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        },
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Paradise (feat. John Prine) - Live",
-      "url": "https://open.spotify.com/track/4kCZXaOyaoiRiDqi6aZxOu"
+      "duration_ms": 198373,
+      "name": "Boogie Woogie Country Man - Live",
+      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2291,34 +2287,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "First Time Live!",
-        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
+        "name": "Pam Tillis - Live in Nashville",
+        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
         }
       ],
-      "duration_ms": 178626,
-      "name": "No Show Jones - Live",
-      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
+      "duration_ms": 299840,
+      "name": "Maybe It Was Memphis - Live",
+      "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+        "name": "Circlin' Back - Celebrating 50 Years (Live)",
+        "url": "https://open.spotify.com/album/2Wjlh7SC5R4sEJrlCm5N8l"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Boogie Woogie Country Man - Live",
-      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
+      "duration_ms": 238106,
+      "name": "Paradise (feat. John Prine) - Live",
+      "url": "https://open.spotify.com/track/4kCZXaOyaoiRiDqi6aZxOu"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Pam Tillis - Live in Nashville",
-        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
+        "name": "First Time Live!",
+        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
       },
       "artists": [
         {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 299840,
-      "name": "Maybe It Was Memphis - Live",
-      "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
+      "duration_ms": 178626,
+      "name": "No Show Jones - Live",
+      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Life & Songs Of Kris Kristofferson (Live)",
-        "url": "https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7"
+        "name": "Queens Of Country Music Volume 1",
+        "url": "https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 188875,
-      "name": "If You Don't Like Hank Williams - Live",
-      "url": "https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh"
+      "duration_ms": 132133,
+      "name": "You Ain't Woman Enough",
+      "url": "https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2515,18 +2515,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Queens Of Country Music Volume 1",
-        "url": "https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg"
+        "name": "The Life & Songs Of Kris Kristofferson (Live)",
+        "url": "https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 132133,
-      "name": "You Ain't Woman Enough",
-      "url": "https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C"
+      "duration_ms": 188875,
+      "name": "If You Don't Like Hank Williams - Live",
+      "url": "https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh"
     }
   ],
   "unique_name": "Legendary Country Live",

@@ -400,10 +400,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
+    },
+    {
+      "album": {
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/6AFcMCYJfdAI9vO3YJ6wn8"
+      },
+      "artists": [
+        {
+          "name": "Randee Campers",
+          "url": "https://open.spotify.com/artist/3XrwocEZ2D4EkmynAMtw5y"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/78jwadUWHHsIXYoZtL9kpK"
     },
     {
       "album": {

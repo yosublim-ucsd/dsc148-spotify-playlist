@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 167608,
+  "num_followers": 167654,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2FmZmFmNmJhMzUzMWU5ZDQ1YWJkZWY1OWMwNzg5OGRiY2YzZDJh",
+  "snapshot_id": "MCw0MzNjNDg4ODgxYzU5ZDg2NzVkZTlmN2JhMDI0NTI4ZTA3YjdjNGYx",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 168974,
+      "name": "Alante Alante",
+      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Mateo 10:16",
         "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Pura Alegr\u00eda",
         "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "DTOX",
-        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
         }
       ],
-      "duration_ms": 168974,
-      "name": "Alante Alante",
-      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Relevantes",
         "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
@@ -1791,22 +1811,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
       "artists": [
         {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         },
         {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1839,26 +1859,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Flow Cristiano",
         "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+        "name": "Un Call",
+        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
       },
       "artists": [
         {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
         }
       ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+      "duration_ms": 214400,
+      "name": "Un Call",
+      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1911,22 +1915,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Un Call",
-        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
       "artists": [
         {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Un Call",
-      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",

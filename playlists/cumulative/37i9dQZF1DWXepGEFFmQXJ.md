@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-371 songs - 20 hr 19 min
+372 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2022-01-21 | 2022-06-03 |
 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 | 2023-06-08 |  |
 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 | 2022-12-15 | 2023-06-09 |
+| [Jaw Dropping](https://open.spotify.com/track/50Fkawtaa85Ww338YRXXNM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Jaw Dropping](https://open.spotify.com/album/7tA205mt3I1CSyQkRQJY0d) | 2:59 | 2023-06-08 |  |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-30 | 2022-03-18 |
 | [Just The Way](https://open.spotify.com/track/5ByWjQPF4aC93uP03xG3oW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Just The Way](https://open.spotify.com/album/4KuMPfCBtOZLnj6hNew6ZW) | 3:10 | 2022-10-20 | 2023-03-25 |
 | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/track/4K3yNCPmLL8pRffpLBJkLR) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/album/1dVViRBF5dPVKNeCuicN4T) | 3:13 | 2021-12-30 | 2022-03-05 |

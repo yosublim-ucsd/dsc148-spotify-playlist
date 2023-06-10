@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-269 songs - 16 hr 48 min
+270 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-29 |  |
 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 | 2022-11-21 |  |
 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 | 2021-10-29 | 2022-06-29 |
-| [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-10-29 |  |
+| [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-10-29 | 2023-06-10 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-10-29 |  |
 | [Olivia](https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 3:53 | 2022-04-15 |  |
 | [Olivia](https://open.spotify.com/track/75ATxsSO6V87RSR4UXLj2G) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/51c0ZqXWp5SfKOeyLK3Vg5) | 3:53 | 2021-10-29 | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [Standing in the Doorway](https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc) | 2:37 | 2022-10-07 | 2023-02-03 |
 | [Standing in the Doorway](https://open.spotify.com/track/7oYPCRpV3oPCl2fJ2Gud71) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/6u26KQYzo46ySO2qT9CEZA) | 2:37 | 2022-04-15 | 2022-04-19 |
 | [Stanley Park](https://open.spotify.com/track/0SWNotmLvAsYVMQSDJsRk8) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 2:50 | 2022-04-15 | 2022-04-21 |
+| [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 | 2023-06-09 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-07 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-10-29 | 2022-10-23 |
 | [Summertime Whiskey](https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Summertime Whiskey](https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH) | 2:59 | 2023-03-17 | 2023-05-23 |

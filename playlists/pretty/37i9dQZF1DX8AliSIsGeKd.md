@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stephan Jolk, braev
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,751 likes - 88 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,995 likes - 88 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 |
 | 5 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 |
 | 6 | [Extinction Event](https://open.spotify.com/track/03U5EKjtVErAGdcrKseydv) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Extinction Event](https://open.spotify.com/album/1KzIwCByCBbcazAu9OGPI3) | 6:01 |
-| 7 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
+| 7 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 8 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 | 9 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
 | 10 | [Not As I](https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Not As I](https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr) | 3:38 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 |
 | 88 | [Ice Cream](https://open.spotify.com/track/2ftIFydkGPlHv982KWiyHf) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Ice Cream](https://open.spotify.com/album/6zUXUOaZwotqGoI7OvTYdx) | 5:05 |
 
-Snapshot ID: `MCwwYzdiZTUxNjkxZTc4ZmZkODQ1NWRjNjM2NGYxYWQxYTk5ZjYyNjAw`
+Snapshot ID: `MCwyYmVhZjRmMDBkMmQyNTc4NTliMWZlMjc0YzE1OGE5NWE4OTE1YTcz`

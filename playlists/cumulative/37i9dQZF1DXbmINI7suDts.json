@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Pearl Of Africa, Vol. 2",
+        "url": "https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH"
+      },
+      "artists": [
+        {
+          "name": "Tungi",
+          "url": "https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170502,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU"
+    },
+    {
+      "album": {
         "name": "Mountains of the Moon",
         "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
       },
@@ -218,6 +236,28 @@
       "duration_ms": 197068,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
+    },
+    {
+      "album": {
+        "name": "Call Me Crazy",
+        "url": "https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ"
+      },
+      "artists": [
+        {
+          "name": "The Goddess Lawino",
+          "url": "https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj"
+        },
+        {
+          "name": "Nsokwa",
+          "url": "https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189411,
+      "name": "Call Me Crazy",
+      "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
     },
     {
       "album": {
@@ -648,7 +688,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233560,
       "name": "Kukaliba",
       "url": "https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr"
@@ -1144,7 +1184,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 251034,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U"
@@ -1214,7 +1254,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156030,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY"
@@ -1542,6 +1582,28 @@
       "duration_ms": 203870,
       "name": "Uber Guy.",
       "url": "https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ"
+    },
+    {
+      "album": {
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX"
+      },
+      "artists": [
+        {
+          "name": "peeta",
+          "url": "https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI"
+        },
+        {
+          "name": "sanyu!",
+          "url": "https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174367,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT"
     },
     {
       "album": {

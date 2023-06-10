@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,265 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,240 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 50 | [Polvo](https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Polvo](https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB) | 3:31 |
 | 51 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
 | 52 | [Jolie nana](https://open.spotify.com/track/65RWVU6N81CeH65nu52K1U) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 2:27 |
-| 53 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
-| 54 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
+| 53 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
+| 54 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
 | 55 | [Don Don](https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [Don Don](https://open.spotify.com/album/5xBO97P4jYEn69VzV06503) | 4:35 |
 | 56 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 |
 | 57 | [Más De La Una](https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Más De La Una](https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9) | 3:56 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 60 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
 | 61 | [Sunshine](https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Sunshine](https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF) | 3:03 |
 | 62 | [YES! \(feat\. Rich The Kid & K CAMP\)](https://open.spotify.com/track/2XeMW0BNHdAbXVRZ3C1D09) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [See You When I am Famous!!!!!!!!!!!!](https://open.spotify.com/album/3AlnhGxi6Mdfe0ndoTwKSj) | 3:14 |
-| 63 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 |
-| 64 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
+| 63 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
+| 64 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 |
 | 65 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 66 | [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 |
 | 67 | [Favela](https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Favela](https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [La fiesta](https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [La fiesta](https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp) | 3:32 |
 | 100 | [POTINHO](https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [POTINHO](https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7) | 2:57 |
 
-Snapshot ID: `MCw5Yzc0MWYwNTgzZGI3ZDk1YWIzZDFiZjNjNzgyNDUyMjEyMTBiYzY0`
+Snapshot ID: `MCwyMjI3ZWU5YzY5YmU0YWJiOTc0ZjY4YmIzODViNjM4ZTRkZjM3MmIz`

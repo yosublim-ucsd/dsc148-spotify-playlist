@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 26558,
+  "num_followers": 26563,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGZjZDczODUxYjFhZDlhOGY3ZjY0MjczNmQ4NGIxZjVmOTA5ZDll",
+  "snapshot_id": "MCwzOTA3OGUzYmFhM2I2YzliMDhjNTFmMmU2M2RiMTgyZjYzYzc3ZDg1",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "snooze",
-        "url": "https://open.spotify.com/album/7bBMH6oTsYRZkL1pr2HwEy"
-      },
-      "artists": [
-        {
-          "name": "liska",
-          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
-        }
-      ],
-      "duration_ms": 97970,
-      "name": "snooze",
-      "url": "https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Die fr\u00fchen Jahre",
         "url": "https://open.spotify.com/album/250anWITcrgT8EeUOudi2A"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223508,
       "name": "Die fr\u00fchen Jahre",
       "url": "https://open.spotify.com/track/0ZQVtF9HsJXfpWX3P8Ba9C"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "snooze",
+        "url": "https://open.spotify.com/album/7bBMH6oTsYRZkL1pr2HwEy"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "duration_ms": 97970,
+      "name": "snooze",
+      "url": "https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Too Late To Move On",
-        "url": "https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii"
-      },
-      "artists": [
-        {
-          "name": "Lahra",
-          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
-        }
-      ],
-      "duration_ms": 151472,
-      "name": "Too Late To Move On",
-      "url": "https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+        "name": "Too Late To Move On",
+        "url": "https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Lahra",
+          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
+      "duration_ms": 151472,
+      "name": "Too Late To Move On",
+      "url": "https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Polly Pocket",
-        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
       "artists": [
         {
-          "name": "Nya Polo",
-          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 169917,
-      "name": "Polly Pocket",
-      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
+      "duration_ms": 201600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -411,6 +395,22 @@
       "duration_ms": 165692,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Polly Pocket",
+        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
+      },
+      "artists": [
+        {
+          "name": "Nya Polo",
+          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "Polly Pocket",
+      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
     },
     {
       "added_at": "2023-06-06 22:00:00",

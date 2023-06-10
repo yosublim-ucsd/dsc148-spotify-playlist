@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-370 songs - 14 hr 24 min
+371 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Equinox](https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 3:02 | 2022-06-03 | 2022-09-03 |
 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 | 2022-05-27 |  |
 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 | 2023-04-13 |  |
-| [everything i once held dear](https://open.spotify.com/track/1MUFBNIJtbTomAOxJxE9kJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/5Tj11EgWn90NjKqGiwMtyC) | 2:51 | 2023-06-06 |  |
+| [everything i once held dear](https://open.spotify.com/track/0AbLFT7RZYVEzMZrNUW9cJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/1AEPJ4sbvSlYqjYFzkEF33) | 2:51 | 2023-06-06 |  |
+| [everything i once held dear](https://open.spotify.com/track/1MUFBNIJtbTomAOxJxE9kJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/5Tj11EgWn90NjKqGiwMtyC) | 2:51 | 2023-06-06 | 2023-06-10 |
 | [Face](https://open.spotify.com/track/06oKp6UTshj7081DDthQXg) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Days Of Yore](https://open.spotify.com/album/0s6u4pNR4KPehvx5QyekDj) | 2:36 | 2023-04-13 |  |
 | [Face](https://open.spotify.com/track/6cVR8d5JBwANwCUNr9Dk49) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Face](https://open.spotify.com/album/2oSelUMgjI9HcpPabP204o) | 2:36 | 2022-10-28 | 2023-04-14 |
 | [Fading](https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Fading](https://open.spotify.com/album/3dzs7o0stX20Z105dG4Ffh) | 1:57 | 2022-07-08 |  |

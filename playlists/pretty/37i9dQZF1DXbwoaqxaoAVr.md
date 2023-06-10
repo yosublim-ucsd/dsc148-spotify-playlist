@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,634 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,092 likes - 65 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 29 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 |
 | 30 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
 | 31 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
-| 32 | [Things You Can't Control](https://open.spotify.com/track/5UjEmU8sBAJEr1q34eHqc4) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:04 |
+| 32 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 |
 | 33 | [When She Loves](https://open.spotify.com/track/3D0l2V3pDLXoHV9Xmdoku1) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [When She Loves](https://open.spotify.com/album/2VtfSz5SWUFElw171LLCpC) | 3:52 |
 | 34 | [As You Are \- Shy FX Remix](https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [As You Are \(Remixes\)](https://open.spotify.com/album/5jl3bZodIYwlQKAolggKyG) | 3:25 |
 | 35 | [Proper Sensi](https://open.spotify.com/track/4Ga9D6SHCVUNsOLPVSZf9v) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Mr\. Patze](https://open.spotify.com/artist/2YQacuu8Y0C0iXXA4z7k25), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [Proper Sensi](https://open.spotify.com/album/34Kn8UzygYGV7N5fEAMd4V) | 3:03 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 |
 | 65 | [Magic Potion \(feat\. Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCwwOTM4NDljMjQ0YjkxMTQ1YTExNGZiNGM1NWMyNjM4Y2RmYjk3NjZl`
+Snapshot ID: `MCwzOTZkYTEyMWY2NzRkZTAwZWM4ODRlN2JjZjNjZTRlZjQ0ZTg2MWM2`

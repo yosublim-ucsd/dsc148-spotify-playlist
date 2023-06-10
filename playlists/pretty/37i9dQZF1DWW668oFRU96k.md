@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,051 likes - 71 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,085 likes - 71 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
-| 2 | [0800 HEAVEN](https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q) | 2:39 |
+| 2 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
 | 3 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 4 | [The Veldt Cinema \- BYNX Edit](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [The Veldt Cinema \(BYNX Edit\)](https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg) | 4:37 |
 | 5 | [Overtaking \- Sped Up](https://open.spotify.com/track/32KM7l0V7IEoovsAaFvQ1B) | [Nawrras Music](https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y), [Speed Up Unlimited](https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95) | [Overtaking \(Sped Up\)](https://open.spotify.com/album/59y9UW6YoN6xfbaiuc08AB) | 2:27 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 70 | [Direction](https://open.spotify.com/track/1Ey4xZ7DQywyL5LshrK9e4) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [KEYTO](https://open.spotify.com/artist/5PsU7pGqDwfuI7RWNblSGz) | [Direction](https://open.spotify.com/album/4tmUzN1n52w8S8kl76VelO) | 2:23 |
 | 71 | [Nothing Is Impossible](https://open.spotify.com/track/2i1E64sU5T7b3BN6PKPQJV) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [Nothing Is Impossible](https://open.spotify.com/album/5qJrFWDXOrjgvhV2zMpdge) | 2:53 |
 
-Snapshot ID: `MCxmNDM3YzEwNzllNjMwY2NiZGIyYTAzYzdiYjdjZjFiN2FkNjY0MGE5`
+Snapshot ID: `MCw5OTZmZGZjMGZiYzFlOGIxNDVmMWVhNTMxOGQ3MTJiMzAwYzMzZDZk`

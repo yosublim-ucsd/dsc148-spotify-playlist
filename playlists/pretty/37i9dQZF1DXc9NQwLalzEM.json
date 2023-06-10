@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 182072,
+  "num_followers": 182129,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU5Mzk3YjVjMDM1YmUyYTNlM2ZlOTU3ZjY0MjE3ZjYxYjBmYmU2",
+  "snapshot_id": "MCxlYmE5Mjk2Y2UxNjE3NzQ4ODUxNjk2M2I0N2ViMGIxZWQ1ODc5ZjQy",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "You Can Count On Me",
+        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
+      },
+      "artists": [
+        {
+          "name": "Mel Carter",
+          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "You Can Count On Me",
-        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
-      },
-      "artists": [
-        {
-          "name": "Mel Carter",
-          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Million to One",
-        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4tsJKKiJ4OWdMiMzFZEjvD"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Carnival \"Soul\" Classics, Volume 5",
         "url": "https://open.spotify.com/album/4Fj06KTSUMQ9svgLuTMd7v"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 170906,
       "name": "Please Say It Isn't So",
       "url": "https://open.spotify.com/track/5cx2WKUpSohEmny0XUqvfe"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Million to One",
+        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4tsJKKiJ4OWdMiMzFZEjvD"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Very Best Of The Velvelettes",
-        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
-      },
-      "artists": [
-        {
-          "name": "The Velvelettes",
-          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "A Bird In The Hand (Is Worth Two In The Bush) - Single Version",
-      "url": "https://open.spotify.com/track/6i9rWD8JX0agZcvZIX6K2B"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 244973,
       "name": "Free Love",
       "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Very Best Of The Velvelettes",
+        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
+      },
+      "artists": [
+        {
+          "name": "The Velvelettes",
+          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "A Bird In The Hand (Is Worth Two In The Bush) - Single Version",
+      "url": "https://open.spotify.com/track/6i9rWD8JX0agZcvZIX6K2B"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "If You Ever Get Your Hands On Love",
+      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 258893,
       "name": "I Love You Secretly",
       "url": "https://open.spotify.com/track/1JyKnipwxepbTo7OeqqO17"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "If You Ever Get Your Hands On Love",
-      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Yes I'm Ready",
-        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Keep Him",
-      "url": "https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
         "url": "https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 176053,
       "name": "Let's Prove Them Wrong",
       "url": "https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Yes I'm Ready",
+        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Keep Him",
+      "url": "https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
-        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
-      },
-      "artists": [
-        {
-          "name": "Debbie Dean",
-          "url": "https://open.spotify.com/artist/44YS4M6s942DQS2siuZda8"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "But I'm Afraid - Single Version",
-      "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Soul Survivors",
         "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 201533,
       "name": "City of Brotherly Love",
       "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
+        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
+      },
+      "artists": [
+        {
+          "name": "Debbie Dean",
+          "url": "https://open.spotify.com/artist/44YS4M6s942DQS2siuZda8"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "But I'm Afraid - Single Version",
+      "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The Complete Motown Singles Vol. 4: 1964",
         "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 166133,
       "name": "Fire - Mono Single",
       "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 274920,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "The Softones",
+        "url": "https://open.spotify.com/album/7D7eaBi0PcvV9QNHD934ah"
+      },
+      "artists": [
+        {
+          "name": "The Softones",
+          "url": "https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas"
+        }
+      ],
+      "duration_ms": 196288,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/7iVAuA7QEb2nkVkYZ55a0q"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
         "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 164324,
       "name": "Hi-Lili - Hi-Lo",
       "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "The Softones",
-        "url": "https://open.spotify.com/album/7D7eaBi0PcvV9QNHD934ah"
-      },
-      "artists": [
-        {
-          "name": "The Softones",
-          "url": "https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas"
-        }
-      ],
-      "duration_ms": 196288,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/7iVAuA7QEb2nkVkYZ55a0q"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown! (Vol. 2)",
-        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
-      },
-      "artists": [
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 175186,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased: 1966",
         "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 137077,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown! (Vol. 2)",
+        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
+      },
+      "artists": [
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
-        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
+        "name": "Plenty Good Eaton",
+        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
       },
       "artists": [
         {
-          "name": "Freddie Gorman",
-          "url": "https://open.spotify.com/artist/7LxrgCPgLkN8IBNGOixaho"
+          "name": "Cleveland Eaton",
+          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
         }
       ],
-      "duration_ms": 141333,
-      "name": "The Day Will Come - Single Version",
-      "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
+      "duration_ms": 445320,
+      "name": "Are You out There Somewhere Caring",
+      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Plenty Good Eaton",
-        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
+        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
+        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
       "artists": [
         {
-          "name": "Cleveland Eaton",
-          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
+          "name": "Freddie Gorman",
+          "url": "https://open.spotify.com/artist/7LxrgCPgLkN8IBNGOixaho"
         }
       ],
-      "duration_ms": 445320,
-      "name": "Are You out There Somewhere Caring",
-      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
+      "duration_ms": 141333,
+      "name": "The Day Will Come - Single Version",
+      "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
     },
     {
       "added_at": "2022-05-11 12:29:38",

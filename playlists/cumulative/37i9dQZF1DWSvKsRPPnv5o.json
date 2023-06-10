@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Bout That",
+        "url": "https://open.spotify.com/album/1m40pB2LxXBiWmfVoJI5Hp"
+      },
+      "artists": [
+        {
+          "name": "Frostydasnowmann",
+          "url": "https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l"
+        },
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Bout That",
+      "url": "https://open.spotify.com/track/4DnUESBaSNsZfChXEGgsUH"
+    },
+    {
+      "album": {
         "name": "Underground Legend",
         "url": "https://open.spotify.com/album/0FP09RanTsINgiZWyXo12x"
       },
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167040,
       "name": "Burner Phonez",
       "url": "https://open.spotify.com/track/0Ww40y0FNM9Km8B9x0GOrl"
@@ -4718,7 +4740,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187461,
       "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
       "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
@@ -5158,7 +5180,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147778,
       "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
       "url": "https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI"
@@ -5702,7 +5724,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215370,
       "name": "Money & Problems (feat. Lil Travieso, MoneySign Suede",
       "url": "https://open.spotify.com/track/4ujNiMAoKAynSHgyoqa5PQ"
@@ -6434,6 +6456,24 @@
       "duration_ms": 133717,
       "name": "Numero Uno",
       "url": "https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4"
+    },
+    {
+      "album": {
+        "name": "Nuthin 2 Krazy",
+        "url": "https://open.spotify.com/album/7neAV7PNhgvMmDypWC4vYQ"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Nuthin 2 Krazy",
+      "url": "https://open.spotify.com/track/6b0ENlBpO9z9fcHiDO2Q84"
     },
     {
       "album": {
@@ -8693,6 +8733,28 @@
     },
     {
       "album": {
+        "name": "The Hillbillies",
+        "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "The Hillbillies",
+      "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "album": {
         "name": "Rather Rich Than Famous",
         "url": "https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l"
       },
@@ -9216,6 +9278,32 @@
       "duration_ms": 163321,
       "name": "Weight Up",
       "url": "https://open.spotify.com/track/4tJxfbb3rUke8lbQ2BDIRO"
+    },
+    {
+      "album": {
+        "name": "West Coast Weekend",
+        "url": "https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "West Coast Weekend",
+      "url": "https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4"
     },
     {
       "album": {

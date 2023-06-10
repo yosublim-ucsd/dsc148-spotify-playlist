@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Flash Volta",
+        "url": "https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Flash Volta",
+      "url": "https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB"
+    },
+    {
+      "album": {
         "name": "Fofoca",
         "url": "https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh"
       },
@@ -3040,10 +3062,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160967,
       "name": "Ponto de Brasa",
       "url": "https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf"
+    },
+    {
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160967,
+      "name": "Ponto de Brasa",
+      "url": "https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE"
     },
     {
       "album": {

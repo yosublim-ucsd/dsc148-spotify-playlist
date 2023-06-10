@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 994651,
+  "num_followers": 994836,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTcwMTNjOWJiNjg5MjIyMTVlYzYyMzVlNjAyN2JkZmY5NDIxYTYy",
+  "snapshot_id": "MCwxMzliNmE0NDVjMzAxNDFhZWI2NDM3OTFmYjFkMTdjYjQ5NzJkYTc0",
   "tracks": [
     {
       "added_at": "2023-06-08 09:19:04",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-06-08 09:19:04",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 154360,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
     },
     {
       "added_at": "2023-06-08 09:19:04",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-06-08 09:19:04",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
         }
       ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
+      "duration_ms": 154360,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
     },
     {
       "added_at": "2023-06-08 09:19:04",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-08 09:19:04",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
-      },
-      "artists": [
-        {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
-    },
-    {
-      "added_at": "2023-06-08 09:19:04",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 154906,
       "name": "Recipe For Love",
       "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+    },
+    {
+      "added_at": "2023-06-08 09:19:04",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+      },
+      "artists": [
+        {
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-06-08 09:19:04",

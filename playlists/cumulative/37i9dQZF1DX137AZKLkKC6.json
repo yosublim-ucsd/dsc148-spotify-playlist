@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Jessi Uribe y Alejandro Fern\u00e1ndez",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Arelys Henao y Fanny Lu",
   "name": "La + Popular",
   "tracks": [
     {
@@ -1269,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Hasta La Madre",
+        "url": "https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158160,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF"
+    },
+    {
+      "album": {
         "name": "Jur\u00e9",
         "url": "https://open.spotify.com/album/5XxFlKVLOFkklkz1NgyeyX"
       },
@@ -2111,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Pacto De Olvido",
+        "url": "https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156620,
+      "name": "Pacto De Olvido",
+      "url": "https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B"
+    },
+    {
+      "album": {
         "name": "Pasado Pisado",
         "url": "https://open.spotify.com/album/5sc1umOiGXOncvv3oSj3p8"
       },
@@ -2202,7 +2246,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 219034,
       "name": "Preg\u00fantale Por Qui\u00e9n Llora",
       "url": "https://open.spotify.com/track/4MZrruknp5UrZ6kzBg2e4s"
@@ -2308,7 +2352,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"

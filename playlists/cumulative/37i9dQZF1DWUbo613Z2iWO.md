@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: No Guidnce
+> R&B of the moment by the artists of the future\. Cover: Maeta
 
-599 songs - 1 day 6 hr 56 min
+602 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 | 2022-06-03 | 2022-11-12 |
 | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/track/18MXCyUdrs0LFmEcuneOPL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/album/5jr9iXRLsDgW434mGuzOFt) | 3:12 | 2022-03-25 | 2022-05-07 |
 | [Put You On](https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:46 | 2023-01-20 | 2023-05-06 |
+| [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-06-09 |  |
 | [Racing Home](https://open.spotify.com/track/0iUtGIaO5gGI10zPD5qkh4) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Racing Home](https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi) | 2:23 | 2022-10-28 | 2023-01-21 |
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2022-03-05 | 2022-04-09 |
 | [Real Love](https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [We're Gonna Be Just Fine](https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM) | 3:09 | 2022-07-15 | 2022-10-08 |
@@ -458,7 +459,7 @@
 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-11-11 | 2023-01-21 |
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-13 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-20 |  |
-| [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 |  |
+| [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 | 2023-06-10 |
 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 | 2022-03-11 | 2022-04-02 |
 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 |  |
 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 | 2022-11-04 | 2023-01-21 |
@@ -507,6 +508,7 @@
 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 | 2022-11-27 | 2022-12-03 |
 | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/album/7KgCXOGLEYj6Hd8tDZSBoK) | 3:10 | 2022-10-14 | 2023-01-21 |
 | [Summer Break](https://open.spotify.com/track/6aUCmkTCcaGcYOQQEBeaPz) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Summer Break](https://open.spotify.com/album/4HRrCMzQ5EVttVf3GM0rbY) | 1:57 | 2022-02-18 | 2022-03-26 |
+| [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summer's Gone](https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 3:21 | 2022-05-20 | 2022-08-13 |
 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 | 2022-11-27 | 2022-12-03 |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-07-15 | 2022-10-08 |
@@ -563,6 +565,7 @@
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-05-27 |
 | [Unless](https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Unless](https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague) | 1:36 | 2022-07-22 | 2022-08-27 |
 | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw) | 2:27 | 2021-12-15 | 2022-03-06 |
+| [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-09 |  |
 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2023-01-21 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 | 2023-03-24 |  |
 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 | 2022-10-28 | 2023-01-21 |

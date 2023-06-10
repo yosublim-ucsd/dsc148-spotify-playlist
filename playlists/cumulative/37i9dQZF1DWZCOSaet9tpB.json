@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=XQUtK80YSiSWJJUPUeW7TA\"> Burna Boy </a>  ",
+  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=IO_aeUFrRqa9eN8XsXlG0w\"> Tiwa Savage </a>  ",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183349,
       "name": "All Of Us (Ashawo)",
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196725,
       "name": "Blessings (feat. Wizkid & Gimba)",
       "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
@@ -1012,6 +1012,32 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
+        "name": "Feel Different",
+        "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Feel Different",
+      "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
     },
     {
       "album": {
@@ -2310,6 +2336,24 @@
       "duration_ms": 184077,
       "name": "Picanto",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
     },
     {
       "album": {

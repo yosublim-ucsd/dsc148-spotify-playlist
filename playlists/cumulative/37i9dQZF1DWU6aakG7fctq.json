@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Los Aptos",
+  "description": "Fresh Latin Indie. Cover: Sof\u00eda Vald\u00e9s",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203048,
       "name": "Love Con Espacio",
       "url": "https://open.spotify.com/track/4hqll5UMqiiwwJDZxjJLjk"
@@ -3872,6 +3872,24 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "album": {
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "album": {
@@ -4290,6 +4308,24 @@
       "duration_ms": 161617,
       "name": "NI\u00d1O ETERNO",
       "url": "https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB"
+    },
+    {
+      "album": {
+        "name": "no puedo decir que no (no regrets)",
+        "url": "https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL"
+      },
+      "artists": [
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213312,
+      "name": "no puedo decir que no (no regrets)",
+      "url": "https://open.spotify.com/track/50sLVKctDmmJ9LRDUMjXEC"
     },
     {
       "album": {
@@ -4968,7 +5004,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"

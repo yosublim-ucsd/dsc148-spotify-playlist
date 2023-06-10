@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Trixie Mattel
 
-785 songs - 1 day 18 hr 55 min
+789 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [I Want It All](https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [I Want It All](https://open.spotify.com/album/3GwSedcMHVElOaF9Wm5Tqx) | 3:12 | 2023-01-24 | 2023-03-08 |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-11-30 | 2023-01-25 |
 | [I'll Answer \(i love you mom\)](https://open.spotify.com/track/3uyoqx222UxlCRhl3uYvs4) | [Emma Oliver](https://open.spotify.com/artist/7KUmMAnwfGBOs77ReTZJte) | [I'll Answer \(i love you mom\)](https://open.spotify.com/album/42kB1RW9zTC5gHCpyjKvXn) | 3:05 | 2021-12-17 | 2022-01-29 |
+| [i'm gonna make it](https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [i'm gonna make it](https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG) | 3:17 | 2023-06-09 |  |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-27 | 2023-02-07 |
 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-06-01 |  |
 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 | 2022-07-31 | 2022-12-01 |
@@ -449,6 +450,7 @@
 | [Love Will Be Waiting](https://open.spotify.com/track/1ZQc5Dr7qom1s24yK1hFDi) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Descendant](https://open.spotify.com/album/7HOSBjQWciwUIq4qrtpCC5) | 4:32 | 2022-01-28 | 2022-05-23 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-08-20 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2022-12-01 |
+| [Loverboy \- Edit](https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Loverboy](https://open.spotify.com/album/27VAEEobniUQcVmXr07hsO) | 3:57 | 2023-06-09 |  |
 | [Lovers in a Dangerous Time](https://open.spotify.com/track/6QIWyZ2sME9IscgAzdWWP6) | [T\. Thomason](https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg) | [Lovers in a Dangerous Time](https://open.spotify.com/album/7FP0qv5ekpPzDJQqvreVBR) | 4:20 | 2021-12-17 | 2021-12-22 |
 | [Low](https://open.spotify.com/track/1C8VLUNepeMIhjxlMSCz0P) | [Ash Olsen](https://open.spotify.com/artist/0ttXrMwLh27nHwox4z8BYx) | [Low](https://open.spotify.com/album/7l0cITf5M77fcT2Bdb6z1h) | 2:10 | 2023-03-07 | 2023-04-01 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-03-07 | 2023-04-01 |
@@ -477,6 +479,7 @@
 | [Milkshake](https://open.spotify.com/track/1GCs3hjUGbMzN4peQHQK6h) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Milkshake](https://open.spotify.com/album/6NZ8uQgTG7RUThbZc89sDm) | 2:29 | 2023-01-24 | 2023-03-08 |
 | [miss andry](https://open.spotify.com/track/7hjshmUQ2KM8FYXHWn9MiG) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [everyone has a breaking point](https://open.spotify.com/album/4P6oouog9L3TdAYcMjfa2z) | 4:23 | 2023-03-31 | 2023-04-14 |
 | [miss u](https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [miss u](https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz) | 2:30 | 2023-06-01 |  |
+| [Mistaken](https://open.spotify.com/track/4ZyRYtZMC8poztvj0KpgFK) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Mistaken](https://open.spotify.com/album/7z0iJ4V7BpiReJTnwdJyHr) | 2:39 | 2023-06-09 |  |
 | [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 | 2022-09-09 | 2023-01-25 |
 | [Moment](https://open.spotify.com/track/1ra3LsbQiW7eGJLxRhiwVq) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Moment](https://open.spotify.com/album/0LLMGuXgV7YPLyeXyshnPj) | 2:39 | 2023-06-01 |  |
 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 | 2023-01-24 | 2023-04-01 |
@@ -575,6 +578,7 @@
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-10-07 | 2022-11-27 |
 | [Queer](https://open.spotify.com/track/5urhxXrAA3lyKucdA2Cm5M) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Queer](https://open.spotify.com/album/0EGnKQXRLo0xW5KuxrYwLS) | 3:30 | 2022-01-21 | 2022-07-26 |
 | [Queer](https://open.spotify.com/track/6nmuvquxXkrkBucbxpQ8Wo) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [kick iiii](https://open.spotify.com/album/3B2AK06ZiCvuZz0VPRvAF9) | 3:30 | 2022-11-30 | 2023-01-25 |
+| [Queer Lover](https://open.spotify.com/track/3qMzLvNE4c6eLCjimguK3Y) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV) | [Queer Lover](https://open.spotify.com/album/4KbPQ0i9FhiCQj8LoVRQDj) | 2:34 | 2023-06-09 |  |
 | [Queer Magic](https://open.spotify.com/track/7cfTsbuWeTwyXSBQSYuoFq) | [LEOPOLD](https://open.spotify.com/artist/2HitUvk40lssir4iFwElKb) | [Queer Magic](https://open.spotify.com/album/5jd4A8Wrl5ajaKd9s2CNcJ) | 2:45 | 2023-06-01 |  |
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-02-25 | 2022-04-21 |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2021-12-17 | 2022-07-29 |

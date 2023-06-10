@@ -1,12 +1,12 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 683406,
+  "num_followers": 683430,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGZlYzBkYmViODk0ZGRkN2M4YmIzYzg2YTQ5ZjZhYTljMDE1NzIw",
+  "snapshot_id": "MCwyZjY5ZmVjMmE5Y2E2OTc4NjA0NGYzYjIzYzUxNzNjZWZiY2FmNjA3",
   "tracks": [
     {
       "added_at": "2023-04-19 19:13:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Want It Again",
-      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
     },
     {
       "added_at": "2023-04-19 19:13:35",

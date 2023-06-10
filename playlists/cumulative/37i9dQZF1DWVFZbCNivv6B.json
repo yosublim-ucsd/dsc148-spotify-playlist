@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Desde Morrillo",
+        "url": "https://open.spotify.com/album/1wx8EH9jinYcU077sWfJuS"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Desde Morrillo",
+      "url": "https://open.spotify.com/track/7qB4tkVHLAx7dIHHi7JQnG"
+    },
+    {
+      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 258239,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL"
@@ -2164,6 +2182,24 @@
       "duration_ms": 154285,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/3ZXYMVZVoT6xUplGpMNlCH"
+    },
+    {
+      "album": {
+        "name": "El Profesor",
+        "url": "https://open.spotify.com/album/6069UytwCGPyx80oyoVlFU"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162084,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/1yMEWcVXwCXRH2rgtL3ZQs"
     },
     {
       "album": {
@@ -2450,6 +2486,24 @@
       "duration_ms": 147272,
       "name": "Estilolibre",
       "url": "https://open.spotify.com/track/5urWBmqFpzyWrG4OEuUhNp"
+    },
+    {
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
     },
     {
       "album": {
@@ -4507,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Nac\u00ed Para Ganar",
+        "url": "https://open.spotify.com/album/5PGB1jY5bnxqyHzLcA0oMf"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236923,
+      "name": "Nac\u00ed Para Ganar",
+      "url": "https://open.spotify.com/track/40bSwqRfI4nR1kYLSfFmNz"
+    },
+    {
+      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk"
       },
@@ -4610,7 +4682,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195000,
       "name": "No Conoce",
       "url": "https://open.spotify.com/track/00hsimDIZc9gGLQtldbmtA"
@@ -4984,7 +5056,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188000,
       "name": "Otra Bala",
       "url": "https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo"
@@ -5382,7 +5454,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186000,
       "name": "Plomo y Plata",
       "url": "https://open.spotify.com/track/7iJPXWF72xnwgsaadOHpnC"
@@ -7006,7 +7078,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 221084,
       "name": "Te Dej\u00e9 Volar",
       "url": "https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP"
@@ -7076,7 +7148,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 238285,
       "name": "Te Invito a Mi Barrio",
       "url": "https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6"

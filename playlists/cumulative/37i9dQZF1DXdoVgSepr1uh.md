@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Sael.
+> Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-186 songs - 8 hr 59 min
+187 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-22 |  |
 | [Una Copa](https://open.spotify.com/track/0m8vNCtnh1tjDba8yvKzox) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/65XAMVE0qjVlN9wcnpxKl7) | 2:21 | 2023-01-09 | 2023-01-13 |
 | [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 | 2023-01-09 |  |
+| [UNA GATA](https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [UNA GATA](https://open.spotify.com/album/5CJfj01zYIljBUYaYrCQRI) | 3:04 | 2023-06-09 |  |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2022-11-18 |  |
 | [Unfollow](https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Unfollow](https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB) | 3:16 | 2022-05-24 |  |
 | [Utopía](https://open.spotify.com/track/5jCeTPt24kvPb9WNL9uZFb) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [DOC](https://open.spotify.com/artist/0GR5HJ4Lo9rqVAqmewAODa) | [Utopía](https://open.spotify.com/album/76hcVFUJtbF7LyqN1hVDDa) | 2:30 | 2023-02-17 |  |

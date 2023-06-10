@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 32381,
+  "num_followers": 32481,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmNkZWJiYTdiYzI1ZDNmNmI5MzhiNWFkYzdhNTdlMTYyODVhMzFi",
+  "snapshot_id": "MCw5MWI0ZDE1YmFiNDc0ZTI4MzYxODExNTVjNDg5MjljNTg4MDNiOGJj",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      "duration_ms": 269493,
+      "name": "OMG (feat. will.i.am)",
+      "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -603,22 +607,18 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 269493,
-      "name": "OMG (feat. will.i.am)",
-      "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2023-02-28 16:56:35",

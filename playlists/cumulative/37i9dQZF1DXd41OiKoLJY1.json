@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Bakuna",
+        "url": "https://open.spotify.com/album/2Kgv0G1j9kmkoIi2ofxJ6J"
+      },
+      "artists": [
+        {
+          "name": "Ace P",
+          "url": "https://open.spotify.com/artist/5tfXFW91zvyONYtXu3ZPPT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139302,
+      "name": "Bakuna",
+      "url": "https://open.spotify.com/track/7zSJL66LTk1EgKbOJbrggG"
+    },
+    {
+      "album": {
         "name": "Balagtasan",
         "url": "https://open.spotify.com/album/5WY5BdFp3JwXZMrDYdrwJG"
       },
@@ -13043,6 +13061,24 @@
     },
     {
       "album": {
+        "name": "Love in Secret",
+        "url": "https://open.spotify.com/album/5i0uHLInRqy0Etc852jIYU"
+      },
+      "artists": [
+        {
+          "name": "SONGSONG",
+          "url": "https://open.spotify.com/artist/7ozOQ1wJbxrRUMJQI2ByUI"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230803,
+      "name": "Love in Secret",
+      "url": "https://open.spotify.com/track/2neoGnHcr29hzbjz0QJdXQ"
+    },
+    {
+      "album": {
         "name": "Love Issue",
         "url": "https://open.spotify.com/album/0zApfUTlNmwUoqteuXuSKG"
       },
@@ -16029,6 +16065,32 @@
     },
     {
       "album": {
+        "name": "One night",
+        "url": "https://open.spotify.com/album/0UxlTYP37ZWylyNBw44414"
+      },
+      "artists": [
+        {
+          "name": "King Murph",
+          "url": "https://open.spotify.com/artist/5GskChFEdkaoBxhzSQRKsG"
+        },
+        {
+          "name": "Fritzie",
+          "url": "https://open.spotify.com/artist/7gTIW4HEdX5UDO0gXyOGV4"
+        },
+        {
+          "name": "Lyka B",
+          "url": "https://open.spotify.com/artist/6yZkoXDZ5YHVXljE3GEdy6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "One night",
+      "url": "https://open.spotify.com/track/3KaVG6Ygzl8AGyQFpiNZTV"
+    },
+    {
+      "album": {
         "name": "one night",
         "url": "https://open.spotify.com/album/5vBPlwmu6SFQY7MjVAghFy"
       },
@@ -16540,8 +16602,8 @@
           "url": "https://open.spotify.com/artist/0qsIIhcRI6g5NxfBNTYCCV"
         },
         {
-          "name": "AMA",
-          "url": "https://open.spotify.com/artist/0Uwrb3bZBjMWDLU9WUheZm"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776"
         }
       ],
       "date_added": "2023-06-08",

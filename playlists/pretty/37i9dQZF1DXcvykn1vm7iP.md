@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,442 likes - 112 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,464 likes - 112 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 19 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
 | 20 | [Over the Horizon](https://open.spotify.com/track/0h5uLBhGtaEFZX1ZTYkuQ9) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Over the Horizon](https://open.spotify.com/album/34Gad1j2eOiyWFiTK2Wjwb) | 3:25 |
 | 21 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
-| 22 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
-| 23 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
-| 24 | [Consciente](https://open.spotify.com/track/2WQctSPwSYFGNUtPQ1I11y) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Consciente](https://open.spotify.com/album/4rm97IdWa90r7umlTVBsyb) | 2:34 |
-| 25 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
-| 26 | [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 |
+| 22 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
+| 23 | [Consciente](https://open.spotify.com/track/2WQctSPwSYFGNUtPQ1I11y) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Consciente](https://open.spotify.com/album/4rm97IdWa90r7umlTVBsyb) | 2:34 |
+| 24 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
+| 25 | [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 |
+| 26 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 |
 | 27 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 |
 | 28 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
 | 29 | [417 Hz Calma](https://open.spotify.com/track/7fgFpG7NkhCSHGE8HwPWRp) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 2:46 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 111 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 |
 | 112 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 |
 
-Snapshot ID: `MCw4MGUwZWY4YzJkYmMwNzliNmVjYTYxYjBkNDk5NzE3MjM2MjAxZmMy`
+Snapshot ID: `MCwyNmQxODQ3ZTM4ZDA5ODkzMDI3M2FiYjljNzk1YWYzNjZjMjBmMzFl`

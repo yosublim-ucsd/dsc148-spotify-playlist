@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 171672,
       "name": "Battle Scars",
       "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
         "name": "Children of The Dark",
         "url": "https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py"
       },
@@ -2802,6 +2820,28 @@
       "duration_ms": 129339,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/41RFlQraiq9x4bUZzyvN84"
+    },
+    {
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
+      },
+      "artists": [
+        {
+          "name": "Rozei",
+          "url": "https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156673,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
     },
     {
       "album": {
@@ -3488,7 +3528,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
@@ -3524,7 +3564,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
@@ -4644,6 +4684,24 @@
       "duration_ms": 179892,
       "name": "Ego",
       "url": "https://open.spotify.com/track/62u2cEk0jGGJaLrcMAd7AN"
+    },
+    {
+      "album": {
+        "name": "Elevated Heartbreak",
+        "url": "https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203596,
+      "name": "Elevated Heartbreak",
+      "url": "https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D"
     },
     {
       "album": {
@@ -7789,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "I KNOW BETTER",
+        "url": "https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249310,
+      "name": "I KNOW BETTER",
+      "url": "https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM"
+    },
+    {
+      "album": {
         "name": "I Lie To Me",
         "url": "https://open.spotify.com/album/01F35E1FtRdjpYzmyPl3d9"
       },
@@ -8028,6 +8104,24 @@
       "duration_ms": 206037,
       "name": "I.O.U\u2019s",
       "url": "https://open.spotify.com/track/6hHS1tNNcXdmdoL3fmBNSj"
+    },
+    {
+      "album": {
+        "name": "IDC AT ALL",
+        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "IDC AT ALL",
+      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
     },
     {
       "album": {
@@ -9395,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "LIKED U BETTER",
+        "url": "https://open.spotify.com/album/3x4FJNVhKCqmqpIbGsInlz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rosenstock",
+          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169832,
+      "name": "LIKED U BETTER",
+      "url": "https://open.spotify.com/track/5RxT0AN9dOEzqFTd9NHPsI"
+    },
+    {
+      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/4reLl4dzlU7xbYG1aNRlxN"
       },
@@ -9976,6 +10088,28 @@
       "duration_ms": 185882,
       "name": "Maniac (feat. Lindsey Stirling)",
       "url": "https://open.spotify.com/track/3UOvbXlfZ34xiN1y0Mrjh9"
+    },
+    {
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/3CGo2Y2wCqaSoOUCY06fWg"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161850,
+      "name": "Manic",
+      "url": "https://open.spotify.com/track/2ezTz7Az0j90HjRS4vlogZ"
     },
     {
       "album": {
@@ -11895,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "PARTY ON MY DEATHBED",
+        "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "PARTY ON MY DEATHBED",
+      "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
+    },
+    {
+      "album": {
         "name": "Partycrasher",
         "url": "https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo"
       },
@@ -12652,7 +12804,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 140792,
       "name": "Punkstar (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
@@ -13614,7 +13766,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172243,
       "name": "shame",
       "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
@@ -14664,7 +14816,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147259,
       "name": "St. Girlfriend",
       "url": "https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3"
@@ -15376,6 +15528,24 @@
       "duration_ms": 182953,
       "name": "THAT ONE SONG",
       "url": "https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20"
+    },
+    {
+      "album": {
+        "name": "THAT SUCKS!",
+        "url": "https://open.spotify.com/album/2CZCt0OJnQXrwFcWRRrje4"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "THAT SUCKS!",
+      "url": "https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz"
     },
     {
       "album": {
@@ -16806,7 +16976,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 121318,
       "name": "UNAPOLOGETIC",
       "url": "https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF"
@@ -18066,7 +18236,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 225838,
       "name": "Wyatt\u2019s Song (Your Name)",
       "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"

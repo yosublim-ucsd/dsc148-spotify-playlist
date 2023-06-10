@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 78814,
+  "num_followers": 78852,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGQ3MzlmOTI3OGQ0ODU1ZDFiODk1MGIzMDlkOTA2OWZmZDc1N2E3",
+  "snapshot_id": "MCw1NTJhM2ExMTgwMDE1OGZmNGM3YjBmNThhNGZjZDM3MDA2ZTU2NWE5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 151150,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Introspection Reimagined",
         "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213213,
       "name": "Pretty Girl Hi Reimagined",
       "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2023-05-26 04:00:00",

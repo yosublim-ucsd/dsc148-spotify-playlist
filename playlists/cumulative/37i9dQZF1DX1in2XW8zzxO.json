@@ -721,6 +721,36 @@
     },
     {
       "album": {
+        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "album": {
         "name": "The III Wise Men",
         "url": "https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB"
       },
@@ -2512,6 +2542,36 @@
       "duration_ms": 386043,
       "name": "Stolen Goods",
       "url": "https://open.spotify.com/track/2cZAgtMdUNsbrmS6wpSu8Q"
+    },
+    {
+      "album": {
+        "name": "SUKA",
+        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390033,
+      "name": "SUKA",
+      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
     },
     {
       "album": {

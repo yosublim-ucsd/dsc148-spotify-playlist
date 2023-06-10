@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Kim Petras & Paris Hilton",
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Slayyyter",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+    },
+    {
+      "album": {
         "name": "Barbiegurl",
         "url": "https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X"
       },
@@ -1202,7 +1224,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193381,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
@@ -1703,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+    },
+    {
+      "album": {
         "name": "Check Check",
         "url": "https://open.spotify.com/album/2cjrye5FaoK9ExMD1rwWa6"
       },
@@ -1790,7 +1830,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 109268,
       "name": "Club Cooter: Reloaded",
       "url": "https://open.spotify.com/track/10yIPIi5rLXQvIUReCA2Ps"
@@ -2621,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148083,
+      "name": "Don\u2019t Call Me",
+      "url": "https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD"
+    },
+    {
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
@@ -2654,6 +2712,24 @@
       "duration_ms": 165461,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
+    },
+    {
+      "album": {
+        "name": "Dramatic",
+        "url": "https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192689,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
     },
     {
       "album": {
@@ -3216,7 +3292,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 192072,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
@@ -4248,7 +4324,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177266,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064"
@@ -5030,7 +5106,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 159069,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa"
@@ -5350,6 +5426,24 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
+    },
+    {
+      "album": {
+        "name": "Let's Go MIA",
+        "url": "https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180877,
+      "name": "Let's Go MIA",
+      "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
     },
     {
       "album": {
@@ -6929,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/7fHa0ax9vb9EDVAuI3d8U5"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190835,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/7tlJGdzYF0qXmeyeqSA7dP"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -7078,6 +7190,28 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217792,
+      "name": "Phenomenal (feat. Doechii)",
+      "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
     },
     {
       "album": {
@@ -7270,6 +7404,24 @@
       "duration_ms": 202093,
       "name": "Prettier Than You",
       "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
+    },
+    {
+      "album": {
+        "name": "Pretty Devil",
+        "url": "https://open.spotify.com/album/0AqUF9uVkaZHuAGR55UDgi"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169325,
+      "name": "Pretty Devil",
+      "url": "https://open.spotify.com/track/5rLTJ0f8Gyvf96KhT3dz5I"
     },
     {
       "album": {
@@ -9058,7 +9210,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi"
@@ -9638,7 +9790,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 246306,
       "name": "Violet Chemistry",
       "url": "https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U"
@@ -9664,6 +9816,28 @@
       "duration_ms": 266693,
       "name": "Voices (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY"
+    },
+    {
+      "album": {
+        "name": "VULGAR (with Madonna)",
+        "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155258,
+      "name": "VULGAR (with Madonna)",
+      "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
     },
     {
       "album": {
@@ -9718,7 +9892,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
@@ -10114,10 +10288,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184000,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/6x5kF8c4zfkxK5LJT3FWrb"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 1",
+        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+      },
+      "artists": [
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
     },
     {
       "album": {

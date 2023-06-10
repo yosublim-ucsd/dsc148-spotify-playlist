@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 181007,
+  "num_followers": 181054,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjkyYzg5OTA5YjFiNTc2NDVlMTYxNDBmMDFhNzY2MDkyMTgwMjIx",
+  "snapshot_id": "MCwzMGViNzExNTQwODMxNzgzOGQxMTM4ZWViYjcxYTEwNzY4ODkyNGI3",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "We're All The Way",
         "url": "https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
       "artists": [
         {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -539,6 +523,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "The Women in Me",
         "url": "https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu"
       },
@@ -999,18 +983,34 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Buffy",
-        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 182626,
-      "name": "Buffy",
-      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     },
     {
       "added_at": "2023-06-08 22:01:00",

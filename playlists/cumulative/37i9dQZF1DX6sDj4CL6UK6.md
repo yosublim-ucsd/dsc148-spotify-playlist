@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Mali
 
-214 songs - 12 hr 26 min
+215 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 | 2022-03-25 | 2023-05-20 |
 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 | 2022-11-23 | 2023-05-23 |
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-19 | 2023-05-24 |
-| [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 |  |
+| [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 | 2023-06-10 |
 | [Bang Bang](https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Bang Bang](https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp) | 3:03 | 2022-11-17 | 2023-01-18 |
 | [Beautiful Day](https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Beautiful Day](https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I) | 3:36 | 2022-03-25 | 2022-06-30 |
 | [Believe](https://open.spotify.com/track/0HVGQkCRvHXMPep4s59qfm) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Believe](https://open.spotify.com/album/4PAchG7DoFJpjdKR0uKi61) | 4:07 | 2022-07-29 | 2023-01-13 |
@@ -209,7 +209,7 @@
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 | 2023-03-18 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-03-25 |  |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-25 | 2023-01-18 |
-| [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-24 |  |
+| [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-24 |  |
 | [Void](https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc) | [Aanchal Bordoloi](https://open.spotify.com/artist/69JXumQlC6KoLNevtXerF1), [Sanketh](https://open.spotify.com/artist/7qNrYaYetKPxHFlAX727BB) | [Void](https://open.spotify.com/album/1DcssSPO2Dio4imihI9FbK) | 6:40 | 2022-12-23 | 2023-01-13 |
 | [walk away](https://open.spotify.com/track/6N51hS8QG3ounVWetTnNP1) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 2:55 | 2023-05-19 | 2023-05-24 |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-05-19 |  |
@@ -222,5 +222,6 @@
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2023-05-24 |  |
 | [WORK](https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [WORK](https://open.spotify.com/album/10zQvCUAMF0mF2DIU2gT8Z) | 2:29 | 2022-12-02 | 2023-02-06 |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-25 |  |
+| [Your Love](https://open.spotify.com/track/1hRg4KmSV3P1BktyCaewOC) | [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Dappest](https://open.spotify.com/artist/5gbLQgs5c4ow3KIOx30IoX) | [Your Love](https://open.spotify.com/album/46A4zcNfC1xLw5ziGIeU1P) | 3:07 | 2023-06-09 |  |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

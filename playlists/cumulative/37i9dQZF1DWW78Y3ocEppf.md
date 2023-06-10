@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Fridayy
+> Let the songs speak\. Cover: NBDY
 
-501 songs - 1 day 2 hr 31 min
+502 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [FOOL AROUND](https://open.spotify.com/track/4V39issmn4UBsvWqXzxvFz) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [PURPLE.](https://open.spotify.com/album/18ZRlsRqYnGm74QAX9k05N) | 2:03 | 2021-12-15 | 2022-06-24 |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 | 2023-02-11 |
 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 | 2023-05-05 |  |
-| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 |  |
+| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-06-10 |
 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 | 2022-09-16 |  |
 | [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 | 2021-12-15 | 2023-02-18 |
 | [Frank For You](https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Frank For You](https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW) | 4:09 | 2022-02-25 | 2022-07-28 |
@@ -246,6 +246,7 @@
 | [June 1st](https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE \(Anniversary Edition\)](https://open.spotify.com/album/1djR94Uyy0vjecCXfOdXng) | 1:51 | 2021-12-15 | 2022-05-15 |
 | [Just A Moment](https://open.spotify.com/track/0qsnxBh0zJgW0Y1s8rVCwS) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just A Moment](https://open.spotify.com/album/0a78i0R1JUQlVVwrNCz3iE) | 3:22 | 2021-12-15 | 2022-05-17 |
 | [Just for Fun \(feat\. Haben\)](https://open.spotify.com/track/4mjFM3Pb4soPBv5vHMMNpk) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Haben](https://open.spotify.com/artist/7FvxQS4LNGyB64KOYBFbIH) | [Show Me Diamonds](https://open.spotify.com/album/6GPnDoRWbxnEGRMWZjhqoV) | 2:59 | 2022-11-11 | 2022-12-03 |
+| [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 | 2023-06-09 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-08-05 |  |
 | [kill for you](https://open.spotify.com/track/0FCX6zRbAERkYNg9FJ2Vo3) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [kill for you](https://open.spotify.com/album/6xon6un9ZsuGxFcbYdcX42) | 2:27 | 2022-03-25 | 2022-04-02 |
 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 | 2023-04-07 |  |

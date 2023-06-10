@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,052 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,085 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 17 | [Femme\-Lady](https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 3:33 |
 | 18 | [Tocco di Lusso](https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/0NbmQJt0h6KFZXyQuXX1PS) | 3:23 |
 | 19 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
-| 20 | [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 |
+| 20 | [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 |
 | 21 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 |
 | 22 | [Meteorite](https://open.spotify.com/track/4FqAoONyMV4m0KLnoZ43im) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:14 |
 | 23 | [It Matters Until It Doesn't](https://open.spotify.com/track/5UGRZhXnVNOkX4ikYKpf1Q) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/5t1LgYhccLmZqxxghioxDb) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 74 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 75 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 |
 
-Snapshot ID: `MCwwYmU2OTk4M2Y0NzU1MzgwMmJhZmZmMTNhNzdhOGM5ODg5YjFiZWM2`
+Snapshot ID: `MCxmNjIyNzEwNWNjNmRjZmEzZDZmNDY2MDU1ZTY3NTk3NWMwYzc4MDhm`

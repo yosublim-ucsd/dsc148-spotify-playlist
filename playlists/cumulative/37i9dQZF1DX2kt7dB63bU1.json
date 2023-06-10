@@ -4913,6 +4913,28 @@
     },
     {
       "album": {
+        "name": "I'll Be Hard to Handle",
+        "url": "https://open.spotify.com/album/4hOtezV280kidUiaE20bBi"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "I'll Be Hard to Handle",
+      "url": "https://open.spotify.com/track/6B45peRgPoRivUPADSvl0G"
+    },
+    {
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -5472,7 +5494,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212506,
       "name": "Inside",
       "url": "https://open.spotify.com/track/4fiHkebnCqTgCdFNszdwju"
@@ -6420,6 +6442,32 @@
       "duration_ms": 316564,
       "name": "Leeward - Live",
       "url": "https://open.spotify.com/track/2dJNiYyeZhY9kbJgQExAte"
+    },
+    {
+      "album": {
+        "name": "Left Alone",
+        "url": "https://open.spotify.com/album/0TB6gQrk0eqlYHXiCEO2ul"
+      },
+      "artists": [
+        {
+          "name": "Mark Lewandowski",
+          "url": "https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo"
+        },
+        {
+          "name": "Liam Noble",
+          "url": "https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N"
+        },
+        {
+          "name": "Heidi Vogel",
+          "url": "https://open.spotify.com/artist/5H6KAuCOwgEpQXx6WKYCcN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307229,
+      "name": "Left Alone",
+      "url": "https://open.spotify.com/track/4l9mGZ2grEUj4EPsONVKml"
     },
     {
       "album": {
@@ -7848,7 +7896,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 206293,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA"
@@ -8894,6 +8942,28 @@
       "duration_ms": 272693,
       "name": "S Wonderful",
       "url": "https://open.spotify.com/track/7CVsH4KfcIeWkDRdzUBvsr"
+    },
+    {
+      "album": {
+        "name": "Entre eux deux (The Paris Sessions)",
+        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433533,
+      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
+      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
     },
     {
       "album": {
@@ -12798,7 +12868,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233426,
       "name": "\u00c0 La Tour Eiffel",
       "url": "https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp"

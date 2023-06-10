@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-134 songs - 8 hr 41 min
+136 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 | 2021-02-12 |  |
 | [Come with Me Now](https://open.spotify.com/track/5ipT1OJ5riog93dLlQ98Wx) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Come with Me Now](https://open.spotify.com/album/4MqDBcOy73ebbsQ1OopDq6) | 3:31 | 2021-02-12 | 2022-07-29 |
 | [Cypress Queen](https://open.spotify.com/track/4E3OQc3NdPIoIlir4aDFbe) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:27 | 2021-02-12 |  |
+| [Dance With Everybody](https://open.spotify.com/track/30Ws4fQbAhaKWTS0hr0wJt) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:30 | 2023-06-09 |  |
 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 | 2021-02-12 |  |
 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/6Gzjg6VWlLH5GluEOLdJfX) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/album/5gluLjowIryNYpcyiAQmQU) | 3:32 | 2021-02-12 | 2022-07-29 |
 | [Dirty Paws](https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:38 | 2021-02-12 |  |
@@ -47,7 +48,8 @@
 | [Easy to Love](https://open.spotify.com/track/3WPs9eLOnkdj5X7Pxrq8XS) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All the Times We Had](https://open.spotify.com/album/1JRjLshwmFs5WNb22MjsVI) | 3:44 | 2022-09-21 |  |
 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 | 2021-02-12 |  |
 | [Everything You Need](https://open.spotify.com/track/6EgnLziIiDWasLumYk2Cwa) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/4VUuZNfqVeseL3DzEfHrfs) | 4:37 | 2021-02-12 | 2022-07-29 |
-| [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-10 |  |
+| [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 | 2023-06-09 |  |
+| [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-10 | 2023-06-10 |
 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 | 2021-02-12 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2021-02-12 |  |
 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 | 2021-02-12 |  |

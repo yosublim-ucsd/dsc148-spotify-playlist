@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-309 songs - 18 hr 43 min
+310 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-19 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 |  |
-| [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 |  |
+| [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 | 2023-06-08 |  |
+| [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 | 2023-06-10 |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-12 | 2023-01-18 |
 | [Hot Summer](https://open.spotify.com/track/0JFz7Zs2GwJitL4Ptr8bY5) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:22 | 2023-04-06 | 2023-04-21 |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-03-09 | 2023-04-10 |

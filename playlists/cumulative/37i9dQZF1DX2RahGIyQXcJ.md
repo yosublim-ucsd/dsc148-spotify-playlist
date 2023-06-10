@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-181 songs - 10 hr 30 min
+182 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2021-12-03 | 2022-12-01 |
 | [Mirchi](https://open.spotify.com/track/7zKzD5wM18bQSiJTAxTpwH) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:12 | 2022-11-30 |  |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2021-12-03 |  |
+| [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 |  |
 | [Nahi Hai Woh](https://open.spotify.com/track/5ABFNlJxjH3fgI41ePqgZd) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Nahi Hai Woh](https://open.spotify.com/album/08ZMnNLFa5lDq08HzUJ4v1) | 4:20 | 2022-07-18 | 2023-01-13 |
 | [Nanchaku](https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nanchaku](https://open.spotify.com/album/4cniRITVrmzAABlGgNv6k4) | 3:13 | 2021-12-03 | 2022-07-19 |
 | [Nanchaku](https://open.spotify.com/track/6btegcu44HqquqArljhFxu) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [न](https://open.spotify.com/album/71aMemJbFvKZvb1PBrIeTi) | 3:13 | 2022-11-30 | 2023-05-26 |

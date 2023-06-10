@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 23 | [Vengo A Confesar](https://open.spotify.com/track/71C5O8r7jGfggDjzEm6wG1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:31 |
 | 24 | [Todo Se Va](https://open.spotify.com/track/1pnwE5OgoJ5ovacjbfg4bf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 2:55 |
 | 25 | [Blindado El Carro](https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:09 |
-| 26 | [El Gordo](https://open.spotify.com/track/3nhzGsXUP6EHQDKjQfBzhU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:47 |
+| 26 | [El Gordo](https://open.spotify.com/track/73BzCLoktGr7WNKRCMc8VK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:47 |
 | 27 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 |
 | 28 | [El Sobrino](https://open.spotify.com/track/77hqi0qBNPPfg0CM8Myr1G) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:40 |
 | 29 | [El Gavilán](https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:04 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 119 | [Amor Especial](https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:20 |
 | 120 | [Ya No Me Llames](https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:21 |
 
-Snapshot ID: `MCw0ZDI0MzliYTViZTk2MWJjZjk5NjM3MGQ4Y2RiN2Q0OThjZTQ5NGQ0`
+Snapshot ID: `MCxlMDcyODEyZjZkZWU1ZjAzOGEyOTIwM2JjMmU4NDJhM2U1ZTY4Y2Zi`

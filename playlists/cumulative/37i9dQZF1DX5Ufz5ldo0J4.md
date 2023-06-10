@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-284 songs - 13 hr 19 min
+285 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2021-12-10 |  |
 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 | 2021-12-10 |  |
 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 | 2021-12-10 | 2022-09-03 |
+| [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 | 2023-06-09 |  |
 | [Floating](https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Floating](https://open.spotify.com/album/0zB9fYEcH3zXLvL2Wporwa) | 1:57 | 2021-12-10 | 2022-08-13 |
 | [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2021-12-10 |  |
 | [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-04-28 |  |
@@ -203,7 +204,7 @@
 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 | 2022-12-03 |
 | [Reflection of the Unknown](https://open.spotify.com/track/3ju7ioziNTBPy8TvY31Jqb) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 3:03 | 2021-12-10 |  |
 | [Relief](https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1) | [Florian Beck](https://open.spotify.com/artist/7niY9S79C2uZMphA38wXl9) | [Relief](https://open.spotify.com/album/5Gk1eWQHJU6mJEuwGADs2f) | 1:44 | 2021-12-10 |  |
-| [Reminiscence Of Innocence](https://open.spotify.com/track/2AV90A6Qwgn47bZhHh8ys0) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Reminiscence Of Innocence](https://open.spotify.com/album/02xiVs0d6AFk43j4FmRWGi) | 2:06 | 2021-12-10 |  |
+| [Reminiscence Of Innocence](https://open.spotify.com/track/2AV90A6Qwgn47bZhHh8ys0) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Reminiscence Of Innocence](https://open.spotify.com/album/02xiVs0d6AFk43j4FmRWGi) | 2:06 | 2021-12-10 | 2023-06-10 |
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2021-12-10 |  |
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2021-12-10 |  |
 | [Ripples In Time](https://open.spotify.com/track/3Fmr1WYpTqDlE75KvvxHkx) | [Songs On The Moon](https://open.spotify.com/artist/7pARwZNsXOsLQQ2A21S4Us) | [Ripples In Time](https://open.spotify.com/album/7ypvndLBxxeZ2IlXTMCnSY) | 2:40 | 2021-12-10 |  |

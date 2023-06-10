@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44086,
+  "num_followers": 44126,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2Y1ZjdlMDk5MDgyNTQ3M2Y4NDA5MTk4MzRjOTY0YzRkYTgzYTY1",
+  "snapshot_id": "MCw5YTA5ZTQxNDgyZTQ2ZGYzZWVlMjQxZWJjMWNmMWRhYTk3ZTgzMWNi",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Us / When the Lights Go",
         "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 271542,
       "name": "Us",
       "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Let You Go EP",
-        "url": "https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D"
-      },
-      "artists": [
-        {
-          "name": "Bare Up",
-          "url": "https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC"
-        }
-      ],
-      "duration_ms": 224921,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "3 Dots",
         "url": "https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 268800,
       "name": "3 Dots",
       "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Let You Go EP",
+        "url": "https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D"
+      },
+      "artists": [
+        {
+          "name": "Bare Up",
+          "url": "https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC"
+        }
+      ],
+      "duration_ms": 224921,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
     }
   ],
   "unique_name": "Jump Up!",

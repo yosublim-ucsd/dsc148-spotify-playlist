@@ -1,44 +1,28 @@
 {
-  "description": "All new indie rock. Featuring new music from Beach Fossils.",
-  "num_followers": 846453,
+  "description": "All new indie rock. Featuring new music from The Drums.",
+  "num_followers": 846482,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2UzNzcyNTAwYWI3Y2RlYjBjMTRkYzJjYmZlYzIxOTlhYmM2NjY5",
+  "snapshot_id": "MCw5ZGQzZjQ3ODY5ZDQ0OTNjYjM2MTkzNDNjYjE0NGRkNTViY2Y5YjRm",
   "tracks": [
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 162678,
-      "name": "Sleeping On My Own",
-      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+      "duration_ms": 234480,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb"
     },
     {
       "added_at": "2023-05-24 13:49:16",
@@ -57,20 +41,52 @@
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
+      "added_at": "2023-06-09 17:23:24",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -91,54 +107,34 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "All Out of Good Days",
-        "url": "https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl"
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 151837,
-      "name": "Wish We Could Be Friends",
-      "url": "https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R"
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 159241,
-      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -185,6 +181,90 @@
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 159241,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Broke Generation",
+        "url": "https://open.spotify.com/album/7G1MMZTZWebErOTAV1taCh"
+      },
+      "artists": [
+        {
+          "name": "Retrofile",
+          "url": "https://open.spotify.com/artist/6bswxXQ3qgvkMQCRu0DKuz"
+        }
+      ],
+      "duration_ms": 227374,
+      "name": "Broke Generation",
+      "url": "https://open.spotify.com/track/7nBux2hQfUA8Ay6HtWuvud"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "All Out of Good Days",
+        "url": "https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 151837,
+      "name": "Wish We Could Be Friends",
+      "url": "https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Heatherhead",
@@ -199,6 +279,22 @@
       "duration_ms": 190133,
       "name": "Death Chasm",
       "url": "https://open.spotify.com/track/0VlkpyQC4rqwjD9c9bUbQY"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0"
+      },
+      "artists": [
+        {
+          "name": "Max Bennett Kelly",
+          "url": "https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel"
+        }
+      ],
+      "duration_ms": 148744,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -249,20 +345,36 @@
       "url": "https://open.spotify.com/track/52qnu3CAVtwKMbi9SWd6Bz"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+        "name": "All The Way Round and Back",
+        "url": "https://open.spotify.com/album/4XMFWys98AA86Stsw848Ko"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+      "duration_ms": 175433,
+      "name": "All The Way Round and Back",
+      "url": "https://open.spotify.com/track/1J7FwSaCxczUgRwejPJWWH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "way too loud",
+        "url": "https://open.spotify.com/album/5BNHerGhMAYo13pcztg1Kc"
+      },
+      "artists": [
+        {
+          "name": "James Droll",
+          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "way too loud",
+      "url": "https://open.spotify.com/track/2b9Tlburf72vwQ1r5ixlCN"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -329,6 +441,22 @@
       "url": "https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/2NwW0Tzme7gCSoypEx7MDO"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "duration_ms": 183362,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7jp4a5VWUXtgetIlNcIEDb"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Feel a Change Coming",
@@ -343,22 +471,6 @@
       "duration_ms": 198804,
       "name": "Feel a Change Coming",
       "url": "https://open.spotify.com/track/4RU0siwktXnmhIRhViHnXr"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "way too loud",
-        "url": "https://open.spotify.com/album/5BNHerGhMAYo13pcztg1Kc"
-      },
-      "artists": [
-        {
-          "name": "James Droll",
-          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "way too loud",
-      "url": "https://open.spotify.com/track/2b9Tlburf72vwQ1r5ixlCN"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -377,6 +489,22 @@
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mommy Issues",
+        "url": "https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO"
+      },
+      "artists": [
+        {
+          "name": "Jules Paymer",
+          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
+        }
+      ],
+      "duration_ms": 163567,
+      "name": "Mommy Issues",
+      "url": "https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Eucalyptus",
@@ -391,6 +519,22 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -457,6 +601,22 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "It's Alive!",
+        "url": "https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "It's Alive!",
+      "url": "https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879"
+    },
+    {
       "added_at": "2023-05-24 13:35:17",
       "album": {
         "name": "NYE",
@@ -507,22 +667,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Mommy Issues",
-        "url": "https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO"
-      },
-      "artists": [
-        {
-          "name": "Jules Paymer",
-          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
-        }
-      ],
-      "duration_ms": 163567,
-      "name": "Mommy Issues",
-      "url": "https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1507,150 +1651,6 @@
       "duration_ms": 191813,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "you don't think about me",
-        "url": "https://open.spotify.com/album/1kRSZ6Zcq9hNba4h7PWwMi"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 213084,
-      "name": "you don't think about me",
-      "url": "https://open.spotify.com/track/7zYgEjgM8wp0m1e3qsFFDS"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "don't leave me behind",
-        "url": "https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8"
-      },
-      "artists": [
-        {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
-        }
-      ],
-      "duration_ms": 188243,
-      "name": "don't leave me behind",
-      "url": "https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 245945,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Being Square",
-        "url": "https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE"
-      },
-      "artists": [
-        {
-          "name": "Donkey Kid",
-          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
-        }
-      ],
-      "duration_ms": 187894,
-      "name": "Being Square",
-      "url": "https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Something Wrong",
-        "url": "https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 183312,
-      "name": "Something Wrong",
-      "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 201261,
-      "name": "Ghost World",
-      "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Do You Feel It?",
-        "url": "https://open.spotify.com/album/4YexdPdPqNbt0wf4PJ8inn"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 126879,
-      "name": "Do You Feel It?",
-      "url": "https://open.spotify.com/track/0c54axqgjePfHBDx1rCNd0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "My Year (This Is Going To Be)",
-        "url": "https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W"
-      },
-      "artists": [
-        {
-          "name": "12 RODS",
-          "url": "https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2"
-        }
-      ],
-      "duration_ms": 183163,
-      "name": "My Year (This Is Going To Be)",
-      "url": "https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK"
     }
   ],
   "unique_name": "Today's Indie Rock",

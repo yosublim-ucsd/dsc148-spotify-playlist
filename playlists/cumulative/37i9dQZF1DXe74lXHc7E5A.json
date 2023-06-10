@@ -68,7 +68,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179200,
       "name": "234 (PRBLMS)",
       "url": "https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137283,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II",
       "url": "https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 109757,
       "name": "NEW ID",
       "url": "https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC"
@@ -3857,6 +3857,28 @@
     },
     {
       "album": {
+        "name": "Put It On Da Floor Again (Continued) (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3SdAsOeEizCDHMZMWGPPMj"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240359,
+      "name": "Put It On Da Floor Again (Continued) (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/4TYLdoKFwfnFHrgsTH0bit"
+    },
+    {
+      "album": {
         "name": "Quickie",
         "url": "https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T"
       },
@@ -4515,6 +4537,28 @@
     },
     {
       "album": {
+        "name": "The Hillbillies",
+        "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "The Hillbillies",
+      "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -4594,6 +4638,28 @@
       "duration_ms": 179013,
       "name": "Too Hot (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
+    },
+    {
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
       "album": {
@@ -4868,6 +4934,28 @@
       "duration_ms": 182500,
       "name": "Where Dem Dey",
       "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+    },
+    {
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "album": {

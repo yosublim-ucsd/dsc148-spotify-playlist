@@ -1,29 +1,13 @@
 {
   "description": "Deephouse in the mix for your delight.",
-  "num_followers": 178279,
+  "num_followers": 178316,
   "original_name": "Deephouse Delight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2FiYzY3OGUyMGI4OGU1YzIyNmNmZmZhYjZjYWNhOWI0MzlkM2Zj",
+  "snapshot_id": "MCw2NWRhMzgxYTA3YjkyMzJlYThjMWUzOTAwMzk3MmE1NGQ0ZTJjNTkz",
   "tracks": [
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Lonestar Retreat",
-        "url": "https://open.spotify.com/album/36T1wffFiQWf4MiCXyhygB"
-      },
-      "artists": [
-        {
-          "name": "Mosley Jr",
-          "url": "https://open.spotify.com/artist/35esnnk9qnh5dte6Lqrzav"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Lonestar Retreat",
-      "url": "https://open.spotify.com/track/1xChZ7WgwgbcTCi4Vb6tGq"
-    },
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
@@ -123,6 +107,22 @@
       "duration_ms": 497903,
       "name": "Money - DJ Spen & Soulfuledge Remix",
       "url": "https://open.spotify.com/track/0lAO60XiZSxCzyAcsoESHW"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Lonestar Retreat",
+        "url": "https://open.spotify.com/album/36T1wffFiQWf4MiCXyhygB"
+      },
+      "artists": [
+        {
+          "name": "Mosley Jr",
+          "url": "https://open.spotify.com/artist/35esnnk9qnh5dte6Lqrzav"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Lonestar Retreat",
+      "url": "https://open.spotify.com/track/1xChZ7WgwgbcTCi4Vb6tGq"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Testify (Kerri Chandler's Unreleased Dub Mixes)",
-        "url": "https://open.spotify.com/album/2l2DxnCiaURMKeSjdDULE0"
-      },
-      "artists": [
-        {
-          "name": "Byron Stingily",
-          "url": "https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD"
-        },
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 345926,
-      "name": "Testify - Kerri Chandler's Feel Dub",
-      "url": "https://open.spotify.com/track/6OoSUHpYGzf7fDEgzE0czB"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Space de Choux",
         "url": "https://open.spotify.com/album/2L7CjsaNoVp41LLZGylOrK"
       },
@@ -1823,22 +1803,6 @@
       "duration_ms": 472000,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/0DWjD72IBxl4TlgKpo10Rf"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Petal Dance",
-        "url": "https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 229629,
-      "name": "Petal Dance",
-      "url": "https://open.spotify.com/track/62O40xq82udtEfBYeWdAN8"
     },
     {
       "added_at": "2023-05-25 22:01:00",

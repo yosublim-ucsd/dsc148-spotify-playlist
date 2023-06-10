@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44457,
+  "num_followers": 44460,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjI0NixhYzhkMjFkOTgyZDQxMThiNTZhOWJlNmZlM2M1YjFjZDE5YjkyM2Fh",
+  "snapshot_id": "NjI1MyxiMGYxNWM0MmMxZWY3OGY1NWJkMGU1NzM1YjgxMGVhYmIxZDk0MThh",
   "tracks": [
+    {
+      "added_at": "2023-06-09 04:15:47",
+      "album": {
+        "name": "Barbie (feat. Melissa Brooks)",
+        "url": "https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Melissa Brooks",
+          "url": "https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Barbie (feat. Melissa Brooks)",
+      "url": "https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj"
+    },
+    {
+      "added_at": "2023-06-09 04:15:47",
+      "album": {
+        "name": "Without u (Voice Memo)",
+        "url": "https://open.spotify.com/album/6NvyohSpMmjRcUbnGsgCMZ"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "Without u - Voice Memo",
+      "url": "https://open.spotify.com/track/0BeGIxBVnS3PsT86dXiX0q"
+    },
     {
       "added_at": "2023-06-06 00:02:15",
       "album": {
@@ -159,6 +199,26 @@
       "duration_ms": 155866,
       "name": "Bass Like (feat. Ramlode & 2ka)",
       "url": "https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv"
+    },
+    {
+      "added_at": "2023-06-09 04:22:41",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2vc6dSJhXeqe2wVXZjWvti"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "duration_ms": 172006,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7ym4T5J0jCYq86MiJbj1la"
     },
     {
       "added_at": "2023-06-06 00:02:15",
@@ -883,6 +943,46 @@
       "duration_ms": 197343,
       "name": "Anarchy",
       "url": "https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx"
+    },
+    {
+      "added_at": "2023-06-09 04:18:04",
+      "album": {
+        "name": "Lavender Dreams & Scarlet Nightmares",
+        "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "echod",
+          "url": "https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG"
+    },
+    {
+      "added_at": "2023-06-09 04:22:11",
+      "album": {
+        "name": "Chain Reaction (feat. GiGi Grombacher)",
+        "url": "https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Chain Reaction (feat. GiGi Grombacher)",
+      "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
     }
   ],
   "unique_name": "Dim Mak New Releases",

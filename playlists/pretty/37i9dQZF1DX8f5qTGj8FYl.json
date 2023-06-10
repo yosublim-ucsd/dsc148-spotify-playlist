@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 340026,
+  "num_followers": 340131,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOThhYzgxM2ZhMGVlZGViMzY2NzA3OTk2MzhjZDliNGZkNjZkNDcx",
+  "snapshot_id": "MCw2NjEyZTFhODY3OTFjNTA4NzE1NThiNzljY2QwYzNiNThiMDZiNmM5",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Striped Album",
-        "url": "https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 178486,
-      "name": "Lilypad",
-      "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 251533,
       "name": "The Vice Yard",
       "url": "https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Striped Album",
+        "url": "https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 178486,
+      "name": "Lilypad",
+      "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "KINFOLK: Postcards from Everywhere",
-        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        }
-      ],
-      "duration_ms": 333304,
-      "name": "Bounce, Pts. I + II",
-      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Bacano",
         "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 309092,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "KINFOLK: Postcards from Everywhere",
+        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 333304,
+      "name": "Bounce, Pts. I + II",
+      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1373,28 +1373,24 @@
       "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "Kerria Lacca",
-        "url": "https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi"
+        "name": "Getaway Car",
+        "url": "https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J"
       },
       "artists": [
         {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         },
         {
-          "name": "Mike Outram",
-          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
-        },
-        {
-          "name": "Tucker Antell",
-          "url": "https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit"
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
         }
       ],
-      "duration_ms": 299705,
-      "name": "Kerria Lacca",
-      "url": "https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG"
+      "duration_ms": 208384,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
     }
   ],
   "unique_name": "Instrumental Funk",

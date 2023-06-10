@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+    },
+    {
+      "album": {
         "name": "Big Thug Boys",
         "url": "https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj"
       },
@@ -2285,6 +2303,32 @@
     },
     {
       "album": {
+        "name": "Feel Different",
+        "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Feel Different",
+      "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
       },
@@ -2452,7 +2496,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -2910,7 +2954,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
@@ -3352,7 +3396,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 322552,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
@@ -4465,6 +4509,44 @@
     },
     {
       "album": {
+        "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrondee",
+          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391888,
+      "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+      "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
+    },
+    {
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -4820,6 +4902,28 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
+    },
+    {
+      "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
     },
     {
       "album": {
@@ -5471,6 +5575,24 @@
     },
     {
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+    },
+    {
+      "album": {
         "name": "African Baddie",
         "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
       },
@@ -5530,7 +5652,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208928,
       "name": "Problems",
       "url": "https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h"
@@ -6287,6 +6409,36 @@
     },
     {
       "album": {
+        "name": "SUKA",
+        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390033,
+      "name": "SUKA",
+      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+    },
+    {
+      "album": {
         "name": "Summer in the Ends (Juls Zikomo Remix)",
         "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
       },
@@ -6634,7 +6786,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 150378,
       "name": "Tossmitoss",
       "url": "https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7"
@@ -7404,7 +7556,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"

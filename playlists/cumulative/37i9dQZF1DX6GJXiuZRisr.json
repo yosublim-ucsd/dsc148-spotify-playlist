@@ -453,6 +453,32 @@
     },
     {
       "album": {
+        "name": "All That Matters (Artbat Remix)",
+        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Troels Abrahamsen",
+          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314880,
+      "name": "All That Matters - ARTBAT Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W"
       },
@@ -1526,7 +1552,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 181209,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
@@ -2130,7 +2156,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188483,
       "name": "Fibonacci",
       "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
@@ -3032,7 +3058,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
@@ -3098,7 +3124,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 354098,
       "name": "I / Y",
       "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
@@ -3742,7 +3768,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
@@ -3782,7 +3808,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 337500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
@@ -6874,7 +6900,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233440,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
@@ -7582,6 +7608,50 @@
       "duration_ms": 328320,
       "name": "Welcome to the New ISS",
       "url": "https://open.spotify.com/track/1id8NiNXh8C6WfQjnVd2RW"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Opera (with Grimes)",
+        "url": "https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "album": {

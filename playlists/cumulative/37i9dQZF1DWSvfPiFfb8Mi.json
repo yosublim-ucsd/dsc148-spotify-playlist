@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
+    },
+    {
+      "album": {
         "name": "Bamboo Mask",
         "url": "https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz"
       },
@@ -768,7 +786,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 378136,
       "name": "Electric Drama",
       "url": "https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 283636,
       "name": "Give You Up",
       "url": "https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy"
@@ -2328,6 +2346,24 @@
       "duration_ms": 383500,
       "name": "NYC Dirty Talks - Original Mix",
       "url": "https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0"
+    },
+    {
+      "album": {
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204820,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
     },
     {
       "album": {

@@ -108,10 +108,36 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
+    },
+    {
+      "album": {
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
     },
     {
       "album": {
@@ -4954,6 +4980,24 @@
       "duration_ms": 229747,
       "name": "Champ (feat. Edgar Winter)",
       "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
+    },
+    {
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
     },
     {
       "album": {
@@ -12315,6 +12359,28 @@
     },
     {
       "album": {
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9"
+      },
+      "artists": [
+        {
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Hollywood Bowl",
+      "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
+    },
+    {
+      "album": {
         "name": "Hollywood Bowl",
         "url": "https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA"
       },
@@ -12330,7 +12396,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
       "url": "https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7"
@@ -16914,6 +16980,24 @@
       "duration_ms": 207783,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/4pBgP0SMlISqbYqrrO3AoP"
+    },
+    {
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "album": {
@@ -26433,6 +26517,24 @@
     },
     {
       "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -27649,24 +27751,6 @@
     },
     {
       "album": {
-        "name": "This World Is Our Home",
-        "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "date_added": "2023-06-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173731,
-      "name": "The World Is Our Home",
-      "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
-    },
-    {
-      "album": {
         "name": "The World We Live In",
         "url": "https://open.spotify.com/album/3n1CVis3cUsLmEn1Mb58F0"
       },
@@ -27848,6 +27932,24 @@
       "duration_ms": 176097,
       "name": "this song should not exist",
       "url": "https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M"
+    },
+    {
+      "album": {
+        "name": "This World Is Our Home",
+        "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "This World Is Our Home",
+      "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
     },
     {
       "album": {
@@ -30801,6 +30903,24 @@
     },
     {
       "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR ?",
+        "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
+    },
+    {
+      "album": {
         "name": "What Was",
         "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
       },
@@ -31106,6 +31226,24 @@
       "duration_ms": 180201,
       "name": "When The Day Is Done",
       "url": "https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ"
+    },
+    {
+      "album": {
+        "name": "When You're Here",
+        "url": "https://open.spotify.com/album/3OyXog4wg8Zb6nW6QjndBl"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182009,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/6dLuEkW3rWLXbLeYBWoT7N"
     },
     {
       "album": {

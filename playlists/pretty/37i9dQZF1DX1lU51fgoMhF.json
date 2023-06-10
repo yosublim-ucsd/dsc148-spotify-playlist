@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 141966,
+  "num_followers": 142304,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTlkYjA4NzY2N2MxYWQzYzY1ZGU5OWIxNGQ2NTM4MmU1NGZhOGQ4",
+  "snapshot_id": "MCxjMmQ0NmI3NTlkZjUwOWQ5OTMxNWRiNDllYjU4ZWJhNDA0NGY1NzE3",
   "tracks": [
     {
       "added_at": "2023-05-16 04:21:46",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "Lil' Touch - The 1st Single",
+        "url": "https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-Oh!GG",
+          "url": "https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb"
+        }
+      ],
+      "duration_ms": 189846,
+      "name": "Lil\u2019 Touch",
+      "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "SELF",
         "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 198453,
       "name": "1, 3, 2 (JEONGYEON, MINA, TZUYU)",
       "url": "https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "Lil' Touch - The 1st Single",
-        "url": "https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation-Oh!GG",
-          "url": "https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb"
-        }
-      ],
-      "duration_ms": 189846,
-      "name": "Lil\u2019 Touch",
-      "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
       },
@@ -875,38 +891,6 @@
       "duration_ms": 217322,
       "name": "Into the I-LAND",
       "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "Why - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 207777,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "ONE & SIX",
-        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 199402,
-      "name": "I'm so sick",
-      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "ONE & SIX",
+        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 199402,
+      "name": "I'm so sick",
+      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "Dynamite (Tropical Remix)",
+      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
         }
       ],
-      "duration_ms": 197101,
-      "name": "Dynamite (Tropical Remix)",
-      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -1007,22 +1023,6 @@
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "NOT THE END",
-      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 182800,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NOT THE END",
+      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
     },
     {
       "added_at": "2023-05-16 04:21:46",

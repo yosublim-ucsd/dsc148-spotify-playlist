@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "M\u00fasica para insubordinados. Dillom en portada. ",
+  "description": "M\u00fasica para insubordinados. Carolina Durante en portada. ",
   "name": "lo hice por el punk",
   "tracks": [
     {
@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Plan Z.E.N.",
+        "url": "https://open.spotify.com/album/7avi7XMW0Q1wEcUsBWcVvP"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193142,
+      "name": "Plan Z.E.N.",
+      "url": "https://open.spotify.com/track/6meYT2oiVwCKHAB1NJCi7w"
+    },
+    {
+      "album": {
         "name": "Por Mi Culpa (Una Canci\u00f3n Punk Que Salvara el Mundo)",
         "url": "https://open.spotify.com/album/4BFYE0jc2qL7uVSNha6Qnu"
       },
@@ -1392,6 +1410,24 @@
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy"
+    },
+    {
+      "album": {
+        "name": "Todo Est\u00e1 Podrido",
+        "url": "https://open.spotify.com/album/4kwoIahAmAVMhDb5oK5iDF"
+      },
+      "artists": [
+        {
+          "name": "Animales Muertos",
+          "url": "https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Todo Est\u00e1 Podrido",
+      "url": "https://open.spotify.com/track/6xYI7MZpLD5HDLxC8hHjDI"
     },
     {
       "album": {

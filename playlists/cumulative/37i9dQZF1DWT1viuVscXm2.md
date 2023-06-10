@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-228 songs - 13 hr 25 min
+229 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-09 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2021-12-24 |  |
 | [El Campanero](https://open.spotify.com/track/5G4g6BDM5hdleQF99Hq8nK) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/5DUClhRJXZW2RqHd8jlwmj) | 4:33 | 2022-01-11 | 2022-10-11 |
-| [El Campanero](https://open.spotify.com/track/6YF8AXgrIDJu7IjQAixYtD) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/4DRXD5RyV4aaOyW0RNXU0V) | 4:33 | 2022-09-23 |  |
+| [El Campanero](https://open.spotify.com/track/6YF8AXgrIDJu7IjQAixYtD) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/4DRXD5RyV4aaOyW0RNXU0V) | 4:33 | 2022-09-23 | 2023-06-10 |
 | [El Embrujo](https://open.spotify.com/track/3YBVqmMUSusvJyQwd545yw) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Embrujo](https://open.spotify.com/album/3TGUkmPnQzcG2NHoXwPufy) | 3:56 | 2021-12-24 |  |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2021-12-24 | 2022-12-03 |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |
@@ -200,6 +200,7 @@
 | [Tonto Corazón](https://open.spotify.com/track/1X5pSYSCBjXVUzfspaQ4pm) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Tonto Corazón](https://open.spotify.com/album/50FZCvkteo50w2hvKIB5Zc) | 3:20 | 2021-12-24 | 2022-04-09 |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-08-12 | 2022-09-10 |
 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2023-04-11 |  |
+| [Tu Despertador](https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Tu Despertador](https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS) | 2:30 | 2023-06-09 |  |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-24 | 2022-12-24 |
 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 | 2023-01-06 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |

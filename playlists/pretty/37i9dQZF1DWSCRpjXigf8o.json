@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 84451,
+  "num_followers": 84470,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFkNWI1MjQxOTJlNzA2ZWJjODVjZGZhZDg4MTU0NWE3NWI2MjM2",
+  "snapshot_id": "MCwyNTg5MGIzNTI4MzMxNDg0MTZkOGUzYmIwZDEzMDQxY2U3OWQxNGE5",
   "tracks": [
     {
       "added_at": "2023-06-08 15:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+      "duration_ms": 254316,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
     },
     {
       "added_at": "2023-06-08 15:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
       "added_at": "2023-06-08 15:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 254316,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2023-06-08 15:00:00",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
-        "name": "Hollywood Bowl",
-        "url": "https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA"
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9"
       },
       "artists": [
         {
@@ -1210,7 +1210,7 @@
       ],
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
-      "url": "https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7"
+      "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
     },
     {
       "added_at": "2023-06-08 15:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
+    },
+    {
+      "added_at": "2023-06-08 15:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2023-06-08 15:00:00",
-      "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
     },
     {
       "added_at": "2023-06-08 15:00:00",

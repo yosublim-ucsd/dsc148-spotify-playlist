@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Brenn!
 
-271 songs - 15 hr 34 min
+272 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Gold](https://open.spotify.com/track/0wubDogxhtvRFPpuEyNmze) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-11-12 |  |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-11-12 | 2023-04-15 |
+| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-05-19 |  |
 | [Greatest Enemy](https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Greatest Enemy](https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu) | 3:09 | 2021-11-12 | 2022-08-20 |
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-12 | 2022-07-21 |
 | [Harshest Critic](https://open.spotify.com/track/21FgHK5OHDvgNxW3ZgqIfp) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Harshest Critic](https://open.spotify.com/album/49lMIK60bcwjMPgDfaIV71) | 3:16 | 2021-11-12 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-12 |  |
 | [Momentum](https://open.spotify.com/track/5EatYjkKnohEHke2G5VKhL) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Momentum](https://open.spotify.com/album/5f06ywJzKO1RLnojyQ1Vij) | 3:42 | 2021-11-12 | 2022-07-25 |
 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 | 2022-08-19 | 2022-11-02 |
-| [Movie Star](https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Movie Star](https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt) | 3:40 | 2023-04-28 |  |
+| [Movie Star](https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Movie Star](https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt) | 3:40 | 2023-04-28 | 2023-06-10 |
 | [Muse](https://open.spotify.com/track/5PAd8j7jtOnTVvqmN2ELf2) | [Simon and the Island](https://open.spotify.com/artist/5SQFUf8WwN1HmEx366givT) | [Simon and the Island](https://open.spotify.com/album/1KxHY8j8mguMqfX3pqPYNB) | 3:12 | 2021-11-12 | 2022-07-07 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-21 |  |
 | [My Repair](https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 3:05 | 2022-03-12 |  |

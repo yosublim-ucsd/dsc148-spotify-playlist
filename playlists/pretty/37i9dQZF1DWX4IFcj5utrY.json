@@ -1,12 +1,12 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=pQwF9eo-RJ-hG10oCfR5Zg\">Darque</a>",
-  "num_followers": 60719,
+  "num_followers": 60775,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzgxZGRjYTEzNjczZWJkNzZmYzIxY2ZhZjA3NDBhOTc0NmMwODEy",
+  "snapshot_id": "MCxjYjE3NmJjZDQwZGYzYmNjOWQ5YWIzOGJjNmNlZGY5MGY2YjA5ZDY2",
   "tracks": [
     {
       "added_at": "2023-06-09 00:00:00",
@@ -22,6 +22,10 @@
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
       "duration_ms": 417812,

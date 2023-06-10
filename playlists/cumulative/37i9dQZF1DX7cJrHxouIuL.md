@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-189 songs - 9 hr 1 min
+190 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Up in the Sky](https://open.spotify.com/track/7nFrk76TTg9FJQ8CAoQMWt) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:03 | 2022-04-15 |  |
 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 | 2022-04-15 |  |
 | [Waking Up \(Spring\)](https://open.spotify.com/track/4abEYE7Hj22Y7gdZzn3czq) | [BenAnna Band](https://open.spotify.com/artist/3FL3nqyE8MEoCm4ZLNJfDg) | [Sounds of the Seasons](https://open.spotify.com/album/2nN6I5U7G3P8xDttB8gSIh) | 3:21 | 2022-04-15 |  |
+| [Wash Your Body](https://open.spotify.com/track/6HENgjUYqWotNN8SPfcKEQ) | [Riffin' Griffin](https://open.spotify.com/artist/0SYMYYDfXrQnQzASSIqNUw) | [Wash Your Body](https://open.spotify.com/album/0GM43soVRfA47Ce0EXXFUy) | 1:23 | 2023-06-09 |  |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 |  |
 | [We Go Together Very Well](https://open.spotify.com/track/6lVmVOq1KV2Hw0n22dMQWl) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [We Go Together Very Well](https://open.spotify.com/album/6SHJmgrtEgluN2fC5kONw6) | 3:04 | 2022-04-15 |  |
 | [Welcome Spring \(feat\. Suzi Shelton\)](https://open.spotify.com/track/4jpUuV65fEKGKg6FdlL3Ca) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Welcome Spring \(feat\. Suzi Shelton\)](https://open.spotify.com/album/0ySs1TKwOSfgmT3fqtnKga) | 3:50 | 2022-04-15 |  |

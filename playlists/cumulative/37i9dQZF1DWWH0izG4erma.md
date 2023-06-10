@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: Pecos & the Rooftops
 
-263 songs - 15 hr 11 min
+264 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 | 2021-11-01 | 2023-03-18 |
 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 | 2023-03-03 |  |
 | [A Bullet With My Name](https://open.spotify.com/track/3aCf4ZPy3ILXFcQ0NIFTv6) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [A Bullet With My Name](https://open.spotify.com/album/4tvlbftuk2FS7IJAWPU1ud) | 4:15 | 2022-05-20 | 2022-07-10 |
-| [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 |  |
+| [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 | 2023-06-10 |
 | [Alive and Well](https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Alive and Well](https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF) | 3:18 | 2021-11-01 | 2022-07-28 |
 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 | 2023-06-02 |  |
 | [All I Can Think About Lately](https://open.spotify.com/track/5pkNN8QrCbPAvgh0QAfupx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [All I Can Think About Lately](https://open.spotify.com/album/3JrC0f2pdNHKs2Fx8xK0AW) | 3:46 | 2022-03-25 | 2022-07-09 |
@@ -42,6 +42,7 @@
 | [Born To Run To You](https://open.spotify.com/track/5HIjLTk1Yvkw9CtTXGeWtP) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Born To Run To You](https://open.spotify.com/album/0VBl3jdg3LcoMfUGbWw9uF) | 3:01 | 2023-03-17 | 2023-06-03 |
 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 | 2023-01-27 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2023-03-26 |
+| [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 | 2023-06-09 |  |
 | [Broken Windshield View](https://open.spotify.com/track/2VnjUrGKgRppVnbANIQyy7) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Broken Windshield View](https://open.spotify.com/album/4EzrCQdf9JYShUo0PtxXe4) | 3:24 | 2023-01-20 | 2023-03-05 |
 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 | 2023-02-18 |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2023-05-12 |  |

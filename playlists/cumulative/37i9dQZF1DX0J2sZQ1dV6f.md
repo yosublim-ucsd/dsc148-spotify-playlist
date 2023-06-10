@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-314 songs - 16 hr 40 min
+315 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 | 2022-07-29 | 2022-12-08 |
 | [Sustancias Raras](https://open.spotify.com/track/1Lyp6Zu6kEofJaU7uKRITc) | [HOLI RARE](https://open.spotify.com/artist/1ISWaTxLhrZpB35ew0rW8q), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9), [Zevra](https://open.spotify.com/artist/7iZesyVtiVJ999T2bbGT2D) | [Sustancias Raras](https://open.spotify.com/album/2yGirwqpSCbTRVldItuvcW) | 3:22 | 2023-05-25 | 2023-06-04 |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
-| [Sé Que Recuerdas](https://open.spotify.com/track/0G4HpZod8ySWzUZqOq2Ool) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [Sé Que Recuerdas](https://open.spotify.com/album/1fJJHgGzPSQHM0rCVhXLqp) | 2:53 | 2023-05-25 |  |
+| [Sé Que Recuerdas](https://open.spotify.com/track/0G4HpZod8ySWzUZqOq2Ool) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [Sé Que Recuerdas](https://open.spotify.com/album/1fJJHgGzPSQHM0rCVhXLqp) | 2:53 | 2023-05-25 | 2023-06-10 |
 | [Súbelo & Bájalo](https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Alexis](https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 3:57 | 2023-05-25 |  |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |
 | [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-02-24 | 2023-03-02 |
@@ -302,6 +302,7 @@
 | [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 | 2023-02-24 | 2023-05-26 |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2022-07-08 |  |
 | [Tus Poses](https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tus Poses](https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33) | 3:21 | 2022-07-08 | 2023-05-26 |
+| [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-09 |  |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-25 |  |
 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 | 2022-07-08 | 2023-05-26 |
 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 | 2022-12-07 | 2023-05-26 |

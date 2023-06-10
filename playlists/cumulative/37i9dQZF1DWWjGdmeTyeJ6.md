@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Konyikeh\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,181 songs - 9 day 12 hr 32 min
+4,182 songs - 9 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -980,7 +980,8 @@
 | [Dodem](https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 5:18 | 2023-05-03 | 2023-05-11 |
 | [Does She Know](https://open.spotify.com/track/7gRTDxpQ1paYETKq92pxa6) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8) | [Does She Know](https://open.spotify.com/album/4EqsFfeOsm0KKrVvDHMqk3) | 3:33 | 2023-03-29 | 2023-04-06 |
 | [dog](https://open.spotify.com/track/2jNI4mu7xhKGXpCmXzufEg) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [dog](https://open.spotify.com/album/4GoNNtWHaiJHoaRK6kl08u) | 3:02 | 2022-02-09 | 2022-02-17 |
-| [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-06-07 |  |
+| [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-06-07 | 2023-06-10 |
+| [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 | 2023-06-07 |  |
 | [Dog Leg](https://open.spotify.com/track/0S7P9yeQyZa5sXLx0PcteN) | [Rodeo Boys](https://open.spotify.com/artist/4zawN6PuzzIybbu2kKhI0r) | [Dog Leg](https://open.spotify.com/album/29P5HY9TBwI5TdjMGduhQ4) | 2:35 | 2023-05-10 | 2023-05-18 |
 | [dog park](https://open.spotify.com/track/2N0scrG4sYYwWiwc9rShoI) | [Anna Kellam](https://open.spotify.com/artist/5kG2vfaHrnskPlXQXs7rHs) | [dog park](https://open.spotify.com/album/745NZnSvc0ziNbB1NN25OL) | 3:19 | 2023-02-08 | 2023-02-16 |
 | [Doin it different](https://open.spotify.com/track/6T4SujePoy0ycykUFR2k9X) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Shantan Wantan Ichiban](https://open.spotify.com/artist/2wHEmbHawzjMlgUL9DMxmC), [Dancingwater](https://open.spotify.com/artist/2kNrWVsXMU26GXUcJYPi3M) | [Doin it different](https://open.spotify.com/album/1kNPtL0TlU4IEMWzMsZeDL) | 2:36 | 2022-02-23 | 2022-03-03 |

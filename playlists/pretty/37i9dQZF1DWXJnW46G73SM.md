@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مسار إجباري ودياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,138 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,174 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Habet Tabtaba](https://open.spotify.com/track/31l0bmTZLNaVOysinrJ2R1) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Habet Tabtaba](https://open.spotify.com/album/3pKOzJL8yLs5sTWmze8rJW) | 4:04 |
-| 2 | [وسط الوشوش \- من مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(من مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 |
+| 2 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 |
 | 3 | [Ensan 2ali](https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ensan 2ali](https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M) | 3:28 |
 | 4 | [Khalena N3esh](https://open.spotify.com/track/367Hh6WH6ljGxLbzwzB0lZ) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Khalena N3esh](https://open.spotify.com/album/5Tt18aY93MGcI2F8e1kyDu) | 2:34 |
 | 5 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 |
 | 6 | [سلام يا عم](https://open.spotify.com/track/6IhUxlhxf852CyABJ9yw4o) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [سلام يا عم](https://open.spotify.com/album/1wLE9SUeHUUNaa1iHmJRwI) | 3:39 |
-| 7 | [Zeyafa](https://open.spotify.com/track/4uYZspi2MEo79DfxJbYciV) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Zeyafa](https://open.spotify.com/album/3XczrONGaGT8irg7rDAQzH) | 2:51 |
+| 7 | [Zeyafa](https://open.spotify.com/track/4uYZspi2MEo79DfxJbYciV) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Zeyafa](https://open.spotify.com/album/3XczrONGaGT8irg7rDAQzH) | 2:51 |
 | 8 | [طوب الارض](https://open.spotify.com/track/3rzs9LV0Cxa6VyTXSBkUHI) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [طوب الارض](https://open.spotify.com/album/0oC9xz9pXjJVJOc4XR3AQd) | 2:31 |
 | 9 | [البصة](https://open.spotify.com/track/4kF2FhSmkI8rN3a6OvxThx) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [البصة](https://open.spotify.com/album/5aUdP64reXtlbe21tlu8B6) | 3:13 |
 | 10 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [صباح اسكندراني](https://open.spotify.com/track/1XhlXdZEXF6gG0lFnq9iTO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صباح اسكندراني](https://open.spotify.com/album/2GeZia68kzHFeTZfbe1Bhn) | 3:35 |
 | 50 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 |
 
-Snapshot ID: `MCwyN2ZkNjEwY2NjNmY4NDM5NjkzMDI1MjdmNTZiNjU5ZjM1NmU1MTQy`
+Snapshot ID: `MCw2M2Y5ZWE2YzEwMWJmMzI0YTVhMGRkZmVjOTliODQ1ZDRlNjQ4MmZh`

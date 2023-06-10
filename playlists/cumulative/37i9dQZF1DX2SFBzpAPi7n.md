@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KyoungSeo\(경서\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-479 songs - 1 day 5 hr 27 min
+480 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Green](https://open.spotify.com/track/7KTwml8vIRLGZKBe1YWv6J) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:02 | 2022-04-22 | 2022-06-15 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-05-11 | 2022-07-28 |
-| [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-12 |  |
+| [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-12 | 2023-06-10 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-12 |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
@@ -462,6 +462,7 @@
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2022-04-12 | 2022-07-28 |
 | [You Make Me Back](https://open.spotify.com/track/1cwHRnup3iQoGAzUDwXQsh) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5mAPG6FxTtZwujiHu5GmSA) | 3:14 | 2022-04-22 | 2022-08-02 |
 | [You need my love](https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [You need my love](https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE) | 3:40 | 2022-08-18 | 2022-09-06 |
+| [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2023-06-01 |  |
 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2022-04-12 | 2023-06-07 |
 | [You're right](https://open.spotify.com/track/3X4StHauTX08nwxvdzByae) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:36 | 2022-04-21 | 2022-07-23 |
 | [Young](https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP), [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [Young](https://open.spotify.com/album/5y5xxuMomFzgXvUJzetwxP) | 3:26 | 2022-04-12 | 2022-07-26 |

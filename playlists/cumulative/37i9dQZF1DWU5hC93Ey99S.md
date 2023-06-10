@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-118 songs - 6 hr 34 min
+120 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-05-04 |  |
 | [feelslikewerefalling](https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [feelslikewerefalling](https://open.spotify.com/album/0n8vdluADIPcKgDqKihrns) | 3:12 | 2023-05-18 | 2023-06-09 |
 | [Find a Way](https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py) | [Find a Way](https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda) | 2:16 | 2023-04-27 |  |
-| [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 | 2023-05-26 |  |
+| [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 | 2023-05-26 | 2023-06-10 |
 | [follow you](https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [follow you](https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL) | 3:04 | 2023-04-27 | 2023-06-02 |
 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 |  |
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 |  |
@@ -83,6 +83,7 @@
 | [Only You](https://open.spotify.com/track/4R6XSF33V92Cgqs038Ugcy) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Only You](https://open.spotify.com/album/7ByGfr10et7e5vZxGUVrlO) | 3:40 | 2023-04-27 |  |
 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 | 2023-04-13 |  |
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-13 |  |
+| [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 | 2023-06-08 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-04-13 |  |
 | [Radio \- SILK Remix](https://open.spotify.com/track/2XnnsbJsLJpE6Kt7IMLRn4) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Radio \(SILK Remix\)](https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA) | 3:02 | 2023-04-13 | 2023-06-09 |
 | [Right Back](https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9) | [Right Back](https://open.spotify.com/album/3y2TSW4nIQBT810itSLXSY) | 2:03 | 2023-05-16 |  |
@@ -93,6 +94,7 @@
 | [Save a Soul](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Woods](https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F) | 4:22 | 2023-04-20 |  |
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-04-13 |  |
 | [say my name](https://open.spotify.com/track/2vJXLcot7FkfJ4uca2b1V4) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [say my name](https://open.spotify.com/album/5dMKkALzboXaoj3kFVE73n) | 2:38 | 2023-05-04 | 2023-05-17 |
+| [Say Yes To Heaven \- sim0ne & Melo Nada Remix](https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV), [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 4:13 | 2023-06-08 |  |
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-26 |  |
 | [See This Through](https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [See This Through](https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y) | 4:43 | 2023-04-27 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-04-13 |  |
@@ -103,7 +105,7 @@
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-04 |  |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 |  |
 | [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 | 2023-06-01 |  |
-| [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 |  |
+| [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 | 2023-06-10 |
 | [TAKE ME HIGHER](https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [REGULARITY](https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S) | 2:53 | 2023-05-26 |  |
 | [talk](https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [talk](https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF) | 3:10 | 2023-04-27 |  |
 | [Talk To Me](https://open.spotify.com/track/0w5ebrPN1s8eLSVfA63L20) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Jonas LR](https://open.spotify.com/artist/7qN5EMGrVqdjmYWdNJgbNO) | [Talk To Me](https://open.spotify.com/album/4GAXTvUhu1NvcP3cM5G3Kj) | 3:30 | 2023-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-350 songs - 21 hr 33 min
+351 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-03-12 | 2022-07-29 |
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2021-03-12 |  |
 | [SWEAT](https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [SWEAT](https://open.spotify.com/album/4jgslG0QlEJ49OxaepciB5) | 2:17 | 2023-03-17 |  |
+| [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-06-09 |  |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2021-01-29 | 2022-03-26 |
 | [Talas](https://open.spotify.com/track/27CKY12YRyEvp8w9n0ySBO) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Formwave](https://open.spotify.com/artist/3x5pVZ0I1sEHZnmXzDR3Sy), [K Mirage](https://open.spotify.com/artist/2iTqWq87tO9NZt9ZNhIKDJ), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Jere B](https://open.spotify.com/artist/3uqypqlkDQmUpHPzgbhD2b) | [Talas](https://open.spotify.com/album/7GjunTpL8SpjTe8GUR40x9) | 2:43 | 2022-06-17 | 2022-07-29 |
 | [Talk About It](https://open.spotify.com/track/5k4SI8RNArkDWKQwjifshx) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Talk About It](https://open.spotify.com/album/5QfbepSQCoQ4z77EO9ZrbJ) | 3:18 | 2021-08-20 |  |

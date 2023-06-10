@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,735 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,865 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 42 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 |
 | 43 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 44 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
-| 45 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 |
+| 45 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
 | 46 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
 | 47 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
-| 48 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
+| 48 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 |
 | 49 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 50 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
 | 51 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 69 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
 | 70 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
 | 71 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
-| 72 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
-| 73 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
-| 74 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 72 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 73 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
+| 74 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
 | 75 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 76 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
 | 77 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 |
-| 78 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
-| 79 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
-| 80 | [Denovo](https://open.spotify.com/track/5l9cTH23rPclDoUFHWHil4) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Denovo](https://open.spotify.com/album/2NC5jxFBw14223590xEJ50) | 2:42 |
+| 78 | [Denovo](https://open.spotify.com/track/5l9cTH23rPclDoUFHWHil4) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Denovo](https://open.spotify.com/album/2NC5jxFBw14223590xEJ50) | 2:42 |
+| 79 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
+| 80 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
 
-Snapshot ID: `MCwyYjExZGM5YTljMjBjMWZiOWQ2ODhjZjFiNjRhYjBkYmMwMDIxZDZm`
+Snapshot ID: `MCw1YjhhNmE2NDVlNjgxZjM4MzA5MmNmOGJiY2ViNmMzM2M1ZGJlNzU1`

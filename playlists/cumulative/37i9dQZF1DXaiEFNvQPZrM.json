@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "I Can Lie (The Truth Is)",
+        "url": "https://open.spotify.com/album/6QwfWouiQcSPcnh8t6GYvF"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210065,
+      "name": "I Can Lie (The Truth Is)",
+      "url": "https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26"
+    },
+    {
+      "album": {
         "name": "There's More Where That Came From",
         "url": "https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218666,
       "name": "I'll Think Of A Reason Later",
       "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 261826,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
@@ -2641,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Too Soon For Goodbye",
+        "url": "https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215594,
+      "name": "Too Soon For Goodbye",
+      "url": "https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -2710,6 +2746,24 @@
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+    },
+    {
+      "album": {
+        "name": "What I Thank (When I Drank)",
+        "url": "https://open.spotify.com/album/4wf2uxNmb8foN97Z7TPcfK"
+      },
+      "artists": [
+        {
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "What I Thank (When I Drank)",
+      "url": "https://open.spotify.com/track/4vpMUn7giEsphJbZrkZSlg"
     },
     {
       "album": {

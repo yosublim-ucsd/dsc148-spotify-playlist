@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwWInfdJ5vk.md) - [plain]
 
 > Your essential Wiz Khalifa, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,990 likes - 52 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,178 likes - 52 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwWInfdJ5vk.md) - [plain]
 | 51 | [Pull Up \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6LTsvaebP6V9tJFvZxqi5M) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pull Up \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/3qv4Hjk70y70MNe9Kb9X8f) | 3:27 |
 | 52 | [You and Your Friends \(feat\. Snoop Dogg & Ty Dolla $ign\)](https://open.spotify.com/track/1eL8wZKx7CVJVbZG12becL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Blacc Hollywood \(Deluxe\)](https://open.spotify.com/album/2pl9PVgr8QFKRGY0HY69GI) | 3:06 |
 
-Snapshot ID: `MCwzMzRjNTMyOGUzNWVlOWU3YWQ5MTg0MDdmZjhjOGVmZGZhODA0MmJl`
+Snapshot ID: `MCw4NTRlYjc3MjNmZjY4OTVmZDIyMzMwY2EwMjljYzRhMjQ5MzY3MTAw`

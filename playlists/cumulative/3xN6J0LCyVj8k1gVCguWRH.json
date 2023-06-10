@@ -25679,6 +25679,24 @@
     },
     {
       "album": {
+        "name": "Ms Blue",
+        "url": "https://open.spotify.com/album/5f2JMc95WTQqwViFu2bAle"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192021,
+      "name": "Ms Blue",
+      "url": "https://open.spotify.com/track/4KpHPvvItXgb34KnBO4z27"
+    },
+    {
+      "album": {
         "name": "MULTIVERSO",
         "url": "https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz"
       },
@@ -36414,6 +36432,28 @@
       "duration_ms": 356055,
       "name": "Sweden: Gold Dust",
       "url": "https://open.spotify.com/track/2IVo3BRnOK4k6tAT636shB"
+    },
+    {
+      "album": {
+        "name": "J.X.B. presents...",
+        "url": "https://open.spotify.com/album/5hNvSPdQm5x1Y6Zci8gqxo"
+      },
+      "artists": [
+        {
+          "name": "J.X.B.",
+          "url": "https://open.spotify.com/artist/623xmS6ELt4gDnzvAzYoIe"
+        },
+        {
+          "name": "Emajor",
+          "url": "https://open.spotify.com/artist/3NY8NrTtJPBnlSRQ1nwbsG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261510,
+      "name": "Sweet Soul",
+      "url": "https://open.spotify.com/track/5JcJZZE19uQvSgMd99QLQv"
     },
     {
       "album": {

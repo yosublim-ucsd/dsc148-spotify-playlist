@@ -4,7 +4,7 @@
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-82 songs - 4 hr 47 min
+83 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-05-03 |  |
 | [Enfocado \(En Vivo\)](https://open.spotify.com/track/6MdLiuRuuBey2QVeIQXdc6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Adrian Chaparro](https://open.spotify.com/artist/54mMnlc78Gn8CR4MKyPEIE) | [Enfocado \(En Vivo\)](https://open.spotify.com/album/3LZrYqt1zQIJm2VSB5Uj8S) | 3:03 | 2022-05-06 |  |
 | [Enloquéceme](https://open.spotify.com/track/1Z88pFqoxXfFJ519ZR7rOe) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Enloquéceme](https://open.spotify.com/album/4aMNVrwGdzxra0YjpiKrRo) | 3:52 | 2022-05-06 |  |
-| [Falsa Alarma \(En Vivo\)](https://open.spotify.com/track/2fNUXlTHgAfvo94GwI3Fgk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N) | 3:39 | 2023-03-09 |  |
+| [Falsa Alarma \(En Vivo\)](https://open.spotify.com/track/2fNUXlTHgAfvo94GwI3Fgk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N) | 3:39 | 2023-03-09 | 2023-06-10 |
 | [Fuera de Servicio \- En Vivo](https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q) | 3:26 | 2022-07-12 |  |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-03 |  |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-03 |  |
@@ -72,6 +72,7 @@
 | [Quiero Pistear \(feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/track/1kXRRE6pRDBvtdgQuiHzy7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Quiero Pistear \(feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/album/4GY3Z4T2qGldfPrvhsg6X9) | 3:05 | 2022-05-06 |  |
 | [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/0C7CICqf2MObCi0D3uuDwy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/album/10EgRftZaDoEz9bZYAehb3) | 3:39 | 2022-05-03 |  |
 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-06 |  |
+| [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 | 2023-06-09 |  |
 | [Se Despide Juanito \(En Vivo\)](https://open.spotify.com/track/05UtcKKY8rtzIUwa8JhaAd) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Se Despide Juanito \(En Vivo\)](https://open.spotify.com/album/32HwQfPQ616pIZzRh5rLzd) | 4:43 | 2022-05-06 |  |
 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 | 2022-05-03 |  |
 | [Se Veía Venir](https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy) | 2:32 | 2022-05-03 |  |

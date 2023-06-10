@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules or boundaries. Just the very best new alternative tracks. Cover: Bully",
+  "description": "No rules or boundaries. Just the very best new alternative tracks. Cover: The Maine",
   "name": "The New Alt",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 136508,
       "name": "5,6,7,8 (feat. girlfriends)",
       "url": "https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy"
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222656,
+      "name": "Black Horse",
+      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
+    },
+    {
+      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -2008,6 +2026,24 @@
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+    },
+    {
+      "album": {
+        "name": "blame / how to exit a room",
+        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
     },
     {
       "album": {
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227200,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3c2RqYECM2CaNvFwo8COxs"
@@ -2696,10 +2732,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 150634,
       "name": "Can We Forget",
       "url": "https://open.spotify.com/track/07yilZPUJuVK5HpqObUhWG"
+    },
+    {
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150634,
+      "name": "Can We Forget",
+      "url": "https://open.spotify.com/track/1oH8SrmWayqhqeubuovQcp"
     },
     {
       "album": {
@@ -2844,6 +2898,24 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "album": {
+        "name": "Carpenter",
+        "url": "https://open.spotify.com/album/0pwDbntwXbFTD1vkDxed74"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Carpenter",
+      "url": "https://open.spotify.com/track/3ulMKoTyiJm8rabbfcXyif"
     },
     {
       "album": {
@@ -4207,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
       },
@@ -4670,7 +4760,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181076,
       "name": "don\u2019t call me pretty",
       "url": "https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy"
@@ -4732,6 +4822,24 @@
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "album": {
@@ -6122,6 +6230,24 @@
       "duration_ms": 140786,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/5ekucJquBlWaZojC2oNZHU"
+    },
+    {
+      "album": {
+        "name": "alternative psycho",
+        "url": "https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "five4three2one",
+      "url": "https://open.spotify.com/track/2hGvtfFFpXnTEUx1Xty4db"
     },
     {
       "album": {
@@ -7914,7 +8040,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 174663,
       "name": "High Life",
       "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
@@ -8184,7 +8310,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195646,
       "name": "HORROR SHOW",
       "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
@@ -9132,7 +9258,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
@@ -9490,6 +9616,24 @@
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "album": {
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"
     },
     {
       "album": {
@@ -10014,6 +10158,24 @@
       "duration_ms": 170526,
       "name": "life in a locker (feat. Jomie & Skinny Atlas)",
       "url": "https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX"
     },
     {
       "album": {
@@ -10693,6 +10855,24 @@
     },
     {
       "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+    },
+    {
+      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
       },
@@ -11172,7 +11352,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
@@ -12450,7 +12630,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203876,
       "name": "Oh No Darling!",
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
@@ -12558,7 +12738,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
@@ -13190,7 +13370,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
@@ -13251,6 +13431,24 @@
     },
     {
       "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
+    },
+    {
+      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -13262,7 +13460,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198066,
       "name": "Pink Slip",
       "url": "https://open.spotify.com/track/2B3rMMt60mbgOSl7aqLAbx"
@@ -13616,6 +13814,24 @@
       "duration_ms": 334927,
       "name": "Psyche!",
       "url": "https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p"
+    },
+    {
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M"
     },
     {
       "album": {
@@ -13982,7 +14198,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177933,
       "name": "Raw Raw",
       "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
@@ -15264,7 +15480,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
@@ -15402,6 +15618,24 @@
       "duration_ms": 210773,
       "name": "Shut Up and Show Me",
       "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
+    },
+    {
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/1WA3AURcqDgffVeQvCSsnN"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/1JFEKTa8wpllGurUiSI7Ox"
     },
     {
       "album": {
@@ -15691,6 +15925,24 @@
     },
     {
       "album": {
+        "name": "Sleeping On The Ceiling",
+        "url": "https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "Sleeping On The Ceiling",
+      "url": "https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -15868,7 +16120,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
@@ -16468,7 +16720,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 182746,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
@@ -18415,6 +18667,24 @@
     },
     {
       "album": {
+        "name": "Turn Off The Noise",
+        "url": "https://open.spotify.com/album/2NRizRvycomUH4nSGgRRfr"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265893,
+      "name": "Turn Off The Noise",
+      "url": "https://open.spotify.com/track/2882UEd8DX6ojWlUtUkH2D"
+    },
+    {
+      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -18804,6 +19074,24 @@
       "duration_ms": 117850,
       "name": "Veronica Mars",
       "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
+    },
+    {
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "album": {

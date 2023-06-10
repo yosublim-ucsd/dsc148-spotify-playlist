@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198314,
       "name": "A Glitch",
       "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
@@ -774,6 +774,24 @@
       "duration_ms": 166153,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF"
+      },
+      "artists": [
+        {
+          "name": "John Heart",
+          "url": "https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2"
     },
     {
       "album": {
@@ -1875,6 +1893,32 @@
     },
     {
       "album": {
+        "name": "Here with You",
+        "url": "https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        },
+        {
+          "name": "Buchs",
+          "url": "https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V"
+        },
+        {
+          "name": "flower thief",
+          "url": "https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Here with You",
+      "url": "https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS"
+    },
+    {
+      "album": {
         "name": "High Fly",
         "url": "https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv"
       },
@@ -2032,6 +2076,28 @@
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+    },
+    {
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "album": {
@@ -2324,6 +2390,28 @@
       "duration_ms": 167576,
       "name": "listen love",
       "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
+    },
+    {
+      "album": {
+        "name": "Live a Lie",
+        "url": "https://open.spotify.com/album/6z1eCfKAUjmQ925Uh8FA10"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        },
+        {
+          "name": "ODBLU",
+          "url": "https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Live a Lie",
+      "url": "https://open.spotify.com/track/2pnune4Q29q6bapTi4fqbi"
     },
     {
       "album": {
@@ -2837,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Night Drives",
+        "url": "https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA"
+      },
+      "artists": [
+        {
+          "name": "HGenius",
+          "url": "https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Night Drives",
+      "url": "https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT"
+    },
+    {
+      "album": {
         "name": "Night Wish",
         "url": "https://open.spotify.com/album/1XEzLyAWtXzE5oonBI1IBo"
       },
@@ -2848,7 +2954,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 251454,
       "name": "Night Wish",
       "url": "https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB"
@@ -3288,7 +3394,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 162785,
       "name": "rollacoasta",
       "url": "https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB"
@@ -3826,7 +3932,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
@@ -4161,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
+      },
+      "artists": [
+        {
+          "name": "Harry Cho",
+          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
+    },
+    {
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -4486,7 +4610,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 215520,
       "name": "Vibrant Presence",
       "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
@@ -4576,7 +4700,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 133608,
       "name": "Wasting Love",
       "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"

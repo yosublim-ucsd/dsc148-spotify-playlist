@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 230306,
       "name": "Beat It - Studio Version Featuring John Mayer",
       "url": "https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 226293,
       "name": "Come Together - Live From Fox Theatre Detroit, MI/2012",
       "url": "https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
@@ -3004,6 +3004,24 @@
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
     },
     {
       "album": {
@@ -5103,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "What's Love Got To Do With It",
+        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199725,
+      "name": "What's Love Got To Do With It",
+      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
+    },
+    {
+      "album": {
         "name": "When Doves Cry",
         "url": "https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ"
       },
@@ -5144,6 +5180,24 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "album": {

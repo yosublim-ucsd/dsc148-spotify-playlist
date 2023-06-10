@@ -2,9 +2,9 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> The home of Latin R&B\. La casa del R&B Latino\. Cover: Corina Smith
+> The home of Latin R&B\. La casa del R&B Latino\. Cover: 3AM
 
-301 songs - 15 hr 57 min
+302 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Antes](https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Antes](https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6) | 2:29 | 2022-02-11 | 2022-08-06 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2022-02-11 | 2022-05-20 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2022-09-06 |  |
+| [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 |  |
 | [Arrocito Frito](https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Arrocito Frito](https://open.spotify.com/album/5gAB1Cq1VVlQ7TzztBCG3T) | 3:01 | 2022-02-11 | 2022-09-07 |
 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 |  |
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-12 |  |
@@ -109,7 +110,7 @@
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-05-20 | 2023-05-13 |
 | [Empty Doors](https://open.spotify.com/track/6lZfjc2akugF9a71uLzhBk) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 | 2022-02-11 | 2022-09-07 |
-| [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 | 2023-05-05 | 2023-05-13 |
+| [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 | 2023-05-05 |  |
 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2022-09-23 | 2023-04-30 |
 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 | 2022-09-06 | 2023-05-13 |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-05-12 |  |
@@ -150,7 +151,7 @@
 | [La Corriente](https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [La Corriente](https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f) | 2:46 | 2022-09-06 | 2023-05-13 |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-12-06 |  |
 | [La Ideal](https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [La Ideal](https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB) | 3:33 | 2023-03-08 |  |
-| [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 | 2023-03-10 |  |
+| [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 | 2023-03-10 | 2023-06-10 |
 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 | 2022-09-06 | 2023-03-04 |
 | [la que calla](https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [entrevayus](https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9) | 3:30 | 2022-03-11 | 2022-12-07 |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-02-11 | 2022-09-07 |
@@ -200,7 +201,7 @@
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-02-11 | 2022-09-27 |
 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2023-03-10 |  |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2022-02-11 | 2022-09-07 |
-| [No Hay Veneno](https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte I\]](https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy) | 3:19 | 2023-05-12 |  |
+| [No Hay Veneno](https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte I\]](https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy) | 3:19 | 2023-05-12 | 2023-06-10 |
 | [No Me Mires Así](https://open.spotify.com/track/0yYxQhoJe1My3LhcIPIkXQ) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [No Me Mires Así](https://open.spotify.com/album/6VLE5eInBhKYnCM621NYgl) | 2:46 | 2022-02-11 | 2022-07-29 |
 | [No más me dio](https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [No más me dio](https://open.spotify.com/album/69K23XEPiqueK7o88Kdgdk) | 3:13 | 2022-09-06 | 2022-12-07 |
 | [No Pero Sí](https://open.spotify.com/track/4S2ZWFS0PbSMbXGXkjqhEB) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí](https://open.spotify.com/album/4m5mdLW6aCgCXuo4yeq1p3) | 2:40 | 2022-03-11 | 2022-04-20 |

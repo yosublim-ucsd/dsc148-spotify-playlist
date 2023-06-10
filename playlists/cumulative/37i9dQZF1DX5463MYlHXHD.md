@@ -2,9 +2,9 @@
 
 ### [Cumbia de Barrio](https://open.spotify.com/playlist/37i9dQZF1DX5463MYlHXHD)
 
-> Cumbia pa' volar la chapa ñeri\. Foto: Santa Fe Klan & Dj Tao.
+> Cumbia pa' volar la chapa ñeri\. Foto: DobleP, Repiola & R Jota.
 
-123 songs - 6 hr 44 min
+124 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [En la Cama Tú y Yo](https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx) | [El Aspirante](https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK) | [No Hay Mal Que Dure 100 Años](https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco) | 2:55 | 2023-05-26 |  |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2023-05-26 |  |
-| [Fenomenal](https://open.spotify.com/track/41NSAiKyjasSqJdbGYJ3H3) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Fenomenal](https://open.spotify.com/album/2fFjuvFcpxaUhTDM8zOx3W) | 3:33 | 2023-05-26 |  |
+| [Fenomenal](https://open.spotify.com/track/41NSAiKyjasSqJdbGYJ3H3) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Fenomenal](https://open.spotify.com/album/2fFjuvFcpxaUhTDM8zOx3W) | 3:33 | 2023-05-26 | 2023-06-10 |
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 |  |
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 |  |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 |  |
@@ -76,6 +76,7 @@
 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 | 2023-05-26 |  |
 | [Me Re Cabio](https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 3:09 | 2023-05-26 |  |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2023-05-26 |  |
+| [No Me Vuelvo a Enamorar \- Remix](https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [No Me Vuelvo a Enamorar \(Remix\)](https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9) | 3:13 | 2023-06-09 |  |
 | [No Te Aguanto Más](https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 2:38 | 2023-05-26 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2023-05-26 |  |
 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 | 2023-05-26 |  |

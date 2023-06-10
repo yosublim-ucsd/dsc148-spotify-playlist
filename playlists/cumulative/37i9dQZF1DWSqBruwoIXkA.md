@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Somehow heartbreak feels good in a place like this\. Cover: Khloe Rose
+> Somehow heartbreak feels good in a place like this\. Cover: Rowan Drake
 
-516 songs - 1 day 4 hr 34 min
+518 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [cold feet](https://open.spotify.com/track/7lHd4eqgPeDMMmcinSTfQF) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [cold feet](https://open.spotify.com/album/0eZLBuwE1gXZ7gXVa6h70G) | 2:52 | 2022-01-21 | 2022-03-11 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-12 | 2022-10-15 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-03-26 |
+| [Come Home](https://open.spotify.com/track/0le1GJUVrJW9MuWmKIjX68) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Come Home](https://open.spotify.com/album/24sHGSJO8DgLnYE1nxvC9L) | 3:18 | 2023-06-09 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-12-17 |
 | [Confessions](https://open.spotify.com/track/1vW6daDWuHrfyNw5K5t5EJ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Confessions](https://open.spotify.com/album/2DSSvfhn5JzCZuGh873uoA) | 2:59 | 2022-05-06 | 2022-05-28 |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2021-12-17 | 2022-10-22 |
@@ -208,6 +209,7 @@
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 | 2023-04-09 |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-10-14 | 2022-12-17 |
 | [How Dare You](https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b) | 3:09 | 2023-02-03 | 2023-04-01 |
+| [How Do I Love Again](https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:28 | 2023-06-09 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-02 |  |
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-28 | 2023-02-24 |
@@ -241,7 +243,7 @@
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 |  |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-03-11 | 2022-12-17 |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 |  |
-| [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 | 2022-09-23 |  |
+| [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 | 2022-09-23 | 2023-06-10 |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 | 2023-02-24 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-03 |  |
@@ -292,7 +294,7 @@
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 | 2022-12-17 |
 | [listen before i go](https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:02 | 2021-12-17 | 2022-10-01 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 |  |
-| [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-22 |  |
+| [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-22 | 2023-06-10 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-05-20 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/7HWetAoWK9qkFM575HONAY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3ILTeVimMva0ImF0dWtoQC) | 2:29 | 2021-12-17 | 2022-08-12 |

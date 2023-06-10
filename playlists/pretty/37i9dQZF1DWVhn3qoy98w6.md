@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Halley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,745 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,744 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [En el lago](https://open.spotify.com/track/2H5CLHjm6g3hALTQb94rkk) | [the gabor](https://open.spotify.com/artist/3UaZBxRr5QpV7obu0czIJw) | [En el lago](https://open.spotify.com/album/2rYNE7wJ2fm4iMD7nLIcKE) | 3:37 |
 | 50 | [hechizo final](https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p) | [besodrenaje](https://open.spotify.com/artist/7vjKRMYOA7mQlF2UiU7USE), [ksd](https://open.spotify.com/artist/4vJnCNghxkQlHjgFnSErtS), [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI) | [oniria](https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ) | 2:44 |
 
-Snapshot ID: `MCw0ODIyZDdmNmUwMWJjZDg3NDdkM2YzYTRhYjg1ZDhlMTQ1ZGM5MGRj`
+Snapshot ID: `MCxmMzZmM2ZjYzU2YTllNDI4NGIzMzQwOTMxNGU2YTYzNTNiYzRkNGEx`

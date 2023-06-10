@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,607 likes - 130 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,652 likes - 130 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 129 | [The Kingfisher](https://open.spotify.com/track/18wuWtph9JW9dA9nNLwPx5) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 3:26 |
 | 130 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
 
-Snapshot ID: `MCxiZTgzYWU3NDM2NjMxNjBjOWJkMjc0ODY5NTYxNDIyYWU3OGU0M2Rj`
+Snapshot ID: `MCxhYTM4NDdiMThkNjBhMjE0NzM3Y2IxMDU4OWI1ZmFmMzBiNDQ2NGNj`

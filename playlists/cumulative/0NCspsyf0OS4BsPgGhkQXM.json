@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Alors En Danse",
+        "url": "https://open.spotify.com/album/5KmRwVwUYlCqe0xO3pu4vi"
+      },
+      "artists": [
+        {
+          "name": "Celarity",
+          "url": "https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99173,
+      "name": "Alors En Danse",
+      "url": "https://open.spotify.com/track/1HSbC5eHVxOfrj5ww98ZEc"
+    },
+    {
+      "album": {
         "name": "The Blueprint (Deluxe)",
         "url": "https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy"
       },
@@ -7003,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "Import Tuner",
+        "url": "https://open.spotify.com/album/21qkQkz1fYketSDDNZhPNd"
+      },
+      "artists": [
+        {
+          "name": "shxde",
+          "url": "https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Import Tuner",
+      "url": "https://open.spotify.com/track/3mUSP6Ln9vcpdWjxXmXnfi"
+    },
+    {
+      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/7wSgLKelqFenbjGxEfN3NP"
       },
@@ -10843,6 +10879,28 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5CGeEM4r4otXU9733Ilzyg"
+      },
+      "artists": [
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217633,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0QcfZJi7LLBJaLaCkSC3ry"
+    },
+    {
+      "album": {
         "name": "PARANOiD",
         "url": "https://open.spotify.com/album/3pbPlo7ZGhwWIOpSPd86MM"
       },
@@ -14230,6 +14288,24 @@
       "duration_ms": 157586,
       "name": "The Yetti (The FifthGuys Remix)",
       "url": "https://open.spotify.com/track/3IB86NuvDkneI00RRugqcu"
+    },
+    {
+      "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/3mXBLNQTcdbrv6Pv69kgRc"
+      },
+      "artists": [
+        {
+          "name": "Orlost",
+          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173162,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/0jullR0ynF6zvPvAHbQ94E"
     },
     {
       "album": {

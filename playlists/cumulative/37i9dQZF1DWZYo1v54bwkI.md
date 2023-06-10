@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-218 songs - 11 hr 4 min
+220 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Huzurlu](https://open.spotify.com/track/5AE2Q5ecdUUPxjNbIknTNW) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Huzurlu](https://open.spotify.com/album/4vsCehW0aBcrsCeTWodFYa) | 3:03 | 2022-07-15 |  |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2022-07-15 |  |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2022-07-15 |  |
+| [Infinity](https://open.spotify.com/track/5O4656zc4mKAgTSAIDmBSR) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Infinity](https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5) | 2:30 | 2023-06-09 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-07-15 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-07-15 |  |
 | [Intentional State](https://open.spotify.com/track/0PTyLUmKBZpnxOGl1t5elw) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Intentional State](https://open.spotify.com/album/3cRUAysRl6uKb5EYyqetOu) | 3:40 | 2022-07-15 |  |
@@ -179,6 +180,7 @@
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-07-15 |  |
 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 | 2022-07-15 |  |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-07-15 |  |
+| [Serene Balance](https://open.spotify.com/track/2xKFUeL4g61DZnNzgCzw2k) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Ethereal Echoes](https://open.spotify.com/album/7rd3MG2p63mwoS8aTPhc8k) | 3:29 | 2023-06-09 |  |
 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 | 2022-07-15 |  |
 | [Silenzio](https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:11 | 2023-02-09 |  |
 | [Silver Glass](https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Silver Glass](https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU) | 3:23 | 2022-07-15 |  |

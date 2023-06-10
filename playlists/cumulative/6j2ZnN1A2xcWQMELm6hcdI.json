@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "8 AM",
+        "url": "https://open.spotify.com/album/4io4WcuVRNAKnVUyYA5wN9"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/7CSmXJNeArnwDfUmtP4Gve"
+    },
+    {
+      "album": {
         "name": "Ungodly Hour (Chrome Edition)",
         "url": "https://open.spotify.com/album/6hMkD2lSkRG7ZJZ3iGpQyz"
       },
@@ -828,7 +850,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145074,
       "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
@@ -1386,7 +1408,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185597,
       "name": "Flip A Switch. - Sped Up",
       "url": "https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d"
@@ -2478,7 +2500,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 130472,
       "name": "Kis\u00e9",
       "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 139518,
       "name": "La Chain",
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
@@ -2558,7 +2580,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
@@ -2616,7 +2638,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156911,
       "name": "Lean In (feat. Bayanni)",
       "url": "https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO"
@@ -2688,7 +2710,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193888,
       "name": "LL Cool J",
       "url": "https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93"
@@ -2710,6 +2732,24 @@
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/5lzo8L9K1Trk74Izd0TKX8"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165432,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/7pSdhRSAZu10t8gxxf5MYl"
     },
     {
       "album": {
@@ -2746,7 +2786,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
@@ -2786,7 +2826,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199533,
       "name": "Look At What I'm Doing To You",
       "url": "https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc"
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 112659,
       "name": "Lower",
       "url": "https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt"
@@ -2888,7 +2928,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
@@ -3190,7 +3230,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 189524,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
@@ -3208,7 +3248,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147395,
       "name": "NO MIENTEN",
       "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
@@ -3316,7 +3356,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 147189,
       "name": "Opinion",
       "url": "https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50"
@@ -3334,7 +3374,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 155414,
       "name": "Out The Way",
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
@@ -3436,7 +3476,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 154510,
       "name": "PBC",
       "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
@@ -3472,7 +3512,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186670,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc"
@@ -3678,7 +3718,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 141176,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
@@ -3754,7 +3794,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179658,
       "name": "Rhapsody In Pink",
       "url": "https://open.spotify.com/track/4joYxRhYy1p4w4OQbDaMpj"
@@ -3971,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Saturn Returning",
+        "url": "https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167016,
+      "name": "Saturn Returning",
+      "url": "https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K"
+    },
+    {
+      "album": {
         "name": "Save Room",
         "url": "https://open.spotify.com/album/05ZNOjYw2zYwuwmJZGIIrl"
       },
@@ -4022,7 +4080,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 174164,
       "name": "SCOOP (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
@@ -4044,6 +4102,24 @@
       "duration_ms": 128770,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
+    },
+    {
+      "album": {
+        "name": "See You in Church.",
+        "url": "https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188679,
+      "name": "See You in Church",
+      "url": "https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE"
     },
     {
       "album": {
@@ -4400,7 +4476,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 249011,
       "name": "Super Star",
       "url": "https://open.spotify.com/track/0kyGwQwAXrKo5wxoMWva1j"
@@ -4490,7 +4566,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
@@ -4765,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "album": {
         "name": "Uh Ohhh",
         "url": "https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a"
       },
@@ -4812,7 +4906,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
@@ -4878,7 +4972,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175173,
       "name": "Walked In (feat. Young Thug)",
       "url": "https://open.spotify.com/track/4HnvRYwwhulZMABmLK86ue"
@@ -4918,7 +5012,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 314848,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
@@ -4984,6 +5078,24 @@
       "duration_ms": 181141,
       "name": "West Like (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu"
+    },
+    {
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
+        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "WET WHITE TEE SHIRT (SIDE A)",
+      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
     },
     {
       "album": {
@@ -5096,7 +5208,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"

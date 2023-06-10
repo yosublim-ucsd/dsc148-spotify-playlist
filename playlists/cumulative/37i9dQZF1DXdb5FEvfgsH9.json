@@ -2037,6 +2037,28 @@
     },
     {
       "album": {
+        "name": "Sweet Connection",
+        "url": "https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161692,
+      "name": "Sweet Connection",
+      "url": "https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52"
       },

@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-346 songs - 21 hr 31 min
+347 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Break My Broken Heart](https://open.spotify.com/track/2UfDeOnKQgquiKyStdgCDj) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Break My Broken Heart](https://open.spotify.com/album/44KkghWRHAWdnTlDRAGjK3) | 3:34 | 2021-12-06 | 2022-01-19 |
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2021-12-06 | 2022-11-13 |
 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 | 2023-02-03 | 2023-02-25 |
-| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 |  |
+| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 | 2023-06-10 |
 | [Broken Ones](https://open.spotify.com/track/0VYCUWNFIYLIOQqu3bFzs0) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Broken Ones](https://open.spotify.com/album/6F6usgNiD6yrnTVgvC76ub) | 3:49 | 2022-01-05 | 2022-11-13 |
 | [brokenhearted \(together\)](https://open.spotify.com/track/45BmSERHSfZFaLH9oWtA1e) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [brokenhearted \(together\)](https://open.spotify.com/album/7EQo6zfVoU9iJuIDo9xAW7) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [brokenhearted \- sunset](https://open.spotify.com/track/2fIhX68Y1P0xLfnJh160tk) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [partly cloudy](https://open.spotify.com/album/5PN7GeludLF7xbeWtk5Sy7) | 4:21 | 2021-12-06 | 2022-07-29 |
@@ -155,6 +155,7 @@
 | [Jar of Hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 | 2021-12-06 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2022-07-08 |  |
 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 | 2021-12-06 | 2022-07-29 |
+| [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-06-09 |  |
 | [Just Give Me a Reason](https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:02 | 2022-01-05 | 2022-04-20 |
 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2022-07-08 |  |
 | [Keep Holding On](https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Keep Holding On](https://open.spotify.com/album/0cuF4UYoABFPKE6GZ6Lqq8) | 3:59 | 2021-12-06 | 2022-07-23 |

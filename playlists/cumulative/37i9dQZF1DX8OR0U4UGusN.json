@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "FORTHEWORLD",
+        "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145620,
+      "name": "benny!",
+      "url": "https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry"
+    },
+    {
+      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194959,
       "name": "CYANIDE",
       "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"

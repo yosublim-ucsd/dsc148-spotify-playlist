@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ari Abdul
+> Dark, hard hitting pop\. Cover: UPSAHL
 
-409 songs - 18 hr 48 min
+411 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 |  |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 |  |
-| [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 |  |
+| [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
@@ -162,7 +162,7 @@
 | [golden retriever boy](https://open.spotify.com/track/20M00steJbkD9bCIUCuHPI) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [golden retriever boy](https://open.spotify.com/album/5yMX1oz6JdR8ApLCB0TwOT) | 3:06 | 2021-10-29 | 2022-02-19 |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-31 |  |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-02-18 | 2022-06-11 |
-| [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-04-28 |  |
+| [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-04-28 | 2023-06-10 |
 | [Good In Bed](https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:38 | 2022-10-28 | 2023-04-01 |
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-18 |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-05-20 | 2023-03-25 |
@@ -299,6 +299,7 @@
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2021-12-10 | 2022-03-18 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-29 |
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-02-18 | 2022-05-20 |
+| [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-09 |  |
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 |  |
@@ -321,7 +322,7 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
-| [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 |  |
+| [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 | 2023-06-10 |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 | 2022-09-17 |
 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-04-28 |  |
 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-04-28 | 2023-05-24 |
@@ -398,6 +399,7 @@
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-07 |  |
 | [Welcome To The Real World](https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Welcome To The Real World](https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT) | 3:02 | 2023-05-19 |  |
+| [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V2](https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9) | 2:14 | 2023-06-09 |  |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2021-12-03 | 2022-04-02 |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-05-13 | 2023-02-18 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-06 | 2023-04-29 |

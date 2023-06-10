@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Matterhorn",
+        "url": "https://open.spotify.com/album/5JQcYPZdtvwPfjrEKGgXMs"
+      },
+      "artists": [
+        {
+          "name": "The Country Gentlemen",
+          "url": "https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Matterhorn",
+      "url": "https://open.spotify.com/track/3Ip1Z02mNhxAKQUPfYefc2"
+    },
+    {
+      "album": {
         "name": "Good Old Camp Meeting Songs",
         "url": "https://open.spotify.com/album/13765L8ZA4QoTJNLPNI3vV"
       },

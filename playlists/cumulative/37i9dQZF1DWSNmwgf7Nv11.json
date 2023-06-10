@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Chasing Spirits",
+        "url": "https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164917,
+      "name": "Chasing Spirits",
+      "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
+    },
+    {
+      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
       },

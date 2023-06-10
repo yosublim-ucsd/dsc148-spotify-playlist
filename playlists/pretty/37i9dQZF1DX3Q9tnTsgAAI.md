@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,391 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,399 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 114 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 115 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MCw0ZjE5YWJkNjczNTNkMzg1Njk2NjkwMWM2YjViZDk1ODA2NWZkMGU5`
+Snapshot ID: `MCwyNGI0YjkzMmIzMGFiYTg5ODA3NDIyZmRlODJlMGExODU1NDcwZmIz`

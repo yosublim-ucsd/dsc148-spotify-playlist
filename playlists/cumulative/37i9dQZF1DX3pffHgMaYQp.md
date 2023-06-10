@@ -2,9 +2,9 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> Música para insubordinados\. Dillom en portada.
+> Música para insubordinados\. Carolina Durante en portada.
 
-87 songs - 4 hr 47 min
+89 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 | 2023-03-31 |  |
 | [Pedro María Anaya](https://open.spotify.com/track/2U12UjXPdF2y6kDkIiyOMH) | [MEELT](https://open.spotify.com/artist/2zLI8fALCE5nBtKcvzqXY3) | [Buscapleitos](https://open.spotify.com/album/0vDK1YN07m1pACN5ZoF0Qn) | 4:02 | 2022-03-25 |  |
 | [Perro Quieto](https://open.spotify.com/track/1xrODYFckm3LB32KtUgpbJ) | [Loiis](https://open.spotify.com/artist/3VBZYuZlqBLBXKNtCz5knz) | [Wimbledon](https://open.spotify.com/album/1MwiOHgqYHnyfzuHIKhw5p) | 5:13 | 2022-03-25 |  |
+| [Plan Z.E.N.](https://open.spotify.com/track/6meYT2oiVwCKHAB1NJCi7w) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Plan Z.E.N.](https://open.spotify.com/album/7avi7XMW0Q1wEcUsBWcVvP) | 3:13 | 2023-06-09 |  |
 | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/track/0zgbf52Epwji5epCpvDEWk) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/album/4BFYE0jc2qL7uVSNha6Qnu) | 2:47 | 2022-03-25 |  |
 | [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 | 2022-03-25 |  |
 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 |  |
@@ -83,6 +84,7 @@
 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 | 2022-03-25 | 2022-12-13 |
 | [Tibio \(feat\. Alo\)](https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/4vsAT0CdijFI9X3BUks2uv) | 6:24 | 2022-03-25 |  |
 | [Todo el mundo miente](https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:27 | 2022-03-25 |  |
+| [Todo Está Podrido](https://open.spotify.com/track/6xYI7MZpLD5HDLxC8hHjDI) | [Animales Muertos](https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ) | [Todo Está Podrido](https://open.spotify.com/album/4kwoIahAmAVMhDb5oK5iDF) | 2:18 | 2023-06-09 |  |
 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 | 2022-03-25 |  |
 | [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 |  |
 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 | 2022-03-25 |  |

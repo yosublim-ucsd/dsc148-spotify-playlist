@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 29944,
+  "num_followers": 30097,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmFmODJhZjgyMmE2MWY0NjdhYWQwNzg5Mzg1ZmJiYjA3MTJkODdi",
+  "snapshot_id": "MCwyOGRlNzA2NzE5OWYxODg1MjRmNGNmNmY2MjdhOTYyNDlmZDQ4Nzg4",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -631,38 +631,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live Art",
-        "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 326560,
-      "name": "Stomping Grounds - Live Version",
-      "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 413929,
       "name": "Fire On The Mountain - Live",
       "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Live Art",
+        "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "duration_ms": 326560,
+      "name": "Stomping Grounds - Live Version",
+      "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Where the Fields Grow Green",
+        "url": "https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4"
+      },
+      "artists": [
+        {
+          "name": "Ekoostik Hookah",
+          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
+        }
+      ],
+      "duration_ms": 310160,
+      "name": "Hookahville",
+      "url": "https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
         "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 645680,
       "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
       "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Where the Fields Grow Green",
-        "url": "https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4"
-      },
-      "artists": [
-        {
-          "name": "Ekoostik Hookah",
-          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
-        }
-      ],
-      "duration_ms": 310160,
-      "name": "Hookahville",
-      "url": "https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Live at House of Blues Boston (12/31/2018)",
+        "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
+      },
+      "artists": [
+        {
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+        }
+      ],
+      "duration_ms": 430066,
+      "name": "Lost in the Cold (Live)",
+      "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
         "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 665397,
       "name": "Dear Prudence - Live",
       "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Live at House of Blues Boston (12/31/2018)",
-        "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
-      },
-      "artists": [
-        {
-          "name": "Twiddle",
-          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
-        }
-      ],
-      "duration_ms": 430066,
-      "name": "Lost in the Cold (Live)",
-      "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
     },
     {
       "added_at": "2023-04-06 15:04:32",

@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Distant Star",
+        "url": "https://open.spotify.com/album/5SdsLcQdZWrGwxd5DXczl3"
+      },
+      "artists": [
+        {
+          "name": "Noonie Moon",
+          "url": "https://open.spotify.com/artist/2RXwgNtFF0mBC58e97XaWf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115443,
+      "name": "Distant Star",
+      "url": "https://open.spotify.com/track/1J0hsOJoJA2GuY1Yd08owz"
+    },
+    {
+      "album": {
         "name": "Dream Circuit",
         "url": "https://open.spotify.com/album/32sWGjAHu2Bdotu9nFBI3N"
       },
@@ -6906,6 +6924,24 @@
       "duration_ms": 157544,
       "name": "Pulchra",
       "url": "https://open.spotify.com/track/1IDVgnfcpNCSz39MJqziCf"
+    },
+    {
+      "album": {
+        "name": "pull me in",
+        "url": "https://open.spotify.com/album/4KwVnXzkcEfVGAnT94IUeu"
+      },
+      "artists": [
+        {
+          "name": "Sun Of They",
+          "url": "https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186009,
+      "name": "pull me in",
+      "url": "https://open.spotify.com/track/6Nk81KRPclU0PJmYQeEZyF"
     },
     {
       "album": {

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Ai Senshi",
+        "url": "https://open.spotify.com/album/7ElpBzSDigXgsFhCgxS2mm"
+      },
+      "artists": [
+        {
+          "name": "Daisuke Inoue",
+          "url": "https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Ai Senshi",
+      "url": "https://open.spotify.com/track/1H69lVwtjpEUB8nAyeahfy"
+    },
+    {
+      "album": {
         "name": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9006\u8972\u306e\u30b7\u30e3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx"
       },
@@ -293,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Meguriai",
+        "url": "https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt"
+      },
+      "artists": [
+        {
+          "name": "Daisuke Inoue",
+          "url": "https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "Meguriai",
+      "url": "https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK"
+    },
+    {
+      "album": {
         "name": "My Neighbor Totoro Image Song Collection",
         "url": "https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf"
       },
@@ -470,6 +506,32 @@
       "duration_ms": 259433,
       "name": "Step",
       "url": "https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA"
+    },
+    {
+      "album": {
+        "name": "Tobe! GUNDAM",
+        "url": "https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU"
+      },
+      "artists": [
+        {
+          "name": "Kou Ikeda",
+          "url": "https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8"
+        },
+        {
+          "name": "Feeling Free",
+          "url": "https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK"
+        },
+        {
+          "name": "Music Creation",
+          "url": "https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Tobe! GUNDAM",
+      "url": "https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97"
     },
     {
       "album": {
@@ -686,7 +748,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 263600,
       "name": "\u3081\u3050\u308a\u3042\u3044",
       "url": "https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S"
@@ -1044,7 +1106,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 231000,
       "name": "\u54c0 \u6226\u58eb",
       "url": "https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY"
@@ -1484,7 +1546,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 165666,
       "name": "\u7fd4\u3079!\u30ac\u30f3\u30c0\u30e0",
       "url": "https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW"

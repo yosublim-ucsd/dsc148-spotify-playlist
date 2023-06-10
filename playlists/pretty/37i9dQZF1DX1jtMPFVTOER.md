@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,312 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,349 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 94 | [Dance Me to the End of Love](https://open.spotify.com/track/0Y1g2LSiI1HxQIkFsoUowM) | [Marti Nikko](https://open.spotify.com/artist/3DvPqo8458pRmavTwSGxo7), [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F), [Egemen Sanli](https://open.spotify.com/artist/39Hxxiq33beoXGP8uKjbXi) | [Dance Me to the End of Love](https://open.spotify.com/album/1AwNt2lpOWLY8oOvNCQbKa) | 4:48 |
 | 95 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
 | 96 | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/4VMzhRu40whxcDcKuoHLr0) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:32 |
-| 97 | [Daylight](https://open.spotify.com/track/5Flg2sCDHIBGevslsbSqUm) | [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Daylight](https://open.spotify.com/album/0NjVS54AvP3q9cr7G6Z2oA) | 4:18 |
+| 97 | [Daylight](https://open.spotify.com/track/5Flg2sCDHIBGevslsbSqUm) | [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266), [Jas Green](https://open.spotify.com/artist/6iKLYoykMe7YUIc0EFFMsO) | [Daylight](https://open.spotify.com/album/0NjVS54AvP3q9cr7G6Z2oA) | 4:18 |
 | 98 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 99 | [sleeping at the party](https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh) | [sleeping at the party](https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT) | 2:35 |
 | 100 | [Cryin' Heart](https://open.spotify.com/track/6ZMugawDueowg6Zi4X0mN3) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Cryin' Heart](https://open.spotify.com/album/01IOkT1OwNi3WhwsP2yojE) | 3:29 |
 
-Snapshot ID: `MCxlYmY5YWRmMjM0MGJmZTRmNTczZWNmOTQ5YjZjYmRlMjJhMDI0OTc5`
+Snapshot ID: `MCwzMzU3MWY5MGY4MmE4ZDhhYTZkYzg3OWFlNjVkNWM0Y2Q1NzlhMDQx`

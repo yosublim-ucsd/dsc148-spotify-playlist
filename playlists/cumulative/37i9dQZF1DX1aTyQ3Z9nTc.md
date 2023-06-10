@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-308 songs - 16 hr 56 min
+309 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-07-30 | 2023-03-16 |
 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 | 2021-07-26 | 2022-07-19 |
 | [Radon Dungeon](https://open.spotify.com/track/3GsYzen1VfqmHXqgg67Wfj) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [Radon Dungeon](https://open.spotify.com/album/4YqteCrJtBqi6X1xvunUVj) | 3:24 | 2021-07-26 | 2022-06-26 |
-| [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-07-26 |  |
+| [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-07-26 | 2023-06-10 |
 | [Reflection](https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 4:00 | 2021-07-26 | 2022-07-29 |
 | [Remember Me](https://open.spotify.com/track/2weQXKgUMh3OKNvrQJijyz) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [Somehow / Remember Me](https://open.spotify.com/album/3lA0nAOkURWpTf6byiRnXv) | 3:30 | 2021-07-26 | 2022-04-15 |
 | [Retro](https://open.spotify.com/track/0wi4gkHVHSARtzyqnMZNno) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk) | [Retro](https://open.spotify.com/album/2fY15GrZqMNBWhluqG9kIo) | 2:35 | 2021-11-19 | 2022-07-10 |
@@ -270,6 +270,7 @@
 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 | 2021-07-26 | 2023-04-01 |
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-07-26 | 2022-07-29 |
 | [Throw That Back](https://open.spotify.com/track/7MiE0I58L6n6L7lmPKwe73) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Throw That Back](https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE) | 3:07 | 2021-07-26 | 2022-07-29 |
+| [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 | 2023-04-28 |  |
 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 | 2022-05-02 | 2022-09-10 |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2021-07-26 | 2022-07-28 |
 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 | 2022-09-16 | 2022-11-24 |

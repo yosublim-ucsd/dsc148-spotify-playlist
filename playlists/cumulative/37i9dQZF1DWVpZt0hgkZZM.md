@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-106 songs - 7 hr 21 min
+108 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [La Lira](https://open.spotify.com/track/5iQLKcB8MT3TcgBk1qFscs) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 3:28 | 2021-12-16 | 2023-05-27 |
 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2021-12-16 |  |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2021-12-16 | 2023-05-19 |
-| [La Parabólica](https://open.spotify.com/track/7vOIqGT5cobBn6ouLwp3ul) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 8\)](https://open.spotify.com/album/0f6vzMOGPjkmXrk5yboync) | 3:25 | 2021-12-16 |  |
+| [La Parabólica](https://open.spotify.com/track/7vOIqGT5cobBn6ouLwp3ul) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 8\)](https://open.spotify.com/album/0f6vzMOGPjkmXrk5yboync) | 3:25 | 2021-12-16 | 2023-06-10 |
 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 | 2021-12-16 |  |
+| [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2021-12-16 |  |
 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 | 2021-12-16 |  |
 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 | 2021-12-16 |  |
 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 | 2021-12-16 |  |
@@ -70,7 +71,7 @@
 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 | 2021-12-16 |  |
 | [Maruja](https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS) | [Sonora Dinamita](https://open.spotify.com/artist/4GEVWh8Sit4x10PFf6ZFey) | [El Disco de Oro para Equipos de Sonido, Vol\. 3](https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u) | 3:57 | 2021-12-16 |  |
 | [Mas Que Amiga](https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf) | [Grupo Bananas](https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8) | [Un Mundo De Colores](https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff) | 4:14 | 2021-12-16 |  |
-| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 |  |
+| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 | 2023-06-10 |
 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 | 2021-12-16 |  |
 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 | 2021-12-16 |  |
 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 | 2021-12-16 |  |
@@ -80,6 +81,7 @@
 | [Muchacha Encantadora](https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:17 | 2021-12-16 |  |
 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 | 2021-12-16 |  |
 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 | 2021-12-16 |  |
+| [Murió el Amor](https://open.spotify.com/track/3IBHk98QXBCC7Zv8mbOD4G) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:09 | 2021-12-16 |  |
 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 | 2021-12-16 |  |
 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 | 2021-12-16 |  |
 | [Ojitos Hechiceros](https://open.spotify.com/track/0ksLUL7VoeNwHJsmO9ldnR) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:40 | 2021-12-16 |  |

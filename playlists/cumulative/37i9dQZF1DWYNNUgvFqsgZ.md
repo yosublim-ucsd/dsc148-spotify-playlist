@@ -4,7 +4,7 @@
 
 > A legacy of strength & power\.  Curated by: Russell Wilson
 
-41 songs - 2 hr 44 min
+42 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/3WBmup4UQrVUgpFbRGnSls) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd) | 4:23 | 2021-02-15 |  |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/5MmC9qcCkQPMMb5Ye4l4jA) | 4:21 | 2021-02-15 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2021-02-15 |  |
-| [Level Up](https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:24 | 2021-02-15 |  |
+| [Level Up](https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:24 | 2021-02-15 |  |
+| [Level Up](https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:24 | 2021-02-15 | 2023-06-10 |
 | [Love Me Now](https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:30 | 2021-02-15 |  |
 | [LOYALTY\. FEAT\. RIHANNA.](https://open.spotify.com/track/4RIl218uURN8ba6Xd6Te4n) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 3:47 | 2021-02-15 |  |
 | [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:19 | 2021-02-15 |  |

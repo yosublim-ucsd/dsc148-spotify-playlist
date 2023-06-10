@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,130 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,160 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 43 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
 | 44 | [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 |
 | 45 | [Come On \(City Girls, Saweetie feat\. DJ Durel\)](https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:07 |
-| 46 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
-| 47 | [Handle It](https://open.spotify.com/track/61PcyQZqlHDf4hiYPdHGGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kali Cass](https://open.spotify.com/artist/2BhAM5ZQjA4rH0JmsyfuRe) | [Handle It](https://open.spotify.com/album/78Ov02ocDiQ5aNk5cFUm9M) | 2:04 |
+| 46 | [Handle It](https://open.spotify.com/track/61PcyQZqlHDf4hiYPdHGGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kali Cass](https://open.spotify.com/artist/2BhAM5ZQjA4rH0JmsyfuRe) | [Handle It](https://open.spotify.com/album/78Ov02ocDiQ5aNk5cFUm9M) | 2:04 |
+| 47 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
 | 48 | [Broke Boy](https://open.spotify.com/track/3E7jehnxsH4xZAuxDQg4zC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:08 |
 | 49 | [Fuck It Up \(feat\. City Girls & Tyga\)](https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Fuck It Up \(feat\. City Girls & Tyga\)](https://open.spotify.com/album/1V4dbLC7PqSzf0cXKWIwzk) | 2:54 |
 | 50 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 |
 
-Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDBiMTNjNDkyMGYyYWRjNjU3MjBmOTY0OWVmYzNjMTUzZg==`
+Snapshot ID: `MjgxMDUyMDYsMDAwMDAwMDA2YzE4YjM0MTFiYWIwYTk0OTk3OGExNmJmNzQ4NWU1Yw==`

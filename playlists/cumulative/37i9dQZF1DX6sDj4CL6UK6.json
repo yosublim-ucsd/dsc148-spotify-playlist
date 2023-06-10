@@ -296,7 +296,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203526,
       "name": "Bad for Me",
       "url": "https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF"
@@ -3868,7 +3868,7 @@
       },
       "artists": [
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
@@ -4122,6 +4122,32 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/46A4zcNfC1xLw5ziGIeU1P"
+      },
+      "artists": [
+        {
+          "name": "Meba Ofilia",
+          "url": "https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD"
+        },
+        {
+          "name": "Issamood",
+          "url": "https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW"
+        },
+        {
+          "name": "Dappest",
+          "url": "https://open.spotify.com/artist/5gbLQgs5c4ow3KIOx30IoX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1hRg4KmSV3P1BktyCaewOC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6"

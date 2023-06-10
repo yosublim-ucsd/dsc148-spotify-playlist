@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: grentperez.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Los Aptos x Cuco.",
   "name": "borderless",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 223080,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6veDfkluTetAypC3SffZwr"
@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Dramatic",
+        "url": "https://open.spotify.com/album/7zuVkzNngf7t4HhKVedfCt"
+      },
+      "artists": [
+        {
+          "name": "Amen Sioux",
+          "url": "https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239130,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/5IdS03tpt2M477K2rgzgoq"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2Vmoh3yzhnTkpL71D9BuOG"
       },
@@ -3038,6 +3056,24 @@
       "duration_ms": 124028,
       "name": "Dusty Issues",
       "url": "https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk"
+    },
+    {
+      "album": {
+        "name": "d\u00e9sert alimentaire",
+        "url": "https://open.spotify.com/album/7vN3Q76FIrnHxPs2DElKyk"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190431,
+      "name": "d\u00e9sert alimentaire",
+      "url": "https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse"
     },
     {
       "album": {
@@ -3468,7 +3504,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173039,
       "name": "Everybody Loves Sad Songs",
       "url": "https://open.spotify.com/track/2MOeboWxYSIDyiADtW4YjE"
@@ -4408,7 +4444,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 230080,
       "name": "Go",
       "url": "https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND"
@@ -4470,7 +4506,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 119862,
       "name": "Going On (feat. Bickleboy & Nana Lourdes)",
       "url": "https://open.spotify.com/track/6MPjem0pchL2al9Yapa4Zc"
@@ -5661,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
+      "album": {
         "name": "Kisses",
         "url": "https://open.spotify.com/album/6Ac4rm2qp3VdgvKV1ylgVW"
       },
@@ -6164,6 +6218,24 @@
       "duration_ms": 199008,
       "name": "Let's Be Dead Together",
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "album": {
+        "name": "Let's Start a Country",
+        "url": "https://open.spotify.com/album/2MaaIRpWUxEpq35j8BwqDR"
+      },
+      "artists": [
+        {
+          "name": "Hot Freaks",
+          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Let's Start a Country",
+      "url": "https://open.spotify.com/track/41KhQPE4YvR5DolLkzqPgp"
     },
     {
       "album": {
@@ -7141,6 +7213,28 @@
     },
     {
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm"
       },
@@ -7948,7 +8042,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196616,
       "name": "N\u00e3o Fui Feito Para Amar",
       "url": "https://open.spotify.com/track/0VU3NbFJN4FbLHWz71GALq"
@@ -8129,6 +8223,24 @@
     },
     {
       "album": {
+        "name": "swirly",
+        "url": "https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205958,
+      "name": "on s'en fou",
+      "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"
+    },
+    {
+      "album": {
         "name": "One Night with The Valet",
         "url": "https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh"
       },
@@ -8166,6 +8278,24 @@
       "duration_ms": 249541,
       "name": "Only Tonight",
       "url": "https://open.spotify.com/track/7sdvbA1UrWaASUs1S5T36c"
+    },
+    {
+      "album": {
+        "name": "Ontas",
+        "url": "https://open.spotify.com/album/0AdXtGSvqTSOkZPUqua1eX"
+      },
+      "artists": [
+        {
+          "name": "elito",
+          "url": "https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Ontas",
+      "url": "https://open.spotify.com/track/5c0ANTIJT5sybnh0OINtTo"
     },
     {
       "album": {
@@ -8572,6 +8702,28 @@
       "duration_ms": 263823,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/4t4DAOAR5YGGHycUfQjiDq"
+    },
+    {
+      "album": {
+        "name": "Pelle di Luna",
+        "url": "https://open.spotify.com/album/3TRgOTbfEChBvkASMuoAfK"
+      },
+      "artists": [
+        {
+          "name": "Tatum Rush",
+          "url": "https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr"
+        },
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188769,
+      "name": "Pelle di Luna",
+      "url": "https://open.spotify.com/track/4vfOq0LA2sKNkZR24xnSWP"
     },
     {
       "album": {
@@ -9317,6 +9469,24 @@
     },
     {
       "album": {
+        "name": "Revolve Around You",
+        "url": "https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Revolve Around You",
+      "url": "https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm"
+    },
+    {
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -9898,7 +10068,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 238298,
       "name": "Shame",
       "url": "https://open.spotify.com/track/4VZbRpHCrWuJtOr89KcHrU"
@@ -9938,7 +10108,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203380,
       "name": "Shorty 2",
       "url": "https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J"
@@ -10608,6 +10778,24 @@
       "duration_ms": 167974,
       "name": "stuck in the cloud",
       "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
+    },
+    {
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "album": {
@@ -12222,6 +12410,24 @@
       "duration_ms": 183643,
       "name": "WHAT IF WE FALL IN LOVE?",
       "url": "https://open.spotify.com/track/2Y7PDa6oYYTbsTp0fRpizS"
+    },
+    {
+      "album": {
+        "name": "What's up",
+        "url": "https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH"
     },
     {
       "album": {

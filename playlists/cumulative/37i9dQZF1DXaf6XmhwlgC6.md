@@ -2,9 +2,9 @@
 
 ### [Atmospheric Focus](https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6)
 
-> Music from the ether to focus to.
+> Music from the ether to focus and study to.
 
-205 songs - 10 hr 53 min
+208 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [forward thinking](https://open.spotify.com/track/5xKohBCQd8wzOeXmtAMvTS) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [forward thinking](https://open.spotify.com/album/6oRs6YLnM18Zo6sOyparRg) | 3:01 | 2022-07-08 |  |
 | [Free Like The Wind](https://open.spotify.com/track/3ntpDVWUeikEroH6Qkj1vG) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Free Like The Wind](https://open.spotify.com/album/7h0Iap2Tws6QSXmxuF2S6a) | 2:48 | 2022-07-08 |  |
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-03-30 |  |
+| [Grounded](https://open.spotify.com/track/7mVts0s26dcB926oonXeoT) | [Pursue Earth](https://open.spotify.com/artist/2p9T2VRJ5VITfZP2brFNVE) | [Grounded](https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8) | 2:25 | 2023-06-09 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
 | [Homeward](https://open.spotify.com/track/73ezDZrPMOCfrd06ctU2lI) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Homeward](https://open.spotify.com/album/67LC6kwgCHBawwvif4AG6k) | 2:29 | 2023-02-09 |  |
@@ -160,6 +161,7 @@
 | [Steadfast](https://open.spotify.com/track/2qTBy6oygbjPTEpitegxXE) | [Yokocho Chords](https://open.spotify.com/artist/03lwJjylwMLizTFvD1sDEC) | [Steadfast](https://open.spotify.com/album/5gDummFOXZRMs6CYc70iDO) | 2:43 | 2023-03-03 |  |
 | [Still Here](https://open.spotify.com/track/4HFsdkbBXreHBwhfdn1SuK) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Still Here](https://open.spotify.com/album/0K9P90uTgLYvq8D41LCcbY) | 2:08 | 2023-03-23 |  |
 | [Still In Orbit](https://open.spotify.com/track/7IlYLp9sTZ0PIesayFaVPW) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Still In Orbit](https://open.spotify.com/album/1wfeLC1EIMoAPsgGS23UN5) | 2:36 | 2023-03-10 |  |
+| [Stoic](https://open.spotify.com/track/5MkNHsjfPQJT55YRNawXDC) | [Sun Kissed Sky](https://open.spotify.com/artist/5HkFsCNO0S6DI1nfvHxUi6) | [Stoic](https://open.spotify.com/album/1R188q8lWvdB1tXdr9j3Xe) | 2:23 | 2023-06-09 |  |
 | [Submerse](https://open.spotify.com/track/5xVEKVMskuh7swhSZ34s2B) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [Submerse](https://open.spotify.com/album/51rKwdDlgPKoZjKUcdlFS7) | 2:52 | 2023-03-23 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Swirl](https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Swirl](https://open.spotify.com/album/01Qt1xfREQwMLZVPceyipW) | 2:09 | 2023-02-09 |  |
@@ -171,6 +173,7 @@
 | [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 | 2022-11-11 |  |
 | [The C In Certain](https://open.spotify.com/track/0ODPuMwahnYlaQpwgSnjtd) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/5OpO6CnNwj9uBUc3JaupAr) | 6:23 | 2022-03-30 | 2022-07-29 |
 | [The C In Certain](https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/07ZrOXMlp266UZ7QILUOFO) | 6:23 | 2022-07-15 | 2023-01-28 |
+| [The Dream](https://open.spotify.com/track/6CsUuJ9gacyycbcVSUVBvk) | [Cherries & Daydreams](https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA) | [The Dream](https://open.spotify.com/album/3aE5W4L8nurRgcvUIgvNUj) | 2:19 | 2023-06-09 |  |
 | [The Gathering](https://open.spotify.com/track/6Wgkn09AhQjIzFK1qx4xvY) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Gathering](https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF) | 2:10 | 2023-01-27 |  |
 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 |  |
 | [The Light We Saw](https://open.spotify.com/track/1V8ldResSotRaJmU14r1IX) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [The Light We Saw](https://open.spotify.com/album/0JoJa8DNkmRGQwCAo7amaC) | 3:36 | 2023-03-31 |  |

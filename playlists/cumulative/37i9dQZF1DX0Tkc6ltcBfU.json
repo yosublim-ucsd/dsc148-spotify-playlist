@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw"
+    },
+    {
+      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4"
       },
@@ -5128,7 +5146,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 158196,
       "name": "Head Over heels",
       "url": "https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax"
@@ -5891,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
+    },
+    {
+      "album": {
         "name": "i need u",
         "url": "https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz"
       },
@@ -6492,7 +6528,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 170083,
       "name": "KANEKI",
       "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
@@ -6576,10 +6612,40 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 138945,
       "name": "Keep Dat Nigga",
       "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
+    {
+      "album": {
+        "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+        "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202468,
+      "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
     },
     {
       "album": {
@@ -11650,7 +11716,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 165144,
       "name": "Somebody can love you",
       "url": "https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ"
@@ -14418,6 +14484,28 @@
       "duration_ms": 196951,
       "name": "Wockin\u2019 On A Wire (feat. NoCap)",
       "url": "https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH"
+    },
+    {
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167125,
+      "name": "Woedy",
+      "url": "https://open.spotify.com/track/0SA4nmbOKqfmpgu7yuRVLE"
     },
     {
       "album": {

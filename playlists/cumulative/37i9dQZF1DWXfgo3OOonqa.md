@@ -4,7 +4,7 @@
 
 > d min bratkooooo
 
-1,039 songs - 1 day 21 hr 51 min
+1,041 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Baby \(feat\. Asme & Ricky Rich\)](https://open.spotify.com/track/6A0qeZiQc0HoKZuoiHJdnG) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 3:03 | 2021-12-16 | 2022-01-14 |
 | [Baby \(Galen i mig\)](https://open.spotify.com/track/73aZxHFqEiqRH3CniLg5kE) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Baby \(Galen i mig\)](https://open.spotify.com/album/29n4L86hXwDO5iIKYchgwZ) | 2:18 | 2023-04-27 | 2023-06-02 |
 | [Bacardi](https://open.spotify.com/track/3dA1lU0x8Hm2MlCqz3w7cH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:28 | 2022-04-28 | 2022-07-15 |
-| [Bacardi](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [Bacardi](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 | 2023-06-08 |  |
+| [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 | 2023-06-08 |  |
 | [Back 2 Back](https://open.spotify.com/track/6aHLVrKdThtnm0EboXtPYk) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Back 2 Back](https://open.spotify.com/album/54oLT4AaGd9KKPwHl1T2tD) | 3:06 | 2022-05-02 | 2022-06-10 |
 | [Backshots](https://open.spotify.com/track/2xOpz4BtdSVRwuFnTMrNtA) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Backshots](https://open.spotify.com/album/4afgBOCs5GvnjNZXROePK9) | 2:57 | 2022-05-12 | 2022-06-23 |
 | [Backstage \(feat\. VC Barre\)](https://open.spotify.com/track/0So6sGaRLDiyxEKVusbNDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Baby Nine 3](https://open.spotify.com/album/3PBs30HJBtGyPZgvaj5iH3) | 2:00 | 2022-05-05 | 2022-06-24 |
@@ -251,7 +251,8 @@
 | [Den ja e](https://open.spotify.com/track/3OGYS5Ptq6GzybyDjG74CQ) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Den ja e](https://open.spotify.com/album/5r4AM90rT6yaN4BJxgEamH) | 2:34 | 2022-07-21 | 2022-08-12 |
 | [Devilish](https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Devilish](https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF) | 2:28 | 2022-09-15 | 2022-11-25 |
 | [Dexter](https://open.spotify.com/track/7lEvAbpXa91doVdZGMkQHy) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:55 | 2022-09-01 | 2022-09-30 |
-| [DIANA](https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/463hymJPPE49Iyhxdzgy5s) | 2:28 | 2023-06-01 |  |
+| [DIANA](https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/463hymJPPE49Iyhxdzgy5s) | 2:28 | 2023-06-01 | 2023-06-10 |
+| [DIANA](https://open.spotify.com/track/3fYtCSU8WwhrUql7VHYoFn) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/6G2FVjxl8Ag5rDe4eC3KkV) | 2:28 | 2023-06-08 |  |
 | [Dikembe Mutombo](https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Dikembe Mutombo](https://open.spotify.com/album/4bSVtE8StstXg8BhEZpwQf) | 2:35 | 2022-02-25 | 2022-03-25 |
 | [Dilemma](https://open.spotify.com/track/0x8ZdkATlHBkyn4eGYq9Gw) | [Castro x Picasso](https://open.spotify.com/artist/4fS8AQG87ns7nrKuFW9wbO), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Dilemma](https://open.spotify.com/album/4ABh1WUHu0hCHOxC2AaNTu) | 3:02 | 2022-06-17 | 2022-07-08 |
 | [DIMMAN](https://open.spotify.com/track/1NFtCUwN5Td1lDNmqSvWyG) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [FRÖ TILL TRÄD](https://open.spotify.com/album/5LXvbb8ULvqzS48Xo9aIc6) | 3:07 | 2023-02-02 | 2023-02-24 |
@@ -607,7 +608,8 @@
 | [Makine](https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [Makine](https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk) | 2:10 | 2023-05-18 |  |
 | [MALI](https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MALI](https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK) | 2:34 | 2021-12-16 | 2022-02-11 |
 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 | 2022-12-29 | 2023-03-18 |
-| [MALMO VICE](https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMO VICE](https://open.spotify.com/album/7xnOMx2EiUCYSmNQkFxT4h) | 2:00 | 2023-06-08 |  |
+| [MALMO VICE](https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMO VICE](https://open.spotify.com/album/7xnOMx2EiUCYSmNQkFxT4h) | 2:00 | 2023-06-08 | 2023-06-10 |
+| [MALMÖ VICE](https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMÖ VICE](https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy) | 2:00 | 2023-06-08 |  |
 | [Mama](https://open.spotify.com/track/1iUJ4F2csgFZhaVGLWYIXI) | [Planoche](https://open.spotify.com/artist/5U453aPh0nAFKtH5rTCodp) | [Mama](https://open.spotify.com/album/6wnHtZfjfGhu3zDPkHmyaU) | 2:59 | 2023-03-30 | 2023-04-28 |
 | [Mama mia](https://open.spotify.com/track/19GNR6HUUjokoEZ1leN667) | [Nathan K](https://open.spotify.com/artist/0gjoWt9fRKf09gYem1xjn6) | [Mama mia](https://open.spotify.com/album/2EKFssEeg8sl1ct5WET1gb) | 2:29 | 2022-07-14 | 2022-08-05 |
 | [Mami](https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:19 | 2022-09-01 | 2022-10-14 |

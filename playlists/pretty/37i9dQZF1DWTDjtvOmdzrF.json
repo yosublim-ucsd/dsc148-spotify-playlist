@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554988,
+  "num_followers": 555100,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTA5NjkwZDMwMGU2NTE1YTJlYjUyMzhkZmNjY2Q0NTg4MjI2ODcz",
+  "snapshot_id": "MCwyYTM2ZDgzMDM4Yjk0MjBhZTA1Y2JlYWI1OTI5YmUyZmJhYjZhZjkw",
   "tracks": [
     {
       "added_at": "2023-06-07 04:51:17",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
       "artists": [
         {
-          "name": "Skinnyfabs",
-          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 173217,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+        "name": "happy",
+        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Skinnyfabs",
+          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
         }
       ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+      "duration_ms": 173217,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
+        "name": "Rumpang",
+        "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 323571,
+      "name": "Rumpang",
+      "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
+    },
+    {
+      "added_at": "2023-06-07 04:51:17",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 229120,
       "name": "Mine",
       "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
-    },
-    {
-      "added_at": "2023-06-07 04:51:17",
-      "album": {
-        "name": "Rumpang",
-        "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 323571,
-      "name": "Rumpang",
-      "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
       "artists": [
         {
-          "name": "Anda Perdana",
-          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
         }
       ],
-      "duration_ms": 219706,
-      "name": "Menghitung Hari 2",
-      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
+      "duration_ms": 257760,
+      "name": "Dewi",
+      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
     }
   ],
   "unique_name": "Kopikustik",

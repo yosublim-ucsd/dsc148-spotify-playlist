@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks's exclusive sound pack for <a href=“https://soundtrap.com”>Soundtrap, </a>  Spotify’s digital music studio for songwriters and beat makers.
+> The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,983 likes - 868 songs - 2 day 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,986 likes - 868 songs - 2 day 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -877,4 +877,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 867 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 868 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCxjYzMxZjY4OTZiZGVjNGM2NjQzNWM4NmMzZTU0MzRiYWEwZjMzY2Nh`
+Snapshot ID: `MCw1MDhmNjMwOTllYWFmNzA2NTA2ZTc5NDE3NDcyZjllMmZmODYyMTIw`

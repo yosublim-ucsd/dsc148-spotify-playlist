@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. OMINI in cover!
 
-463 songs - 1 day 1 hr 45 min
+464 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Per fortuna non t'ho visto più](https://open.spotify.com/track/4UUzOglsn0sSd4JvUq5iwr) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Per fortuna non t'ho visto più](https://open.spotify.com/album/5ThHUuh06qZ58vOEEi1Z1j) | 2:31 | 2022-11-10 | 2023-02-03 |
 | [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:23 | 2023-03-09 | 2023-06-02 |
 | [Pezzettino di fuoco](https://open.spotify.com/track/3dygYBnpoHRyGg1BXbISTC) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Pezzettino di fuoco](https://open.spotify.com/album/3cWOlZYIL3eExOmzb2UCtF) | 2:29 | 2023-03-23 | 2023-05-26 |
+| [Piece of Land](https://open.spotify.com/track/4RddNnwvbX7UU1UhCWUyPM) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Walls Have Told Me](https://open.spotify.com/album/0Zz4Ce5RmKBTIT0Hg1EKq3) | 2:46 | 2023-06-09 |  |
 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 | 2023-03-02 | 2023-04-21 |
 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 | 2022-05-12 | 2022-08-26 |
 | [Porci democristiani](https://open.spotify.com/track/4g3jVoInr14fT2myZwsnSe) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Porci democristiani](https://open.spotify.com/album/4zeT7erg13vLhYAsnIrZx7) | 2:28 | 2023-01-26 | 2023-03-03 |

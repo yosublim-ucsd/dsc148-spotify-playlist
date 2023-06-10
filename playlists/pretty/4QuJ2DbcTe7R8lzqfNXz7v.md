@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 513,063 likes - 100 songs - 5 hr 59 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 513,048 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Janelle Monae",
-  "num_followers": 83991,
+  "num_followers": 83998,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTRiYWI4NmJjMDhlMWIwYmY2MzdkYTMwYmEyZDliZmZiODRhZTRh",
+  "snapshot_id": "MCxlN2M2Yzg3NGQ5OTA2ZmFhYTNhMDg2MTkzNWE2MDNkNjk1NDQ3NzY3",
   "tracks": [
+    {
+      "added_at": "2023-06-08 15:00:00",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+    },
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
@@ -31,7 +47,7 @@
     {
       "added_at": "2023-06-08 15:00:00",
       "album": {
-        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
       "artists": [
@@ -49,7 +65,7 @@
         }
       ],
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {

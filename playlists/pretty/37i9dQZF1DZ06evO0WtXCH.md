@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 16 | [Warm And Low](https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:48 |
 | 17 | [Omission](https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:33 |
 | 18 | [Divorce](https://open.spotify.com/track/6sOB7Q3V0k6mJBv6wPe4NN) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 1:44 |
-| 19 | [Phase 90](https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:34 |
+| 19 | [Colossus](https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:18 |
 | 20 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 |
 | 21 | [Freezing Process](https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:19 |
 | 22 | [Blister](https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:08 |
-| 23 | [Colossus](https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:18 |
+| 23 | [Phase 90](https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:34 |
 | 24 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 |
 | 25 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 | 26 | [Spoken Through Clouds](https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:07 |
 | 27 | [>](https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 0:47 |
 | 28 | [Fire This Time](https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:22 |
 
-Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDAyNjg0ODcxOGMwYzJkNzNhODNmZGVjOTAyOTc2MTc1YQ==`
+Snapshot ID: `MjgxMDUyMDYsMDAwMDAwMDAzOTgzNDQzM2Y4M2E2ZTRkM2QyZmE2OTY1OWFlMGJjYg==`

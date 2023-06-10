@@ -2,9 +2,9 @@
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
-> The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
+> The best new songs from modern singer\-songwriters\. Cover: Catie Turner
 
-389 songs - 22 hr 12 min
+390 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [cigarette holes](https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [cigarette holes](https://open.spotify.com/album/1nuf7xVIP1J9rpeGje6zLD) | 2:26 | 2022-01-21 | 2022-07-23 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-22 |  |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-11-19 | 2022-03-03 |
+| [Comedy & Tragedy](https://open.spotify.com/track/3YnLzYtTnUwjCpgmZ2EKqh) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 2:39 | 2023-06-09 |  |
 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 | 2022-09-06 | 2023-01-14 |
 | [consequences.](https://open.spotify.com/track/0EAaIM4y3GYvHurNQu8YZt) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:48 | 2022-07-22 | 2022-10-08 |
 | [Control](https://open.spotify.com/track/2AQG1Jv6M9Ln47usagKN8z) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note To Self](https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY) | 3:30 | 2021-11-19 | 2022-07-29 |
@@ -339,7 +340,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-07-16 |
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-05-13 | 2022-07-29 |
 | [The Man](https://open.spotify.com/track/5nhEyOUHbPrKfjOGpadH9M) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [The Man](https://open.spotify.com/album/3ezfgB0YGKjCMLn01IO7ae) | 3:47 | 2022-06-08 | 2022-07-29 |
-| [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2021-11-19 |  |
+| [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2021-11-19 | 2023-06-10 |
 | [The Real Thing](https://open.spotify.com/track/3hDIkJvUCJIeDFLaBwfGCX) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Real Thing](https://open.spotify.com/album/7qgdjLl3FZMTnLFm7l8agU) | 3:21 | 2023-04-05 | 2023-05-21 |
 | [The Usual](https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 3:32 | 2021-11-19 | 2022-05-16 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2021-11-19 |  |

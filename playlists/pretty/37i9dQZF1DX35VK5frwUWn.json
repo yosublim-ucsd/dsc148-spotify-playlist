@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1288,
+  "num_followers": 1290,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWYwMmMzYjY3ODQwNDM1NThlNDI4MDk5Y2QxNDdkMWMyZGVkZWM5",
+  "snapshot_id": "MCxhYjlmMWJiMTEzMjUzM2IzZGZiODRhNGM0ODAxM2ZiYmM5M2YwYWFh",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Freddy Krueger (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 244506,
       "name": "Freddy Krueger (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "My Window (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I Am Not A Human Being II (Deluxe)",
         "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 222866,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "My Window (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+      "duration_ms": 213000,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 285026,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
     },
     {
       "added_at": "2022-11-01 04:00:00",

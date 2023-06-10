@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,104 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,147 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 54 | [I Love My Baby](https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ) | [Bob Gaddy](https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2) | [Harlem Blues Operator](https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3) | 2:30 |
 | 55 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
 | 56 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
-| 57 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
-| 58 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
+| 57 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
+| 58 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
 | 59 | [Hey Now Baby](https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp) | 5:44 |
 | 60 | [Some Nerve](https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [The Blues Singer](https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK) | 3:05 |
 | 61 | [Early In The Morning](https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [SUN STUDIO STORY](https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m) | 4:32 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MCxmZTFjM2I2NTEzNmQ3MGIzYmJjMWY1MTZiNTJmMjY4OTI2OWM1NDll`
+Snapshot ID: `MCxhN2ZjNDI4MzQ5MzdjN2NlOWJlOWU5MTkxNzAzOGJlMWU0MGIwY2I4`

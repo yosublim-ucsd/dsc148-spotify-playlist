@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-71 songs - 3 hr 54 min
+72 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Trap Munde](https://open.spotify.com/track/4WNVwvCmgaCFHHqyeVC6bG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Trap Munde](https://open.spotify.com/album/4GoytwqrUeVVLyPbagKJ85) | 4:01 | 2023-03-10 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-10 |  |
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-10 |  |
-| [Up To U](https://open.spotify.com/track/3Boqgxk2tt9FX35cyfcdmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/4OxsNm48pvNILoTb5geNfZ) | 3:08 | 2023-03-10 |  |
+| [Up To U](https://open.spotify.com/track/3Boqgxk2tt9FX35cyfcdmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/4OxsNm48pvNILoTb5geNfZ) | 3:08 | 2023-03-10 | 2023-06-10 |
+| [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 |  |
 | [Villain](https://open.spotify.com/track/1HCdZjUS2HaXCf7SJpOROy) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:38 | 2023-03-10 |  |
 | [Vision](https://open.spotify.com/track/6oCLs2G4aTV7EN0PO3uyIE) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5kwti1UH46UthQ2EEwQCtx) | 3:02 | 2023-03-10 |  |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-10 |  |

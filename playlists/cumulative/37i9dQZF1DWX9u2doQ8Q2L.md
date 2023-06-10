@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-773 songs - 1 day 23 hr 53 min
+774 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3sOolxlKbF0j81LDUw02Qa) | 3:09 | 2022-10-18 | 2022-10-20 |
 | [ALL MY LOVE](https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g) | 3:09 | 2022-10-18 | 2022-10-21 |
 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 | 2023-01-24 | 2023-02-15 |
+| [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 |  |
 | [All Through the Night](https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 3:01 | 2023-02-07 | 2023-03-02 |
 | [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 | 2023-02-09 |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-09-08 | 2022-11-23 |
@@ -744,7 +745,7 @@
 | [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 | 2022-09-03 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 |  |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-05-26 | 2022-06-18 |
-| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 |  |
+| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 | 2023-06-10 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 | 2022-10-05 |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-22 |
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |

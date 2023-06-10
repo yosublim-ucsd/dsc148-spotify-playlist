@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,775 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,802 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 32 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 | 33 | [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 | 34 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 4:31 |
-| 35 | [Mi Debilidad](https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Mi Debilidad](https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq) | 2:38 |
-| 36 | [La Magia de Tus Ojos \- Versión Pop](https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Magia de Tus Ojos \(Versión Pop\)](https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph) | 2:48 |
+| 35 | [La Magia de Tus Ojos \- Versión Pop](https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Magia de Tus Ojos \(Versión Pop\)](https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph) | 2:48 |
+| 36 | [Mi Debilidad](https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Mi Debilidad](https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq) | 2:38 |
 | 37 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0C6f6P1cPF6fV4uya9SuRp) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 3:00 |
 | 38 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
 | 39 | [En Peligro de Extinción](https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:37 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 93 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
 | 94 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 |
 | 95 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
-| 96 | [No Te Olvido](https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
-| 97 | [La Mejor Versión De Mi](https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Mis Versiones Vol\. 9](https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0) | 3:35 |
+| 96 | [La Mejor Versión De Mi](https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Mis Versiones Vol\. 9](https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0) | 3:35 |
+| 97 | [No Te Olvido](https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 | 98 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 99 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
 | 100 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
 
-Snapshot ID: `MCwwZjA2ZTMzNjBlZWY1MjJlMTQ2NjZhYTg2YThjZGYzYWI3OWE2ZGI5`
+Snapshot ID: `MCw2MDA3Y2UxOGQ4MDY1YmQxOTQ4ZmZkZjEyNGM0MWZlOTlkYzFmODM1`

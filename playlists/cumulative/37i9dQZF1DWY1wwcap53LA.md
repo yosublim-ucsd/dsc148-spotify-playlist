@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Willie Jones
 
-140 songs - 7 hr 14 min
+142 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Damn Good Life](https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Damn Good Life](https://open.spotify.com/album/4xeFuswf5BhaHo8P0WcR8N) | 2:37 | 2022-09-23 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 |  |
 | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/album/2gbGuVrSjTMmPZ30HpPAC7) | 3:11 | 2023-04-21 |  |
+| [For The Streets](https://open.spotify.com/track/5tROWQU6vABrC3acyyV7vS) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [For The Streets](https://open.spotify.com/album/6VMVB69fgbERk8zYGN55f2) | 2:45 | 2023-06-09 |  |
 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-09 |  |
 | [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 | 2022-07-22 |  |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-12-03 | 2022-07-29 |
@@ -102,6 +103,7 @@
 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 | 2023-02-10 |  |
 | [RUNNIN'](https://open.spotify.com/track/0oizb3QaqA45EQ7Isq85Ly) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [RUNNIN'](https://open.spotify.com/album/0KlPRSFsYdaBgzREzE8Vla) | 3:36 | 2021-12-03 |  |
 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 | 2022-06-01 |  |
+| [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 | 2023-06-09 |  |
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-12-03 |  |
 | [Sink with the Sun](https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN) | 3:21 | 2022-07-15 |  |
 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 | 2021-12-03 |  |

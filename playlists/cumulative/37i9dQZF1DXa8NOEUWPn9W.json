@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 157142,
       "name": "Back To This (feat. SoShy)",
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
@@ -3879,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -4066,7 +4088,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185760,
       "name": "Get On Down",
       "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
@@ -10200,6 +10222,28 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"
     },
     {
       "album": {

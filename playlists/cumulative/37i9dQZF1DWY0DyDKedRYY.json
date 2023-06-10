@@ -3094,10 +3094,28 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 146626,
       "name": "Fluent Stutter",
       "url": "https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt"
+    },
+    {
+      "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Fluent Stutter",
+      "url": "https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb"
     },
     {
       "album": {

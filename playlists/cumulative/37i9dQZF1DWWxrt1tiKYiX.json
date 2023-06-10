@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195391,
       "name": "Body Better - Acoustic",
       "url": "https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167704,
       "name": "Breaking Me - Acoustic Version",
       "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 196026,
       "name": "First Place",
       "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
@@ -1006,6 +1006,24 @@
       "duration_ms": 176106,
       "name": "Giants - Guitar",
       "url": "https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171021,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE"
     },
     {
       "album": {
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
@@ -1522,10 +1540,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191000,
       "name": "I Wrote A Song - Acoustic",
       "url": "https://open.spotify.com/track/3RKom6cYaG4eVGYkCgzat8"
+    },
+    {
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285902,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
     },
     {
       "album": {
@@ -1751,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
+    },
+    {
+      "album": {
         "name": "Kill Bill (Acoustic)",
         "url": "https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy"
       },
@@ -1910,10 +1964,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160523,
       "name": "Lie To Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw"
+    },
+    {
+      "album": {
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "album": {
@@ -2026,6 +2102,24 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "album": {
+        "name": "Lost The Breakup (Acoustic)",
+        "url": "https://open.spotify.com/album/5rXdZzSIdcf6v7msEB0Cdj"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206994,
+      "name": "Lost The Breakup - Acoustic",
+      "url": "https://open.spotify.com/track/09ZatOIC1CjEuvWYy5lSl3"
     },
     {
       "album": {
@@ -2210,7 +2304,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191679,
       "name": "My Head & My Heart - Acoustic",
       "url": "https://open.spotify.com/track/6UBi37Yx8KL3yEHBA1oivc"
@@ -2507,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186670,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4pjBBVpRwXVHkp5yFlUyWU"
+    },
+    {
+      "album": {
         "name": "Remember (Acoustic)",
         "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
       },
@@ -2554,7 +2666,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193800,
       "name": "Sad Tonight - Acoustic",
       "url": "https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI"
@@ -2756,7 +2868,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188788,
       "name": "So What! - Acoustic",
       "url": "https://open.spotify.com/track/11TMCwobbRFkN4XtDs8g5u"
@@ -2962,6 +3074,24 @@
       "duration_ms": 181609,
       "name": "Sweet Talker - Acoustic",
       "url": "https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S"
+    },
+    {
+      "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
     },
     {
       "album": {
@@ -3233,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
       },
@@ -3284,6 +3432,24 @@
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200497,
+      "name": "You Could Start A Cult",
+      "url": "https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB"
     },
     {
       "album": {

@@ -160,10 +160,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 180000,
       "name": "bad vibes \"/",
       "url": "https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa"
+    },
+    {
+      "album": {
+        "name": "Treinando com amor",
+        "url": "https://open.spotify.com/album/5vIVjQUehmCZ3jhMlTGFQ7"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "RAIID",
+          "url": "https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "bad vibes \"/",
+      "url": "https://open.spotify.com/track/5qRKhuxccR1inzrWEX0Dqs"
     },
     {
       "album": {

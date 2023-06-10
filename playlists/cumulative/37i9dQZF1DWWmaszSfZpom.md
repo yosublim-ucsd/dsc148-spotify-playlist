@@ -4,7 +4,7 @@
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-121 songs - 5 hr 52 min
+122 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 | 2021-11-19 |  |
 | [Ela É do Tipo](https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Ela É do Tipo](https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8) | 3:24 | 2021-11-19 |  |
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2023-02-24 |  |
+| [Espirra o lança](https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p) | [DJ Kaue00s](https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF) | [Espirra o lança](https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV) | 3:10 | 2023-02-24 |  |
 | [Espirra o Lança](https://open.spotify.com/track/4JefYK5Eje8eAh2xWVAIXT) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/2kpuZAqxd1m4fOQrTGqRhv) | 3:10 | 2023-02-24 | 2023-04-03 |
-| [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 | 2022-05-20 |  |
+| [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 | 2022-05-20 | 2023-06-10 |
 | [Espirra o Lança](https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN) | 3:10 | 2021-11-19 | 2023-04-09 |
 | [Espirra o Lança](https://open.spotify.com/track/5H25WPPytKQcMfIPu0oEBO) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/72IDYBV8RByJdQh8U74JDg) | 3:10 | 2022-05-20 | 2022-07-31 |
 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/3PkzH3nruSQEb164tyPPJT) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 | 2021-11-19 | 2022-11-19 |

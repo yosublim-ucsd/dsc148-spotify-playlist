@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-236 songs - 6 hr 28 min
+237 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,9 +97,10 @@
 | [Granny](https://open.spotify.com/track/2MOG3Xy69V748oSpESfSME) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 3:44 | 2022-08-10 | 2023-04-21 |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2021-11-11 |  |
 | [Head, Shoulders, Knees & Toes](https://open.spotify.com/track/4ZljxdHTbvMCzGxh6UKGai) | [Mandy Emery](https://open.spotify.com/artist/44sB3HOu7jhEOVDrzsFkv3) | [Head, Shoulders, Knees & Toes](https://open.spotify.com/album/5oXqDuhbqk8uD6E36wNrW8) | 1:40 | 2023-01-13 |  |
+| [Heavenly Dreams](https://open.spotify.com/track/2V1aDmJ0YBUGipLpHLzQvB) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Heavenly Dreams](https://open.spotify.com/album/4e7sRiWLqh41CMDhNlkzZa) | 1:48 | 2023-06-09 |  |
 | [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 1:07 | 2021-11-11 |  |
 | [Hoppe Hoppe Hare](https://open.spotify.com/track/3e9FbBMiP9UAGtIobXuzwl) | [Victoria Griffiths](https://open.spotify.com/artist/1iaN5x7M1F2j9R5y0bJ88J) | [Hoppe Hoppe Hare](https://open.spotify.com/album/7q4MvMWoDFS9qshYkFSYPZ) | 1:16 | 2023-02-17 | 2023-04-21 |
-| [Hubert, the magic dog](https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Hubert, the magic dog](https://open.spotify.com/album/4AXL1t0zCrdN7Q6s8TPtzT) | 1:24 | 2021-11-11 |  |
+| [Hubert, the magic dog](https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Hubert, the magic dog](https://open.spotify.com/album/4AXL1t0zCrdN7Q6s8TPtzT) | 1:24 | 2021-11-11 | 2023-06-10 |
 | [Huggies](https://open.spotify.com/track/5LyKAsugwEKX7zDAN3rYmb) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 2:30 | 2022-08-10 |  |
 | [Hush Little Baby](https://open.spotify.com/track/41gbj1zPSDVpYTV7xhM1Ki) | [Lina Rin](https://open.spotify.com/artist/4dMkHlQs3eMRKUoCWq7iCd) | [Hush Little Baby](https://open.spotify.com/album/5os2qnAgKy6PkLqFXTKW6t) | 1:55 | 2021-11-11 | 2022-02-11 |
 | [Hush My Little Angel](https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 2:17 | 2021-11-11 | 2022-06-11 |
@@ -141,7 +142,7 @@
 | [Miss Polly Had a Dolly](https://open.spotify.com/track/3de9dZSLiksNDC1aNpYbsi) | [Maya Carr](https://open.spotify.com/artist/3moYZmkLXJhSnDFiLuqAyw) | [Miss Polly Had a Dolly](https://open.spotify.com/album/3SFQ9xPKovYDlysI9yIdiU) | 1:50 | 2023-01-27 |  |
 | [Mon ours et moi](https://open.spotify.com/track/28SeDxpw75yC9775sqbTOi) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Mon ours et moi](https://open.spotify.com/album/1N2WagI342VifJKMQqILUN) | 1:37 | 2022-12-09 |  |
 | [Moon Light](https://open.spotify.com/track/58jyu4SUTC7OqvKaWOtY46) | [Merlin Allsopp](https://open.spotify.com/artist/37hx9bkkuBbG9n991iw27h) | [Moon Light](https://open.spotify.com/album/2uI58czxwcUQC4Zbr30xi8) | 1:33 | 2022-12-09 |  |
-| [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-01-27 |  |
+| [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-01-27 | 2023-06-10 |
 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 | 2021-11-11 |  |
 | [Morning Has Broken](https://open.spotify.com/track/1o9wSgY433ioAFNZ8jU71C) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Morning Has Broken](https://open.spotify.com/album/6wSSK8A5xa7hsmF9IgKVJ1) | 1:55 | 2023-05-19 |  |
 | [Mother's Boy](https://open.spotify.com/track/28VGBG1kDP3O1g3l2YOf4s) | [Lidia Slivova](https://open.spotify.com/artist/77FNIPLSi4DI3EpV9dp68x) | [Mother's Boy](https://open.spotify.com/album/1RhoX0Ng7tGrjLsAm7PP7B) | 1:42 | 2023-01-13 |  |

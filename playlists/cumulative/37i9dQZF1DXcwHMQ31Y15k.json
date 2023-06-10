@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Ginio",
+        "url": "https://open.spotify.com/album/5Za62voFdJjkyIe3AtUYhl"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355514,
+      "name": "Ginio",
+      "url": "https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo"
+    },
+    {
+      "album": {
         "name": "Iki Uripku",
         "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
       },
@@ -808,6 +826,24 @@
       "duration_ms": 278973,
       "name": "Infone Masseehh Ninu Ninu Ninu",
       "url": "https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT"
+    },
+    {
+      "album": {
+        "name": "Janji Temani",
+        "url": "https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256392,
+      "name": "Janji Temani",
+      "url": "https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL"
     },
     {
       "album": {

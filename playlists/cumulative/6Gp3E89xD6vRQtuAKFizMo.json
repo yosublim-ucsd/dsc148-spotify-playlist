@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Barbie (feat. Melissa Brooks)",
+        "url": "https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Melissa Brooks",
+          "url": "https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Barbie (feat. Melissa Brooks)",
+      "url": "https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj"
+    },
+    {
+      "album": {
         "name": "Bass Like (feat. Ramlode & 2ka)",
         "url": "https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV"
       },
@@ -488,7 +510,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Chain Reaction (feat. GiGi Grombacher)",
       "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
@@ -1706,6 +1728,28 @@
       "duration_ms": 195371,
       "name": "Lavender (feat. Jolina El\u00edsh)",
       "url": "https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2vc6dSJhXeqe2wVXZjWvti"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172006,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7ym4T5J0jCYq86MiJbj1la"
     },
     {
       "album": {
@@ -3631,6 +3675,28 @@
     },
     {
       "album": {
+        "name": "Lavender Dreams & Scarlet Nightmares",
+        "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "echod",
+          "url": "https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG"
+    },
+    {
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w"
       },
@@ -3826,6 +3892,28 @@
       "duration_ms": 185161,
       "name": "Without u (feat. Holywatr)",
       "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
+    },
+    {
+      "album": {
+        "name": "Without u (Voice Memo)",
+        "url": "https://open.spotify.com/album/6NvyohSpMmjRcUbnGsgCMZ"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Without u - Voice Memo",
+      "url": "https://open.spotify.com/track/0BeGIxBVnS3PsT86dXiX0q"
     },
     {
       "album": {

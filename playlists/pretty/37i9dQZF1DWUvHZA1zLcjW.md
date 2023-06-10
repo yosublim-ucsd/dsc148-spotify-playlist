@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,408 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,519 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 70 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
 | 71 | [Siete canciones populares españolas: VI\. Nana \- for alto and piano](https://open.spotify.com/track/4HErQoBzojA9iPhHE92QKO) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Tabea Zimmermann](https://open.spotify.com/artist/1zt1oAibJ8TuHCvnENvD4R), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Cantilena](https://open.spotify.com/album/36fouSFMewhm3OhQFJ08cW) | 2:13 |
 | 72 | [Tranquillant](https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Tranquillant](https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs) | 2:53 |
-| 73 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
+| 73 | [Puccini: Crisantemi](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 74 | [4 Postludes for Piano & String Orchestra: No\. 3\. Larghetto, con moto \(poco rubato\)](https://open.spotify.com/track/7mscpSLUS0t80ZXjnQ3MtM) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H) | 2:50 |
 | 75 | [Bambaló](https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Bambaló](https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL) | 2:41 |
 | 76 | [L'Origine Nascosta](https://open.spotify.com/track/4TLQRJiwvwUQyKdEA5PWqx) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Divenire](https://open.spotify.com/album/4xFNo2OWDR8wEm5I2dRdS7) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 99 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 100 | [Peer Gynt Suite No\. 2, Op\. 55: IV\. Solveig's Song](https://open.spotify.com/track/6XNxVEWV0NiBaJZpUjIVHa) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Grieg: Peer Gynt, Suite No\. 1, Op\. 46 / Suite No\. 2, Op\. 55 / Holberg Suite, Op\. 40](https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ) | 5:11 |
 
-Snapshot ID: `MCxiYzk3YjI5ODI3MzlmMDhiMjI5YTJkNDgyMzM3MDdjNzRkMTBiNWFm`
+Snapshot ID: `MCxmNDIxMTg2NzMzZjg0YjFhYTcyOTUyMGFhNzBiNGI3NGYxNjRjZjNm`

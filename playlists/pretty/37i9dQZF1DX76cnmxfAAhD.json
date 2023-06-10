@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 523985,
+  "num_followers": 524976,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGNhMzYzNzk0NjhkYWMwOTFlZjI5MzE5ODllY2VlY2VmNDA0MDgy",
+  "snapshot_id": "MCw4M2Q2M2M0ZDJhNDkwOTFkMDhkNjMxNjFjYTYzODhkZjUxNjk2ZTM3",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 340907,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Marc Cohn",
         "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 252613,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Come On Over (Internationl Version / Special Edition)",
+        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238641,
+      "name": "That Don't Impress Me Much - International Mix",
+      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Blaze Of Glory",
         "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 335240,
       "name": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
       "url": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "No, No, No",
-        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
-      },
-      "artists": [
-        {
-          "name": "Dawn Penn",
-          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "You Don't Love Me (No, No, No) - Extended Mix",
-      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Come On Over (Internationl Version / Special Edition)",
-        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
+        "name": "No, No, No",
+        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
         }
       ],
-      "duration_ms": 238641,
-      "name": "That Don't Impress Me Much - International Mix",
-      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+      "duration_ms": 277893,
+      "name": "You Don't Love Me (No, No, No) - Extended Mix",
+      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -2015,18 +1999,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 243586,
-      "name": "Mysterious Ways",
-      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2043,6 +2027,22 @@
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Best Of Joan Osborne 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc"
-      },
-      "artists": [
-        {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
-        }
-      ],
-      "duration_ms": 302786,
-      "name": "One Of Us - Short Version",
-      "url": "https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "The Best Of Joan Osborne 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 302786,
+      "name": "One Of Us - Short Version",
+      "url": "https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+        "name": "Duncan Sheik",
+        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
         }
       ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+      "duration_ms": 254546,
+      "name": "Barely Breathing",
+      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2479,18 +2479,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Duncan Sheik",
-        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
       "artists": [
         {
-          "name": "Duncan Sheik",
-          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 254546,
-      "name": "Barely Breathing",
-      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Always On The Run",
-      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
-        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Doo Wop (That Thing) - Edit",
-      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
+        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Doo Wop (That Thing) - Edit",
+      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
     },
     {
       "added_at": "2023-01-03 14:44:23",

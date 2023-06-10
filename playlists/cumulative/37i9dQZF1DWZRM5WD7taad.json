@@ -1997,6 +1997,36 @@
     },
     {
       "album": {
+        "name": "LQRA Session #15",
+        "url": "https://open.spotify.com/album/3BspHApoDQKjNvm4t3InJz"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Aida Rojo",
+          "url": "https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252589,
+      "name": "LQRA Session #15",
+      "url": "https://open.spotify.com/track/6QughjBgNjL3rxAVjFDL4F"
+    },
+    {
+      "album": {
         "name": "Lucha Como Mujer",
         "url": "https://open.spotify.com/album/2PjpsMtaD4VvNoImmSlHVC"
       },
@@ -2846,6 +2876,24 @@
       "duration_ms": 182000,
       "name": "Pueblo Chico",
       "url": "https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy"
+    },
+    {
+      "album": {
+        "name": "Punto",
+        "url": "https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170399,
+      "name": "Punto",
+      "url": "https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Dfideliz, Leviano",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: PL Quest",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 132639,
       "name": "DALT\u00d4NICO",
       "url": "https://open.spotify.com/track/3kYTrI2ofzE6GraCRHjtfP"
@@ -4615,6 +4615,32 @@
     },
     {
       "album": {
+        "name": "Diferente das Iguais",
+        "url": "https://open.spotify.com/album/2Ps8gUxr5ClkbPGL5fQ4bG"
+      },
+      "artists": [
+        {
+          "name": "Mc Tik\u00e3o",
+          "url": "https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Diferente das Iguais",
+      "url": "https://open.spotify.com/track/5wcrMivUKchLrNs3xRU8qw"
+    },
+    {
+      "album": {
         "name": "Diferente dos Iguais",
         "url": "https://open.spotify.com/album/7j8g8z5QPTUDpIf5Dvao3s"
       },
@@ -4986,6 +5012,48 @@
       "duration_ms": 134778,
       "name": "Double Cup",
       "url": "https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7"
+    },
+    {
+      "album": {
+        "name": "Drill 23 - Cidade Profana",
+        "url": "https://open.spotify.com/album/2fubLLei0gpt3lWL2u1bTb"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Bren Oficial",
+          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
+        },
+        {
+          "name": "Racovi Oficial",
+          "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        },
+        {
+          "name": "Oliveira",
+          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258324,
+      "name": "Drill 23 - Cidade Profana",
+      "url": "https://open.spotify.com/track/6ASsxPo5SIzcfg3UsRlqbK"
     },
     {
       "album": {
@@ -6256,7 +6324,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 225882,
       "name": "Felina",
       "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
@@ -7490,7 +7558,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 184421,
       "name": "Gucci, Prada",
       "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
@@ -9109,6 +9177,28 @@
     },
     {
       "album": {
+        "name": "LONGE DEMAIS",
+        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "LONGE DEMAIS",
+      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
+    },
+    {
+      "album": {
         "name": "Longe do Fim",
         "url": "https://open.spotify.com/album/1zWliOz7tTQ9LzcFyugjGu"
       },
@@ -9202,7 +9292,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145100,
       "name": "Louca Life",
       "url": "https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso"
@@ -11531,6 +11621,36 @@
     },
     {
       "album": {
+        "name": "NFT",
+        "url": "https://open.spotify.com/album/23AsFGAIvWmWoMBXFxFh7F"
+      },
+      "artists": [
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        },
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Sadoff",
+          "url": "https://open.spotify.com/artist/7I73HBXQKSFIUE8McvhXeP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181872,
+      "name": "NFT",
+      "url": "https://open.spotify.com/track/3AapbzBdWn0Yeggatx2fVB"
+    },
+    {
+      "album": {
         "name": "Nike Novo",
         "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
@@ -11698,7 +11818,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "No Papo",
       "url": "https://open.spotify.com/track/2T527ULYGny2LL8GGb1Psj"
@@ -12554,6 +12674,28 @@
       "duration_ms": 160909,
       "name": "Only Fan$",
       "url": "https://open.spotify.com/track/1yt8sJsXTpsKqL6NCww38R"
+    },
+    {
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2vaYbNsUJy6S0pIdXuWlqD"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/0Sn0YLdLIRUwkp1p876RcU"
     },
     {
       "album": {
@@ -14763,6 +14905,44 @@
     },
     {
       "album": {
+        "name": "Quer Ser Namorada",
+        "url": "https://open.spotify.com/album/6zE2zjoayxJoBf3nJKMCJ4"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300923,
+      "name": "Quer Ser Namorada",
+      "url": "https://open.spotify.com/track/6giuILVhuTCUJsH3O1GtEo"
+    },
+    {
+      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -15589,6 +15769,40 @@
     },
     {
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
+      },
+      "artists": [
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "Sarradeira",
+      "url": "https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv"
+    },
+    {
+      "album": {
         "name": "Scarface",
         "url": "https://open.spotify.com/album/4lxtG6f6ujBhJYA2Lrc3Uo"
       },
@@ -15942,7 +16156,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 105000,
       "name": "SEMPRE TRAVADO",
       "url": "https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi"
@@ -16108,7 +16322,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 152649,
       "name": "Sexo e Dramas",
       "url": "https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5"

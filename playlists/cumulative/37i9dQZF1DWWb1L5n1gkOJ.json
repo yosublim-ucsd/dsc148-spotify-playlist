@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5"
+      },
+      "artists": [
+        {
+          "name": "Nerum",
+          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161419,
+      "name": "Free Winds",
+      "url": "https://open.spotify.com/track/72AraPLFHGCx5Wz8uTgp1Q"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr"
       },
@@ -1018,6 +1036,24 @@
       "duration_ms": 147562,
       "name": "H\u00e6den",
       "url": "https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU"
+    },
+    {
+      "album": {
+        "name": "Ich gebe dir die Sterne",
+        "url": "https://open.spotify.com/album/5vhVIsOM70HC2ZpWHfG6iq"
+      },
+      "artists": [
+        {
+          "name": "Velpo Sonols",
+          "url": "https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167905,
+      "name": "Ich gebe dir die Sterne",
+      "url": "https://open.spotify.com/track/1SlhemtZDfN3Nf6YbOM3Gj"
     },
     {
       "album": {

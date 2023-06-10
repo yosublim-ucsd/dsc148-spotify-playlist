@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: Bricknasty
 
-209 songs - 11 hr 27 min
+210 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Parasols](https://open.spotify.com/track/3FhdZweci0BzetkWMwCdsV) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Parasols](https://open.spotify.com/album/5IbFg9og4jabk19txAM9Wp) | 3:00 | 2022-02-18 |  |
 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 | 2022-02-18 |  |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-02-18 |  |
-| [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 | 2023-05-18 |  |
+| [Patience](https://open.spotify.com/track/2G6GODY8ZSa7vtzlzPNt9o) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/14plmyqkoSBmJoPHNJvCRH) | 3:04 | 2023-06-08 |  |
+| [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 | 2023-05-18 | 2023-06-10 |
 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 | 2022-02-18 |  |
 | [PBFF](https://open.spotify.com/track/6EyvkNx0su9PD8splN00kl) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/6MbOTpj7i8XQU6DDEyTgCH) | 2:45 | 2022-10-06 |  |
 | [PBFF](https://open.spotify.com/track/6fs1giNt7VJabuEvZ4ybqM) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/1PMpkPlvHMuzQiNNsc1qxr) | 2:45 | 2022-02-18 | 2022-10-13 |

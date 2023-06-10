@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "My Small River",
+        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+      },
+      "artists": [
+        {
+          "name": "Emma Hill",
+          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185201,
+      "name": "Breathing Slowly",
+      "url": "https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl"
+    },
+    {
+      "album": {
         "name": "Bucolia",
         "url": "https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D"
       },
@@ -1183,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "My Small River",
+        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+      },
+      "artists": [
+        {
+          "name": "Emma Hill",
+          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "My Small River",
+      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
+    },
+    {
+      "album": {
         "name": "Namah",
         "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
       },
@@ -1486,6 +1522,24 @@
       "duration_ms": 136000,
       "name": "Relaxing Water Flow",
       "url": "https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA"
+    },
+    {
+      "album": {
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+      },
+      "artists": [
+        {
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Renacer en Calma (Nature)",
+      "url": "https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ"
     },
     {
       "album": {

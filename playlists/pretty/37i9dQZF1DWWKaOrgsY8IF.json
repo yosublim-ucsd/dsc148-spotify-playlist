@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 127345,
+  "num_followers": 127376,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQwMzRhY2Q1OWJhNDNhMzY5NGU1NTA5MzlkYjdkOTE1MzM5YjE4",
+  "snapshot_id": "MCxiMGJkZTIzYjZhMWVlMmFhNGI2N2EyNjAxMjE2YjQ3NDE4ZWQyMmU5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Uebe",
         "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 174291,
       "name": "Se iluminaba",
       "url": "https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 195226,
       "name": "Ma\u00f1ana Es Too Late",
       "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Colegio",
-        "url": "https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Tiburones",
         "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 188086,
       "name": "Imposible Amor",
       "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Colegio",
+        "url": "https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Flamenkito",
-        "url": "https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH"
+        "name": "High",
+        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5"
+      "duration_ms": 187200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
+        "name": "Flamenkito",
+        "url": "https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 187200,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5"
     },
     {
       "added_at": "2020-12-01 05:03:00",

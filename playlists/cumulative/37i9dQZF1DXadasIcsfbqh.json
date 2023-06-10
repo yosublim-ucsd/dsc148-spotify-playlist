@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Pop country hits of today and tomorrow. Cover: Kane Brown",
+  "description": "Pop country hits of today and tomorrow. Cover: Jessie Murph and Maren Morris",
   "name": "Pop Country",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201146,
       "name": "Can't Do Without Me",
       "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
@@ -1172,6 +1172,24 @@
       "duration_ms": 192166,
       "name": "Girl Who Didn't Care",
       "url": "https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ"
+    },
+    {
+      "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181483,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS"
     },
     {
       "album": {
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203600,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
@@ -3396,6 +3414,28 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44"
+    },
+    {
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "album": {

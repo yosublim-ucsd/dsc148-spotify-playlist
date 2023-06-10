@@ -4,11 +4,11 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-273 songs - 1 day 0 hr 37 min
+274 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2223](https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT) | [Andreas Toftemark](https://open.spotify.com/artist/1zGWQ3MEHXStCIbMsuSELF), [Felix Moseholm](https://open.spotify.com/artist/21v1ySgDH8XgKk1CekQHtv), [Calle Brickman](https://open.spotify.com/artist/4VoIE7LsD8ktzFFD5UED8m), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [2223](https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE) | 7:14 | 2022-02-18 |  |
+| [2223](https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT) | [Andreas Toftemark](https://open.spotify.com/artist/1zGWQ3MEHXStCIbMsuSELF), [Felix Moseholm](https://open.spotify.com/artist/21v1ySgDH8XgKk1CekQHtv), [Calle Brickman](https://open.spotify.com/artist/4VoIE7LsD8ktzFFD5UED8m), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [2223](https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE) | 7:14 | 2022-02-18 | 2023-06-10 |
 | [A Ballad for Now](https://open.spotify.com/track/6NYcahuBLO4sVuahWWF5V5) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 5:16 | 2022-05-19 | 2023-01-29 |
 | [A Doll's Dream](https://open.spotify.com/track/5TCX4HQQEQqkLHlZJML806) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 4:16 | 2020-03-31 | 2022-02-19 |
 | [A Pademonium of Parrots](https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt) | [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX) | [Ralph Bowen](https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu) | 6:56 | 2022-02-18 | 2022-11-12 |
@@ -109,6 +109,7 @@
 | [I Think of You](https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 7:03 | 2022-05-19 | 2022-09-21 |
 | [I Thought About You](https://open.spotify.com/track/7bjeNg98SWzGugTks8mpQv) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [I Thought About You](https://open.spotify.com/album/7B8lEaNZh5wxZythOv3tXL) | 4:31 | 2022-11-12 |  |
 | [I Will Never Stop Loving You](https://open.spotify.com/track/0ivNT9MjfyorZGsJDdXPE4) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 2:53 | 2022-07-28 |  |
+| [I Wished on the Moon](https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [I Wished on the Moon](https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2) | 4:44 | 2023-06-08 |  |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-11-12 | 2023-01-12 |
 | [I'll Never Stop Loving You](https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [I'll Never Stop Loving You](https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i) | 2:53 | 2022-02-18 | 2022-07-29 |
 | [I'm Old Fashioned](https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 4:21 | 2022-11-12 |  |

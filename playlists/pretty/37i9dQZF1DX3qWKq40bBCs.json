@@ -1,12 +1,12 @@
 {
   "description": "The premios official playlist. \u00bfQui\u00e9n crees que ganar\u00e1?",
-  "num_followers": 423,
+  "num_followers": 425,
   "original_name": "Premios Tu M\u00fasica Urbano - Nominados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODdkNzgzMzMxMzMwNzExN2U3MmYwODJhNTBiMTQxZDZkN2I4MmI0",
+  "snapshot_id": "MCwxMDdjNjg0ZmY1Njg5YWNkZjVhNGE2YTFiMDlmZjQ1YWNhNzFjZGVk",
   "tracks": [
     {
       "added_at": "2023-05-05 14:53:54",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-05-05 14:53:54",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 125109,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l"
-    },
-    {
-      "added_at": "2023-05-05 14:53:54",
-      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
+    },
+    {
+      "added_at": "2023-05-05 14:53:54",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 125109,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l"
     },
     {
       "added_at": "2023-05-05 14:53:54",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-05-05 14:53:54",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
+    },
+    {
+      "added_at": "2023-05-05 14:53:54",
+      "album": {
         "name": "En La Mia (Remix)",
         "url": "https://open.spotify.com/album/78c6pSUS2TbJYFDlmH3Mxu"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 302186,
       "name": "En La Mia (Remix)",
       "url": "https://open.spotify.com/track/5GDUdwmzAhpaGqhdmg72Ft"
-    },
-    {
-      "added_at": "2023-05-05 14:53:54",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
-      },
-      "artists": [
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
     },
     {
       "added_at": "2023-05-05 14:53:54",

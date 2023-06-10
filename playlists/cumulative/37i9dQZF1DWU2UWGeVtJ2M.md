@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-278 songs - 15 hr 22 min
+279 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2022-07-25 |  |
 | [Tell Me Why](https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Tell Me Why](https://open.spotify.com/album/4L1Seg0eLOrj9fOhmyhEkc) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 | 2022-07-25 | 2022-07-27 |
+| [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 | 2023-05-29 |  |
 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 | 2023-03-06 | 2023-04-29 |
 | [The Angels](https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [The Angels](https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-07-25 |  |
@@ -259,7 +260,7 @@
 | [Traumatized](https://open.spotify.com/track/2BEiZgGUo7qGqWjEUwiOn7) | [Page Music](https://open.spotify.com/artist/4sEcV3dkrZEurn0zsE46jK), [Ova Libenovo](https://open.spotify.com/artist/7nFa4wz5RZILHGVtXPfAUj), [Fhasyyati](https://open.spotify.com/artist/55kDUI5YRbkhishN3Xz1Li) | [Traumatized](https://open.spotify.com/album/3QdiAl3ar3nt0WjzWFB9Gf) | 3:18 | 2022-06-06 | 2022-07-25 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-07-25 |  |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2022-07-25 |  |
-| [Two Sides](https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Two Sides](https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK) | 3:46 | 2022-06-06 |  |
+| [Two Sides](https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Two Sides](https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK) | 3:46 | 2022-06-06 | 2023-06-10 |
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-07-25 |  |
 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 | 2022-06-06 | 2022-07-29 |
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-06-06 | 2022-07-29 |

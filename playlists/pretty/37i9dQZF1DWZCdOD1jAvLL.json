@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 213728,
+  "num_followers": 213870,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDlkZDQ4NmExYTgyNTk0ZWM2MjQ1YjQ3MzhhYzVhMzQ1OTk3ZTNm",
+  "snapshot_id": "MCwwN2U1MGY2OGYwMjhlYzMwY2EwNjhiYzc3M2JiZmM1YjZjYjg4ZmE1",
   "tracks": [
     {
       "added_at": "2023-05-26 13:00:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
         }
       ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-06-05 18:20:31",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm"
+        "name": "Your Mind Is Dirty",
+        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1xrsU12VcEATEYMc8XE1az"
+      "duration_ms": 198799,
+      "name": "Your Mind Is Dirty",
+      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -695,18 +691,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Your Mind Is Dirty",
-        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Your Mind Is Dirty",
-      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
+      "duration_ms": 159200,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1xrsU12VcEATEYMc8XE1az"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-06-05 18:20:31",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -935,22 +951,6 @@
       "duration_ms": 156500,
       "name": "Out Of Options (feat. midwxst)",
       "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2023-06-05 18:20:31",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1591,30 +1591,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "SH SH SH (Hit That) (feat. Wiz Khalifa, Urfavxboyfriend & Goldsoul)",
-        "url": "https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J"
+        "name": "Collecting Thoughts",
+        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
       },
       "artists": [
         {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Urfavxboyfriend",
-          "url": "https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5"
-        },
-        {
-          "name": "Goldsoul",
-          "url": "https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         }
       ],
-      "duration_ms": 133625,
-      "name": "SH SH SH (Hit That) (feat. Wiz Khalifa, Urfavxboyfriend & Goldsoul)",
-      "url": "https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3"
+      "duration_ms": 205738,
+      "name": "Collecting Thoughts",
+      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     }
   ],
   "unique_name": "Bangers",

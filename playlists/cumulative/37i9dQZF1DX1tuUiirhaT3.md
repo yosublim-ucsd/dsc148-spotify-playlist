@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-266 songs - 14 hr 10 min
+267 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Early Mornings in 8D](https://open.spotify.com/track/678fUafiJszxE9hCKU6Lqb) | [Sleep in 8D](https://open.spotify.com/artist/6FxZGF0spuGiXpmuWv3NrD) | [Sleep in 8D Vol.1](https://open.spotify.com/album/76bjQ1tAmdhBbXIzlktZDE) | 3:34 | 2021-12-17 |  |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2021-12-17 |  |
 | [Echiche Stream](https://open.spotify.com/track/0B6TUf0dz4XeBKpFrw8hK9) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Echiche](https://open.spotify.com/album/4gqY9q2Pb4eE7jsnnWeSON) | 3:12 | 2023-05-22 |  |
+| [Ecos de Meditación \(Nature\)](https://open.spotify.com/track/1iIpF6fS9mkf275Gun2wl7) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-13 |  |
 | [Endlessness](https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness](https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx) | 2:43 | 2021-12-17 |  |
 | [Enter](https://open.spotify.com/track/0HGfi3MdwooOvUhwztursU) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW) | 3:50 | 2022-07-22 |  |
@@ -125,7 +126,7 @@
 | [Legacy Drift \- Nature Noise Version](https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO) | [Aquaimo](https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f) | [Legacy Drift](https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD) | 2:11 | 2022-02-16 |  |
 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 | 2021-12-17 | 2022-09-03 |
 | [Lion's Breath](https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Lion's Breath](https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd) | 3:11 | 2021-12-17 |  |
-| [Liquid Universe](https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:58 | 2021-12-17 |  |
+| [Liquid Universe](https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:58 | 2021-12-17 | 2023-06-10 |
 | [Lofi Ocean Waves](https://open.spotify.com/track/24Vfojoe6FGWq32gPh6bTX) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mijas](https://open.spotify.com/album/28JTLLbs086Y9R3LN1d3Qd) | 3:49 | 2021-12-17 |  |
 | [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-17 |  |
 | [Lotus \(Meditation\)](https://open.spotify.com/track/3KwankFLnPiRwQwpm9ahiz) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Lotus](https://open.spotify.com/album/06e01uHxoJ85tzTPt14SvJ) | 5:37 | 2022-12-30 |  |

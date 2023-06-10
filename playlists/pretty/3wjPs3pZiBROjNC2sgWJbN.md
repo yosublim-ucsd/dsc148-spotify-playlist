@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Coco Jones! Cover: Summer Walker
 
-[Digster](https://open.spotify.com/user/digster.fm) - 8,147 likes - 56 songs - 3 hr 16 min
+[Digster](https://open.spotify.com/user/digster.fm) - 8,148 likes - 56 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,576 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,577 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 31 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
 | 32 | [My Kinda Love](https://open.spotify.com/track/1gmevzt1F99VdMOGfy3RAu) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [rynjae](https://open.spotify.com/artist/5IZyhABCE3PaMrBL14PNKM) | [My Kinda Love](https://open.spotify.com/album/6JPyYRYC3yYxl9xTnxQV2v) | 3:24 |
 | 33 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 |
-| 34 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 |
+| 34 | [GOODTIME](https://open.spotify.com/track/0B1u3O0JaCDxlInbrjT6CE) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/69nDpEyn52nnxChWwUDSO3) | 3:42 |
 | 35 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 |
 | 36 | [Snack Food](https://open.spotify.com/track/6az0kHKIfpXnVtDwt7tUwy) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ) | [Family Business](https://open.spotify.com/album/5sUx84YHw7x4rH5wUnXPv3) | 3:46 |
 | 37 | [HUH?](https://open.spotify.com/track/41q2qZ5ka6FX52EE3N5v9w) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 74 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 |
 | 75 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 
-Snapshot ID: `MCxjYzk4MzRhODdhZmU1YzI0MGQ1M2E1YTAwOWVmNmI2MTlkM2FjYTZm`
+Snapshot ID: `MCwwNzhkNjM5M2Y3NGRjMzMwMDFkNzQxODNjYTkzNmM0NzEwZjczMTJh`

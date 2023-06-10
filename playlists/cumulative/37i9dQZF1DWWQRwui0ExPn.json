@@ -722,6 +722,10 @@
         {
           "name": "flowless",
           "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
         }
       ],
       "date_added": "2023-05-23",
@@ -25226,7 +25230,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 157354,
       "name": "direct hit",
       "url": "https://open.spotify.com/track/7jsYnGQY9L9xyKWqK4mIga"
@@ -37400,7 +37404,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "gemini",
       "url": "https://open.spotify.com/track/7fDBsKuj8mPlo9skY2sNv4"
@@ -81854,7 +81858,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 160058,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL"
@@ -87190,7 +87194,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144000,
       "name": "Smooth Sail",
       "url": "https://open.spotify.com/track/26aN8DTvBgnKKF9S2qaYNd"

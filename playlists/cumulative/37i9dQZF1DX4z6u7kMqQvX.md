@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-429 songs - 1 day 0 hr 25 min
+431 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/track/35qpbFU4HXSoERLSM25End) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O) | 2:50 | 2022-01-07 | 2023-03-03 |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-06-03 | 2022-07-20 |
 | [De vos conmigo](https://open.spotify.com/track/3aptZjldNbLCoheBo33YOa) | [Coiffeur](https://open.spotify.com/artist/6uO4hHITsBB37tBsogIB7K) | [Primer corte](https://open.spotify.com/album/6P49QmRp2rqT1o8fL4hNew) | 2:08 | 2022-04-01 | 2022-07-28 |
-| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 |  |
+| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 | 2023-06-10 |
 | [Debajo de la Superficie](https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Debajo de la Superficie](https://open.spotify.com/album/2KsAVCC3dduno7Nf96PEGj) | 4:38 | 2022-01-28 | 2022-07-19 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-01-28 | 2022-07-20 |
 | [Decírtelo](https://open.spotify.com/track/3nz82lKGvfe78GjkQmDMl1) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK) | [Decírtelo](https://open.spotify.com/album/4il91GPpN9QclFP0jWJdCw) | 3:12 | 2022-01-28 | 2022-07-25 |
@@ -280,7 +280,8 @@
 | [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2022-01-07 |  |
 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2022-01-07 | 2023-03-03 |
 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 | 2022-04-01 | 2022-07-22 |
-| [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2022-01-07 |  |
+| [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 | 2023-06-09 |  |
+| [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2022-01-07 | 2023-06-10 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2022-07-15 | 2023-03-03 |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/4LeFqJu2fxnJdx0QFZ0jkc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/album/1OZR2tmOPp9fwaIeO3MHmj) | 4:20 | 2022-10-28 | 2022-11-13 |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/5sXk6DrIULH99SMmXxI7YZ) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 4:20 | 2022-01-07 | 2022-07-25 |
@@ -357,6 +358,7 @@
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-01-07 | 2023-04-06 |
 | [Sigue Avanzando](https://open.spotify.com/track/5No9pEIGYQn4Bztsz6L6RA) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Sigue Avanzando](https://open.spotify.com/album/6geCczIBzauYZ2oVaqVXBi) | 4:22 | 2022-01-07 | 2022-07-25 |
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-06 | 2022-07-19 |
+| [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-06-09 |  |
 | [Sin mí :\(](https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf) | [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Ussi](https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF) | [Sin mí :\(](https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4) | 3:47 | 2023-03-03 | 2023-04-06 |
 | [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-01-07 | 2022-10-15 |
 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 | 2022-10-14 |  |

@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
 
-252 songs - 18 hr 32 min
+253 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Rain Dance](https://open.spotify.com/track/6a9aAiPtlWH2QRytRAw1As) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Rain Dance](https://open.spotify.com/album/7ocYdbDTPPsuVRGwKV1f9h) | 5:19 | 2023-03-16 | 2023-04-28 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-03-16 | 2023-05-19 |
 | [RAVE \(Hungry Driver\) \- \[Vocal : どんぐりず\]](https://open.spotify.com/track/1zLc5bbc7EoXyO8KsVpscC) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [RAVE \(Hungry Driver\) \[Vocal : どんぐりず\]](https://open.spotify.com/album/06mbcfz9YUIqeojWHHmb4B) | 3:57 | 2023-03-16 | 2023-05-12 |
-| [Reflections](https://open.spotify.com/track/7IBgVUEEOfLgKaNXn9I0zM) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/7ChUXBwOgoV156WFVSQquJ) | 5:09 | 2023-06-09 |  |
+| [Reflections](https://open.spotify.com/track/4XNF5X0fRBOVuE7M0PVytJ) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 5:09 | 2023-06-09 |  |
+| [Reflections](https://open.spotify.com/track/7IBgVUEEOfLgKaNXn9I0zM) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/7ChUXBwOgoV156WFVSQquJ) | 5:09 | 2023-06-09 | 2023-06-10 |
 | [Regulate](https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Regulate](https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO) | 2:34 | 2023-03-16 | 2023-05-12 |
 | [roll credits](https://open.spotify.com/track/3U8Xah4rZY2GhbSMPmVYX3) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [music for stealing to](https://open.spotify.com/album/5uYtMIrMlJaJSeeRExvaQK) | 3:13 | 2023-03-16 | 2023-05-19 |
 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 | 2023-03-16 | 2023-03-21 |

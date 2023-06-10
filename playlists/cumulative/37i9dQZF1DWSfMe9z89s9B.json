@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Chenayder",
+  "description": "Leaders of the new school...Alternative R&B. Cover: BLK ODYSSY",
   "name": "Vanguard",
   "tracks": [
     {
@@ -3154,6 +3154,24 @@
       "duration_ms": 198273,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Come Home To God",
+      "url": "https://open.spotify.com/track/68hSEF4xKfksoiuzwNSfZn"
     },
     {
       "album": {
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 191221,
       "name": "Higher Self",
       "url": "https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK"
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
       "url": "https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg"
@@ -10010,7 +10028,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208383,
       "name": "Not Just Anyone",
       "url": "https://open.spotify.com/track/4KE1awVDJBzEtRSzTu6wlh"
@@ -12563,6 +12581,24 @@
     },
     {
       "album": {
+        "name": "You Made A Big Mistake",
+        "url": "https://open.spotify.com/album/3qaYBPGN5AdXS5nt0gPraS"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/3YwkASwnUSlrB4H6kPveVl"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -14179,6 +14215,32 @@
     },
     {
       "album": {
+        "name": "What We Lost",
+        "url": "https://open.spotify.com/album/4EDIKL4peA6oDSLsZTguyq"
+      },
+      "artists": [
+        {
+          "name": "Dancody",
+          "url": "https://open.spotify.com/artist/5nBggqz80XWqMUkMDndDnS"
+        },
+        {
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+        },
+        {
+          "name": "THEO",
+          "url": "https://open.spotify.com/artist/4RxsOR1W3dND7696bxwYzG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192464,
+      "name": "Take My Time",
+      "url": "https://open.spotify.com/track/03QuhRi2HkEl6C2jYc8Obi"
+    },
+    {
+      "album": {
         "name": "b l u r r",
         "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
       },
@@ -14586,6 +14648,24 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
       "album": {
@@ -16568,7 +16648,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 358000,
       "name": "You (feat. Ambrose Akinmusire)",
       "url": "https://open.spotify.com/track/6qlLOK5joUOIVwtkVS68YM"

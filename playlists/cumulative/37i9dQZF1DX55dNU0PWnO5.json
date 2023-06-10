@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140838,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
+    },
+    {
+      "album": {
         "name": "Sweet Shop",
         "url": "https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ"
       },

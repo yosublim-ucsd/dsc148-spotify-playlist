@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "'Round Midnight (Live In Cologne)",
+        "url": "https://open.spotify.com/album/6qOPsJFKVjSc78dPvvKfC2"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570204,
+      "name": "'Round Midnight - Live In Cologne",
+      "url": "https://open.spotify.com/track/7fS4JuheYkSmZoJaoSPAUW"
+    },
+    {
+      "album": {
         "name": "GRRR Live!",
         "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
       },
@@ -237,6 +255,24 @@
     },
     {
       "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
       },
@@ -418,7 +454,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
@@ -1166,10 +1202,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 208694,
       "name": "Cha Cha Cha (Metal Version)",
       "url": "https://open.spotify.com/track/2hNDgPEWvIj7xC8lJDrnEU"
+    },
+    {
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
     },
     {
       "album": {
@@ -1796,7 +1850,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 87920,
       "name": "Don't Give A Fuck",
       "url": "https://open.spotify.com/track/6u1VtrPNAb8RCwlmjSLLE9"
@@ -2198,6 +2252,42 @@
       "duration_ms": 213333,
       "name": "Facts - ROOTS Remix",
       "url": "https://open.spotify.com/track/6KCEkVJpNBSMKJWsprhmNS"
+    },
+    {
+      "album": {
+        "name": "Farewell For Now",
+        "url": "https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268767,
+      "name": "Farewell For Now",
+      "url": "https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb"
+    },
+    {
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
     },
     {
       "album": {
@@ -2870,7 +2960,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 257226,
       "name": "Hatredy",
       "url": "https://open.spotify.com/track/6oIrwYOF2QFXIQRgRPhXbo"
@@ -3291,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Live At The Piano",
+        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437716,
+      "name": "Icarus (Live At The Piano)",
+      "url": "https://open.spotify.com/track/7GssdltEekRvQsIV6T5TJg"
+    },
+    {
+      "album": {
         "name": "If Darkness Had a Son",
         "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
       },
@@ -3684,7 +3792,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 220706,
       "name": "Kill You",
       "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
@@ -3962,7 +4070,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175040,
       "name": "Living In A Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu"
@@ -4035,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Mama Said Knock You Out (Metal Version)",
+        "url": "https://open.spotify.com/album/6BRtgXHxvy3oeUo0prwyp7"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250849,
+      "name": "Mama Said Knock You Out (Metal Version)",
+      "url": "https://open.spotify.com/track/089rdyXtU5ZcG36T4PsJN6"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y"
       },
@@ -4086,6 +4212,36 @@
       "duration_ms": 282426,
       "name": "Marie and the Undersea",
       "url": "https://open.spotify.com/track/1ht61Ev8xu5vq2joimHeE6"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Master P",
+      "url": "https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC"
     },
     {
       "album": {
@@ -4407,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Goddam (Live)",
+        "url": "https://open.spotify.com/album/006qHkILPYjq0wwcmDkFWA"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410412,
+      "name": "Mississippi Goddam - Live",
+      "url": "https://open.spotify.com/track/501mPDOvG6oHVHe4iFfHPV"
+    },
+    {
+      "album": {
         "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
         "url": "https://open.spotify.com/album/6eAvN1aQ8Yrj7Yp4HQl9yT"
       },
@@ -4660,10 +4834,40 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 396861,
       "name": "No Guns (Live At The Piano)",
       "url": "https://open.spotify.com/track/7swDSjmghX7RDP1t7CA522"
+    },
+    {
+      "album": {
+        "name": "No Particulars",
+        "url": "https://open.spotify.com/album/37Yc7iDKfuLvW9KIRof1iM"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Didda Joe",
+          "url": "https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP"
+        },
+        {
+          "name": "August Rose",
+          "url": "https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263620,
+      "name": "No Particulars",
+      "url": "https://open.spotify.com/track/5FFoAfeyEX62UkHIoREtgw"
     },
     {
       "album": {
@@ -5589,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "Entre eux deux (The Paris Sessions)",
+        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433533,
+      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
+      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -5756,7 +5982,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Soca Music",
       "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
@@ -6710,7 +6936,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195319,
       "name": "this is my jam.",
       "url": "https://open.spotify.com/track/7czw5TMkQYcAf0m5T7RVZJ"
@@ -6860,7 +7086,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 156000,
       "name": "Touch me",
       "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"
@@ -6878,7 +7104,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179085,
       "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
       "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
@@ -7006,6 +7232,24 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy"
     },
     {
       "album": {
@@ -7344,7 +7588,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181000,
       "name": "Who He Iz",
       "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"

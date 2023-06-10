@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1026778,
+  "num_followers": 1027298,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTNmMzBkMDY3M2U0ODRkYzAyMjhhODNiMzhjOTYxOTJmZTVlNWZi",
+  "snapshot_id": "MCxmNjMxOWRlNGQ5NWM3NWZhNzE0NDc5N2RkN2E1ZTIzNGUxMGI0NGE4",
   "tracks": [
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Sue\u00f1o Y Realidad",
         "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
@@ -77,7 +77,27 @@
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "El Peso",
+        "url": "https://open.spotify.com/album/0XNYOrL83GlrrywA5eluoZ"
+      },
+      "artists": [
+        {
+          "name": "Jaison Neutra",
+          "url": "https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "duration_ms": 207903,
+      "name": "El Peso",
+      "url": "https://open.spotify.com/track/5bE9eLHkah0ymi4InlTxBg"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
@@ -125,39 +145,23 @@
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+        "name": "Tres D\u00edas",
+        "url": "https://open.spotify.com/album/4ynV4pOaULTyRwGZErX5Dn"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Pianica Maeda & Mumbia Y Sus Candelosos",
+          "url": "https://open.spotify.com/artist/7Bm1zLJhOrvTIIWB4hYOUZ"
         }
       ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+      "duration_ms": 262508,
+      "name": "Tres D\u00edas",
+      "url": "https://open.spotify.com/track/1mY01eh7JrKAXDoC9JULlY"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
@@ -173,7 +177,39 @@
       "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Sonido Subtropical",
         "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
@@ -189,7 +225,7 @@
       "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
@@ -205,7 +241,7 @@
       "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Tu Amor Secreto",
         "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
@@ -221,7 +257,7 @@
       "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
@@ -237,7 +273,23 @@
       "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
@@ -257,23 +309,7 @@
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
@@ -289,23 +325,7 @@
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Los Caminos De La Vida",
         "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
@@ -337,7 +357,23 @@
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
@@ -353,7 +389,7 @@
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
@@ -421,7 +457,7 @@
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
@@ -437,7 +473,7 @@
       "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
@@ -473,7 +509,7 @@
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
@@ -489,7 +525,7 @@
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "El Condor Legendario",
         "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
@@ -505,7 +541,7 @@
       "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Un Sentimiento",
         "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Los M\u00e1s Queridos",
         "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
@@ -673,31 +709,7 @@
       "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "Flasheaste Amor",
-        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        },
-        {
-          "name": "Lauro",
-          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Flasheaste Amor",
-      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Los Exitos Mas Calientes",
         "url": "https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt"
@@ -713,23 +725,7 @@
       "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "De Enero a Enero",
-        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "La Cumbita",
-      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Cumbia Pa' seguir Bailando",
         "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
@@ -745,7 +741,23 @@
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "De Enero a Enero",
+        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "La Cumbita",
+      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
@@ -761,23 +773,7 @@
       "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
@@ -793,7 +789,23 @@
       "url": "https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "No Te Voy A Perdonar, Vol. 4",
         "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
@@ -809,7 +821,7 @@
       "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
-      "added_at": "2023-02-13 16:43:39",
+      "added_at": "2023-06-09 06:35:00",
       "album": {
         "name": "Humildad y Talento",
         "url": "https://open.spotify.com/album/4kL9pFuQ2QF46cxCCAcrsF"
@@ -823,22 +835,6 @@
       "duration_ms": 230213,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/33D63T3UWawJDiuGtdqs0a"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     }
   ],
   "unique_name": "100% Cumbia",

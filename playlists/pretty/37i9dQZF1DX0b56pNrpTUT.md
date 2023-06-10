@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,121 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,143 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 26 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 27 | [Say Yeah](https://open.spotify.com/track/1GDCzlN4snSHiYxxvO9Fhg) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Say Yeah](https://open.spotify.com/album/5hxuMubkHyZOW92dceGg3i) | 2:47 |
 | 28 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 |
-| 29 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
-| 30 | [Often Enough \- A COLORS SHOW](https://open.spotify.com/track/7bpBqvHwczID6y7itqQ7V2) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Often Enough \- A COLORS SHOW](https://open.spotify.com/album/6Or2VkTQisIFoo3qCGQGk7) | 2:37 |
+| 29 | [Often Enough \- A COLORS SHOW](https://open.spotify.com/track/7bpBqvHwczID6y7itqQ7V2) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Often Enough \- A COLORS SHOW](https://open.spotify.com/album/6Or2VkTQisIFoo3qCGQGk7) | 2:37 |
+| 30 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 31 | [Nobody](https://open.spotify.com/track/4JcpyXOyQkefawjp9fpL8s) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Care Package](https://open.spotify.com/album/0bMaD8l0WCJLMz3CteLiYZ) | 3:29 |
 | 32 | [Peng Black Girls](https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 3:30 |
 | 33 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
 | 34 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
 | 35 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
-| 36 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
-| 37 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
+| 36 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
+| 37 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
 | 38 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
 | 39 | [Serial](https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 3:47 |
 | 40 | [Messy Love](https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Messy Love](https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz) | 3:35 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 | 48 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 
-Snapshot ID: `MCxhYzBjMzJmNmY1Y2NkYThhOWQ5ODk3MjFjNTFhYTcxNjc4YmE5NjE2`
+Snapshot ID: `MCwxZWE3ZDc1MTkxNjU5MGYzNjU0Y2I2M2ZhN2JhMGNkYWM0OGNlMTM3`

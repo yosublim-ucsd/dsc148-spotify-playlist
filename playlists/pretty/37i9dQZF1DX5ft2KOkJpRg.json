@@ -1,13 +1,33 @@
 {
   "description": "\u00bfQu\u00e9 se siente ser feliz? :(",
-  "num_followers": 336999,
+  "num_followers": 337419,
   "original_name": "awitado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGY0MzA2NzgyMDA3NmRjNzY4YzVhNmUzZDFlZDI2YTdlYTVlNWIy",
+  "snapshot_id": "MCxjZjMxOGNlNTcwMTQwMjJiNDZhMzcyMjAyMjQwZGYwMzM1Mzg4M2Vj",
   "tracks": [
+    {
+      "added_at": "2023-06-09 20:14:15",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
     {
       "added_at": "2022-09-07 21:41:55",
       "album": {
@@ -397,6 +417,22 @@
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
     },
     {
+      "added_at": "2023-06-09 20:14:15",
+      "album": {
+        "name": "M\u00e1s Te Va a Doler",
+        "url": "https://open.spotify.com/album/7GXA6EaThSEbjVVdaBvuZg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 194230,
+      "name": "M\u00e1s Te Va a Doler",
+      "url": "https://open.spotify.com/track/5zKXodTRdBV2Mv12UmM3Tc"
+    },
+    {
       "added_at": "2022-09-07 21:41:55",
       "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
@@ -587,6 +623,26 @@
       "duration_ms": 208541,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
+    },
+    {
+      "added_at": "2023-06-09 20:14:15",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 169895,
+      "name": "Ni Me Debes Ni Te Debo",
+      "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
     },
     {
       "added_at": "2022-09-07 21:41:55",
@@ -929,6 +985,22 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
+      "added_at": "2023-06-09 20:14:15",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+    },
+    {
       "added_at": "2023-05-10 23:45:23",
       "album": {
         "name": "Sin Ti (feat. La Vida Boh\u00e8me)",
@@ -1013,22 +1085,6 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2023-05-10 23:45:23",
-      "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 267416,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
-    },
-    {
       "added_at": "2022-09-07 21:41:55",
       "album": {
         "name": "Hoy Te Pierdo",
@@ -1065,20 +1121,20 @@
       "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
     },
     {
-      "added_at": "2022-09-07 21:41:55",
+      "added_at": "2023-06-09 20:14:15",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2022-10-24 14:10:13",
@@ -1115,26 +1171,6 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
     },
     {
       "added_at": "2022-09-07 21:41:55",
@@ -1201,26 +1237,6 @@
       "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
     },
     {
-      "added_at": "2023-04-28 19:11:26",
-      "album": {
-        "name": "Ando Sad",
-        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 158875,
-      "name": "Ando Sad",
-      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
-    },
-    {
       "added_at": "2023-05-15 22:38:28",
       "album": {
         "name": "Contigo",
@@ -1271,22 +1287,6 @@
       "duration_ms": 244653,
       "name": "Gato de Madrugada",
       "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
-    },
-    {
-      "added_at": "2022-09-07 21:41:55",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-02-13 17:42:28",

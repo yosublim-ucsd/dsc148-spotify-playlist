@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: League Of Legends Team
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,202 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,372 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 69 | [Pedra Murano \- Ao Vivo](https://open.spotify.com/track/6uI0qZoLNeK7QifgGBNz8e) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Norte Ao Vivo](https://open.spotify.com/album/09V8gkE7E8mGhVkunGYQ6c) | 7:15 |
 | 70 | [Dias De Luta, Dias De Gloria](https://open.spotify.com/track/006pMMCuRo2TFjh8sNGSov) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 2:25 |
 
-Snapshot ID: `MCwwMjA0NjUzMTEzOTExOWFmZThhNTBhZDEyZGYzNzI3OWY3NmU0ZTZh`
+Snapshot ID: `MCwxOGFkOGYwMGRjZThhZTQwNmE5MmUzYmM5ZjQ3OGI5NjJiODNjMmMx`

@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: FISHER & Aatig
 
-829 songs - 1 day 22 hr 0 min
+830 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-05-25 |  |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2023-03-09 | 2023-03-31 |
 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 | 2023-05-04 | 2023-05-19 |
+| [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-06-09 |  |
 | [Loving You](https://open.spotify.com/track/68hh4dfRImeafyik0zKP02) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Loving You](https://open.spotify.com/album/28YDQOSz4NJsukYQVPTas0) | 2:56 | 2023-06-08 |  |
 | [Ma Ruler](https://open.spotify.com/track/1BfL9RO7NFFoETay56tLal) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Ma Ruler](https://open.spotify.com/album/2XuPJJ3PcjGrBwg2YN6j5m) | 3:13 | 2023-06-01 |  |
 | [Made 4 U \- Juicy Romance Remix](https://open.spotify.com/track/653FlArHRCUQ53tVENefRO) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Made 4 U \(Juicy Romance Remix\)](https://open.spotify.com/album/1WFzv16AVzBdU5Yn6UGLEM) | 4:37 | 2023-02-16 | 2023-03-03 |

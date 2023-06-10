@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,263 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,560 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [Ni la mitad](https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Ni la mitad](https://open.spotify.com/album/3uGM9ztZYoni87Jy8Bq2QZ) | 2:40 |
 | 75 | [HONG KONG](https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e) | [Clari Cremaschi](https://open.spotify.com/artist/6Z1grWIzJvaRMAn5XFmDly), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [HONG KONG](https://open.spotify.com/album/6HDMJTazTiLnskQO30BXAC) | 2:34 |
 
-Snapshot ID: `MCxlMTg5NzViYWFjMWU5ZjY0NTYwYzIxMTcwMDNkNzRiODBiOGViNTNj`
+Snapshot ID: `MCxhMzliOTU5ODg1M2EyZjMzNTFmNDgwZjQzN2VjNzkwMzM2Y2RjYjJi`

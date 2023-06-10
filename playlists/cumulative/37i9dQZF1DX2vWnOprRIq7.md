@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
+> El lado fluorescente del indie latino featuring Julais.
 
-136 songs - 8 hr 14 min
+138 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 | 2023-03-17 |  |
 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2023-04-07 |  |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 |  |
+| [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 |  |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 |  |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 |  |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 |  |
@@ -69,10 +70,10 @@
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2023-03-17 |  |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2023-03-17 |  |
 | [Kompressor](https://open.spotify.com/track/0lzvt8oXaDPFar7qXrKgwi) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Brian Taylor](https://open.spotify.com/artist/21dDxmfnJOLAHZ41gyXqIL) | [Kompressor](https://open.spotify.com/album/3bORSZ7Hr7eZedVHyOC5nw) | 3:05 | 2023-06-02 |  |
-| [La Luna de Madrid](https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76) | [DouleurDolor](https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T) | [La Luna de Madrid](https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu) | 3:39 | 2023-03-17 |  |
+| [La Luna de Madrid](https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76) | [DouleurDolor](https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T) | [La Luna de Madrid](https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu) | 3:39 | 2023-03-17 | 2023-06-10 |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-03-17 |  |
 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 | 2023-04-21 |  |
-| [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 | 2023-05-12 |  |
+| [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 | 2023-05-12 | 2023-06-10 |
 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 | 2023-03-17 |  |
 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2023-03-17 |  |
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2023-03-17 | 2023-05-28 |
@@ -140,6 +141,7 @@
 | [Verano](https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0), [Clara Bares](https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg) | [Verano](https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI) | 3:35 | 2023-04-07 |  |
 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 | 2023-03-17 |  |
 | [Vital](https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Vital](https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK) | 3:02 | 2023-03-17 |  |
+| [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 | 2023-06-09 |  |
 | [Voladora de Papantla \- Hermetics Remix](https://open.spotify.com/track/1y36OpnIp7bIMyzWkCWn68) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Hermetics](https://open.spotify.com/artist/4FOl3ytTF0JV9hh9rsv03u) | [Voladora de Papantla \(Hermetics Remix\)](https://open.spotify.com/album/4YcZeTwbFEtHt5TBh9zjs1) | 6:07 | 2023-03-17 | 2023-04-22 |
 | [Ya no quiero que me busques](https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Ya no quiero que me busques](https://open.spotify.com/album/218GxV0wEDmKR279AkeOae) | 3:00 | 2023-03-17 |  |
 | [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 | 2023-03-25 | 2023-06-09 |

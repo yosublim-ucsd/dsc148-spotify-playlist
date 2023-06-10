@@ -3321,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz"
       },
@@ -3601,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
+    },
+    {
+      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -3634,7 +3670,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145667,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
@@ -3746,10 +3782,40 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 138945,
       "name": "Keep Dat Nigga",
       "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
+    {
+      "album": {
+        "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+        "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202468,
+      "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
     },
     {
       "album": {
@@ -4426,7 +4492,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137931,
       "name": "Nasty Dancer",
       "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
@@ -4676,6 +4742,32 @@
       "duration_ms": 172266,
       "name": "OMG BRITT",
       "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+    },
+    {
+      "album": {
+        "name": "One Margarita (Margarita Song)",
+        "url": "https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119361,
+      "name": "One Margarita (Margarita Song)",
+      "url": "https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD"
     },
     {
       "album": {
@@ -6970,6 +7062,24 @@
       "duration_ms": 143325,
       "name": "We Not Humping - Remix",
       "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
+        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "WET WHITE TEE SHIRT (SIDE A)",
+      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
     },
     {
       "album": {

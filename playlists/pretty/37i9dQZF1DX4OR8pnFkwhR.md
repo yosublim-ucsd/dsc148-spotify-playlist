@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,814 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,821 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [Bloom Town Disco](https://open.spotify.com/track/4KAFgQqkNSPdDAyeMLvUE7) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [Bloom Town Disco](https://open.spotify.com/album/4U25KH02PxTYHtRSsIVp2G) | 3:34 |
 | 57 | [Chinese Restaurant](https://open.spotify.com/track/0ViKTQ60jE246lSRKozVRa) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Chinese Restaurant](https://open.spotify.com/album/2V2og99QIn31G67kXc6fRq) | 2:31 |
 | 58 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
-| 59 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 |
+| 59 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 |
 | 60 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 |
 | 61 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 |
 | 62 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [とりとめもなく](https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs) | [SPRINGMAN](https://open.spotify.com/artist/4LZ9A4yEqrFENhEVdzyPi8) | [とりとめもなく](https://open.spotify.com/album/7ol3aw2wOOL9hAXbQVOcRc) | 3:58 |
 | 70 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 |
 
-Snapshot ID: `MCw4M2U3NTAxODc2ZDlhODJjZTEwYWE5YWJiMmZmM2ZjODJkMjYxYmNm`
+Snapshot ID: `MCw2MmFiM2ZlYjVkMjUyZGVlMWQ5MGYyZGQ4ODVmODI1ZmUwOWZiOGU5`

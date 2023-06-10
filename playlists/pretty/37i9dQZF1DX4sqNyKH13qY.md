@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sqNyKH13qY.md) - [plain]
 
 > Hear all of the rapper's greatest hits and features\. Flawless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,542 likes - 69 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,727 likes - 69 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sqNyKH13qY.md) - [plain]
 | 68 | [Yamborghini Dream \(feat\. Young Thug\)](https://open.spotify.com/track/2QBxdLNImwEDJCzI0Yzeka) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:47 |
 | 69 | [Fuck That Check Up \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2IjgKCbrk8CtqmsOC5DhVd) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:17 |
 
-Snapshot ID: `MCw0NDY0YmVjOTMyMDk2NTYzN2YzZjA1MjkyNjEyYWNjMTUwNDU5Y2Q1`
+Snapshot ID: `MCw4Mzg3MTIxZjViZjIyODgwN2E3ZjM3Zjg0YmU3ZDI3NTg3ZTFkNDZi`

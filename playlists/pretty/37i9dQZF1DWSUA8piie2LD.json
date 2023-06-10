@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 79204,
+  "num_followers": 79381,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmE0ODAxZDMzMGU1ZmI0YTM3ZTllNjM5MmQ4ZTEyYWI5YmQ5ZDdk",
+  "snapshot_id": "MCw5MmRhNDRjNTcxZDRmYTRjY2JjNDUzZjJlMTc1NTMzMDY3MGMzZmI3",
   "tracks": [
     {
       "added_at": "2023-06-08 09:23:39",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-08 09:23:39",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2023-06-08 09:23:39",
-      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": "2023-06-08 09:23:39",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2023-06-08 09:23:39",
-      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -167,6 +135,38 @@
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2023-06-08 09:23:39",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
+    },
+    {
+      "added_at": "2023-06-08 09:23:39",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2023-06-08 09:23:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-08 09:23:39",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2023-06-08 09:23:39",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-06-08 09:23:39",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
       "artists": [
         {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2023-06-08 09:23:39",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-08 09:23:39",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Last Look",
-      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2023-06-08 09:23:39",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 270400,
       "name": "The Lady In My Life",
       "url": "https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK"
+    },
+    {
+      "added_at": "2023-06-08 09:23:39",
+      "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Last Look",
+      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2023-06-08 09:23:39",

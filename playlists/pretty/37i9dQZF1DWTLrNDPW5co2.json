@@ -1,12 +1,12 @@
 {
   "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Shygirl",
-  "num_followers": 162401,
+  "num_followers": 162461,
   "original_name": "Club Resistance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGJhNDQxN2NlOWU2MGFlOTJmMTExMzM0ODNjZGNkNGE3NGUyYTdl",
+  "snapshot_id": "MCxhMTJlNDg0Mzg5NzI3NDYwYzBiZjk3MzBkODYzYzA2YjVkMzU1MjQ2",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -67,6 +67,34 @@
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Oh The Glamour",
+        "url": "https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "duration_ms": 201529,
+      "name": "Oh The Glamour",
+      "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
     },
     {
       "added_at": "2023-06-01 04:00:00",

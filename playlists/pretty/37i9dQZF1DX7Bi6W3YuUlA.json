@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 18500,
+  "num_followers": 18595,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzEyMjk4MDA5MDk1NmZhYjg0MDgzODQ5NDJkYTNmNmIyODUxOGU4",
+  "snapshot_id": "MCwzMDIxZThkNTIzMmI0ZmVkZDdlYmNhNTllNDhkOGFlNWVhZGNiMDE2",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "mess it up",
-        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 128300,
-      "name": "mess it up",
-      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Let's Be Honest - EP",
         "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+        "name": "SLEEPIN!",
+        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         }
       ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
+      "duration_ms": 160000,
+      "name": "SLEEPIN!",
+      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "SLEEPIN!",
-        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SLEEPIN!",
-      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 223532,
       "name": "USE THIS GOSPEL (feat. Kanye West & Eminem) - REMIX",
       "url": "https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "ONE WAY",
+        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 131317,
+      "name": "ONE WAY",
+      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "ONE WAY",
-        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 131317,
-      "name": "ONE WAY",
-      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "FYE FYE",
         "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
       },
@@ -507,6 +491,30 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "CECE",
+        "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 142782,
+      "name": "CECE",
+      "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Church Clothes 4",
         "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
       },
@@ -531,30 +539,6 @@
       "duration_ms": 232000,
       "name": "Misconceptions 4",
       "url": "https://open.spotify.com/track/1HR28lkrh1WlbE5QRchi4W"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "CECE",
-        "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
-      },
-      "artists": [
-        {
-          "name": "indie tribe",
-          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 142782,
-      "name": "CECE",
-      "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Child of God",
         "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 201541,
       "name": "Still In America",
       "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -931,22 +915,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "They Didn\u2019t Know II",
         "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
       },
@@ -959,6 +927,22 @@
       "duration_ms": 178714,
       "name": "They Didn\u2019t Know II",
       "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 139742,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -983,34 +967,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 139742,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Nino Brown",
-        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 144093,
-      "name": "Nino Brown",
-      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1031,22 +999,6 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1123,6 +1075,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Nino Brown",
+        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 144093,
+      "name": "Nino Brown",
+      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1139,6 +1107,86 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1167,70 +1215,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Everyone Loves A Comeback Story",
         "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 202285,
       "name": "I Can't Fail",
       "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
       },
@@ -1315,22 +1299,6 @@
       "duration_ms": 156749,
       "name": "Put In Work",
       "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1391,18 +1359,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1431,18 +1399,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1487,6 +1455,22 @@
       "duration_ms": 164886,
       "name": "Slidin'",
       "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1671,22 +1655,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Church House Trap House",
         "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
       },
@@ -1707,6 +1675,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "STILL GOING",
         "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
       },
@@ -1719,26 +1703,6 @@
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 147044,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1759,6 +1723,26 @@
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 147044,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1815,22 +1799,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "I Can't Let Up",
-        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "I Can't Let Up",
-      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1847,6 +1815,22 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "I Can't Let Up",
+        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "I Can't Let Up",
+      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1883,6 +1867,22 @@
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2023-02-18 05:58:41",

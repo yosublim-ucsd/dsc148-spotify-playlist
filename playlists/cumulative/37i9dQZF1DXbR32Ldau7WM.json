@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "All Things Must Pass",
+        "url": "https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279511,
+      "name": "All Things Must Pass",
+      "url": "https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54"
+    },
+    {
+      "album": {
         "name": "TIGHTROPE",
         "url": "https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc"
       },
@@ -10524,7 +10542,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 279511,
       "name": "\u7121\u5e38\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np"

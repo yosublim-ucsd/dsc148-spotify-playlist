@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-344 songs - 20 hr 38 min
+345 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-07-22 |  |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q) | 3:11 | 2021-10-13 | 2022-07-29 |
 | [For Me, For Her, For You](https://open.spotify.com/track/468z8HtyEOGV9RY9tl3ax0) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [For Me, For Her, For You](https://open.spotify.com/album/1IfZhO0T8f0EmyFgb9cMmd) | 4:03 | 2021-10-13 | 2022-07-29 |
-| [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 | 2021-10-13 |  |
+| [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 | 2021-10-13 | 2023-06-10 |
 | [Foreign Hands](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 | 2022-07-22 | 2023-02-18 |
 | [Foreign Hands](https://open.spotify.com/track/3nnXAqJVpdiwYKAXFBpnlG) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/5PAnvxRPA6ewcH22vxjfxe) | 4:18 | 2022-03-25 | 2022-04-21 |
 | [forever \- acoustic version](https://open.spotify.com/track/5vuxle0j0IpQfue3gjiVB5) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [forever \(acoustic version\)](https://open.spotify.com/album/7kkVeMmePPUPtJxCw0JpG4) | 3:08 | 2022-03-25 | 2022-04-21 |
@@ -154,6 +154,7 @@
 | [I See Fire](https://open.spotify.com/track/5pY3ovFxbvAg7reGZjJQSp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:59 | 2022-03-25 | 2022-04-21 |
 | [I Was Made For Loving You](https://open.spotify.com/track/2UBSTkbhkQwzjKpcuUJTdG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Was Made For Loving You](https://open.spotify.com/album/7CDpSLZVDlEFWBxhvqN8de) | 3:08 | 2021-10-13 | 2022-07-29 |
 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 | 2022-07-22 |  |
+| [I Will Spend My Whole Life Loving You](https://open.spotify.com/track/0wfaxt9dqAc7mUF36U11dw) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [All My Love](https://open.spotify.com/album/2orHkDZnD455GH5rdtDzp6) | 3:47 | 2023-05-05 |  |
 | [I Will Spend My Whole Life Loving You](https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [I Will Spend My Whole Life Loving You](https://open.spotify.com/album/3g1yz9GQMMswHeQrHQCm21) | 3:47 | 2021-10-13 | 2023-05-23 |
 | [I'll Follow \- Acoustic Version](https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [I'll Follow \(Acoustic Version\)](https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0) | 3:18 | 2021-10-13 | 2022-07-29 |
 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 | 2021-10-13 |  |

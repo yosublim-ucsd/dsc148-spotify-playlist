@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "bad note",
+        "url": "https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166771,
+      "name": "bad note",
+      "url": "https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE"
+    },
+    {
+      "album": {
         "name": "Ballroom Extravaganza",
         "url": "https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke"
       },
@@ -782,6 +800,24 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD"
+    },
+    {
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222656,
+      "name": "Black Horse",
+      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
     },
     {
       "album": {
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
@@ -5080,7 +5116,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185040,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
@@ -8057,6 +8093,32 @@
     },
     {
       "album": {
+        "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
+        "url": "https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH"
+      },
+      "artists": [
+        {
+          "name": "Shawn Wasabi",
+          "url": "https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY"
+        },
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151559,
+      "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
+      "url": "https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz"
+    },
+    {
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -9034,7 +9096,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"

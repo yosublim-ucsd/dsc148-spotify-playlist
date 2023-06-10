@@ -4,7 +4,7 @@
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: DYSTINCT x Naza
 
-401 songs - 20 hr 10 min
+402 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2021-12-27 | 2022-02-18 |
 | [Gaga \(feat\. MHD\)](https://open.spotify.com/track/4wW5nnZXD7SyLxaASOsLil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Gaga \(feat\. MHD\)](https://open.spotify.com/album/0fkE3D4PFGjA3n0Kd3pmXR) | 3:45 | 2022-07-07 | 2022-11-11 |
 | [Gamos](https://open.spotify.com/track/4FRljYLUrjpYqcgfvYLsb1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 3:10 | 2022-08-18 | 2022-09-30 |
+| [Geto \(feat\. 1da Banton\)](https://open.spotify.com/track/1Jt78L7jNVLD3hNo674jww) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/album/7perMKYhcKMnjPNqUx9Bfk) | 2:28 | 2023-06-08 |  |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-05 | 2022-09-09 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2022-11-18 |
 | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/track/0shC9n2Ih1de0fSw8YcGoF) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Lixx](https://open.spotify.com/artist/6TfZaDFnfzNVj2YXgRUo9d) | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/album/0i7jOzWkrJXvRPI5kfwcwY) | 3:11 | 2022-09-08 | 2023-01-20 |

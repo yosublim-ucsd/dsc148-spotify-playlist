@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,345 likes - 283 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,719 likes - 283 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 32 | [Hokkaido Halfpipe](https://open.spotify.com/track/1UfFyFxHB2amavwX4LTFLc) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Hokkaido Halfpipe](https://open.spotify.com/album/7ISDN6Uriinwp8mwmxSzy0) | 2:17 |
 | 33 | [No Pressure](https://open.spotify.com/track/5RCXulZHahDWbtUr7tAgtH) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [No Pressure](https://open.spotify.com/album/6aQt3aOKn3bbVg3vHcqqjz) | 2:01 |
 | 34 | [Lemon Market](https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Lemon Market](https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW) | 2:42 |
-| 35 | [everything i once held dear](https://open.spotify.com/track/1MUFBNIJtbTomAOxJxE9kJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/5Tj11EgWn90NjKqGiwMtyC) | 2:51 |
+| 35 | [everything i once held dear](https://open.spotify.com/track/0AbLFT7RZYVEzMZrNUW9cJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/1AEPJ4sbvSlYqjYFzkEF33) | 2:51 |
 | 36 | [Coconut Crab](https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Coconut Crab](https://open.spotify.com/album/4pWZhL6HlW8FQLtEbtC0Rx) | 1:47 |
 | 37 | [Terracotta](https://open.spotify.com/track/6ilYHqs3Jz8RVduq2mMEEL) | [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Jonah Brooks](https://open.spotify.com/artist/38Zp3DIfdT9K3kd65Unxfl) | [Terracotta](https://open.spotify.com/album/5yab8lZK050J8cLEJsiBhf) | 2:03 |
 | 38 | [Soft Breeze](https://open.spotify.com/track/39vp8D8UInw4o5jIoAz579) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Soft Breeze](https://open.spotify.com/album/5XFoPzRvqxSjWben0sMG71) | 2:18 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 282 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 283 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCw1YmJmMmMxYzY5N2RiNWZkMmY1OTVjNDQ1NjBiOTdmMGE5N2QyZDdm`
+Snapshot ID: `MCxiZTUzMGUyODU5ODNkM2JmMTU0NGY2YWRkMmQxNTczMTM4M2NmYmY2`

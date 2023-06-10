@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Bricknasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,720 likes - 153 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,719 likes - 153 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 |
 | 2 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
 | 3 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
-| 4 | [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 |
+| 4 | [Patience](https://open.spotify.com/track/2G6GODY8ZSa7vtzlzPNt9o) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/14plmyqkoSBmJoPHNJvCRH) | 3:04 |
 | 5 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 6 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 7 | [amnesia111](https://open.spotify.com/track/4cc73WNl3KdrJNgWk0eySz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:35 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 152 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 153 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MCw5NDBjMzRmMjE2MTY3MDEzZWNkNDZkN2U5ZTAzZDM3YmUwMWE5NDUy`
+Snapshot ID: `MCw1Y2E2NmI2YTJkNDM5Zjg3Zjk4OTZjYjQyNGRjNDNlM2I1YjdmMTU0`

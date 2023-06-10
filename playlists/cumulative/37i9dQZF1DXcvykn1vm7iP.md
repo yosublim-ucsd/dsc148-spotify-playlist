@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-127 songs - 6 hr 15 min
+128 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-08-05 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-08-05 |  |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
+| [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-08-05 | 2023-01-21 |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 |  |
 | [Exhale](https://open.spotify.com/track/4hf0kDIz99TEAhNSRDJoWo) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Exhale](https://open.spotify.com/album/3M9fvySvpsmnWrCfpVLWr8) | 3:00 | 2023-02-03 |  |
@@ -58,7 +59,7 @@
 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 | 2023-03-31 |  |
 | [Improved Focus](https://open.spotify.com/track/2I6wgXiYhpwJ5D6P2vKXEA) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:12 | 2022-12-30 |  |
 | [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 | 2022-12-09 |  |
-| [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 |  |
+| [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 | 2023-06-10 |
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2022-11-22 |  |
 | [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 | 2022-10-01 |

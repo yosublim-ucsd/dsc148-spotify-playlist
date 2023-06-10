@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "King Of The Streets",
+        "url": "https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "Beta Karta Rap",
+      "url": "https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5"
+    },
+    {
+      "album": {
         "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS"
       },
@@ -336,6 +354,24 @@
       "duration_ms": 227990,
       "name": "City Slums (feat. DIVINE)",
       "url": "https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn"
+    },
+    {
+      "album": {
+        "name": "King Of The Streets",
+        "url": "https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "Classy Chapri",
+      "url": "https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo"
     },
     {
       "album": {
@@ -978,6 +1014,36 @@
       "duration_ms": 398750,
       "name": "Machayenge 4",
       "url": "https://open.spotify.com/track/71VXewVKFs0HcwEom489zH"
+    },
+    {
+      "album": {
+        "name": "Madari",
+        "url": "https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8"
+      },
+      "artists": [
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        },
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/24ltYRztptq8hTRRVqhRdX"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201151,
+      "name": "Madari (feat. Karan Kanchan)",
+      "url": "https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ"
     },
     {
       "album": {

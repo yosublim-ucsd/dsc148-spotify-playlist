@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 43369,
+  "num_followers": 43435,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWYwMjUxMTQ0OGQ3N2M1ZjJmOGE0NDMzYmIyNmZmZjYzNGRiY2I1",
+  "snapshot_id": "MCw3MzA1NmJkNjIyMDdlNWY5YThmZDQxNDljYTU3ZjJhZDQ1MTA2ZjAz",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Pride Classics",
+        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 326586,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 313906,
       "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2022-12-31 00:39:45",

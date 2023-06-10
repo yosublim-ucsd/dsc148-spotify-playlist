@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Christine and the Queens. ",
-  "num_followers": 121844,
+  "num_followers": 122123,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2NiYTQxN2Y4NTI2OGI0MmZmZmNiMDczYTY1NzEzZTVkYzY0Njk5",
+  "snapshot_id": "MCw5NWE2YTgxZDUzNWY4Yjk3NDRjYmRkZGIxZTExY2UxMDZjYjU0ZGQw",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Leave It On The Dancefloor",
-        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175016,
-      "name": "Leave It On The Dancefloor",
-      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Leave It On The Dancefloor",
+        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175016,
+      "name": "Leave It On The Dancefloor",
+      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Freak Mode",
-        "url": "https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 157669,
-      "name": "Freak Mode",
-      "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Christine and the Queens",
@@ -471,6 +455,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Freak Mode",
+        "url": "https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 157669,
+      "name": "Freak Mode",
+      "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Little Oblivions",
@@ -535,6 +519,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 210475,
       "name": "Body",
       "url": "https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Basil Noodles",
-        "url": "https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "Basil Noodles",
-      "url": "https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Blondshell",
@@ -959,6 +943,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Basil Noodles",
+        "url": "https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "Basil Noodles",
+      "url": "https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq"
     },
     {
       "added_at": "2023-03-07 19:29:41",

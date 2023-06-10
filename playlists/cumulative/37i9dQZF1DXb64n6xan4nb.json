@@ -713,6 +713,32 @@
     },
     {
       "album": {
+        "name": "Let's Get Retarded",
+        "url": "https://open.spotify.com/album/3EpcCN5EKkRdN7g7zOflQO"
+      },
+      "artists": [
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "Chappo",
+          "url": "https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216032,
+      "name": "Let's Get Retarded",
+      "url": "https://open.spotify.com/track/03nvFFGnitYLSl8H8af3ww"
+    },
+    {
+      "album": {
         "name": "sweetbox The Best",
         "url": "https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM"
       },
@@ -850,7 +876,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 366628,
       "name": "My Tipsy Confession",
       "url": "https://open.spotify.com/track/62ElSn0docGvjnA7k30swo"

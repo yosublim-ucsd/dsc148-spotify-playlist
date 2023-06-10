@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 262059,
+  "num_followers": 262784,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWMyMDYzMWY0NWU1MmU2NmIxNjczMzNlMTJmMTgwNjRhZjhkNmI4",
+  "snapshot_id": "MCw4ODM0YTk4MzY2OTUxNmQyMDE1ZGZiYzY1YTY5OTY0ODAyOTllYTFi",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 186533,
       "name": "Jungle Boogie",
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Who Loves You",
+      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2329,6 +2329,22 @@
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Signature Box",
@@ -2347,22 +2363,6 @@
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2021-09-08 13:31:49",

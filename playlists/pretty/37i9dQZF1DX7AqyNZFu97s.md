@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Sopë
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,979 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,978 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Floating Up](https://open.spotify.com/track/3Af5zhW5h50D6cXP1sMHWe) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Floating Up](https://open.spotify.com/album/0d7hn4pMkkWbXK9Cu79Hk3) | 3:42 |
 | 80 | [Distraction](https://open.spotify.com/track/2SfDBMCek2RCwLgSx5Hubm) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [Distraction](https://open.spotify.com/album/2Tm6f6agIQ7NK3j1miEaA3) | 2:16 |
 
-Snapshot ID: `MCxjNGM4MzI0Y2NiMDkxM2IyMWExZDU0NDMwZWE0NTIxYTVjNzgwZGRk`
+Snapshot ID: `MCxiMmNmMzU1ODk4MmZkZDUwYzUxYzM0ZjJkMTRlMTBkNzRjNTVmZDE4`

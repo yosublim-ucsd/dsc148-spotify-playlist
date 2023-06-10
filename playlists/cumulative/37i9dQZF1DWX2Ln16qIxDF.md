@@ -4,7 +4,7 @@
 
 > Bizarrap & Peso Pluma están en el Top!
 
-128 songs - 6 hr 38 min
+129 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 | 2023-05-19 |  |
 | [Pal Party](https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Pal Party](https://open.spotify.com/album/3J0jOvR1gVCShYy6YLWLFC) | 2:16 | 2023-05-12 |  |
 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 | 2023-05-12 |  |
-| [Paz](https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Paz](https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u) | 3:06 | 2023-05-12 |  |
+| [Para Ti \(feat\. Maikel Delacalle & Omar Varela\)](https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Para Ti \(feat\. Maikel Delacalle & Omar Varela\)](https://open.spotify.com/album/3RIXKogj9l5XAGQcqQYc7U) | 3:47 | 2023-06-09 |  |
+| [Paz](https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Paz](https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u) | 3:06 | 2023-05-12 | 2023-06-10 |
 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2023-05-12 |  |
 | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc) | 2:13 | 2023-05-12 |  |
 | [Peipper \| Mission 11](https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| Mission 11](https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM) | 2:18 | 2023-05-12 |  |

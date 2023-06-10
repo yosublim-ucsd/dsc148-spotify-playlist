@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "5 O'Clock",
+        "url": "https://open.spotify.com/album/0BvuoUOJ8MvkQRMfRwmYSG"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193878,
+      "name": "5 O'Clock",
+      "url": "https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu"
+    },
+    {
+      "album": {
         "name": "7th Grade",
         "url": "https://open.spotify.com/album/0zWDfSw6Zc1N238MhXOvAN"
       },
@@ -316,6 +334,28 @@
       "duration_ms": 180673,
       "name": "ACAB (feat. 7000, redveil, Chance the Rapper)",
       "url": "https://open.spotify.com/track/5pUSYF0Ml7XtLCmGy2b8Wy"
+    },
+    {
+      "album": {
+        "name": "DIAMONDS & FREAKS",
+        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269474,
+      "name": "ADAM & EVE",
+      "url": "https://open.spotify.com/track/7fR8FgFVx1nS166p5wIR5B"
     },
     {
       "album": {
@@ -558,7 +598,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201191,
       "name": "AMBEYONC\u00c9 (feat. Smino)",
       "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
@@ -1282,7 +1322,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 163500,
       "name": "Bossier City Kidnap Victims",
       "url": "https://open.spotify.com/track/0prOblscRTUplNzf9DabhP"
@@ -1386,7 +1426,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 294866,
       "name": "Brandy, Aaliyah",
       "url": "https://open.spotify.com/track/1k4MZpPP7oMgBrAr2WzF6z"
@@ -2242,6 +2282,24 @@
       "duration_ms": 145956,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw"
     },
     {
       "album": {
@@ -3385,6 +3443,32 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG"
+      },
+      "artists": [
+        {
+          "name": "Mazen",
+          "url": "https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203140,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9"
+    },
+    {
+      "album": {
         "name": "giftbag",
         "url": "https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx"
       },
@@ -3705,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Helluva Day",
+        "url": "https://open.spotify.com/album/7s0PVaHfUzLaETmARjn95I"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Anonimis",
+          "url": "https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Helluva Day",
+      "url": "https://open.spotify.com/track/36aqn18EqDHyw0Jg0lumJt"
+    },
+    {
+      "album": {
         "name": "Herringbone",
         "url": "https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI"
       },
@@ -3854,7 +3956,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 203152,
       "name": "HOT PLANET",
       "url": "https://open.spotify.com/track/5DgL7Iz88RjLTYv0llQREe"
@@ -9582,7 +9684,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176333,
       "name": "Yung",
       "url": "https://open.spotify.com/track/7DmVYMKIZV1UodjaAJdnHE"

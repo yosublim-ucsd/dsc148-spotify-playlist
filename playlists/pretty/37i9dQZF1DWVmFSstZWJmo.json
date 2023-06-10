@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. The Dare",
-  "num_followers": 90886,
+  "num_followers": 91095,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjFkMTc5MzJkYTY4MjRhM2U5ODA2NGYwMGU3ZmEzMjQ0OGU3MzBj",
+  "snapshot_id": "MCwxMTJlOWJkMDNjYmU0YTYyNDRjNzdkYzgxOWY0NTczMGIwN2I4MmY1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
         "name": "Supernature",
         "url": "https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 260173,
       "name": "Wildcat",
       "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256398,
-      "name": "Standing In the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2023-05-17 14:39:09",

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Simone Mendes
 
-138 songs - 6 hr 33 min
+139 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 | 2022-11-19 |
 | [Coração de Isca](https://open.spotify.com/track/2Nlf97QqqcZ2x9Qb4h1Qt2) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Último Beijo](https://open.spotify.com/album/4dI1v0jzbH7DsaxcfhEYpf) | 2:27 | 2021-12-31 | 2022-03-26 |
 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 | 2021-12-31 | 2022-03-05 |
+| [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 | 2023-06-09 |  |
 | [Cê Tá Preparada \- Ao Vivo](https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cê Tá Preparada \(Ao Vivo\)](https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy) | 3:33 | 2021-12-31 | 2022-12-29 |
 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 | 2021-12-31 | 2022-08-13 |
 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-15 |  |
@@ -137,7 +138,7 @@
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-12-31 | 2023-02-11 |
 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 | 2021-12-31 | 2022-03-24 |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2021-12-31 | 2022-04-09 |
-| [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 | 2022-02-18 |  |
+| [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 | 2022-02-18 | 2023-06-10 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2021-12-31 | 2022-07-29 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 | 2022-07-22 | 2023-03-18 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2021-12-31 | 2022-07-23 |

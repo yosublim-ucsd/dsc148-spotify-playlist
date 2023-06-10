@@ -2,9 +2,9 @@
 
 ### [Puro Perreo](https://open.spotify.com/playlist/37i9dQZF1DWX5ZOsG2Ogi1)
 
-> ¡Perreo del bueno! Cover: King Savagge & Gino Mella
+> ¡Perreo del bueno! Cover: Mariah Angeliq
 
-438 songs - 1 day 0 hr 52 min
+439 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [DE CAROLINA](https://open.spotify.com/track/7xQdrZO18sSodsnJ7XCqto) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:01 | 2022-11-12 | 2023-02-06 |
 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 | 2022-09-09 | 2022-12-04 |
 | [De Tanto Chimbiar](https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [De Tanto Chimbiar](https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp) | 3:06 | 2022-09-08 | 2023-04-01 |
-| [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 | 2023-05-30 |  |
+| [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 | 2023-05-30 | 2023-06-10 |
 | [DEJAU'](https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:02 | 2023-03-03 | 2023-04-25 |
 | [DEJAU'](https://open.spotify.com/track/3FwGsdOHEGS8kvhycQdzsy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:02 | 2022-11-12 | 2023-02-05 |
 | [Del Kilo](https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:46 | 2023-01-13 | 2023-02-25 |
@@ -104,6 +104,7 @@
 | [Dile](https://open.spotify.com/track/2Nf6VvmpR3LqSLfHvsduMD) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Gold Series "The Last Don"](https://open.spotify.com/album/3hKDEHUzH1GmdohemezsEw) | 3:24 | 2022-07-27 | 2022-07-29 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-03-21 | 2022-08-20 |
 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 | 2022-09-23 |  |
+| [DIVA](https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DIVA](https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD) | 2:17 | 2023-06-09 |  |
 | [DJ No Pare \(feat\. Zion, Dalex, Lenny Tavárez\) \- Remix](https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [DJ No Pare \(feat\. Zion, Dalex, Lenny Tavárez\) \[Remix\]](https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8) | 4:18 | 2022-03-21 | 2022-08-20 |
 | [Doble Cara](https://open.spotify.com/track/1SPhEv63C5GXlAc9R839aa) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Doble Cara](https://open.spotify.com/album/51pCpmgbmTjcNCvNBEMy7L) | 2:43 | 2023-01-20 | 2023-01-28 |
 | [DON & TEGO](https://open.spotify.com/track/6wTX1zUPc2qdQnDZnVhuoV) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:04 | 2023-04-07 | 2023-04-28 |

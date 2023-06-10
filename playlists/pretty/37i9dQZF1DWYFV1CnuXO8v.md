@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,289 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,471 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 49 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 |
 | 50 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 |
 
-Snapshot ID: `MCw0ZDA5ZTE2NDE1MThmY2Y4YjIzNzNlMjAxM2E4YjYwZDcxNDFmZTlj`
+Snapshot ID: `MCxiMGUxOTM3YmE2YzEwNGI3OTA3NGViMWFlZTU2YzA5ZTgwNmEzNzcy`

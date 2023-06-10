@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,172 likes - 290 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,296 likes - 290 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 289 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 |
 | 290 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 |
 
-Snapshot ID: `MCxjZmEyMjcxZWVkNjAzMTk5ZTUwZjYyODcxNjA2NDEyMjViY2IyOWY0`
+Snapshot ID: `MCxmZjljNTllOTlkNWE3N2JmYzk4ZTQ0NjY4MGY4OTk3YjQ5MWZjMjhj`

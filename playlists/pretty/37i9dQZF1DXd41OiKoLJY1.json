@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Sansette Artwork: Isu Kim\n",
-  "num_followers": 55535,
+  "num_followers": 55574,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTMyMjQ5Yzk5NDIwNjgwYTc0N2MxZDJhYmUyYTA4MGFjOTA3MmFk",
+  "snapshot_id": "MCw3M2RhZDkyMjRhNTA4YmFhYTg5YWNjODg2Njc1ZTBjN2I0NDM5ZDc3",
   "tracks": [
     {
       "added_at": "2023-06-08 16:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 230341,
       "name": "Dahan-Dahan",
       "url": "https://open.spotify.com/track/3o2VURIHXcdzFgdG3Reuys"
+    },
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "Love in Secret",
+        "url": "https://open.spotify.com/album/5i0uHLInRqy0Etc852jIYU"
+      },
+      "artists": [
+        {
+          "name": "SONGSONG",
+          "url": "https://open.spotify.com/artist/7ozOQ1wJbxrRUMJQI2ByUI"
+        }
+      ],
+      "duration_ms": 230803,
+      "name": "Love in Secret",
+      "url": "https://open.spotify.com/track/2neoGnHcr29hzbjz0QJdXQ"
+    },
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "Bakuna",
+        "url": "https://open.spotify.com/album/2Kgv0G1j9kmkoIi2ofxJ6J"
+      },
+      "artists": [
+        {
+          "name": "Ace P",
+          "url": "https://open.spotify.com/artist/5tfXFW91zvyONYtXu3ZPPT"
+        }
+      ],
+      "duration_ms": 139302,
+      "name": "Bakuna",
+      "url": "https://open.spotify.com/track/7zSJL66LTk1EgKbOJbrggG"
     },
     {
       "added_at": "2023-06-08 16:00:00",
@@ -192,8 +224,8 @@
           "url": "https://open.spotify.com/artist/0qsIIhcRI6g5NxfBNTYCCV"
         },
         {
-          "name": "AMA",
-          "url": "https://open.spotify.com/artist/0Uwrb3bZBjMWDLU9WUheZm"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776"
         }
       ],
       "duration_ms": 248767,
@@ -479,6 +511,30 @@
       "duration_ms": 156035,
       "name": "Shipping Fee",
       "url": "https://open.spotify.com/track/4D02JXAGykoLiY6kxBW1v8"
+    },
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "One night",
+        "url": "https://open.spotify.com/album/0UxlTYP37ZWylyNBw44414"
+      },
+      "artists": [
+        {
+          "name": "King Murph",
+          "url": "https://open.spotify.com/artist/5GskChFEdkaoBxhzSQRKsG"
+        },
+        {
+          "name": "Fritzie",
+          "url": "https://open.spotify.com/artist/7gTIW4HEdX5UDO0gXyOGV4"
+        },
+        {
+          "name": "Lyka B",
+          "url": "https://open.spotify.com/artist/6yZkoXDZ5YHVXljE3GEdy6"
+        }
+      ],
+      "duration_ms": 231818,
+      "name": "One night",
+      "url": "https://open.spotify.com/track/3KaVG6Ygzl8AGyQFpiNZTV"
     },
     {
       "added_at": "2023-06-08 16:00:00",

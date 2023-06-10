@@ -660,7 +660,7 @@
     {
       "album": {
         "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
       },
       "artists": [
         {
@@ -671,6 +671,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 109241,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
+    },
+    {
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"

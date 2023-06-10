@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 1525,
+  "num_followers": 1600,
   "original_name": "Verano Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjM0MmMxYWVmNmU5OTk0YjFkNWFhOTViMjE2NzljZjU5MDgyMGQ4",
+  "snapshot_id": "MCxkNGQyYWRjMjNlMTMyZTZhZDkzNTJmNzM5NTQ2Zjc4MDUyOTM5MTI5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:18:06",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
+      "duration_ms": 190258,
+      "name": "En Silencio",
+      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
     },
     {
       "added_at": "2023-05-26 09:18:06",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 190258,
-      "name": "En Silencio",
-      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
     },
     {
       "added_at": "2023-05-26 09:18:06",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-05-26 09:18:06",
+      "album": {
         "name": "Lives Pa' la Raza",
         "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 217495,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
-    },
-    {
-      "added_at": "2023-05-26 09:18:06",
-      "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
       "added_at": "2023-05-26 09:18:06",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2023-05-26 09:18:06",
-      "album": {
         "name": "Lo Dice El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 170600,
       "name": "Lo Dice El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
+    },
+    {
+      "added_at": "2023-05-26 09:18:06",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2023-05-26 09:18:06",
@@ -1331,38 +1331,6 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
-        "name": "Se Abre el Tel\u00f3n",
-        "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
-      },
-      "artists": [
-        {
-          "name": "Reto\u00f1os Del Rio",
-          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr"
-    },
-    {
-      "added_at": "2023-05-26 09:18:06",
-      "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
-    },
-    {
-      "added_at": "2023-05-26 09:18:06",
-      "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP"
       },
@@ -1383,6 +1351,22 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
+        "name": "Se Abre el Tel\u00f3n",
+        "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr"
+    },
+    {
+      "added_at": "2023-05-26 09:18:06",
+      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/1s3r2lkbalw3SIolEp0IMV"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 185074,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/0HGxHzii8mi1z2tB7z2FvW"
+    },
+    {
+      "added_at": "2023-05-26 09:18:06",
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
     },
     {
       "added_at": "2023-05-26 09:18:06",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-26 09:18:06",
       "album": {
-        "name": "Los de la DC",
-        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia De Rio Grande",
-          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
-    },
-    {
-      "added_at": "2023-05-26 09:18:06",
-      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 230667,
       "name": "Total que m\u00e1s da",
       "url": "https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz"
+    },
+    {
+      "added_at": "2023-05-26 09:18:06",
+      "album": {
+        "name": "Los de la DC",
+        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
     },
     {
       "added_at": "2023-05-26 09:18:06",

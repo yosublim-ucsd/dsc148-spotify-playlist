@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 159386,
+  "num_followers": 159850,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTA4YTExNjg4NzgxMjc3MmU1NTMyNDY5NDIwZTIxMTY2NjlhYmQx",
+  "snapshot_id": "MCwzZDhkZmQ3N2EwODQ1YjQ1NDYwZmIzYjM2ZmM2OGU4MWIzYjIwZmE2",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
       "artists": [
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Roll the Dice",
         "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Never Go Back To Sleep",
-        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Never Go Back To Sleep",
-      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Never Go Back To Sleep",
+        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Never Go Back To Sleep",
+      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
     },
     {
       "added_at": "2023-06-02 14:30:00",

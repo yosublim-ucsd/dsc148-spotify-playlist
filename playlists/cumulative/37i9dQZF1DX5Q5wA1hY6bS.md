@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-445 songs - 1 day 3 hr 4 min
+446 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Thirteen Sad Farewells](https://open.spotify.com/track/0s7rK6ZBik5I0t1gxSVQRg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Thirteen Sad Farewells](https://open.spotify.com/album/57MGwnhweNo0KT82u4fdmK) | 2:45 | 2019-06-22 | 2021-02-04 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2020-11-11 | 2022-04-21 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 | 2022-05-27 |  |
-| [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2022-05-27 |  |
+| [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2022-05-27 | 2023-06-10 |
 | [Thirty](https://open.spotify.com/track/4zP4mkNgtK75UsscbVsVyZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Thirty](https://open.spotify.com/album/4y3zrJympvQWVLfVGAe626) | 3:40 | 2020-03-09 | 2022-07-29 |
 | [Time Honored Tradition](https://open.spotify.com/track/4XqD2pfvBycih1dHLbW2rG) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 3:16 | 2020-03-09 | 2020-09-05 |
 | [Trinity Lane](https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/1r27NAhNdnPF1Ud6UOf7MR) | 3:53 | 2020-03-09 | 2020-07-10 |
@@ -453,5 +453,6 @@
 | [You're the Reason I Drink](https://open.spotify.com/track/5KUFb5VWJBC96HfY1hNZi6) | [Steel Blossoms](https://open.spotify.com/artist/6c7CCsR0EwgZ81KHktNrhO) | [Steel Blossoms](https://open.spotify.com/album/38AlUwIxlnUkelG8pEUyNy) | 2:38 | 2020-03-09 | 2020-04-14 |
 | [Younger Years](https://open.spotify.com/track/5kCAUVS30fqaQXcI1j4nIe) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Younger Years](https://open.spotify.com/album/0bZCFTOGoK2NWans0qCRAV) | 3:49 | 2019-05-26\* | 2021-10-16 |
 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 | 2022-05-27 |  |
+| [You’re Gonna Go Far](https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:46 | 2023-06-09 |  |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

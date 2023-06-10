@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-145 songs - 8 hr 55 min
+146 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Mali Mali](https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP) | 3:42 | 2022-07-27 | 2023-01-11 |
 | [Mali Mali](https://open.spotify.com/track/7faeHcamYu377PtVLtUZ87) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/6cRIMxkVh1ZyQsVZ3lfYzJ) | 3:42 | 2023-01-13 | 2023-05-11 |
 | [Mali Mali](https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG) | 3:44 | 2021-12-09 | 2023-01-19 |
+| [Maniche mchoqué](https://open.spotify.com/track/4zz2mlE7nVpblI9JnoG9Gr) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Maniche mchoqué](https://open.spotify.com/album/0n2FzHUEbviZB21GiQHvKo) | 5:22 | 2023-06-09 |  |
 | [Manimane](https://open.spotify.com/track/6cVOmhvrfTFGw6h8bEU3Rl) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Manimane](https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9) | 3:09 | 2022-02-07 | 2023-02-03 |
 | [Marsilia](https://open.spotify.com/track/35hzpvo3JS4NbOMpvC9vAN) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Marsilia](https://open.spotify.com/album/077lukkBWt0j9J7PfZRM0p) | 2:49 | 2021-12-09 | 2023-04-06 |
 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 | 2021-12-09 |  |
@@ -128,7 +129,7 @@
 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 | 2022-11-03 | 2023-02-07 |
 | [Tal Sebri](https://open.spotify.com/track/4G7OIVLbpp7BnNrpDDVgPJ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Youcef Gdh](https://open.spotify.com/artist/5oO5vd9qs9GJ1bFE4OZbM9) | [Tal Sebri](https://open.spotify.com/album/7FitafHMcsT0DiYZY019Ih) | 3:22 | 2022-10-09 | 2023-02-01 |
 | [Tesla](https://open.spotify.com/track/0SAznyiLIYzAQthw8n7o3t) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Tesla](https://open.spotify.com/album/1qx1Oo3nxg87rd2dwmaUAY) | 3:08 | 2023-04-05 |  |
-| [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 |  |
+| [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 | 2023-06-10 |
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 | 2023-02-07 |
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 | 2022-11-08 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 |  |

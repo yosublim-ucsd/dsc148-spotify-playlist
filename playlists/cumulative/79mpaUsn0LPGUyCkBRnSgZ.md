@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-253 songs - 16 hr 4 min
+255 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Beatopia Cultsong](https://open.spotify.com/track/2HnZ0YqhP2BxYQUhCd9Zov) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:31 | 2023-01-12 |  |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-04-21 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-05-22 | 2023-06-03 |
+| [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |
 | [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-09 |  |
 | [Black Dog \- Remaster](https://open.spotify.com/track/0D58ERdLBDRgT86BPnH8ps) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:55 | 2023-02-11 |  |
@@ -146,6 +147,7 @@
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 |  |
 | [Mean Street \- 2015 Remaster](https://open.spotify.com/track/1eGSgC6ZhJ8D4nrZZ83LyA) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Fair Warning \(Remastered\)](https://open.spotify.com/album/4KlqAmR1tA1dERWo7MHhzO) | 5:00 | 2022-12-27 |  |
 | [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sterling Toles](https://open.spotify.com/artist/0WdhLYtPH99bhAmqPLndhO) | [Manger on McNichols](https://open.spotify.com/album/0ZUtBUG7Ya4y0p8qSYlPFj) | 3:26 | 2023-01-13 |  |
+| [Meeting of the Spirits \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/41ZgVC4H14ajbV2adh3D7s) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:51 | 2023-06-09 |  |
 | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/track/3WfcSkODi8NAvzE9CySdDp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2) | 2:52 | 2023-02-05 |  |
 | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/track/5FpMCPbmZIrVlf3zxC6eqV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 4:31 | 2023-04-24 |  |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-104 songs - 5 hr 55 min
+105 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-09-15 |  |
 | [Miracle Sleep](https://open.spotify.com/track/2D0wO44Z2VUSMrAdryCa9I) | [Sleepy Depp](https://open.spotify.com/artist/58g2tnD4W0qx5WjTenATUh) | [Miracle Sleep](https://open.spotify.com/album/6c2udN2pA555wHEp3oaehQ) | 2:32 | 2022-09-15 |  |
 | [Misty Rain](https://open.spotify.com/track/2dENOeBmXx4wOkwExLJj3F) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 4:08 | 2022-12-02 |  |
-| [Morning Bird](https://open.spotify.com/track/6FwktjhCUnJGUA2AFOVuhS) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:39 | 2022-12-02 |  |
+| [Morning Bird](https://open.spotify.com/track/6FwktjhCUnJGUA2AFOVuhS) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:39 | 2022-12-02 | 2023-06-10 |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-09-15 |  |
 | [Morning Forest](https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Morning Forest](https://open.spotify.com/album/1SYfOGXSyZsmkLLPFJ3DxG) | 3:48 | 2023-03-10 |  |
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 |  |
@@ -75,6 +75,7 @@
 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 | 2022-09-15 |  |
 | [Northern Light](https://open.spotify.com/track/69SwdjtbmBzYydkiBt3S37) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Northern Light](https://open.spotify.com/album/3NlOEPotM8PvsQxk18eOhP) | 2:18 | 2023-04-13 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2022-09-15 |  |
+| [Owl](https://open.spotify.com/track/4VAyxfqZYY9W9Q7JcZ3STG) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:41 | 2023-06-09 |  |
 | [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 | 2022-09-15 | 2023-04-14 |
 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:24 | 2022-09-30 | 2023-04-29 |
 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/6pMNhCZOkxaLscTbJeMxfh) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 1:24 | 2023-04-21 |  |

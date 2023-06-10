@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 472764,
+  "num_followers": 472785,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWRiMzNhMTQyODk1NWQwOWYzN2VlODE3ODA0YjhkYzAzYTI3MTc4",
+  "snapshot_id": "MCxjMmQ4M2Y5ZDAxOGNkYmJiZTk0YjkwMjhlY2U1ZmZiNjY5OWE2YTZk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "YOUNG&DANGEROUS",
+        "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 178115,
+      "name": "Body Talks",
+      "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "YOUNG&DANGEROUS",
-        "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 178115,
-      "name": "Body Talks",
-      "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Trouble\u2019s Coming",
         "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Do It Faster",
-        "url": "https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 107665,
-      "name": "Do It Faster",
-      "url": "https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Leader of the Pack",
         "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Do It Faster",
+        "url": "https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 107665,
+      "name": "Do It Faster",
+      "url": "https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Elimination Dances",
-        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Elimination Dances",
-      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Elimination Dances",
+        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Elimination Dances",
+      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
-      },
-      "artists": [
-        {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Seven White Horses",
         "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+      },
+      "artists": [
+        {
+          "name": "Little Hurt",
+          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
     },
     {
       "added_at": "2023-05-19 04:00:00",

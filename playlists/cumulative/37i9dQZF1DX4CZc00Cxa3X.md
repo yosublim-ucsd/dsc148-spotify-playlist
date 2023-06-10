@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-253 songs - 20 hr 31 min
+254 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 | 2023-06-08 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
+| [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 |  |
 | [Tapir](https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Tapir](https://open.spotify.com/album/3GR4fQQerubloHGRzyqrtr) | 3:05 | 2023-03-11 |  |
 | [The Anatomy of Clouds \(Malibu Sweet Hereafter Remix\) I](https://open.spotify.com/track/1eRpubYdTxJ2RtuOCu5hSg) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Malibu](https://open.spotify.com/artist/5mYo4YwZlsy9pbftU3j3xR) | [The Hope of Better Weather](https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo) | 9:03 | 2022-03-17 | 2023-03-18 |
 | [The Barren Burren](https://open.spotify.com/track/0Pbb9QkJ6eiO8p73l88A72) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW), [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [The Barren Burren / Resurrect Inside](https://open.spotify.com/album/14RYGdSs40FdXpmyljQgE8) | 8:04 | 2023-05-19 | 2023-06-06 |
@@ -253,7 +254,7 @@
 | [where thoughts fade](https://open.spotify.com/track/7zEnnB85gJjC2ZRjTRkXlH) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [night songs](https://open.spotify.com/album/4HgM0Ms4FM24xEEpgZDWSO) | 6:06 | 2022-08-17 |  |
 | [Wild Violet](https://open.spotify.com/track/3BjmShZfoFt4INhXp9a7Xk) | [Ilyas Ahmed](https://open.spotify.com/artist/0GQ41PAPwwmrEv0DJzpTI3) | [Behold Killers](https://open.spotify.com/album/5CCHGN6Hr0YvYWo2l0JyXI) | 8:56 | 2022-03-30 | 2022-04-21 |
 | [winter fingertips](https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 6:32 | 2022-06-17 |  |
-| [Wish](https://open.spotify.com/track/3ONVbdiqc73LTVnLQhfQPj) | [Ben Bondy](https://open.spotify.com/artist/7iWASaTHnteWNmrXH3IDCg) | [Ben Bondy](https://open.spotify.com/album/6Lnw0MWwRAmOQ0rbaF9npw) | 4:19 | 2023-06-05 |  |
+| [Wish](https://open.spotify.com/track/3ONVbdiqc73LTVnLQhfQPj) | [Ben Bondy](https://open.spotify.com/artist/7iWASaTHnteWNmrXH3IDCg) | [Ben Bondy](https://open.spotify.com/album/6Lnw0MWwRAmOQ0rbaF9npw) | 4:19 | 2023-06-05 | 2023-06-10 |
 | [wistful](https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [wistful](https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu) | 2:37 | 2022-11-11 | 2023-01-21 |
 | [XI](https://open.spotify.com/track/6XjpafgvNltjXJzvnPIauV) | [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Circle](https://open.spotify.com/album/5KMGm1fqywv05tCAJKjWwe) | 4:27 | 2022-07-08 |  |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |

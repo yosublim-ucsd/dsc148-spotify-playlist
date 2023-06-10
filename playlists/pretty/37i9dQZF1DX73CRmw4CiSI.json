@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 69970,
+  "num_followers": 70039,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDY1YjcyZWZkZGNlNzg3OWE0NGI3NDkzOTQ5ZjhlYTk2NGJmOTdj",
+  "snapshot_id": "MCwwZjQ2Nzg5YTMxZjM0MmZhNWU4OTViNDQwZjVlMGNmODY2NTI4ZTFk",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Hasta luego",
-        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Chambao Caminando",
         "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207333,
       "name": "Pokito a Poko",
       "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Hasta luego",
+        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Mundo Amador",
-        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
-      },
-      "artists": [
-        {
-          "name": "Raimundo Amador",
-          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Ay Que Gustito Pa' Mis Orejas",
-      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Mundo Amador",
+        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
+      },
+      "artists": [
+        {
+          "name": "Raimundo Amador",
+          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Ay Que Gustito Pa' Mis Orejas",
+      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",

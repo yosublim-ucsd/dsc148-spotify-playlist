@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-401 songs - 1 day 0 hr 39 min
+402 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Apple Juice](https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:02 | 2022-10-14 |  |
 | [Aquamarine](https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:14 | 2022-07-11 | 2023-01-06 |
 | [Aquamarine](https://open.spotify.com/track/2bNcVuWSoMVWxFIbQIAC7A) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Aquamarine](https://open.spotify.com/album/67i6eRlC0warZ41bgxzs1a) | 4:14 | 2021-11-12 | 2022-07-29 |
+| [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-09 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 |  |
 | [August](https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z) | 2:48 | 2022-07-11 |  |
 | [August](https://open.spotify.com/track/2EzlXmONynvb3xIUL5CD2M) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/3p8rCayq59uMygGvrl3dUk) | 2:48 | 2021-11-12 | 2022-07-28 |
@@ -293,7 +294,7 @@
 | [Reach Out](https://open.spotify.com/track/7J6JYZHVZBEU9vEVcIjQMB) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Reach Out](https://open.spotify.com/album/6obuWSGjWDzRiK90Mi5Psk) | 4:14 | 2021-11-12 | 2022-06-27 |
 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 | 2022-02-11 |  |
 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 | 2021-11-12 | 2022-07-29 |
-| [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-11-12 |  |
+| [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-11-12 | 2023-06-10 |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2021-11-12 | 2022-02-12 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-02-11 | 2022-07-29 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 | 2022-07-11 | 2023-06-01 |

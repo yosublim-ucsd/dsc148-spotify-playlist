@@ -1959,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
+    },
+    {
+      "album": {
         "name": "En La M\u00eda",
         "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
       },
@@ -5269,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Un Cuarto",
+        "url": "https://open.spotify.com/album/1FFuDe1T15U91jWt1jsWSO"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Un Cuarto",
+      "url": "https://open.spotify.com/track/3TRD0e7pUswSES6Ptua3WS"
+    },
+    {
+      "album": {
         "name": "Uno Dos Tres (Remix)",
         "url": "https://open.spotify.com/album/5iNDC6xKdGGWadcu5KhtlQ"
       },
@@ -5412,6 +5452,28 @@
       "duration_ms": 195959,
       "name": "Volao",
       "url": "https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn"
+    },
+    {
+      "album": {
+        "name": "Siempre en el Aire",
+        "url": "https://open.spotify.com/album/0fW1wfTLAoUksxQYP6fq6a"
+      },
+      "artists": [
+        {
+          "name": "Sou El Flotador",
+          "url": "https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Wanna-B (feat. Julianno Sosa)",
+      "url": "https://open.spotify.com/track/7kNGGapZ80IaUSX7lgyfbU"
     },
     {
       "album": {

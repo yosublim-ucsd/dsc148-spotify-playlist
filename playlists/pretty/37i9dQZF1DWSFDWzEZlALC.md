@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Katha Pauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,053 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,147 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
 | 75 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCxjMWMzMzQ2MWI4NTNhMmE2MzQ4ZmFkYjczNzE4ZmU3MzY4ZjhmYzcx`
+Snapshot ID: `MCwzZTJmMWI0M2RjNGJlMWM2ZTAxMjY5Y2M1YjBmMWFjMDRiYWE4ODE3`

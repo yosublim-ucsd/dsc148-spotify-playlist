@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2073,
+  "num_followers": 2111,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA5MTdmYWVjODhlMzA5ODdhOTkwODg3OTVjYzJhZWE4NzYwMWEx",
+  "snapshot_id": "MCwyMWIwYjM0NmY5NGFiZjM4NjRjMGIyYjhkMzZjYzI4NmY2MTgzOTNk",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -421,38 +421,6 @@
       "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 812470,
-      "name": "When I See You",
-      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
-    },
-    {
       "added_at": "2023-04-14 16:41:04",
       "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
@@ -471,6 +439,38 @@
       "duration_ms": 242704,
       "name": "Oluwa E Tobi",
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 812470,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
+    },
+    {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-04-14 16:41:04",

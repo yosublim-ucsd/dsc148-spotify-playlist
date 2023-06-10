@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,088 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,186 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Never Seen the Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 |
 | 50 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 |
 
-Snapshot ID: `MCxiYzZmYjNhMWM4NWRlZTNjZWIyZTc4YTBjZGM5YzY2YzRhOTNjNGQw`
+Snapshot ID: `MCwxZmI4MmE0NmQzZmJkNDI4NTY5MWI3ZjUxZGY1ZDBmNDU4YjJlNWUy`

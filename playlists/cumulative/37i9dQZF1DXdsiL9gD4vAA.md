@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-91 songs - 9 hr 7 min
+92 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 |  |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
+| [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 |  |
 | [Woh Kaghaz Ki Kashti](https://open.spotify.com/track/6qtSFL6qFbw7EmaRIsS0IR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [The Latest](https://open.spotify.com/album/07RBhfRhDPQO2ULIe68RYn) | 6:28 | 2023-05-15 |  |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/0Uj2q3Z8g1OiMwc98Rjlhw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/6W4RhKBsth6Y371hcOd61j) | 6:18 | 2022-07-26 |  |
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2022-07-29 |

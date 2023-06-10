@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-867 songs - 2 day 1 hr 7 min
+868 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [NUNU NANA](https://open.spotify.com/track/4Bmk7JYOquhWmSMMW4WebM) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/4LqLe7NBEYYiUN4pfQJStN) | 3:15 | 2021-11-17 | 2022-07-28 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2023-01-14 |  |
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-02-23 | 2023-06-07 |
+| [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 | 2023-03-28 |  |
 | [Obsession](https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:23 | 2021-11-17 | 2023-03-29 |
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2021-11-17 | 2022-07-27 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-07-27 |
@@ -853,7 +854,7 @@
 | [‘Bout you](https://open.spotify.com/track/15IuYQKZ5zKDEY5YDzsqSQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Bout You \- The 2nd Mini Album](https://open.spotify.com/album/3hyZ9blHn3XIQtFh6CsKUw) | 3:27 | 2021-11-17 | 2022-07-17 |
 | [극과 극 N/S](https://open.spotify.com/track/5FWazzY9DEqlN7q1xEmEgb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am YOU](https://open.spotify.com/album/51qHHvrptoKt4XsDLacc4w) | 3:44 | 2021-11-17 | 2022-04-20 |
 | [기기괴괴](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [기기괴괴](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) | 3:31 | 2022-03-24 | 2022-04-16 |
-| [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 | 2022-03-24 |  |
+| [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 | 2022-03-24 | 2023-06-10 |
 | [끝](https://open.spotify.com/track/00i5R78QV23krGPEVZyZVH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 4:03 | 2021-11-17 | 2022-07-25 |
 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 | 2022-07-08 |  |
 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/4qzBepJAKtYu4T1GDtBZZc) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/25AQpnP32xY07C6AOOGhOz) | 3:49 | 2021-11-17 | 2022-07-29 |

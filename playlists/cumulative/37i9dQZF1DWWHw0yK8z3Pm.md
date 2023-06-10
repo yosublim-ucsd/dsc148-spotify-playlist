@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of Country and Folk\. Cover: Boy Golden
+> Fearless sounds at the crossroads of Country and Folk\. Cover: Allison Russell
 
-324 songs - 19 hr 49 min
+325 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Headlines](https://open.spotify.com/track/2fFsZaYABWElJixFWJkqlN) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/1Az1xkr19Qdy3guiCl7YyF) | 3:41 | 2022-07-22 | 2022-08-27 |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
-| [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 |  |
+| [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 | 2023-06-10 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-28 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2023-04-21 | 2023-04-30 |
 | [Hey Bob Dylan](https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5) | [Ron A.McNeill](https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ) | [Waiting on the Day](https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD) | 3:19 | 2023-04-21 |  |
@@ -289,6 +289,7 @@
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 | 2023-04-22 |
 | [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 | 2022-06-30 |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2023-04-21 |  |
+| [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-06-09 |  |
 | [The Way I Oughta Go](https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Way I Oughta Go](https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7) | 4:10 | 2022-08-05 | 2022-10-15 |
 | [Thief](https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Prophecies](https://open.spotify.com/album/6jxJiy3tnUX2kUpFecYXtS) | 4:10 | 2022-05-13 | 2022-08-20 |
 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 | 2022-05-13 | 2023-03-25 |

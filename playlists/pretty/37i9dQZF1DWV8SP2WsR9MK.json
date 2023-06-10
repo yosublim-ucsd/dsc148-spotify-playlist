@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 66533,
+  "num_followers": 66587,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQ4N2QyMDdlYWU0ZmY2ZjEyN2E0MGMxOGM2NDg1MzMyNDI1MTc2",
+  "snapshot_id": "MCxhNmRkYzkyZjhmMzM1ZTY0YTc3OGEzNjgwZWNkNzM1M2UzNDQzNGU0",
   "tracks": [
     {
       "added_at": "2023-06-08 14:29:04",
@@ -387,8 +387,8 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Boss Guitar",
+        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
+      "duration_ms": 226200,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -447,22 +447,18 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        },
-        {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
+      "duration_ms": 334368,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -483,8 +479,8 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Boss Guitar",
-        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
@@ -492,9 +488,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 226200,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
+      "duration_ms": 282200,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 334368,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "Travel Guide",
         "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
         "name": "Intermodulation",
         "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 200866,
       "name": "Django",
       "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 484493,
-      "name": "Joshua Fit De Battle Of Jericho",
-      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "The Genius Of The Electric Guitar",
         "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 174973,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 484493,
+      "name": "Joshua Fit De Battle Of Jericho",
+      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
         "name": "East To Wes",
         "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
       "artists": [
         {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
+      "duration_ms": 224613,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -943,38 +959,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
-        "name": "Idle Moments",
-        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 409880,
-      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "Homes",
         "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 431973,
       "name": "Samba Em Prel\u00f9dio",
       "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+        "name": "Idle Moments",
+        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
       },
       "artists": [
         {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+      "duration_ms": 409880,
+      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
-        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 386133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "Imaginary Day",
         "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 584760,
       "name": "The Heat of the Day",
       "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
+        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 386133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 296613,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
+      },
+      "artists": [
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "For Toddlers Only",
+      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2023-06-08 14:29:04",
@@ -1607,46 +1607,6 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
-        "name": "I Have The Room Above Her",
-        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Odd Man Out",
-      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
-    },
-    {
-      "added_at": "2023-06-08 14:29:04",
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1671,6 +1631,22 @@
     {
       "added_at": "2023-06-08 14:29:04",
       "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 371200,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+    },
+    {
+      "added_at": "2023-06-08 14:29:04",
+      "album": {
+        "name": "I Have The Room Above Her",
+        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Odd Man Out",
+      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
     },
     {
       "added_at": "2023-06-08 14:29:04",

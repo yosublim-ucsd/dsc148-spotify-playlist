@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 123227,
+  "num_followers": 123249,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2Q0ZGIxNjM1MTJhYjM0ZjhhOTNjY2M4NDY2YTczMDczYWZjZTIz",
+  "snapshot_id": "MCw3ZjVlZDQ2MmY3ZTU0M2UzOThjMzQyNzQ0NzcwZDgwNzI2MGE2YTRj",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Astro",
-        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Religar",
-      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Amor Ardiente (Bolivia y Su Folklore)",
         "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215000,
       "name": "Tiwanacu",
       "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Religar",
+      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Quena de los Andes",
         "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
       },
@@ -803,38 +819,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Lo Mejor de los Kjarkas",
-        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
-      },
-      "artists": [
-        {
-          "name": "Los Kjarkas",
-          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "Sunch'u T'ikitay - Remastered",
-      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Viaje de Mixturas",
         "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 246000,
       "name": "Viaje Andino",
       "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Lo Mejor de los Kjarkas",
+        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
+      },
+      "artists": [
+        {
+          "name": "Los Kjarkas",
+          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Sunch'u T'ikitay - Remastered",
+      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
     },
     {
       "added_at": "2023-02-17 05:58:00",

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Niko Rubio",
-  "num_followers": 747764,
+  "num_followers": 747740,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Q3Yzc5NzRjOWUzYTc3ZjQ1YjcyYmFkOGM4OTI3NzNhZmEwMDc5",
+  "snapshot_id": "MCxmZWZiOWVjZDMwN2M1MTViMzk3MGIzMjMyOGMzNmU0ZDk0NmQxYmVi",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 182384,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 165581,
+      "name": "No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "No Eres Tu Soy Yo",
         "url": "https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 222936,
       "name": "No Eres Tu Soy Yo",
       "url": "https://open.spotify.com/track/54VlZOOuzrHbUsiMrZh5wq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2"
-      },
-      "artists": [
-        {
-          "name": "Crazy Point",
-          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
-        }
-      ],
-      "duration_ms": 165581,
-      "name": "No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Softy",
         "url": "https://open.spotify.com/album/3s9R0yhIMRjegsIJahxPZL"
       },
@@ -843,38 +863,6 @@
       "duration_ms": 358217,
       "name": "Softy",
       "url": "https://open.spotify.com/track/6p23mXE5kvaF2fMBdjvcQz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "t\u00fa\u00fa\u00fa",
-      "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -899,6 +887,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "t\u00fa\u00fa\u00fa",
+      "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -915,38 +919,34 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM"
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
       "artists": [
         {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        },
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo"
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "me perdono",
-        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
       "artists": [
         {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 212685,
-      "name": "me perdono",
-      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+        "name": "me perdono",
+        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
       "artists": [
         {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
+      "duration_ms": 212685,
+      "name": "me perdono",
+      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -3459,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "Geto (feat. 1da Banton)",
+        "url": "https://open.spotify.com/album/7perMKYhcKMnjPNqUx9Bfk"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Geto (feat. 1da Banton)",
+      "url": "https://open.spotify.com/track/1Jt78L7jNVLD3hNo674jww"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
       },

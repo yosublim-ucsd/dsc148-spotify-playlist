@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Okay Baby, Lets Do This",
+        "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253250,
+      "name": "227",
+      "url": "https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY"
+    },
+    {
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -100,7 +118,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 416417,
       "name": "Africa (Main Mix)",
       "url": "https://open.spotify.com/track/2ysx1y1Ump2gvFdCTQbYRK"
@@ -943,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Okay Baby, Lets Do This",
+        "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164977,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs"
+    },
+    {
+      "album": {
         "name": "Do For Me (feat. YKB & Alana Maria)",
         "url": "https://open.spotify.com/album/35NxKefzUejvCXEKAYUDG3"
       },
@@ -1104,6 +1140,24 @@
       "duration_ms": 200454,
       "name": "Eshu",
       "url": "https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp"
+    },
+    {
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187886,
+      "name": "Family Meeting",
+      "url": "https://open.spotify.com/track/55U6O6goagYMVzoF0oJ0JK"
     },
     {
       "album": {
@@ -2326,7 +2380,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
@@ -3124,7 +3178,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 242893,
       "name": "Pana",
       "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
@@ -3376,7 +3430,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 347929,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk"
@@ -3604,7 +3658,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218706,
       "name": "Sarama",
       "url": "https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0"
@@ -3987,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "album": {
         "name": "Summer Bunny",
         "url": "https://open.spotify.com/album/488FJXx0HPDnNvNlOB1sAA"
       },
@@ -4156,7 +4232,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
@@ -4363,6 +4439,28 @@
     },
     {
       "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "album": {
         "name": "Wildones",
         "url": "https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR"
       },
@@ -4382,6 +4480,24 @@
       "duration_ms": 184000,
       "name": "Wildones",
       "url": "https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C"
+    },
+    {
+      "album": {
+        "name": "Okay Baby, Lets Do This",
+        "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212341,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR"
     },
     {
       "album": {

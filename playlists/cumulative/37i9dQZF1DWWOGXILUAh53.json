@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Tones & I x Sam Feldt",
+  "description": "The hottest new pop with all the drops. Cover: Joel Corry, Nathan Dawe and Ella Henderson",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 186810,
       "name": "001",
       "url": "https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc"
+    },
+    {
+      "album": {
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
     },
     {
       "album": {
@@ -1704,7 +1730,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 149110,
       "name": "Caught A Body (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
@@ -1806,7 +1832,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 167000,
       "name": "Chasing Shadows - MKJ Remix",
       "url": "https://open.spotify.com/track/3tBtteeU0d0YoHCMPSWTAD"
@@ -2877,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148083,
+      "name": "Don\u2019t Call Me",
+      "url": "https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
         "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
       },
@@ -2944,6 +2988,24 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "album": {
+        "name": "Dramatic",
+        "url": "https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192689,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
     },
     {
       "album": {
@@ -3052,7 +3114,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160695,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4MTdcaWxn8tNq1G27R5QEk"
@@ -3250,7 +3312,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
@@ -3916,7 +3978,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
@@ -5831,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "Let's Go MIA",
+        "url": "https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180877,
+      "name": "Let's Go MIA",
+      "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
+    },
+    {
+      "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm"
       },
@@ -6172,7 +6252,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181200,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
@@ -7310,7 +7390,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
@@ -8704,6 +8784,28 @@
       "duration_ms": 139874,
       "name": "Run Till Dark (with Now United)",
       "url": "https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw"
+    },
+    {
+      "album": {
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/4SWWsWiIcgTbRGd78uplK8"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172438,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/5nEeCaCtSoZDMlgarC3GVF"
     },
     {
       "album": {
@@ -10316,7 +10418,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 158525,
       "name": "TAKUT\u00c1",
       "url": "https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ"
@@ -10506,6 +10608,24 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
+    },
+    {
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "album": {
@@ -11187,6 +11307,28 @@
     },
     {
       "album": {
+        "name": "VULGAR (with Madonna)",
+        "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155258,
+      "name": "VULGAR (with Madonna)",
+      "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
+    },
+    {
+      "album": {
         "name": "Waiting (feat. Stephen Puth)",
         "url": "https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4"
       },
@@ -11264,7 +11406,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 173748,
       "name": "Walk Away (feat. Ailbhe Reddy)",
       "url": "https://open.spotify.com/track/3qpbvXLn62vd5nKUIqCAWV"
@@ -11330,7 +11472,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 137999,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
@@ -11382,6 +11524,24 @@
       "duration_ms": 175960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
+    },
+    {
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
+        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134724,
+      "name": "WET WHITE TEE SHIRT (SIDE A)",
+      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
     },
     {
       "album": {
@@ -11558,7 +11718,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
@@ -11810,7 +11970,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 177600,
       "name": "With All My Heart",
       "url": "https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e"
@@ -12190,7 +12350,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 151951,
       "name": "YOU (feat. Dotter)",
       "url": "https://open.spotify.com/track/40iAvLjOTBW2gCyfqpdMiP"

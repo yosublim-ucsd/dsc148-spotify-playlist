@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "BAE on my own",
+        "url": "https://open.spotify.com/album/4Z3uSPEi1EdaWxmU7M92JQ"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133129,
+      "name": "BAE on my own",
+      "url": "https://open.spotify.com/track/4mbQgUyzmnS32ScPNNWoj0"
+    },
+    {
+      "album": {
         "name": "Barbecue in the Garden",
         "url": "https://open.spotify.com/album/617FgfFqtgy45BhNIwa828"
       },
@@ -904,6 +922,28 @@
       "duration_ms": 119666,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5LrRZIOip9uqlJuISIcPZN"
+    },
+    {
+      "album": {
+        "name": "Coconut Cream Pie",
+        "url": "https://open.spotify.com/album/4ClteuvdIP6G7c801Q4K81"
+      },
+      "artists": [
+        {
+          "name": "Berezy",
+          "url": "https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv"
+        },
+        {
+          "name": "Whilst",
+          "url": "https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132415,
+      "name": "Coconut Cream Pie",
+      "url": "https://open.spotify.com/track/134UJxY9MYew45PKg3dFSs"
     },
     {
       "album": {
@@ -1882,6 +1922,24 @@
       "duration_ms": 139764,
       "name": "Gas Station Oasis",
       "url": "https://open.spotify.com/track/0XSfoUnf7HB5DEd2kIEAZV"
+    },
+    {
+      "album": {
+        "name": "gingerbeers",
+        "url": "https://open.spotify.com/album/6HdXNCmIewVjtzAt4YB02A"
+      },
+      "artists": [
+        {
+          "name": "saiimaras",
+          "url": "https://open.spotify.com/artist/1vlb6nYofsJIQtaP6CnhZP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137050,
+      "name": "gingerbeers",
+      "url": "https://open.spotify.com/track/4Q5AHrCjGAKmj6W90FTKQI"
     },
     {
       "album": {
@@ -5129,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "Spiralled",
+        "url": "https://open.spotify.com/album/7rDZ4eiOwrOAus161ojdRA"
+      },
+      "artists": [
+        {
+          "name": "Alf Bringstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129655,
+      "name": "Spiralled",
+      "url": "https://open.spotify.com/track/5B9WTReTZl8sY7f89lxlpq"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0JqlvMCAyTFr1Gw7YMF9dw"
       },
@@ -5162,6 +5238,46 @@
       "duration_ms": 162263,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/7xvsGtzRkHdmzNHv752hYj"
+    },
+    {
+      "album": {
+        "name": "Summer Bustle",
+        "url": "https://open.spotify.com/album/2csWPoDFynXP1kYcVAfcQM"
+      },
+      "artists": [
+        {
+          "name": "Frances The Mute",
+          "url": "https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133381,
+      "name": "Summer Bustle",
+      "url": "https://open.spotify.com/track/12I8Uie82m6uQSSmrfF2Me"
+    },
+    {
+      "album": {
+        "name": "Sundae",
+        "url": "https://open.spotify.com/album/3RrxkqxVDKTsChOlubyHLS"
+      },
+      "artists": [
+        {
+          "name": "lukayo",
+          "url": "https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153495,
+      "name": "Sundae",
+      "url": "https://open.spotify.com/track/5RdTZVjsOFKNpCzsYgtX3c"
     },
     {
       "album": {
@@ -5220,6 +5336,28 @@
       "duration_ms": 162793,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/51dFIbbopBc0U9dFRBAQGE"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Calm",
+        "url": "https://open.spotify.com/album/0wp2KBJkSPKRkZC32LRyaF"
+      },
+      "artists": [
+        {
+          "name": "Kid Tar\u00f4",
+          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        },
+        {
+          "name": "Rufus Dipper",
+          "url": "https://open.spotify.com/artist/7vSjvv75PSaKYhLK3J0DMb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127306,
+      "name": "Sunday Morning Calm",
+      "url": "https://open.spotify.com/track/0atqaXW8ntHNLX15QJVIQG"
     },
     {
       "album": {
@@ -5425,6 +5563,28 @@
     },
     {
       "album": {
+        "name": "Take-Off",
+        "url": "https://open.spotify.com/album/1U0n6WwRKpDDqhrGiRJi4A"
+      },
+      "artists": [
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        },
+        {
+          "name": "Ferge",
+          "url": "https://open.spotify.com/artist/0U1ooChssjTDk8BMTYEfHy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Take-Off",
+      "url": "https://open.spotify.com/track/43cjyflvrThmrtUxb4AhGd"
+    },
+    {
+      "album": {
         "name": "Tall Grass",
         "url": "https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn"
       },
@@ -5458,6 +5618,24 @@
       "duration_ms": 124174,
       "name": "Tea Tree",
       "url": "https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3yJjpqy1CDNTFSZwSyiRII"
+      },
+      "artists": [
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142784,
+      "name": "That was Almost Real",
+      "url": "https://open.spotify.com/track/4SDUbFWAMTFvrM4ze8HSo2"
     },
     {
       "album": {
@@ -5754,6 +5932,24 @@
       "duration_ms": 145932,
       "name": "travellin'",
       "url": "https://open.spotify.com/track/3knnVvitAAU3ihiqdlxdXL"
+    },
+    {
+      "album": {
+        "name": "treasurehunting",
+        "url": "https://open.spotify.com/album/46eqj7LYu9lbwn6ZktMdBx"
+      },
+      "artists": [
+        {
+          "name": "SLKBTS",
+          "url": "https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114666,
+      "name": "treasurehunting",
+      "url": "https://open.spotify.com/track/0nCkciNj3QqSkyfJEaklAG"
     },
     {
       "album": {

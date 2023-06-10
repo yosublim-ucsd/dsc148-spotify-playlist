@@ -500,6 +500,24 @@
     {
       "album": {
         "name": "When You Are",
+        "url": "https://open.spotify.com/album/01SGUGJhKMj0Brn5S9mOYa"
+      },
+      "artists": [
+        {
+          "name": "Mike Lazarev",
+          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Being Outside Being",
+      "url": "https://open.spotify.com/track/25beiV68ChccJgdJkb7b42"
+    },
+    {
+      "album": {
+        "name": "When You Are",
         "url": "https://open.spotify.com/album/0foarjbOjwt6MHqKi3wJMH"
       },
       "artists": [
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 175000,
       "name": "Being Outside Being",
       "url": "https://open.spotify.com/track/4Vxs0CpT7C5ENZ9DxQZtb5"

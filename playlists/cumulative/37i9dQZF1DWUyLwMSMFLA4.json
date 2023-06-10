@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
@@ -1073,6 +1073,36 @@
     },
     {
       "album": {
+        "name": "No Me Vuelvo a Enamorar (Remix)",
+        "url": "https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193290,
+      "name": "No Me Vuelvo a Enamorar - Remix",
+      "url": "https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0"
+    },
+    {
+      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -1146,7 +1176,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
@@ -1665,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Sin Documentos (Cover)",
+        "url": "https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL"
+      },
+      "artists": [
+        {
+          "name": "THE PALMERS",
+          "url": "https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169861,
+      "name": "Sin Documentos - Cover",
+      "url": "https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6"
+    },
+    {
+      "album": {
         "name": "Amor de Mentiras",
         "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
       },
@@ -1748,7 +1796,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 210706,
       "name": "Te Arrepentir\u00e1s",
       "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"
@@ -1890,6 +1938,24 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
     },
     {
       "album": {

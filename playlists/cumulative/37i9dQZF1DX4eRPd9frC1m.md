@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-269 songs - 14 hr 47 min
+270 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/track/17KR2xwfXqLDwfibhi7zqZ) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Scrilla King](https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx) | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/album/4yTtHpTvbQAEXntoWjASSL) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/track/4o6VZA8EusQrSSEs8dlcB9) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Scrilla King](https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:51 | 2022-01-07 | 2022-07-29 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-09 |  |
-| [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 | 2022-01-07 |  |
+| [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 | 2022-01-07 | 2023-06-10 |
 | [Slime Zone](https://open.spotify.com/track/6fjqwcGl2JcoExcen7i5r8) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 2](https://open.spotify.com/album/7lP2OXIG2kB1Zlgucw3dyJ) | 2:56 | 2022-01-07 | 2022-04-29 |
 | [So Far](https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [So Far](https://open.spotify.com/album/6mn4tGxbZ1hcL4S8pfj0l5) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |
@@ -271,6 +271,7 @@
 | [Wall Of Death](https://open.spotify.com/track/0adOv7C57abcznr40leSHx) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [Wall Of Death](https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ) | 2:48 | 2022-04-01 |  |
 | [Wallflower](https://open.spotify.com/track/1Ty9SkAAPJueeFV1a4u7yq) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Wallflower](https://open.spotify.com/album/6YGmMbF9JV5AS42panc9KX) | 4:04 | 2021-11-19 | 2022-01-08 |
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-11 | 2022-05-08 |
+| [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-06-09 |  |
 | [Who Run Dis](https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Who Run Dis](https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q) | 3:40 | 2022-05-06 | 2022-07-24 |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-11-19 | 2022-01-08 |
 | [Work It Out](https://open.spotify.com/track/5qKVcFWolHOWPupR077TbN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Work It Out](https://open.spotify.com/album/7sRKw8p1KMkgshzawKTzVb) | 3:57 | 2021-11-19 | 2022-01-08 |

@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-143 songs - 8 hr 5 min
+145 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,10 @@
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-07-08 | 2023-06-08 |
 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 | 2022-05-25 | 2023-06-08 |
 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 | 2023-06-07 |  |
+| [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 | 2023-06-09 |  |
 | [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 | 2023-06-07 |  |
 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 | 2022-05-25 | 2023-06-08 |
+| [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 | 2023-06-09 |  |
 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 | 2023-06-07 |  |
 | [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 | 2022-07-29 | 2023-06-08 |
 | [One Bourbon, One Scotch, One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 | 2022-05-25 | 2023-06-08 |

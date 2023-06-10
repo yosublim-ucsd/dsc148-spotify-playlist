@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-420 songs - 20 hr 51 min
+422 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Fekerayo](https://open.spotify.com/track/1MyNYs0OhpaT6ZAfuKY9Ds) | [Cleantha](https://open.spotify.com/artist/2SMuzSMGO396SBRMXGZjE5) | [Fekerayo](https://open.spotify.com/album/3TGjDr4vsdollMDaPQ904m) | 3:23 | 2021-11-10 | 2023-05-06 |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-25 |  |
 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 | 2021-11-10 | 2023-02-18 |
+| [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 | 2023-06-09 |  |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-07 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-09 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
@@ -413,6 +414,7 @@
 | [Viento Estelar](https://open.spotify.com/track/0f5IlhiVWUUq4SGHyrRxIt) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Galaxia](https://open.spotify.com/album/5ILrjJzxzyn3h8CCdRQszR) | 3:05 | 2021-11-10 |  |
 | [Views from Tower Two](https://open.spotify.com/track/0DRhJqWO1LLv13Qsw01dna) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Drone](https://open.spotify.com/album/3IorejXyzH6CCWRZI6i9jy) | 6:33 | 2021-11-10 | 2022-04-02 |
 | [Vishram \- Sleep Version](https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Sleep Version](https://open.spotify.com/album/5vOajCeKyNwks56VYskW8Y) | 2:45 | 2022-08-05 |  |
+| [Vivant](https://open.spotify.com/track/52M7KlhS6rvTnDs5dTpRY8) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 3:00 | 2023-06-09 |  |
 | [Waves in Space](https://open.spotify.com/track/5Koyh28MrUGgBKCNz8BXvu) | [Spacewaves](https://open.spotify.com/artist/6uYUVrY7fY9B99v4uEqWvZ) | [Asterism](https://open.spotify.com/album/2bOfrSmQlFUl2WYMckL1n7) | 3:10 | 2021-11-10 |  |
 | [we are here](https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [we are here](https://open.spotify.com/album/2we0mUjMYZBeABUUYdb89Q) | 3:23 | 2021-11-10 | 2022-03-25 |
 | [Welkin](https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Welkin](https://open.spotify.com/album/2KRfYojhz1PPzElLtf5P4z) | 4:08 | 2021-11-10 | 2022-05-20 |

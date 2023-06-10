@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38661,
+  "num_followers": 38672,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Y5MDEyNzExN2QzOGZiYWQ4NDNlOTUzYTk2ODI2ZGExNWM5Njc5",
+  "snapshot_id": "MCw2ZTYyOTc0ZjY0ODRmMzAxZDdlNWNiMDljNDk1MWNjMWM0MWRmNWQ1",
   "tracks": [
     {
       "added_at": "2023-04-18 07:22:02",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+        "name": "Fuori dal buio",
+        "url": "https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Sele",
+          "url": "https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+      "duration_ms": 188085,
+      "name": "Fuori dal buio",
+      "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -811,34 +811,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Fuori dal buio",
-        "url": "https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx"
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
       },
       "artists": [
         {
-          "name": "Sele",
-          "url": "https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 188085,
-      "name": "Fuori dal buio",
-      "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -871,6 +855,22 @@
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
       "artists": [
         {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
         }
       ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Acqua salata",
         "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
       },
@@ -1039,26 +1055,6 @@
       "duration_ms": 229175,
       "name": "Acqua salata",
       "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
-      },
-      "artists": [
-        {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
         }
       ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Demoni",
+        "url": "https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 173095,
+      "name": "Demoni",
+      "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Demoni",
-        "url": "https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
       "artists": [
         {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 173095,
-      "name": "Demoni",
-      "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1219,22 +1235,6 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Dimmi se sbaglio",
-        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
-      },
-      "artists": [
-        {
-          "name": "Bada1",
-          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
-        },
-        {
-          "name": "Matris",
-          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Dimmi se sbaglio",
-      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Shama \u00e8 buono",
         "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Dimmi se sbaglio",
+        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
+      },
+      "artists": [
+        {
+          "name": "Bada1",
+          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
+        },
+        {
+          "name": "Matris",
+          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Dimmi se sbaglio",
+      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1627,6 +1627,30 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Summertape",
+        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "Koaku",
+          "url": "https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK"
+        },
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Le Tue Insicurezze",
+      "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Io non voglio pi\u00f9 soffrire",
         "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
@@ -1667,42 +1691,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Summertape",
-        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+        "name": "Vita Di Plastica",
+        "url": "https://open.spotify.com/album/6Egb7BNm1RZzjKpvFwHPVU"
       },
       "artists": [
         {
-          "name": "Pseudospettri",
-          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
-        },
-        {
-          "name": "Koaku",
-          "url": "https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK"
-        },
-        {
-          "name": "Lanyard",
-          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
         }
       ],
-      "duration_ms": 198370,
-      "name": "Le Tue Insicurezze",
-      "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "oggi ho pianto",
-        "url": "https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M"
-      },
-      "artists": [
-        {
-          "name": "outcast.",
-          "url": "https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9"
-        }
-      ],
-      "duration_ms": 132231,
-      "name": "oggi ho pianto",
-      "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
+      "duration_ms": 180937,
+      "name": "Vita Di Plastica",
+      "url": "https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Vita Di Plastica",
-        "url": "https://open.spotify.com/album/6Egb7BNm1RZzjKpvFwHPVU"
+        "name": "oggi ho pianto",
+        "url": "https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M"
       },
       "artists": [
         {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+          "name": "outcast.",
+          "url": "https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9"
         }
       ],
-      "duration_ms": 180937,
-      "name": "Vita Di Plastica",
-      "url": "https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR"
+      "duration_ms": 132231,
+      "name": "oggi ho pianto",
+      "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1763,26 +1763,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Mille Gatti",
-        "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
       },
       "artists": [
         {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         },
         {
-          "name": "Ayden Lau",
-          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Mille Gatti",
-      "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
+      "duration_ms": 174814,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
     }
   ],
   "unique_name": "ragazzo triste",

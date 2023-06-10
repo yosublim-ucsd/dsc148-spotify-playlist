@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Juanes",
+  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Usted Se\u00f1alemelo",
   "name": "Nuevo Rock Latino",
   "tracks": [
     {
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189633,
+      "name": "Cabo",
+      "url": "https://open.spotify.com/track/4v2XByXjgBoY6PJkteQnlj"
+    },
+    {
+      "album": {
         "name": "Calavera (La Muerte Del Sol)",
         "url": "https://open.spotify.com/album/03sWwIEieherBO2lwLip1b"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 283865,
       "name": "Calendarios y Acetatos",
       "url": "https://open.spotify.com/track/5MYNZr08MS0VeYYkLPL6hW"
+    },
+    {
+      "album": {
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
     },
     {
       "album": {
@@ -619,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/5IVwPSVZp18IsW9yCt48ZL"
+      },
+      "artists": [
+        {
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
+        },
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6x4bR6CqQiTl1oPImjUi2k"
+        },
+        {
+          "name": "Popcorn",
+          "url": "https://open.spotify.com/artist/5Hvy9Mec67TKFVJGIgae4J"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162440,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/1BkAU5FBLp77Ok4kf6dsXN"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Quieres Que No Me Enoje",
         "url": "https://open.spotify.com/album/1BzwMQWIGNsraxfgxSy7jk"
       },
@@ -656,7 +718,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235480,
       "name": "Deja Su Lugar",
       "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
@@ -758,6 +820,24 @@
       "duration_ms": 164669,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
+    },
+    {
+      "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS"
     },
     {
       "album": {
@@ -1021,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "album": {
         "name": "Fractal",
         "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
       },
@@ -1234,7 +1332,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 367594,
       "name": "Jugando a Dios",
       "url": "https://open.spotify.com/track/4pRKeCSjuxz9hOIQ4bNaLT"
@@ -1972,7 +2070,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 183328,
       "name": "Me Dijiste Tu Nombre",
       "url": "https://open.spotify.com/track/6V2WUdjJeJ6rBEFLLKy3Mc"
@@ -2373,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Nunca Te Quise",
+        "url": "https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv"
+      },
+      "artists": [
+        {
+          "name": "The Guapos",
+          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215829,
+      "name": "Nunca Te Quise",
+      "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
+    },
+    {
+      "album": {
         "name": "N\u00f3mada",
         "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
@@ -2515,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/5IEFrdVUELLEL6qtdWsVWE"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/4M0UQFUmGBU73uvJ6KdYdg"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Lunar",
         "url": "https://open.spotify.com/album/1W2CKcrLpM1bPYslJQlZCM"
       },
@@ -2530,6 +2664,28 @@
       "duration_ms": 225104,
       "name": "Para\u00edso Lunar",
       "url": "https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj"
+    },
+    {
+      "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "album": {
@@ -2566,10 +2722,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 176733,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/1czve8jwhl0HDpIIOmn6B5"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n-am\u00e9",
+        "url": "https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Perd\u00f3n-am\u00e9",
+      "url": "https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq"
     },
     {
       "album": {
@@ -2906,6 +3080,28 @@
       "duration_ms": 171817,
       "name": "Sagitario (Mi Madre Me Va A Matar)",
       "url": "https://open.spotify.com/track/2FUvrVJvsDB4GsNnXc8h3A"
+    },
+    {
+      "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Sasha, Sissi y el C\u00edrculo de Baba - EADDA9223 (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L"
     },
     {
       "album": {
@@ -3264,7 +3460,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"

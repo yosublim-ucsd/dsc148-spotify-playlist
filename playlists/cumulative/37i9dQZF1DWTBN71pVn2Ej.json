@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 167080,
       "name": "Done",
       "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212228,
       "name": "Head First",
       "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 246453,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/0wVvRocrqgG7UcWahuDEHE"
@@ -4761,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Life's a Blur",
+        "url": "https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202610,
+      "name": "Pig",
+      "url": "https://open.spotify.com/track/6ZURd2x9YB980TbGTUG9fh"
+    },
+    {
+      "album": {
         "name": "Play My Favourite Song",
         "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
       },
@@ -5042,7 +5060,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220840,
       "name": "Right There With You",
       "url": "https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T"
@@ -5082,6 +5100,24 @@
       "duration_ms": 233361,
       "name": "Roosevelt",
       "url": "https://open.spotify.com/track/2XKhUAh2I8FpTfWqOPi22E"
+    },
+    {
+      "album": {
+        "name": "Kindness In Clarity, an EP",
+        "url": "https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr"
+      },
+      "artists": [
+        {
+          "name": "Wifecult",
+          "url": "https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu"
     },
     {
       "album": {
@@ -5348,7 +5384,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 153248,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/0rTLdT65nXUA04EY0jEF6L"
@@ -5442,6 +5478,24 @@
       "duration_ms": 228853,
       "name": "So So Soon",
       "url": "https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G"
+    },
+    {
+      "album": {
+        "name": "Sodawater",
+        "url": "https://open.spotify.com/album/1Q45L55DyOjwSIdHQvSSoE"
+      },
+      "artists": [
+        {
+          "name": "Keep",
+          "url": "https://open.spotify.com/artist/0oPLf7tpRZAVZMHWA0Nu7W"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226708,
+      "name": "Sodawater",
+      "url": "https://open.spotify.com/track/2MBitvLCDmxTPCpUkdfHwX"
     },
     {
       "album": {
@@ -5589,6 +5643,28 @@
     },
     {
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1"
+    },
+    {
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -5643,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "Sublimest",
+        "url": "https://open.spotify.com/album/7gZH4gIEJqbBKX9Ieax7Cx"
+      },
+      "artists": [
+        {
+          "name": "Healing",
+          "url": "https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179238,
+      "name": "Sublimest",
+      "url": "https://open.spotify.com/track/1pdxWrutsSXxdl1TwLJ8XA"
+    },
+    {
+      "album": {
         "name": "Sucka",
         "url": "https://open.spotify.com/album/2PRPlRX26hrpKwO36jD3Nw"
       },
@@ -5658,6 +5752,24 @@
       "duration_ms": 165000,
       "name": "Sucka",
       "url": "https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS"
+    },
+    {
+      "album": {
+        "name": "Sullenboy",
+        "url": "https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199561,
+      "name": "Sullenboy",
+      "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
     },
     {
       "album": {
@@ -5726,7 +5838,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
@@ -5798,7 +5910,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 280288,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/71rdrqh7onH9Y8qJkBjkFg"
@@ -5968,6 +6080,24 @@
       "duration_ms": 155978,
       "name": "Taste the Money",
       "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
+    },
+    {
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "album": {
@@ -6246,7 +6376,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 148000,
       "name": "thoughts",
       "url": "https://open.spotify.com/track/5omnAwQmmDlJ4DOXlZWMVO"
@@ -6372,7 +6502,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 235738,
       "name": "Together in Pieces",
       "url": "https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp"

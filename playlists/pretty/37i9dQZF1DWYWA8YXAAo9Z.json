@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 43470,
+  "num_followers": 43507,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTMxMGZjYTNjZWNhZDJjMDgyNjljZmZhMjEyYjg1MDgyYzRiNjE0",
+  "snapshot_id": "MCw2YTE5MzQ1YThlZWZlOWNlOTRjYjQ5YjkwY2Y0YThkOTcyNzRkNTVj",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
         }
       ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -695,34 +695,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
       "artists": [
         {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "North of Roswell",
-        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 154830,
-      "name": "North of Roswell",
-      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -743,22 +727,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "The Last Wave",
         "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 139041,
       "name": "Last Earth",
       "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "North of Roswell",
+        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 154830,
+      "name": "North of Roswell",
+      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 281229,
       "name": "The Secret Garden",
       "url": "https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Plonk",
-        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 382111,
-      "name": "Plonk III",
-      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 382111,
+      "name": "Plonk III",
+      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Good Sound",
         "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 251009,
       "name": "Particulator",
       "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2023-03-10 00:01:00",

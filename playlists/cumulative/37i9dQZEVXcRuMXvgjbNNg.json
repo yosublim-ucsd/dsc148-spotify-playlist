@@ -750,7 +750,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 185875,
       "name": "Alaska - Performance Version",
       "url": "https://open.spotify.com/track/6z4MxFftJpPP1xWnUAJVtc"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 270285,
       "name": "Amber of the Sun's Dawn",
       "url": "https://open.spotify.com/track/6QuZa46RpKqHg4PvzlVHst"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 198000,
       "name": "Automatic (feat. Fleurie)",
       "url": "https://open.spotify.com/track/4fpXrH4N6VT0vvDRqyY7jK"
@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "interrobang",
+        "url": "https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334080,
+      "name": "beloved",
+      "url": "https://open.spotify.com/track/6aVVqpXnyhvBONbKRybSMz"
+    },
+    {
+      "album": {
         "name": "Bend & Break",
         "url": "https://open.spotify.com/album/1ce4M8suREfo8SIZDkE1PY"
       },
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 209019,
       "name": "Better By Now",
       "url": "https://open.spotify.com/track/52MFrkaiBlVBdClS0EgC8C"
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
@@ -2984,6 +3002,24 @@
       "duration_ms": 244845,
       "name": "Calm",
       "url": "https://open.spotify.com/track/30rWPUtLq0KTHYeHo1trFH"
+    },
+    {
+      "album": {
+        "name": "Lego Builder's Journey",
+        "url": "https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175178,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM"
     },
     {
       "album": {
@@ -3544,6 +3580,24 @@
       "duration_ms": 178689,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/7tsLU1zDxBoirPO8NzbNbt"
+    },
+    {
+      "album": {
+        "name": "Olly Olly",
+        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240732,
+      "name": "Cheyenne",
+      "url": "https://open.spotify.com/track/4YWp1EUbucXp8TDttdR1wZ"
     },
     {
       "album": {
@@ -4428,7 +4482,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199026,
       "name": "Dancing in the Street",
       "url": "https://open.spotify.com/track/1uPMuAeVyb7Av8y59y4hfp"
@@ -4536,7 +4590,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190144,
       "name": "Daphne Blue - Acoustic",
       "url": "https://open.spotify.com/track/3AO00ixxqEBEwpGMb63BQ9"
@@ -4736,6 +4790,24 @@
       "duration_ms": 194922,
       "name": "Dearest (feat. Lydia Cole)",
       "url": "https://open.spotify.com/track/3RFj986WYsjgYBgzrtWARi"
+    },
+    {
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
     },
     {
       "album": {
@@ -5398,7 +5470,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
@@ -7318,7 +7390,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 247050,
       "name": "Godlight",
       "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG"
@@ -7408,7 +7480,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 191133,
       "name": "Golf On TV",
       "url": "https://open.spotify.com/track/6yg9sPJsnGStmIIcxzOaTL"
@@ -7578,7 +7650,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 223988,
       "name": "Green",
       "url": "https://open.spotify.com/track/5L1FAjHrWlFPyP8BylvFJ8"
@@ -7658,9 +7730,9 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 249937,
-      "name": "Grow As We Go (feat. Sara Bareilles)",
+      "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
@@ -9206,7 +9278,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 186500,
       "name": "i don't wanna know - acoustic",
       "url": "https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs"
@@ -9586,7 +9658,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 349500,
       "name": "I Used To Be Like You",
       "url": "https://open.spotify.com/track/7y41LvG8HLbrjSPBlH7PNT"
@@ -9998,7 +10070,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ"
@@ -10356,7 +10428,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 187280,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/0SDQorKmti5vkw4GEPxMTg"
@@ -10616,7 +10688,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 314449,
       "name": "It's You That Makes Me",
       "url": "https://open.spotify.com/track/3jRyEvEWkmmuZekA288SwA"
@@ -10692,6 +10764,24 @@
       "duration_ms": 207133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/2Z49DGR8kdEGAO5XeJpjul"
+    },
+    {
+      "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/4RXiOM7Z540g4QeyjOcoUn"
     },
     {
       "album": {
@@ -10880,7 +10970,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 215080,
       "name": "Just Like Autumn",
       "url": "https://open.spotify.com/track/0bZZNwJasFbtNMXGeNeI98"
@@ -12641,6 +12731,24 @@
     },
     {
       "album": {
+        "name": "WHEN WE'RE FAR APART I FALL APART",
+        "url": "https://open.spotify.com/album/2YjUjPvj8KfFyhnE24KJxU"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168543,
+      "name": "Low Pain Tolerance",
+      "url": "https://open.spotify.com/track/4ieJNgoNvjbqERjFXoMrLl"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/6WN9CDRMCfJ3fsd9GQtUKD"
       },
@@ -12812,6 +12920,24 @@
       "duration_ms": 185013,
       "name": "magnetic",
       "url": "https://open.spotify.com/track/2Ob6LxU84AEWMZitKcSVxk"
+    },
+    {
+      "album": {
+        "name": "22 Make",
+        "url": "https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268528,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/1Zr7kxrJWpDT2Lx1VsbTvt"
     },
     {
       "album": {
@@ -13786,7 +13912,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213344,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/0a9mdMlCVENwBoJDCj1SU0"
@@ -14368,7 +14494,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 190565,
       "name": "North Dakota",
       "url": "https://open.spotify.com/track/2l70NKAySm5pCzRAZxzPbn"
@@ -15234,7 +15360,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 247419,
       "name": "Palladium",
       "url": "https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I"
@@ -16886,7 +17012,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Sell the Furniture",
       "url": "https://open.spotify.com/track/4FXJkr2BPNeSmNkrKKXW1z"
@@ -17142,7 +17268,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
@@ -17572,7 +17698,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "Slow To Rise",
       "url": "https://open.spotify.com/track/5zd5qDkGlyWpsABK0csC32"
@@ -18322,7 +18448,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 220588,
       "name": "Still",
       "url": "https://open.spotify.com/track/01BMWle7IqP76blxyehuvl"
@@ -18810,7 +18936,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 304477,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6brNiTS74Yzojp8wsKfXYa"
@@ -18918,7 +19044,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 243840,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/1zgpAHPGqpdmLKbviNaq7Z"
@@ -18936,7 +19062,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 251509,
       "name": "Sweet Time",
       "url": "https://open.spotify.com/track/45OqZdp97GB2mGYxYo7YXc"
@@ -18994,7 +19120,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228997,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/6s0dCFmpVVIu2PdUaoLKBH"
@@ -19478,7 +19604,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 227880,
       "name": "The Age of Worry - Live at Electric Lady",
       "url": "https://open.spotify.com/track/66OrNUst0atPTFTVeJsBOI"
@@ -19972,7 +20098,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 251557,
       "name": "The Way You Break My Heart",
       "url": "https://open.spotify.com/track/7IJyrlOTfDySQCOECSnEYZ"
@@ -19990,7 +20116,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 169093,
       "name": "The Weather",
       "url": "https://open.spotify.com/track/6bTCAppl3ahMD79EE40Jhx"
@@ -20196,7 +20322,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 195157,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/0AZjGAFciL2GpwoBqDxgg9"
@@ -20236,6 +20362,24 @@
       "duration_ms": 255914,
       "name": "This Old Car",
       "url": "https://open.spotify.com/track/2VdpJoaNdE2XvGEwgcfag0"
+    },
+    {
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195640,
+      "name": "This One",
+      "url": "https://open.spotify.com/track/5gebevUgF6gcjbrzVAGAXs"
     },
     {
       "album": {
@@ -20561,6 +20705,24 @@
     },
     {
       "album": {
+        "name": "Tireswing Song",
+        "url": "https://open.spotify.com/album/5MU0EDrsLb9shWpuhEncEA"
+      },
+      "artists": [
+        {
+          "name": "Corrina",
+          "url": "https://open.spotify.com/artist/5gECKmU9XVIL4UeezCwSqf"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234030,
+      "name": "Tireswing Song",
+      "url": "https://open.spotify.com/track/64m3Jj7WwWchNmjLkTbpUY"
+    },
+    {
+      "album": {
         "name": "TLC",
         "url": "https://open.spotify.com/album/6vSTt58pQ722hsmWuLwFam"
       },
@@ -20652,7 +20814,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 236159,
       "name": "Toasty",
       "url": "https://open.spotify.com/track/1lKFFSCV3ANTPoeEStxoYE"
@@ -20728,6 +20890,24 @@
       "duration_ms": 263510,
       "name": "True",
       "url": "https://open.spotify.com/track/1nWFMQQj7TzAAVqInS842F"
+    },
+    {
+      "album": {
+        "name": "Rainbow Mixtape",
+        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3hVtAhfKnyJ3FBb6uc6g4V"
     },
     {
       "album": {

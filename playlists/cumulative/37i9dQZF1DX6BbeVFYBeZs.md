@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6BbeVFYBeZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6BbeVFYBeZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6BbeVFYBeZs)
 
-### [Relaxing Spanish Guitar](https://open.spotify.com/playlist/37i9dQZF1DX6BbeVFYBeZs)
+### [Relaxing Guitar](https://open.spotify.com/playlist/37i9dQZF1DX6BbeVFYBeZs)
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 

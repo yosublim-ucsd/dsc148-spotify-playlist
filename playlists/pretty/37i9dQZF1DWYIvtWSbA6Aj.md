@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIvtWSbA6Aj.md) - [plain]
 
 > Superstar DJ and producer, <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a> readies us for the summer time with a mix featuring bangers from his new album, Sentio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,486 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,618 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIvtWSbA6Aj.md) - [plain]
 | 18 | [Sometimes \- Mixed](https://open.spotify.com/track/5waPjmAgMWVxgGMJEv3Bhp) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Sometimes \(Mixed\)](https://open.spotify.com/album/5SMCOrX86UJ8VBey7huDKf) | 3:28 |
 | 19 | [If We’ll Ever Be Remembered \- Mixed](https://open.spotify.com/track/7xoageWbKFFmMLBGNz00UJ) | [Shaun Farrugia](https://open.spotify.com/artist/0dOdktkTLrPLb4WilXaz85), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [If We’ll Ever Be Remembered \(Mixed\)](https://open.spotify.com/album/4nhFvJpJZ0Cw2RWY9hC7VK) | 4:08 |
 
-Snapshot ID: `MCw0YzYyZGQ2ZjRiYWFjNjVmMmZhMmIxMTJjODIwMTBlYTk5NGZlYWVl`
+Snapshot ID: `MCxhNGI0ZWNmNzdhZjllNmI5MWZiZjQ5ODc5Y2RhMzAxYWIzY2Q3YTAy`

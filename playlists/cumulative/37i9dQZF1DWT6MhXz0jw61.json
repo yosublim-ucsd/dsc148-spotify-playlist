@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 135746,
       "name": "37th",
       "url": "https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t"
@@ -1539,6 +1539,32 @@
     },
     {
       "album": {
+        "name": "CLARITY",
+        "url": "https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Tope",
+          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
+        },
+        {
+          "name": "Michael Prince",
+          "url": "https://open.spotify.com/artist/1hJTXkltEFvkKJe4xLjXKw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2WjZUZBJb9i41wt3GcJza4"
+    },
+    {
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M"
       },
@@ -1554,7 +1580,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 179573,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT"
@@ -1800,6 +1826,32 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "LOX",
+        "url": "https://open.spotify.com/album/5v2pR9YeJvt8PtXDr5PMhY"
+      },
+      "artists": [
+        {
+          "name": "Christian Rich",
+          "url": "https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "CHICAGO MOTORSPORTS (featuring Vic Mensa & KAMI)",
+      "url": "https://open.spotify.com/track/55Vb135dWiga1TKfJzhxum"
     },
     {
       "album": {
@@ -2717,6 +2769,28 @@
     },
     {
       "album": {
+        "name": "DIAMONDS & FREAKS",
+        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "DIAMONDS & FREAKS",
+      "url": "https://open.spotify.com/track/15LGoNPtjlhiMu8r88VL7D"
+    },
+    {
+      "album": {
         "name": "Somebody Up There Loves Me",
         "url": "https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE"
       },
@@ -3062,7 +3136,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 224317,
       "name": "driving scenes (feat. Cocoa Sarai)",
       "url": "https://open.spotify.com/track/1NNfFaDrZRcpphOhp85Dwt"
@@ -3292,7 +3366,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 129590,
       "name": "F.W.M",
       "url": "https://open.spotify.com/track/33Ba6nE6xkamo3JdqCnzTy"
@@ -3492,7 +3566,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 193028,
       "name": "Feel How I Look",
       "url": "https://open.spotify.com/track/6lNcE3B3WcN61iImRuO6rb"
@@ -3806,7 +3880,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172673,
       "name": "Fortune 500",
       "url": "https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE"
@@ -4036,6 +4110,32 @@
       "duration_ms": 210989,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/71HLq0W8DLzHT2geH1Et0H"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG"
+      },
+      "artists": [
+        {
+          "name": "Mazen",
+          "url": "https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203140,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9"
     },
     {
       "album": {
@@ -5484,7 +5584,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 201164,
       "name": "Kill Switch",
       "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
@@ -5810,6 +5910,28 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
+    },
+    {
+      "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194289,
+      "name": "Life & Times",
+      "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
     },
     {
       "album": {
@@ -6647,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/7cj7XUZoymX9nqFtQnAdKN"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Myself Again",
+      "url": "https://open.spotify.com/track/5ZHUZ17hh9QzgJHQ0hryTC"
+    },
+    {
+      "album": {
         "name": "DRILL MUSIC IN ZION",
         "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
       },
@@ -7211,6 +7351,28 @@
     },
     {
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "Our 25th Birthday",
+      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
+    },
+    {
+      "album": {
         "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
         "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
       },
@@ -7402,7 +7564,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 144000,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/52LNZKzoEyx0KzV0IMclnc"
@@ -7924,7 +8086,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 160000,
       "name": "Rap Fix",
       "url": "https://open.spotify.com/track/088AAB1SkCbyzU4I7aTepk"
@@ -8321,6 +8483,28 @@
     },
     {
       "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127007,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
+    },
+    {
+      "album": {
         "name": "She Loves Me",
         "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
@@ -8332,7 +8516,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 205986,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
@@ -9923,6 +10107,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/7cj7XUZoymX9nqFtQnAdKN"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199163,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/3x11MFT6GxBuaMur2070Ok"
+    },
+    {
+      "album": {
         "name": "Tony Fontana III",
         "url": "https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0"
       },
@@ -10082,7 +10284,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 182857,
       "name": "Trials & Tribulations",
       "url": "https://open.spotify.com/track/5pmkGYNdAfokyv8VnkKVdy"
@@ -10126,6 +10328,28 @@
       "duration_ms": 195000,
       "name": "Truffles",
       "url": "https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216189,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/7FM9XdexrrYaoPFZ6Ggn0k"
     },
     {
       "album": {
@@ -10334,6 +10558,28 @@
       "duration_ms": 201951,
       "name": "Valleys",
       "url": "https://open.spotify.com/track/060HXWUHaYpSUuBNCR59Z6"
+    },
+    {
+      "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Vanilla Sky",
+      "url": "https://open.spotify.com/track/0JAoQHaj0XY64ElsGshZc2"
     },
     {
       "album": {

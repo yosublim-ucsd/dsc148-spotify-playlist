@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 32067,
+  "num_followers": 32081,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWY5ODg3OWNmNTJhMzRhZTgwY2U2ZjExMTdiMDM5ZWFjZTU5ZGQ4",
+  "snapshot_id": "MCwxMDUwM2FhYTRjZjAzMDE3MjU3YTAwMDZiZTFmYThlOGU4ZjNmNDc4",
   "tracks": [
     {
       "added_at": "2023-03-24 16:06:32",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
-      },
-      "artists": [
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        }
-      ],
-      "duration_ms": 183963,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 152106,
       "name": "I Want a Little Sugar In My Bowl",
       "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "duration_ms": 183963,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 195037,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Why Don't You Touch Me",
+      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
     },
     {
       "added_at": "2023-03-24 16:06:32",

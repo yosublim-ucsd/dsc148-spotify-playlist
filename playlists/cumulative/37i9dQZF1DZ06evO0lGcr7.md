@@ -28,7 +28,7 @@
 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 | 2023-05-02 |  |
 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 | 2023-05-02 |  |
 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 | 2023-05-02 |  |
-| [hong kong](https://open.spotify.com/track/5eQH93PjNw14gYSGiKZqA3) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [hong kong](https://open.spotify.com/album/4u3p3PqQK72pmIHkCNBoLd) | 3:16 | 2023-05-02 | 2023-06-06 |
+| [hong kong](https://open.spotify.com/track/5eQH93PjNw14gYSGiKZqA3) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [hong kong](https://open.spotify.com/album/4u3p3PqQK72pmIHkCNBoLd) | 3:16 | 2023-05-02 |  |
 | [i feel like chet](https://open.spotify.com/track/1JFCxETWjhVCQU0HxNGpdg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:03 | 2023-05-02 |  |
 | [in the darkness](https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:29 | 2023-05-02 |  |
 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2023-05-02 |  |
@@ -59,6 +59,6 @@
 | [used to you](https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:54 | 2023-05-02 |  |
 | [victim of nostalgia](https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:36 | 2023-05-02 |  |
 | [walk but in a garden \(feat\. mxmtoon\)](https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 1:50 | 2023-05-02 |  |
-| [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 | 2023-05-02 |  |
+| [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 | 2023-05-02 | 2023-06-10 |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

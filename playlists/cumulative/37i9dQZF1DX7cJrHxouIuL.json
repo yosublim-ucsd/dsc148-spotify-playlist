@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Wash Your Body",
+        "url": "https://open.spotify.com/album/0GM43soVRfA47Ce0EXXFUy"
+      },
+      "artists": [
+        {
+          "name": "Riffin' Griffin",
+          "url": "https://open.spotify.com/artist/0SYMYYDfXrQnQzASSIqNUw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83477,
+      "name": "Wash Your Body",
+      "url": "https://open.spotify.com/track/6HENgjUYqWotNN8SPfcKEQ"
+    },
+    {
+      "album": {
         "name": "Way of Looking at the World",
         "url": "https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j"
       },

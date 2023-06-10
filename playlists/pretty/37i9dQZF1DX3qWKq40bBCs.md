@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 
 > The premios official playlist\. ¿Quién crees que ganará?
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 95 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 95 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 40 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 41 | [EL NENE](https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:59 |
 | 42 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
-| 43 | [Location](https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Location](https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj) | 2:05 |
-| 44 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 |
+| 43 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 |
+| 44 | [Location](https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Location](https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj) | 2:05 |
 | 45 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 46 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 47 | [Chulo](https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Chulo](https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ) | 2:00 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 82 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
 | 83 | [Anoche](https://open.spotify.com/track/73KMCXbjASgPjAuaHCQoxb) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Anoche](https://open.spotify.com/album/0vaKbOlIWwwQvczXvVROoW) | 2:40 |
 | 84 | [Tu Manto \- Remix](https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Tu Manto \(Remix\)](https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9) | 3:44 |
-| 85 | [En La Mia \(Remix\)](https://open.spotify.com/track/5GDUdwmzAhpaGqhdmg72Ft) | [MC Albertico](https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO), [Isaias Francotirador](https://open.spotify.com/artist/2O5mKWYf91gT1VqeU0INzr), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [En La Mia \(Remix\)](https://open.spotify.com/album/78c6pSUS2TbJYFDlmH3Mxu) | 5:02 |
-| 86 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
+| 85 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
+| 86 | [En La Mia \(Remix\)](https://open.spotify.com/track/5GDUdwmzAhpaGqhdmg72Ft) | [MC Albertico](https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO), [Isaias Francotirador](https://open.spotify.com/artist/2O5mKWYf91gT1VqeU0INzr), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [En La Mia \(Remix\)](https://open.spotify.com/album/78c6pSUS2TbJYFDlmH3Mxu) | 5:02 |
 | 87 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
 | 88 | [Fili](https://open.spotify.com/track/0BQFzRaZWxXNKnaz1hKVyT) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz) | [Fili](https://open.spotify.com/album/7lF2P3NjOTmCcWlGOK6w3z) | 3:16 |
 | 89 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 94 | [Obvio](https://open.spotify.com/track/6uzFCFLkAw2liJlaW6SSdI) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Obvio](https://open.spotify.com/album/4JWCU9l3VqFMwi08IfjMjB) | 3:34 |
 | 95 | [Bellaco](https://open.spotify.com/track/3V4bH1HI6hGaRJTi7n89ec) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [YOMO](https://open.spotify.com/artist/6FpnTDIH9SzQVwFhobtg61) | [Barrio Canino \(Pt\. 2\)](https://open.spotify.com/album/6IqXc4ruBr8T27kbJ3hBBv) | 3:13 |
 
-Snapshot ID: `MCwwODdkNzgzMzMxMzMwNzExN2U3MmYwODJhNTBiMTQxZDZkN2I4MmI0`
+Snapshot ID: `MCwxMDdjNjg0ZmY1Njg5YWNkZjVhNGE2YTFiMDlmZjQ1YWNhNzFjZGVk`

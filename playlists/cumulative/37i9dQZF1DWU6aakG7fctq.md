@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Los Aptos
+> Fresh Latin Indie\. Cover: Sofía Valdés
 
-380 songs - 21 hr 15 min
+382 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 | 2021-11-18 | 2022-07-27 |
 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 | 2022-06-29 | 2022-11-25 |
 | [Love a Morir](https://open.spotify.com/track/4k73TrsfxLhw4Wdjl8x6ya) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Love a Morir](https://open.spotify.com/album/08AODWYrk5l7GHcyR6fTGC) | 2:48 | 2023-01-20 | 2023-03-18 |
-| [Love Con Espacio](https://open.spotify.com/track/4hqll5UMqiiwwJDZxjJLjk) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Una Freak](https://open.spotify.com/album/602FjmtHZi8FHXMcvKoK1E) | 3:23 | 2023-05-26 |  |
+| [Love Con Espacio](https://open.spotify.com/track/4hqll5UMqiiwwJDZxjJLjk) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Una Freak](https://open.spotify.com/album/602FjmtHZi8FHXMcvKoK1E) | 3:23 | 2023-05-26 | 2023-06-10 |
 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 | 2021-11-18 | 2022-11-13 |
 | [LUV](https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [BLUE 2000](https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2) | 2:23 | 2022-10-27 | 2022-11-25 |
 | [Luv on Me](https://open.spotify.com/track/65qsnnINZZZYdPNxlXaQey) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [LYTA](https://open.spotify.com/artist/0jqDDrQ4ILXHBdcgrxJAPG), [ASH](https://open.spotify.com/artist/5pcg2dwmS52OwrMeg5BgnL) | [Luv on Me](https://open.spotify.com/album/3EMqEtsqiz6izL7LV6kG4z) | 2:08 | 2022-01-10 | 2022-05-10 |
@@ -209,6 +209,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-11-24 | 2023-04-29 |
 | [Mi Tesoro](https://open.spotify.com/track/1V6Tp4pBAHByhlZrMTOYxd) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Mi Tesoro](https://open.spotify.com/album/1507DkjEBQqhE2xXHrOTOT) | 3:26 | 2022-12-16 | 2023-01-14 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
+| [Midnight Freak\-Out](https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Midnight Freak\-Out](https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X) | 3:20 | 2023-06-09 |  |
 | [Miel](https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce I](https://open.spotify.com/album/11eas3t2nurp1u7PRPFzGL) | 3:22 | 2023-03-24 | 2023-05-20 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-03-17 |  |
@@ -230,6 +231,7 @@
 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 | 2021-11-18 | 2022-11-25 |
 | [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-03-31 |  |
 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 | 2023-01-13 |  |
+| [no puedo decir que no \(no regrets\)](https://open.spotify.com/track/50sLVKctDmmJ9LRDUMjXEC) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [no puedo decir que no \(no regrets\)](https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL) | 3:33 | 2023-06-09 |  |
 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-10 | 2023-03-25 |
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2023-03-10 |  |
 | [Nostalgia](https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Nostalgia](https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh) | 3:39 | 2022-11-24 | 2022-12-17 |
@@ -264,7 +266,7 @@
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2021-11-18 | 2022-11-25 |
 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 | 2021-11-18 | 2022-11-25 |
 | [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 | 2022-09-06 | 2023-01-25 |
-| [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 |  |
+| [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 | 2023-06-10 |
 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 | 2022-11-24 |  |
 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 | 2022-11-24 | 2023-01-25 |
 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 | 2021-11-18 | 2022-11-25 |

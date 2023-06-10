@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,501 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,427 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 48 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:39 |
 | 49 | [Love this Christmas](https://open.spotify.com/track/0s3x37HfdUXvoW9N5zA5fN) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Love this Christmas](https://open.spotify.com/album/3CdqhL16AXYFXcHyGkPFzB) | 3:11 |
 | 50 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
-| 51 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 |
+| 51 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/013OtfiI9W3qO3dGwte8hv) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 2:31 |
 | 52 | [At Christmas](https://open.spotify.com/track/3gh7XKogco53YM1AGJ0OGD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 3:46 |
 | 53 | [Hang Your Lights \(Edit\)](https://open.spotify.com/track/7yBk4hLd8Nc4m446yllbdD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:01 |
 | 54 | [Merry Christmas](https://open.spotify.com/track/2EfOo7QkJu69cxRTZLvgaZ) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Merry Christmas](https://open.spotify.com/album/6VpaWGxgxBNrU5WBfKPUfM) | 2:42 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 61 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 | 62 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe) | 2:52 |
 
-Snapshot ID: `MCxmYWQ5ZDA2Nzk4ZjU4YWNmMjBjZmZiNGJlYTJhM2UwOGJhY2IzYzJl`
+Snapshot ID: `MCxiMjQwOGExMzE5ZjY3OTE2ODExMjgwZTZiZWNmYWJiYWRmMDYzNDgz`

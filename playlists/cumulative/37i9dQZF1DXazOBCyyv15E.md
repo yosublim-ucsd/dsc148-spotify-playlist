@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Christine & The Queens
 
-1,553 songs - 3 day 20 hr 12 min
+1,554 songs - 3 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 | 2020-12-04 | 2021-03-09 |
 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-27 |  |
 | [A Crime \(By Big Red Machine\)](https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [A Crime \(By Big Red Machine\)](https://open.spotify.com/album/2h0Xy3ana4QAheJYjve5er) | 2:50 | 2021-03-06 | 2021-05-14 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-10 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-09 |  |
 | [A Ladder](https://open.spotify.com/track/5b4BWDCpkuY2nVt4td4XLJ) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [A Ladder](https://open.spotify.com/album/6t3sY5xrpYArZ9Tgh2ovcJ) | 3:20 | 2023-02-10 | 2023-05-19 |
 | [A Lens Turning](https://open.spotify.com/track/201WjMkZFs5QmXzyl1RbMC) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [A Lens Turning](https://open.spotify.com/album/2JMVCH6A6shzYAJ8NC0j7q) | 6:38 | 2023-05-04 | 2023-05-27 |
 | [A Lens Turning](https://open.spotify.com/track/2Z3Ycf3H5XWP34jvXjIriZ) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [An Inbuilt Fault](https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG) | 6:38 | 2023-05-25 |  |

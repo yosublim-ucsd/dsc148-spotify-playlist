@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
+  "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
   "name": "Boleros Pop",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181853,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188533,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
@@ -4203,6 +4203,28 @@
     },
     {
       "album": {
+        "name": "Te Tocaba A Ti Llorar",
+        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Te Tocaba A Ti Llorar",
+      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
+    },
+    {
+      "album": {
         "name": "El Madrile\u00f1o (La Sobremesa)",
         "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
       },
@@ -4734,7 +4756,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "Y - En vivo",
       "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"

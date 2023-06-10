@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-198 songs - 10 hr 11 min
+199 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 |  |
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
-| [Love Takes Me Higher](https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc) | [Love Takes Me Higher](https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy) | 2:22 | 2023-04-21 |  |
+| [Love Takes Me Higher](https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc) | [Love Takes Me Higher](https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy) | 2:22 | 2023-04-21 | 2023-06-10 |
 | [Love You Better](https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Love You Better](https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr) | 2:32 | 2022-06-09 | 2023-03-04 |
 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 | 2022-11-26 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-04-21 |
@@ -175,6 +175,7 @@
 | [Stuck \(Your Heart\)](https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Stuck \(Your Heart\)](https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O) | 4:10 | 2023-03-10 | 2023-04-28 |
 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 | 2022-09-30 | 2023-03-18 |
 | [Suma](https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM) | [Samuel G](https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF) | [Suma](https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8) | 3:01 | 2023-04-21 | 2023-05-30 |
+| [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |
 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 | 2022-06-09 | 2023-05-14 |
 | [Tarkwa Bay Fridays](https://open.spotify.com/track/4vsJincCnIUC9bYVZvncM6) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Tarkwa Bay Fridays](https://open.spotify.com/album/1ju29gIRyMtoAagWOnuO0Y) | 3:22 | 2022-06-09 | 2023-02-12 |

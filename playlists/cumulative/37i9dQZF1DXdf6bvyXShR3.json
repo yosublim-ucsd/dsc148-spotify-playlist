@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Apaya",
+        "url": "https://open.spotify.com/album/5VYXBG1pRgOUdjacjpxe6j"
+      },
+      "artists": [
+        {
+          "name": "Glonti.Mak",
+          "url": "https://open.spotify.com/artist/5XBtXiN1hhCIDY3LfrAm0K"
+        },
+        {
+          "name": "Lipelis",
+          "url": "https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289886,
+      "name": "Apaya - Lipelis Remix",
+      "url": "https://open.spotify.com/track/6kMrj0lknHm48CtRsQpbAd"
+    },
+    {
+      "album": {
         "name": "Fast Forward",
         "url": "https://open.spotify.com/album/0tUqYbiJBXtZeofYSrPVwi"
       },
@@ -266,7 +288,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
@@ -485,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Refiberd, Vol. 3",
+        "url": "https://open.spotify.com/album/1XCV1wcZcyr221oTb8p6C1"
+      },
+      "artists": [
+        {
+          "name": "Blindsmyth",
+          "url": "https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P"
+        },
+        {
+          "name": "Deep Aztec",
+          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325533,
+      "name": "Delete Your Cloud - Deep Aztec MFENGU Remix",
+      "url": "https://open.spotify.com/track/01VG3jRbRgDll1WWTSLD0t"
+    },
+    {
+      "album": {
         "name": "Der Krokus",
         "url": "https://open.spotify.com/album/4OREF1ZGs91kThZ3e2mP2l"
       },
@@ -526,6 +570,28 @@
       "duration_ms": 419550,
       "name": "Do You Know?",
       "url": "https://open.spotify.com/track/7dzT8mnX3HvJM6imDhj3y3"
+    },
+    {
+      "album": {
+        "name": "Does It Matter (Ajna Remix)",
+        "url": "https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct"
+      },
+      "artists": [
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340125,
+      "name": "Does It Matter - Ajna (BE) Remix",
+      "url": "https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5"
     },
     {
       "album": {
@@ -701,6 +767,32 @@
     },
     {
       "album": {
+        "name": "Felicidade EP",
+        "url": "https://open.spotify.com/album/3RJkrIf9YxKuurSkjt3Chs"
+      },
+      "artists": [
+        {
+          "name": "gleb filipchenkow",
+          "url": "https://open.spotify.com/artist/4LEzemoAJe78zvPQN8DjsD"
+        },
+        {
+          "name": "Shiny Head",
+          "url": "https://open.spotify.com/artist/7oRENb898tIR0E0c8FMP0i"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430573,
+      "name": "Felicidade - Nandu Remix",
+      "url": "https://open.spotify.com/track/10ww0XdpykKTk1WqQwiW1z"
+    },
+    {
+      "album": {
         "name": "Follow your line",
         "url": "https://open.spotify.com/album/3bXjBnFx227eSWTF3C6NbP"
       },
@@ -734,6 +826,28 @@
       "duration_ms": 290629,
       "name": "For The Good Times",
       "url": "https://open.spotify.com/track/4rDiAX7s4teiEy4XuE60hQ"
+    },
+    {
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/06PQMahYBzV2tT0tYmLQO3"
+      },
+      "artists": [
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Roze (FR)",
+          "url": "https://open.spotify.com/artist/3wNFteeT6nUephoQk8Gurw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491464,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/0gJEtth7lXp2ncUipiygU8"
     },
     {
       "album": {
@@ -774,6 +888,24 @@
       "duration_ms": 423119,
       "name": "Grace - Hercules Club Mix",
       "url": "https://open.spotify.com/track/1W1GYSixtVasgFXlWnkaPi"
+    },
+    {
+      "album": {
+        "name": "Music For Humans",
+        "url": "https://open.spotify.com/album/5J0i6iz05DNnF3JeIvJYHA"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553220,
+      "name": "Grevling",
+      "url": "https://open.spotify.com/track/6ppCu1qOJWZYQpMuzyksgY"
     },
     {
       "album": {
@@ -920,7 +1052,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
@@ -942,7 +1074,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 364160,
       "name": "In The Line To Loneliness",
       "url": "https://open.spotify.com/track/1beVIiTTEXMsThkWr2gzbG"
@@ -1106,7 +1238,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 207775,
       "name": "La Danse Heureuse - Edit",
       "url": "https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH"
@@ -1384,7 +1516,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 376500,
       "name": "Misava (Extended )",
       "url": "https://open.spotify.com/track/5q6rVyDzpTtUraJRwGr1xe"
@@ -1686,7 +1818,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 164242,
       "name": "PAP (Pendiente Al Paso)",
       "url": "https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX"
@@ -1742,7 +1874,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 341845,
       "name": "Paris - Bella Boo Remix",
       "url": "https://open.spotify.com/track/33BsBa3qejh42jx6D2f0d1"
@@ -1784,7 +1916,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 378002,
       "name": "Pay To Play - Reznik & Mikesh Remix",
       "url": "https://open.spotify.com/track/1iEXJZOZot7pKzNcavfutN"
@@ -1806,6 +1938,24 @@
       "duration_ms": 301980,
       "name": "Prana (Version)",
       "url": "https://open.spotify.com/track/2cg3Rm8sqokFYlSlr9SnjR"
+    },
+    {
+      "album": {
+        "name": "Principal Agent (Sunrise Version)",
+        "url": "https://open.spotify.com/album/06FuuiJVfpcQ4OqQpvI9ZO"
+      },
+      "artists": [
+        {
+          "name": "Gorgin",
+          "url": "https://open.spotify.com/artist/2Buw3dZuOpqcboPiMaZ105"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388064,
+      "name": "Principal Agent - Sunrise Version",
+      "url": "https://open.spotify.com/track/3GmBSTOJYBF6pDmnsYcH8B"
     },
     {
       "album": {
@@ -1880,7 +2030,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 238880,
       "name": "Ridge Road",
       "url": "https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR"
@@ -1902,7 +2052,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 355738,
       "name": "Save Me - Disco Mix",
       "url": "https://open.spotify.com/track/6IDonbKy642ltu7P5qimlM"
@@ -1993,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "Star Nights",
+        "url": "https://open.spotify.com/album/46apR5EBAMiPea635Nc9aw"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siffredi",
+          "url": "https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ"
+        },
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353500,
+      "name": "Star Nights",
+      "url": "https://open.spotify.com/track/3ZUSWlzGEuHJfkUBEuAAgM"
+    },
+    {
+      "album": {
         "name": "Steel (Frank Wiedemann Remix)",
         "url": "https://open.spotify.com/album/6PK5YDkI0FJgYyWPt2VnvA"
       },
@@ -2048,7 +2220,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 369719,
       "name": "Summer & Smoke",
       "url": "https://open.spotify.com/track/0XUysA7T0Npg7aI90Wb7sG"
@@ -2092,6 +2264,32 @@
       "duration_ms": 281320,
       "name": "The Beach - Bonus Track",
       "url": "https://open.spotify.com/track/0FCUZdyI2UvVscNAnKHopR"
+    },
+    {
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
       "album": {
@@ -2376,6 +2574,24 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
+    },
+    {
+      "album": {
+        "name": "{agorians}",
+        "url": "https://open.spotify.com/album/1Ya382972KPywhZM3HkZI7"
+      },
+      "artists": [
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "{agorians}",
+      "url": "https://open.spotify.com/track/7jtN2cv1jDmJPqnaUSEqw7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdf6bvyXShR3"

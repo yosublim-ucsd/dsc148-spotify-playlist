@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,834 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,066 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 38 | [Amigo](https://open.spotify.com/track/24Thqkee9KZgifP7G8c70N) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Línea Azul \- Vol IV \- Amigo](https://open.spotify.com/album/5rvgKyUOHvy6tTwv5hUTdJ) | 3:31 |
 | 39 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
 | 40 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
-| 41 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
+| 41 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
 | 42 | [El Amor...Cosa Tan Rara](https://open.spotify.com/track/46VfNbTLGFZUZkbcsihWU8) | [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr) | [Denise De Kalafe 10 Exitos](https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR) | 3:29 |
 | 43 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 44 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 74 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 75 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 
-Snapshot ID: `MCwxMDViMmY5YzJlYmQzM2ZhMTUzODA0ZmNkMjBlYjgwZmNhNTEzNzBl`
+Snapshot ID: `MCw4M2Y5MGY2M2NmYjczZDA3MjNiMzdkMmJlYzQzMWM5MzM5YzhiYWZl`

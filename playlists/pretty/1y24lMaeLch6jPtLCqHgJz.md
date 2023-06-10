@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,304 likes - 90 songs - 4 hr 41 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,295 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 89 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 90 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjIxNSwyZGI4ODNjNmUzMGY4N2U5YTBmYzRmNWYyNzgwYWUzODI5ZjcxZjgw`
+Snapshot ID: `MjIxNyw0NTg0ZGUxM2E0NzAxZWEwZjI4NTNlYTNmMmJmZDA2ZjU0YTM4N2U1`

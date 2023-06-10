@@ -510,7 +510,7 @@
 | [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2023-03-25 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2023-06-05 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
-| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 |  |
+| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-06-10 |
 | [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 | 2022-10-09 |
 | [Summer Ghost \- Ghost Dub](https://open.spotify.com/track/5qf76gCob1UikX7JUIc3oh) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Summer Ghost](https://open.spotify.com/album/28f4s5ScoFbIedA2yfOt2u) | 3:50 | 2022-03-24 | 2022-04-21 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |
@@ -610,7 +610,7 @@
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
-| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2022-07-07 |
+| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 |  |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

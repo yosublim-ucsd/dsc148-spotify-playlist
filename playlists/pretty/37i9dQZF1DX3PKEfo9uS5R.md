@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,488 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,544 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 99 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 |
 | 100 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 |
 
-Snapshot ID: `MCwyNjU0ZTUyNTYyOGFmNjAxYWIyYjBjNWEwNzExZDEzZWNlNThlOTNj`
+Snapshot ID: `MCwwYjliMzMxZWEyZWM4ZTA0OTA3NDg1ZDdkZDIxYjY3Y2ZiYjQ5OGE1`

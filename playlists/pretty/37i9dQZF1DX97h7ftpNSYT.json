@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: J. Cole",
-  "num_followers": 143998,
+  "num_followers": 144144,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDcwYWYzNzgzODgzZWI5YjFhY2U3ODE2NWYzNWU2ZDRlNzlhMDk2",
+  "snapshot_id": "MCwyZDgxN2U3ZmM0N2Y3MmM0ZWNkZmRlZTcwYzQ4Njk2NGY0OGY5NGIw",
   "tracks": [
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "IFHY (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
         "name": "Savage Mode",
         "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 258880,
       "name": "X (feat. Future)",
       "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "IFHY (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 232959,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "LONG.LIVE.A$AP (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236280,
-      "name": "Fashion Killa",
-      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "VIBEZ",
+      "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "VIBEZ",
-      "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
     }
   ],
   "unique_name": "I Love My 2010s Hip-Hop",

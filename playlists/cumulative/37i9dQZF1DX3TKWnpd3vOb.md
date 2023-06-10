@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-238 songs - 15 hr 13 min
+239 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Estereotipo](https://open.spotify.com/track/7400p5DQgZByjkhYw9dprs) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Estereotipo](https://open.spotify.com/album/7MthIfL1jkDZAJxfsR23IQ) | 2:56 | 2022-04-08 | 2022-07-29 |
 | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/track/0UC5d0kcl6qxRjnjBdJdBN) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/album/45d0IXNNcFkpK7nzcnJ6mO) | 7:20 | 2022-04-08 | 2022-12-17 |
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-07-08 | 2023-03-03 |
+| [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 | 2023-06-09 |  |
 | [Fantasma](https://open.spotify.com/track/3yIxTNMdFmzBHFszi9Muju) | [Franklin](https://open.spotify.com/artist/4z4fHgRk195uGlbBfYJMRc) | [Fantasma](https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj) | 4:47 | 2022-04-08 | 2023-03-03 |
 | [Fantasías Animadas de Ayer y Hoy](https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 2:11 | 2022-04-08 | 2022-12-17 |
 | [Flores de cartón \- Radio Edit](https://open.spotify.com/track/5SpqY1Aqv6hFt7QbiiHqm2) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Flores de cartón \(Radio Edit\)](https://open.spotify.com/album/5VIQuT9iAnVQQs5CYOBzJq) | 3:27 | 2022-04-08 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 | 2022-04-08 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 | 2023-03-03 |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 | 2023-01-15 |
-| [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 |  |
+| [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 | 2023-06-10 |
 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2023-03-03 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 | 2023-03-03 |
 | [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 | 2022-07-05 |

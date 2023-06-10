@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Grace Potter \n",
+  "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: The Revivalists\n",
   "name": "Rockin' Vibes",
   "tracks": [
     {
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+    },
+    {
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 262226,
       "name": "Brother the Cloud",
       "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "album": {
+        "name": "Tired Hearts",
+        "url": "https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204055,
+      "name": "Call It Like It Is",
+      "url": "https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI"
     },
     {
       "album": {
@@ -852,7 +888,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199874,
       "name": "Deep Stays Down",
       "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
@@ -1187,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Every Day Like the Last",
+        "url": "https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182525,
+      "name": "Every Day Like the Last",
+      "url": "https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix"
+    },
+    {
+      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf"
       },
@@ -1277,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "What Matters Most",
+        "url": "https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215420,
+      "name": "Exhausting Lover",
+      "url": "https://open.spotify.com/track/0CddCJAM7uawhCezlJc2YK"
+    },
+    {
+      "album": {
         "name": "Electrophonic Chronic",
         "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
       },
@@ -1346,7 +1418,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199971,
       "name": "Falling Down (with Nick Hexum of 311)",
       "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
@@ -1512,6 +1584,24 @@
       "duration_ms": 207294,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs"
+    },
+    {
+      "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
+      },
+      "artists": [
+        {
+          "name": "Better Than Ezra",
+          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
     },
     {
       "album": {
@@ -1851,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+    },
+    {
+      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -1920,7 +2028,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 273946,
       "name": "High And Lonesome",
       "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
@@ -1996,7 +2104,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
@@ -2176,7 +2284,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 212760,
       "name": "Hurricane Coming",
       "url": "https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt"
@@ -2610,7 +2718,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 181093,
       "name": "Live Like You",
       "url": "https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON"
@@ -2664,7 +2772,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 286887,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy"
@@ -3035,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Walk Around The Moon",
+        "url": "https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf"
+    },
+    {
+      "album": {
         "name": "Mother Road",
         "url": "https://open.spotify.com/album/5pjySEa5oydXp95sJrg9ew"
       },
@@ -3046,7 +3172,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 312653,
       "name": "Mother Road",
       "url": "https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm"
@@ -3198,7 +3324,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 254468,
       "name": "New York Comeback",
       "url": "https://open.spotify.com/track/0uCIjbxBRNceKKdJg5FpzK"
@@ -3274,6 +3400,24 @@
       "duration_ms": 282093,
       "name": "No Small Thing",
       "url": "https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6"
+    },
+    {
+      "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "album": {
@@ -3864,7 +4008,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 142507,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
@@ -4026,7 +4170,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 199873,
       "name": "scream!",
       "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
@@ -4487,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "album": {
         "name": "Jersey Girl",
         "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"
       },
@@ -4941,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
         "name": "The Ripple",
         "url": "https://open.spotify.com/album/7FCAHU53l7CvZwFfHOEXrH"
       },
@@ -5086,6 +5266,42 @@
       "duration_ms": 177093,
       "name": "The Well",
       "url": "https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH"
+    },
+    {
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "The Woodpile",
+      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
+    },
+    {
+      "album": {
+        "name": "Cuts & Bruises",
+        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd"
     },
     {
       "album": {

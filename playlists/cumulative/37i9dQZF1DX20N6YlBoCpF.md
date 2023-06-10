@@ -4,7 +4,7 @@
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=uzV2N76IT\_CvQADlCL8I7g">Anzélle</a>
 
-368 songs - 20 hr 48 min
+369 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-01-06 |
 | [Maak Wakker](https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Maak Wakker](https://open.spotify.com/album/0ydJ2CZGUPWWk5JcySWIpj) | 3:21 | 2022-12-27 | 2023-01-02 |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-04 |  |
-| [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-02-09 |  |
+| [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-02-09 | 2023-06-10 |
 | [Medals For Mothers](https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Medals For Mothers](https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE) | 2:45 | 2023-05-11 | 2023-05-30 |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 | 2022-10-07 |
 | [Meisiesfontein](https://open.spotify.com/track/5LDGLm6yYpeol850thZVJg) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Meisiesfontein](https://open.spotify.com/album/27EC0xnYStcjdqFkCgRfmk) | 3:58 | 2022-12-27 | 2023-01-02 |
@@ -258,6 +258,7 @@
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |
 | [Ou Kraalliedjie](https://open.spotify.com/track/3uyiLQ7snZ6Njes5kNyyrD) | [Ouderdoos](https://open.spotify.com/artist/3YtJ7CNA0rbetvlXmJtVwT) | [Ou Kraalliedjie](https://open.spotify.com/album/5QyOwNGK6bqpgIqb1geH8q) | 2:33 | 2022-10-13 | 2022-10-28 |
 | [Oud Geword](https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Oud Geword](https://open.spotify.com/album/70VkQsYTEX51832qXP82U1) | 3:03 | 2023-05-25 | 2023-06-09 |
+| [Pa Staan Vir Jou](https://open.spotify.com/track/3wsBtZNuGxiFJ1f7oLq86J) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Pa Staan Vir Jou](https://open.spotify.com/album/5562QGSuhFGerIrPFELKNm) | 4:04 | 2023-06-09 |  |
 | [Pappa Probleme](https://open.spotify.com/track/0PJnQ3CdbPnj10s2rZ4R7a) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Pappa Probleme](https://open.spotify.com/album/71BVMI1S1hWI3EjK47kTmu) | 3:34 | 2022-12-27 | 2023-01-02 |
 | [Partykiehonde](https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Partykiehonde](https://open.spotify.com/album/3ggZuVpYhIaycDqIRaIv2U) | 2:40 | 2023-05-05 |  |
 | [Partytjie Slaap Herhaal](https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Partytjie Slaap Herhaal](https://open.spotify.com/album/0HSsTlnjrsWTpemTJWWwhZ) | 3:20 | 2023-03-30 | 2023-06-02 |

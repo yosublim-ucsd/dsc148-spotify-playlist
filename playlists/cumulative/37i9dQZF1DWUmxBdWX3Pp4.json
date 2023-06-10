@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "King Fly",
+          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
+    },
+    {
+      "album": {
         "name": "ANGOLA",
         "url": "https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0"
       },
@@ -1205,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Campeones",
+        "url": "https://open.spotify.com/album/16KR6ii9PcY77QlUqSf9Y3"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200434,
+      "name": "Campeones",
+      "url": "https://open.spotify.com/track/3utEkGqMuYMK6xMxHZOaCp"
+    },
+    {
+      "album": {
         "name": "Carrera",
         "url": "https://open.spotify.com/album/0aPquprrKLJiXfXRKdBBuJ"
       },
@@ -1486,6 +1526,24 @@
       "duration_ms": 211200,
       "name": "Como Yo Puedo Olvidar",
       "url": "https://open.spotify.com/track/2dovaZsPSEQCRYuUCBtBLF"
+    },
+    {
+      "album": {
+        "name": "Mafia Lirical",
+        "url": "https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170787,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB"
     },
     {
       "album": {
@@ -2219,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -2580,7 +2660,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 188181,
       "name": "Followers",
       "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
@@ -3624,7 +3704,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 168015,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
@@ -4630,7 +4710,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 88158,
       "name": "Missionsuicida",
       "url": "https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA"
@@ -6050,7 +6130,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
@@ -7822,7 +7902,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 174315,
       "name": "YUYU",
       "url": "https://open.spotify.com/track/1zXiBTAFnO5L56UEuH7xwH"

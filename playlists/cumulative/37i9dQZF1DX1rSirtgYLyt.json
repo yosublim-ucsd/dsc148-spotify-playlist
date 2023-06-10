@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Steamroller Blues (Live at The Honolulu International Center, Hawaii January 14, 1973)",
+        "url": "https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193309,
+      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
+      "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
+    },
+    {
+      "album": {
         "name": "Old Sock",
         "url": "https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v"
       },

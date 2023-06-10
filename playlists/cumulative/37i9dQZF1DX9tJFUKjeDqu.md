@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-127 songs - 8 hr 10 min
+128 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 | 2022-07-29 |
 | [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 |  |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
-| [Blues For Alice](https://open.spotify.com/track/1T0NR2hR4sN25nBZymmdIH) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:39 | 2022-12-02 |  |
+| [Blues For Alice](https://open.spotify.com/track/1T0NR2hR4sN25nBZymmdIH) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:39 | 2022-12-02 | 2023-06-10 |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 | 2022-07-29 |
 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 |  |
 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 | 2022-05-27 |  |
@@ -51,7 +51,7 @@
 | [Elegy for a Bluesman](https://open.spotify.com/track/6ezalWK2RCMwOoVPm6Yqj7) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/2YObpHVuuBJjCk9vaoZ9Nf) | 5:40 | 2022-04-15 | 2022-07-29 |
 | [Entertaining Moods for Studying](https://open.spotify.com/track/6R2i7JRkM7l4ez6J06TgEu) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Fabulous Backdrop for Reading](https://open.spotify.com/album/33VjsbAeDbX5naLPcOdU2P) | 2:24 | 2022-04-15 |  |
 | [Eric After Hours Blues](https://open.spotify.com/track/6gHzcDHbcoGgvoGAtcTq94) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:21 | 2022-04-15 |  |
-| [Everyday Life](https://open.spotify.com/track/60KGmrdtu2NOhVJNpHuJQs) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:25 | 2022-12-02 |  |
+| [Everyday Life](https://open.spotify.com/track/60KGmrdtu2NOhVJNpHuJQs) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:25 | 2022-12-02 | 2023-06-10 |
 | [Five Pop Tunes II: Bluesy](https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v) | [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Five Pop Tunes](https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex) | 2:18 | 2022-04-15 |  |
 | [For Ellie](https://open.spotify.com/track/6k0pWHW5jhKtN2NRJCJ3OC) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 2:25 | 2023-03-17 |  |
 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 | 2022-04-15 |  |
@@ -88,6 +88,7 @@
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
 | [Planet Caravan](https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 7:48 | 2022-04-15 |  |
 | [Poontang](https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Good Feelin'](https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA) | 2:55 | 2022-04-15 | 2023-03-18 |
+| [Pride and Joy](https://open.spotify.com/track/4PW6mOsvHVHk9QIeI30BKW) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Pride and Joy](https://open.spotify.com/album/0iBYK9sQrCl4EtDclqB94P) | 2:06 | 2023-06-09 |  |
 | [Purple Skies](https://open.spotify.com/track/0TM2u2DKglzh1RYTarLjOt) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Purple Skies](https://open.spotify.com/album/6GzaE8sjbYXbUKEKYurLiY) | 2:13 | 2022-11-18 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-04-15 |  |
 | [Rainy Day Blues](https://open.spotify.com/track/3LLkcx4aJEtLFYemy1RjZh) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Rainy Day Blues](https://open.spotify.com/album/3ASDklCaL6JBF57JZXOBdm) | 2:58 | 2023-02-24 |  |

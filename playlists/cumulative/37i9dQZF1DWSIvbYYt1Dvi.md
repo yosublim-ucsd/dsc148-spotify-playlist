@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> kawe e baco é AULAS
+> tasha e kyan, tracie e gregory é AULAS
 
-184 songs - 10 hr 39 min
+185 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Din Din](https://open.spotify.com/track/5q8CsuCFxOo3RKT0lJz6P1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Din Din](https://open.spotify.com/album/4fcpMXjOVLOyg3mb7Fpb3U) | 2:20 | 2022-12-02 | 2023-02-01 |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-06-17 |  |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-16 | 2023-03-18 |
+| [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Ying Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 | 2023-06-09 |  |
 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 | 2022-01-14 | 2022-08-13 |
 | [Energia](https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Energia](https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp) | 5:01 | 2022-12-16 |  |
 | [Essa Eu Fiz de Free](https://open.spotify.com/track/0VEqYpNBGmDVkFNvflpS64) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Só Quero Que Me Escute, Pt\. 1](https://open.spotify.com/album/6yMm0cQwl7SBZVSeAXR7iu) | 2:14 | 2023-06-02 |  |
@@ -187,7 +188,7 @@
 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 | 2023-05-12 |  |
 | [Vida Louca](https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Vida Louca](https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc) | 2:35 | 2022-01-14 | 2022-10-01 |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-01-14 | 2023-05-30 |
-| [Vim da Lama](https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Lil Ticy](https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5) | [Vim da Lama](https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5) | 2:36 | 2023-03-17 |  |
+| [Vim da Lama](https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Lil Ticy](https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5) | [Vim da Lama](https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5) | 2:36 | 2023-03-17 | 2023-06-10 |
 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 | 2022-10-07 |  |
 | [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 | 2023-04-28 | 2023-06-03 |
 | [Você Não É Mais Criança](https://open.spotify.com/track/5T4sMKJyVMs0CH1f3iIYLv) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [lucasbin](https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid), [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Você Não É Mais Criança](https://open.spotify.com/album/0T73ivIvZRrQlh9wxCvDuS) | 1:54 | 2023-01-30 | 2023-03-18 |

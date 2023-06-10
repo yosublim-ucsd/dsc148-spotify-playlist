@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,922 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,961 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 28 | [The Hum](https://open.spotify.com/track/0Gc1AVYqYOR522Nvz68dsT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/7dfJi8NBqmMSHVv3RJ1Mnx) | 3:31 |
 | 29 | [Yottabyte](https://open.spotify.com/track/1PYsy4cGp3egbeaQDjIGIa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:30 |
 | 30 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
-| 31 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
+| 31 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
 | 32 | [C.U.B.A](https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [C.U.B.A](https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu) | 4:29 |
 | 33 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
-| 34 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
+| 34 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
 | 35 | [Again & Again](https://open.spotify.com/track/5FUNk47hbkiL7mxLOo5CYc) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Live Tonight](https://open.spotify.com/album/3hOBPmTdfmrdcLOMAzw5xl) | 3:01 |
 | 36 | [Retrograde](https://open.spotify.com/track/1nXvZ5578J8AIpGHZJLvGs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde](https://open.spotify.com/album/1cVZdiZBMiSv4WtqqpiFRp) | 4:11 |
 | 37 | [Wizard](https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:41 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MCw2M2VmYjEyZDkyNmI3Mjk3ZmVjOWZlOGY1ZDdiMjQwYTY3ZDM1YjBm`
+Snapshot ID: `MCw0YjczYWZmYTM3NDJjMDVjMjc2MjQxZWQwNTM5NmJjOGU1NWFmZTM4`

@@ -1,13 +1,29 @@
 {
   "description": "The best newly released songs of the week. Cover: Jeremy Zucker",
-  "num_followers": 61269,
+  "num_followers": 61295,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTNiZDYxODE1MTJhNjM0MzUwMjczZGUyYzI0MGRmNDI4YzQ0MTg3",
+  "snapshot_id": "MCxjNzQ0YTNjZGNiMzY4MjQwNWZiNTlkNTAyN2QzYWEzNzk0NDA2MmUy",
   "tracks": [
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
     {
       "added_at": "2023-06-08 16:00:00",
       "album": {
@@ -111,6 +127,22 @@
       "duration_ms": 123820,
       "name": "Angel (From Barbie The Album)",
       "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "added_at": "2023-06-09 05:13:16",
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR ?",
+        "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
     },
     {
       "added_at": "2023-06-08 16:00:00",
@@ -231,6 +263,22 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/4lPqpIRtUhsZJGVvt5uA07"
+      },
+      "artists": [
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/1HhKeOCM8OdVuS4gcBPIjg"
     },
     {
       "added_at": "2023-06-08 16:00:00",
@@ -387,8 +435,8 @@
     {
       "added_at": "2023-06-08 16:00:00",
       "album": {
-        "name": "Hollywood Bowl",
-        "url": "https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA"
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9"
       },
       "artists": [
         {
@@ -402,7 +450,7 @@
       ],
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
-      "url": "https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7"
+      "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
     },
     {
       "added_at": "2023-06-08 16:00:00",
@@ -659,6 +707,22 @@
     {
       "added_at": "2023-06-08 16:00:00",
       "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+    },
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -848,7 +912,7 @@
           "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         },
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
@@ -1016,7 +1080,7 @@
       "added_at": "2023-06-08 16:00:00",
       "album": {
         "name": "0800 HEAVEN",
-        "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
       },
       "artists": [
         {
@@ -1034,7 +1098,7 @@
       ],
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
-      "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
     },
     {
       "added_at": "2023-06-08 16:00:00",
@@ -1371,7 +1435,7 @@
     {
       "added_at": "2023-06-08 16:00:00",
       "album": {
-        "name": "Delilah (with Mark Neve)",
+        "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
       "artists": [
@@ -1385,7 +1449,7 @@
         }
       ],
       "duration_ms": 141027,
-      "name": "Delilah - with Mark Neve",
+      "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {

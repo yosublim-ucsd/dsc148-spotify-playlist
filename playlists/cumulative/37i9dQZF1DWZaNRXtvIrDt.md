@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-311 songs - 23 hr 14 min
+312 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [LLTB](https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:40 | 2023-05-25 |  |
 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-02-09 | 2023-04-07 |
 | [Love Potion](https://open.spotify.com/track/0SfYt5CDimIbJgluvzHj1O) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Split](https://open.spotify.com/album/0ltM1qrSb6iUi6hCowCfNT) | 5:13 | 2023-02-09 | 2023-03-10 |
+| [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-06-09 |  |
 | [Lovin U](https://open.spotify.com/track/09gf71zsdEFlkgrTWkiVWM) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka \- EP](https://open.spotify.com/album/7prXyrzPr3WsWDe6LX5hUt) | 5:04 | 2023-04-13 |  |
 | [Luv\-N\-Me](https://open.spotify.com/track/62t6tbynERX4KtHs2YY8LM) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Luv\-N\-Me](https://open.spotify.com/album/4fJ9MKxJKIb7sQaSz6LkvY) | 3:24 | 2022-12-08 | 2023-01-20 |
 | [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-02-23 | 2023-03-25 |

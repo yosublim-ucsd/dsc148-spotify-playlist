@@ -1,32 +1,72 @@
 {
   "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 107907,
+  "num_followers": 107992,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBiYzM4YmUwZmNiNTYwZTFhOGZmZTJjOWViYzNkNmZkZWZjYzIx",
+  "snapshot_id": "MCw2ZWUwNmEyNWE0NjNjMDI5ZDMyNzAxM2ZiZTZlOGEwNDllYjI4YTc2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+        "name": "Pelle Coat",
+        "url": "https://open.spotify.com/album/5b1w6KAaaUxwvJfgjFoqku"
       },
       "artists": [
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 124905,
-      "name": "Cross The Globe (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/52WWw9qNZXZZtWU336TtKG"
+      "duration_ms": 253738,
+      "name": "Pelle Coat",
+      "url": "https://open.spotify.com/track/03yFQxAIxAqv7dS3RfViux"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "All Star Team",
+        "url": "https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 107166,
+      "name": "All Star Team",
+      "url": "https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -53,134 +93,6 @@
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "NO BAP",
-        "url": "https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 120944,
-      "name": "NO BAP",
-      "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Pelle Coat",
-        "url": "https://open.spotify.com/album/5b1w6KAaaUxwvJfgjFoqku"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 253738,
-      "name": "Pelle Coat",
-      "url": "https://open.spotify.com/track/03yFQxAIxAqv7dS3RfViux"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 259687,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "PORSCHE TOPLESS",
-        "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "PORSCHE TOPLESS",
-      "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188785,
-      "name": "Bounce (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Talkin Crazy",
@@ -195,30 +107,6 @@
       "duration_ms": 210050,
       "name": "Talkin Crazy",
       "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
-        "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 194047,
-      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
-      "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -263,34 +151,230 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "WAY I WALK",
-        "url": "https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn"
+        "name": "NO BAP",
+        "url": "https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr"
       },
       "artists": [
         {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
-      "duration_ms": 150319,
-      "name": "WAY I WALK",
-      "url": "https://open.spotify.com/track/4qR7X2u3zkeBBwxlabexLh"
+      "duration_ms": 120944,
+      "name": "NO BAP",
+      "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "InstaKill",
-        "url": "https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx"
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4qSxDZrZjNNpDzNVHhkOQz"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 285152,
+      "name": "100 Bars",
+      "url": "https://open.spotify.com/track/0yYYco9yk2nclC82ioryu8"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 259687,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "PORSCHE TOPLESS",
+        "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "PORSCHE TOPLESS",
+      "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
       },
       "artists": [
         {
           "name": "PGF Nuk",
           "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 117791,
-      "name": "InstaKill",
-      "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
+      "duration_ms": 188785,
+      "name": "Bounce (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "B'CUZ (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 171616,
+      "name": "B'CUZ (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+        "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+      "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124905,
+      "name": "Cross The Globe (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/52WWw9qNZXZZtWU336TtKG"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -311,6 +395,46 @@
       "duration_ms": 151099,
       "name": "Wicked Inna RaQ 2 (with G Herbo)",
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "InstaKill",
+        "url": "https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 117791,
+      "name": "InstaKill",
+      "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 162856,
+      "name": "PICK A SIDE (feat. EST Gee & Southside)",
+      "url": "https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -415,22 +539,6 @@
       "duration_ms": 181488,
       "name": "Grocery Freestyle",
       "url": "https://open.spotify.com/track/6POpagXwotnNvqBTjD7uez"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Likka Sto",
-        "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
-      },
-      "artists": [
-        {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
-        }
-      ],
-      "duration_ms": 130703,
-      "name": "Likka Sto",
-      "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -737,22 +845,6 @@
       "url": "https://open.spotify.com/track/2CfLgQnyEx2GiIZnGuLJP8"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/4PJqgGYqEcgE9Z5u7fjSCS"
-      },
-      "artists": [
-        {
-          "name": "Lil 50",
-          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/1bN5FFPRdSDN0PM9XMpDGb"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "FW That",
@@ -843,22 +935,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/2iMRzFILMCwvuHk5cVZhvV"
-      },
-      "artists": [
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        }
-      ],
-      "duration_ms": 178059,
-      "name": "Stargaze",
-      "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Ok Bet",
         "url": "https://open.spotify.com/album/1BeuLY4VPYF9MqG2UWNhNg"
       },
@@ -887,74 +963,6 @@
       "duration_ms": 162000,
       "name": "12AM",
       "url": "https://open.spotify.com/track/4rBO0G8nMiakstdKOJHf8T"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Raining",
-        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 222740,
-      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Insubordination",
-        "url": "https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602"
-      },
-      "artists": [
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 243352,
-      "name": "Insubordination",
-      "url": "https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "WAR LORD",
-        "url": "https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG"
-      },
-      "artists": [
-        {
-          "name": "Talibando",
-          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 203982,
-      "name": "Millions (feat. Veeze & LUCKI)",
-      "url": "https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT"
     }
   ],
   "unique_name": "CST",

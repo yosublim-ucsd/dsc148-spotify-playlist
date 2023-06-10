@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-128 songs - 6 hr 43 min
+129 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [El deportivo](https://open.spotify.com/track/4Ze7Nqx8IZDQdMTNMvgHkj) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 2:36 | 2023-05-19 |  |
 | [El Gavilán](https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:04 | 2023-05-19 |  |
 | [El Gordo](https://open.spotify.com/track/6FDHxLIMzx65H3UXZCskVZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:46 | 2023-05-19 | 2023-05-26 |
-| [El Gordo](https://open.spotify.com/track/3nhzGsXUP6EHQDKjQfBzhU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:47 | 2023-05-19 |  |
+| [El Gordo](https://open.spotify.com/track/3nhzGsXUP6EHQDKjQfBzhU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:47 | 2023-05-19 | 2023-06-10 |
+| [El Gordo](https://open.spotify.com/track/73BzCLoktGr7WNKRCMc8VK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:47 | 2023-05-26 |  |
 | [El Jabalí](https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 2:06 | 2023-05-19 |  |
 | [El Mismo de Antes RR](https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:07 | 2023-05-19 |  |
 | [El Salado](https://open.spotify.com/track/7nxBGmL17XLT5al1Lf7vTv) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:17 | 2023-05-19 |  |

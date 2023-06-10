@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Konyikeh\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,112 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,155 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 42 | [close 2 u](https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:11 |
 | 43 | [Pillows](https://open.spotify.com/track/08elH5yYYCWP0aCnOIsqpa) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Pillows](https://open.spotify.com/album/0YDi7uy2Vi15knZ8665BgN) | 3:03 |
 | 44 | [03:17](https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [03:17](https://open.spotify.com/album/6ewtnYBzfxTjxM7R5fL2qx) | 3:16 |
-| 45 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 |
+| 45 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 |
 | 46 | [BREAKIN’ DOWN](https://open.spotify.com/track/7klMpm5YLGatfDS9aMPB7V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAKIN’ DOWN](https://open.spotify.com/album/6uWHDARnoZcn1V44fODCme) | 2:46 |
 | 47 | [Susannah at the Wedding](https://open.spotify.com/track/7Fn3G9RXoQlMpekYG2PeOB) | [Hana Bryanne](https://open.spotify.com/artist/4fnT23whknQiOlGR2bTkHs) | [Susannah at the Wedding](https://open.spotify.com/album/6ENl0VLIZ1RJvxhfeCpglu) | 3:44 |
 | 48 | [Raise Up](https://open.spotify.com/track/6XPEBI96R24uX4Er9nBHiT) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol) | [Raise Up](https://open.spotify.com/album/4cT4HzFLJizjEaT3k4XoSo) | 2:45 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 73 | [The One You Call \- Chores Remix](https://open.spotify.com/track/5aIJ1byGRrPtarNvpTlC1U) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I) | [The One You Call \(Chores Remix\)](https://open.spotify.com/album/0Uwz24RMjkWbNrYNed65yj) | 4:03 |
 | 74 | [Ma Ruler](https://open.spotify.com/track/1BfL9RO7NFFoETay56tLal) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Ma Ruler](https://open.spotify.com/album/2XuPJJ3PcjGrBwg2YN6j5m) | 3:13 |
 
-Snapshot ID: `MCwyMDBkMzgxYTlkZTI1N2VlZWE5NDNiOGE4ZTMyNjAzYWE1MjNkZTYy`
+Snapshot ID: `MCwxZTJmODY1M2RkMDRjYWYyMzExZWQ1NWU0Y2IxOTdjNzBjN2NmYWVj`

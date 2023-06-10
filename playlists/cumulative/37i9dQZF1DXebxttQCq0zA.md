@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-343 songs - 17 hr 36 min
+344 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dès vu](https://open.spotify.com/track/5n3P1XLlsYNdm14Mugb0ED) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Dès vu](https://open.spotify.com/album/3bdqf1w2uj49fxFv3ZqopB) | 3:06 | 2022-05-25 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 |  |
+| [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Elm Lake](https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:57 | 2022-05-25 | 2022-09-28 |
 | [Embracing \- Nothing But Love](https://open.spotify.com/track/6J7EO3pba2OeePYfO93edR) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [N D E](https://open.spotify.com/album/4K6A8N1N3xP1iu52NqzOpQ) | 4:06 | 2022-05-25 | 2022-09-15 |
 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 | 2022-06-16 |  |

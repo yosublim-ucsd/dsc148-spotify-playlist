@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,008 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,007 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 23 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
 | 24 | [Ó Noite Santa](https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Ó Noite Santa](https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl) | 5:10 |
 | 25 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
-| 26 | [Natal em Família](https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Natal em Família](https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5) | 4:47 |
-| 27 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
+| 26 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
+| 27 | [Natal em Família](https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Natal em Família](https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5) | 4:47 |
 | 28 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
 | 29 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
 | 30 | [Glória a Deus nas Alturas](https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA) | [Laura Morena](https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU), [Sullivan Dutra](https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki) | [Glória a Deus nas Alturas](https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
 | 50 | [O Primeiro Natal](https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [O Primeiro Natal](https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH) | 4:38 |
 
-Snapshot ID: `MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh`
+Snapshot ID: `MCwxZGNmMWU5Zjk1MDI4ODlkMDc0ODBkNWUxNWU1OWE0Y2RlMjZhODVm`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,728 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,852 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 2 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
-| 3 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:28 |
+| 3 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:29 |
 | 4 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 |
 | 5 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 | 6 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Lacrimosa](https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Lacrimosa](https://open.spotify.com/album/2rezRedcnS60CY419b5HAR) | 4:17 |
 | 85 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 
-Snapshot ID: `MCw2Y2EzYjVjNmIzNTg4NGQ2YTUzYTBkOTJkYzA4ZjM0OTYzNWQyMTYy`
+Snapshot ID: `MCwyYzIyZGNhYmFmNzBjNGY4YTQ2NDk3ODhhMTg1Yjc3MGViNmRiNTM3`

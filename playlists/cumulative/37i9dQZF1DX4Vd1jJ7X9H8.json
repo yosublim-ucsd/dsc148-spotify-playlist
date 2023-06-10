@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 117499,
       "name": "Calvaire",
       "url": "https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld"
@@ -6774,6 +6774,24 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq"
+    },
+    {
+      "album": {
+        "name": "Stay-At-Home DJ",
+        "url": "https://open.spotify.com/album/0KesQUd4gYbiIaX6pLCEet"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227961,
+      "name": "Stay-At-Home DJ",
+      "url": "https://open.spotify.com/track/1IaL8nSH8UiGMAb0UhgVnG"
     },
     {
       "album": {

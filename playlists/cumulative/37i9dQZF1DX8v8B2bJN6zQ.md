@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-99 songs - 5 hr 48 min
+100 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 | 2021-12-17 |  |
 | [Azur \- Kamilo Sanclemente & Dabeat Remix](https://open.spotify.com/track/1hS9q3gdYSFowSaHsH9v8u) | [Zalvador](https://open.spotify.com/artist/0sgz0ocZLhE6aTiCGUVlWJ), [Kamilo Sanclemente](https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy), [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Azur Spacey](https://open.spotify.com/album/2IwWglZwR0w5yccajJ2cp8) | 7:54 | 2021-12-17 |  |
 | [B.$.R](https://open.spotify.com/track/2BXApsC0wJaepCDli5FYja) | [Confesser](https://open.spotify.com/artist/3oAPMZYDVvAjaYi5FIwZJm), [Bess Maze](https://open.spotify.com/artist/7uU0VNTeJ6DUiLPQ3M0cRX) | [B.$.R](https://open.spotify.com/album/4yNJNMivAMcO7LwULQC7sH) | 4:42 | 2021-12-17 | 2022-07-23 |
-| [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 | 2021-12-17 |  |
+| [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 | 2021-12-17 | 2023-06-10 |
+| [bad vibes "/](https://open.spotify.com/track/5qRKhuxccR1inzrWEX0Dqs) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [Treinando com amor](https://open.spotify.com/album/5vIVjQUehmCZ3jhMlTGFQ7) | 3:00 | 2022-09-09 |  |
 | [Baktun](https://open.spotify.com/track/0TGjEiQuV7acZqIrk6zNHd) | [Danka](https://open.spotify.com/artist/6DixxmAXQtxGwPaHxHlKQ0) | [Baktun](https://open.spotify.com/album/2IUXMeZe5CtP88veiHreLt) | 5:18 | 2022-03-18 |  |
 | [Body Rock](https://open.spotify.com/track/3SNBVd4MNVfabxURx1Ac32) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6Svg3u9Bd7XnoXFMKkXIoT) | 2:56 | 2022-09-09 |  |
 | [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 | 2021-12-17 | 2023-03-31 |

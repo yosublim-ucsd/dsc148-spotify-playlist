@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,654 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,969 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 7 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 |
 | 8 | [Napoletano](https://open.spotify.com/track/3aUtI5J9jU7n0OQDzl2egV) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:12 |
 | 9 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 |
-| 10 | [Elicotteri \(feat\. Geolier\)](https://open.spotify.com/track/6Hr11KoNJPsTYtZJHXQgKO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 2:53 |
+| 10 | [Elicotteri \(feat\. Geolier\)](https://open.spotify.com/track/6Hr11KoNJPsTYtZJHXQgKO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:09 |
 | 11 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 12 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 13 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Diretto al Top](https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Diretto al Top](https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06) | 2:28 |
 | 50 | [Platino](https://open.spotify.com/track/0OYKG0Uhj7YDQXrKT1idYN) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Platino](https://open.spotify.com/album/0UzkF1UymnZb47K4denE5x) | 2:19 |
 
-Snapshot ID: `MCxjNWI5ZDY2ODc1OTZiZDBhOWFhMDhkMjYyYzRiMzZiMzliNDkzZTYw`
+Snapshot ID: `MCxjZmNiYmU5ZmE2ZGQ1MjViYzU1MGYxYjU0Yzc4MzA3NTJlNmEwZjc1`

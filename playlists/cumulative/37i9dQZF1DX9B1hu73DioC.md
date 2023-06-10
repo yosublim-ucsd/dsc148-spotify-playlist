@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-640 songs - 1 day 14 hr 36 min
+641 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 | 2023-04-06 | 2023-05-24 |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-10-15 |  |
 | [Confirmation](https://open.spotify.com/track/4zdxEDc8QbBjFjcvTVeu6r) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation](https://open.spotify.com/album/7IUUJtvJZxYtIscQQXdQta) | 3:29 | 2020-10-20 | 2022-04-23 |
-| [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-06 |  |
+| [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-06 | 2023-06-10 |
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2020-12-08 | 2022-04-20 |
 | [Copilot](https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Copilot](https://open.spotify.com/album/1U3WRjASyoLl8j8ccTnzFZ) | 4:03 | 2020-10-05\* | 2022-04-21 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 |  |
@@ -430,6 +430,7 @@
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2022-07-25 |  |
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-04 | 2022-06-19 |
 | [Oh](https://open.spotify.com/track/6ReBkFK1eXFS5rvmv6uDnu) | [Dancing On Tables](https://open.spotify.com/artist/0onRfrkoTz3yrMeP2Ymhhc) | [Oh](https://open.spotify.com/album/4ACRSTw84mvOyr7UNYu4ZU) | 3:27 | 2020-10-05\* | 2020-10-06 |
+| [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-06-09 |  |
 | [Okay](https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Okay](https://open.spotify.com/album/4zuOje7GYsDwFL3ZkAxJ4W) | 2:03 | 2021-08-27 | 2022-05-18 |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2020-11-17 | 2023-02-18 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |

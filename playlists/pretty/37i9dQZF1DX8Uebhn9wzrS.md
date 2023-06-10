@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,199 likes - 507 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,451 likes - 507 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 83 | [Fare Wells](https://open.spotify.com/track/1ACtHypM6VcEFCncUM0dAZ) | [Zapati\_](https://open.spotify.com/artist/7104dNwyew90099F5cyLBR) | [Fare Wells](https://open.spotify.com/album/0r1gugBZpWj7HjAO7gvXfm) | 2:18 |
 | 84 | [G\-Jazz](https://open.spotify.com/track/1MQHacUW73AKPG9nlf28oZ) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Mvdk](https://open.spotify.com/artist/4o7tRo120tjPGqAVvh15uH) | [G\-Jazz](https://open.spotify.com/album/2oyil3WZ48IFS55oqVGGMS) | 2:12 |
 | 85 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 |
-| 86 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 |
+| 86 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 |
 | 87 | [rainy daze](https://open.spotify.com/track/7yqa0s4ZJdHWm4ofHjXwC7) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [rainy daze](https://open.spotify.com/album/6WVMFLJCLo8YDQ8Z7HPUrb) | 2:02 |
 | 88 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 |
 | 89 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 |
@@ -516,4 +516,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 506 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
 | 507 | [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 |
 
-Snapshot ID: `MCw2OTI4MWE5YTc2MjU1OTA1ZDIwYzllMjM0ZTk0ZTg5YmZmMWM1ZDk3`
+Snapshot ID: `MCw5YzI5MGEwZmY2MGFkNjBmY2QwOWIxNDAzMTNhNDFiZmYzNDBjMzYy`

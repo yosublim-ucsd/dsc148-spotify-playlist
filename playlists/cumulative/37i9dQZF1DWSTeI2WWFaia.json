@@ -335,6 +335,36 @@
     },
     {
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288548,
+      "name": "Ain't Too Much To It",
+      "url": "https://open.spotify.com/track/3HN5EZk2zIoZdWxfLLE1E6"
+    },
+    {
+      "album": {
         "name": "Al Pacino",
         "url": "https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3"
       },
@@ -2233,6 +2263,32 @@
     },
     {
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201768,
+      "name": "Different League",
+      "url": "https://open.spotify.com/track/3dEgWY6zXTVRFLFloNEhLr"
+    },
+    {
+      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa"
       },
@@ -3142,7 +3198,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 172500,
       "name": "Get A Ticket",
       "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
@@ -5504,7 +5560,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 145670,
       "name": "Monogram",
       "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
@@ -5584,7 +5640,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 213927,
       "name": "MOTHERLESS - Single Version",
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
@@ -6982,7 +7038,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-10",
       "duration_ms": 228658,
       "name": "Real Ones",
       "url": "https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa"
@@ -7506,6 +7562,28 @@
       "duration_ms": 199803,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127007,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
     },
     {
       "album": {
@@ -8740,6 +8818,28 @@
       "duration_ms": 125680,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5LyK4EaVofQjOvJ4OGhdfv"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "The Love We Gave",
+      "url": "https://open.spotify.com/track/0iKDre9OvOcycngTLk78FZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,752 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,950 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 79 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
 | 80 | [Not Fade Away](https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:22 |
 | 81 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
-| 82 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
-| 83 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
+| 82 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
+| 83 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 84 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
 | 85 | [Lipstick On Your Collar](https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Million Sellers \(Expanded Edition\)](https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG) | 2:19 |
 | 86 | [Somethin' Else](https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 2:10 |
@@ -117,11 +117,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 107 | [Ain't Got No Home \- Rerecorded](https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:18 |
 | 108 | [Right Behind You Baby](https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [So Young / Right Behind You Baby](https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w) | 2:25 |
 | 109 | [Gonna Romp and Stomp](https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm) | [Slim Rhodes](https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj) | [Gonna Romp and Stomp / Bad Girl](https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71) | 2:18 |
-| 110 | [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 |
-| 111 | [A Teenager In Love](https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [Marty: A Lifetime In Music 1957\-2019](https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s) | 2:20 |
+| 110 | [A Teenager In Love](https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [Marty: A Lifetime In Music 1957\-2019](https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s) | 2:20 |
+| 111 | [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 |
 | 112 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
-| 113 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
-| 114 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
+| 113 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
+| 114 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
 | 115 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
 | 116 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
 | 117 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCwyYzk4Y2Q5ZGI1MGFlMDAxYWRmYTNmYWEzYWJjM2U5N2ZmZDdhNTNm`
+Snapshot ID: `MCw1YWQxZTAwNGYwNWZkZmIwZTQ3MGI3MDIwYmI1NmNkODBlM2VjYjE4`
