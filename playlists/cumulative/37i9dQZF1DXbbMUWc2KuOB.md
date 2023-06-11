@@ -4,7 +4,7 @@
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-176 songs - 11 hr 24 min
+177 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cloud \- Instrumental](https://open.spotify.com/track/4fInoTsJPZR6gU0H3OpJf5) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [The Beauty Inside Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf) | 3:03 | 2022-04-12 | 2022-07-29 |
 | [Comfort Instrumental](https://open.spotify.com/track/6XbCdImvNM7ZrofMKe3WE1) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Your Honor Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/31JOHFrOG8LWz8t0PfoNRf) | 4:10 | 2022-04-12 | 2022-07-27 |
 | [Confession \(Inst.\)](https://open.spotify.com/track/7A63UiHZvFru4yuzcZ9OW9) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Do You Like Brahms? OST Part.2](https://open.spotify.com/album/1KvZT5kQowPVKSZVWMrd3Y) | 4:14 | 2022-04-12 | 2022-11-03 |
+| [Day & Night \(Inst.\)](https://open.spotify.com/track/2L7O243aifqavoL1P5hZQN) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk) | 4:20 | 2022-04-12 |  |
 | [Day & Night \- Instrumental](https://open.spotify.com/track/2ia14UMC3j4gXP2DT5dD5S) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9) | 4:20 | 2022-04-12 | 2023-06-04 |
 | [Daydream \- Instrumental](https://open.spotify.com/track/6Zc3PiXQTCxOh4qIxbr6rf) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2hYvNoXOnex2L1LfgKqS98) | 4:07 | 2022-04-12 | 2022-07-25 |
 | [Dear My Nights \(Inst.\)](https://open.spotify.com/track/52kT4TjdtSFPU4SAaZxxjA) | [Seung Hee \(OH MY GIRL\)](https://open.spotify.com/artist/2zJZUKx6PJLb0nbkgChT5R) | [The Great Shaman Ga Doo Shim OST Part.2](https://open.spotify.com/album/2Hl6rBLFpsiAwgbkHYg6cB) | 3:45 | 2022-04-12 | 2022-06-07 |
@@ -143,7 +144,7 @@
 | [So long \(Instrumental\)](https://open.spotify.com/track/0jbIMBiRbmMePrdExCnAkT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel Del Luna OST Part.10](https://open.spotify.com/album/0expW9B2Jr4l2qhK1BhfG5) | 3:45 | 2022-04-12 | 2022-07-25 |
 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-12 |  |
 | [Someday \- Instrumental](https://open.spotify.com/track/7G420JuLp0iPeyfgQVh4fX) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-04-12 | 2022-06-13 |
-| [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 | 2022-04-12 |  |
+| [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 | 2022-04-12 | 2023-06-11 |
 | [Spring Breeze \(Inst.\)](https://open.spotify.com/track/4aLBB9gRonaWlD41mGdv47) | [NEW \(THE BOYZ\)](https://open.spotify.com/artist/67pva3FofOzEWZ3dSAItPL) | [Spring Breeze \(A Business Proposal OST Part.9\)](https://open.spotify.com/album/25MSSup5Ol8rYaJbdjEqPq) | 3:44 | 2022-04-12 | 2022-07-29 |
 | [Stardust love song \(Inst.\)](https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-04-12 |  |
 | [Stay with me](https://open.spotify.com/track/6o3LRRdo47fH25HmN8LysW) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Monthly magazine home, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/2uf8JLjwYLXRvEhOinsw8z) | 3:56 | 2022-04-12 | 2022-10-26 |

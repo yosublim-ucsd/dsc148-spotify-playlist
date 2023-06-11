@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,610 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,710 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 3 | [Stand On It \(feat\. Philthy Rich, Mac J & 4 rAx\)](https://open.spotify.com/track/6apHoG0pxkO5UFCZIpTmN7) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [The Mekanix](https://open.spotify.com/artist/0sJOeCMBvIDiHJ9Ct5h7IF), [Philthy Rich](https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3), [Mac J](https://open.spotify.com/artist/35jCvzv4P88FtaqOVXezKk), [4 rAx](https://open.spotify.com/artist/4f0JIvLda5Q2TeqaOJaW68) | [Soakin Game](https://open.spotify.com/album/4nkOCaoK62y6u4dYdEXsix) | 3:54 |
 | 4 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
 | 5 | [Cruisin In LA](https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Cruisin In LA](https://open.spotify.com/album/5PXmTtfSFf2yrQ0VF7Doe2) | 2:42 |
-| 6 | [Underrated](https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW) | 2:35 |
+| 6 | [Underrated](https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G) | 2:35 |
 | 7 | [RACK CITY](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [RACK CITY](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |
 | 8 | [Hello](https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Hello](https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp) | 2:25 |
 | 9 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 59 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 | 60 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MCw3Nzk2MDY1MzJiNThiYzIwZWQyMjE2ZThiMjBmYWIzNWYyYmY3OGZm`
+Snapshot ID: `MCw5NDc2YzM5OGNmODlmMTFlYWE0MTgyZTdmZDMzYTljY2EyMjJlNDY1`

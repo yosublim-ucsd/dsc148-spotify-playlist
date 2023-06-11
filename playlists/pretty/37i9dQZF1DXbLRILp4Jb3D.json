@@ -1,12 +1,12 @@
 {
   "description": "Usar la imaginaci\u00f3n es la soluci\u00f3n de un mundo ideal, \u00a1Vivan lxs ni\u00f1xs!",
-  "num_followers": 137925,
+  "num_followers": 137973,
   "original_name": "\u00a1Feliz d\u00eda de lxs ni\u00f1xs!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTdlMDgzOTZkNzg1MmZhMzI1ODc1Yzg4NjU2YmQ1ZGI5OTlmY2E2",
+  "snapshot_id": "MCxjNjYyMTFhMTQzYjIyNDYxNDhhN2UyOTBlZTMzZjU2M2NhZTQ0NTU0",
   "tracks": [
     {
       "added_at": "2023-04-27 06:00:00",
@@ -52,17 +52,21 @@
       "added_at": "2023-04-27 06:00:00",
       "album": {
         "name": "31 Minutos",
-        "url": "https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL"
+        "url": "https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG"
       },
       "artists": [
         {
           "name": "31 Minutos",
           "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        },
+        {
+          "name": "Flor Bovina",
+          "url": "https://open.spotify.com/artist/40FjANIfFcoTtH0kF9ixHG"
         }
       ],
-      "duration_ms": 125493,
-      "name": "Mi Mu\u00f1eca Me Habl\u00f3 - Flor Bovina",
-      "url": "https://open.spotify.com/track/2VKXvYQYzG3woDyhnQHhOl"
+      "duration_ms": 125506,
+      "name": "Mi Mu\u00f1eca Me Habl\u00f3",
+      "url": "https://open.spotify.com/track/5ncgVzLRtRDzcPigTddpdp"
     },
     {
       "added_at": "2023-04-27 06:00:00",
@@ -384,17 +388,21 @@
       "added_at": "2023-04-27 06:00:00",
       "album": {
         "name": "31 Minutos, Ratoncitos",
-        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
+        "url": "https://open.spotify.com/album/6UMrfvpI3aFUaguTlF7fEH"
       },
       "artists": [
         {
           "name": "31 Minutos",
           "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        },
+        {
+          "name": "Retrete Navarrete y Los Bulliciosos",
+          "url": "https://open.spotify.com/artist/6pv7Qa40FdlaCBPW978GI9"
         }
       ],
-      "duration_ms": 165293,
-      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
-      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
+      "duration_ms": 165306,
+      "name": "La Regla Primordial",
+      "url": "https://open.spotify.com/track/6WPUypjdzEgodbtnkreB62"
     },
     {
       "added_at": "2023-04-27 06:00:00",

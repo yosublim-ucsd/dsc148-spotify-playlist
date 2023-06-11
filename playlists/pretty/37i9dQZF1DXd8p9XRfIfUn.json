@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 64576,
+  "num_followers": 64588,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGZhNDgxNjhiZWYxZTc0ODQ2NDQ2N2RhZjY0OWU4NDg3YjIwMzhl",
+  "snapshot_id": "MCxhMDMzNDc4YjkwZjE3MDAzZmNiYmU4NTZkYmE0ZWZkYTg1ZDk4MjZl",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -336,7 +336,7 @@
       "added_at": "2023-05-12 03:00:00",
       "album": {
         "name": "Reggaeton Antiguo",
-        "url": "https://open.spotify.com/album/2bkyVv0tGrWbddmVm44kVn"
+        "url": "https://open.spotify.com/album/0diLJV0zvmSZReVKzsjxUL"
       },
       "artists": [
         {
@@ -346,7 +346,7 @@
       ],
       "duration_ms": 171428,
       "name": "Reggaeton Antiguo",
-      "url": "https://open.spotify.com/track/6b7i8R6IXIdjq2fXMTb52W"
+      "url": "https://open.spotify.com/track/5y3xb6gdWTRDlxlZX1iBCO"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Siempre Fine",
+        "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 165679,
+      "name": "Siempre Fine",
+      "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Siempre Fine",
-        "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 165679,
-      "name": "Siempre Fine",
-      "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 185988,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Traje Tusi",
         "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 185988,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
     },
     {
       "added_at": "2023-05-12 03:00:00",

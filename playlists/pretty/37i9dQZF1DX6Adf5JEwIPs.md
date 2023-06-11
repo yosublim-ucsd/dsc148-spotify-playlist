@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Panter Bélico & Oscar Maydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,637 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,903 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [Poses](https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Poses](https://open.spotify.com/album/5UFwdxH1VcIg3DW7pvj8Ps) | 3:06 |
 | 33 | [Galletas](https://open.spotify.com/track/41khApgHrkx0z8cxZxxky6) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [Galletas](https://open.spotify.com/album/0nseRlwns23uNgoRbMg4Ey) | 2:42 |
 | 34 | [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 |
-| 35 | [LA 5 12](https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2) | [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Desde la Cima](https://open.spotify.com/album/5Wdk5FbYQLeXB7EGUbo1X5) | 2:44 |
+| 35 | [LA 5 12](https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Desde la Cima](https://open.spotify.com/album/5Wdk5FbYQLeXB7EGUbo1X5) | 2:44 |
 | 36 | [Soy El De La Plaza](https://open.spotify.com/track/7Hez4hQPqVS3oagfBrx1Ed) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Jose Aldaz](https://open.spotify.com/artist/5xWXHrFtcWUXdve0kYZyb4), [Grupo Comando Hg](https://open.spotify.com/artist/7rxGkxhpl6w9wmPvxlEFiX) | [Soy El De La Plaza](https://open.spotify.com/album/2uhQsZoKio5xed0Ygx2mW1) | 2:38 |
 | 37 | [East LA](https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [East LA](https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt) | 2:50 |
 | 38 | [De los Pies a la Cabeza](https://open.spotify.com/track/5RZ6szzpiIXMDvnXikvMHK) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB), [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [De los Pies a la Cabeza](https://open.spotify.com/album/5HZ7QHMeK9kXx8UYdJlydx) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
 | 50 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 |
 
-Snapshot ID: `MCwwMjdhZDc4NjZjY2FlYzg4YjdkMjA1ZGUyMzAzNDY3YmQ4MzhiM2E3`
+Snapshot ID: `MCxmNTMwMDI1ZmM5YWI4ZWVmNGI5ZGE3NjYxOGMyNzg5Yzg2MWJjODc2`

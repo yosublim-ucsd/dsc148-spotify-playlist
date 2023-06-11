@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,542 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,584 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Cattiveiro Freestyle](https://open.spotify.com/track/1jEDmLfUSOAhFEvNaJToIL) | [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cattiveiro Freestyle](https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t) | 3:34 |
 | 75 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 |
 
-Snapshot ID: `MCwwMDExNzRhNGIwOTc0ZjM4YjUzMjAxNzBmZDRiNmZkZjA4YTY4NzFk`
+Snapshot ID: `MCxkNzE5YzU1MWI4YzA1OWU2ZTgxNjFhNDlmYzk4YmYwMzAzMTU1YTZl`

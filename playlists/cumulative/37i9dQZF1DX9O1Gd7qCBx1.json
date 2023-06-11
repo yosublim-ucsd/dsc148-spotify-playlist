@@ -544,7 +544,7 @@
     {
       "album": {
         "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
-        "url": "https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK"
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
       },
       "artists": [
         {
@@ -555,6 +555,24 @@
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
+      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
+    },
+    {
+      "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
       "duration_ms": 173549,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula - Co\u00e1gula Esp\u00e1tulo",
       "url": "https://open.spotify.com/track/5VgsXmsfGIBOqq0imAv4y1"

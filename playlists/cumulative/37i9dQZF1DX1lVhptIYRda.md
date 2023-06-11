@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Old Dominion
+> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Brothers Osborne
 
 643 songs - 1 day 10 hr 40 min
 

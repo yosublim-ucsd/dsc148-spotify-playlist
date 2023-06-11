@@ -1,23 +1,31 @@
 {
   "description": "tasha e kyan, tracie e gregory \u00e9 AULAS ",
-  "num_followers": 1245044,
+  "num_followers": 1245049,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmY1NzQ2YjAyNGE1OGE3MTY5YzJjNWQzNTc5MmE3N2Y2MDljMGUz",
+  "snapshot_id": "MCxkMGI2MjdmNTk4NzIwMmYzZjgwOTVlZWI4ZTJmOWQwZGRiY2IxZjFk",
   "tracks": [
     {
       "added_at": "2023-06-09 03:03:00",
       "album": {
-        "name": "Ying Yang",
+        "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
       },
       "artists": [
         {
           "name": "Tasha & Tracie",
           "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Renan Mesquita Silva Kyan",
+          "url": "https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8"
+        },
+        {
+          "name": "Gregory",
+          "url": "https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer"
         }
       ],
       "duration_ms": 268000,

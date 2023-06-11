@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-254 songs - 14 hr 2 min
+255 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 |  |
 | [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 | 2023-04-28 |
 | [Kings](https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Kings](https://open.spotify.com/album/2FBcJivmFru1auQqyrSKwl) | 2:34 | 2021-11-19 | 2022-02-02 |
-| [Laugh](https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Laugh](https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F) | 3:38 | 2023-05-26 |  |
+| [Laugh](https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Laugh](https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F) | 3:38 | 2023-05-26 | 2023-06-11 |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-11-28 | 2023-05-24 |
 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 | 2022-02-01 |  |
 | [Lights Go Down \- Peekaboo Remix](https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Lights Go Down \(Peekaboo Remix\)](https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB) | 5:25 | 2021-11-19 |  |
@@ -190,6 +190,7 @@
 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 | 2022-02-01 |  |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-11 | 2022-11-19 |
 | [Pour All Night](https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Thelonious](https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s) | [Pour All Night](https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e) | 3:29 | 2021-11-19 |  |
+| [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 | 2023-06-09 |  |
 | [Push Me Away](https://open.spotify.com/track/3YPd1EMqmP2SzeqjZtYsJI) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Push Me Away](https://open.spotify.com/album/7y9QrijlFPM7ss6Tj6lmLz) | 3:12 | 2021-11-19 | 2022-02-02 |
 | [q\-edits \#2](https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [q\-edits \#2](https://open.spotify.com/album/1rqnd5Dw3Jf7cSJIzNbTF5) | 2:21 | 2021-11-19 | 2022-07-29 |
 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 | 2022-02-01 |  |

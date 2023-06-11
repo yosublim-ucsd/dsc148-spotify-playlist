@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Tejy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,822 likes - 271 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,007 likes - 271 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 100 | [10months](https://open.spotify.com/track/2iN4KDcn1xF2YJtqZBH3R0) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [10months](https://open.spotify.com/album/2xKnIQtdSudL1tlxlbyJPg) | 3:43 |
 | 101 | [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 |
 | 102 | [all mine](https://open.spotify.com/track/3EQB2dryaej8CYcdNq3yH7) | [Danny Singh](https://open.spotify.com/artist/7Bf3aMOg613pAzkrloHfdx) | [all mine](https://open.spotify.com/album/0NzCLfKSSm1xvwv1ORq1Y2) | 3:08 |
-| 103 | [Never Gonna Give You Up](https://open.spotify.com/track/5St6oNCrcuk7ErZFLNfYmq) | [Mont Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [Never Gonna Give You Up](https://open.spotify.com/album/7o6TDzOQbNGA4NhHHStlNN) | 3:41 |
+| 103 | [Never Gonna Give You Up](https://open.spotify.com/track/5St6oNCrcuk7ErZFLNfYmq) | [Mönt Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [Never Gonna Give You Up](https://open.spotify.com/album/7o6TDzOQbNGA4NhHHStlNN) | 3:41 |
 | 104 | [Love Me Down](https://open.spotify.com/track/4OnH8z83q2nrDEFBKxOHYq) | [LA'DY](https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E) | [Love Me Down](https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx) | 2:52 |
 | 105 | [komplete riddim](https://open.spotify.com/track/1n4ddwMC0TWGuVSpA4XwK6) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 3:17 |
 | 106 | [EX](https://open.spotify.com/track/0JYdYFMN7KnuPz1yhI18Gy) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E) | [EX](https://open.spotify.com/album/4OnICiEGrETAMC1OLfUgKV) | 2:50 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 270 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 271 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCw2NWY4MzZmNDI4Y2ZiY2VlNTI3NGE0YzA3N2M1ZGUzNzAwMTFlMDU2`
+Snapshot ID: `MCwxNWM0OWJiZjY4ZDVkMjA2NDIxY2UxNzBkM2Q2MmFkZjU2NjgzYWRk`

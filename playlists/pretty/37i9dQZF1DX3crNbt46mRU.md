@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,073 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,086 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 74 | [Designer](https://open.spotify.com/track/0TwZD3SoFnUnNoqPvKQwYW) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Designer](https://open.spotify.com/album/54Fj1fPDw1igBZsHnoVH5w) | 2:38 |
 | 75 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
 | 76 | [cindy](https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [is nothing sacred?](https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd) | 3:21 |
-| 77 | [miami.mp3](https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [miami.mp3](https://open.spotify.com/album/1Gmrl4Z2cEFCmHjTDbxAyw) | 2:50 |
+| 77 | [miami.mp3](https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [miami.mp3](https://open.spotify.com/album/1Gmrl4Z2cEFCmHjTDbxAyw) | 2:46 |
 | 78 | [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 |
 | 79 | [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [PANAMA](https://open.spotify.com/artist/5NbksS9Es9sePly7JndzmK) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 |
 | 80 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Kein Künstler](https://open.spotify.com/track/0l3j8q0jYIMDsOHt2eG7QG) | [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [Kein Künstler](https://open.spotify.com/album/5CMnOMRzAjqTE0KYCCr8S2) | 3:39 |
 | 106 | [PLOMO](https://open.spotify.com/track/3t9UdRTNyegLcFdDaUD3QJ) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [PLOMO](https://open.spotify.com/album/14jXb1MegQ8z6W1bYjPDhR) | 2:41 |
 
-Snapshot ID: `MCw2ZGE3NjVmYTEzODcxZGEyYzE3OTFjYTRjMzEwMjQ0Nzg4ZDQ1OGVm`
+Snapshot ID: `MCw4YTVmY2E4NTlkYjM0NzY4ZmYwYjgzZjA0NDBlYTkzMTViNGNmYmI0`

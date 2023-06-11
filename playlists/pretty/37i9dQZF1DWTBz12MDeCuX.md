@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,239 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,691 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 6 | [California Glow](https://open.spotify.com/track/5coiygbl1xGLz1DnVGzvw9) | [Lyno Nine8](https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh) | [California Glow](https://open.spotify.com/album/0tR7dA9xawWevxnAWzaX2x) | 2:52 |
 | 7 | [TABU.](https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [TABU.](https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom) | 2:15 |
 | 8 | [this is the life tekkno](https://open.spotify.com/track/1V1dRk79rVQr0nJ0FDrJek) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [this is the life tekkno](https://open.spotify.com/album/5IK49bDyazl9hQ2WhYiRhF) | 3:29 |
-| 9 | [miami.mp3](https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [miami.mp3](https://open.spotify.com/album/1Gmrl4Z2cEFCmHjTDbxAyw) | 2:50 |
+| 9 | [miami.mp3](https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [miami.mp3](https://open.spotify.com/album/1Gmrl4Z2cEFCmHjTDbxAyw) | 2:46 |
 | 10 | [Bagchaser Can](https://open.spotify.com/track/5QVOfXj8466NDNQRAqfWaA) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Bagchaser Can](https://open.spotify.com/album/4CAlffALq23RXdG1b7DnpA) | 2:09 |
 | 11 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 12 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 |
 | 100 | [OFFLINE](https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [OFFLINE](https://open.spotify.com/album/0DQBs1u62ihgJjlsISodTb) | 2:18 |
 
-Snapshot ID: `MCxlM2M3NTE4Y2I3Y2U0NTVhMDdmMWFkZGY1NTJmOWMxYjg0NTUzYjgz`
+Snapshot ID: `MCxjOTFjZDZkNGNjMmUzNzQ0MjQyNWEzMGJmM2U5MTYyYjQ3M2Y3N2E3`

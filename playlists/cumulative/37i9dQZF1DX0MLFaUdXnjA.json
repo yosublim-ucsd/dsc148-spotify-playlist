@@ -5643,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Drivin",
+        "url": "https://open.spotify.com/album/3HGSieMmiBu39Zcx3eO5P3"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211171,
+      "name": "Drivin",
+      "url": "https://open.spotify.com/track/6vD7mpMAbMqtUCwcXII7BP"
+    },
+    {
+      "album": {
         "name": "After The Landslide",
         "url": "https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D"
       },
@@ -8665,6 +8683,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Hello Love",
+      "url": "https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq"
       },
@@ -10314,7 +10350,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 173365,
       "name": "I'm So Happy (with BENEE)",
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
@@ -14594,7 +14630,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 209748,
       "name": "Never Let Me Down Again",
       "url": "https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM"

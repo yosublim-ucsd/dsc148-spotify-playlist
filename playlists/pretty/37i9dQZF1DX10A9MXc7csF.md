@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Adrian L Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,361 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,380 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Al Mirar Su Rostro](https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Estoy Ilusionado](https://open.spotify.com/album/3rtTwDzziHswWKw0ozgEY7) | 2:27 |
 | 60 | [NO SIRVIO DE NADA](https://open.spotify.com/track/34kuHt20Ww02atSkfZhAuE) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [NO SIRVIO DE NADA](https://open.spotify.com/album/6hjieQug5xJ8bbEgiCSqu7) | 3:34 |
 
-Snapshot ID: `MCw3ZWQ5NWQzMjhlMTQ5ZWRiMThmYTBhZTk0MjZiN2QzMzhkMDdkOTgz`
+Snapshot ID: `MCw0MjYzNWVmMzA2OWU2YzA3ZTI5MTIzYzI4YTA2MmUyZDdhODkwMDdh`

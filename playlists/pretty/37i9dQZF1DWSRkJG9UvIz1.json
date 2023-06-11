@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 127009,
+  "num_followers": 127054,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2ZkNmFmMDcwZmU4MzBiZTA5NGJiMDA5OWNlNGRjOWVjN2JmYzc4",
+  "snapshot_id": "MCxjYjYwMjkxM2M3NzNhNTQ3Y2QyMjM4OTJlZWJmZDhmOGI5M2ZmMzIz",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Bonita y Triste",
-        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216745,
-      "name": "Bonita y Triste",
-      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "C\u00e9U",
         "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
@@ -785,7 +769,23 @@
       "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
     },
     {
-      "added_at": "2023-06-10 01:12:42",
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Bonita y Triste",
+        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216745,
+      "name": "Bonita y Triste",
+      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
+    },
+    {
+      "added_at": "2023-06-11 02:06:03",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"

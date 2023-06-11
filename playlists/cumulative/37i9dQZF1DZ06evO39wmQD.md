@@ -4,10 +4,11 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-19 songs - 57 min 55 sec
+21 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Born for This](https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:47 | 2023-06-10 |  |
 | [Feels Like Home](https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Feels Like Home](https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh) | 3:32 | 2023-05-02 |  |
 | [Glorious \- Rise Cast Version](https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [Glorious \(Rise Cast Version\)](https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb) | 2:27 | 2023-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2023-05-02 |  |
@@ -27,5 +28,6 @@
 | [Under the Sea \- From "The Little Mermaid Live!"](https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:01 | 2023-05-02 |  |
 | [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 | 2023-05-02 |  |
 | [Whispering \- Rise Cast Version](https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Whispering \(Rise Cast Version\)](https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA) | 3:31 | 2023-05-02 |  |
+| [You Fit Me Perfectly](https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Manny Jacinto](https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 1:28 | 2023-06-10 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

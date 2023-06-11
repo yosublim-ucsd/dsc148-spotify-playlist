@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 284460,
       "name": "Eros",
       "url": "https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 217741,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
@@ -6346,7 +6346,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"
@@ -6490,6 +6490,32 @@
       "duration_ms": 379932,
       "name": "We Are The One",
       "url": "https://open.spotify.com/track/4uz0UYsssS48EJhUoxizFQ"
+    },
+    {
+      "album": {
+        "name": "Play It Down 100",
+        "url": "https://open.spotify.com/album/2QfqR0h7cBP7Q8TjKlb8lU"
+      },
+      "artists": [
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Brillstein",
+          "url": "https://open.spotify.com/artist/1kSRf6gfG0ogCiEszdaHER"
+        },
+        {
+          "name": "DJ Vas",
+          "url": "https://open.spotify.com/artist/1OkLz8h6zrd7o9GPsYj3sU"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379932,
+      "name": "We Are The One",
+      "url": "https://open.spotify.com/track/6DP4GiIbMupB6X9aExpLTT"
     },
     {
       "album": {

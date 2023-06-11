@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Joyner Lucas, City Girls, and more\. Cover: Central Cee & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,477 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,588 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [Celebrate](https://open.spotify.com/track/5XWvMrQu5BOR8t0kI3tMtG) | [Doobie](https://open.spotify.com/artist/1p68N0GuFAjR2IusIJWFk7) | [Doobie](https://open.spotify.com/album/5WP5nwvnUeNNMxq79aFM4A) | 3:16 |
 | 41 | [Reminisce](https://open.spotify.com/track/3KTvXGZIb5K5t7dpJIQqR2) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Reminisce](https://open.spotify.com/album/3lIuEW4UhxuOI1hNUPQ1KQ) | 2:15 |
 | 42 | [Helluva Day](https://open.spotify.com/track/36aqn18EqDHyw0Jg0lumJt) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Helluva Day](https://open.spotify.com/album/7s0PVaHfUzLaETmARjn95I) | 2:12 |
-| 43 | [Kosher Certified](https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Kosher Certified](https://open.spotify.com/album/5votJ1LnPrD68Nei5nISbH) | 2:24 |
+| 43 | [Kosher Certified \(feat\. BLP KOSHER\)](https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Kosher Certified \(feat\. BLP KOSHER\)](https://open.spotify.com/album/5votJ1LnPrD68Nei5nISbH) | 2:24 |
 | 44 | [Spoof \(feat\. Tee Grizzley\)](https://open.spotify.com/track/4t48gom0WM1BgWPmC9e8HV) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Spoof \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6aPqsKGtMyI83bq5AcV8SU) | 2:53 |
 | 45 | [Step Brothers](https://open.spotify.com/track/5MFJD76h5tQRSO77TamGPb) | [24Lik](https://open.spotify.com/artist/5jTzZztvoVQBYTnEXPJA9E), [392 Lil Head](https://open.spotify.com/artist/7FbpYTtE36fY5uxWNzHHup) | [Step Brothers](https://open.spotify.com/album/4WwNdweRb7ytY4U9bqibjb) | 2:35 |
 | 46 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 |
 | 49 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 |
 
-Snapshot ID: `MCwwNTIwMTRkZDk4ODg1ZGY0OTRjYjZjNWI5YTFiYmRlMmRhOTY5NTAx`
+Snapshot ID: `MCw3ODljMDZjNzAwMDUzYmVlMDg0NmU3NmE4MzY1ZmU3NTkzZDcyYTQ4`

@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Sam Smith
 
-3,288 songs - 6 day 19 hr 43 min
+3,289 songs - 6 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Georgia Peach](https://open.spotify.com/track/0TfMitxzrMd2NTLxNXL2Hu) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ \(Extended Version\)](https://open.spotify.com/album/68ht4TaMromCg26Fu3fBB0) | 2:21 | 2023-04-14 | 2023-05-06 |
 | [get clean](https://open.spotify.com/track/39V3VQLac3aORyPvSqG3fb) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [get clean](https://open.spotify.com/album/3f1WstC1D1nSBC0UnYKiyi) | 2:59 | 2023-02-10 | 2023-02-25 |
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-04 | 2022-03-12 |
+| [Get Lost](https://open.spotify.com/track/4tg3FiM0L7BsaYPbV6tVz3) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Get Lost](https://open.spotify.com/album/6YGNCm1Au10LFfhcTw2lGC) | 2:43 | 2023-06-09 |  |
 | [Get Off My](https://open.spotify.com/track/6YmV89ReuPTBeHGelmTbca) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Get Off My](https://open.spotify.com/album/2tsnxK9zuDDuch7E9pSnkj) | 3:04 | 2022-09-30 | 2022-10-22 |
 | [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 | 2022-09-30 | 2022-10-22 |
 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 | 2022-07-15 | 2022-07-30 |

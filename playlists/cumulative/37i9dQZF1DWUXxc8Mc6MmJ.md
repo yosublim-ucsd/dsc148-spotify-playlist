@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-209 songs - 13 hr 34 min
+210 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2022-10-06 | 2023-03-14 |
 | [Cosmos](https://open.spotify.com/track/3Ukg7x6vckORXPCZclCtT9) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5KgAZS5cZuKNrCEtIRfoRh) | 4:13 | 2022-05-11 | 2022-06-03 |
 | [Crazy of you](https://open.spotify.com/track/1EC8QewniFjTg6a2eYB60a) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Master\`s sun OST Part.3](https://open.spotify.com/album/00Gajw59e8BvExy9BJQUIz) | 4:30 | 2022-05-11 | 2022-06-11 |
+| [Day & Night](https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk) | 4:20 | 2023-03-13 |  |
 | [Day & Night](https://open.spotify.com/track/1j5oDtBWVtNoVHMi2n6Fkz) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9) | 4:20 | 2022-05-11 | 2023-06-04 |
 | [Daydream](https://open.spotify.com/track/4ISLCk7g8gyokjgTqX2uZv) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4K82cFbH23jGebAxfsyXO5) | 3:12 | 2022-06-09 | 2022-06-13 |
 | [Dear my spring](https://open.spotify.com/track/5J9vCCPKySYnwkb2IqZZAR) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [You Are My Spring OST Part 7](https://open.spotify.com/album/3cSerZdZOPN969ppSe32zr) | 4:40 | 2022-05-11 | 2022-06-10 |
@@ -191,7 +192,7 @@
 | [We All Lie](https://open.spotify.com/track/6DyXREiYD3B4xgjjsfHfJ9) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [SKY Castle, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/38DD8BlG64VE9rMQIA7Yyx) | 3:15 | 2022-06-24 | 2022-07-02 |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2022-05-11 |  |
 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 | 2022-05-11 |  |
-| [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 | 2022-05-11 |  |
+| [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 | 2022-05-11 | 2023-06-11 |
 | [Who I strolled with](https://open.spotify.com/track/0kbEUq3HukO0q1OKoM9B4W) | [Poetic Narrator](https://open.spotify.com/artist/5LkR25p8z9zlJpkwJP5M1o) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5vFUgTDnoCJCoYzS694bbc) | 3:10 | 2022-06-09 | 2022-07-21 |
 | [Will Be](https://open.spotify.com/track/20ewHOo7c8SMTKSshwtjdZ) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Racket Boys \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1ggqSA0RWm5Dg3YOjC0Tif) | 3:03 | 2022-06-09 | 2022-06-21 |
 | [Wish](https://open.spotify.com/track/04qqfjPWDqrg9q3HTToCfZ) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 | 2022-10-06 | 2023-03-14 |

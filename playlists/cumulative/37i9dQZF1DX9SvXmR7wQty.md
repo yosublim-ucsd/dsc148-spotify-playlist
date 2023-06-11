@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Miro
 
-1,890 songs - 4 day 5 hr 14 min
+1,891 songs - 4 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,8 @@
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-05 |
-| [Entraînement](https://open.spotify.com/track/0Gy0tiXcLQV8vUvBFNMD86) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Entraînement](https://open.spotify.com/album/6GgPeChCZx7cIGevn1V7OE) | 4:11 | 2023-06-09 |  |
+| [Entraînement](https://open.spotify.com/track/0Gy0tiXcLQV8vUvBFNMD86) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Entraînement](https://open.spotify.com/album/6GgPeChCZx7cIGevn1V7OE) | 4:11 | 2023-06-09 | 2023-06-11 |
+| [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-09 |  |
 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 | 2022-05-27 | 2022-06-04 |
 | [Entre nous](https://open.spotify.com/track/5gWuq2KsqZ10JqpKviyVw1) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R), [Jenny Salgado](https://open.spotify.com/artist/3ChZfsl19VV33AKB72HoOu), [Montana](https://open.spotify.com/artist/72FOg1mN9GxCpVbf6dtSM7) | [Entre nous](https://open.spotify.com/album/2u5DSqTx5QmI43CwVMwk6X) | 2:54 | 2022-07-15 | 2022-08-06 |
 | [entre nous](https://open.spotify.com/track/1HX286M45cjv81txoYJVUt) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV) | [entre nous](https://open.spotify.com/album/0MZyfOet8QLXMsHq2bxNMq) | 3:01 | 2023-02-17 | 2023-02-25 |

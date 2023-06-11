@@ -4,7 +4,7 @@
 
 > We hear you.
 
-594 songs - 1 day 5 hr 20 min
+595 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 | 2021-04-02 | 2022-07-29 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-03-29 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 | 2021-04-02 | 2022-07-29 |
+| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 |  |
 | [Lost and Found](https://open.spotify.com/track/1yc79H1wfOV63IKhF7e5OF) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Lost and Found](https://open.spotify.com/album/32jPsEofo7cB4RJ5ggzcJU) | 2:36 | 2021-04-02 | 2022-04-12 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |
@@ -486,7 +487,7 @@
 | [step into my life](https://open.spotify.com/track/1I2FEhKThjn3j9ymy4wJXY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [some boring love stories, pt\. 4](https://open.spotify.com/album/2QoKWEXovTtjD5i0fCTvEd) | 3:22 | 2021-04-02 | 2022-04-17 |
 | [still](https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [still](https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3) | 2:59 | 2023-02-17 | 2023-05-06 |
 | [Stoner](https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Stoner](https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc) | 2:40 | 2021-11-19 |  |
-| [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 | 2023-04-17 |  |
+| [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 | 2023-04-17 | 2023-06-11 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2021-04-02 | 2022-05-20 |
 | [suicide](https://open.spotify.com/track/0AXgLaqOI5w3uLXh4YOsIJ) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [isaac's insects](https://open.spotify.com/album/2HbOTgPrZbFDx84oPQ0RlO) | 4:17 | 2021-04-02 | 2022-07-26 |
 | [summer nights](https://open.spotify.com/track/0o9t52kMt1yNHE0IDmdu43) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [summer nights](https://open.spotify.com/album/4H68kRq5qmXfXzx6TyU3jP) | 2:52 | 2023-04-26 |  |

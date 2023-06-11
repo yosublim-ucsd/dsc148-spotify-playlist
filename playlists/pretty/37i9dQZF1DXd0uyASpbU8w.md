@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=tx7HKXszTPKz14xbc5CrQA">J Hus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,644 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,684 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 45 | [Bengazi Benzani](https://open.spotify.com/track/6vDYPVUG02Alaz92kAh92U) | [TDK Macassette](https://open.spotify.com/artist/0O4y3iGgXMpYCpFpBb6itp), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [Marlode](https://open.spotify.com/artist/4VNiE8MpQXZa4xecJhKn4d), [Owams](https://open.spotify.com/artist/4pGvIsVMlxellXmthvmO7B), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN) | [Rebellion](https://open.spotify.com/album/2JGiYEt7C3ss3PkFrSUQ1u) | 5:42 |
 | 46 | [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 |
 | 47 | [In Love with a Foreigner \(ft\. Young Jonn\)](https://open.spotify.com/track/3jNaRvg73uVjxWOwRp8dGr) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [In Love with a Foreigner \(feat\. Young Jonn\)](https://open.spotify.com/album/66DKDW0UOEd4GVzradG8CH) | 3:14 |
-| 48 | [City Girls Don't Cry](https://open.spotify.com/track/3gf4lv2cb4JSYQZRyqGlb7) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Make It Home \(Explicit\)](https://open.spotify.com/album/3qyU7rkq5j6tfo3WSN19OF) | 3:13 |
+| 48 | [City Girls Don't Cry](https://open.spotify.com/track/3gf4lv2cb4JSYQZRyqGlb7) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT), [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Make It Home \(Explicit\)](https://open.spotify.com/album/3qyU7rkq5j6tfo3WSN19OF) | 3:13 |
 | 49 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 |
 | 50 | [I Lay](https://open.spotify.com/track/7mENpuXFCcZ68NNqaZHxPW) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay](https://open.spotify.com/album/6tpBTjH8adtHgfx0hdPlFL) | 2:22 |
 | 51 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 59 | [No Other Love](https://open.spotify.com/track/3Cv4fILQBIlDpGc548ZyBm) | [David Watkyns](https://open.spotify.com/artist/033aqXGhGeMNniint8kvoh) | [No Other Love](https://open.spotify.com/album/0TfavVcux41W2yOzisSbfT) | 3:11 |
 | 60 | [Hidden Stars](https://open.spotify.com/track/2LjIst0MFxVFMS5mxsUycd) | [Rowan Stuart](https://open.spotify.com/artist/2Vh3ok1AQZa05LZInly68a) | [Hidden Stars](https://open.spotify.com/album/5YK1VxnEiDgsqrvqsVcXhl) | 3:35 |
 
-Snapshot ID: `MCxjNTc1Y2I3YWY1NWQ4Yjg5YzNjMGE3NTY5OTY3NzhhZTBmNWIxMDZj`
+Snapshot ID: `MCw0YTBiODFhODY5NjZkOGJkY2IxMjE4ZTVlOGYyZDk3NDBjMTIzNjlk`

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-498 songs - 1 day 4 hr 51 min
+499 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Power Lines](https://open.spotify.com/track/7HewWDoPAmqmmsMBvRUEAg) | [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [Power Lines](https://open.spotify.com/album/2sXlWeDGBlCZ5nJjkiEZH7) | 3:48 | 2022-05-06 | 2022-08-06 |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-29 | 2023-02-18 |
 | [Prisoner](https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9) | [Prisoner](https://open.spotify.com/album/0DU6isn220KiymRiShdyfm) | 4:07 | 2022-04-29 |  |
-| [Profit](https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV) | 2:35 | 2023-04-21 |  |
+| [Profit](https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV) | 2:35 | 2023-04-21 | 2023-06-11 |
 | [Purity](https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Purity](https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY) | 3:55 | 2023-02-05 | 2023-05-23 |
 | [Puzzle Box](https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Puzzle Box](https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M) | 3:32 | 2022-03-04 | 2023-02-25 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-07 | 2023-04-01 |
@@ -390,6 +390,7 @@
 | [Shadows](https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Iván Reich](https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [Slaughterhouse](https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf) | 4:44 | 2021-12-17 | 2022-05-07 |
 | [Shadows](https://open.spotify.com/track/408n6XDh8vLFmVZ5zvzMwm) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Shadows](https://open.spotify.com/album/1HPGYK93E0QjMfOUNN7yhE) | 4:30 | 2021-12-17 | 2022-02-19 |
 | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU) | 3:05 | 2021-12-17 | 2023-01-04 |
+| [Shady Intentions \(feat\. Tori Levett\) \- REAPER Remix](https://open.spotify.com/track/7HZZIXO3qMc3vBJj4rCWV6) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Shady Intentions \(feat\. Tori Levett\) \[REAPER Remix\]](https://open.spotify.com/album/6EQarzgZfbz5we5wq5Ncao) | 3:08 | 2023-06-09 |  |
 | [Shattered](https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Gem World EP](https://open.spotify.com/album/70L32RiLoB85mb9Y05fDTq) | 4:00 | 2021-12-17 | 2022-03-12 |
 | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp) | 4:24 | 2021-12-17 | 2022-03-12 |
 | [Sherwood Forest](https://open.spotify.com/track/4KeXSkSrAKPARxAAZWLfLk) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [Moon Stone](https://open.spotify.com/album/4PRGS4nMmGVSC06uMohVoj) | 3:20 | 2022-07-01 | 2023-04-23 |

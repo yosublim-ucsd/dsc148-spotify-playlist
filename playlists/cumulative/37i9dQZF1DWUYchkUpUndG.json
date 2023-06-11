@@ -136,10 +136,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 390924,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3ScFw4HM820FIsQmKAqzDt"
+    },
+    {
+      "album": {
+        "name": "Rejoice Again",
+        "url": "https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390924,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/6LjrkA4Qs96ZcdlC6sF1jM"
     },
     {
       "album": {
@@ -2088,10 +2110,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 295174,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/5vy5AVFTef17Yt4dCTUc7s"
+    },
+    {
+      "album": {
+        "name": "Rejoice Again",
+        "url": "https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295174,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d"
     },
     {
       "album": {

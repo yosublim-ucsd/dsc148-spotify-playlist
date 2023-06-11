@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,324 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,333 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 35 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 |
 | 36 | [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 |
 | 37 | [Ai No Field](https://open.spotify.com/track/2wRFMxS3HFrp6NmeBSkPdT) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [Brain Powerd \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9) | 4:21 |
-| 38 | [月の繭](https://open.spotify.com/track/6msxucVD54HLGHBjJX7o5z) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [月の繭](https://open.spotify.com/album/6n0IhlU2aXm6dyaFk3HgIs) | 5:38 |
+| 38 | [Tsuki No Mayu](https://open.spotify.com/track/2GQRL3sE4eYy1dzJTI2AUF) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [TURN A GUNDAM Original Motion Picture Soundtrack Ⅲ \- Cocoa](https://open.spotify.com/album/7x9edL2oWovJZsjIJUdRbz) | 5:38 |
 | 39 | [Shine \-未来へかざす火のように\-](https://open.spotify.com/track/4yTLOJVd24fgt20yt0GyX3) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [What I am](https://open.spotify.com/album/4IGFw3TSI042ngF2gIZpuR) | 4:15 |
 | 40 | [愛してるのに Piano version](https://open.spotify.com/track/61SOOWxYCc8WHiFOhBU7Tl) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [ICTL no.2](https://open.spotify.com/album/61ynUPJZ4xCmxWPiNf7wNn) | 3:23 |
 | 41 | [恵みの雨](https://open.spotify.com/track/4OeAsBUmDCMwmLxG5fD1LJ) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [カッシーニ](https://open.spotify.com/album/6tquAUs8bW10pP2xLggb5f) | 5:43 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCwwZjFhNGUwNGQyZTk4MGM4MGI4ZWU5OGVhODBkZGYyYWM4Njc5OGYw`
+Snapshot ID: `MCw4YzZkODM2Y2FjMzE5ZDhmYTQxYzlmNzBmNzhkMjY3YjI4M2Y1YTM2`

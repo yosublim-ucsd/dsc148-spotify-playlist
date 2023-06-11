@@ -1,15 +1,15 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 192916,
+  "num_followers": 193211,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDA2NzM2Yzk4OTMyYjBkOTlmN2U4OGVkZDJmNDNlMWU1NGM1Mzdi",
+  "snapshot_id": "MCw2ZWY2MmZhZGViYTY4YjA1ODJlMGRhMjY2OWFkMTk4ODdhZDAyMzMx",
   "tracks": [
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-10 10:17:11",
       "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
@@ -18,11 +18,15 @@
         {
           "name": "DYSTINCT",
           "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
         }
       ],
-      "duration_ms": 156552,
-      "name": "Tititi",
-      "url": "https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX"
+      "duration_ms": 132123,
+      "name": "Gana (feat. Hatim Ammor)",
+      "url": "https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP"
     },
     {
       "added_at": "2023-06-08 23:00:00",

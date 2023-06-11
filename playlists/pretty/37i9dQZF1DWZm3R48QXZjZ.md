@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 
 > Rival Consoles' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,758 likes - 35 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,805 likes - 35 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 | 34 | [For](https://open.spotify.com/track/0IDI8ZcmxV1HRaYmWKB85F) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Juno Reworked](https://open.spotify.com/album/7xD39MzGNWnNllzUKEwr8o) | 5:55 |
 | 35 | [Waves Crashing on Distant Shores of Time](https://open.spotify.com/track/2lpkRgBi1D7juwRLXs5xhR) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Black Mirror: San Junipero \(Original Score\)](https://open.spotify.com/album/7HDVDHR93EkfLnt2nZ4bjy) | 5:11 |
 
-Snapshot ID: `MCw3NTUyNmU2NjMyZmMzYzYyM2RmNTM0OTY2NWIzNWI4NTVhODc4Njli`
+Snapshot ID: `MCw3M2ZlNWQ4MWY3YTMzZDQ1Nzg4ZDg3OGZkZDVkZmU4MTA5YzE2YjI4`

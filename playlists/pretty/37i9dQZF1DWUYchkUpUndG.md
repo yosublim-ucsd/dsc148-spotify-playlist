@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"> Theresa Phondo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,856 likes - 59 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 59 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 15 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 16 | [Mine](https://open.spotify.com/track/2XFT7XtqSG0lXrBT4aUxKb) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Mine](https://open.spotify.com/album/5WDozjL7F7vkVByckbjUeO) | 2:45 |
 | 17 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 |
-| 18 | [All My Days](https://open.spotify.com/track/3ScFw4HM820FIsQmKAqzDt) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 6:30 |
+| 18 | [All My Days](https://open.spotify.com/track/6LjrkA4Qs96ZcdlC6sF1jM) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 6:30 |
 | 19 | [Dwelling in Your Presence](https://open.spotify.com/track/2c4E6R4mcCKQdjrELBpdVO) | [Douye Ajeh](https://open.spotify.com/artist/2fgSJzayamYbAbx71R2T6V) | [Dwelling in Your Presence](https://open.spotify.com/album/2AYuDNRVK84oGClYMmxX4B) | 3:49 |
 | 20 | [AMEN](https://open.spotify.com/track/5te8eGMqNTYJdqzKGveC4Q) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [AMEN](https://open.spotify.com/album/5Rs6ZVBFj6M80hbzXg6Dis) | 3:39 |
 | 21 | [Alhamdulilah](https://open.spotify.com/track/3EpgILRd9q6RtQfhw76utI) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk) | [Alhamdulilah](https://open.spotify.com/album/4ykKqBt5iHCfHifqmZzF12) | 2:36 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 24 | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne) | [Symphonic Music](https://open.spotify.com/artist/1RUlJvmnDSIJLQDOKyzm0y), [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/album/67FBxB1VchICOf1vU63kql) | 4:48 |
 | 25 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 |
 | 26 | [Gloire à Toi \- Live Version](https://open.spotify.com/track/285BepTl7lXZ9V3JDxHlE8) | [Mila Malonga Kimbuini](https://open.spotify.com/artist/5OI75M1s38WNeIniYWRvjB), [MilaMi](https://open.spotify.com/artist/6Dzb0vUVjZsGEVw6b5bl71) | [Gloire À Toi](https://open.spotify.com/album/1vBcMbOscqDkl017vSODDv) | 4:56 |
-| 27 | [Thank You Lord](https://open.spotify.com/track/5vy5AVFTef17Yt4dCTUc7s) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 4:55 |
+| 27 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 |
 | 28 | [Down at Your feet](https://open.spotify.com/track/4t8RHl2tUTWQZv9GnCJJ1J) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH), [latest nigerian gospel](https://open.spotify.com/artist/6Eq7YJFYG761RR2CMYaK0q), [latest gospel praise worship africa](https://open.spotify.com/artist/6Of45vsFm04lmdXdpAt6zF), [gospel praise worship](https://open.spotify.com/artist/5NXZE9S3dbECasmIxwbgxU), [Latest nigerian release](https://open.spotify.com/artist/2Od1DeB9DnAEZvgd1ZwSij) | [Down at Your feet](https://open.spotify.com/album/058xIQbGJFxSG83PpAFs34) | 2:36 |
 | 29 | [Amandla](https://open.spotify.com/track/2cfsyu1dekGGRmQ5UAdqx5) | [Frank Apollo](https://open.spotify.com/artist/6mErHUDhtgMv8k7mvatV1E), [Ginger Nkosi](https://open.spotify.com/artist/5DCRdpg10wtsIw9RBGknz0) | [Amandla](https://open.spotify.com/album/27WitI12rkBtSquZjHjIeK) | 3:35 |
 | 30 | [WONDER GOD](https://open.spotify.com/track/3W3sPDvew7WQKtHb58exKP) | [Paul Opeyemi](https://open.spotify.com/artist/3zpWH3faND9t88XUdzgtWG) | [WONDER GOD](https://open.spotify.com/album/7tHK4DjQXpjgmFUstTsHka) | 3:32 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
 | 59 | [Your Glory We Need](https://open.spotify.com/track/3g7cqfLQmPfnd1PfdJnaRf) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6) | [Your Glory We Need](https://open.spotify.com/album/02Brf3FJ0QA3gyeM83uBnH) | 7:57 |
 
-Snapshot ID: `MCxhY2FkMDRmNjJlOGUwNDlmNzM2MmVkNDNhNDdlZDY2YzhmY2ZkNjAz`
+Snapshot ID: `MCw3OGEyOTI2ODdhMmNlOWEzNWI4NjZjZjA5MzM1NzUzMmRmMzdjN2Ni`

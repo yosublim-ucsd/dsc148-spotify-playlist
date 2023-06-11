@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,022 likes - 611 songs - 1 day 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,570 likes - 611 songs - 1 day 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -620,4 +620,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 610 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 |
 | 611 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 |
 
-Snapshot ID: `MCxkYzEzNmY4ODIyNjQzMDM5NWJmODM2MjA5NmY0Y2NhYjEyZGUzZDJl`
+Snapshot ID: `MCwwYTFjMWQ3YjYyZjBlMzYwNzUyOTM0MGE5NWU4ZDg0NzUwOTg5ZDA2`

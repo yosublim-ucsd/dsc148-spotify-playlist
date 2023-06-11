@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 81 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 |
 | 82 | [On My Mind](https://open.spotify.com/track/4dCkLZZGIbwgI5zLtL0BQu) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Big Blue](https://open.spotify.com/album/5BtoLJIIcW6TiQbGAxVSub) | 4:20 |
 | 83 | [Halfway Tree](https://open.spotify.com/track/2pNvJ2QbKCVHXO6slKGj5e) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:29 |
-| 84 | [Quiet](https://open.spotify.com/track/5pI0YeepuVUHaZFUd3bbNe) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard To Be Human](https://open.spotify.com/album/56cngKtxfa01LqaVqaEj3p) | 4:01 |
+| 84 | [Quiet](https://open.spotify.com/track/2jqoFe4y2yY5Ts47HJozDm) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard to Be Human](https://open.spotify.com/album/1vnZT6upil8XVg94ejhGk3) | 4:01 |
 | 85 | [War Is Over \(Live At Alix Goolden Hall\)](https://open.spotify.com/track/11URjsHPX6AcLKuudTBFot) | [Northcote](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) | [Let Me Roar \(Deluxe\)](https://open.spotify.com/album/0M0Sx4dtPtLPRaJdg0ybGt) | 3:21 |
 | 86 | [Black Feather](https://open.spotify.com/track/3ClzKeVBh3Aggb9xaA60YO) | [Greg Keelor](https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE) | [Share the Love](https://open.spotify.com/album/5MKFztdFHD9ECB8CkpKDkG) | 3:21 |
 | 87 | [Waiting](https://open.spotify.com/track/7r11jKPVH6VMMZrq2weXl0) | [Alyson McNamara](https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby) | [Waiting](https://open.spotify.com/album/23c8D4UMVMs5H4zvDkhwjJ) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCxkNDU3NTQ3MmI1MmFhM2EyNjU0YjBmNGY4ZmU1MjQ2OTY3YmVkYzNm`
+Snapshot ID: `MCwxNTllOTMzMjA4ZDExMjEyYWE2ZDExMzU3OWRkMDE1YTRkZGU1Y2M0`

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56402,
+  "num_followers": 56490,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzMxMTM0YTM5ZDI4ZGEyZGIxOTRlYzg0ZDAyNDYwNmU2YzAyYjgx",
+  "snapshot_id": "MCw2ZmY1MjM3OWY3YTY0M2I5MzMwNDk2NGRjM2YzYmExZGNiNTBmZDUx",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Full Extreme",
         "url": "https://open.spotify.com/album/5DvUeZrPvke7dtSJThioeA"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 232500,
       "name": "Full Extreme",
       "url": "https://open.spotify.com/track/056rMI3dZnxayijd58GaNf"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca758 Vol. 3",
+        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 205187,
+      "name": "Your Body Working",
+      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca 101 Vol. 1",
         "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 292533,
       "name": "Hold Ya Bam Bam",
       "url": "https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Debble-Ish Rage",
-        "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Get on Bad",
-      "url": "https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -699,34 +699,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca758 Vol. 3",
-        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
+        "name": "Debble-Ish Rage",
+        "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
         }
       ],
-      "duration_ms": 205187,
-      "name": "Your Body Working",
-      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Mr. Dale",
-          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Soka Junkie",
-      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
+      "duration_ms": 190853,
+      "name": "Get on Bad",
+      "url": "https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -743,6 +727,22 @@
       "duration_ms": 347600,
       "name": "Gee Me the Ting",
       "url": "https://open.spotify.com/track/7wls4oEjXyIU7Rmzw392T6"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dale",
+          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Soka Junkie",
+      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02"
-      },
-      "artists": [
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Time to Wine",
-      "url": "https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02"
+      },
+      "artists": [
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Time to Wine",
+      "url": "https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Sparrow's Dance Party",
-        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
-        }
-      ],
-      "duration_ms": 370933,
-      "name": "Congo Man",
-      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca for De World",
         "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 317857,
       "name": "Movin To De Left",
       "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Sparrow's Dance Party",
+        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
+        }
+      ],
+      "duration_ms": 370933,
+      "name": "Congo Man",
+      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Bassman",
-      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Sparrow's Dance Party",
         "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
       "artists": [
         {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
         }
       ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (We Love De)",
-      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
+      "duration_ms": 305388,
+      "name": "Bassman",
+      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1155,6 +1139,22 @@
       "duration_ms": 305040,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Lovey",
+          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Bitein Incex (We Love De)",
+      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Calypsoca 2002",
-        "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie McIntosh",
-          "url": "https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH"
-        }
-      ],
-      "duration_ms": 271418,
-      "name": "Bitin Incex",
-      "url": "https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+        "name": "Calypsoca 2002",
+        "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
       },
       "artists": [
         {
-          "name": "Blue Ventures Feat. Sanell Dampster",
-          "url": "https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k"
+          "name": "Ronnie McIntosh",
+          "url": "https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH"
         }
       ],
-      "duration_ms": 231040,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP"
+      "duration_ms": 271418,
+      "name": "Bitin Incex",
+      "url": "https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1271,6 +1255,22 @@
       "duration_ms": 292826,
       "name": "Ragga Poom Poom",
       "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Blue Ventures Feat. Sanell Dampster",
+          "url": "https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP"
     },
     {
       "added_at": "2023-05-15 08:13:13",

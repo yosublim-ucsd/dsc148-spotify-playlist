@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NAM23; thiết kế: Isu Kim
 
-1,006 songs - 2 day 11 hr 16 min
+1,007 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,8 @@
 | [Treasury](https://open.spotify.com/track/27sWhYLOt2zBIfPLthVrh2) | [KHOANORON](https://open.spotify.com/artist/5SWCxs6dmoJxmZr77ibOhZ) | [Treasury](https://open.spotify.com/album/3CgdNsf3i6eGkcreRrOdJ7) | 3:52 | 2022-10-26 | 2022-11-18 |
 | [Tri Kỷ](https://open.spotify.com/track/4RxqA5YDopOIuBfk6426n9) | [LT Midside](https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL) | [Tri Kỷ](https://open.spotify.com/album/45p5URyPipuzapUUXpD5rP) | 2:44 | 2022-04-15 | 2022-06-22 |
 | [Trong Mơ](https://open.spotify.com/track/0dB37hMEPsmepXDGbi1Fpc) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Trong Mơ](https://open.spotify.com/album/4o5WmaUAMlYajQQE9IXFwI) | 3:59 | 2022-09-22 | 2022-10-05 |
-| [Trong Ánh Mắt Em](https://open.spotify.com/track/23f4BR4ksLuXtVgtW1lLiV) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Trong Ánh Mắt Em](https://open.spotify.com/album/6CKi91t978T0tiQRZllfar) | 3:39 | 2023-04-26 |  |
+| [Trong Ánh Mắt Em](https://open.spotify.com/track/10fkdO2Mw8BjtPw2U2zzkW) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Trong Ánh Mắt Em](https://open.spotify.com/album/0mnoadEYpMoEqsemfM7cnc) | 3:39 | 2023-06-08 |  |
+| [Trong Ánh Mắt Em](https://open.spotify.com/track/23f4BR4ksLuXtVgtW1lLiV) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Trong Ánh Mắt Em](https://open.spotify.com/album/6CKi91t978T0tiQRZllfar) | 3:39 | 2023-04-26 | 2023-06-11 |
 | [Trong Đêm Tối](https://open.spotify.com/track/0wLIVj72V9LDCYnqDfkhU0) | [HANA](https://open.spotify.com/artist/27XJWR2pMOiXrQ5TOpRU6J), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Trong Đêm Tối](https://open.spotify.com/album/661ZRyHqvdoNlE3JoRRcqd) | 3:22 | 2023-03-09 | 2023-03-30 |
 | [Trong Đó Có Chúng Ta](https://open.spotify.com/track/1fAnSaNVThueS3Ur6icOXM) | [BAE Khánh Huyền](https://open.spotify.com/artist/5Zn9xxkS6TJ92WrF8yHG1Q), [BAE quynhanh](https://open.spotify.com/artist/0SqMQf7FwNMLAODCLYbMK2) | [Trong Đó Có Chúng Ta](https://open.spotify.com/album/1KS5QZYvBNpIAu5Ffv1mWl) | 3:30 | 2022-03-17 | 2022-06-10 |
 | [Try My Best](https://open.spotify.com/track/3pFKoMu90rGrtB2kNmyKlW) | [Lil Roff](https://open.spotify.com/artist/0bwsiwbc8kwfLRYnsqxC4k), [Dewie](https://open.spotify.com/artist/7evr8PSu7d4TO6NcC0sS26) | [Try My Best](https://open.spotify.com/album/3UEi7fCdc2BMWRCMwSot6v) | 2:56 | 2022-10-06 | 2022-11-01 |

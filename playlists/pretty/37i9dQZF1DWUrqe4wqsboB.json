@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 241,
+  "num_followers": 404,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Q0MTM5ZmM2NjQ4YWU4ZjkyYzMwNTI1MWExNmUyZDA5NjhmM2Ri",
+  "snapshot_id": "MCw2MGE1ZjA0NjE0ZDM0YmIxNGQyNDRmNWI4NGI1NWQwNTA0MjM4NzNk",
   "tracks": [
     {
       "added_at": "2023-06-08 20:50:02",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-08 20:50:02",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-06-08 20:50:02",
-      "album": {
         "name": "Tu Mundo",
         "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 234041,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2023-06-08 20:50:02",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-06-08 20:50:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-08 20:50:02",
       "album": {
-        "name": "Watersport",
-        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Watersport",
-      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
-    },
-    {
-      "added_at": "2023-06-08 20:50:02",
-      "album": {
         "name": "Circuito por Mil\u00e1n",
         "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 194707,
       "name": "Circuito por Mil\u00e1n",
       "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
+    },
+    {
+      "added_at": "2023-06-08 20:50:02",
+      "album": {
+        "name": "Watersport",
+        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Watersport",
+      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
     },
     {
       "added_at": "2023-06-08 20:50:02",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-08 20:50:02",
       "album": {
-        "name": "Badtrip",
-        "url": "https://open.spotify.com/album/1GRvgM1ftnBQdZCLEBhWop"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7665iaCT1UHxhIR62sE0AJ"
-    },
-    {
-      "added_at": "2023-06-08 20:50:02",
-      "album": {
         "name": "Liberado",
         "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 200022,
       "name": "TQD",
       "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"
+    },
+    {
+      "added_at": "2023-06-08 20:50:02",
+      "album": {
+        "name": "Badtrip",
+        "url": "https://open.spotify.com/album/1GRvgM1ftnBQdZCLEBhWop"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7665iaCT1UHxhIR62sE0AJ"
     },
     {
       "added_at": "2023-06-08 20:50:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-08 20:50:02",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/41zIUQ0zbNnO3uoRJzxm9S"
-      },
-      "artists": [
-        {
-          "name": "Los Berets",
-          "url": "https://open.spotify.com/artist/7seVD4zALd4VgPn2G7VWRM"
-        }
-      ],
-      "duration_ms": 129156,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx"
-    },
-    {
-      "added_at": "2023-06-08 20:50:02",
-      "album": {
         "name": "Auu",
         "url": "https://open.spotify.com/album/5FFFPr7Jy5dVDhxdr77pBo"
       },
@@ -835,18 +819,38 @@
     {
       "added_at": "2023-06-08 20:50:02",
       "album": {
-        "name": "Huye",
-        "url": "https://open.spotify.com/album/0PMFPm6A15sJGUbzS15SKD"
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/41zIUQ0zbNnO3uoRJzxm9S"
       },
       "artists": [
         {
-          "name": "Nutopia",
-          "url": "https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP"
+          "name": "Los Berets",
+          "url": "https://open.spotify.com/artist/7seVD4zALd4VgPn2G7VWRM"
         }
       ],
-      "duration_ms": 247552,
-      "name": "Fluorescente",
-      "url": "https://open.spotify.com/track/5jvq9Nn9CUnRckxHjCezzA"
+      "duration_ms": 129156,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx"
+    },
+    {
+      "added_at": "2023-06-08 20:50:02",
+      "album": {
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        },
+        {
+          "name": "Manu Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "Aguadilla",
+      "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
     }
   ],
   "unique_name": "Indie Boricua",

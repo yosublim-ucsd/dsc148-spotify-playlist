@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Julais.
 
-138 songs - 8 hr 20 min
+139 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [NO TE KIERO OLVIDAR](https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:28 | 2023-03-17 |  |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 |  |
 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 |  |
+| [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 |  |
 | [Ojalá Fuéramos Amigos](https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Dime Algo \(bonito\)](https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL) | 3:00 | 2023-03-17 |  |
 | [Pantano](https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA) | [Lalalas](https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi) | [Burbuja](https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB) | 3:35 | 2023-03-17 | 2023-05-16 |
 | [Perder Algo de Tiempo](https://open.spotify.com/track/3sWajgDFIB55nviApDU60D) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [Juan Campodonico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Perder Algo de Tiempo](https://open.spotify.com/album/2MwhdcY4yYtNpALVYx4l1c) | 3:11 | 2023-03-17 |  |
@@ -118,7 +119,7 @@
 | [Sentir](https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Sentir](https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH) | 4:51 | 2023-03-17 | 2023-06-04 |
 | [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 | 2023-05-27 |
 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 | 2023-05-26 |  |
-| [Siempre Es Igual](https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv) | [Ambos dos](https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz), [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Siempre Es Igual](https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT) | 3:29 | 2023-04-07 |  |
+| [Siempre Es Igual](https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv) | [Ambos dos](https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz), [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Siempre Es Igual](https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT) | 3:29 | 2023-04-07 | 2023-06-11 |
 | [SIN TITULOS \(feat\. Ill Quentin\)](https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [NO MAS PROMESAS](https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw) | 2:53 | 2023-03-17 |  |
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 |  |
 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 | 2023-04-14 |  |

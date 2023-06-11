@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,534 songs - 5 day 15 hr 42 min
+3,536 songs - 5 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Blueboot](https://open.spotify.com/track/0qBrD9ML5qo5R8rWtJXOeE) | [IVE](https://open.spotify.com/artist/0ZwkOkCk6Ow2Mayne9rkPd) | [Blueboot](https://open.spotify.com/album/0AWJ41nvJCDTFKWnYLbwVf) | 1:19 | 2020-07-31 | 2020-12-11 |
 | [Blueshift](https://open.spotify.com/track/2t1FMBG99dDUK5PEMjtMIE) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Blueshift / Relaxurmind](https://open.spotify.com/album/4qZneHwwwb2i5LyN0YvsSD) | 1:59 | 2020-12-11 | 2021-01-29 |
 | [blumen](https://open.spotify.com/track/6DSXfDiWjkjQ46Gp2BKmym) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [lakeside](https://open.spotify.com/album/6bQlR8dXyZp4nXUbdAfPi5) | 2:55 | 2019-07-26 | 2020-01-07 |
+| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-06-01 |  |
 | [Blurred](https://open.spotify.com/track/7eSSlyueH24ku1RwKmKpcD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Blurred](https://open.spotify.com/album/4RJqaf9OqJo0lgnY0dNBgC) | 2:53 | 2022-11-10 | 2022-11-18 |
 | [Blurred Tales](https://open.spotify.com/track/0l2hEwqU2iclUklGoLI84F) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Blurred Tales](https://open.spotify.com/album/2Npqp2AyrDKwRZYxO2CGfZ) | 2:38 | 2022-06-09 | 2022-06-17 |
 | [Blvd](https://open.spotify.com/track/0ekLmITcw6TWXHm8MZq0g9) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Blvd](https://open.spotify.com/album/2ZaCPz6STgVNmn19GNtC6u) | 1:39 | 2021-09-18 | 2021-11-19 |
@@ -524,7 +525,7 @@
 | [Cheeky Peak](https://open.spotify.com/track/1b4vtzaODrPqi7o055GNro) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cheeky Peak](https://open.spotify.com/album/7yVQdlmKKWpt5XBbUr4781) | 1:31 | 2021-02-07 | 2021-04-23 |
 | [Cheeky Steve](https://open.spotify.com/track/4ZTVECvBdO9XU4tNhQcgQ0) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Cheeky Steve](https://open.spotify.com/album/4gfqyJDXiisIqxpm1t1eaV) | 2:27 | 2019-11-06 | 2020-04-07 |
 | [Cheer Up](https://open.spotify.com/track/0CVT6rpAdkDm4NKLdv7E9g) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Cheer Up](https://open.spotify.com/album/3W1TKjeKQawzmVlBGr9eOr) | 1:31 | 2022-03-10 | 2022-04-21 |
-| [Cheers](https://open.spotify.com/track/1EumIHiuUuZH3ZHzkoZsow) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Cheers](https://open.spotify.com/album/6FJ0mGI9TdHluygH9RcvlD) | 3:07 | 2023-06-01 |  |
+| [Cheers](https://open.spotify.com/track/1EumIHiuUuZH3ZHzkoZsow) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Cheers](https://open.spotify.com/album/6FJ0mGI9TdHluygH9RcvlD) | 3:07 | 2023-06-01 | 2023-06-11 |
 | [cheesy zelda](https://open.spotify.com/track/2xrxAWTXk4OQ6H8qBQPTVB) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [cheesy zelda](https://open.spotify.com/album/1zOX0bfjs7up6gpevkl7aq) | 2:38 | 2022-08-11 |  |
 | [Chef's Special](https://open.spotify.com/track/600urY4NaWoTnxBCiLtnTC) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chef's Special](https://open.spotify.com/album/7L0C8hrn4k6LHiw4DzBtgd) | 2:48 | 2022-02-11 | 2022-08-25 |
 | [Cherish](https://open.spotify.com/track/78N0RtQlSBjA33HzjQkSgV) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Cherish](https://open.spotify.com/album/3kncUh59wwNt2F2SCLAGvQ) | 1:51 | 2021-01-29 | 2021-05-14 |
@@ -1026,7 +1027,7 @@
 | [Flowow](https://open.spotify.com/track/7lY2zovuTeMCvUvk07Z0sG) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Flowow](https://open.spotify.com/album/08Ga0oeERhkVviuU1PML0I) | 1:55 | 2022-12-22 |  |
 | [Flowstate](https://open.spotify.com/track/3en1UeswrAkiqpJjy0yqM5) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Flowstate](https://open.spotify.com/album/26Xh03TQE0jvRP0mhqYAR6) | 1:52 | 2020-10-23 | 2021-05-21 |
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
-| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
+| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 | 2023-06-11 |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
 | [Fly Shit 2](https://open.spotify.com/track/253gLNG4TlHxP5Tgal2vzR) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Fly Shit 2](https://open.spotify.com/album/7shx3fdkpfpOqmgtssqu5I) | 4:03 | 2021-06-02 | 2021-07-16 |
 | [Flying Lessons](https://open.spotify.com/track/66cDR3rvUeDDt38UOkeJBa) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Flying Lessons](https://open.spotify.com/album/21RplqQnRza3oaZhjStyc4) | 2:39 | 2021-02-08 | 2021-03-06 |
@@ -3113,6 +3114,7 @@
 | [thinking of you](https://open.spotify.com/track/2pZi2b9U8r20AF0Cf3hi2D) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Inaudible](https://open.spotify.com/album/6mOgPOHFf2JTZBqpIxBMBd) | 2:11 | 2019-05-26\* | 2019-06-15 |
 | [Third Eye](https://open.spotify.com/track/5mT2njV91XfljTwo3smi2u) | [lazy oscar](https://open.spotify.com/artist/4r6mPOhHkANNhAi65EHsue), [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [Third Eye](https://open.spotify.com/album/782CuXoZekSiI3mrNuyjO4) | 2:02 | 2021-08-27 | 2021-12-24 |
 | [This Place](https://open.spotify.com/track/6U0RWfwcsAjUosqiOwhjDm) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [This Place](https://open.spotify.com/album/1PiDjdq5F3tXwqquoQkdJ7) | 2:21 | 2020-06-24 | 2021-03-26 |
+| [Thoughts](https://open.spotify.com/track/6n8UguD1WiIW5HqMo9CvFT) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Thoughts](https://open.spotify.com/album/2IdjvT2dvDLZ9uZFuEky04) | 2:07 | 2023-06-01 |  |
 | [Thoughts of Clouds](https://open.spotify.com/track/0HvytyhVaAnNA3rgVPZN1i) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Thoughts of Clouds](https://open.spotify.com/album/3kVJK2FVXrdDbbibOEeTTu) | 2:49 | 2020-08-30 | 2020-12-18 |
 | [Three](https://open.spotify.com/track/0AJkrcFp4eYP0GkOClJms8) | [eau n!ce](https://open.spotify.com/artist/6gEoWjjfipoKcIKmYv78E2) | [Three](https://open.spotify.com/album/1DiIYaLJldwojoq4nyfB75) | 2:10 | 2020-10-16 | 2021-05-13 |
 | [Three Sixty \- Beat Edit](https://open.spotify.com/track/4jOXTl1l7Tck7f7J9VQNvi) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Three Sixty \(Beat Edit\)](https://open.spotify.com/album/2Ppsw97JAr7N9feCBixTJs) | 2:16 | 2021-10-22 | 2021-12-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。6月6日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,217 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,284 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Only Girl](https://open.spotify.com/track/5lj9Q84FMZ4bgUgsGXPFsK) | [tabehiro](https://open.spotify.com/artist/6cpY1gxeuged4kIxdA9KYH) | [Only Girl](https://open.spotify.com/album/6Z6ZoTDxOrOak14NkUwBhj) | 3:10 |
 | 50 | [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 |
 
-Snapshot ID: `MCwxMWJiMzk3OTYwMjg1ZTQ4YTZkYzYyMTg3ZWE0NDY2ZTZhZmJkMTc1`
+Snapshot ID: `MCxkYzUwNGI3Nzg5NTFhYjY3ZDk5NWVkMzViYWM0YWJlZTQ2MGZkMTFh`

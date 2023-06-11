@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,169 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,204 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Lie to Myself](https://open.spotify.com/track/2XcnBCvuaM5KGHTKTGe6bI) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Lie to Myself](https://open.spotify.com/album/4eXaZaeSGni30Rz3jlrJYu) | 4:27 |
 | 100 | [Grow Up](https://open.spotify.com/track/29kOZ6piHRtNdaOpctbhBD) | [Melkin](https://open.spotify.com/artist/2SoZ1ykUvFzJLwRsMWUXTa) | [Grow Up](https://open.spotify.com/album/6W65VOxWYO8THSIy582k7n) | 2:38 |
 
-Snapshot ID: `MCw4ZDNiMWQ5MDg3YWUyMzJjYWRkZTMwMmNlMjJjNzE1OTMwNjJhNDU4`
+Snapshot ID: `MCwyNWUzNDMyYjQ3YmRjYmJjMGY1ZTFhYTA0MzNkODlhZjY3MDlhY2Y0`

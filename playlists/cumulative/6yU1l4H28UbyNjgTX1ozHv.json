@@ -2471,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Sugar, We're Going Down (Acoustic)",
+        "url": "https://open.spotify.com/album/6tsaX49Go1aol8NcM6y8qO"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "Sugar, We're Going Down - Acoustic",
+      "url": "https://open.spotify.com/track/460dwU9YPeLUbvOaKqDKsd"
+    },
+    {
+      "album": {
         "name": "Sunsets For Somebody Else",
         "url": "https://open.spotify.com/album/0QI7USp1Y4xDdA3xytReUq"
       },

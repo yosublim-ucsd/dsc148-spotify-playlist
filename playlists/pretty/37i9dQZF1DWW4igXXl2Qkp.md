@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,824 likes - 76 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,923 likes - 76 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Trust Pt\. 2](https://open.spotify.com/track/3XnXKm3BJIJ4JMS1zGsiiP) | [Gic0e](https://open.spotify.com/artist/7CkRwvPIIL5cDRgpPPLkvF) | [Trust Pt\. 2](https://open.spotify.com/album/6p9CTSrA3Q0QRupycIYTqj) | 3:52 |
 | 76 | [No Discussion](https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [No Discussion](https://open.spotify.com/album/6x7ImIkrwJQlukgX4TwioK) | 2:49 |
 
-Snapshot ID: `MCxjOGViNDM5NDIwYmQwNDVmMzgyMjc0Zjc4YWViMmYwYWI0MDgxMTFi`
+Snapshot ID: `MCwzMWJjYThkZmYyMjdkYmZlZTU3M2RiMDQ4MWI5MDZmNzIyZWEzNjM4`

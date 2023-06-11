@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-369 songs - 22 hr 11 min
+370 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Satellites](https://open.spotify.com/track/5kqKKun6uZweNkim4zuQwQ) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Satellites](https://open.spotify.com/album/5qEOQx66MDExxqg92Cv9Tf) | 3:57 | 2023-02-03 | 2023-03-06 |
 | [Satin Cash Pt\. II](https://open.spotify.com/track/3n2weVIDEc5Z4YOTaDqsww) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Satin Cash Pt\. II](https://open.spotify.com/album/6TVX0FNhrDzAp1LIvNT4sU) | 3:53 | 2022-08-26 |  |
 | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-04-07 |  |
-| [Save My Life](https://open.spotify.com/track/0moeK5tOpJoI8AjAL8cl6b) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/2shntfpFRCftNG6T52EPs0) | 4:08 | 2022-07-29 |  |
+| [Save My Life](https://open.spotify.com/track/0moeK5tOpJoI8AjAL8cl6b) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/2shntfpFRCftNG6T52EPs0) | 4:08 | 2022-07-29 | 2023-06-11 |
 | [Save My Life](https://open.spotify.com/track/2vhKNqxKDX50UsGwdMVoa6) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/3NTBDYHESaWP27eZCzQHNL) | 4:08 | 2022-07-08 | 2022-08-26 |
 | [Save Yourself](https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Save Yourself](https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi) | 3:31 | 2022-07-08 | 2022-08-13 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2022-07-08 | 2023-04-09 |
@@ -316,6 +316,7 @@
 | [Stuck On You \(feat\. Donna Tella\)](https://open.spotify.com/track/4YEakHI6sat9bV875QBNcW) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Stuck On You \(feat\. Donna Tella\)](https://open.spotify.com/album/2cBjRVbv7Vvh0E4BVwZuai) | 3:14 | 2022-07-08 | 2023-04-09 |
 | [Sunburn](https://open.spotify.com/track/6UEkaSqswLYnWRgVQFkHMs) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sunburn](https://open.spotify.com/album/34tTL3sIlZ5mzpwvEiXKaQ) | 2:47 | 2022-07-08 | 2023-02-18 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-07-08 | 2022-09-06 |
+| [Surrender](https://open.spotify.com/track/4WmQdAUKoo2jcYqY0Ocz1P) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Surrender](https://open.spotify.com/album/2RlTxicWPSu1Z4sWXXWPrV) | 4:17 | 2023-06-09 |  |
 | [Surrender](https://open.spotify.com/track/67hXwO5ry524QKakkllndZ) | [Napa Cabbage](https://open.spotify.com/artist/6yQkMw2cRF9RstGdKlva32), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Surrender](https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F) | 3:38 | 2022-07-08 | 2022-09-05 |
 | [Survive \(with Luma\)](https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Survive \(with Luma\)](https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g) | 3:47 | 2022-07-08 | 2023-04-09 |
 | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95) | 3:38 | 2022-07-08 | 2023-04-09 |

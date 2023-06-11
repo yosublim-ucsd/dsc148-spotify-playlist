@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127190,
+  "num_followers": 127192,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
@@ -694,6 +694,10 @@
         {
           "name": "Punctual",
           "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hight",
+          "url": "https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI"
         }
       ],
       "duration_ms": 146692,

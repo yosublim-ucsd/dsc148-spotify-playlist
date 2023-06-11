@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,202 likes - 115 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,257 likes - 115 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 52 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
 | 53 | [You're My First Love](https://open.spotify.com/track/1yoEYdoA0EuNiz2eL4W06P) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [You're My First Love](https://open.spotify.com/album/4ZHA2FFtyTuov2u3j9nivZ) | 4:01 |
 | 54 | [When I Close My Eyes](https://open.spotify.com/track/15Q5vl5DsW913bGuVEsatQ) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG), [Lee Areum](https://open.spotify.com/artist/1V0oJREDjYIqKRfB7mi94E) | [When I Close My Eyes \- SM STATION](https://open.spotify.com/album/6Gv30XT2L97NTpOUeqSsW9) | 3:42 |
-| 55 | [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK\(DECEMBER\)](https://open.spotify.com/artist/7vso7EVqywol8P9vqTgoQn) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 |
+| 55 | [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 |
 | 56 | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 |
 | 57 | [When I Met You](https://open.spotify.com/track/6ROLp0Ha6q2qGThlvHtAj8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/6h1tbJsKC3A5HSP1jDLZOm) | 3:58 |
 | 58 | [What do you think](https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Delivery Man, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC) | 4:42 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 114 | [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 |
 | 115 | [Goodbye](https://open.spotify.com/track/35CDs1dRAQHET3C3L8pC1s) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Goodbye](https://open.spotify.com/album/2yqXymIotLIx9BCuRIAWFU) | 2:56 |
 
-Snapshot ID: `MCwyNDdmNDZlYTVlOGU3MWMwNzI4YzY2NGFhOTcyM2E0ZTY5ZDVjODdl`
+Snapshot ID: `MCxhZTBiMzE1MWYzYWJiMzdhMjhmYTkxMmU0NTJiMzkzZGNmMThlMTIy`

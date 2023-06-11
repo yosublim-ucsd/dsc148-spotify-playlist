@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-385 songs - 21 hr 41 min
+386 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Breathe \- Acoustic](https://open.spotify.com/track/3eiY1jAroh5xlT9qd1KEA8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Breathe \(Acoustic\)](https://open.spotify.com/album/6U4ZNqzqc79i1ZZBialhPV) | 3:51 | 2021-03-12 | 2022-07-29 |
 | [Breathe \- Acoustic](https://open.spotify.com/track/5fLQiheBN5kRd40CZjzjkM) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Autumn Tunes](https://open.spotify.com/album/3uJGojcHj1dX9A2RKuwjya) | 3:51 | 2022-04-22 | 2022-11-13 |
 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 | 2021-03-12 |  |
-| [Brown Eyed Girl](https://open.spotify.com/track/7Gs9vEfo69lSwsTz4MRuBG) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Brown Eyed Girl](https://open.spotify.com/album/2MkkFur4IEa1DKWqVS3bI2) | 3:34 | 2021-03-12 |  |
+| [Brown Eyed Girl](https://open.spotify.com/track/3cIsqc3nZZeJpc99WpcY8C) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Brown Eyed Girl](https://open.spotify.com/album/0C89tDcdMtMlmUmXeLd4jG) | 3:34 | 2023-06-02 |  |
+| [Brown Eyed Girl](https://open.spotify.com/track/7Gs9vEfo69lSwsTz4MRuBG) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Brown Eyed Girl](https://open.spotify.com/album/2MkkFur4IEa1DKWqVS3bI2) | 3:34 | 2021-03-12 | 2023-06-11 |
 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 | 2021-03-12 | 2022-07-29 |
 | [Bruises](https://open.spotify.com/track/3sPjBNBJApK0ANyPGcei9Q) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Viral Hits Volume 9](https://open.spotify.com/album/2dFUs8Nzl15Htpw8IeUKaQ) | 3:40 | 2022-04-22 | 2022-11-14 |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2022-04-22 |  |

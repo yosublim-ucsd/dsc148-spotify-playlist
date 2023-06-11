@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,838 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,205 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 35 | [Laat Me Dansen](https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Laat Me Dansen](https://open.spotify.com/album/5Psg8RGP7f8EsKBdTd9N4S) | 2:40 |
 | 36 | [Summerlove](https://open.spotify.com/track/4NYW5QDoVtzl0WfKfd96qD) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/4D5ZRbx0gRMbd0Nf81qG8m) | 2:21 |
 | 37 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 |
-| 38 | [Stuck in My Ways](https://open.spotify.com/track/06Lzfglcgj412dGi9PrJO6) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Stuck in My Ways](https://open.spotify.com/album/0AeH3Mt7WzQN4LpuIaf8nd) | 3:17 |
+| 38 | [Stuck In My Ways](https://open.spotify.com/track/06Lzfglcgj412dGi9PrJO6) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Stuck In My Ways](https://open.spotify.com/album/0AeH3Mt7WzQN4LpuIaf8nd) | 3:17 |
 | 39 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 |
 | 40 | [Perfect Goodbye](https://open.spotify.com/track/2Gt24F0WmRWMQiQBqIzNeJ) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Southern Skies](https://open.spotify.com/album/4VAzba3S9w9MthKavPEGZS) | 3:06 |
 | 41 | [Laten Gaan](https://open.spotify.com/track/6zRq6BHfhVySWIsSAVuW9z) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [Bella](https://open.spotify.com/artist/4ny2jX3s8drdHQJv2UMrzi) | [Laten Gaan](https://open.spotify.com/album/2QAjC06QMJ3P5tGrKlxHSv) | 2:47 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Doe Het Licht Maar Uit](https://open.spotify.com/track/4VW5IbDYlGoMf4lmYC5r9B) | [Dominique](https://open.spotify.com/artist/1ZsK3mltVHS1cjtIghy0UT) | [Doe Het Licht Maar Uit](https://open.spotify.com/album/0ZYY3EH6Kap7PhFg8gKPwC) | 2:38 |
 | 103 | [It Should Have Been You](https://open.spotify.com/track/09syFesVXKSg9sPiAU6opy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [It Should Have Been You](https://open.spotify.com/album/7hQq9HEkRmo31QlGAtGRGo) | 3:29 |
 
-Snapshot ID: `MCwzNDk0ZThmYzA4YTJkNmRlNDkxMjM1MTZkMjgxNjZkNGQ5YmUzZWY2`
+Snapshot ID: `MCxmYTJmYmMwODlmNGE3OWM4YWQ5ZDU4NjczM2U0ZTQxZDQ4MWVmZDlm`

@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Ahvenanmaa",
+        "url": "https://open.spotify.com/album/29QIW4n1qlmlKqkZLlCiZt"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198530,
+      "name": "Ahvenanmaa",
+      "url": "https://open.spotify.com/track/58qIU67Fh5zMXEEgqjSe37"
+    },
+    {
+      "album": {
         "name": "Aika on rahaa",
         "url": "https://open.spotify.com/album/5KizQ2zKPsWBmMHTJOGoaf"
       },
@@ -894,7 +912,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 159473,
       "name": "ALAX? - feat. Pihlaja",
       "url": "https://open.spotify.com/track/7b5eGNsoccPe4bDgPBWE6d"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 160434,
       "name": "Brune",
       "url": "https://open.spotify.com/track/6Mdc4ykEhfzNevau3Ribk2"
@@ -3116,6 +3134,28 @@
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Cha (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Cha Cha Cha - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc"
     },
     {
       "album": {
@@ -3824,7 +3864,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -4871,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Ei hedonistei #2",
+        "url": "https://open.spotify.com/album/1VCG4eGWxnEGIDBAfmkOyc"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186222,
+      "name": "Ei hedonistei #2",
+      "url": "https://open.spotify.com/track/17VKq8PZP712ni48rRyWBB"
+    },
+    {
+      "album": {
         "name": "Ei kukaan muu",
         "url": "https://open.spotify.com/album/2Cwhc4CrHipYpHvODSEjlj"
       },
@@ -5214,7 +5272,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 164931,
       "name": "el\u00e4intarha",
       "url": "https://open.spotify.com/track/6YgxTAQ8hSTlynIR2Kjxmj"
@@ -7893,6 +7951,28 @@
     },
     {
       "album": {
+        "name": "Klubiruusu",
+        "url": "https://open.spotify.com/album/2IM3x8ERbvexvagTht06LG"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154341,
+      "name": "Hengit\u00e4 (feat. LEWI)",
+      "url": "https://open.spotify.com/track/2iUJCmkfSDhXmZAEcdYTLF"
+    },
+    {
+      "album": {
         "name": "Hennessy (feat. NOTO)",
         "url": "https://open.spotify.com/album/3dLDJPR02ywA4JSybJwyzn"
       },
@@ -10234,10 +10314,32 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 151875,
       "name": "Julkinen persoona",
       "url": "https://open.spotify.com/track/4bjkPOPZn5ozzxXdW73Jxf"
+    },
+    {
+      "album": {
+        "name": "Mun vuoro safkaa",
+        "url": "https://open.spotify.com/album/4KBCSMJLiQ9ludgYLnM3c8"
+      },
+      "artists": [
+        {
+          "name": "Blacflaco",
+          "url": "https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152310,
+      "name": "Julkinen persoona",
+      "url": "https://open.spotify.com/track/6zhLlmtn6i50OrcAwg1bNN"
     },
     {
       "album": {
@@ -12850,7 +12952,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 145426,
       "name": "K\u00e4vi Miten K\u00e4vi",
       "url": "https://open.spotify.com/track/7oojNvd8e5ifCtWjR0IdIc"
@@ -17725,6 +17827,24 @@
     },
     {
       "album": {
+        "name": "Joe W",
+        "url": "https://open.spotify.com/album/3gGBBaAYxxDA1snSBLkoQX"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163287,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3YujyLPiBYIxiicSYTTzbQ"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -17860,7 +17980,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 157691,
       "name": "Nyt tai ei koskaan",
       "url": "https://open.spotify.com/track/6mhlGQatP9hUBVdo4Uq6N0"
@@ -18012,6 +18132,24 @@
       "duration_ms": 200883,
       "name": "Ohikiit\u00e4v\u00e4\u00e4 - Vain el\u00e4m\u00e4\u00e4 - Unohtumaton ilta",
       "url": "https://open.spotify.com/track/78ReaLRl6mimo7am9byrTs"
+    },
+    {
+      "album": {
+        "name": "Oisko t\u00e4\u00e4 t\u00e4s / Popinpelko",
+        "url": "https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184488,
+      "name": "Oisko t\u00e4\u00e4 t\u00e4s",
+      "url": "https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0"
     },
     {
       "album": {
@@ -18551,6 +18689,28 @@
     },
     {
       "album": {
+        "name": "Joe W",
+        "url": "https://open.spotify.com/album/3gGBBaAYxxDA1snSBLkoQX"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156026,
+      "name": "Ovet paukkuu (feat. william)",
+      "url": "https://open.spotify.com/track/087lHLLOcExkNHTTKd5Kp3"
+    },
+    {
+      "album": {
         "name": "Ovet paukkuu (feat. william)",
         "url": "https://open.spotify.com/album/1mVWqJk1Yu9Ubb0OqE6tcu"
       },
@@ -18566,7 +18726,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 156026,
       "name": "Ovet paukkuu (feat. william)",
       "url": "https://open.spotify.com/track/7pLVekYOyxNtBTeaXl9PU5"
@@ -19595,6 +19755,24 @@
     },
     {
       "album": {
+        "name": "Oisko t\u00e4\u00e4 t\u00e4s / Popinpelko",
+        "url": "https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143136,
+      "name": "Popinpelko",
+      "url": "https://open.spotify.com/track/4yujt4SQarzmvJfEdhAnLm"
+    },
+    {
+      "album": {
         "name": "Poppaan (Remix)",
         "url": "https://open.spotify.com/album/6GqgyhweZWHRgWAOkT9jG7"
       },
@@ -20548,7 +20726,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 182846,
       "name": "Riidell\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/4mcItNJ1SJgMimAEU78ir4"
@@ -25051,6 +25229,32 @@
     },
     {
       "album": {
+        "name": "Tytt\u00f6ni mun (feat. Meiju Suvas, Jaakko Laitinen)",
+        "url": "https://open.spotify.com/album/0pkhVarYbTJz84FCfTe3Ff"
+      },
+      "artists": [
+        {
+          "name": "Pasi ja Anssi",
+          "url": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
+        },
+        {
+          "name": "Meiju Suvas",
+          "url": "https://open.spotify.com/artist/5SOucuuLuSueOSFgrxqWsX"
+        },
+        {
+          "name": "Jaakko Laitinen",
+          "url": "https://open.spotify.com/artist/2uSCcj94iP1dWdtZDqVxof"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197821,
+      "name": "Tytt\u00f6ni mun (feat. Meiju Suvas, Jaakko Laitinen)",
+      "url": "https://open.spotify.com/track/4AGuIsaOyvAN7UeS2Yzxd9"
+    },
+    {
+      "album": {
         "name": "Sextape II",
         "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
       },
@@ -26206,7 +26410,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 84857,
       "name": "VENAA (mul on ongelma)",
       "url": "https://open.spotify.com/track/4PElSXHaStj7keCAqOZhhB"

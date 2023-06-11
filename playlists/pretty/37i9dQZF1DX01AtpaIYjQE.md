@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,579 likes - 87 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,612 likes - 87 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 86 | [リングアベル](https://open.spotify.com/track/1PfPiEZ093M5oxinl5TAoO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:45 |
 | 87 | [cancellation](https://open.spotify.com/track/2PaBbS561Wft9NqEz1lSvE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:11 |
 
-Snapshot ID: `MCxhYjExNzRjZGYwMTliOTE0NGFlMDhiY2YwMDcwNTM3NDllYTA3MmFh`
+Snapshot ID: `MCxkMTdiZmQ4OTRkN2EwNmJkMTMyYjhmOTEwYTgwNDBiNDZhMTIwNTgx`

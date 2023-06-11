@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,886 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,912 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 30 | [Existential](https://open.spotify.com/track/4yi9vxDk77KEsQgdakIabg) | [Berlue](https://open.spotify.com/artist/23AyLrq18LhJG61d8EjSRY) | [Existential](https://open.spotify.com/album/3F4gPGqsjEug9JDJjcePc4) | 3:10 |
 | 31 | [Teeth](https://open.spotify.com/track/32ZKfUxISWjSTgeaPldd7l) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Teeth](https://open.spotify.com/album/4wLiI1xFR9EdYvJs6pF99n) | 3:46 |
 | 32 | [I'll be your star](https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [I'll be your star](https://open.spotify.com/album/4335JjYuXsLQiD08cLhRKJ) | 4:59 |
-| 33 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 |
+| 33 | [Guessing](https://open.spotify.com/track/3PQ1bonWWQ3qvnT8ptF8jf) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 5:03 |
 | 34 | [Say](https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Say](https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49) | 2:32 |
 | 35 | [loveseat](https://open.spotify.com/track/5HUImpx9hit2FQQZV3dsuB) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [loveseat](https://open.spotify.com/album/5HQmfKWwAAJYcfe17zr49V) | 4:35 |
 | 36 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 56 | [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 |
 | 57 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 |
 | 58 | [Hot and Clumsy](https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Hot and Clumsy](https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6) | 4:31 |
-| 59 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 |
+| 59 | [Drift](https://open.spotify.com/track/0g41K2GGXB7G1hDLGlvzul) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:24 |
 | 60 | [Self Control](https://open.spotify.com/track/7K0T7UwNqY46WC0MD6fEhr) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Self Control](https://open.spotify.com/album/6fARki7lNpZLU5evUM2gbn) | 3:02 |
 | 61 | [Feed The Fire](https://open.spotify.com/track/3Y1t6DTEVCbiAovIAKsiIo) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Feed The Fire](https://open.spotify.com/album/2lY4eTKT2ulUgwOz8lZp5r) | 3:38 |
 | 62 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 |
 | 100 | [All Good Fun](https://open.spotify.com/track/51Rn2Zin9vYbf3Mfn02RdX) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Mo Lowda & the Humble](https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq) | 3:40 |
 
-Snapshot ID: `MCxmMTEzOGI4OWI4NmVkMTQzMjgxNjZmODdhYTRjMWY5ZjExMWJlODE0`
+Snapshot ID: `MCxmZjUzMTI3Njk1ZTdmYzUyZTIxZDA2Y2Q3MmU3NTA5Y2JiMWQ0YjA3`

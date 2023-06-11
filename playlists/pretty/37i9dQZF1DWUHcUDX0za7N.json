@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw\"> Boj </a> ",
-  "num_followers": 20511,
+  "num_followers": 20557,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGM1ZGQ5ZDU0YjE2OGUwYjEyNzI0NGZiYmZhNTFlYmQ4ZTY3NzYz",
+  "snapshot_id": "MCw5YWNkNTNlNjhlZjViNTBmMzIzZWJmZTIwODg0NTE2OWRjNThhNTIz",
   "tracks": [
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Devil Agent (2 Fighting)",
-        "url": "https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK"
-      },
-      "artists": [
-        {
-          "name": "MAXINO",
-          "url": "https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 192731,
-      "name": "Devil Agent (2 Fighting)",
-      "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
       },
@@ -1119,22 +1095,46 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+        "name": "Devil Agent (2 Fighting)",
+        "url": "https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK"
       },
       "artists": [
         {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+          "name": "MAXINO",
+          "url": "https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
         }
       ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+      "duration_ms": 192731,
+      "name": "Devil Agent (2 Fighting)",
+      "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
       },
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Bookbag 2.0 Guitar",
+        "url": "https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ"
+      },
+      "artists": [
+        {
+          "name": "Alienzilla",
+          "url": "https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Bookbag 2.0 Guitar",
+      "url": "https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
@@ -1371,42 +1403,6 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "234 (PRBLMS)",
-        "url": "https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3"
-      },
-      "artists": [
-        {
-          "name": "2AAB",
-          "url": "https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "234 (PRBLMS)",
-      "url": "https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Chase Matthew
 
-1,715 songs - 3 day 20 hr 50 min
+1,716 songs - 3 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,7 +1219,8 @@
 | [Same Dirt Road](https://open.spotify.com/track/5NXXWNea8eeH2TmyJ8Hd0x) | [Eric Lee](https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5) | [Same Dirt Road](https://open.spotify.com/album/7G5txdJagKy3TQy5NAnFk3) | 2:28 | 2020-11-21 | 2021-05-15 |
 | [Same Ol' Me](https://open.spotify.com/track/2j9qsSH43C5uLA9plM8532) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Same Ol' Me](https://open.spotify.com/album/35yIxwyaotm2loJwUWdbQc) | 3:16 | 2023-01-13 | 2023-02-04 |
 | [Save Me](https://open.spotify.com/track/41c0nW524VqMTPwATKSrdG) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Save Me](https://open.spotify.com/album/7wPWCJnGFuY8QUcOO1i5GT) | 3:08 | 2020-07-19 | 2020-09-19 |
-| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2023-05-12 |  |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-09 |  |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2023-05-12 | 2023-06-11 |
 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 | 2022-12-02 |  |
 | [Sawin' Logs](https://open.spotify.com/track/1dkQGcf85MVCZE75TycROr) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Sawin' Logs](https://open.spotify.com/album/6FjQdtGDHRKcnghgPmj0bi) | 2:51 | 2021-02-20 | 2021-03-06 |
 | [Say in This](https://open.spotify.com/track/58sWNuXzTqh39ByCFIqyyH) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Say in This](https://open.spotify.com/album/5ZMI7ewNkpA5JKgitZnHVT) | 3:11 | 2020-06-14 | 2020-09-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,160 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,615 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 | 69 | [Enloquéceme](https://open.spotify.com/track/1Z88pFqoxXfFJ519ZR7rOe) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Enloquéceme](https://open.spotify.com/album/4aMNVrwGdzxra0YjpiKrRo) | 3:52 |
 | 70 | [Tusa \- En Vivo](https://open.spotify.com/track/3rLogBxZoYL47FlB3TrB5z) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Tusa](https://open.spotify.com/album/1NAiAWHpl19IT0LheAEESB) | 2:33 |
 
-Snapshot ID: `MCw5ZDU4ZDI1ZDEwNDc1NjI5MjQ4ZjhlZDk2MTg3NzNlMjQzZTVhYTI5`
+Snapshot ID: `MCxkNzEyODdkOTdhYmYyOGU0NzI1NmU2Y2MwMDViYjkxY2E2OTc3N2Vl`

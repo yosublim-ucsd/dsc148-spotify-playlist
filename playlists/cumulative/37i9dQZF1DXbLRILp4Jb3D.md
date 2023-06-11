@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-117 songs - 5 hr 47 min
+119 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,13 +81,15 @@
 | [La Noche](https://open.spotify.com/track/1kSXcBwgqVZH81sq3BWdKq) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Agüita de Limón Con Chía](https://open.spotify.com/album/5hd7XnjV5mYGkZZlMFrpWx) | 3:10 | 2020-07-16 | 2022-07-28 |
 | [La Pepo Cumbia](https://open.spotify.com/track/2tKEwd6uJPObttivi6EEfg) | [El Show De Bely Y Beto](https://open.spotify.com/artist/4zydHC1eUFMYrjgdruJiJQ) | [La Pepo Cumbia](https://open.spotify.com/album/2jaNOb2kqXJlpaQA9jESb9) | 3:29 | 2023-04-27 |  |
 | [La Playa](https://open.spotify.com/track/3YHvIHCJIwQCh2uJ17GG40) | [Yucatán A Go\-Go](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:44 | 2023-04-27 |  |
-| [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 | 2023-04-27 |  |
+| [La Regla Primordial](https://open.spotify.com/track/6WPUypjdzEgodbtnkreB62) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Retrete Navarrete y Los Bulliciosos](https://open.spotify.com/artist/6pv7Qa40FdlaCBPW978GI9) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/6UMrfvpI3aFUaguTlF7fEH) | 2:45 | 2023-04-27 |  |
+| [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 | 2023-04-27 | 2023-06-11 |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2020-07-16 |  |
 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 | 2020-07-16 | 2023-04-28 |
 | [Luz y Sombra](https://open.spotify.com/track/3va2SowjH83eDOkzYsnKbw) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Postales](https://open.spotify.com/album/7dyAMfOtDFmmjGCOMNJGQL) | 3:50 | 2020-07-16 | 2022-07-29 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-04-27 |  |
 | [Me Subo a la Mesa](https://open.spotify.com/track/0rkEeWJWgGSnbXI7sPbhIQ) | [Los Musiqueros](https://open.spotify.com/artist/3ergzHt1MlXGINS9MrmlBI) | [Canciones Colgantes](https://open.spotify.com/album/1GZp4bALMDxOk4DCYXnjPq) | 0:37 | 2020-07-16 | 2022-08-09 |
-| [Mi Muñeca Me Habló \- Flor Bovina](https://open.spotify.com/track/2VKXvYQYzG3woDyhnQHhOl) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos](https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL) | 2:05 | 2023-04-27 |  |
+| [Mi Muñeca Me Habló](https://open.spotify.com/track/5ncgVzLRtRDzcPigTddpdp) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Flor Bovina](https://open.spotify.com/artist/40FjANIfFcoTtH0kF9ixHG) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:05 | 2023-04-27 |  |
+| [Mi Muñeca Me Habló \- Flor Bovina](https://open.spotify.com/track/2VKXvYQYzG3woDyhnQHhOl) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos](https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL) | 2:05 | 2023-04-27 | 2023-06-11 |
 | [Mi ombliguito](https://open.spotify.com/track/06UARsqk7cufMtmErCDe8a) | [Inés Cánepa](https://open.spotify.com/artist/6HgZO3xzgVsC6NQoN9wvpK) | [Un pato en Nueva York](https://open.spotify.com/album/5gy21XjKs5aVJPbBeneinL) | 2:09 | 2020-07-16 | 2022-07-22 |
 | [Musiquita de Reir](https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 | 2020-07-16 | 2023-04-28 |
 | [Más feliz](https://open.spotify.com/track/5cR6UA26Lmrifs0qKxwpof) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones sin ropa](https://open.spotify.com/album/68sOs2d9dN8sUnQdXjrrv0) | 2:53 | 2020-07-16 | 2022-07-29 |

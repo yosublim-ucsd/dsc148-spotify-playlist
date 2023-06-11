@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-289 songs - 16 hr 54 min
+290 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Swag Bag](https://open.spotify.com/track/32gRfQc1O71YyaEzcBPUuZ) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Swag Bag](https://open.spotify.com/album/65Bp8ipcWk9qvl0HJAnpsn) | 4:30 | 2022-11-07 |  |
 | [Sweet Dreams](https://open.spotify.com/track/4qGh4pp8kcRcSZ4fvBhQ4M) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Sweet Dreams \(Electro Swing\)](https://open.spotify.com/album/56buYMPiuZZsRkcDuCC93d) | 3:09 | 2022-10-12 | 2022-11-08 |
 | [Swing Delusion](https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Wild & Groovy](https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej) | 3:32 | 2023-03-17 |  |
-| [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/12KL2KtHU30NBJFMJSZZvA), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/2VSca5LgyZPnQXNBa9Gc5J) | 2:54 | 2021-04-16 |  |
+| [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/1BT5sygKwiAPBs3kmrzgeT) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/6eM6JMksAkekVE8Nk8Cuao) | 2:54 | 2022-11-07 |  |
+| [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/12KL2KtHU30NBJFMJSZZvA), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/2VSca5LgyZPnQXNBa9Gc5J) | 2:54 | 2021-04-16 | 2023-06-11 |
 | [Swing It Like Roger](https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Bend the Rules](https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK) | 3:16 | 2020-10-30 | 2023-03-11 |
 | [Take It Easy](https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 3:20 | 2020-10-30 | 2023-05-13 |
 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 | 2022-11-07 |  |

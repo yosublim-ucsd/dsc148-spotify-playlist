@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-1,118 songs - 2 day 8 hr 58 min
+1,119 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-19 | 2023-04-19 |
 | [FCKBOI](https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc) | [Slaytiiina](https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy), [Daniella Stylist](https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp) | [FCKBOI](https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph) | 3:28 | 2022-08-02 | 2022-08-30 |
 | [Feel Good](https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:04 | 2023-03-08 | 2023-03-18 |
-| [FELDOBOM A KÖVET](https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 5:11 | 2023-06-06 |  |
+| [FELDOBOM A KÖVET](https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 5:11 | 2023-06-06 | 2023-06-11 |
 | [Fell in Love](https://open.spotify.com/track/5NqRANQuUV1TqouPsnqrb4) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [SIMILIVINLOVE](https://open.spotify.com/album/4JRrOgnmtL0knW7kWFtxlr) | 1:33 | 2023-03-25 | 2023-04-03 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-09 | 2022-09-21 |
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-30 | 2022-07-02 |
@@ -785,6 +785,7 @@
 | [Raz Dva Tri](https://open.spotify.com/track/1ju7dlhxDhEUte3gUXZFzg) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X), [Kali](https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC) | [Trueself](https://open.spotify.com/album/6JmjGd10hhyEo4iMNDxCtd) | 2:40 | 2022-11-15 | 2022-11-30 |
 | [Ready To Fly](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-11-01 | 2022-11-03 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-21 | 2023-04-24 |
+| [Release The Kraken \- Sefa Remix](https://open.spotify.com/track/7bv6jlFlY7QspMOIDxBe6z) | [Destructive Tendencies](https://open.spotify.com/artist/1Yc03TvBp08WN2oHVuvewX), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Beyond The Lights](https://open.spotify.com/album/2ijiFWKhbYKSuPwKIwiM9b) | 3:23 | 2023-06-10 |  |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-03-17 | 2023-04-04 |
 | [Renaissance \(Main Title Theme\) \- from "The White Lotus: Season 2"](https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:38 | 2022-12-18 | 2023-02-01 |
 | [Reptér](https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07) | [György Korda](https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh) | [Napfény kell a világnak \- Tegnap és ma](https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I) | 4:09 | 2022-08-14 | 2022-08-23 |

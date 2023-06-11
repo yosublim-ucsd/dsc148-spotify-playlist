@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Jayda G.",
-  "num_followers": 2031333,
+  "num_followers": 2031181,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWNkYjMzMDgxZWU1OTMyM2M3NTdjOGU4MWUwODMwZGY2MzBhM2E4",
+  "snapshot_id": "MCxiZTIwZTBlNmQ2Y2I5YTFhYmE2YmZhMjBlMWY4OTEzYzcwZWJlYjZj",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -498,6 +498,10 @@
         {
           "name": "Punctual",
           "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hight",
+          "url": "https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI"
         }
       ],
       "duration_ms": 146692,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Sethu in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,604 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,601 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 15 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 |
 | 16 | [TEMPESTA](https://open.spotify.com/track/2SPWmeeJFV39qI4PVu9caj) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [TEMPESTA](https://open.spotify.com/album/6eFCLn92CVxTFvUvxNoHV4) | 2:48 |
 | 17 | [Lentiggini](https://open.spotify.com/track/0xhmDNqppAu9RINKppTci8) | [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [Lentiggini](https://open.spotify.com/album/2dE1ZqDY6kZWVbPEoQyfaf) | 3:33 |
-| 18 | [ANTIDOTO](https://open.spotify.com/track/5lFgaIQCOesP0LrW3sYgC2) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [harley](https://open.spotify.com/artist/1GclkIumqMDyVGxnsAe0AW) | [ANTIDOTO](https://open.spotify.com/album/7LcXw8iVCSClX2HMGJ6sJx) | 2:35 |
+| 18 | [ANTIDOTO](https://open.spotify.com/track/5lFgaIQCOesP0LrW3sYgC2) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [harley](https://open.spotify.com/artist/0swauJ1ZPO07ll7OcllnFq) | [ANTIDOTO](https://open.spotify.com/album/7LcXw8iVCSClX2HMGJ6sJx) | 2:35 |
 | 19 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 |
 | 20 | [Amore punk](https://open.spotify.com/track/5UE5xy6csX232JCkjlZuWx) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Wepro](https://open.spotify.com/album/1RftYq0amsy6NqZxNpUbtp) | 2:48 |
 | 21 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 |
 | 80 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 |
 
-Snapshot ID: `MCxhODllZjc0ZmViMjljMzQ5ZjUwYzJhMTBhMDgyODhmYjQ1NTBlZThm`
+Snapshot ID: `MCw1MDRlYjk0MTJjNWZmZjFiZGZjNDI1N2VkOTI1N2UyZDQzMDE0NGRh`

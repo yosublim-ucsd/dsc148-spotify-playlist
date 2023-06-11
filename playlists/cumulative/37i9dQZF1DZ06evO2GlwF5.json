@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 308253,
       "name": "Anything you wanna be",
       "url": "https://open.spotify.com/track/5Ms1G6UChoo6oI4uIlucXb"
@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "11th\u30a2\u30eb\u30d0\u30e0 \u8a18\u61b6\u306e\u56f3\u66f8\u9928",
+        "url": "https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296280,
+      "name": "un_mute",
+      "url": "https://open.spotify.com/track/36xZ84emIJxPWOxJYcIkz9"
+    },
+    {
+      "album": {
         "name": "WOWOW Original Animation \"The Fire Hunter\" Ending Theme Song / TV Animation \"REVENGER\" Ending Theme Song Mada Tooku ni Iru / un_mute",
         "url": "https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 297293,
       "name": "un_mute",
       "url": "https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 206466,
       "name": "\u5343\u91cc\u306e\u9053 -studio live-",
       "url": "https://open.spotify.com/track/0XDm0Nqa2jkyAxbn6tGwNs"

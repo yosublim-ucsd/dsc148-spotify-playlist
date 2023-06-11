@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9156,
+  "num_followers": 9157,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTAzNCwxZDgxMzMxMzM1YzliODVhNzBhZGQ0MGM5MjM4ZjcyMGI0ZmE5MWM5",
+  "snapshot_id": "MTAzNSxlMjBkYTMxYzM3NDc0NjExN2EzNGYxZDYzZTg0YjkzZGE5Y2MzOWU3",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -903,6 +903,22 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2023-06-10 07:31:12",
+      "album": {
+        "name": "Sugar, We're Going Down (Acoustic)",
+        "url": "https://open.spotify.com/album/6tsaX49Go1aol8NcM6y8qO"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Sugar, We're Going Down - Acoustic",
+      "url": "https://open.spotify.com/track/460dwU9YPeLUbvOaKqDKsd"
     },
     {
       "added_at": "2021-05-28 15:10:40",

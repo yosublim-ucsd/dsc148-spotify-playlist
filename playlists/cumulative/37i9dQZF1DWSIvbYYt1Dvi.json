@@ -1275,13 +1275,21 @@
     },
     {
       "album": {
-        "name": "Ying Yang",
+        "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
       },
       "artists": [
         {
           "name": "Tasha & Tracie",
           "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Renan Mesquita Silva Kyan",
+          "url": "https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8"
+        },
+        {
+          "name": "Gregory",
+          "url": "https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer"
         }
       ],
       "date_added": "2023-06-09",

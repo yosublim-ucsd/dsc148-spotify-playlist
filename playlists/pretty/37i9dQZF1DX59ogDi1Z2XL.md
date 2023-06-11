@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Belly
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,155 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,877 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [My Fate](https://open.spotify.com/track/4iSq8Rg3fW1y7aqM6s0EJZ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Fate](https://open.spotify.com/album/4gVfJ19WRPnoGMnr88QImt) | 2:13 |
 | 100 | [CASH ONLY](https://open.spotify.com/track/2ZvaB3Wl3YJolPJQTgPGyS) | [Frankie Valentino](https://open.spotify.com/artist/2z4N6crXOGXnSY8dd1OQgP) | [CASH ONLY](https://open.spotify.com/album/1Gt9G48Rxug2LoZBd7CtVw) | 3:12 |
 
-Snapshot ID: `MCwyZDYzMmU3NDc0YzIxZTViMTQ1YjBmMzM5NDEwNTNmNTdkMDY0MmUx`
+Snapshot ID: `MCw4ZDI1NTM3MjhlY2Y5YWVmZThhNTM1MDMwODMzNzUwN2VjNTk2MzNi`

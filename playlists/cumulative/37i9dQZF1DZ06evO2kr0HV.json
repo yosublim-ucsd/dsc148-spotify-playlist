@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "En Vivo desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "Juan y Paul - En Vivo Desde El Teatro Metrop\u00f3litan",
+      "url": "https://open.spotify.com/track/3Q1iQm1YXgpS5xoD02z0vB"
+    },
+    {
+      "album": {
         "name": "Ciegos Corazones",
         "url": "https://open.spotify.com/album/31ZKtd3jQMw6nTVz6JzgbT"
       },

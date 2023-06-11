@@ -19631,6 +19631,24 @@
     },
     {
       "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/6YGNCm1Au10LFfhcTw2lGC"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/4tg3FiM0L7BsaYPbV6tVz3"
+    },
+    {
+      "album": {
         "name": "Get Off My",
         "url": "https://open.spotify.com/album/2tsnxK9zuDDuch7E9pSnkj"
       },

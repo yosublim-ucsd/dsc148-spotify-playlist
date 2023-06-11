@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5480,
+  "num_followers": 5504,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjJiNTBkY2E2ZGI1ZDQyOWUxM2NmMTJjMDQzNjdlZTg0NTY2ZmQ4",
+  "snapshot_id": "MCwzNWM2NjQ2NjljNjM1MmFiYmFkYWM4ZmQwYmRmMmMyYzQ2MjliYTU1",
   "tracks": [
     {
       "added_at": "2023-06-09 15:02:31",
@@ -91,8 +91,8 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -207,8 +207,8 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -255,6 +255,22 @@
       "duration_ms": 276283,
       "name": "Ugly Brain - Single Version",
       "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -407,6 +423,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
+      },
+      "artists": [
+        {
+          "name": "The Dust Coda",
+          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
+        }
+      ],
+      "duration_ms": 274612,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Ain't Giving Up",
         "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
@@ -471,6 +503,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "So Free",
         "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
       },
@@ -483,6 +531,26 @@
       "duration_ms": 197800,
       "name": "So Free",
       "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Gotta Bleed (Remix)",
+        "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
+      },
+      "artists": [
+        {
+          "name": "Bacon Fat Louis",
+          "url": "https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk"
+        },
+        {
+          "name": "miXendorp",
+          "url": "https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Gotta Bleed - Remix",
+      "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -531,42 +599,6 @@
       "duration_ms": 237613,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
-      },
-      "artists": [
-        {
-          "name": "The Dust Coda",
-          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
-        }
-      ],
-      "duration_ms": 274612,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Gotta Bleed (Remix)",
-        "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
-      },
-      "artists": [
-        {
-          "name": "Bacon Fat Louis",
-          "url": "https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk"
-        },
-        {
-          "name": "miXendorp",
-          "url": "https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Gotta Bleed - Remix",
-      "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -635,22 +667,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -667,18 +683,66 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Walk The Wire",
+        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+      },
+      "artists": [
+        {
+          "name": "Brent Lindsay",
+          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+        }
+      ],
+      "duration_ms": 124218,
+      "name": "Walk The Wire",
+      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+      },
+      "artists": [
+        {
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+        }
+      ],
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Take My Rider",
+        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
+      },
+      "artists": [
+        {
+          "name": "Douglas Avery",
+          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Take My Rider",
+      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -715,54 +779,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
-      },
-      "artists": [
-        {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
-        }
-      ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Walk The Wire",
-        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
-      },
-      "artists": [
-        {
-          "name": "Brent Lindsay",
-          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
-        }
-      ],
-      "duration_ms": 124218,
-      "name": "Walk The Wire",
-      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Take My Rider",
-        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
-      },
-      "artists": [
-        {
-          "name": "Douglas Avery",
-          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Take My Rider",
-      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Got till it's gone",
         "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 162612,
       "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
       "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Make It Easy",
-        "url": "https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V"
-      },
-      "artists": [
-        {
-          "name": "Mike Lerman",
-          "url": "https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs"
-        }
-      ],
-      "duration_ms": 204862,
-      "name": "Make It Easy",
-      "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
     },
     {
       "added_at": "2023-06-09 15:02:31",

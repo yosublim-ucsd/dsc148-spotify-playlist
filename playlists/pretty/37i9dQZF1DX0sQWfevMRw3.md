@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,685 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,800 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 100 | [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 |
 
-Snapshot ID: `MCwwNmY5YjQ2NGM4NDQzZWZlNWNiZTFjYTU2MzU1ZThkY2RiMDlkNzAw`
+Snapshot ID: `MCxkNGYxNWJiNTcyZjZiNzRlMDg4ZTU2ODE4OWU1OWNjMGFiNGRjMzVm`

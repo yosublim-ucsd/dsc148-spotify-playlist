@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-675 songs - 1 day 16 hr 27 min
+676 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Green Flash](https://open.spotify.com/track/1g9rH9FM2IFGK6hKzLt2SJ) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Green Flash](https://open.spotify.com/album/3UflcuTtBl2ndY3nzxuR07) | 4:29 | 2023-03-29 | 2023-04-30 |
 | [Green Flash](https://open.spotify.com/track/6GdYR8gJxYQaYEJzZneeus) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Green Flash](https://open.spotify.com/album/5vt2WsClcKYoyY6Io4zrTH) | 4:29 | 2023-04-12 | 2023-05-24 |
 | [Grow](https://open.spotify.com/track/4dk0RxIacYPK5ue3RkK9Ih) | [Ava McCoy](https://open.spotify.com/artist/1Hx2MmCDbn7kdUG70WT0xc) | [Grow](https://open.spotify.com/album/0ku5ZJkVcgX4haWpm8mHxM) | 3:30 | 2023-05-24 |  |
-| [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-10 |  |
+| [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-10 | 2023-06-11 |
+| [Guessing](https://open.spotify.com/track/3PQ1bonWWQ3qvnT8ptF8jf) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 5:03 | 2023-06-07 |  |
 | [Gunpowder](https://open.spotify.com/track/6HsFixx8ZENagpYfh2Z0qG) | [Sarah Lee Langford](https://open.spotify.com/artist/3WMUq68uHWBQ8eGHDu2whV), [Will Stewart](https://open.spotify.com/artist/243xFvjyls79NvZx2efP5m) | [Gunpowder](https://open.spotify.com/album/0S9qMrSlylXYoieZLZirNQ) | 3:37 | 2022-10-26 | 2022-12-01 |
 | [Ha Ha](https://open.spotify.com/track/5moiK59CizbbCoVYoqD8ZS) | [Tom Calder](https://open.spotify.com/artist/1n6FM0vzQGwjAkDEyoqiNQ), [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg) | [Ha Ha](https://open.spotify.com/album/1wgoARttTcLpYQiiB2BjZM) | 3:32 | 2022-07-20 | 2023-01-12 |
 | [Hand and String](https://open.spotify.com/track/0dIJfBaOaVKnDfPUY4gpNN) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Hand and String](https://open.spotify.com/album/7bYnGGz2My4DQt9uP2Unvb) | 3:54 | 2022-11-09 | 2022-12-01 |

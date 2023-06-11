@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Christine and the Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,852 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,908 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 |
 | 50 | [two lovers](https://open.spotify.com/track/1xVcq9tIYMVFNS9vwNSQpO) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [two lovers](https://open.spotify.com/album/1V2vE1NW1HTLR7Pyzcls6U) | 2:52 |
 
-Snapshot ID: `MCxmMmU1NDZiN2RkODg0YWZjMzgzODdmNzBkNTFhZGQ5NzdhZmQ1MDVm`
+Snapshot ID: `MCwwYjA2N2MwYTFlNjExMDlkN2EwZTJiMDQ1YTQzNzZiNmI3ZTgxOTVj`

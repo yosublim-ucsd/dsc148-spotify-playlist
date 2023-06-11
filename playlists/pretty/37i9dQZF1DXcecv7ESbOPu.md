@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,823 likes - 108 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,855 likes - 108 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 38 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
 | 39 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 | 40 | [6 1 Night](https://open.spotify.com/track/6hRykwokvxC051CxLQcgFZ) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [6 1 Night](https://open.spotify.com/album/7cJPcG6O3enJ6LHwVgv7NW) | 2:08 |
-| 41 | [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 |
+| 41 | [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 |
 | 42 | [Makadam](https://open.spotify.com/track/0gc2cBbX4acNEqzDgtEXtj) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Makadam](https://open.spotify.com/album/4K4BkYuZdjafLx2ZuyDwlB) | 2:40 |
 | 43 | [MALMÖ VICE](https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMÖ VICE](https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy) | 2:00 |
 | 44 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [FIGHT!](https://open.spotify.com/track/5fxUkaEFs05qXwvimmPh7i) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [FIGHT!](https://open.spotify.com/album/2popxZy81LJFpFzz3gyOdk) | 1:46 |
 | 108 | [The Lure \(Main Theme\) \(with Mike Dean\)](https://open.spotify.com/track/0OajXvsbkfhx5CTn4gsAdB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [The Idol Episode 1](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 4:37 |
 
-Snapshot ID: `MCw3NTc5YTc2YmU1NjNhOGY4ZTdlN2U0MzhlMDkzM2IxNDgxZmMzZTRj`
+Snapshot ID: `MCw4YmU1YzM4MjI3NzE1OGUzZWQyNjE4MjdlZDQzMmE5NDdhMDE1NDc5`

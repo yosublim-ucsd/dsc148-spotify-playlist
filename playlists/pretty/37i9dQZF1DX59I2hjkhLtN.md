@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,324 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,326 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Se Mimar](https://open.spotify.com/track/7xTqiiz7Auh8pA1cljw89Y) | [Biura](https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP) | [Se Mimar](https://open.spotify.com/album/3Yc7oHvqKVFw7r4AjD2Gk4) | 3:03 |
 | 99 | [MARIPOSA](https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Cósmico](https://open.spotify.com/artist/6DsNivzEk4uMuk0f4QjdSS), [Hyzer](https://open.spotify.com/artist/48Uqot4YbHpPRt6ABUYiqP) | [MARIPOSA](https://open.spotify.com/album/1hwRmaHQ79ZOqSUHk9tTVf) | 3:54 |
 
-Snapshot ID: `MCwzYTQ4OWY3YjRkZGFhNTQwYTM3ZDIzOWJhYjBmNzIxZmNlNTM5YWQw`
+Snapshot ID: `MCwwOWY5Y2RhZWMxY2U1YTM5MDBlNTI5MzcxZTBjZDQ2NmRiOTZjOWNh`

@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 100004,
+  "num_followers": 100016,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVjM2QxOTNhNWFiYTQwYTE5NWU0ZjcxMmE3ZTcwNGVlNjA0OGI1",
+  "snapshot_id": "MCxmYmUzYjk2YWI2MTM3ODYyY2I4ZDE4MmE5YTMwZjM0Y2EyMjYzNTdh",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Logic1000",
-        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 247402,
-      "name": "Baddie Part Two",
-      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Song Feel",
         "url": "https://open.spotify.com/album/5x0YjKmysDAXaAjxq8HLip"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210967,
       "name": "WYWD - Remix",
       "url": "https://open.spotify.com/track/3Q6AwSkDHoNVDqNrfwuQPG"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Logic1000",
+        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 247402,
+      "name": "Baddie Part Two",
+      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Sensei EP",
-        "url": "https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 281063,
-      "name": "Feeling Funky",
-      "url": "https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Limonata",
         "url": "https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 270000,
       "name": "Swervin'",
       "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Sensei EP",
+        "url": "https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 281063,
+      "name": "Feeling Funky",
+      "url": "https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6"
     },
     {
       "added_at": "2022-04-13 15:03:02",

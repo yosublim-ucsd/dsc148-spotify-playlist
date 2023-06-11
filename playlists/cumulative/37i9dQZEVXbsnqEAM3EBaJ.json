@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 142853,
       "name": "All Nights, All Days",
       "url": "https://open.spotify.com/track/0hIYVHio9wHLYdBrqiHSsg"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 198146,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 244090,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 292742,
       "name": "Be Good To Yourself - Live 1986",
       "url": "https://open.spotify.com/track/029TCbrJdTPfnSbzqheTHy"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 208680,
       "name": "Cecilia (feat. Juan Luis Guerra)",
       "url": "https://open.spotify.com/track/6hNviV6KGestCBC62F7oFY"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 328047,
       "name": "Cold Gin - Live 1994",
       "url": "https://open.spotify.com/track/0EaP1HbeQjVKsz7cnvwsC8"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 228093,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 232258,
       "name": "Dark Void",
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
@@ -4534,7 +4534,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 372374,
       "name": "Kreel's Magic Staff",
       "url": "https://open.spotify.com/track/6eWhmfOxOPClp7IZO7LeOl"
@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 186598,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE"
@@ -6028,7 +6028,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 274034,
       "name": "Passenger - Jeff Parker Interpolation",
       "url": "https://open.spotify.com/track/59HvDoNpqh1NrgRYo3kCkq"
@@ -6892,7 +6892,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 207345,
       "name": "Sanity",
       "url": "https://open.spotify.com/track/0wArdkLtaDwBRJoOAz6DR4"
@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 276659,
       "name": "Shine again",
       "url": "https://open.spotify.com/track/6SpGa1uZ4gWZgZx1Jcf3SZ"
@@ -7926,7 +7926,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 280903,
       "name": "The Golden Trail",
       "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
@@ -8136,12 +8136,12 @@
       },
       "artists": [
         {
-          "name": "Library Tapes",
-          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
-        },
-        {
           "name": "Pyotr Ilyich Tchaikovsky",
           "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
         }
       ],
       "date_added": "2023-06-09",
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 191053,
       "name": "To The Wolves",
       "url": "https://open.spotify.com/track/0cFjCCxy7O6DOaefPsItCq"
@@ -8874,7 +8874,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 189544,
       "name": "Verso Por Saludo",
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 243450,
       "name": "Waiting In Vain (Feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 232500,
       "name": "Weight Of The World (feat. We Came As Romans & Brand Of Sacrifice)",
       "url": "https://open.spotify.com/track/3q9ZMDGbCBKQ7rfChHolXO"
@@ -9190,7 +9190,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
@@ -9471,6 +9471,24 @@
     },
     {
       "album": {
+        "name": "You Drive Me Nervous (Alternate Version)",
+        "url": "https://open.spotify.com/album/4AZbNYoc70kiiO5m5UjuQP"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140946,
+      "name": "You Drive Me Nervous - Alternate Version",
+      "url": "https://open.spotify.com/track/53gCw1p9waJJN76XkPKK6T"
+    },
+    {
+      "album": {
         "name": "You Drive Me Nervous (Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972)",
         "url": "https://open.spotify.com/album/0oqKoXvVPiq0IQ2IGU3Ygj"
       },
@@ -9482,7 +9500,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 145373,
       "name": "You Drive Me Nervous - Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972",
       "url": "https://open.spotify.com/track/4oRoieR5RNcMBJOAfTbsXD"

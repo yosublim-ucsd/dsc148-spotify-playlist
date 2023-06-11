@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosalía e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,878,772 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,095 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 2 | [Abre A Mente \- Ao Vivo Em Brasília](https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP4\)](https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy) | 3:10 |
 | 3 | [Cê Namora Eu \- Ao Vivo](https://open.spotify.com/track/4Bqza8uYhNG9t46J9teMSO) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Quebra\-Cabeça Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/6UWoYbRwv3jmVkq8eWc2cU) | 2:26 |
 | 4 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 |
-| 5 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Ying Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
+| 5 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Renan Mesquita Silva Kyan](https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8), [Gregory](https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
 | 6 | [Quer Ser Namorada](https://open.spotify.com/track/6giuILVhuTCUJsH3O1GtEo) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW) | [Quer Ser Namorada](https://open.spotify.com/album/6zE2zjoayxJoBf3nJKMCJ4) | 5:00 |
 | 7 | [Flash Volta](https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Flash Volta](https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa) | 2:58 |
 | 8 | [Sentaê / Citação: A Vida Do Viajante \- Ao Vivo](https://open.spotify.com/track/1apjBuJ2i3xjSQUjIpiqrm) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Sentaê / Citação: A Vida Do Viajante \(Ao Vivo\)](https://open.spotify.com/album/0Y2gAutP5cBfcmOnB72FVp) | 2:08 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [No Air](https://open.spotify.com/track/0yeMGcQyRgcTeFGPRgpLNa) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [AXXE](https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i), [Ventura](https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC) | [No Air](https://open.spotify.com/album/7D1UOobbVg5OCmMEN0Adlq) | 2:44 |
 | 97 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 |
 
-Snapshot ID: `MCw4OTgzZGFlNDgxOWM5N2RmYzQzZjhmYWIyNGIxMzMzMzJlOWY5YjY0`
+Snapshot ID: `MCw5NDEzNDcwZTAxYTg2ZmRmZjljZjBiYWFmZTc0NWE3MTM2NDIzNWEz`

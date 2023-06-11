@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,446 likes - 231 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,514 likes - 231 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 230 | [Hold On To Me](https://open.spotify.com/track/3dALeQZ6Uwp9vuVaCMB51b) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Hold On To Me](https://open.spotify.com/album/4aDGgNHOR5Fyb11UhQEJ5t) | 3:19 |
 | 231 | [End Up In a Song](https://open.spotify.com/track/6YhEPsP4m6k22kN4kFXcWK) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [End Up In a Song](https://open.spotify.com/album/1Qbs78GmL4ZGFCVY7JWrM6) | 2:28 |
 
-Snapshot ID: `MCxmZTU4ZmU3NDRiOThlMjQ2ZTRiMWIzYjIxZGY1OTJmMGNiNzU2NmY5`
+Snapshot ID: `MCxkMDg5YTI5ZDkyODVmZTNhOWMyNTAxNTIwMDU4ZDRmNjQ3OTc1MWM4`

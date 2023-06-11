@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,137 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,259 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 19 | [Honey I'm Home](https://open.spotify.com/track/5U7QTTy3KlqNkNFDcEUMea) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play](https://open.spotify.com/album/2PMcA7AaZxQXmj62zGJLcd) | 4:09 |
 | 20 | [Messiah](https://open.spotify.com/track/7g4KHyPt8FZigEgVD3AYvT) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Messiah](https://open.spotify.com/album/4yOAahwdVrCD5Rap8bzQQ3) | 3:43 |
 | 21 | [Last Man In The World \- Mateus Asato Version](https://open.spotify.com/track/0uzpt7May2M7dJ6NhnmixT) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Last Man In The World \(Mateus Asato Version\)](https://open.spotify.com/album/28gzrR2NmkHzPSc3fKRV3O) | 2:54 |
-| 22 | [Feel Something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [Feel Something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
+| 22 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
 | 23 | [Lacerate](https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Lacerate](https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX) | 3:30 |
 | 24 | [Fake My Death](https://open.spotify.com/track/143pci1Z7kfG2arb9j4zgI) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9), [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Fake My Death](https://open.spotify.com/album/4ok29qsxk5xTG9GelVaa4R) | 2:25 |
 | 25 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 |
 | 50 | [Wet Like Summer](https://open.spotify.com/track/505RZEFoZAJvbpQIDsSxEq) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [Wet Like Summer](https://open.spotify.com/album/1DhiNOli1JsvZ6ZcPpI9Rv) | 3:28 |
 
-Snapshot ID: `MCw5ODRiNDYwN2NhNjhlOTA1MTcyZjc5YzBhOTk2NjMxYjlmNGI3NjEw`
+Snapshot ID: `MCwxYWE3NWE2ZjhiMTAxZDQ0NWQ1NGI0MDM5MDE0YmU0NWJmMGNlZmI5`

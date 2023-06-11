@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Saiko
 
-195 songs - 10 hr 14 min
+196 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 | 2022-05-13 |  |
 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 | 2022-05-13 | 2022-11-19 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-03-10 |  |
-| [Reggaeton Antiguo](https://open.spotify.com/track/6b7i8R6IXIdjq2fXMTb52W) | [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Reggaeton Antiguo](https://open.spotify.com/album/2bkyVv0tGrWbddmVm44kVn) | 2:51 | 2023-05-12 |  |
+| [Reggaeton Antiguo](https://open.spotify.com/track/5y3xb6gdWTRDlxlZX1iBCO) | [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Reggaeton Antiguo](https://open.spotify.com/album/0diLJV0zvmSZReVKzsjxUL) | 2:51 | 2023-05-12 |  |
+| [Reggaeton Antiguo](https://open.spotify.com/track/6b7i8R6IXIdjq2fXMTb52W) | [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Reggaeton Antiguo](https://open.spotify.com/album/2bkyVv0tGrWbddmVm44kVn) | 2:51 | 2023-05-12 | 2023-06-11 |
 | [Reset](https://open.spotify.com/track/4fARBgcUy0qN2Pq2XHo36P) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Reset](https://open.spotify.com/album/5APEFFpCs7UOhhF6opfxLA) | 3:11 | 2022-05-13 | 2022-07-28 |
 | [Retroceso](https://open.spotify.com/track/3b8qjpK8PJt0v6x8w8GvUG) | [S\-Roneo](https://open.spotify.com/artist/0HUZSrM12BQcOqwdDXdYml), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Retroceso](https://open.spotify.com/album/6nts7sAbMRfN0AJw2SHjcP) | 3:14 | 2022-05-13 | 2022-07-29 |
 | [Rolito](https://open.spotify.com/track/2IAggR4ZBfI7cBw9COpgdr) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Neko](https://open.spotify.com/artist/6Dy0IMNdwYgTADL8fe3zsf) | [Rolito](https://open.spotify.com/album/5zF86CFllHdIo9riHB4xQd) | 3:02 | 2022-05-13 | 2022-07-18 |

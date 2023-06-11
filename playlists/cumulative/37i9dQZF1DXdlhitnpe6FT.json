@@ -362,7 +362,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 166026,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
       },
@@ -2413,7 +2431,7 @@
       "artists": [
         {
           "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
         }
       ],
       "date_added": "2020-12-08",

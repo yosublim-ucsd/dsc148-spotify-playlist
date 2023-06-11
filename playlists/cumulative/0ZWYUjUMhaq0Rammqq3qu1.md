@@ -2,7 +2,7 @@
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023\. Cover: SG Lewis
+> Dance hits in 2023\. Cover: Swedish House Mafia
 
 218 songs - 11 hr 13 min
 

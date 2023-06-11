@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-138 songs - 8 hr 36 min
+139 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [On the Floor](https://open.spotify.com/track/0ulXGwFxSuoCvddSoQllWW) | [Kate Gillespie](https://open.spotify.com/artist/6ci7cpgQnyd6mWMAXWQI0T) | [On the Floor](https://open.spotify.com/album/4AORDk5HMoctBbfueKVzsK) | 3:51 | 2021-12-01 |  |
 | [Once](https://open.spotify.com/track/0bb3OVWJFZUklS9gfi8L7O) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:25 | 2021-12-01 |  |
 | [Parking Lot](https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 4:06 | 2021-12-01 |  |
-| [Quiet](https://open.spotify.com/track/5pI0YeepuVUHaZFUd3bbNe) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard To Be Human](https://open.spotify.com/album/56cngKtxfa01LqaVqaEj3p) | 4:01 | 2021-12-01 |  |
+| [Quiet](https://open.spotify.com/track/2jqoFe4y2yY5Ts47HJozDm) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard to Be Human](https://open.spotify.com/album/1vnZT6upil8XVg94ejhGk3) | 4:01 | 2021-12-01 |  |
+| [Quiet](https://open.spotify.com/track/5pI0YeepuVUHaZFUd3bbNe) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard To Be Human](https://open.spotify.com/album/56cngKtxfa01LqaVqaEj3p) | 4:01 | 2021-12-01 | 2023-06-11 |
 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 | 2021-12-01 |  |
 | [Ready for It All](https://open.spotify.com/track/4WgImOn4TaZJyD9Mbes0oM) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [Ready for It All](https://open.spotify.com/album/61n6040QOrnXfpH8WLsbUL) | 2:51 | 2021-12-01 |  |
 | [Run](https://open.spotify.com/track/15tq1qETaX4w1LQgBeq5TH) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Run](https://open.spotify.com/album/4OeJXZwNH86tOQ8AWjc6KO) | 3:22 | 2021-12-01 | 2022-09-15 |

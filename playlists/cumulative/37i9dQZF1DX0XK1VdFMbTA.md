@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-854 songs - 2 day 11 hr 38 min
+856 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Angel](https://open.spotify.com/track/4qiUf0nH55Bx2uuybf5S1g) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 4:03 | 2022-01-05 |  |
 | [Angel From The Coast](https://open.spotify.com/track/7elItf8OyvfFHt6tfDjy1a) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 3:04 | 2022-01-05 | 2022-07-25 |
 | [Angelsea](https://open.spotify.com/track/6v1lfGTLOwiUGkBr52WPsw) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Catch Bull At Four](https://open.spotify.com/album/1PhRPYhAOtiSXkiGU82YyZ) | 4:30 | 2022-01-05 | 2023-06-07 |
-| [Angelsea](https://open.spotify.com/track/5CIApCVGzc0JALtWOdsOtx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [On The Road To Find Out](https://open.spotify.com/album/3em9VwFFrTqSVZcsppSUeF) | 4:30 | 2022-11-17 |  |
+| [Angelsea](https://open.spotify.com/track/5CIApCVGzc0JALtWOdsOtx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [On The Road To Find Out](https://open.spotify.com/album/3em9VwFFrTqSVZcsppSUeF) | 4:30 | 2022-11-17 | 2023-06-11 |
+| [Angelsea \- Remastered 2022](https://open.spotify.com/track/1M6eLMgrhSlr0qrkF5p9jA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Catch Bull At Four \(Remastered 2022\)](https://open.spotify.com/album/6ldykgZnNBeqd34eXntFNx) | 4:28 | 2022-11-17 |  |
 | [Another Day](https://open.spotify.com/track/0q00ErNvmf0SdDP0jL1Uws) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:44 | 2022-01-05 | 2022-06-30 |
 | [Another Day \- 2005 Remaster](https://open.spotify.com/track/26jvuqm2VWfI3VOaYEHUw2) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 3:44 | 2022-01-05 | 2022-11-13 |
 | [Another Girl, Another Planet \- 2008 re\-mastered version](https://open.spotify.com/track/5TmQl8urbTlfZb8xKisSl0) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [The Only Ones](https://open.spotify.com/album/5xXnT1iBWmcFZv9f46FvYq) | 3:01 | 2022-01-05 |  |
@@ -656,7 +657,8 @@
 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2022-01-05 |  |
 | [Sister Morphine \- 2009 Mix](https://open.spotify.com/track/1XaL1OWGibGlPqLUW9MnCX) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:31 | 2022-01-05 |  |
 | [Sitting](https://open.spotify.com/track/1yoXEeNOGWfI4AJoYLEPpb) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Catch Bull At Four](https://open.spotify.com/album/1PhRPYhAOtiSXkiGU82YyZ) | 3:14 | 2022-01-05 | 2023-06-07 |
-| [Sitting](https://open.spotify.com/track/0aexSGwzOgZcoaEPHuxrWH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Greatest Hits](https://open.spotify.com/album/5BDqJzTLIb2J85U8DA9g29) | 3:16 | 2022-11-17 |  |
+| [Sitting](https://open.spotify.com/track/0aexSGwzOgZcoaEPHuxrWH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Greatest Hits](https://open.spotify.com/album/5BDqJzTLIb2J85U8DA9g29) | 3:16 | 2022-11-17 | 2023-06-11 |
+| [Sitting \- Remastered 2022](https://open.spotify.com/track/28ZgIkZVWWPWkyPH7cmcBT) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Catch Bull At Four \(Remastered 2022\)](https://open.spotify.com/album/6ldykgZnNBeqd34eXntFNx) | 3:12 | 2022-11-17 |  |
 | [Six Blade Knife](https://open.spotify.com/track/2miIOgni3EEut8pvYcxeYn) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT) | 4:12 | 2022-01-05 | 2022-07-29 |
 | [Six Blade Knife](https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:13 | 2022-01-05 |  |
 | [Skweeze Me, Pleeze Me](https://open.spotify.com/track/75Qqj0a1D0fxYrQ9j8vnqX) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 4:29 | 2022-01-05 | 2022-07-28 |

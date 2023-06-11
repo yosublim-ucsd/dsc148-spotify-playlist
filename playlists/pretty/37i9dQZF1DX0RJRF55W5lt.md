@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,238 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,492 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Buddy X '99 \- Dreem House Edit](https://open.spotify.com/track/5NqKNGegPd7IBAZORoK0sb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [The Dreem Teem](https://open.spotify.com/artist/1Q60RIUO8DaJqi1bU2oFTE), [B Simms](https://open.spotify.com/artist/3KRl3x5ii6cK06QiW2na3j) | [Buddy X '99](https://open.spotify.com/album/2uErcMEL1ul0hABDrxMJFv) | 3:21 |
 | 75 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 
-Snapshot ID: `MCwyMDZiZWM0ODc2MmI1YjM3ZTI0YjcwY2JlODA5YTg0YzQxZDhkOTdl`
+Snapshot ID: `MCxmNTU5MDgxYjk5OTdlOTNlMWQxMjdmZjFkYjkzNTkxYjkyMTc5ZDZh`

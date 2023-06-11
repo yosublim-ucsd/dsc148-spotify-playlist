@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla",
-  "num_followers": 425584,
+  "num_followers": 425625,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjEzYjE2MjA2NzBlNzM1Y2Y1YzBiMWExMjA3ZTA1NDM3ZDVkNjlk",
+  "snapshot_id": "MCw4Mjc5NzUxNzkwNDQxZDBkY2VhYTk1N2MxYzIyMzkxMWY3ZTQ3NzAz",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "L\u00e1 De Onde Eu Vim",
         "url": "https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 187791,
       "name": "L\u00e1 De Onde Eu Vim",
       "url": "https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Folha",
-        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 197336,
-      "name": "Folha",
-      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Vem Meu Amor",
         "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 155738,
       "name": "Vem Meu Amor",
       "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Folha",
+        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "Folha",
+      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Te dizer que sim.",
-        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 150036,
-      "name": "Te dizer que sim.",
-      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "L\u00e1 Vem A Noite",
         "url": "https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Te dizer que sim.",
+        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 150036,
+      "name": "Te dizer que sim.",
+      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+        "name": "n\u00f3sdois",
+        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
         }
       ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+      "duration_ms": 163815,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "n\u00f3sdois",
-        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
-        }
-      ],
-      "duration_ms": 163815,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Terminei",
         "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 167687,
       "name": "Terminei",
       "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Dias Claros",
-        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dias Claros",
-      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Marshmallow Flor De Sal (Deluxe)",
         "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Vem Me Encontrar",
-        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
+        "name": "Dias Claros",
+        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
       },
       "artists": [
         {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 173907,
-      "name": "Vem Me Encontrar",
-      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
+      "duration_ms": 151874,
+      "name": "Dias Claros",
+      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 190507,
       "name": "isso \u00e9 t\u00e3o a gente :)",
       "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Vem Me Encontrar",
+        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Vem Me Encontrar",
+      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Cangote",
+        "url": "https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        }
+      ],
+      "duration_ms": 166577,
+      "name": "Cangote",
+      "url": "https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Contradi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Cangote",
-        "url": "https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8"
-      },
-      "artists": [
-        {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        }
-      ],
-      "duration_ms": 166577,
-      "name": "Cangote",
-      "url": "https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Esperando C\u00ea Voltar",
         "url": "https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q"
       },
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
+        "name": "Ponto de Equil\u00edbrio",
+        "url": "https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Tibi",
+          "url": "https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL"
+        },
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
         }
       ],
-      "duration_ms": 273092,
-      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
+      "duration_ms": 177158,
+      "name": "Ponto de Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1179,6 +1183,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 273092,
+      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Eu e Voc\u00ea",
         "url": "https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 160031,
       "name": "Eu e Voc\u00ea",
       "url": "https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Ponto de Equil\u00edbrio",
-        "url": "https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj"
-      },
-      "artists": [
-        {
-          "name": "Tibi",
-          "url": "https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL"
-        },
-        {
-          "name": "Onze:20",
-          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
-        }
-      ],
-      "duration_ms": 177158,
-      "name": "Ponto de Equil\u00edbrio",
-      "url": "https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 208663,
-      "name": "pra onde vai o amor",
-      "url": "https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 194805,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 208663,
+      "name": "pra onde vai o amor",
+      "url": "https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX"
     }
   ],
   "unique_name": "Pop Leve",

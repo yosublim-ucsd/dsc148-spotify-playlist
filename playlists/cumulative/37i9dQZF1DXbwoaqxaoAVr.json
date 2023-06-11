@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Pop style reggae for a sunny vibe!",
-  "name": "Sunshine Reggae",
+  "description": "Pop style reggae for a sunny summer vibe!",
+  "name": "Summer Sunshine Reggae",
   "tracks": [
     {
       "album": {
@@ -16,10 +16,32 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 214349,
       "name": "A Little Bit More",
       "url": "https://open.spotify.com/track/00eJYYLj3L2Mr2Nl1a9J02"
+    },
+    {
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197183,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
     },
     {
       "album": {
@@ -721,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6RIKM60SSomYggvqXtppKE"
+      },
+      "artists": [
+        {
+          "name": "Khalia",
+          "url": "https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/77mExXdHBmXHy2Ge14T3l9"
+    },
+    {
+      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf"
       },
@@ -1004,6 +1048,24 @@
       "duration_ms": 213769,
       "name": "Home",
       "url": "https://open.spotify.com/track/32B1bOMkjY9dnMVlcmpWdv"
+    },
+    {
+      "album": {
+        "name": "Positive Quotes",
+        "url": "https://open.spotify.com/album/65FEMmtdKTmAfdnDmb1ZJe"
+      },
+      "artists": [
+        {
+          "name": "Natty Bong",
+          "url": "https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249759,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/3HH51g8X40OtiOlKGABolJ"
     },
     {
       "album": {
@@ -1504,7 +1566,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 169386,
       "name": "Lipstick Lover",
       "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
@@ -2104,6 +2166,28 @@
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
+    },
+    {
+      "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/2F3DFkOdRbJB1x5wQp2ROk"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        },
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279433,
+      "name": "Play My Games (feat. Hollie Cook)",
+      "url": "https://open.spotify.com/track/02Om6Pp8KdFEXvO4R9km2v"
     },
     {
       "album": {
@@ -2822,7 +2906,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 240488,
       "name": "Undeniable (feat. Kaylan Arnold)",
       "url": "https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u"
@@ -3020,7 +3104,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 179999,
       "name": "Yearn to Burn",
       "url": "https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Flo Gallop
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,589 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,647 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 14 | [My Ex Just Fell In Love](https://open.spotify.com/track/4K7dBw3z8uXykxdTjJGMXn) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [My Ex Just Fell In Love](https://open.spotify.com/album/1qoxMaSlZqWtE8vh3j6rIx) | 3:36 |
 | 15 | [Lizzie Mcguire](https://open.spotify.com/track/3611VphaiamavEXf3L5HxK) | [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Lizzie Mcguire](https://open.spotify.com/album/3QdquU4WReBgx06UCLrLM8) | 3:00 |
 | 16 | [Lessons](https://open.spotify.com/track/5MyqCveeVgg5Df5wDicJOX) | [Violet Young](https://open.spotify.com/artist/0SKp6Clc4OkbujfdtUPKtl) | [Lessons](https://open.spotify.com/album/0AfodJxFpXcvGXYAx1lTZu) | 3:45 |
-| 17 | [Unlucky](https://open.spotify.com/track/3wSYgiaethOggbj2zwPrB1) | [Mont Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [Unlucky](https://open.spotify.com/album/03FUkplb4ApyfjoFyAZDO1) | 2:46 |
+| 17 | [Unlucky](https://open.spotify.com/track/3wSYgiaethOggbj2zwPrB1) | [Mönt Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [Unlucky](https://open.spotify.com/album/03FUkplb4ApyfjoFyAZDO1) | 2:46 |
 | 18 | [Saving Face](https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Saving Face](https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92) | 3:01 |
 | 19 | [Worst Boyfriend Award](https://open.spotify.com/track/3rPoShpRY4qZyQM2nMGEVq) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Worst Boyfriend Award](https://open.spotify.com/album/0v3UEhMmXcYwtkoN5nxlBn) | 2:55 |
 | 20 | [Running](https://open.spotify.com/track/7J3OJvPRZMACISZ9UrNIl2) | [Lois](https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1) | [Strange Men](https://open.spotify.com/album/5lp4CkZxqa0thAPuKSEtmc) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 |
 | 100 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 
-Snapshot ID: `MCxlODc0MjJmN2Y1MDAyNzE1Y2NiNWY3MTRmYTFlYTE0NWFiZDYxYzRj`
+Snapshot ID: `MCw2MTlmZjQ5ZDM5NzY1YWIwYWQzY2NlNjdiYzJkZDQxZWZlNGZkY2Nm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Dave, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,436 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,459 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 |
 | 81 | [Bite](https://open.spotify.com/track/357BPRQBOi7m38Kl3Jn7j8) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Bite](https://open.spotify.com/album/7tMqwp42zyOZaSpQgnp03t) | 2:52 |
 
-Snapshot ID: `MCw4ZjYxNWNjY2EwNGVmNjdkZmRmMzk5Yzc2N2U5NzAyMjNkNmEyMmMy`
+Snapshot ID: `MCxkMTIxZjgzYjgwOTU2NTRhMGQ4NjE1YzNjM2IzZTY0ZDEzMGVhYzQ0`

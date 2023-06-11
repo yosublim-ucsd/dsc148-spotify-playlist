@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nathan Dawe, Joel Corry + Ella Henderson \(pictured\), J Hus + Drake, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,037 likes - 142 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,871 likes - 142 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 |
 | 125 | [Don't Start](https://open.spotify.com/track/7jl6V3SIaEV7C88aFnMOVH) | [Hazel Sapphire](https://open.spotify.com/artist/5YpoRs9PHsQbgIHq3WpCVD), [C.REM](https://open.spotify.com/artist/2KXYnskOksetWqWTo8OYLW), [Outrageous Claims](https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih) | [Don't Start](https://open.spotify.com/album/1JYLnsJt00Nmx5fXLXSKpS) | 2:51 |
 | 126 | [451](https://open.spotify.com/track/2HwF4B41ftwnEnmoPAS5ID) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [451](https://open.spotify.com/album/4YH2TfFleoOkOT5XwQRRsh) | 4:41 |
-| 127 | [Good To Me](https://open.spotify.com/track/632maZyihLFATahwU2jyu0) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Perfext](https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [Memories That Last Forever 2](https://open.spotify.com/album/6PUjWFCiY99oOGa8fV6yGB) | 3:34 |
+| 127 | [Good To Me](https://open.spotify.com/track/632maZyihLFATahwU2jyu0) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Perfext](https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [The Sarz Academy Presents: Memories That Last Forever 2](https://open.spotify.com/album/6PUjWFCiY99oOGa8fV6yGB) | 3:34 |
 | 128 | [not responsible](https://open.spotify.com/track/5zpQViOSv0oXf8utyIPhdq) | [Zoey Lily](https://open.spotify.com/artist/0LazfGmIM2fG2g9Xg3ZLWA) | [Too Many Nights](https://open.spotify.com/album/3kZqPKDypjiQEF7axzeCAe) | 3:07 |
 | 129 | [Good Enough](https://open.spotify.com/track/75eZUwglAq6A6o3iNcnuUV) | [Jesse Elvis](https://open.spotify.com/artist/761s7ARkOG0L11knEZ0WhF) | [Good Enough](https://open.spotify.com/album/1hhhSiRAkbbcdnqA2YiI9D) | 3:03 |
 | 130 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 132 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
 | 133 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 |
 | 134 | [Never the One](https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Never the One](https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B) | 2:57 |
-| 135 | [Cinnamon Buns](https://open.spotify.com/track/121lkT3w23DMbVDb9gQFZ0) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a), [Rozsa](https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa), [No Secrets](https://open.spotify.com/artist/2hQHx2rRVJNiIHjoGlqWmQ) | [Cinnamon Buns](https://open.spotify.com/album/3j6tLuBtq27fnUnMqXq5Sw) | 2:45 |
+| 135 | [Cinnamon Buns](https://open.spotify.com/track/121lkT3w23DMbVDb9gQFZ0) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a), [Rozsa](https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa), ['No Secrets'](https://open.spotify.com/artist/000AVsBO0NE04KcMVKh4na) | [Cinnamon Buns](https://open.spotify.com/album/3j6tLuBtq27fnUnMqXq5Sw) | 2:45 |
 | 136 | [When I Look At You](https://open.spotify.com/track/5G8kYuImq3N1CTQWBwt8Nm) | [Liv Harland](https://open.spotify.com/artist/0X9dw83QR5kirBVlMffpKW) | [Inspirations](https://open.spotify.com/album/579RGhdS5J6Aq9IMkJOvw8) | 3:35 |
 | 137 | [Do You Want My Love](https://open.spotify.com/track/6VLxzOQaQv6a8r4RLjP4OP) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34) | [Do You Want My Love](https://open.spotify.com/album/1khoRW3vvoveZ5HwOnB6aw) | 3:32 |
 | 138 | [2,3](https://open.spotify.com/track/0NTHd3iUZZwTde1UKOaTZ5) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [2,3](https://open.spotify.com/album/7owfv0ymUOlbhvUQOD4iZw) | 2:32 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 141 | [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 |
 | 142 | [All I Need](https://open.spotify.com/track/0KioBKSzWP7lwXOwH6iJF2) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Brad McDermott](https://open.spotify.com/artist/00wJpBsiDvhEGM3M6cnVgI) | [All I Need](https://open.spotify.com/album/1yJFSMd3lTEkhkEuSp8rHC) | 2:00 |
 
-Snapshot ID: `MCw4NjJkOWE3YTQyODZjOTlkNWYwNmQzZTVhZTAzMjBkZmVjNjliMjA0`
+Snapshot ID: `MCxhYWQzNDJhYmVmMTZmZWY3YmViYzgwYjA3NjMxODI2OGE5ZDJjOWM0`

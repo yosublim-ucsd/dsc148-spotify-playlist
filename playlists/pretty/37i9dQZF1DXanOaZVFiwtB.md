@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,372 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,480 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 30 | [Koji Koji Ginza](https://open.spotify.com/track/5z2rcCuJHYYXVXcCDmzFkJ) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [Koji Koji Ginza](https://open.spotify.com/album/2erDr9VtpkJjEOgTZoXYRm) | 5:02 |
 | 31 | [Get along <ALBUM VERSION>](https://open.spotify.com/track/5rPF3lhPX8Vvkf7gTgheyF) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p), [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [スレイヤーズMEGUMIXXX](https://open.spotify.com/album/55RelAMhqC3ubteVrbIY8I) | 4:09 |
 | 32 | [いとおしい人のために](https://open.spotify.com/track/3ox8aLcTppZcXw0vD0kytx) | [佐藤朱美](https://open.spotify.com/artist/0b4NaVu4HHtkMPNPJPMWGz) | [いとおしい人のために](https://open.spotify.com/album/5x8WJ0ilQQbkmdLeYiy8Z0) | 3:14 |
-| 33 | [ETERNAL WIND〜ほほえみは光る風の中〜](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND〜ほほえみは光る風の中〜](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 |
+| 33 | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 |
 | 34 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/7rxWdyCnDCzXuYwV28VTwd) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [20 BEATS 20 TALES](https://open.spotify.com/album/1EftEeFHZho0h7Ow7Uy9KN) | 4:12 |
 | 35 | [DREAMS](https://open.spotify.com/track/3N9CUAci3R0gWPEThCYIJn) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4xPUXxamRojoGcFGn6ArJE) | 5:01 |
 | 36 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MCxkMzA0ZjkwYjM5YmJiNTQ4MjdkZjQ5NWFmZWYwNGVkNTllYTk4ODgw`
+Snapshot ID: `MCxmZjAyMjM4MjA2NjMzNTUwOGIzZDI2NzE3MjZjZDk0ODFhYmEwZjAy`

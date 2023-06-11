@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-88 songs - 5 hr 32 min
+90 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 | 2022-06-21 |  |
 | [Koi wa Question](https://open.spotify.com/track/3vfAwYTAn0ZnQEPpVGsQUp) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [Yume Catalog + Single Collection](https://open.spotify.com/album/6l4mUfoN9qk4Mmwy41WSMg) | 3:11 | 2022-06-21 |  |
 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 | 2022-06-21 |  |
+| [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 | 2022-06-21 |  |
 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 | 2022-06-21 |  |
 | [My Neighbor Totoro \- Ending Theme Song](https://open.spotify.com/track/5Oki7wvBpSuo3OcRq9jHVg) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Soundtrack Collection](https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3) | 4:17 | 2022-06-21 | 2022-11-13 |
 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [QUARTERBACK](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 | 2021-10-07 | 2022-07-29 |
@@ -34,6 +35,7 @@
 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/58Uv6tYdQU74invXpeN0u1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [City Pop Essentials Vol\. 2](https://open.spotify.com/album/0vR0kzwQJmXWVyuINLiQ7m) | 4:05 | 2022-06-21 |  |
 | [RUNNING TO HORIZON](https://open.spotify.com/track/2asLNnI5Kz68y83uS5aMav) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 4:53 | 2022-06-21 |  |
 | [RUNNING TO HORIZON](https://open.spotify.com/track/5VNKSlBMkJEFpuWdyKicV8) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/6qJzxWUbaoIaFqs6lKSbt0) | 4:53 | 2021-10-07 | 2022-07-29 |
+| [Silent Voice](https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH) | [Jun Hiroe](https://open.spotify.com/artist/48DGGQUllRMJBjK6ArNDkZ) | [Silent Voice](https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB) | 4:26 | 2022-06-21 |  |
 | [Step](https://open.spotify.com/track/68iZdH6Vo4z8B5nYQMPJrt) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Mashin Hero Wataru Music Collection](https://open.spotify.com/album/4fOUhLvHujVNMBmtLyMArX) | 4:17 | 2022-06-21 |  |
 | [Step](https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Step](https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd) | 4:19 | 2021-10-07 | 2022-07-29 |
 | [Tobe! GUNDAM](https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2) | [Tobe! GUNDAM](https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU) | 2:45 | 2022-06-21 |  |
@@ -53,7 +55,7 @@
 | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/track/28ACIDtyN78mOR0sx8PoAn) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/album/1oxQkwYrG93I53Y8yfcNZ8) | 4:05 | 2021-10-07 | 2022-06-22 |
 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 | 2021-10-07 |  |
 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 | 2021-10-07 |  |
-| [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 | 2021-10-07 |  |
+| [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 | 2021-10-07 | 2023-06-11 |
 | [サザエさん一家](https://open.spotify.com/track/1TgBRjzoQDtyzeVc08FFyI) | [宇野ゆう子](https://open.spotify.com/artist/3vztmeg6tDx8dJohekt4l4) | [サザエさん](https://open.spotify.com/album/0OYfnYKIrEjcvHEPkfSK7n) | 3:28 | 2021-10-07 |  |
 | [タッチ](https://open.spotify.com/track/1EvVwqTga8655SrGAS6Zba) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [half time](https://open.spotify.com/album/75zFDfWZKFbsUavUjUInUY) | 3:12 | 2021-10-07 | 2022-07-29 |
 | [テレポーテーション\-恋の未確認\- \(エスパー魔美\)](https://open.spotify.com/track/1IiP68EFiXhOhlFlUiioBn) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [JAPAN ANIMESONG COLLECTION VOL.20 \[アニソン・ジャパン\]](https://open.spotify.com/album/2LoSVweNFiayYPw6Q7rFlO) | 3:21 | 2022-06-21 |  |
@@ -87,7 +89,7 @@
 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 | 2022-06-21 |  |
 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 | 2021-10-07 | 2022-07-29 |
 | [正調 おそ松節](https://open.spotify.com/track/6iq0zO56ijjOVpbcP44e3v) | [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [芸道40年記念 細川たかし全集 心のこり〜艶歌船](https://open.spotify.com/album/4Y5hOPaaQBHbXJQsKyebom) | 3:42 | 2021-10-07 |  |
-| [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2021-10-07 |  |
+| [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2021-10-07 | 2023-06-11 |
 | [燃えてヒーロー](https://open.spotify.com/track/177W3nNOUxB9eT32Qe6inf) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト 沖田浩之](https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce) | 3:00 | 2022-06-21 |  |
 | [燃えてヒーロー](https://open.spotify.com/track/3Z2elIIIrjRbAIL1kkPz2I) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト 沖田浩之](https://open.spotify.com/album/4so0PTeYuLdKE7vDdxrsFe) | 3:00 | 2021-10-07 | 2022-07-29 |
 | [燃えてヒーロー](https://open.spotify.com/track/5R4IBXB0A5idctEebDdFiS) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [E気持 / 燃えてヒーロー BESTタッグ](https://open.spotify.com/album/2u1tZs7vUDGf1ruLToe1xA) | 3:03 | 2022-06-21 | 2022-11-13 |

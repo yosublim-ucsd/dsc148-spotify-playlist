@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 199838,
       "name": "Hey Bob Dylan",
       "url": "https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5"
@@ -5228,6 +5228,24 @@
       "duration_ms": 280822,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC"
+    },
+    {
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "album": {

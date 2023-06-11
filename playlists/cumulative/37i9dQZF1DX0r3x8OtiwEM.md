@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-591 songs - 2 day 11 hr 34 min
+592 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Escape](https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Escape](https://open.spotify.com/album/3K0oeE9JISZIsZRclm2RCy) | 7:17 | 2022-11-26 | 2022-12-13 |
 | [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-04-05 | 2023-04-29 |
 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-04-05 | 2023-04-20 |
+| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-05 |  |
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-12-17 | 2022-07-28 |
 | [Expander](https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Expander](https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ) | 7:24 | 2022-09-30 | 2022-10-08 |
 | [Explore](https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Explore](https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L) | 4:59 | 2022-09-30 | 2022-10-08 |
@@ -234,7 +235,7 @@
 | [Hollow \- Edit](https://open.spotify.com/track/5833ck9XB9euhAaRVc3xpq) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Brascon](https://open.spotify.com/artist/5ec60qNwkpxDGbKMuvCZqX), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Hollow](https://open.spotify.com/album/3CdEpyPxeXaQzYWwZs8Jmj) | 5:51 | 2020-05-30 | 2021-06-19 |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2020-07-18 | 2022-04-20 |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2020-11-07 | 2022-10-01 |
-| [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-30 |  |
+| [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-30 | 2023-06-11 |
 | [Home \- Mollono.Bass Remix](https://open.spotify.com/track/3yo8LTqxgJFi6quNJmfny8) | [Amac](https://open.spotify.com/artist/4L2uoWMkH5J1pqqyIZ7AQt), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Home \(Mollono.Bass Remix\)](https://open.spotify.com/album/2uLGNT7mFTJQomIiGfIFla) | 7:48 | 2021-02-23 | 2021-09-10 |
 | [Honto](https://open.spotify.com/track/18rwWnkl9AbEKHWwDAAaHL) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Paradigm](https://open.spotify.com/album/7pJMHar70APZ2SEaT1ufqS) | 6:46 | 2020-06-13 | 2020-10-10 |
 | [Howl](https://open.spotify.com/track/12tGRoSqYQUFBboPhtjzue) | [BAYKER](https://open.spotify.com/artist/6tkcwowyw3SqzQuTZBF0ui), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [HOWL EP](https://open.spotify.com/album/2fYUHumWFRTSSfWtmyYZ9S) | 5:59 | 2020-03-10 | 2020-05-18 |

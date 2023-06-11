@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 421701,
+  "num_followers": 422042,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWYxZjdlMTEyNmYwN2E0MjJmMjU4NzVmMmYyN2I3M2FlNTcxNWQ2",
+  "snapshot_id": "MCxmOTI4ZWJmYTk5OGY3YzM1ZWQwYmIyNDhjZDcwZWY4YjRhNGM4Y2Uy",
   "tracks": [
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
+        "name": "Kesempurnaan Cinta",
+        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 216019,
+      "name": "Kesempurnaan Cinta",
+      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
-        "name": "Kesempurnaan Cinta",
-        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 216019,
-      "name": "Kesempurnaan Cinta",
-      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
+        "name": "Cukup Tau",
+        "url": "https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 205620,
+      "name": "Cukup Tau",
+      "url": "https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
         "name": "Ello",
         "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
-        "name": "Cukup Tau",
-        "url": "https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 205620,
-      "name": "Cukup Tau",
-      "url": "https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L"
     }
   ],
   "unique_name": "Santai Sejenak",

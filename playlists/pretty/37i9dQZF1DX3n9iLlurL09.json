@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 70606,
+  "num_followers": 70697,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDIwNjUzMzNmYWU3YTlkYjFlYzM0NDg2MmRiZGRjYzIzZDExZjgy",
+  "snapshot_id": "MCw4OWQzZjAxMTIxNGQ5MDEwMThjMGU2MDVmYmIzZDJjNmQ1ZWRhYzI2",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sweet Disarray",
-        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
       },
       "artists": [
         {
-          "name": "Dan Croll",
-          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 196848,
-      "name": "From Nowhere",
-      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+      "duration_ms": 236440,
+      "name": "Sleep Alone",
+      "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
+        "name": "Sweet Disarray",
+        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
         }
       ],
-      "duration_ms": 236440,
-      "name": "Sleep Alone",
-      "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
+      "duration_ms": 196848,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
     },
     {
       "added_at": "2022-05-19 08:11:23",

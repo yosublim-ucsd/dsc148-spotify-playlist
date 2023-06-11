@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Fabio Brazza",
-  "num_followers": 224340,
+  "num_followers": 224360,
   "original_name": "Presen\u00e7a Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjZjNGE0ZGRiYTY1ZTc3MThlNzAzZmZmOTU5NzI5NmJjMzY3OTkw",
+  "snapshot_id": "MCwzOTYxYjhiNWEzNzQ5ZDBjZjM2ODFiYmM4NGRlMTA3NWMwMThlNDIx",
   "tracks": [
     {
       "added_at": "2023-06-09 03:03:00",
@@ -51,13 +51,21 @@
     {
       "added_at": "2023-06-09 03:03:00",
       "album": {
-        "name": "Ying Yang",
+        "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
       },
       "artists": [
         {
           "name": "Tasha & Tracie",
           "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Renan Mesquita Silva Kyan",
+          "url": "https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8"
+        },
+        {
+          "name": "Gregory",
+          "url": "https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer"
         }
       ],
       "duration_ms": 268000,

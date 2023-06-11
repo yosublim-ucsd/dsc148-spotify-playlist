@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023\. Cover: SG Lewis
+> Dance hits in 2023\. Cover: Swedish House Mafia
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,335 likes - 51 songs - 2 hr 29 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,334 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 50 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 |
 | 51 | [Future Champ](https://open.spotify.com/track/6mY3z56KmPtxEYPV6i85vB) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Future Champ](https://open.spotify.com/album/4VdOqzHHavSGDDKNXUb5gl) | 2:35 |
 
-Snapshot ID: `NDYxOSxhMDg3NWIxMjU2ZThhMWI2MTFlMTg2NzllMGYzZmQ1MTE5NDdiODFl`
+Snapshot ID: `NDYyMSxiNzNkMTQzODBjZmU0MTFiNjZjNmFkMTllNTU0ODkyMGUwZTYyMDY0`

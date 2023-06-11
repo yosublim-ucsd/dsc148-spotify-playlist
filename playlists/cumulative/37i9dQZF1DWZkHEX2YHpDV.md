@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-983 songs - 2 day 4 hr 3 min
+984 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Birdcage](https://open.spotify.com/track/2dU8wkeyvbMUUM3mwun5IX) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Birdcage](https://open.spotify.com/album/0O5hPKodswyqouT4iSH9ae) | 3:23 | 2021-12-10 | 2022-06-25 |
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2021-12-10 | 2022-06-25 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-20 | 2022-08-03 |
+| [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 |  |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
 | [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 | 2022-12-08 |
 | [Bloodhound for Oblivion](https://open.spotify.com/track/5NDKH3pjVtgiXt5PgjeONS) | [Relic Hearts](https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n) | [Volatile](https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL) | 3:11 | 2022-03-25 | 2022-04-19 |
@@ -906,7 +907,7 @@
 | [Ultraviolet](https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 2:53 | 2022-05-20 |  |
 | [UNAPOLOGETIC](https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [WAKE UP](https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi) | 2:01 | 2023-05-12 | 2023-06-10 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-10 | 2023-04-11 |
-| [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-04-10 |  |
+| [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-04-10 | 2023-06-11 |
 | [Under The Weather](https://open.spotify.com/track/6Dj5XM1Jp2s0oPmXMLh563) | [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm) | [Under The Weather](https://open.spotify.com/album/5cKqIyzwYGsdwMn7CYY6yW) | 3:54 | 2021-12-10 | 2022-05-23 |
 | [Untitled](https://open.spotify.com/track/1en77BAeOb0ECffJDZJKlW) | [Bare Dreams](https://open.spotify.com/artist/5QCrg7H3bN0FWaj20GOvX0) | [Lost With All Hands](https://open.spotify.com/album/7bEjIwsBIZu52uOFFhWYVm) | 3:44 | 2021-12-10 | 2022-04-18 |
 | [Upside Down](https://open.spotify.com/track/6trJelO46qKNUso5FtqgzG) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Upside Down](https://open.spotify.com/album/7HFSSWViGV3f6FvIY8evex) | 3:51 | 2022-02-04 | 2022-05-19 |

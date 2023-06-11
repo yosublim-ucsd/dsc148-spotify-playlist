@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-486 songs - 1 day 3 hr 36 min
+487 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Everything I Touch](https://open.spotify.com/track/2VUdkcsNTMGpxy5J5BUy0X) | [CyanBlue](https://open.spotify.com/artist/0XRb1v0ZGxUJJwXWIrTQLE) | [Everything I Touch](https://open.spotify.com/album/2OFt2qhPxrCTR3wiXn1sxm) | 3:16 | 2022-07-15 | 2022-08-13 |
 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 | 2022-11-04 |  |
 | [Extra Toppings](https://open.spotify.com/track/572peHfl2FJyJXw207lAtM) | [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Take Off](https://open.spotify.com/album/4a8XDmDZpia5Az8LjNzzqH) | 3:42 | 2022-03-04 | 2022-03-12 |
-| [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 | 2022-06-01 |  |
+| [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 | 2022-06-01 | 2023-06-11 |
 | [Eyes On You](https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 3:12 | 2022-08-12 | 2022-10-20 |
 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 | 2022-11-04 |  |
 | [FALLING](https://open.spotify.com/track/3JMpbOXO1j2HJBejJaXrlK) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo), [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM) | [BENDER: PART I](https://open.spotify.com/album/7wjzPwprnXXjsQCHykE2ja) | 3:38 | 2022-04-12 | 2022-06-01 |
@@ -465,6 +465,7 @@
 | [Welcome to the Disco](https://open.spotify.com/track/1aKRACWeXW0kXMhCWo35ub) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 3:15 | 2021-12-08 | 2023-04-30 |
 | [Welcome to the Disco](https://open.spotify.com/track/4idgNC6Y7rd2XRfzPphIBw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/6UJAG0MN18jejyZTf4oDQj) | 3:15 | 2021-12-08 | 2022-03-22 |
 | [Welcome To The Disco](https://open.spotify.com/track/6NT76Qk0fQCjPZecFgMIl5) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 3:15 | 2022-11-04 |  |
+| [What You Need](https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 2:41 | 2022-11-04 |  |
 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 | 2021-12-08 | 2023-04-30 |
 | [When I Look In Your Eyes \- Original Mix](https://open.spotify.com/track/2TsEwTxQTyGRmHBPtNJnmG) | [FederFunk](https://open.spotify.com/artist/4fLtM8j2nBAfMjfE9SqxG9) | [When I Look In Your Eyes](https://open.spotify.com/album/0ocpSL2TppgTpNHWdLOj6K) | 4:29 | 2022-11-04 |  |
 | [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 | 2022-04-12 | 2023-05-05 |

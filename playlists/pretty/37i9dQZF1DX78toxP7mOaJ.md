@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Parrotfish \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,454 likes - 110 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,504 likes - 110 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [OFF THE BONE](https://open.spotify.com/track/0tbsauAvlTJdoyiU6GB50L) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [OFF THE BONE](https://open.spotify.com/album/4VpH8a9n6ZghVvZFhgUlni) | 2:50 |
 | 110 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
 
-Snapshot ID: `MCxmZjhhNDliZWE3NjdiYjgwZDQxMGJmMzcyNDhmODhjMGYyZWY0OTNi`
+Snapshot ID: `MCw3YzY5Yjc1NDBiMDQxMjNjYjRjODZkYTMyMzY3NTlmMmVjZDA5N2Qz`

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 429485,
+  "num_followers": 429652,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTdkOGI1ODlkODMyNTFkOWE0OTdjOWY0ZDFlNjNlODMxZGY5MTlh",
+  "snapshot_id": "MCwyMWE3MzU1YWJhMGY0Y2NjMzBkMjNiNGFkYTg5MzY2N2E2NmEyM2U3",
   "tracks": [
     {
       "added_at": "2023-06-09 09:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "What It Is (2.0)",
-        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
-      },
-      "artists": [
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 336025,
-      "name": "The Body Move",
-      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "What It Is (2.0)",
+        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "duration_ms": 336025,
+      "name": "The Body Move",
+      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Lazybones",
-        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
-      },
-      "artists": [
-        {
-          "name": "Gene On Earth",
-          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
-        }
-      ],
-      "duration_ms": 347408,
-      "name": "Pulse Mode",
-      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208000,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Lazybones",
+        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
+      },
+      "artists": [
+        {
+          "name": "Gene On Earth",
+          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
+        }
+      ],
+      "duration_ms": 347408,
+      "name": "Pulse Mode",
+      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "I Knew It",
-        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
-      },
-      "artists": [
-        {
-          "name": "Yambow",
-          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
-        },
-        {
-          "name": "Latas",
-          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "I Knew It",
-      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Late Night Basix Vol. 2",
         "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "I Knew It",
+        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
+      },
+      "artists": [
+        {
+          "name": "Yambow",
+          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
+        },
+        {
+          "name": "Latas",
+          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "I Knew It",
+      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "SETRA",
-        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
-      },
-      "artists": [
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Setra",
-      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "SETRA",
+        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Setra",
+      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 182500,
       "name": "Tokyo Cruise",
       "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Invisible Man",
         "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
       },
       "artists": [
         {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
         }
       ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ya se siente la brisita del verano acerándose! Prepárate con lo nuevo de BTS, Sam Smith y Madonna, La Doble P y el Alfa, Rosalía y muchxs más 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,986 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,058 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Contacto Cero](https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [Contacto Cero](https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT) | 3:06 |
 | 50 | [Cuando se trata conmigo](https://open.spotify.com/track/09apv88GVTMrW6ctM8WAqU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:18 |
 
-Snapshot ID: `MCw2YTQxMWFjZTkwYWE5M2UzNjdjYzMzMzMxZjE5NDA1ZTc3MWE3NjM2`
+Snapshot ID: `MCxiYjU2NjkzNWIxMWU4NjI0YWM4Y2I0YjRiZDdlMGY0NTM0NzUwMGI4`

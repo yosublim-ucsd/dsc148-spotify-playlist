@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 7500,
+  "num_followers": 7527,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzk4OTZhNjMwOWM5ZWRhMjg0M2RmODc0ZjNiOGU1ODg0NzlhYmE5",
+  "snapshot_id": "MCxkZmEwYWFlZjNjNDZiOGY1ZmVmNzMyN2I2NmVlMzlhYzM1NzUzNDMy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -215,22 +215,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Trip At Knight (Complete Edition)",
-        "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 188025,
-      "name": "Matt Hardy 999 (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/1HsOTiVqdN7PB1zOS2bcsO"
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -275,18 +271,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+        "name": "Trip At Knight (Complete Edition)",
+        "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
+      "duration_ms": 188025,
+      "name": "Matt Hardy 999 (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1HsOTiVqdN7PB1zOS2bcsO"
     },
     {
       "added_at": "2022-10-01 16:17:17",

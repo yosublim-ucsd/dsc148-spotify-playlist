@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 214053,
       "name": "I'm gonna let you go",
       "url": "https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt"
@@ -1056,6 +1056,24 @@
       "duration_ms": 178973,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "album": {
+        "name": "Steamroller Blues (Live at The Honolulu International Center, Hawaii January 14, 1973)",
+        "url": "https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193309,
+      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
+      "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
     },
     {
       "album": {

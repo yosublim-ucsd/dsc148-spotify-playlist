@@ -1270,10 +1270,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 193838,
       "name": "Side Of My Heart",
       "url": "https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx"
+    },
+    {
+      "album": {
+        "name": "Side of My Heart",
+        "url": "https://open.spotify.com/album/3RLtuIWyS3J1I7StTvBDBc"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193838,
+      "name": "Side of My Heart",
+      "url": "https://open.spotify.com/track/4TyHsq64NdNohtPyV4ZtUD"
     },
     {
       "album": {

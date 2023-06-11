@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Folk Bitch Trio\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,106 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 41 | [You're Makin' Me High](https://open.spotify.com/track/1wxxQ4IFAnriUdkEHB2Aog) | [John Course](https://open.spotify.com/artist/4haTTVtSXPi13E8LdQMSL2) | [You're Makin' Me High](https://open.spotify.com/album/5Kzw4yLtPJbHbmoIqdVaGF) | 3:32 |
 | 42 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 |
 | 43 | [never meant](https://open.spotify.com/track/0WOCv4otA2LXzbAVApQLLI) | [Holliday Howe](https://open.spotify.com/artist/0iV4UAD683ZDnqSHhshF9x) | [never meant](https://open.spotify.com/album/6fHwyyf8f4k4HmRUCshyCM) | 2:51 |
-| 44 | [either way, this ends.](https://open.spotify.com/track/0zBv254ak3ukdhlP29ikuC) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [either way, this ends.](https://open.spotify.com/album/5RlQHkjirSpoBxKcjvEmpp) | 2:16 |
+| 44 | [either way, this ends.](https://open.spotify.com/track/0zBv254ak3ukdhlP29ikuC) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [either way, this ends!](https://open.spotify.com/album/5RlQHkjirSpoBxKcjvEmpp) | 2:16 |
 | 45 | [Just Friends](https://open.spotify.com/track/5ezDBFzmhpVRYccaVj9ED8) | [ZedYou](https://open.spotify.com/artist/197mhSTWX1hoHUyY4JMuuq) | [Just Friends](https://open.spotify.com/album/79hQ1SLQKNtpHAv4Ii9DFw) | 2:51 |
 | 46 | [bones \(sinking like stones\)](https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [bones \(sinking like stones\)](https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj) | 2:21 |
 | 47 | [Reminisce](https://open.spotify.com/track/2CjRcJNaSRM4bJAs0RvzL6) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Reminisce](https://open.spotify.com/album/6L2XJSKEAb9ViAWIRXNX7p) | 2:32 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 102 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 |
 | 103 | [About a Girl](https://open.spotify.com/track/7aOQzKVu0RrNb6RaIx7MR2) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Cameron Louw](https://open.spotify.com/artist/4CGLplb0hecwm3ZUwZEkmd), [This Pale Fire](https://open.spotify.com/artist/2QyKkKQ4UKyuxcU46PE1QK) | [About a Girl](https://open.spotify.com/album/0xU5YFziHejx7pJr62njz2) | 3:52 |
 
-Snapshot ID: `MCxlZTg2MjQxNDRjOTIxYTJhZWI5ZDVkNzA3MjQzN2Y2NTMzYTc0Yzli`
+Snapshot ID: `MCw0ODUzOWIyOTE4MGI2NGU1NTJiNWVmMDUwN2U1N2M0MTI2OTUyOGE3`

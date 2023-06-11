@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: feeble little horse
 
-932 songs - 2 day 5 hr 14 min
+934 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |
 | [Dolonia](https://open.spotify.com/track/5oRlBYinsa2xdBJIFOtkTe) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [What's Wrong](https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse) | 2:44 | 2022-09-19 | 2022-11-12 |
 | [Done With Bits](https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Done With Bits](https://open.spotify.com/album/0W6rOrXfNXH3h79NANKqvc) | 3:36 | 2023-01-27 | 2023-04-09 |
-| [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-07 |  |
+| [Drift](https://open.spotify.com/track/0g41K2GGXB7G1hDLGlvzul) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:24 | 2023-04-07 |  |
+| [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-07 | 2023-06-11 |
 | [Drillbit](https://open.spotify.com/track/4zkezz9WbHd1lzyvU2MWrv) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Drillbit](https://open.spotify.com/album/3Tqf0lLQlppOxdkcOTo2Nm) | 3:18 | 2023-05-26 |  |
 | [drink](https://open.spotify.com/track/0BKepmBtw6vSh6AVhoT0Uo) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [drink](https://open.spotify.com/album/0Lt7OKElAxGnG9WRywJjfB) | 2:30 | 2022-01-28 | 2022-02-22 |
 | [Drink The Lake](https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:15 | 2021-03-05 | 2022-04-29 |
@@ -368,7 +369,8 @@
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2021-03-05 | 2022-04-16 |
 | [Grief](https://open.spotify.com/track/5t9LP7mKj0KQPtg3LN5kvn) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Grief](https://open.spotify.com/album/57cK7JRwiSTzqEtNMVE6O7) | 3:39 | 2023-02-10 | 2023-04-29 |
 | [Grudge](https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 4:03 | 2022-09-26 | 2023-03-04 |
-| [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-05 |  |
+| [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-05 | 2023-06-11 |
+| [Guessing](https://open.spotify.com/track/3PQ1bonWWQ3qvnT8ptF8jf) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 5:03 | 2023-05-05 |  |
 | [Guessing in a Row](https://open.spotify.com/track/5klb3HnAcxzFhPO0tNSUg6) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Guessing in a Row](https://open.spotify.com/album/5j4nsSORgIB3H4yigy4wbA) | 3:46 | 2021-03-05 | 2022-04-21 |
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-03-04 | 2022-03-10 |
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-23 |  |

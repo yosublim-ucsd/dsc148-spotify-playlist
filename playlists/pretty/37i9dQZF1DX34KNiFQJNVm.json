@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosal\u00eda e muito mais!",
-  "num_followers": 1878772,
+  "num_followers": 1879095,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTgzZGFlNDgxOWM5N2RmYzQzZjhmYWIyNGIxMzMzMzJlOWY5YjY0",
+  "snapshot_id": "MCw5NDEzNDcwZTAxYTg2ZmRmZjljZjBiYWFmZTc0NWE3MTM2NDIzNWEz",
   "tracks": [
     {
       "added_at": "2023-06-09 21:14:05",
@@ -79,13 +79,21 @@
     {
       "added_at": "2023-06-09 21:14:05",
       "album": {
-        "name": "Ying Yang",
+        "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
       },
       "artists": [
         {
           "name": "Tasha & Tracie",
           "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Renan Mesquita Silva Kyan",
+          "url": "https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8"
+        },
+        {
+          "name": "Gregory",
+          "url": "https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer"
         }
       ],
       "duration_ms": 268000,

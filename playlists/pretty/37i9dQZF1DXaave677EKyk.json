@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 24663,
+  "num_followers": 24682,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDE4ODVmNDg0YjI2MjYxMTc5MjBmMmY2Y2FlMDVlMWFmYzE4YzM0",
+  "snapshot_id": "MCxmZjY3ZDI1N2U1MzhjZWU1MjYxZmFhYmE3MGNkNGJiMTkzMjdlMzI2",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -663,42 +663,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "gutter",
-        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        }
-      ],
-      "duration_ms": 127180,
-      "name": "gutter",
-      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "All Of Me (Do For Love)",
         "url": "https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk"
       },
@@ -719,6 +683,42 @@
       "duration_ms": 144003,
       "name": "All Of Me (Do For Love)",
       "url": "https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "gutter",
+        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 127180,
+      "name": "gutter",
+      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 123488,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "Icy",
         "url": "https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 214653,
       "name": "Icy",
       "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 123488,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Love Me, Leave Me Alone",
-        "url": "https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Love Me, Leave Me Alone",
-      "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 214545,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Love Me, Leave Me Alone",
+        "url": "https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Love Me, Leave Me Alone",
+      "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Stuck In Love",
+        "url": "https://open.spotify.com/album/565EdGwHonCa2Gg0s1BZye"
+      },
+      "artists": [
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Stuck In Love",
+      "url": "https://open.spotify.com/track/6Hw597MDyZYBm9sLP8BTCN"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Fall Into Place",
         "url": "https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 212221,
       "name": "Fall Into Place",
       "url": "https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Stuck In Love",
-        "url": "https://open.spotify.com/album/565EdGwHonCa2Gg0s1BZye"
-      },
-      "artists": [
-        {
-          "name": "ABSOLUTE.",
-          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Stuck In Love",
-      "url": "https://open.spotify.com/track/6Hw597MDyZYBm9sLP8BTCN"
     },
     {
       "added_at": "2023-06-02 15:32:09",

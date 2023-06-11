@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 153750,
       "name": "Airbnb",
       "url": "https://open.spotify.com/track/5RluWVBMA4QpTmvDhrkIEn"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
@@ -5656,10 +5656,28 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 170579,
       "name": "Breaking your heart",
       "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/6fsbuVwtZHq8bCfUOfmkNL"
     },
     {
       "album": {
@@ -6160,6 +6178,24 @@
       "duration_ms": 149483,
       "name": "CANIM",
       "url": "https://open.spotify.com/track/1tWARjTaLLHYLCZ8xZPF6r"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163036,
+      "name": "Capri Sonne",
+      "url": "https://open.spotify.com/track/5T2gpbg0FtAQL1eIoJNDnA"
     },
     {
       "album": {
@@ -6680,7 +6716,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 167821,
       "name": "Cinnamon Roll",
       "url": "https://open.spotify.com/track/4GUrzAwDBOyEMQTo42GGzf"
@@ -6864,6 +6900,24 @@
       "duration_ms": 111143,
       "name": "Coco 2.0",
       "url": "https://open.spotify.com/track/2xdUcwkx9lENOslKOiz1eM"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/1okGsbOJ9Sjd837GvN6F9S"
     },
     {
       "album": {
@@ -10091,6 +10145,24 @@
     },
     {
       "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188022,
+      "name": "Ein letztes Mal",
+      "url": "https://open.spotify.com/track/77dJw4yOyJdwWKosfVdJaL"
+    },
+    {
+      "album": {
         "name": "Ein Song reicht",
         "url": "https://open.spotify.com/album/5zd6QulUt8uKPGKe8LKlJu"
       },
@@ -10487,6 +10559,24 @@
     },
     {
       "album": {
+        "name": "ERFOLGSSPUR",
+        "url": "https://open.spotify.com/album/6j1HiOLYEI30hxngpeCZM7"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215549,
+      "name": "ERFOLGSSPUR",
+      "url": "https://open.spotify.com/track/3DqJfQglDmUUJPCbeVIbYP"
+    },
+    {
+      "album": {
         "name": "ERKENNST DU MICH NOCH",
         "url": "https://open.spotify.com/album/0vP3aXM2xnXNF1gG9jfYtj"
       },
@@ -10586,6 +10676,28 @@
       "duration_ms": 155870,
       "name": "ES IST WIE ES IST",
       "url": "https://open.spotify.com/track/7xx6S5PsAV7rziVCjCzDrl"
+    },
+    {
+      "album": {
+        "name": "Es tut mir doch so leid",
+        "url": "https://open.spotify.com/album/2WDZZRUpP9TeYyeWwItlKR"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Es tut mir doch so leid",
+      "url": "https://open.spotify.com/track/2RnDbYNLxR4YAnwGPQeVii"
     },
     {
       "album": {
@@ -10804,7 +10916,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 179622,
       "name": "EXPENSIVE SHIT",
       "url": "https://open.spotify.com/track/1t3DUBo9FDyH8vROTU4fAi"
@@ -11302,7 +11414,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 144425,
       "name": "Favorites",
       "url": "https://open.spotify.com/track/4pnVqiT1AEoXh8Cvk4D6DO"
@@ -12685,6 +12797,24 @@
     },
     {
       "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156177,
+      "name": "Gefunden",
+      "url": "https://open.spotify.com/track/5JugT2GrfTdvKCAblOxAOv"
+    },
+    {
+      "album": {
         "name": "Gef\u00e4hrlich",
         "url": "https://open.spotify.com/album/0WVlWZVTjWEo0aIAlUc3Zg"
       },
@@ -13268,7 +13398,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -13714,6 +13844,28 @@
       "duration_ms": 238093,
       "name": "Gottes Plan",
       "url": "https://open.spotify.com/track/45oI4Djd6iwoKORhLEZLjb"
+    },
+    {
+      "album": {
+        "name": "Gramm f\u00fcr Gramm",
+        "url": "https://open.spotify.com/album/7t7t85mlHvmT7vuw9kd2Cd"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138414,
+      "name": "Gramm f\u00fcr Gramm",
+      "url": "https://open.spotify.com/track/4vEs6qII13M2TjDsuJ82UB"
     },
     {
       "album": {
@@ -15160,6 +15312,32 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "album": {
+        "name": "Hundert Jahre Eiszeit",
+        "url": "https://open.spotify.com/album/03ONbOfdYundtRiHOmaGgj"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Arlinda",
+          "url": "https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn"
+        },
+        {
+          "name": "Pano",
+          "url": "https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155955,
+      "name": "Hundert Jahre Eiszeit",
+      "url": "https://open.spotify.com/track/2aS1Hr5Yirja8gYge1wmTZ"
     },
     {
       "album": {
@@ -17675,6 +17853,24 @@
     },
     {
       "album": {
+        "name": "Keine Love",
+        "url": "https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158976,
+      "name": "Keine Love",
+      "url": "https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn"
+    },
+    {
+      "album": {
         "name": "Keine Party",
         "url": "https://open.spotify.com/album/7tM91ivOKJxsfEymX1TICl"
       },
@@ -18582,6 +18778,24 @@
       "duration_ms": 148000,
       "name": "Kuku",
       "url": "https://open.spotify.com/track/7rHuaTEGYh4WnRZWlR88JQ"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Kurz vor 4",
+      "url": "https://open.spotify.com/track/2LZhUe6QBAtqaeJf12roOg"
     },
     {
       "album": {
@@ -20652,7 +20866,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 154522,
       "name": "L\u00e4chel Doch Mal",
       "url": "https://open.spotify.com/track/0c9jFK9AL7CsO4elFpE1rw"
@@ -21178,7 +21392,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 170000,
       "name": "Manolo",
       "url": "https://open.spotify.com/track/1P5Cnay9p7xi4En8LptC0O"
@@ -23756,7 +23970,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -24092,10 +24306,28 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 145606,
       "name": "Neunzig",
       "url": "https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145606,
+      "name": "Neunzig",
+      "url": "https://open.spotify.com/track/3caxdAr1m31mOuKS5g7LwQ"
     },
     {
       "album": {
@@ -24759,6 +24991,28 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/2qwtH3Q4KzAKoCxwX9fgml"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/3pyZgbg3uC8NlBQ3E81zlb"
+    },
+    {
+      "album": {
         "name": "Normal f\u00fcr mich",
         "url": "https://open.spotify.com/album/6xAiBwxHYwd8T2h81m3FwE"
       },
@@ -25332,6 +25586,24 @@
       "duration_ms": 132191,
       "name": "Ohne Dich",
       "url": "https://open.spotify.com/track/43x5ZJYxp8tfcUWmfa1EV0"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175815,
+      "name": "Ohne Gnade",
+      "url": "https://open.spotify.com/track/6VqvjsOF1aRfCfJacsTLyw"
     },
     {
       "album": {
@@ -26286,7 +26558,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
@@ -28671,6 +28943,28 @@
     },
     {
       "album": {
+        "name": "Round One",
+        "url": "https://open.spotify.com/album/6nKDPbhi6ZmXPRCtfcgcCH"
+      },
+      "artists": [
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170816,
+      "name": "Round One",
+      "url": "https://open.spotify.com/track/0VC3WEoYACFhohnz5qdRx2"
+    },
+    {
+      "album": {
         "name": "Rubinroter Wein",
         "url": "https://open.spotify.com/album/4YB3hg2XnJUa8Xxie6DXZP"
       },
@@ -30144,7 +30438,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 159836,
       "name": "SHOOT",
       "url": "https://open.spotify.com/track/3plgMV8SGOfWFOALXY09vF"
@@ -30296,7 +30590,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
@@ -31794,7 +32088,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -33784,7 +34078,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 166109,
       "name": "Tuff Cookie",
       "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
@@ -35195,6 +35489,24 @@
     },
     {
       "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156403,
+      "name": "Vorstadt",
+      "url": "https://open.spotify.com/track/2VFnkvZhN9Bx2i58Tw8WAO"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -35466,6 +35778,24 @@
       "duration_ms": 138207,
       "name": "Was mir gef\u00e4llt",
       "url": "https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209937,
+      "name": "Was wei\u00dft du schon",
+      "url": "https://open.spotify.com/track/07MQt3L6LsFS5rAgUSSrMO"
     },
     {
       "album": {
@@ -36046,10 +36376,28 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 161703,
       "name": "Wenn das so bleibt",
       "url": "https://open.spotify.com/track/0zQBUaHR4dOlyPPhqRAr27"
+    },
+    {
+      "album": {
+        "name": "Gartenstadt",
+        "url": "https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161703,
+      "name": "Wenn das so bleibt",
+      "url": "https://open.spotify.com/track/5atei5eVpWKUJj5olSI32L"
     },
     {
       "album": {
@@ -37118,6 +37466,24 @@
       "duration_ms": 148000,
       "name": "XAY\u00ceN",
       "url": "https://open.spotify.com/track/0YQ66kj6lI1AAFFPJKTh8S"
+    },
+    {
+      "album": {
+        "name": "Yamaha",
+        "url": "https://open.spotify.com/album/3MkxlMhkRZMYzOt3ps70pa"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/3BqKiQiU88lXb9UdKWAEFi"
     },
     {
       "album": {

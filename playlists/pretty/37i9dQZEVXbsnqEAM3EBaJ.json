@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDA2NWQ2NjMxMmNiMTNhNGYxMjlhZTNjNGVhZDcwOTVjOA==",
+  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDBhZGFhZGUxZDZmYmZmODUzODdhNzAwZmNmYjE5Y2U0NA==",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -123,6 +123,42 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
+        "url": "https://open.spotify.com/album/5iIvvsxvseJ6MRoYMBjpx7"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        }
+      ],
+      "duration_ms": 237031,
+      "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
+      "url": "https://open.spotify.com/track/73HYJKK2trGgRT3PqSYfOV"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Dawn Of The Dolls (2023 Re-Mastered)",
         "url": "https://open.spotify.com/album/5WdHcTcTULdKFBHP2y988h"
       },
@@ -155,26 +191,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "La Hora del T\u00e9",
-        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
-      },
-      "artists": [
-        {
-          "name": "No Rim",
-          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
-        },
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        }
-      ],
-      "duration_ms": 164825,
-      "name": "La Hora del T\u00e9",
-      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Baby, You Wouldn't Last A Minute On The Creek",
         "url": "https://open.spotify.com/album/1YWCnoSKXxmCg1s76sJhYO"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 266534,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/3IDwBKrMKtXg3nMhxQZPLL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -295,26 +295,6 @@
       "duration_ms": 221640,
       "name": "Let Go (Acoustic)",
       "url": "https://open.spotify.com/track/72QaomsCKtOkQwl8LOCNnp"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
-        "url": "https://open.spotify.com/album/5iIvvsxvseJ6MRoYMBjpx7"
-      },
-      "artists": [
-        {
-          "name": "Library Tapes",
-          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
-        },
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        }
-      ],
-      "duration_ms": 237031,
-      "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
-      "url": "https://open.spotify.com/track/73HYJKK2trGgRT3PqSYfOV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -415,6 +395,26 @@
       "duration_ms": 613253,
       "name": "Hard Times / Love Action - Single Version / Remastered 2021",
       "url": "https://open.spotify.com/track/551Mr9INSzPxxTJsM7NmUZ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "La Hora del T\u00e9",
+        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
+      },
+      "artists": [
+        {
+          "name": "No Rim",
+          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
+        },
+        {
+          "name": "PelySayon",
+          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
+        }
+      ],
+      "duration_ms": 164825,
+      "name": "La Hora del T\u00e9",
+      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -547,6 +547,22 @@
       "duration_ms": 195386,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "You Drive Me Nervous (Alternate Version)",
+        "url": "https://open.spotify.com/album/4AZbNYoc70kiiO5m5UjuQP"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 140946,
+      "name": "You Drive Me Nervous - Alternate Version",
+      "url": "https://open.spotify.com/track/53gCw1p9waJJN76XkPKK6T"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -723,30 +739,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Percibal & The Wawis",
         "url": "https://open.spotify.com/album/0sZYkh5lLv5aEeAMb4aPCE"
       },
@@ -783,6 +775,30 @@
       "duration_ms": 307133,
       "name": "Walking in Memphis - (Shut Up and Dance Vocal Mix) [2023 Remaster]",
       "url": "https://open.spotify.com/track/1WGBQmC9tipRx7WDeQbX2f"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 180173,
       "name": "It Wouldn't Be Me",
       "url": "https://open.spotify.com/track/3hUYsNBRDXV7QZTzqzUGpu"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Diamante Negro (Live)",
-        "url": "https://open.spotify.com/album/0Dyx1CV3jhZz28ceBmEMUZ"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 328047,
-      "name": "Cold Gin - Live 1994",
-      "url": "https://open.spotify.com/track/0EaP1HbeQjVKsz7cnvwsC8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Outland (Live 1986)",
-        "url": "https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 292742,
-      "name": "Be Good To Yourself - Live 1986",
-      "url": "https://open.spotify.com/track/029TCbrJdTPfnSbzqheTHy"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -1051,82 +1035,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Anomaly / Drift",
-        "url": "https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A"
+        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
       },
       "artists": [
         {
-          "name": "I See Stars",
-          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Sleep, and I Will Sing",
-        "url": "https://open.spotify.com/album/1Uzm2LM1hoellDYBaTgL0p"
-      },
-      "artists": [
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
         {
-          "name": "Motorama",
-          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
-        }
-      ],
-      "duration_ms": 244090,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "All Nights, All Days",
-        "url": "https://open.spotify.com/album/1sG6knJH4lEWNxvJ5A3NZi"
-      },
-      "artists": [
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 142853,
-      "name": "All Nights, All Days",
-      "url": "https://open.spotify.com/track/0hIYVHio9wHLYdBrqiHSsg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Ni\u00f1x",
-        "url": "https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Ni\u00f1x",
-      "url": "https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+      "duration_ms": 206000,
+      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1151,30 +1079,6 @@
       "duration_ms": 117333,
       "name": "Carteo",
       "url": "https://open.spotify.com/track/1TZhXgVbwVmPDFBTIhxkzH"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Weight Of The World (feat. We Came As Romans & Brand Of Sacrifice)",
-        "url": "https://open.spotify.com/album/1SgOWPcWCm3QL1JxFvjSUY"
-      },
-      "artists": [
-        {
-          "name": "Harper",
-          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
-        },
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Weight Of The World (feat. We Came As Romans & Brand Of Sacrifice)",
-      "url": "https://open.spotify.com/track/3q9ZMDGbCBKQ7rfChHolXO"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1207,70 +1111,6 @@
       "duration_ms": 185000,
       "name": "Na' Es Pa' Siempre",
       "url": "https://open.spotify.com/track/4af5d05U6nFtt6geyfcT1n"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "When Love Sucks (feat. Dido)",
-        "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 169645,
-      "name": "When Love Sucks (feat. Dido)",
-      "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Passenger (Jeff Parker Interpolation)",
-        "url": "https://open.spotify.com/album/6RMdgUt2dLv3kTvoIfZNwK"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        },
-        {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        }
-      ],
-      "duration_ms": 274034,
-      "name": "Passenger - Jeff Parker Interpolation",
-      "url": "https://open.spotify.com/track/59HvDoNpqh1NrgRYo3kCkq"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1315,26 +1155,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Cecilia (feat. Juan Luis Guerra)",
-        "url": "https://open.spotify.com/album/3WfiftlzBXOAPkor0DdxeI"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Cecilia (feat. Juan Luis Guerra)",
-      "url": "https://open.spotify.com/track/6hNviV6KGestCBC62F7oFY"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Cualquier Cosa Es Papel",
         "url": "https://open.spotify.com/album/0VW20XBrQ1Wsm6frdSOif9"
       },
@@ -1359,22 +1179,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "A Lo Humano, A Lo Divino",
-        "url": "https://open.spotify.com/album/30FQh38Gx1Sl2l9C3Rv07N"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Verso Por Saludo",
-      "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Wires...And The Concept Of Breathing - Live at The Glasshouse",
         "url": "https://open.spotify.com/album/2EMn2sD1Qnf6iPRELL9CSA"
       },
@@ -1387,150 +1191,6 @@
       "duration_ms": 220579,
       "name": "Knights of the Round - Live at The Glasshouse",
       "url": "https://open.spotify.com/track/0hAMrYf7OZCHokXW4velyX"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "You Drive Me Nervous (Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972)",
-        "url": "https://open.spotify.com/album/0oqKoXvVPiq0IQ2IGU3Ygj"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 145373,
-      "name": "You Drive Me Nervous - Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972",
-      "url": "https://open.spotify.com/track/4oRoieR5RNcMBJOAfTbsXD"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Un:Sterblich: Our Souls Will Never Die",
-        "url": "https://open.spotify.com/album/0wHHO4fKWWmxHOoxqrYEKe"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 276659,
-      "name": "Shine again",
-      "url": "https://open.spotify.com/track/6SpGa1uZ4gWZgZx1Jcf3SZ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "To The Wolves",
-        "url": "https://open.spotify.com/album/63bozpf8jMR6RlP49RtQPt"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "To The Wolves",
-      "url": "https://open.spotify.com/track/0cFjCCxy7O6DOaefPsItCq"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Kismet",
-        "url": "https://open.spotify.com/album/656UNZqNUoKoELeJlDnwjB"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 207345,
-      "name": "Sanity",
-      "url": "https://open.spotify.com/track/0wArdkLtaDwBRJoOAz6DR4"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Golden Trail",
-        "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
-      },
-      "artists": [
-        {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        },
-        {
-          "name": "Anders Friden",
-          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
-        }
-      ],
-      "duration_ms": 280903,
-      "name": "The Golden Trail",
-      "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Kreel's Magic Staff",
-        "url": "https://open.spotify.com/album/1HR1SvaD6gFTZMvJWsQIsm"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
-        }
-      ],
-      "duration_ms": 372374,
-      "name": "Kreel's Magic Staff",
-      "url": "https://open.spotify.com/track/6eWhmfOxOPClp7IZO7LeOl"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

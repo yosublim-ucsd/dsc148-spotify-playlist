@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Sansette Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,574 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,589 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 17 | [More Everyday](https://open.spotify.com/track/4Jlb60mGcH9cVe9gfOJoy1) | [Flava Matikz](https://open.spotify.com/artist/56rofFxvWiCECZYFrjmYCk), [Meleena](https://open.spotify.com/artist/4y7IN5gq3E4YUeZY3I3H4G) | [More Everyday](https://open.spotify.com/album/4qA76Daya4zEWMhrH37kpK) | 3:24 |
 | 18 | [Ligaya](https://open.spotify.com/track/0uTEg3toe4PNLtdO0wIgLT) | [Hans Pagalan](https://open.spotify.com/artist/2uRXcHgMmh3J03rZrIlMOP) | [Ligaya](https://open.spotify.com/album/5oQn8qWOGmfHtZVzfwBIHy) | 4:33 |
 | 19 | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/track/356kwvPmuDbyimgfCkA08f) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p), [Aliyah](https://open.spotify.com/artist/7tGX31ddtpQ1uplK16M5yn), [Carlisle](https://open.spotify.com/artist/7yP5gq4AbyeZsscf1hX3UA) | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/album/3IzNsnK6RUl5IOYz9iEy4D) | 3:47 |
-| 20 | [Bakasyon](https://open.spotify.com/track/35twLigS2SxE6NVhkhNC3Z) | [Chris Padilla](https://open.spotify.com/artist/2S7gdCTa0YpNXJTrCUJnCM) | [Homestay 2](https://open.spotify.com/album/3VVaFchKhUVew9YnC5E2hz) | 3:44 |
+| 20 | [Bakasyon](https://open.spotify.com/track/35twLigS2SxE6NVhkhNC3Z) | [Chris Padilla](https://open.spotify.com/artist/2S7gdCTa0YpNXJTrCUJnCM) | [Homestay Pt\. 2](https://open.spotify.com/album/3VVaFchKhUVew9YnC5E2hz) | 3:44 |
 | 21 | [Wala Na](https://open.spotify.com/track/1QRgzgtfvpoaMdQrK83rqo) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [Hplss](https://open.spotify.com/artist/69N5GFx9RDaVyHmkzOwSGK) | [Wala Na](https://open.spotify.com/album/4WSFYzT3gaRgQ4XvUvTfEY) | 2:23 |
 | 22 | [Good Dreams](https://open.spotify.com/track/7mVnAupheuzDuzKDogAf7g) | [Deep Ending Records](https://open.spotify.com/artist/2lJ8yGtqFedgwsD3nUJlzC), [Kirby World](https://open.spotify.com/artist/7H42yDBBYaqefooHLzukH9), [DEVIANT](https://open.spotify.com/artist/7MpMvu0JegvSvEsO7WcDcF), [BKG](https://open.spotify.com/artist/6Z2pzgPp4tZAc86YIlG8YF), [Jamaar](https://open.spotify.com/artist/6JQTFewOsFjDaDLkQ0gJ7J), [Gussy Sauce](https://open.spotify.com/artist/4lleUeDi1pOArbd748i6cG) | [Good Dreams](https://open.spotify.com/album/4RLZyNNR5aaaeYPbqSaP56) | 3:09 |
 | 23 | [Dream Come True](https://open.spotify.com/track/4nOMpfOWdXADocWa8xyQ8O) | [Fryday](https://open.spotify.com/artist/4QDQlEE69slOs65KGRNheo), [Jhen](https://open.spotify.com/artist/2dAxnIRoxer2kKA9VHkxpb) | [Dream Come True](https://open.spotify.com/album/4JlSR4fVwvoDjdTsMQsu3e) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Gin Bilog](https://open.spotify.com/track/3eBj9Hw9YeqvIuZj5tuk0Z) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [DZBY](https://open.spotify.com/artist/1UoRP4CodWnCjUP2nRBv1o) | [Gin Bilog](https://open.spotify.com/album/29Y2jsfCsRsrNNeazsBclq) | 4:39 |
 | 75 | [Hiraya Manawari \(Sana Mangyari\)](https://open.spotify.com/track/6PlB4OhJ1YKXPJ6od8b9FS) | [A for A](https://open.spotify.com/artist/4BytLrttDvV1u8CTUNmBOp) | [Hiraya Manawari \(Sana Mangyari\)](https://open.spotify.com/album/44YgH1zPEDk9ZlmyQOVlON) | 3:37 |
 
-Snapshot ID: `MCw3M2RhZDkyMjRhNTA4YmFhYTg5YWNjODg2Njc1ZTBjN2I0NDM5ZDc3`
+Snapshot ID: `MCw0NTMyMjQ5Yzk5NDIwNjgwYTc0N2MxZDJhYmUyYTA4MGFjOTA3MmFk`

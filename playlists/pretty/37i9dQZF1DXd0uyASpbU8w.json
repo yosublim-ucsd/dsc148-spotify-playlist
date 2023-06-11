@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=tx7HKXszTPKz14xbc5CrQA\">J Hus</a>",
-  "num_followers": 63644,
+  "num_followers": 63684,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTc1Y2I3YWY1NWQ4Yjg5YzNjMGE3NTY5OTY3NzhhZTBmNWIxMDZj",
+  "snapshot_id": "MCw0YTBiODFhODY5NjZkOGJkY2IxMjE4ZTVlOGYyZDk3NDBjMTIzNjlk",
   "tracks": [
     {
       "added_at": "2023-06-08 22:40:54",
@@ -978,6 +978,10 @@
         {
           "name": "Angie Santana",
           "url": "https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT"
+        },
+        {
+          "name": "Phiwo",
+          "url": "https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp"
         }
       ],
       "duration_ms": 193043,

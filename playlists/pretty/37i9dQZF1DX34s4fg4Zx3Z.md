@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NAM23; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,152 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,157 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 62 | [Cắn Môi Thay I Love You](https://open.spotify.com/track/6vwDtSsjqy8XSFa9y4Ev8U) | [Sticker T](https://open.spotify.com/artist/2nphMN7WKdJkNwiUYi4tvX) | [LOVE BUT CAN'T TOUCH YOUR FINGERS](https://open.spotify.com/album/6vd3OE1DOVarKP0R8Y3fbw) | 2:31 |
 | 63 | [Anh Đã Quên Được Em Rồi Baby!](https://open.spotify.com/track/7jGUBbazTidb99Rqpeg8Wk) | [DucMinh](https://open.spotify.com/artist/6uT7bp7jeZwhkYkRVWfL8H), [FreeTyzpm](https://open.spotify.com/artist/4wbnsg9CFxPJns2SFx6uwy) | [Anh Đã Quên Được Em Rồi Baby!](https://open.spotify.com/album/5n9CjRjiuES38yLJpbQzq5) | 3:02 |
 | 64 | [Pretty Girl](https://open.spotify.com/track/5BDumcqz0xUBFMwt62Nif2) | [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29), [KAYZ](https://open.spotify.com/artist/2bcdCDZ6Sg5yYJwRQTTPWq) | [Pretty Girl](https://open.spotify.com/album/7Bv7EuvSsh5TN5GwZctpUH) | 3:01 |
-| 65 | [Trong Ánh Mắt Em](https://open.spotify.com/track/23f4BR4ksLuXtVgtW1lLiV) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Trong Ánh Mắt Em](https://open.spotify.com/album/6CKi91t978T0tiQRZllfar) | 3:39 |
+| 65 | [Trong Ánh Mắt Em](https://open.spotify.com/track/10fkdO2Mw8BjtPw2U2zzkW) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Trong Ánh Mắt Em](https://open.spotify.com/album/0mnoadEYpMoEqsemfM7cnc) | 3:39 |
 | 66 | [Thế Là Nên Đôi](https://open.spotify.com/track/2V74314Ad3e6obTjhbJsuy) | [thaolinh](https://open.spotify.com/artist/6s6NVtjbeh4vUMCIv3rCAS) | [Thế Là Nên Đôi](https://open.spotify.com/album/7kYQstIavwNE1uQ0894j1R) | 2:38 |
 | 67 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
 | 68 | [Một Cái Cớ](https://open.spotify.com/track/7lUyW7kfmqN0EP6Y0raST9) | [Dương Yến Phi](https://open.spotify.com/artist/0UFPhgdolmJm2bciyAIqEY), [Trung Ngon](https://open.spotify.com/artist/04MnOKOdhBexWQZC0kvCva) | [Một Cái Cớ](https://open.spotify.com/album/77eLvcIUOPgsADESlSsorq) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [em đou biết mình said](https://open.spotify.com/track/5uU92f5c6joZNErtlcQSI3) | [Vũ Đức Kiên OBC](https://open.spotify.com/artist/2ZQyqUYzAtkcIEgaH2Vf3E) | [em đou biết mình said](https://open.spotify.com/album/3pqOqJHCFOJn0fjLpeNK6w) | 3:12 |
 | 100 | [wish you had](https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [wish you had](https://open.spotify.com/album/3ceo5JbawMnBg8XorYrFxN) | 3:21 |
 
-Snapshot ID: `MCw1ZmZkMDQxMWMxYzE0ZjMwYjdjY2MyYjdiMGFkNzM3NTEyY2MwN2Vl`
+Snapshot ID: `MCw1YmY3OTRiZDJjOWM3NmZkZDE3YzE1ZjEzZGUxNjljNzFlNzIxYjFk`

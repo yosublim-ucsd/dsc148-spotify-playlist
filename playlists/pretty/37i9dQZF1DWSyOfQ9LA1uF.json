@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 60761,
+  "num_followers": 60811,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2NjMWZmZjU5ZGFkYmQ2MTg5MzQ4MTU2NDAxZjEyMzJmYzg0NTQ0",
+  "snapshot_id": "MCxjZDc3NGExZDdkZjU1NzA3YjdiZWEyZDExMDQ2YjQ5MzllNTM1MWMz",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Pop Up",
+        "url": "https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "Je veux te voir",
+      "url": "https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 465333,
       "name": "Paris - Aeroplane Remix",
       "url": "https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Pop Up",
-        "url": "https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "Je veux te voir",
-      "url": "https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "You're A Woman, I'm A Machine",
-        "url": "https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce"
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
       },
       "artists": [
         {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Romantic Rights",
-      "url": "https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb"
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+        "name": "You're A Woman, I'm A Machine",
+        "url": "https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce"
       },
       "artists": [
         {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Idealistic",
-      "url": "https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW"
+      "duration_ms": 195106,
+      "name": "Romantic Rights",
+      "url": "https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb"
     },
     {
       "added_at": "2022-08-24 22:29:13",

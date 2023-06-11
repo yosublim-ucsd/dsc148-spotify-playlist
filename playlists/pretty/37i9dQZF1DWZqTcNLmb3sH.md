@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,613 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,622 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Nee Iralu Nannali \(from "Samarthya"\)](https://open.spotify.com/track/5AE0naO0fPaJwwuTbuXXs4) | [Arun Andrew](https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM) | [Nee Iralu Nannali \(from "Samarthya"\)](https://open.spotify.com/album/2xkBK7AGf6wiZP5VckIUGl) | 3:50 |
 | 75 | [Baanadariyalli Hode Yelli \(from "Baanadariyalli"\)](https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Baanadariyalli Hode Yelli \(from "Baanadariyalli"\)](https://open.spotify.com/album/4O8tIcK8FTWjGraD0q6KAB) | 3:07 |
 
-Snapshot ID: `MCw3Yzk4ZWE0YWE1NjkyZjgwNTdlMmE3ZDljODhjZTA1ODRiMjYxNGIx`
+Snapshot ID: `MCwyODg2OTFlNTBjOTQwMWZiNDBmNGIwMmE4NmQ3ZTE0OTU2ODZhZmU1`

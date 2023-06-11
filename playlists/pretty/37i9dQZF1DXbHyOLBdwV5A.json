@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 103280,
+  "num_followers": 103386,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjVmMjg1MmU4YjYzMGViODQ3NmZkNzlhNGM1OTQyMjlkMWUyYzI0",
+  "snapshot_id": "MCwxMTQwOGUwYWM4NmU2ZTZiYTc2MDIzZWMxZTE4NTVmMDNkOTUyNTE3",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Igual a Voc\u00ea",
         "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 167360,
       "name": "Igual a Voc\u00ea",
       "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2023-06-02 03:00:00",

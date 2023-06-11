@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,107 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,064 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 53 | [Nothing Else Matters](https://open.spotify.com/track/4ZTr6JPJReaoZvHBEFnbuy) | [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x) | [Nothing Else Matters](https://open.spotify.com/album/1xubOM7vXVClNPecAGJQSC) | 3:12 |
 | 54 | [Gray](https://open.spotify.com/track/7ia4IWh9ccF2pzORmZeaDW) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [Gray](https://open.spotify.com/album/3SJkANb3VDwUcYctDiGlh5) | 3:36 |
 | 55 | [Gentle Like The Drugs](https://open.spotify.com/track/7AeQNcU1Cq3vItXW1CyxwW) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Gentle Like The Drugs](https://open.spotify.com/album/2PpmivEap2bOCMlrGGxe10) | 3:24 |
-| 56 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 |
+| 56 | [Guessing](https://open.spotify.com/track/3PQ1bonWWQ3qvnT8ptF8jf) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 5:03 |
 | 57 | [Seeing Clear](https://open.spotify.com/track/3ZPg7jtMtFCqQsOFN3mLE2) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Interiors](https://open.spotify.com/album/5h7ZJJKlbC3CvEkP5AFRwb) | 3:15 |
 | 58 | [Waiting](https://open.spotify.com/track/3RpQBOQQJOpYucEGaNKs6W) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Cedar Island Songs](https://open.spotify.com/album/5B9m7gvSUtnxZIvr3cddFI) | 2:05 |
 | 59 | [Move On](https://open.spotify.com/track/7D4Q6btbrJaOyv8Niet3eZ) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Move On](https://open.spotify.com/album/6ZA1WBs5GbQwcQ4hianLgl) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Familiar Face](https://open.spotify.com/track/1tgv5EAivEwdfJiHvC6ZhZ) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Familiar Face](https://open.spotify.com/album/7A0h7lTs2LUIQ5FSoZqvyc) | 2:30 |
 | 100 | [Forgiveness](https://open.spotify.com/track/1QdrHmhH2QfiyfqME61MTg) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Forgiveness](https://open.spotify.com/album/1kutmstIVd2137q5aiN9Al) | 2:48 |
 
-Snapshot ID: `MCwyYmRmZjdkZTZhMjMwNzRlMTk3YWM1YWE4YzRiYTA3NDliYzE5ZjRk`
+Snapshot ID: `MCxlYzcxYzVhNjMzYzYxNTNlYWNmNDYyZmQxYzRkY2VmNzJiMDIxZGI2`

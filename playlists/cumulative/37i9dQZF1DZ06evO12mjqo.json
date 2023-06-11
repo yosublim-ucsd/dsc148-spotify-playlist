@@ -1068,6 +1068,24 @@
     {
       "album": {
         "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Witch Image",
+      "url": "https://open.spotify.com/track/0bog7rv4F6iffTSWcYQHeq"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 210320,
       "name": "Witch Image",
       "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"

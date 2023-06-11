@@ -1,12 +1,12 @@
 {
   "description": "Just good energy",
-  "num_followers": 490641,
+  "num_followers": 490673,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmJhODIxNWQ1MmU4MGNkOWIyOWZmM2Q5MzRkZjRmOWViNTQ5NmI0",
+  "snapshot_id": "MCw1NzA2MjlhNzc0MGFhNWJkNDAzNjliYWFlM2YxY2M5MmY1MGEwYzZh",
   "tracks": [
     {
       "added_at": "2023-06-08 14:00:00",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2023-06-08 14:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 239417,
-      "name": "You Were Right",
-      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
     }
   ],
   "unique_name": "Vibe Check",

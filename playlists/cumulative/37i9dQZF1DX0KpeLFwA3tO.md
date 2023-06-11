@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Dream Wife
 
-1,111 songs - 2 day 7 hr 25 min
+1,114 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Destroy the World](https://open.spotify.com/track/2iWmbJ8LhLTaWvaYHemWBG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Destroy the World](https://open.spotify.com/album/1MVpiXHpKjEZ9OSbT9AkBM) | 3:40 | 2022-08-25 | 2022-10-07 |
 | [Detached, Together](https://open.spotify.com/track/4RhgMKBlTptDBNXlAAU0Wh) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [A Human Reaction](https://open.spotify.com/album/2xI2LTSOB837dPnPLwXcx4) | 2:57 | 2022-03-18 | 2022-04-22 |
 | [Detective Lieutenant](https://open.spotify.com/track/4gxR8vr9qtOBaOZZr8XuGY) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Million Miles of Fun](https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx) | 3:26 | 2022-01-14 | 2022-03-04 |
-| [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 | 2023-05-25 |  |
+| [Devil In Disguise](https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:58 | 2023-06-08 |  |
+| [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 | 2023-05-25 | 2023-06-11 |
 | [Did You Ever Know?](https://open.spotify.com/track/4CBRLuJet5Izb5VyU8Lf53) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:29 | 2022-06-09 | 2022-07-08 |
 | [Die Alone](https://open.spotify.com/track/7CAtSPx80AcnD0fhZVTBaV) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Die Alone](https://open.spotify.com/album/7oAr2Xl5DupefFy8rB8CHe) | 2:47 | 2022-04-07 | 2022-05-21 |
 | [dig](https://open.spotify.com/track/1gXEGa6aHuX2O5gQdCbxKk) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [the lovehate mixtape](https://open.spotify.com/album/0A7duZERSI4xT4SttTCBvj) | 2:43 | 2021-12-17 | 2022-02-25 |
@@ -273,7 +274,8 @@
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 | 2023-04-09 |
 | [Don't Cut Your Hair](https://open.spotify.com/track/4afcRSxkvKPlZDoBRwTuv7) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Don't Cut Your Hair](https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01) | 2:21 | 2023-03-10 | 2023-04-21 |
 | [Don't Fall In Love With Me](https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Don't Fall In Love With Me](https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u) | 2:28 | 2022-02-11 | 2022-04-01 |
-| [Don't Make Me Do It](https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Don't Make Me Do It](https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7) | 0:58 | 2023-05-04 |  |
+| [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 | 2023-06-08 |  |
+| [Don't Make Me Do It](https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Don't Make Me Do It](https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7) | 0:58 | 2023-05-04 | 2023-06-11 |
 | [Don't Try](https://open.spotify.com/track/3Oo0nqAD7dOIPExI8FZnyJ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Don't Try](https://open.spotify.com/album/1BatTwoG80XJPrGk670SZX) | 1:40 | 2022-05-05 | 2022-06-18 |
 | [Done It Myself](https://open.spotify.com/track/6uMvIsrGwt40RLqRXyg7MC) | [CLAMM](https://open.spotify.com/artist/2QYx4UUKqLe1OUWFkjclqH) | [Care](https://open.spotify.com/album/5tMpTscKFmUYezymHgXF98) | 3:17 | 2022-08-18 | 2022-09-30 |
 | [dont wanna die](https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [dont wanna die](https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH) | 2:49 | 2022-06-16 | 2022-07-29 |
@@ -1006,7 +1008,8 @@
 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-17 | 2022-01-21 |
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-13 | 2023-03-18 |
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-03-04 | 2022-04-08 |
-| [Tomorrow Never Comes](https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r) | 2:25 | 2023-04-20 |  |
+| [Tomorrow Never Comes](https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r) | 2:25 | 2023-04-20 | 2023-06-11 |
+| [Tomorrow Never Comes](https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:25 | 2023-06-08 |  |
 | [Too Late](https://open.spotify.com/track/28b4eZYTTAvWdhRuzwOWNA) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Too Late](https://open.spotify.com/album/5ScwEMPqDAhKQJbcbJ9dzE) | 3:36 | 2022-06-30 | 2022-08-12 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-13 |  |
 | [Took My Time \(feat\. rei brown & sam.sts\)](https://open.spotify.com/track/2wvoPGQYWIHzoORg8OnmTe) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Took My Time](https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp) | 3:45 | 2022-08-18 | 2022-10-07 |

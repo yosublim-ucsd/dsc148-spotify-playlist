@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,245 likes - 124 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,386 likes - 124 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 2 | [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:15 |
 | 3 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
 | 4 | [Horizon Red \- Black Coffee Remix](https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Horizon Red \(Black Coffee Remix\)](https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC) | 9:25 |
-| 5 | [Zulu \- Edit](https://open.spotify.com/track/4qTW584MYElJ0FrONOIyFs) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Zulu](https://open.spotify.com/album/7kMDY1tby0hSMTCJDXKbzB) | 2:59 |
+| 5 | [Zulu](https://open.spotify.com/track/4qTW584MYElJ0FrONOIyFs) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Zulu](https://open.spotify.com/album/7kMDY1tby0hSMTCJDXKbzB) | 2:59 |
 | 6 | [Losing My Religion](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK) | 4:28 |
 | 7 | [Gemini's](https://open.spotify.com/track/2WlnkMzWW9Qnpcs48zkAEz) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Anjunadeep Explorations 22](https://open.spotify.com/album/47oCuJRbLrVvmuaps6C956) | 3:49 |
 | 8 | [Sake \- Chaleee Remix](https://open.spotify.com/track/5artct3Xc0ZWoV0Bi5tdwF) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Team Distant](https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4), [Mr Silk](https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Sake EP](https://open.spotify.com/album/63vHcs07yMOd8r8Mw0iETA) | 3:40 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 123 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:29 |
 | 124 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
 
-Snapshot ID: `MCxmNTk2YjRmODM5YWMyOGUwOTRlNjdjMGM0NjBhOTg4MTFjNjU5OWM2`
+Snapshot ID: `MCw0ODk0YTZlMDliNDEyZDUyYTAyMzdhN2IwNjhhNjJkMzA5MzMwYmIz`

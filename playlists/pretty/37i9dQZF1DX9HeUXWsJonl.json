@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coute en boucle les hits tunisiens du moment.",
-  "num_followers": 69756,
+  "num_followers": 69832,
   "original_name": "Hit Tounsi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTZhMmRjNmNmOWY5ZmUzN2M2ZDFjN2ZlN2ViZGViYjViYjk4MGNm",
+  "snapshot_id": "MCxhMjMyN2UyMWY0ZTg1ZWZhZDM3NTQxZTM3ZWEzZWM0N2E5NmFmNWMx",
   "tracks": [
     {
       "added_at": "2023-06-06 18:26:03",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI"
     },
     {
-      "added_at": "2023-06-06 18:26:03",
+      "added_at": "2023-06-10 20:15:41",
       "album": {
-        "name": "Darou Bina",
-        "url": "https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc"
+        "name": "Ghariba (\u063a\u0631\u064a\u0628\u0629)",
+        "url": "https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
         }
       ],
-      "duration_ms": 210433,
-      "name": "Darou Bina",
-      "url": "https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y"
+      "duration_ms": 245000,
+      "name": "Ghariba - \u063a\u0631\u064a\u0628\u0629",
+      "url": "https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i"
     },
     {
+      "added_at": "2023-06-10 20:15:41",
+      "album": {
+        "name": "Netmanelk Kol El Khiir",
+        "url": "https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc"
+      },
+      "artists": [
+        {
+          "name": "Stou",
+          "url": "https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Netmanelk Kol El Khiir",
+      "url": "https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw"
+    },
+    {
       "added_at": "2023-06-06 18:26:03",
       "album": {
         "name": "2000 Ktab",
@@ -119,8 +135,8 @@
     {
       "added_at": "2023-06-06 18:26:03",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY"
+        "name": "Darou Bina",
+        "url": "https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc"
       },
       "artists": [
         {
@@ -128,9 +144,9 @@
           "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
         }
       ],
-      "duration_ms": 190000,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl"
+      "duration_ms": 210433,
+      "name": "Darou Bina",
+      "url": "https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -199,22 +215,6 @@
     {
       "added_at": "2023-06-06 18:26:03",
       "album": {
-        "name": "9ased Rabbi (\u0642\u0627\u0635\u062f \u0631\u0628\u064a)",
-        "url": "https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl"
-      },
-      "artists": [
-        {
-          "name": "Young Rz",
-          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
-        }
-      ],
-      "duration_ms": 224239,
-      "name": "9ased Rabbi - \u0642\u0627\u0635\u062f \u0631\u0628\u064a",
-      "url": "https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh"
-    },
-    {
-      "added_at": "2023-06-06 18:26:03",
-      "album": {
         "name": "\u0633\u062f\u0648 \u0639\u0644\u064a\u0627 \u0627\u0644\u0628\u0627\u0628",
         "url": "https://open.spotify.com/album/5kvYzjQ1CFUppMgRisQ1bm"
       },
@@ -235,38 +235,18 @@
     {
       "added_at": "2023-06-06 18:26:03",
       "album": {
-        "name": "EL Barra (\u0627\u0644\u0628\u0631\u0651\u0627)",
-        "url": "https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo"
+        "name": "9ased Rabbi (\u0642\u0627\u0635\u062f \u0631\u0628\u064a)",
+        "url": "https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl"
       },
       "artists": [
         {
-          "name": "Tati G13",
-          "url": "https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI"
+          "name": "Young Rz",
+          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
         }
       ],
-      "duration_ms": 204595,
-      "name": "EL Barra - \u0627\u0644\u0628\u0631\u0651\u0627",
-      "url": "https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3"
-    },
-    {
-      "added_at": "2023-06-06 18:26:03",
-      "album": {
-        "name": "\u0635\u0646\u0639 \u0628\u0633\u062d\u0631",
-        "url": "https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu"
-      },
-      "artists": [
-        {
-          "name": "RedStar",
-          "url": "https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5"
-        },
-        {
-          "name": "Mc Artisan",
-          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
-        }
-      ],
-      "duration_ms": 224384,
-      "name": "Stava Bene",
-      "url": "https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT"
+      "duration_ms": 224239,
+      "name": "9ased Rabbi - \u0642\u0627\u0635\u062f \u0631\u0628\u064a",
+      "url": "https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -283,6 +263,22 @@
       "duration_ms": 161285,
       "name": "Hbibty Wini - \u062d\u0628\u064a\u0628\u062a\u064a \u0648\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk"
+    },
+    {
+      "added_at": "2023-06-06 18:26:03",
+      "album": {
+        "name": "EL Barra (\u0627\u0644\u0628\u0631\u0651\u0627)",
+        "url": "https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo"
+      },
+      "artists": [
+        {
+          "name": "Tati G13",
+          "url": "https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI"
+        }
+      ],
+      "duration_ms": 204595,
+      "name": "EL Barra - \u0627\u0644\u0628\u0631\u0651\u0627",
+      "url": "https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -311,8 +307,8 @@
     {
       "added_at": "2023-06-06 18:26:03",
       "album": {
-        "name": "Filamen (\u0641\u064a\u0644\u0645\u0627\u0646)",
-        "url": "https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY"
       },
       "artists": [
         {
@@ -320,9 +316,9 @@
           "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Filamen - \u0641\u064a\u0644\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/5SfgODdv831EqaStxXB8el"
+      "duration_ms": 190000,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -339,6 +335,42 @@
       "duration_ms": 247841,
       "name": "Ma3lebeli",
       "url": "https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8"
+    },
+    {
+      "added_at": "2023-06-06 18:26:03",
+      "album": {
+        "name": "\u0635\u0646\u0639 \u0628\u0633\u062d\u0631",
+        "url": "https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu"
+      },
+      "artists": [
+        {
+          "name": "RedStar",
+          "url": "https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5"
+        },
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        }
+      ],
+      "duration_ms": 224384,
+      "name": "Stava Bene",
+      "url": "https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT"
+    },
+    {
+      "added_at": "2023-06-06 18:26:03",
+      "album": {
+        "name": "Filamen (\u0641\u064a\u0644\u0645\u0627\u0646)",
+        "url": "https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Filamen - \u0641\u064a\u0644\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/5SfgODdv831EqaStxXB8el"
     },
     {
       "added_at": "2023-06-06 18:26:03",
@@ -479,22 +511,6 @@
     {
       "added_at": "2023-06-06 18:26:03",
       "album": {
-        "name": "Ena w Lil",
-        "url": "https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl"
-      },
-      "artists": [
-        {
-          "name": "NORDO",
-          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "Ena w Lil",
-      "url": "https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC"
-    },
-    {
-      "added_at": "2023-06-06 18:26:03",
-      "album": {
         "name": "Ta3bouni",
         "url": "https://open.spotify.com/album/6hGPmmWjolKkO584x6wcIa"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 252581,
       "name": "Noum Elil",
       "url": "https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY"
-    },
-    {
-      "added_at": "2023-06-06 18:26:03",
-      "album": {
-        "name": "Teblina",
-        "url": "https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm"
-      },
-      "artists": [
-        {
-          "name": "NORDO",
-          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Teblina",
-      "url": "https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2"
     },
     {
       "added_at": "2023-06-06 18:26:03",

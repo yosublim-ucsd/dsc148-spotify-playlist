@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1609226,
+  "num_followers": 1609303,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDE0OWMzMTEwYTk2ZjdhOTE0YzU0MDU4NDg1YTdjNjEyNDQwMDNm",
+  "snapshot_id": "MCwyNTI4NWI4OWZkYWUzMDM1NzE3NjBkNTRlYjQwMmQyOGIxZTQ3ODRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Team Sleep (U.S. Release)",
+        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
+      },
+      "artists": [
+        {
+          "name": "Team Sleep",
+          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Blvd. Nights",
+      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "True love (feat. 070 Shake)",
@@ -1195,22 +1211,6 @@
       "duration_ms": 347713,
       "name": "True love (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Team Sleep (U.S. Release)",
-        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
-      },
-      "artists": [
-        {
-          "name": "Team Sleep",
-          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Blvd. Nights",
-      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
     },
     {
       "added_at": "2023-04-28 04:00:00",

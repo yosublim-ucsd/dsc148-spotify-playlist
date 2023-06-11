@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6178\)
+## Playlists \(6179\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1355,6 +1355,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [De Buenas](/playlists/pretty/37i9dQZF1DX0tkXsEpwo5J.md)
 - [De Fiesta](/playlists/pretty/37i9dQZF1DX57NRq0pf7ea.md)
 - [Dear Mama](/playlists/pretty/3D8eZBmcXjAjFzUjYtrl6f.md)
+- [Dear Summer](/playlists/pretty/37i9dQZF1DX2HoNPxDKe6s.md)
 - [Deathcore](/playlists/pretty/37i9dQZF1DX1cJWWyylDuw.md)
 - [Deathcore \(2\)](/playlists/pretty/1WQ9A9zKTTU5msWTMqraiP.md)
 - [Deborah De Luca's track IDs](/playlists/pretty/37i9dQZF1DXdtTK5Bo0anL.md)
@@ -4293,6 +4294,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer Rock 2023](/playlists/pretty/37i9dQZF1DX72tt7n9B4TV.md)
 - [Summer Rock Classics](/playlists/pretty/37i9dQZF1DWU3bkMPOyjie.md)
 - [Summer Strike \(아무것도 하고 싶지 않아\)](/playlists/pretty/37i9dQZF1DXcdlnITQ87tu.md)
+- [Summer Sunshine Reggae](/playlists/pretty/37i9dQZF1DXbwoaqxaoAVr.md)
 - [Summer Throwbacks](/playlists/pretty/37i9dQZF1DWZg863fGtALu.md)
 - [Summer Throwbacks \(2\)](/playlists/pretty/37i9dQZF1DXd1MXcE8WTXq.md)
 - [Summer Vibes](/playlists/pretty/37i9dQZF1DWVLVzn60NyuA.md)
@@ -4320,7 +4322,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sunrise Yoga](/playlists/pretty/37i9dQZF1DXdVyc8LtLi96.md)
 - [Sunset Chill](/playlists/pretty/37i9dQZF1DWVtzubo4lvxd.md)
 - [Sunset in Austin](/playlists/pretty/1MXbpQ8OiNsYtQxiXexPJ7.md)
-- [Sunshine Reggae](/playlists/pretty/37i9dQZF1DXbwoaqxaoAVr.md)
 - [Super Cumbias](/playlists/pretty/37i9dQZF1DXbUMEWUyV9JB.md)
 - [Super Songs](/playlists/pretty/37i9dQZF1DWU8An4lZhLWW.md)
 - [Sur la route](/playlists/pretty/37i9dQZF1DX1S89tRXh2OS.md)

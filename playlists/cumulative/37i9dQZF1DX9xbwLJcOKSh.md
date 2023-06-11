@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-116 songs - 8 hr 16 min
+117 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [THUNDERBIRD](https://open.spotify.com/track/2OujnD7bikTNQ9xtETVSeg) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [UNDER:COVER](https://open.spotify.com/album/3znmLzx9wimdLrSnu1MD5R) | 5:18 | 2022-02-28 | 2022-07-29 |
 | [Trigger](https://open.spotify.com/track/1oCMgEq64rcOTOEvyTraY7) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [残響のテロル オリジナル・サウンドトラック 2 \-crystalized\-](https://open.spotify.com/album/5JhONeB41irLN6oHc1r3I6) | 5:04 | 2022-02-28 | 2022-07-29 |
 | [Trigger](https://open.spotify.com/track/0WzS0gRcots1x2LscMkpNX) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [Trigger](https://open.spotify.com/album/0ztjPLsdtp9GJZunoiFEaO) | 5:07 | 2022-02-28 |  |
+| [Tsuki No Mayu](https://open.spotify.com/track/2GQRL3sE4eYy1dzJTI2AUF) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [TURN A GUNDAM Original Motion Picture Soundtrack Ⅲ \- Cocoa](https://open.spotify.com/album/7x9edL2oWovJZsjIJUdRbz) | 5:38 | 2023-04-11 |  |
 | [UN SOFFIO DI VENTO](https://open.spotify.com/track/5l4P0kmJaBMk21x0cHBqym) | [ILA](https://open.spotify.com/artist/23e32slD0osGFsUpLUgxXR) | [YOKO KANNO produce Cyber Bicci](https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY) | 3:00 | 2022-02-28 |  |
 | [VOICES](https://open.spotify.com/track/2DQWxHJ8ei69pVs2U48w65) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [空の森\(BEST ALBUM\)](https://open.spotify.com/album/1Q4GRwR0Lg1gENqvcBEOaJ) | 3:54 | 2022-02-28 |  |
 | [VOICES](https://open.spotify.com/track/2NSrTzRrXOreAKQUyas96k) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 3:54 | 2022-02-28 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [時には昔の話を](https://open.spotify.com/track/7rm41eGxxk8lyJ2sAosdr0) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [さくらんぼの実る頃](https://open.spotify.com/album/5Yt5vWydeqF3awoI9FQWYe) | 3:57 | 2022-02-28 | 2022-07-29 |
 | [時には昔の話を](https://open.spotify.com/track/1h56zZbXHkjpO16H5jLgXV) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [加藤 登紀子 GOLDEN SELECTION](https://open.spotify.com/album/4XoE9edII3keSmLf5jfj7Q) | 3:58 | 2022-02-28 | 2022-11-13 |
 | [時の迷宮](https://open.spotify.com/track/0KfhpLqWBwHptGkJYSeBCx) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS), [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [『劇場短編マクロスF \~時の迷宮\~』主題歌「時の迷宮」](https://open.spotify.com/album/3i4B1X9znzhu7J4AKjR7Es) | 7:51 | 2022-02-28 | 2022-07-29 |
-| [月の繭](https://open.spotify.com/track/6msxucVD54HLGHBjJX7o5z) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [月の繭](https://open.spotify.com/album/6n0IhlU2aXm6dyaFk3HgIs) | 5:38 | 2022-02-28 |  |
+| [月の繭](https://open.spotify.com/track/6msxucVD54HLGHBjJX7o5z) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [月の繭](https://open.spotify.com/album/6n0IhlU2aXm6dyaFk3HgIs) | 5:38 | 2022-02-28 | 2023-06-11 |
 | [木漏れび](https://open.spotify.com/track/2mfGMATyARqZny4SqeF6uH) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [雪のワルツ](https://open.spotify.com/album/36uDS3bXbHIXtF9286vaYs) | 3:29 | 2022-02-28 |  |
 | [流し目プレイ☆](https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq) | [Kei Kobayashi](https://open.spotify.com/artist/79kDeWonZGfPMKoubNNBx4) | [Keiスタンダード\~the best of Kei Kobayashi](https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52) | 3:31 | 2022-02-28 |  |
 | [海街diary](https://open.spotify.com/track/7kY6SVaSuLmvFTUfZsutFX) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [海街diary オリジナルサウンドトラック](https://open.spotify.com/album/3zjLKUBam57KIIlHfuSXWX) | 2:04 | 2022-02-28 |  |

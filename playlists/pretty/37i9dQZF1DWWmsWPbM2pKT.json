@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
-  "num_followers": 152870,
+  "num_followers": 153251,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTZiYjkxY2U0ZjJhNzRjNDI4YTU3MmE4NDFkZjc1MWZjY2Q5NDJh",
+  "snapshot_id": "MCw2ZjhiODQ3MTIzYzZkOGU5MzAxODkwYTUyMTM3NmQ5NmFiZjEzZjVj",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "I Saw Nothing Good so I Left",
+        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
+      },
+      "artists": [
+        {
+          "name": "Bragolin",
+          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Into Those Woods",
+      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "RARITIES",
         "url": "https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 178466,
       "name": "A Company",
       "url": "https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "I Saw Nothing Good so I Left",
-        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
-      },
-      "artists": [
-        {
-          "name": "Bragolin",
-          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Into Those Woods",
-      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Night Vision",
-        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 191332,
       "name": "Plasticity",
       "url": "https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "B-Sides: Vol. 1",
-        "url": "https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI"
-      },
-      "artists": [
-        {
-          "name": "Dance With the Dead",
-          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
-        }
-      ],
-      "duration_ms": 286153,
-      "name": "That House",
-      "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Sensation",
         "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 276480,
       "name": "Sensation",
       "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "B-Sides: Vol. 1",
+        "url": "https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI"
+      },
+      "artists": [
+        {
+          "name": "Dance With the Dead",
+          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
+        }
+      ],
+      "duration_ms": 286153,
+      "name": "That House",
+      "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
     },
     {
       "added_at": "2023-04-28 06:00:00",

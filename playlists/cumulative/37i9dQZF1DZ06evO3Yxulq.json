@@ -144,10 +144,32 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 231742,
       "name": "Corriente / Un D\u00eda A La Vez (Medley)",
       "url": "https://open.spotify.com/track/0DGbxlZlg2ZfT7s0KNCWsV"
+    },
+    {
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
+        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
     },
     {
       "album": {
@@ -504,6 +526,28 @@
       "duration_ms": 557750,
       "name": "Famous For (I Believe) / Do It Again (Live) (feat. Jenn Johnson & Christine D'Clario)",
       "url": "https://open.spotify.com/track/5fMFyClENY0poEWgJFt6Jq"
+    },
+    {
+      "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242427,
+      "name": "Famous For (I Believe) [Spanish/English Version]",
+      "url": "https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB"
     },
     {
       "album": {

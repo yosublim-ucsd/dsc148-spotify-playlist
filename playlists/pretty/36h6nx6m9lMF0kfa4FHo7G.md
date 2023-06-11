@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,842 likes - 171 songs - 11 hr 4 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,841 likes - 172 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,5 +179,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 169 | [Downtown](https://open.spotify.com/track/2LAkVHr0qJYJR54lSzyUyC) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Classic Collection](https://open.spotify.com/album/4oa2hZ1r8L8Egf9ec6ncCM) | 3:04 |
 | 170 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 171 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/7w9bgPAmPTtrkt2v16QWvQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call \(Deluxe\)](https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA) | 5:26 |
+| 172 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 
-Snapshot ID: `NDYwLDFkN2ZkNGI5MjRjZGI2YTc3YWRjMDE2ZTY1NmM2ODNjZTMwMmJiMzU=`
+Snapshot ID: `NDYxLGU2M2VjMGE2YmViYTI4NWM3OTExMjVlNjc1MzBiNTJiZGUzZDRhYjA=`

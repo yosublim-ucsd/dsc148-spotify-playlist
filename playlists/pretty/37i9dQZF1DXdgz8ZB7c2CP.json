@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring pluko",
-  "num_followers": 753799,
+  "num_followers": 753870,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjJiNGQ5ZWM1YWMyMzI2YWRlNTc5NWM1OGZmZDRkY2QwMWMxZjkx",
+  "snapshot_id": "MCw1M2IxMDJhY2E2MTU3ODllOWU1MzM1NWU0Yjk5ZWU2ZTA2YTBkZDdj",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Talia Rose",
+          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "Talia Rose",
-          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Daybreak (with Zachary Knowles)",
         "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 241979,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -727,22 +747,6 @@
       "duration_ms": 249160,
       "name": "MADLY",
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "SKY SKY 1.3 [2016 Export Wav]",
-      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 241979,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 169050,
-      "name": "Feelings Plain",
-      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "CATALYST",
         "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
@@ -971,22 +955,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
@@ -999,6 +967,22 @@
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 169050,
+      "name": "Feelings Plain",
+      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        },
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/3SPZXcOrF8xSvlu8F36l3G"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "am i dreaming?",
         "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 142622,
       "name": "am i dreaming?",
       "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        },
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/3SPZXcOrF8xSvlu8F36l3G"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "THIS IS THE END.",
+        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "THIS IS THE END.",
+      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Shellshock (Edit)",
         "url": "https://open.spotify.com/album/2ljDGMcczlIKC69aNczUno"
       },
@@ -1911,26 +1931,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "THIS IS THE END.",
-        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "THIS IS THE END.",
-      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -1943,6 +1943,26 @@
       "duration_ms": 92307,
       "name": "And then it came together",
       "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "JIYO",
+        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Chitralekha Sen",
+          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
+        }
+      ],
+      "duration_ms": 247619,
+      "name": "JIYO",
+      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1967,26 +1987,6 @@
       "duration_ms": 164497,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "JIYO",
-        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Chitralekha Sen",
-          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
-        }
-      ],
-      "duration_ms": 247619,
-      "name": "JIYO",
-      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "UNITY",
+        "url": "https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "duration_ms": 273939,
+      "name": "Free Range",
+      "url": "https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Say No More",
         "url": "https://open.spotify.com/album/2w9zybMMHYpsk6K5TAxKgW"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 176778,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/7MtQH3yThW341BJOEyvxVR"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "UNITY",
-        "url": "https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        }
-      ],
-      "duration_ms": 273939,
-      "name": "Free Range",
-      "url": "https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3"
     },
     {
       "added_at": "2023-06-09 04:01:00",

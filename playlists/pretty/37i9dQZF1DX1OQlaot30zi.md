@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rondodasosa, Shiva, Medy, Villabanks e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,735 likes - 95 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,785 likes - 95 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 2 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 |
 | 3 | [TAXI SULLA LUNA](https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [TAXI SULLA LUNA](https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG) | 2:23 |
 | 4 | [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 |
-| 5 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
+| 5 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
 | 6 | [Piano Piano](https://open.spotify.com/track/5AhrivUIMMA91FycZDfsuD) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Piano Piano](https://open.spotify.com/album/4LWUtGZwPpJMYOnCFUPpnk) | 2:55 |
 | 7 | [provare qualcosa](https://open.spotify.com/track/3RdqBNS8fDuQQ4nX9Id8hr) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [provare qualcosa](https://open.spotify.com/album/6hSBosvd6k30i87vdJ3IIS) | 2:43 |
 | 8 | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/album/4IPtQv7AcN7ObxDQ8wX1B4) | 2:54 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Gotham](https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP), [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Gotham](https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ) | 2:46 |
 | 95 | [SeVilla](https://open.spotify.com/track/0jUKFgZqtTyqGONRe6Ysm3) | [PACOSKI](https://open.spotify.com/artist/6JYRBnw3eN2qidujSRnuN6) | [SeVilla](https://open.spotify.com/album/0Qb4Lk69KfWRSpEmFzmugT) | 3:15 |
 
-Snapshot ID: `MCw0NWVmZmJkMTlhM2NkNzc0MmNlODE1MzIzZGNmOTIyM2VhMGM2ZjU4`
+Snapshot ID: `MCwyZTU4MTg0NjA1Njg4NTUxY2E1MmFiZWNmZjBkMzFiYjMzNTJkOTZk`

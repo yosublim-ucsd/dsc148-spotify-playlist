@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-11",
       "duration_ms": 225903,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
@@ -4294,6 +4294,24 @@
       "duration_ms": 184694,
       "name": "\ucc28\ub77c\ub9ac",
       "url": "https://open.spotify.com/track/0Bh7kmiivB3BBczHyuRUkC"
+    },
+    {
+      "album": {
+        "name": "HOWEVER",
+        "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
+      },
+      "artists": [
+        {
+          "name": "LEEHEESANG",
+          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "\ucc9c\ub144\uc9c0\uc560 Everlasting Love",
+      "url": "https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5a7mln8z0Su"

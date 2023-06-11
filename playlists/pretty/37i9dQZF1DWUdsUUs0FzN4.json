@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Alfa y Peso Pluma en portada ",
-  "num_followers": 7593,
+  "num_followers": 7643,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTUyMWY4YWM4ZmQ2OTViZTk0YjQ5ZDE4NzQ2ODE0ZDkzODkzYjlk",
+  "snapshot_id": "MCw1NDgyNGI4NWY1YTMwMjY2Y2M1NDgzYmNhZWNlZThjYWFkODQxZDc1",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Me Dice Daddy",
         "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
       },
@@ -559,18 +539,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+        "name": "Piripituchy",
+        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
       "artists": [
         {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
+      "duration_ms": 180880,
+      "name": "Piripituchy",
+      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -611,6 +595,22 @@
       "duration_ms": 187800,
       "name": "Amor de Mari",
       "url": "https://open.spotify.com/track/5tfOFkDQTTbanBS9hRbsKC"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "Club16, Jota Rosa Presents Vol. 2",
         "url": "https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1287,26 +1287,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Cumbiaton Total",
-        "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
+        "name": "PUSSY",
+        "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
       },
       "artists": [
         {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+          "name": "Prxblxm",
+          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
         },
         {
-          "name": "Rosa Pistola",
-          "url": "https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+          "name": "Rplcmnts",
+          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Mamita Sensual",
-      "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
+      "duration_ms": 134400,
+      "name": "PUSSY",
+      "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1331,22 +1327,26 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "PUSSY",
-        "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
+        "name": "Cumbiaton Total",
+        "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
       },
       "artists": [
         {
-          "name": "Prxblxm",
-          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
         },
         {
-          "name": "Rplcmnts",
-          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
+          "name": "Rosa Pistola",
+          "url": "https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
         }
       ],
-      "duration_ms": 134400,
-      "name": "PUSSY",
-      "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
+      "duration_ms": 185440,
+      "name": "Mamita Sensual",
+      "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
     },
     {
       "added_at": "2023-06-09 06:00:00",

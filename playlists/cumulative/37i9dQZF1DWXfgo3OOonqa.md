@@ -4,7 +4,7 @@
 
 > d min bratkooooo
 
-1,041 songs - 1 day 21 hr 55 min
+1,042 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Baby \(feat\. Asme & Ricky Rich\)](https://open.spotify.com/track/6A0qeZiQc0HoKZuoiHJdnG) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 3:03 | 2021-12-16 | 2022-01-14 |
 | [Baby \(Galen i mig\)](https://open.spotify.com/track/73aZxHFqEiqRH3CniLg5kE) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Baby \(Galen i mig\)](https://open.spotify.com/album/29n4L86hXwDO5iIKYchgwZ) | 2:18 | 2023-04-27 | 2023-06-02 |
 | [Bacardi](https://open.spotify.com/track/3dA1lU0x8Hm2MlCqz3w7cH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:28 | 2022-04-28 | 2022-07-15 |
-| [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 | 2023-06-08 |  |
+| [BACARDI](https://open.spotify.com/track/4F40RpjWhZoOttxdMzlKns) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [BACARDI](https://open.spotify.com/album/56orhnest5lbXKLNRCyTny) | 2:38 | 2023-06-08 |  |
 | [Back 2 Back](https://open.spotify.com/track/6aHLVrKdThtnm0EboXtPYk) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Back 2 Back](https://open.spotify.com/album/54oLT4AaGd9KKPwHl1T2tD) | 3:06 | 2022-05-02 | 2022-06-10 |
 | [Backshots](https://open.spotify.com/track/2xOpz4BtdSVRwuFnTMrNtA) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Backshots](https://open.spotify.com/album/4afgBOCs5GvnjNZXROePK9) | 2:57 | 2022-05-12 | 2022-06-23 |
 | [Backstage \(feat\. VC Barre\)](https://open.spotify.com/track/0So6sGaRLDiyxEKVusbNDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Baby Nine 3](https://open.spotify.com/album/3PBs30HJBtGyPZgvaj5iH3) | 2:00 | 2022-05-05 | 2022-06-24 |
@@ -318,6 +318,7 @@
 | [Falla ner](https://open.spotify.com/track/2hXiJmJtlAsP3Y05VZkpmW) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it) | [Falla ner](https://open.spotify.com/album/2LfX7BokNVL4C92ongvt7h) | 2:29 | 2021-12-16 | 2021-12-24 |
 | [Faller](https://open.spotify.com/track/7DwJKdM6LtlMkJ6gcaG5fE) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Faller](https://open.spotify.com/album/6Wk0t9YDHCm6ZDv9zuywjJ) | 2:26 | 2021-12-16 | 2022-03-05 |
 | [Faller Ner](https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Faller Ner](https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg) | 2:10 | 2022-01-11 | 2022-03-04 |
+| [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-06-10 |  |
 | [Farlig Plats](https://open.spotify.com/track/1RlxNDtqX9EpoOim6LkNlC) | [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Farlig Plats](https://open.spotify.com/album/0C1U3FUHZjXUDe8EKW3rql) | 3:19 | 2022-01-06 | 2022-02-04 |
 | [Fast](https://open.spotify.com/track/2lhrWgmG4eNR9pZK3QV9zg) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [Fast](https://open.spotify.com/album/4Hr17Ze91T5fPlHtSMLS7W) | 2:21 | 2022-05-12 | 2022-06-03 |
 | [FAST HÄR I TRAKTEN](https://open.spotify.com/track/3ex4xZq0oxBYBptnPLV9cy) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [FAST HÄR I TRAKTEN](https://open.spotify.com/album/61qv3izazgypgF56GmuNYO) | 2:48 | 2021-12-16 | 2022-01-20 |
