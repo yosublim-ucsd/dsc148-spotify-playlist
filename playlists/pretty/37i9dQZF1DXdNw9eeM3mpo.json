@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 426190,
+  "num_followers": 426297,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmUyNDdhMDEyOWRlMWRkYzcwZWM3OGU2ZGYxNjE2NTg1YjQ2OWUz",
+  "snapshot_id": "MCw4YTRmYjBiOGRkZTQ5YTM2MzYwMzZlM2Y4ZmRjZjEzOTllM2IxYmQ1",
   "tracks": [
     {
       "added_at": "2023-06-02 20:01:28",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "La Bolsa",
-        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        },
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 199541,
-      "name": "La Bolsa",
-      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "En la Kalle",
@@ -865,6 +845,26 @@
       "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "La Bolsa",
+        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 199541,
+      "name": "La Bolsa",
+      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
+    },
+    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Morbo's Club",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Frecuencia Extrema",
         "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
@@ -949,22 +933,6 @@
       "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
     },
     {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
-    },
-    {
       "added_at": "2022-09-07 01:07:35",
       "album": {
         "name": "Batuco",
@@ -987,6 +955,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 190012,
       "name": "El Peor Momento",
       "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3RjaZCXV3P7L13gtqY3jQO"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL"
-      },
-      "artists": [
-        {
-          "name": "Eskina Opuesta",
-          "url": "https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Inflammable",
@@ -1327,6 +1311,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL"
+      },
+      "artists": [
+        {
+          "name": "Eskina Opuesta",
+          "url": "https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV"
     },
     {
       "added_at": "2021-12-21 17:00:46",

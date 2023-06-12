@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 282525,
+  "num_followers": 282658,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI4YzllNGEwMWM2MzgwZDBkN2ZkODIzZDdmOGFhZWI1NDg0MmQz",
+  "snapshot_id": "MCxjNzljM2M0OTg5ZmQ2ZDVjYjQxZTAyNzAwNzMzYWJhMzkwMzU4YjZk",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Modern Demon",
-        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 285019,
-      "name": "Modern Demon",
-      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
@@ -975,54 +975,6 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Confessions of a Knife",
-        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
-      },
-      "artists": [
-        {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
-        }
-      ],
-      "duration_ms": 331437,
-      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
-      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1043,6 +995,38 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Darkest Days",
         "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 216840,
       "name": "The Thing I Hate",
       "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Confessions of a Knife",
+        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 331437,
+      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
+      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Helheim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Rabenherz",
+      "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Rock Ain't Dead",
         "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 229512,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Helheim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Rabenherz",
-      "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Sins Of The Flesh",
-        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
-      },
-      "artists": [
-        {
-          "name": "Sister Machine Gun",
-          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
-        }
-      ],
-      "duration_ms": 306426,
-      "name": "Sins of the Flesh",
-      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Terapunk",
         "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 238590,
       "name": "Many Thanks",
       "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Sins Of The Flesh",
+        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
+      },
+      "artists": [
+        {
+          "name": "Sister Machine Gun",
+          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
+        }
+      ],
+      "duration_ms": 306426,
+      "name": "Sins of the Flesh",
+      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 266000,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2023-05-05 05:09:11",

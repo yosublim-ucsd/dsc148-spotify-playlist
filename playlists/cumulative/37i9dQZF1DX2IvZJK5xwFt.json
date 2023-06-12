@@ -418,10 +418,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 214880,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j"
+    },
+    {
+      "album": {
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/2aC2YH2ZxdTGgni85OcNu5"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/6pdntQc8sbazCWErk3AKz1"
     },
     {
       "album": {
@@ -4450,10 +4468,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 251560,
       "name": "OTHER SIDE OF THE RAINBOW",
       "url": "https://open.spotify.com/track/4GsesitvquwKM2doPy68wk"
+    },
+    {
+      "album": {
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/2aC2YH2ZxdTGgni85OcNu5"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "OTHER SIDE OF THE RAINBOW",
+      "url": "https://open.spotify.com/track/51Gf6GTwZIJ04zXevMx5UO"
     },
     {
       "album": {

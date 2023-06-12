@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Christine & The Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,634 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,653 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 85 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 |
 | 86 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 | 87 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
-| 88 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 |
+| 88 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
 | 89 | [02:56](https://open.spotify.com/track/7dwrsFI1SUX1Xho36ecb69) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [BEBELUNA](https://open.spotify.com/artist/55RGGwGDenbVKeCLIu5HXT), [Nwakke](https://open.spotify.com/artist/4sjhQahJDiTX6LZgqYKySQ) | [02:56](https://open.spotify.com/album/3hsXB2QcqgtvyyXGZFjEAp) | 2:56 |
 | 90 | [No One Knows We’re Dancing](https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [No One Knows We’re Dancing](https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy) | 4:09 |
 | 91 | [Love Harder](https://open.spotify.com/track/75SdBZ5qaZVWxHhaHHldw5) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Love Harder](https://open.spotify.com/album/4u5aTao5LC1TiJz4yyjF6n) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Undergrowth](https://open.spotify.com/track/31zmH5Bcd0CDRxcdw2M23D) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Undergrowth](https://open.spotify.com/album/6stBQmw0qjPeRjLnvypEn7) | 6:35 |
 | 100 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 
-Snapshot ID: `MCwyNjk3MzNiZmQ2NjFmNjFhNWVmYmIwMjY1YzY4YmQ2OTA5NmZjNGNl`
+Snapshot ID: `MCwxNmRlNmMwMTkzMWFiZGNlMDNkZDhlMDE5ODFhMDE3YjY0ZmU1OTcx`

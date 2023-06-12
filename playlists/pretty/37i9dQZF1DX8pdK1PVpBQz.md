@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Folk Bitch Trio\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,110 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 102 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 |
 | 103 | [About a Girl](https://open.spotify.com/track/7aOQzKVu0RrNb6RaIx7MR2) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Cameron Louw](https://open.spotify.com/artist/4CGLplb0hecwm3ZUwZEkmd), [This Pale Fire](https://open.spotify.com/artist/2QyKkKQ4UKyuxcU46PE1QK) | [About a Girl](https://open.spotify.com/album/0xU5YFziHejx7pJr62njz2) | 3:52 |
 
-Snapshot ID: `MCw0ODUzOWIyOTE4MGI2NGU1NTJiNWVmMDUwN2U1N2M0MTI2OTUyOGE3`
+Snapshot ID: `MCw3YWZmZDYyMDQzZWMyZjE2OTkwMDYzZThhNTU1NTgwZTBkOGUxMDM3`

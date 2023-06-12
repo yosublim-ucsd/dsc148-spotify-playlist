@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Nathan Dawe, Joel Corry + Ella Henderson (pictured), J Hus + Drake, PinkPantheress and more!",
-  "num_followers": 832871,
+  "num_followers": 832800,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWQzNDJhYmVmMTZmZWY3YmViYzgwYjA3NjMxODI2OGE5ZDJjOWM0",
+  "snapshot_id": "MCwyODgwZmUzNGQ5NDhlMTVkMmRkM2ViOGZiYmY1NjBjNDJhYTI0NmJj",
   "tracks": [
     {
       "added_at": "2023-06-09 09:15:11",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2023-06-09 09:15:11",
       "album": {
-        "name": "A day in the water",
-        "url": "https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH"
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
       },
       "artists": [
         {
@@ -1302,7 +1302,7 @@
       ],
       "duration_ms": 241661,
       "name": "A day in the water",
-      "url": "https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o"
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-06-09 09:15:11",
@@ -2254,6 +2254,10 @@
         {
           "name": "Capleton",
           "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Mixing Finga",
+          "url": "https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx"
         }
       ],
       "duration_ms": 227404,
@@ -2348,7 +2352,7 @@
           "url": "https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa"
         },
         {
-          "name": "'No Secrets'",
+          "name": "NoSecrets",
           "url": "https://open.spotify.com/artist/000AVsBO0NE04KcMVKh4na"
         }
       ],

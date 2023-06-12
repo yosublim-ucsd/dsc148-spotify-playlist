@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,363 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,454 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 34 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 |
 | 35 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 15 & 16; Rondo in A minor](https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH) | 7:00 |
 
-Snapshot ID: `MCxhZmQ0ZDRhM2I1MWFmZGVhYTU0MmEyOGNhNWE1NmI2MWNmZWZmMmRh`
+Snapshot ID: `MCwyNTE5Y2Q3YWY4NWUyODllZWU1ZTdlOTM2NWNhN2YxYWRmYWM1OTYy`

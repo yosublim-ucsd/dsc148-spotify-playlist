@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnx77Gg1Rgu.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,707 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,219 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnx77Gg1Rgu.md) - [plain]
 | 99 | [Betrayal \- Skit](https://open.spotify.com/track/1p7DC2sFe7aJdO1RZdO3tC) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 1:04 |
 | 100 | [Different \(feat\. Yung Bans\)](https://open.spotify.com/track/3thLnNvO9IctWoccbsZyJV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 2:31 |
 
-Snapshot ID: `MCxkMDFjMTM4NTFiMWRlNTFlMjIyYTFlYmQ4NGU3ZDQyYTUyNTIwYzFm`
+Snapshot ID: `MCxiM2Q3ZjBjMGI3ZjQ1ZTdlNTgxNTA5OTgxMzYwNzU5MzVjZTUzMWVi`

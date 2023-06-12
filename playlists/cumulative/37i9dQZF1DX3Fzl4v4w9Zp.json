@@ -8698,10 +8698,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 179243,
       "name": "You I'm Waiting On",
       "url": "https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y"
+    },
+    {
+      "album": {
+        "name": "Tears You Hide",
+        "url": "https://open.spotify.com/album/3mfbxfHcZ0moeI1W2ukCb8"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179243,
+      "name": "You I'm Waiting On",
+      "url": "https://open.spotify.com/track/6VywyDwMOd6ehsR3MTV7gh"
     },
     {
       "album": {

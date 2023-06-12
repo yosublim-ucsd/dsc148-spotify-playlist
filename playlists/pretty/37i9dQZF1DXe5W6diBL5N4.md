@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,946 likes - 647 songs - 1 day 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,138 likes - 647 songs - 1 day 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 46 | [wander](https://open.spotify.com/track/5gzuXMBkHADurR2quS47Dg) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6w4JkTuZJG5jo0IbORpCjC) | 4:07 |
 | 47 | [Love is painful](https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Love is painful](https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV) | 4:21 |
 | 48 | [I Do \(feat\. VEKOEL\)](https://open.spotify.com/track/1OBLhoOLIV0t7eMsXFELmN) | [Smiley DeBron](https://open.spotify.com/artist/4aTZWNxBRufaAZe50dnYTW), [VEKOEL](https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo) | [Talk to Smiley](https://open.spotify.com/album/0rw1APNtSs2w9mg8sXxdtp) | 3:00 |
-| 49 | [Better Days](https://open.spotify.com/track/5bPnxPOboUN0lB6v9LD4AF) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/32m1R6ON07WxFxba278ru8) | 3:41 |
+| 49 | [Better Days](https://open.spotify.com/track/5rUYtiBQcEMhRSJ89G9mWv) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/7tZgiEx9aefGV4OzU4SuVf) | 3:41 |
 | 50 | [Don′t Call Me](https://open.spotify.com/track/2JZcu16wgcucoYRBWD41zQ) | [NINE to SIX](https://open.spotify.com/artist/2L2CWqf3JTM6IuEDS1vnHz) | [NINE to SIX 1st Single Album ′GOOD TO YOU′](https://open.spotify.com/album/1xKvkkPctHHnzZr8qKq6xC) | 3:03 |
 | 51 | [i can’t wait too long](https://open.spotify.com/track/4Uk6TLwgOaFrNLDD2dacJ8) | [HAMIN\(BXB\)](https://open.spotify.com/artist/00eWh6l16At6mJJmVCxCzV), [HYUNWOO\(BXB\)](https://open.spotify.com/artist/5udPWCzjoVBRkSvS1BVRsQ), [XIWOO\(BXB\)](https://open.spotify.com/artist/3lnmSpd1NHM56xKRFEAC3Q) | [Love Mate OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/1SkOPkJpNQaRWeAKFfsd1l) | 3:34 |
 | 52 | [Young Baller \(Feat\. ICE PUFF\)](https://open.spotify.com/track/58LcJiN3KP2vg94dv2x2hn) | [Dorico](https://open.spotify.com/artist/50bcCXOkbSgIEQOuMoDGK1), [ICE PUFF](https://open.spotify.com/artist/6F6pIGPfLyO0mqmkspp9Up) | [Young Baller \(Feat\. ICE PUFF\)](https://open.spotify.com/album/4sQ4bCse7uykFihFsn0O45) | 2:47 |
@@ -656,4 +656,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 646 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 647 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCxlMTk2ODg1NDQ3N2QwZmYxNzlkYzcwZjQ5YmFmOGFlMjFjMDA1NjNk`
+Snapshot ID: `MCwzZWMzMDYwNzhjNzIwOTA3MTFlN2E4MmY0NWVhNjM2ZTllNDQ2MGRi`

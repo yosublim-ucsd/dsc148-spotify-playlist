@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Jason Isbell and the 400 Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,736 likes - 105 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,774 likes - 105 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 26 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |
 | 27 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 |
 | 28 | [One Last F.U.](https://open.spotify.com/track/0y62PAVboSnmr0UEDFB2UQ) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [One Last F.U.](https://open.spotify.com/album/2Hy6LylULjswLYmkCVHgcz) | 3:14 |
-| 29 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 |
+| 29 | [Death Wish](https://open.spotify.com/track/7pcI3En42dUc6HV6XmhbGx) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:30 |
 | 30 | [Closer](https://open.spotify.com/track/6DRsBCUxbmirsiGMEkdVNx) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Closer](https://open.spotify.com/album/5dqV3q51EyjSbwhfUbmIBf) | 2:57 |
 | 31 | [No Way to Be](https://open.spotify.com/track/2k0yDUWckRo0743DN3WiyB) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [No Way to Be](https://open.spotify.com/album/2Npqf8MN4VHNvg3ENf4IZF) | 4:09 |
 | 32 | [High Road](https://open.spotify.com/track/3a8JgRmYWnREuCLkar4jMT) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [High Road](https://open.spotify.com/album/687EnxJy2uBKIZj8RQdcv1) | 4:34 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 104 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 | 105 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MCw1NTM4OWRhM2E1OTczMDg5ZjUyODVlNzM2MzEzOGZkMDI1ZjFlNjZh`
+Snapshot ID: `MCw1M2FmY2ViYWUwMjYwYjE5OGEyZDhmOWU0Yzg5ZDU4OTI5MDZlMmRl`

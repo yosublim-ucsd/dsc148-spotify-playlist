@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,723 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,767 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [In Motion](https://open.spotify.com/track/5OpWrwpNAvrO5JJtDST6FW) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [In Motion](https://open.spotify.com/album/6syuAFg39NV3FBMRZWSeiK) | 4:14 |
 | 75 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:02 |
 
-Snapshot ID: `MCxlZGUwNTc1NTNlNDAzOTU1YmUzY2NlODZkMzM4YWFjYTlkMjdmZjU4`
+Snapshot ID: `MCxlOWVhNjczYzczMjNhYTE1ZDhkNjU3OGRiYThiMDQ5ZDliNjkzYzY2`

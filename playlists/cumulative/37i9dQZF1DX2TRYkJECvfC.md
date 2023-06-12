@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-385 songs - 1 day 10 hr 16 min
+386 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Boats](https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 5:49 | 2022-05-03 |  |
 | [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 |  |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 |  |
+| [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-09 |  |
 | [Break Silent](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Break Silent](https://open.spotify.com/album/5iXJeKdUJZwPFyJ1LfmYyf) | 4:39 | 2022-10-28 |  |
 | [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/235PpPakBYI3L1lv9Pb41E) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/6Np4KW7O4v795Yli3TfAfP) | 3:43 | 2023-01-06 | 2023-05-28 |
 | [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/7AVvNCXtylJhJ3seOYl33f) | 3:43 | 2021-12-08 | 2022-10-15 |
@@ -187,7 +188,7 @@
 | [Lotus](https://open.spotify.com/track/6BTrnCVnRpQCRWwXb0bIyc) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Kate Elsworth](https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Lotus](https://open.spotify.com/album/1r9p0yLaYNvz4iNYnU9GDV) | 12:03 | 2021-12-08 |  |
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-05-05 |  |
 | [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-05-06 |
-| [Magnetic Generation](https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM) | [Pi\-Singer](https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3) | [Magnetic Generation](https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF) | 5:33 | 2021-12-08 |  |
+| [Magnetic Generation](https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM) | [Pi\-Singer](https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3) | [Magnetic Generation](https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF) | 5:33 | 2021-12-08 | 2023-06-12 |
 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 | 2021-12-08 | 2023-02-06 |
 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 |  |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |

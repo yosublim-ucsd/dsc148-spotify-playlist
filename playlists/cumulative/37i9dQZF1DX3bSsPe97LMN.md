@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz & Tania Dominguez en portada.
 
-321 songs - 16 hr 38 min
+322 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bendiciones](https://open.spotify.com/track/6HtWP5RHvO8AWB4xsEKB1w) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Bendiciones](https://open.spotify.com/album/1eAFlgi3qKbjssVgp63HAd) | 2:38 | 2022-12-02 | 2022-12-24 |
 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 | 2022-07-08 | 2022-10-08 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 | 2022-10-15 |
+| [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 | 2023-06-09 |  |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-18 | 2022-12-24 |
 | [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 | 2022-10-07 | 2023-05-20 |
 | [Brillo Colorado](https://open.spotify.com/track/6gWVeuBFrWSUuS1dI6agtB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Brillo Colorado](https://open.spotify.com/album/1rmT4fEiYtcqcwsAKFB3CD) | 3:56 | 2022-05-13 | 2022-08-06 |
@@ -58,7 +59,7 @@
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-01-27 | 2023-05-06 |
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2022-12-23 |  |
 | [Carritos de palo](https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Carritos de palo](https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E) | 2:47 | 2022-09-23 | 2022-11-19 |
-| [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 | 2022-09-30 |  |
+| [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 | 2022-09-30 | 2023-06-12 |
 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 | 2022-05-13 | 2022-09-24 |
 | [Como Me Miran](https://open.spotify.com/track/0NhSH49kQ62rN5BKCoCx6s) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Hernan Trejo](https://open.spotify.com/artist/7m4lSPIYHAKmp51eXfDHCm), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [Como Me Miran](https://open.spotify.com/album/6WcReiZ2XZJzZZ3qr9z6cc) | 3:00 | 2023-05-19 |  |
 | [Comprobado](https://open.spotify.com/track/7yMS2TnLiddORCCkKHjeo7) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Comprobado](https://open.spotify.com/album/0ZfhiBRqDauFAXcmjClsR1) | 2:36 | 2022-04-01 | 2022-08-06 |

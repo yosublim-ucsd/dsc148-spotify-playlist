@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,070 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,153 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [Tô Dentro \- Ao Vivo](https://open.spotify.com/track/572e1p3tMlEruOwhsNjThd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:52 |
 | 24 | [Engolir a Seco \- Ao Vivo](https://open.spotify.com/track/7oUoGiWxP3ZjvBpp9HTKho) | [Dani & Gabriela](https://open.spotify.com/artist/5MoXz6f6WDekaMoZBLpdLs), [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Engolir a Seco \(Ao Vivo\)](https://open.spotify.com/album/3bYNvemoxFC7tps9tDBZ0M) | 3:07 |
 | 25 | [EXquecEU \- Ao Vivo](https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo\)](https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX) | 3:05 |
-| 26 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
-| 27 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
+| 26 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
+| 27 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
 | 28 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 29 | [Namoro De Merd4 \- Ao Vivo](https://open.spotify.com/track/7AziDpL8ZyoLZbYbQ4xHNo) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:41 |
 | 30 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 | 50 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 
-Snapshot ID: `MCw1M2M5Mjk5ZDkzZThjNWE0MTk1ZWRlMTZiYzQ1YjViMTE3NzJmMmI4`
+Snapshot ID: `MCwwMjBiMGU4YjM1ZDIwMTY4ZDY2NmFjYzg3OWYwOTdiZmQ4OTYzZjYx`

@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-144 songs - 10 hr 21 min
+145 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Crescent rise](https://open.spotify.com/track/4eFTSvQq9wmNZ1lW1YLZJd) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 5:36 | 2022-06-09 | 2022-07-29 |
 | [Crescent rise](https://open.spotify.com/track/1IpVaRVTAIr6LrDJuyFBye) | [Trigger](https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 5:37 | 2023-03-07 | 2023-03-12 |
 | [Dancing∞BEAT!!](https://open.spotify.com/track/16uBIBXoHbN9fIMLgDIKoP) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:47 | 2022-06-14 | 2022-07-10 |
+| [Day/Night DiSCO](https://open.spotify.com/track/6IGJdevegBIZ38AiiiiEkb) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Day/Night DiSCO](https://open.spotify.com/album/340UV1xJjtQlNfqwu4SoXU) | 3:15 | 2023-06-11 |  |
 | [DAYBREAK INTERLUDE](https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:52 | 2022-06-09 |  |
 | [Dear Butterfly](https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Dear Butterfly](https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D) | 5:05 | 2022-06-09 | 2023-03-08 |
 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 | 2022-06-09 |  |
@@ -44,7 +45,7 @@
 | [Hidden Region](https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Hidden Region](https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz) | 3:46 | 2022-09-20 |  |
 | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/track/7CA0DaN6tRGqrdat8WyboZ) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/album/2arRW6VgBqzxwKKnJCj3Au) | 0:30 | 2022-08-20 |  |
 | [IMPERIAL CHAIN](https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [IMPERIAL CHAIN](https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7) | 4:12 | 2022-10-04 |  |
-| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 |  |
+| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 | 2023-06-12 |
 | [It's ALL\-for you\-](https://open.spotify.com/track/1w0YxydzqRlLP2SiEA5NLk) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 5:07 | 2022-06-09 | 2022-07-23 |
 | [Joker Flag](https://open.spotify.com/track/02OQ0YqKcvzeXLvq27Tv3j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:42 | 2022-06-14 | 2022-07-25 |
 | [Joker Flag](https://open.spotify.com/track/08ZmRDsxkGC2uvkCDTUkyb) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [MONSTER GENERATiON](https://open.spotify.com/album/1C2C7NYO2zWuuOOrIiQlV4) | 4:43 | 2022-06-09 | 2022-07-11 |

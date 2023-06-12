@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-370 songs - 22 hr 15 min
+371 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Back To The Top](https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj) | 3:18 | 2023-04-07 |  |
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-07-08 | 2023-05-03 |
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2022-07-08 | 2022-08-06 |
+| [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 |  |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2022-07-08 | 2022-08-06 |
 | [Boyz Lie](https://open.spotify.com/track/0lE7VZvooD13UimBdCPkpz) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Boyz Lie](https://open.spotify.com/album/3Y2s6QLxcPS9DYdaCw4Al2) | 3:12 | 2023-05-19 | 2023-06-07 |
 | [Breakthrough](https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Breakthrough](https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT) | 4:48 | 2022-08-26 | 2022-12-20 |
@@ -140,7 +141,7 @@
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-07-08 | 2022-08-13 |
 | [Ghost](https://open.spotify.com/track/1kdYy78bKEwq5gAxtb71nF) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Ghost](https://open.spotify.com/album/3IL37Yk9CZIknEv5fuOeHG) | 3:42 | 2022-07-08 | 2023-04-22 |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 |  |
-| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 |  |
+| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2023-06-12 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 |  |
 | [Gone](https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Gone](https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6) | 3:09 | 2022-07-08 | 2023-01-06 |

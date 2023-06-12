@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 118636,
+  "num_followers": 118684,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzdmNDkyMTM0NzRmYzU1YWE0MTYxY2E3MjBmOTE2MTQzMWRhOWU1",
+  "snapshot_id": "MCw1NzZiYWU5ZmNiMmY0OWI0YjA4YWNkNTlhZmIxMDE0NTYyYzE4YjBj",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1006,11 +1006,15 @@
         {
           "name": "Jeff Beck",
           "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Shapes of Things",
-      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
+      "duration_ms": 148933,
+      "name": "You Shook Me - Alternate Version",
+      "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
     },
     {
       "added_at": "2021-04-22 22:35:02",

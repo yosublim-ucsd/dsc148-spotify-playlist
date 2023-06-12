@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 32671,
+  "num_followers": 32984,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmNkZWJiYTdiYzI1ZDNmNmI5MzhiNWFkYzdhNTdlMTYyODVhMzFi",
+  "snapshot_id": "MCw2OTBhMGRhMTA2NmZkMzI4OTIwYjM4Yzg0OGY0OGEzZmU2NGFhZDk0",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "We No Speak Americano",
         "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 269800,
       "name": "We No Speak Americano",
       "url": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Jubel (Radio Edit)",
-        "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "I Wanna Feel",
         "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 186066,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Jubel (Radio Edit)",
+        "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
     },
     {
       "added_at": "2023-02-28 16:56:35",

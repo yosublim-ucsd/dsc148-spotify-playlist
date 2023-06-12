@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/3tJhwQyp7faqjE9RGwTvTG"
+      },
+      "artists": [
+        {
+          "name": "Radistai Dj's",
+          "url": "https://open.spotify.com/artist/6uz0w9gaey0hvJLP8cURPR"
+        },
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186305,
+      "name": "At The Sun",
+      "url": "https://open.spotify.com/track/5lUYNYtcW0Iq07TotDpEOO"
+    },
+    {
+      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/0LBVy2We4H4onc7gFm5EzK"
       },
@@ -1456,7 +1478,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -14622,7 +14644,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 195000,
       "name": "o\u017eka",
       "url": "https://open.spotify.com/track/2AGJfXPy6kQk3ArWAyKo2P"
@@ -15080,7 +15102,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 179049,
       "name": "PA\u017dADAI",
       "url": "https://open.spotify.com/track/6KOhOLjSsbv3bggefGCLLm"
@@ -21468,7 +21490,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 147190,
       "name": "Vakar Vakare",
       "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"
@@ -22304,7 +22326,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

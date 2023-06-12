@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,514 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,772 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Baby Face](https://open.spotify.com/track/2cQyntpoQPfy5ocUF2LDVh) | [Thrigz](https://open.spotify.com/artist/22xZlZjpZAn23u5YSnfN4B) | [Baby Face](https://open.spotify.com/album/68mHm2TEF2aUtWpwZG1zpS) | 2:08 |
 | 51 | [Llévame](https://open.spotify.com/track/7pSdhRSAZu10t8gxxf5MYl) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Llévame](https://open.spotify.com/album/5lzo8L9K1Trk74Izd0TKX8) | 2:45 |
 
-Snapshot ID: `MCxmMzI1OWJhZTk4NmU3MWJiNjFlNzkzY2Y5OGE5YjUwNGFhYTQ5NDQy`
+Snapshot ID: `MCw2YWIzN2U1MzkwMWZhM2I5YmZjZGRjMmRjNWM5MGIwM2EyOTA4Yjk4`

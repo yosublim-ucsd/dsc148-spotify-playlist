@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 929493,
+  "num_followers": 929659,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmM1NzczNzRjZjE0ZTJhYmVkNDFlMzQzYzAxYWQ4NGQxYjBkN2U4",
+  "snapshot_id": "MCw0OWYyNmQzNmVhMTgxMjBlODk1YzMyYTg3YzQ0YmQ2NzJlZmQ0NGIw",
   "tracks": [
     {
       "added_at": "2023-06-08 16:54:14",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "Amo XO",
-        "url": "https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 130961,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
+        "name": "Amo XO",
+        "url": "https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 130961,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
         "name": "Swim Slowly",
         "url": "https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "Slacks",
-        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
-      },
-      "artists": [
-        {
-          "name": "St. South",
-          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Slacks",
-      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
+        "name": "Slacks",
+        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
+      },
+      "artists": [
+        {
+          "name": "St. South",
+          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Slacks",
+      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
+        "name": "im fallin",
+        "url": "https://open.spotify.com/album/2nYLLpgRfg7Pen4y49rhMf"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "im fallin",
+      "url": "https://open.spotify.com/track/1sx0jOmWzasYKH1ckmepvj"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "im fallin",
-        "url": "https://open.spotify.com/album/2nYLLpgRfg7Pen4y49rhMf"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "im fallin",
-      "url": "https://open.spotify.com/track/1sx0jOmWzasYKH1ckmepvj"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 262600,
       "name": "Lonely Shade of Blue",
       "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -1591,22 +1575,18 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 224448,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -1623,6 +1603,26 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 224448,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
       "added_at": "2023-06-08 16:54:14",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-08 16:54:14",
       "album": {
-        "name": "Beige",
-        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
-      },
-      "artists": [
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "MUTUAL",
-      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
-    },
-    {
-      "added_at": "2023-06-08 16:54:14",
-      "album": {
         "name": "Where Will We Go, Pt. 2",
         "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2023-06-08 16:54:14",
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "MUTUAL",
+      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
     }
   ],
   "unique_name": "late night vibes",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: The Maine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,779 likes - 126 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,729 likes - 126 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 | 126 | [mutual\-fren\*](https://open.spotify.com/track/4zI2ttmEwmvotQcphBaNTE) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [mutual\-fren\*](https://open.spotify.com/album/39bSqPRq6f7lSNl0dC1IYE) | 3:39 |
 
-Snapshot ID: `MCw1YjYyNDIwOTAxMTI3MzFmNTlmNWU3NTEwNjYyN2E1MDEwMWE5ZmY2`
+Snapshot ID: `MCw1Yjg0MWQyYmRlNjExYjMxMGY3NTg4YjczMTVlMTI4MTZmZWVjYzA2`

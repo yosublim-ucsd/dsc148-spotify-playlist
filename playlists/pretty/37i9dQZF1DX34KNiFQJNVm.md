@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosalía e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,095 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,365 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 13 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 14 | [Fé E Marcha](https://open.spotify.com/track/7cvi4n1nle3MKNCb0VnsYb) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Fé E Marcha](https://open.spotify.com/album/1Ffyvlul7dpc2iQSDMKjfT) | 3:43 |
 | 15 | [Only Fans](https://open.spotify.com/track/0Sn0YLdLIRUwkp1p876RcU) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Only Fans](https://open.spotify.com/album/2vaYbNsUJy6S0pIdXuWlqD) | 3:11 |
-| 16 | [Diferente das Iguais](https://open.spotify.com/track/5wcrMivUKchLrNs3xRU8qw) | [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Diferente das Iguais](https://open.spotify.com/album/2Ps8gUxr5ClkbPGL5fQ4bG) | 4:03 |
+| 16 | [Diferente das Iguais](https://open.spotify.com/track/5wcrMivUKchLrNs3xRU8qw) | [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Dj Taaz](https://open.spotify.com/artist/4Yd27Yzz5ZwVl6NCOVJEoe) | [Diferente das Iguais](https://open.spotify.com/album/2Ps8gUxr5ClkbPGL5fQ4bG) | 4:03 |
 | 17 | [Baby Quando Você Desce](https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Play, Som e Sexo](https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL) | 2:56 |
 | 18 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
 | 19 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [No Air](https://open.spotify.com/track/0yeMGcQyRgcTeFGPRgpLNa) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [AXXE](https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i), [Ventura](https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC) | [No Air](https://open.spotify.com/album/7D1UOobbVg5OCmMEN0Adlq) | 2:44 |
 | 97 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 |
 
-Snapshot ID: `MCw5NDEzNDcwZTAxYTg2ZmRmZjljZjBiYWFmZTc0NWE3MTM2NDIzNWEz`
+Snapshot ID: `MCwxY2E3NjZiNzA0NjViMzIzNjQ4NDY3ZmFlMDU5ZjQwNjMwNmNjN2I1`

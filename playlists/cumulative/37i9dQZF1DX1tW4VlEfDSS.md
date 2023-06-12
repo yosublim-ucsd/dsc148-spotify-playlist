@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-187 songs - 13 hr 10 min
+188 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/64weGLgl76gsui1qXQatNa) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Remixes\)](https://open.spotify.com/album/4xYKqAYxXRQiCS8cICKq9S) | 4:23 | 2022-03-11 | 2022-08-10 |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:23 | 2022-03-11 |  |
 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 | 2021-12-07 | 2023-04-29 |
-| [Organ \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Organ](https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy) | 3:36 | 2022-03-11 |  |
+| [Organ \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Organ](https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy) | 3:36 | 2022-03-11 | 2023-06-12 |
 | [Overboard \(feat\. CHANEY\) \- Mousse T\. Remix](https://open.spotify.com/track/4HU0XAmnUHUbVDxSp42PEX) | [Better Lost Than Stupid](https://open.spotify.com/artist/0XOcl1zHdeEJxvrbgWpcTI), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Overboard \(feat\. CHANEY\) \[Mousse T Remix\]](https://open.spotify.com/album/3pNoeL2z4VfxLG6qNMtVsF) | 7:23 | 2021-12-07 | 2022-07-25 |
+| [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 | 2023-06-09 |  |
 | [Pick Me Up](https://open.spotify.com/track/5AEy1FpWJXqtwVOelRlZT1) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Pick Me Up](https://open.spotify.com/album/6H3AVcVfae5TGgYmCVQnts) | 3:07 | 2022-03-11 |  |
 | [Planningto Risk It](https://open.spotify.com/track/0RbAhuKUklA8WbWwIh86r5) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningto Risk It](https://open.spotify.com/album/5xZVshzFTckvHIb0orfsME) | 5:55 | 2021-12-07 | 2022-06-20 |
 | [Primavera \- Anna Prior Remix](https://open.spotify.com/track/2TXEnQWG57LZ36ygqBigId) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY), [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Primavera \- Remix Drop I](https://open.spotify.com/album/01wBF4jDnSqAmngbj8Mt3D) | 5:52 | 2021-12-07 | 2022-07-29 |

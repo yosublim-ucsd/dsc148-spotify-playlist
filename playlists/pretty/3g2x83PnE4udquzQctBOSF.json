@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2261,
+  "num_followers": 2262,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzMxMSwwOTJiMWY5ODk2ODRiMjg3N2ZhYTBkNTM1MzU0NGJhZGQ1NWE4NzAz",
+  "snapshot_id": "MzM1OSxjZjk4NmE0OTRiYWNiZGI1OTdiZTA3ZTJlYjRlODZmYjgxNWQ2YTli",
   "tracks": [
     {
       "added_at": "2023-05-12 16:24:04",
@@ -25,6 +25,74 @@
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
+      "added_at": "2023-06-11 18:01:39",
+      "album": {
+        "name": "Fake ID",
+        "url": "https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fake ID",
+      "url": "https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn"
+    },
+    {
+      "added_at": "2023-06-11 18:01:36",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 341872,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
+    },
+    {
+      "added_at": "2023-06-11 18:01:49",
+      "album": {
+        "name": "Shake The Dice (Remixes)",
+        "url": "https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        },
+        {
+          "name": "Heider",
+          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Shake The Dice (Heider Remix)",
+      "url": "https://open.spotify.com/track/0FmkUMw1k0WuNPN3tQMIHd"
+    },
+    {
+      "added_at": "2023-03-17 19:24:07",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+    },
+    {
       "added_at": "2023-05-28 13:09:41",
       "album": {
         "name": "Hot Stuff",
@@ -39,6 +107,38 @@
       "duration_ms": 152244,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
+    },
+    {
+      "added_at": "2023-06-11 18:01:25",
+      "album": {
+        "name": "Z Pack",
+        "url": "https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        }
+      ],
+      "duration_ms": 187529,
+      "name": "Z Pack",
+      "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"
+    },
+    {
+      "added_at": "2023-06-11 18:01:33",
+      "album": {
+        "name": "Just Wanna",
+        "url": "https://open.spotify.com/album/02Tlig3dRcKL1OhlEp99zd"
+      },
+      "artists": [
+        {
+          "name": "Zack Darza",
+          "url": "https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "Just Wanna",
+      "url": "https://open.spotify.com/track/3LJVNe0IXshZsMLWzhwPDL"
     },
     {
       "added_at": "2023-05-28 13:10:01",
@@ -61,6 +161,38 @@
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
     },
     {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2023-06-11 18:01:27",
+      "album": {
+        "name": "Sex Drugs Cash",
+        "url": "https://open.spotify.com/album/0B3y4tnhhXxZD9WbLhczDl"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Sex Drugs Cash",
+      "url": "https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM"
+    },
+    {
       "added_at": "2023-05-28 13:09:47",
       "album": {
         "name": "Hot Shit",
@@ -81,60 +213,24 @@
       "url": "https://open.spotify.com/track/0vi0vTfQqpWyy90tOk4qyq"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2023-06-11 18:01:31",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "VIP Business",
+        "url": "https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
-    },
-    {
-      "added_at": "2023-05-21 14:29:22",
-      "album": {
-        "name": "Gas Pedal (Kyle Watson Remix)",
-        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
-      },
-      "artists": [
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
         },
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 183318,
-      "name": "Gas Pedal - Kyle Watson Remix",
-      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
-    },
-    {
-      "added_at": "2023-05-28 13:09:58",
-      "album": {
-        "name": "La Fuega Oculta / Yelli",
-        "url": "https://open.spotify.com/album/11vHLYho4kaaobxIsBFWLf"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "La Fuega Oculta",
-      "url": "https://open.spotify.com/track/7mdVDuw4JBHDw4ZWFkCPEs"
+      "duration_ms": 180465,
+      "name": "VIP Business",
+      "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
     },
     {
       "added_at": "2023-05-21 14:29:25",
@@ -151,94 +247,6 @@
       "duration_ms": 194074,
       "name": "Groover",
       "url": "https://open.spotify.com/track/56JN3nXWk5vDidy4u0mIz1"
-    },
-    {
-      "added_at": "2023-05-21 14:27:30",
-      "album": {
-        "name": "Like A Tap",
-        "url": "https://open.spotify.com/album/6pLDg9WXLv76pWACqYZGxr"
-      },
-      "artists": [
-        {
-          "name": "Heider",
-          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
-        },
-        {
-          "name": "GIANT",
-          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
-        },
-        {
-          "name": "Moosa Saleem",
-          "url": "https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN"
-        }
-      ],
-      "duration_ms": 216098,
-      "name": "Like A Tap",
-      "url": "https://open.spotify.com/track/0uTDzjsmG91eaVkUbcBmRx"
-    },
-    {
-      "added_at": "2023-02-10 17:30:44",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
-      "added_at": "2023-05-14 13:37:32",
-      "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
-    },
-    {
-      "added_at": "2023-05-14 13:37:21",
-      "album": {
-        "name": "Milano Downtown II EP",
-        "url": "https://open.spotify.com/album/2Qi53oRE6agb5bC8qHgszH"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Beg Friends",
-      "url": "https://open.spotify.com/track/0n9fISPJ3M0PFGSVpbyr8V"
-    },
-    {
-      "added_at": "2023-05-21 14:30:33",
-      "album": {
-        "name": "DunDun",
-        "url": "https://open.spotify.com/album/5WqJ3QaKwKyLQJmrxGwJSL"
-      },
-      "artists": [
-        {
-          "name": "Markus Martinez",
-          "url": "https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "DunDun",
-      "url": "https://open.spotify.com/track/00KBtVGgY5Gz95CvR1yOXS"
     },
     {
       "added_at": "2023-05-28 13:10:05",
@@ -277,20 +285,20 @@
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
-      "added_at": "2023-05-21 14:28:21",
+      "added_at": "2023-06-11 18:02:01",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0dCDbw9rGQNAHVp0PH3Li9"
+        "name": "To The Top EP",
+        "url": "https://open.spotify.com/album/5UWDSZk2gxZvex7qT5ICY2"
       },
       "artists": [
         {
-          "name": "MNNR",
-          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+          "name": "Josh Kalker",
+          "url": "https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3BfwCoHLwKuX5HfPlGPOLi"
+      "duration_ms": 196615,
+      "name": "To The Top - Edit",
+      "url": "https://open.spotify.com/track/13qBKLDd37ghQ9OgzgsSbE"
     },
     {
       "added_at": "2023-05-28 13:10:08",
@@ -309,28 +317,36 @@
       "url": "https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3"
     },
     {
-      "added_at": "2023-05-21 14:27:46",
+      "added_at": "2023-06-11 18:01:46",
       "album": {
-        "name": "Flowcito",
-        "url": "https://open.spotify.com/album/6ZdofVuh9nqJcbN6Chr8T8"
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
       },
       "artists": [
         {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
-        },
-        {
-          "name": "Loco Dice",
-          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
-        },
-        {
-          "name": "Francis De Simone",
-          "url": "https://open.spotify.com/artist/2vtok5FpY8afpLG9ZOmAod"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 390896,
-      "name": "Flowcito",
-      "url": "https://open.spotify.com/track/3tLClIQs8SkhqFlXMyYNwM"
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+    },
+    {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-05-21 14:28:17",
@@ -357,56 +373,36 @@
       "url": "https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy"
     },
     {
-      "added_at": "2022-09-30 05:47:41",
+      "added_at": "2023-06-11 18:02:05",
       "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+        "name": "I Wanna Rock EP",
+        "url": "https://open.spotify.com/album/0hzTSt06DUwPQRgsDCuzqK"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Gabriele Toma",
+          "url": "https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon"
         }
       ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+      "duration_ms": 341401,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/6HOqLBmMCQMPnyPZcqYAP2"
     },
     {
-      "added_at": "2023-05-14 13:37:16",
+      "added_at": "2023-06-11 18:01:58",
       "album": {
-        "name": "Venezuela",
-        "url": "https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy"
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/62yPsxxcVys0acKI9ZSVHM"
       },
       "artists": [
         {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+          "name": "Aidan Rudd",
+          "url": "https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD"
         }
       ],
-      "duration_ms": 152395,
-      "name": "Venezuela",
-      "url": "https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S"
-    },
-    {
-      "added_at": "2023-05-28 13:10:18",
-      "album": {
-        "name": "Mandarino",
-        "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Puff (ITA)",
-          "url": "https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf"
-        }
-      ],
-      "duration_ms": 308085,
-      "name": "Mandarino",
-      "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
+      "duration_ms": 225602,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/30DlzqpYluEkK82ysCsWVH"
     },
     {
       "added_at": "2023-05-21 14:30:01",
@@ -425,22 +421,6 @@
       "url": "https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9"
     },
     {
-      "added_at": "2023-05-14 13:37:37",
-      "album": {
-        "name": "Lights Down",
-        "url": "https://open.spotify.com/album/53Sw1CP6lxm9ABzFwQfbJe"
-      },
-      "artists": [
-        {
-          "name": "Seb Zito",
-          "url": "https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Lights Down",
-      "url": "https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1"
-    },
-    {
       "added_at": "2022-07-15 16:45:56",
       "album": {
         "name": "Abra",
@@ -457,72 +437,80 @@
       "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
-      "added_at": "2023-05-21 14:27:18",
+      "added_at": "2023-06-11 18:01:41",
       "album": {
-        "name": "Your Mind Is Dirty",
-        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Your Mind Is Dirty",
-      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
-      "added_at": "2023-05-14 13:37:26",
+      "added_at": "2023-06-11 18:01:55",
       "album": {
-        "name": "Trankilo",
-        "url": "https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
       },
       "artists": [
         {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "added_at": "2023-06-11 18:01:52",
+      "album": {
+        "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
+        "url": "https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Trankilo",
-      "url": "https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs"
+      "duration_ms": 289171,
+      "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
+      "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
     },
     {
-      "added_at": "2023-05-14 13:37:35",
+      "added_at": "2023-06-11 18:02:09",
       "album": {
-        "name": "EDC Las Vegas 2023",
-        "url": "https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5"
+        "name": "To The Floor",
+        "url": "https://open.spotify.com/album/2IRNGT1YJzVXmjq7FMAGm2"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 170196,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/5rARPIJHK466cBchvXeb2f"
-    },
-    {
-      "added_at": "2023-05-21 14:28:36",
-      "album": {
-        "name": "Dancing Shoes (Take Me Higher)",
-        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
-      },
-      "artists": [
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Pershard Owens",
+          "url": "https://open.spotify.com/artist/66AolGZaglEiyvzCH7Zan8"
         }
       ],
-      "duration_ms": 154831,
-      "name": "Dancing Shoes (Take Me Higher)",
-      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+      "duration_ms": 181877,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/55oAMcfhdm4tusQEkWXB2n"
     },
     {
       "added_at": "2023-05-28 13:09:44",

@@ -7076,7 +7076,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 142800,
       "name": "Blunotte",
       "url": "https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy"
@@ -13462,7 +13462,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 115200,
       "name": "Cyanea",
       "url": "https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU"
@@ -16996,6 +16996,24 @@
       "duration_ms": 146000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1kO9lPKPpB8fgYvhdw8wDS"
+    },
+    {
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB"
+      },
+      "artists": [
+        {
+          "name": "Philphonic",
+          "url": "https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135010,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT"
     },
     {
       "album": {
@@ -24314,6 +24332,24 @@
       "duration_ms": 135333,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4icN7HRuMk6jkuIuHOW01Y"
+    },
+    {
+      "album": {
+        "name": "Hamaca",
+        "url": "https://open.spotify.com/album/2UiymKgCM8COuTYhIR49GO"
+      },
+      "artists": [
+        {
+          "name": "Lazy Toro",
+          "url": "https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99740,
+      "name": "Hamaca",
+      "url": "https://open.spotify.com/track/3qpes4JT6PqxLBVvZmHfRu"
     },
     {
       "album": {
@@ -55248,7 +55284,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 140480,
       "name": "Some New Soul",
       "url": "https://open.spotify.com/track/3PpNMz6two4qZasqIbw3nr"
@@ -65824,7 +65860,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 137173,
       "name": "Ventilator",
       "url": "https://open.spotify.com/track/7tobQQazW32ZWVzc6yTLSY"

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58673,
+  "num_followers": 58696,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWMxOTY4ZWM5OGIyNzY2MDQ4OWJmMmNhZDM2NTYyMjMzMTQ0ZGUz",
+  "snapshot_id": "MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "The Rollercoaster",
+        "url": "https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 219046,
+      "name": "The Rollercoaster",
+      "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 342032,
       "name": "Floppy - Marlon Hoffstadt's Energy Bells Mix",
       "url": "https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "The Rollercoaster",
-        "url": "https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF"
-      },
-      "artists": [
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 219046,
-      "name": "The Rollercoaster",
-      "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
     },
     {
       "added_at": "2021-08-27 15:45:01",

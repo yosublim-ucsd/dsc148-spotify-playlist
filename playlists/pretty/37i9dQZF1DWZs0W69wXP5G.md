@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,331 likes - 83 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,344 likes - 83 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 82 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 83 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MCxjNTZiOTI2NmFiODliNWEwMmU2ZDc1NDcxZWRiYTMwZGYzOTQ0ZTdl`
+Snapshot ID: `MCxjZTM2ZTIzNjM5ZDg3NTIyZWRmZGI4MTc5ZWIxMDZmNjE5NWVhN2Q4`

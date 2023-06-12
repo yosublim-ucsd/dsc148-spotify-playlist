@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 936287,
+  "num_followers": 936549,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmM0NmZmYzhhYzA5YmRhODFmM2Y1NzgzNDQwZmY0NGYyZWNmY2Qx",
+  "snapshot_id": "MCxkM2Y2NmU4NmYyNDU4ZmMxYmEyZjZiM2Q0ZWMwNTc0YWVmY2Q2ZGQy",
   "tracks": [
     {
       "added_at": "2023-04-07 10:13:34",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
+        "name": "Neon Medusa",
+        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 253220,
+      "name": "Neon Medusa - Edit",
+      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/3PFjjWI0IHpR7Sjo4ackKP"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 363706,
       "name": "Futureland",
       "url": "https://open.spotify.com/track/5UrCArd6UDDR2EPFOeWCxb"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
-        "name": "Neon Medusa",
-        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 253220,
-      "name": "Neon Medusa - Edit",
-      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Outlines",
-        "url": "https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU"
-      },
-      "artists": [
-        {
-          "name": "Forhill",
-          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Outlines",
-      "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/6FHuJNrXDqeH1YqXeapWtv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 248000,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/2rQbDCtrX3H3cGwqH3JmPv"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU"
+      },
+      "artists": [
+        {
+          "name": "Forhill",
+          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Outlines",
+      "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Dark Nation",
-        "url": "https://open.spotify.com/album/48SMSCylwABIUqES42tNRO"
-      },
-      "artists": [
-        {
-          "name": "DEADLIFE",
-          "url": "https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/5HL2seL3g380ByRrIGjXC2"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Hologram",
         "url": "https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 343140,
       "name": "Night City",
       "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Dark Nation",
+        "url": "https://open.spotify.com/album/48SMSCylwABIUqES42tNRO"
+      },
+      "artists": [
+        {
+          "name": "DEADLIFE",
+          "url": "https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5HL2seL3g380ByRrIGjXC2"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Flashbacks (Arcade High Remix)",
         "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Parallel Lives",
-        "url": "https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse"
-      },
-      "artists": [
-        {
-          "name": "Meteor",
-          "url": "https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb"
-        }
-      ],
-      "duration_ms": 308210,
-      "name": "White Crows",
-      "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Ornaments",
         "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 267997,
       "name": "Blitz",
       "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Parallel Lives",
+        "url": "https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse"
+      },
+      "artists": [
+        {
+          "name": "Meteor",
+          "url": "https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb"
+        }
+      ],
+      "duration_ms": 308210,
+      "name": "White Crows",
+      "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
+        "name": "Stasis",
+        "url": "https://open.spotify.com/album/5RvcTonOIaS7wqczITqjng"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Stasis",
+      "url": "https://open.spotify.com/track/2LfU1UULEXCJowBNN0JYBW"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
         "name": "Soul Survivor (feat. Ollie Wride)",
         "url": "https://open.spotify.com/album/5WOWb8G56KSeb6qFqIUJbR"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 218614,
       "name": "Soul Survivor (feat. Ollie Wride)",
       "url": "https://open.spotify.com/track/6LvKahncumcR2KJypCYOkB"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
-        "name": "Stasis",
-        "url": "https://open.spotify.com/album/5RvcTonOIaS7wqczITqjng"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eyed Tiger",
-          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Stasis",
-      "url": "https://open.spotify.com/track/2LfU1UULEXCJowBNN0JYBW"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Visitors",
-        "url": "https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK"
-      },
-      "artists": [
-        {
-          "name": "Lazerhawk",
-          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
-        }
-      ],
-      "duration_ms": 302707,
-      "name": "Shoulder of Orion",
-      "url": "https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Visitors",
+        "url": "https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK"
+      },
+      "artists": [
+        {
+          "name": "Lazerhawk",
+          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
+        }
+      ],
+      "duration_ms": 302707,
+      "name": "Shoulder of Orion",
+      "url": "https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
+        "name": "Extra Fresh",
+        "url": "https://open.spotify.com/album/572qUxNAk5ZHOU0hfqtkfd"
+      },
+      "artists": [
+        {
+          "name": "Birocratic",
+          "url": "https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Extra Fresh",
+      "url": "https://open.spotify.com/track/7vudKlxsBVvFgyQeXh4ymn"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
         "name": "I Don't Need a Hero (Cody Crump Remix)",
         "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
@@ -1991,22 +2007,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Extra Fresh",
-        "url": "https://open.spotify.com/album/572qUxNAk5ZHOU0hfqtkfd"
-      },
-      "artists": [
-        {
-          "name": "Birocratic",
-          "url": "https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Extra Fresh",
-      "url": "https://open.spotify.com/track/7vudKlxsBVvFgyQeXh4ymn"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Light Curve",
         "url": "https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ"
       },
@@ -2023,22 +2023,6 @@
       "duration_ms": 256842,
       "name": "Light Curve",
       "url": "https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
-        "name": "District 970",
-        "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
-      },
-      "artists": [
-        {
-          "name": "Sami Matar",
-          "url": "https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "Gutterpunk Kids",
-      "url": "https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -2115,6 +2099,22 @@
       "duration_ms": 187238,
       "name": "Dauntless to the End",
       "url": "https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "District 970",
+        "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
+      },
+      "artists": [
+        {
+          "name": "Sami Matar",
+          "url": "https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1"
+        }
+      ],
+      "duration_ms": 253745,
+      "name": "Gutterpunk Kids",
+      "url": "https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Purple Sun",
-        "url": "https://open.spotify.com/album/5gUwXtM9UM3dk0vGnW0rQC"
-      },
-      "artists": [
-        {
-          "name": "Honom",
-          "url": "https://open.spotify.com/artist/13WQt5GKTugUQuHSXpixo8"
-        }
-      ],
-      "duration_ms": 412119,
-      "name": "Purple Sun",
-      "url": "https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
       },
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
+        "name": "Purple Sun",
+        "url": "https://open.spotify.com/album/5gUwXtM9UM3dk0vGnW0rQC"
+      },
+      "artists": [
+        {
+          "name": "Honom",
+          "url": "https://open.spotify.com/artist/13WQt5GKTugUQuHSXpixo8"
+        }
+      ],
+      "duration_ms": 412119,
+      "name": "Purple Sun",
+      "url": "https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
       },
@@ -2251,6 +2251,26 @@
       "duration_ms": 258941,
       "name": "Aether",
       "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/4aNTV9h7g8p3ZgFMtqzgO8"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1CYWKpLRAdtM4b8pWV0Cq7"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -2299,26 +2319,6 @@
       "duration_ms": 265312,
       "name": "Keepin' on",
       "url": "https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/4aNTV9h7g8p3ZgFMtqzgO8"
-      },
-      "artists": [
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1CYWKpLRAdtM4b8pWV0Cq7"
     },
     {
       "added_at": "2023-04-07 10:13:34",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2023-04-07 10:13:34",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
-      },
-      "artists": [
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
-    },
-    {
-      "added_at": "2023-04-07 10:13:34",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
       },
@@ -2607,6 +2591,30 @@
       "duration_ms": 204631,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk"
+    },
+    {
+      "added_at": "2023-04-07 10:13:34",
+      "album": {
+        "name": "Fractal Forms",
+        "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
+      },
+      "artists": [
+        {
+          "name": "Earmake",
+          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
+        },
+        {
+          "name": "AstroPilot",
+          "url": "https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws"
+        },
+        {
+          "name": "Unusual Cosmic Process",
+          "url": "https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Fractal Forms",
+      "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
     }
   ],
   "unique_name": "Retrowave // Outrun",

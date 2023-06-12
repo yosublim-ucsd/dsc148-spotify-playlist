@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mike11.",
-  "num_followers": 34228,
+  "num_followers": 34256,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWFkZGMwNTU2M2ZjOTc4YzdmOWQxMmI2MTA0MjFkMjYwMjc4OWZj",
+  "snapshot_id": "MCxmMGMwYzgxNjk2MGE3MmY3YjA5NjNkOThkM2ViNTI1OTZjOTU3N2M2",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -559,18 +559,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -591,22 +595,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -983,18 +983,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
+        "name": "Estic\u00e3o",
+        "url": "https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd"
       },
       "artists": [
         {
-          "name": "Rita Laranjeira",
-          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
+          "name": "Ary Bronze",
+          "url": "https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ"
+        },
+        {
+          "name": "DELOSBOY",
+          "url": "https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35"
         }
       ],
-      "duration_ms": 217714,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
+      "duration_ms": 193282,
+      "name": "Estic\u00e3o",
+      "url": "https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Estic\u00e3o",
-        "url": "https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd"
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
       },
       "artists": [
         {
-          "name": "Ary Bronze",
-          "url": "https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ"
-        },
-        {
-          "name": "DELOSBOY",
-          "url": "https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35"
+          "name": "Rita Laranjeira",
+          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Estic\u00e3o",
-      "url": "https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj"
+      "duration_ms": 217714,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "N\u00e3o Me Faz Bem",
+        "url": "https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr"
+      },
+      "artists": [
+        {
+          "name": "Wavy",
+          "url": "https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW"
+        },
+        {
+          "name": "Shugga",
+          "url": "https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK"
+        },
+        {
+          "name": "F\u00e1bio S",
+          "url": "https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "N\u00e3o Me Faz Bem",
+      "url": "https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "T\u00e1 Doce",
         "url": "https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc"
       },
@@ -1207,26 +1231,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Faz Bem",
-        "url": "https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr"
+        "name": "\u00c0s Vezes",
+        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
       },
       "artists": [
         {
-          "name": "Wavy",
-          "url": "https://open.spotify.com/artist/2pgd5PsCPruMCPfT8P6dey"
+          "name": "Sien Flamuri",
+          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
         },
         {
-          "name": "Shugga",
-          "url": "https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK"
-        },
-        {
-          "name": "F\u00e1bio S",
-          "url": "https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU"
+          "name": "mizt",
+          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
         }
       ],
-      "duration_ms": 176000,
-      "name": "N\u00e3o Me Faz Bem",
-      "url": "https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2"
+      "duration_ms": 163061,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "\u00c0s Vezes",
-        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
-      },
-      "artists": [
-        {
-          "name": "Sien Flamuri",
-          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
-        },
-        {
-          "name": "mizt",
-          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
-        }
-      ],
-      "duration_ms": 163061,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "CHRISTIAN DIOR",
         "url": "https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU"
       },
@@ -1287,6 +1287,46 @@
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/7o2gLbTGJCHuRXPqWZF6qP"
+      },
+      "artists": [
+        {
+          "name": "Remedy DON Dadda",
+          "url": "https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL"
+        },
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "duration_ms": 240366,
+      "name": "Yard",
+      "url": "https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1323,38 +1363,6 @@
       "duration_ms": 179635,
       "name": "Envelope",
       "url": "https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
-      },
-      "artists": [
-        {
-          "name": "TT",
-          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Quero Mais",
-        "url": "https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6"
-      },
-      "artists": [
-        {
-          "name": "Reyz",
-          "url": "https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
     }
   ],
   "unique_name": "Seda",

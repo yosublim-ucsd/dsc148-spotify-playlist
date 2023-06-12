@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Maria Mar\u00e7al",
-  "num_followers": 944545,
+  "num_followers": 944996,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzgwMzNmNzkzZGQyM2IwNmJjNzM1NzEwNmU4MGVkNWRlMzE0MTYw",
+  "snapshot_id": "MCxlZTExZTRlZGU4OGRkODAzMDljN2JhNDM2YTRhOWI0MDAxYTliNTUw",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Algo Novo (feat. Lukas Agustinho) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh"
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 408132,
-      "name": "Algo Novo (feat. Lukas Agustinho) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw"
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+        "name": "Algo Novo (feat. Lukas Agustinho) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
+      "duration_ms": 408132,
+      "name": "Algo Novo (feat. Lukas Agustinho) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+      "duration_ms": 312219,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+        "name": "Esse Vento Vai Passar (Studio Session)",
+        "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+      "duration_ms": 319283,
+      "name": "Esse Vento Vai Passar - Studio Session",
+      "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1283,24 +1299,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Esse Vento Vai Passar (Studio Session)",
-        "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 319283,
-      "name": "Esse Vento Vai Passar - Studio Session",
-      "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 312219,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Resposta",
-        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "\u00caxodo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3MY0dKYirZvEnZXwiUpS0G"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 245818,
       "name": "\u00caxodo - Ao Vivo",
       "url": "https://open.spotify.com/track/0uVGf6AmdNCIrvNBkQM7Qa"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Cordeiro que Venceu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 410347,
-      "name": "Cordeiro que Venceu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 268661,
       "name": "Deus Cuida De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Cordeiro que Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 410347,
+      "name": "Cordeiro que Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
     },
     {
       "added_at": "2023-06-02 03:00:00",

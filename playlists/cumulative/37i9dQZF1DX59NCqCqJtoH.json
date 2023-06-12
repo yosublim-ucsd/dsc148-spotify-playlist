@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "I'm Not Enough and I'm Sorry",
+        "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120035,
+      "name": "I'm Not Enough and I'm Sorry",
+      "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
+    },
+    {
+      "album": {
         "name": "i'm not free",
         "url": "https://open.spotify.com/album/4NZsTk7cBmcU9toTfLKOAJ"
       },
@@ -10004,7 +10026,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 200750,
       "name": "Time",
       "url": "https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN"

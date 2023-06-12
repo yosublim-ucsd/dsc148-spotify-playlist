@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-869 songs - 2 day 1 hr 15 min
+870 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-16 |  |
 | [ISLAND](https://open.spotify.com/track/1LEAO4bKSlclXPAFVGJibm) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [ISLAND](https://open.spotify.com/album/6JMJG0NGIfuv66NNSIZt4I) | 3:15 | 2022-03-24 | 2022-05-11 |
 | [ISLAND](https://open.spotify.com/track/43Y6XibvJzLJj3GyVQaEFJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/3s5LEazLAxgYZSFdG98rHw) | 3:27 | 2021-11-17 | 2022-07-10 |
-| [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 | 2021-11-17 |  |
+| [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 | 2021-11-17 | 2023-06-12 |
 | [Island](https://open.spotify.com/track/3KZ5sbYzeZetCCuA68BBwz) | [이새봄](https://open.spotify.com/artist/1yGfj9yNeriR1yJO5c8nXU) | [Island](https://open.spotify.com/album/0FevCLyaRWZId6MZLnXtkK) | 3:15 | 2022-01-03 | 2022-04-19 |
 | [It Wasn't Me \(feat\. CHOI YOOJUNG \(Weki Meki\)\)](https://open.spotify.com/track/1dbpOaHN2Jkrl98BqqKMBs) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:22 | 2021-11-17 | 2022-07-29 |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2021-11-17 | 2023-03-29 |
@@ -864,6 +864,7 @@
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2022-07-08 | 2023-03-29 |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/7AvXrOVEVRcfXxme2wo6Im) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:31 | 2021-11-17 | 2022-07-27 |
 | [몸매 Mommae \(feat\. Ugly Duck\)](https://open.spotify.com/track/0wTwQC1TBfmARocEljNDZs) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/1bCQECuGiRPIdEkmCe8m1U) | 3:24 | 2021-11-17 | 2022-07-20 |
+| [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2023-03-28 |  |
 | [소방차 Fire Truck](https://open.spotify.com/track/1pLh3xuAaDMyux3laCEqaq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/6NMQzdclNuTi6mXiRpoPxB) | 2:58 | 2022-03-24 | 2022-04-19 |
 | [오늘부터 우리는 Me Gustas Tu](https://open.spotify.com/track/33dL21KeJquNsfOfacjU0q) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Flower Bud](https://open.spotify.com/album/1Qw4DsmdsXRiAHEIypy235) | 3:40 | 2021-11-17 | 2022-07-27 |
 | [우리 둘 Runnin'](https://open.spotify.com/track/68oQulR4Fh2Rqd4s1mXcGh) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [우리 둘 Runnin'](https://open.spotify.com/album/4QSAhAtd9YFPFA7K2ci60B) | 3:36 | 2022-03-24 | 2022-04-21 |

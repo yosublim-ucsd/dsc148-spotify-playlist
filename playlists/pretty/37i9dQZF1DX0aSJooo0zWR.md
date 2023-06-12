@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,602 likes - 80 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,666 likes - 80 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 19 | [P64 By My Side](https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Septet](https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ) | 4:11 |
 | 20 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 |
 | 21 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 |
-| 22 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
-| 23 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 |
+| 22 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 |
+| 23 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
 | 24 | [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 |
 | 25 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 |
-| 26 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
-| 27 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
+| 26 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
+| 27 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
 | 28 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
 | 29 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 30 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 57 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
 | 58 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 |
 | 59 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
-| 60 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
-| 61 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
+| 60 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
+| 61 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
 | 62 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 |
 | 63 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
 | 64 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 |
 | 80 | [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 |
 
-Snapshot ID: `MCxlYzE3N2ZhZTIwMjQzNjZiMmViYzM4Yzk5ZGE0MGZhMjRiM2EyZmU5`
+Snapshot ID: `MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz`

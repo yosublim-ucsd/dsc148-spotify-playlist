@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-359 songs - 19 hr 31 min
+360 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bounce](https://open.spotify.com/track/6damJkZsW0f3eNNAABd0NI) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Bounce](https://open.spotify.com/album/6J36RHhMLfQCjdgSbuPj9l) | 3:24 | 2022-05-06 | 2022-07-28 |
 | [Breathe In The Moment \- Au5 Remix](https://open.spotify.com/track/7r1DArp7L5xpi1S2rNCLm5) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [APEK](https://open.spotify.com/artist/6jNwV0P142cXxXanOl9Ylo), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Breathe In The Moment \(Remixes\)](https://open.spotify.com/album/4yGnBuAhI3ApEEo6Nw8PTm) | 5:21 | 2022-06-10 | 2022-06-15 |
 | [Catharsis](https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Catharsis](https://open.spotify.com/album/0ymUAvf82F01N86FAksVzT) | 4:25 | 2022-05-06 | 2022-07-28 |
+| [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 | 2023-05-05 |  |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-06-22 | 2022-07-27 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |
@@ -210,7 +211,7 @@
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-05-06 | 2022-07-29 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-05-06 |  |
 | [Never Let You Go \(feat\. Sofia Reyes\) \- EVE Re\-Imagination](https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [EVE](https://open.spotify.com/artist/4EtmcpFzg2YAY2T81sJxtK) | [Never Let You Go \(feat\. Sofia Reyes\) \[EVE Re\-Imagination\]](https://open.spotify.com/album/0VinylAsvPl3hgxOuoSPQ2) | 4:21 | 2022-05-06 | 2022-07-28 |
-| [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 | 2022-07-14 |  |
+| [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 | 2022-07-14 | 2023-06-12 |
 | [Nightmares](https://open.spotify.com/track/35EpJBwkHu4uVBiQKokIPr) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [DUALITY](https://open.spotify.com/album/4wK7dyclcJymopSCrF8fLz) | 3:24 | 2022-05-06 | 2022-07-29 |
 | [Nothing's Perfect](https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Nothing's Perfect](https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B) | 3:06 | 2022-09-09 | 2022-11-13 |
 | [Oblivion](https://open.spotify.com/track/1VLRz4mIP1o8YwPgqGFqPs) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/4RGfAsA2YiRuaEJzkYXCZT) | 3:50 | 2022-05-06 | 2022-07-29 |

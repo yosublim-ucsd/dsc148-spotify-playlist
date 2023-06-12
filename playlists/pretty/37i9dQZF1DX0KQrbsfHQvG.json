@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 179022,
+  "num_followers": 179083,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTM0MWY0NTEwMjMwZjE4M2Q1NDNjN2QxNGEzYWJlOWFjNDQ0YjI3",
+  "snapshot_id": "MCw4NDY3MDdkN2VmMGRjNTIyNGQ1Yjc0Y2FmZGQ1OTEyYmZiYWJkYTEw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 176373,
       "name": "American Attraction",
       "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2022-11-04 04:00:00",

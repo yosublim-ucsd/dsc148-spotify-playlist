@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, anni 70 e anni 80!",
-  "num_followers": 13685,
+  "num_followers": 13738,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWUxNDdiNDA4YTUyYjFhMmNjNDFkMDdiMjk0ZTQzMTQ3ZDgwMDg2",
+  "snapshot_id": "MCxmYmRkNjExN2Q0ZjkzOTM4YzM0MzY5ZWRhZDk0MGNjY2JmZTE1ZGYw",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Made In Italy",
-        "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
-      },
-      "artists": [
-        {
-          "name": "Renato Carosone",
-          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
-        }
-      ],
-      "duration_ms": 208614,
-      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
-      "url": "https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "duration_ms": 208614,
+      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
+      "url": "https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Come lei non c'e' nessuno",
-        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "La partita di pallone",
-      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Hitstory Deluxe Edition",
         "url": "https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 268080,
       "name": "Fotoromanza",
       "url": "https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Come lei non c'e' nessuno",
+        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "La partita di pallone",
+      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
     },
     {
       "added_at": "2023-06-05 07:42:38",

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Habstrakt",
-  "num_followers": 424072,
+  "num_followers": 424145,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjQzY2E2NmFkZjM1ODQxODlkYjZmZjI3ZWY0NTU4YjM5YjUxZjJi",
+  "snapshot_id": "MCxhNDJhYzlhNDMxNWMwN2I3ZDFiMDM1OTAyNDJlOGUzNDNkMjcyOGE4",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "D.I.S.C.O.",
         "url": "https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "No Superstar",
+        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        },
+        {
+          "name": "Boxter",
+          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
+        }
+      ],
+      "duration_ms": 161153,
+      "name": "No Superstar",
+      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -1007,26 +1027,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "No Superstar",
-        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        },
-        {
-          "name": "Boxter",
-          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
-        }
-      ],
-      "duration_ms": 161153,
-      "name": "No Superstar",
-      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Deep In LA",
         "url": "https://open.spotify.com/album/4yI5ry3atQU0uekSqIS9Q1"
       },
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Slaughter House",
-        "url": "https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek"
+        "name": "Best Shot",
+        "url": "https://open.spotify.com/album/2ZS4wPIZ1BxVuDpKalnf18"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
         }
       ],
-      "duration_ms": 240000,
-      "name": "B.T.W. (The Whistle)",
-      "url": "https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39"
+      "duration_ms": 220119,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Best Shot",
-        "url": "https://open.spotify.com/album/2ZS4wPIZ1BxVuDpKalnf18"
+        "name": "Slaughter House",
+        "url": "https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 220119,
-      "name": "Best Shot",
-      "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
+      "duration_ms": 240000,
+      "name": "B.T.W. (The Whistle)",
+      "url": "https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Trunk",
         "url": "https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Make Trouble",
         "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 210461,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 283125,
-      "name": "Grit",
-      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "CONTROVERSIA by Alok Vol. 008",
         "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 155714,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 283125,
+      "name": "Grit",
+      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "BLEEP BLOOP",
-        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "BLEEP BLOOP",
-      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Front To Back (feat. DLMT)",
         "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 211653,
       "name": "Front To Back (feat. DLMT)",
       "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Rollin' in my Ride",
-        "url": "https://open.spotify.com/album/79YDLvb2rZw4IuhrbXYHtI"
-      },
-      "artists": [
-        {
-          "name": "Wolter Wythe",
-          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
-        },
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        }
-      ],
-      "duration_ms": 259775,
-      "name": "Rollin' in my Ride",
-      "url": "https://open.spotify.com/track/1mV5ZTsAdpUhYyRxDNNPR0"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1515,26 +1495,42 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Back It Up (feat. Young Lyxx)",
-        "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
+        "name": "Rollin' in my Ride",
+        "url": "https://open.spotify.com/album/79YDLvb2rZw4IuhrbXYHtI"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Wolter Wythe",
+          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
         },
         {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
         }
       ],
-      "duration_ms": 198094,
-      "name": "Back It Up (feat. Young Lyxx)",
-      "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
+      "duration_ms": 259775,
+      "name": "Rollin' in my Ride",
+      "url": "https://open.spotify.com/track/1mV5ZTsAdpUhYyRxDNNPR0"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/3UpSwb8o74hfIF05Kje7mA"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        },
+        {
+          "name": "Amy Grace",
+          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+        }
+      ],
+      "duration_ms": 256614,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/39q835p7musO4mDc7fmo1s"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1575,22 +1571,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Spinnin'",
-        "url": "https://open.spotify.com/album/3UpSwb8o74hfIF05Kje7mA"
+        "name": "Back It Up (feat. Young Lyxx)",
+        "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
       },
       "artists": [
         {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Amy Grace",
-          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 256614,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/39q835p7musO4mDc7fmo1s"
+      "duration_ms": 198094,
+      "name": "Back It Up (feat. Young Lyxx)",
+      "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "New Hype",
+        "url": "https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "New Hype",
+      "url": "https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
       },
@@ -2079,26 +2095,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Lay It Down (feat. Bricc Baby)",
-        "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        },
-        {
-          "name": "Bricc Baby",
-          "url": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
-        }
-      ],
-      "duration_ms": 215798,
-      "name": "Lay It Down (feat. Bricc Baby)",
-      "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/1CUAAq1mV9BlDgWJblzksq"
       },
@@ -2115,18 +2111,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "New Hype",
-        "url": "https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu"
+        "name": "Lay It Down (feat. Bricc Baby)",
+        "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
       },
       "artists": [
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        },
+        {
+          "name": "Bricc Baby",
+          "url": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
         }
       ],
-      "duration_ms": 175909,
-      "name": "New Hype",
-      "url": "https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom"
+      "duration_ms": 215798,
+      "name": "Lay It Down (feat. Bricc Baby)",
+      "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "BVRNOUT",
-          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
-        }
-      ],
-      "duration_ms": 157538,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/2RPv6BPciODv2BRBdodEDK"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1efpvOFvmtOKiNTLh3xKmx"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 159352,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "BVRNOUT",
+          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
+        }
+      ],
+      "duration_ms": 157538,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/2RPv6BPciODv2BRBdodEDK"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2243,26 +2243,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Direct Me",
-        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
-      },
-      "artists": [
-        {
-          "name": "Rony Rex",
-          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        }
-      ],
-      "duration_ms": 232610,
-      "name": "Direct Me",
-      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Westcoaster (AC Slater Remix)",
         "url": "https://open.spotify.com/album/2tflgDhdqeFcODUF7SfbBf"
       },
@@ -2279,30 +2259,6 @@
       "duration_ms": 230000,
       "name": "Westcoaster - AC Slater Remix",
       "url": "https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Stop Looking (ft. Amy Miyu)",
-        "url": "https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        },
-        {
-          "name": "DJEAU",
-          "url": "https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 143784,
-      "name": "Stop Lookin (ft. AMY MIYU)",
-      "url": "https://open.spotify.com/track/0DGuvbENglRD3UTNtNKYtg"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2327,6 +2283,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Direct Me",
+        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "duration_ms": 232610,
+      "name": "Direct Me",
+      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Hypnotic",
         "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
       },
@@ -2339,6 +2315,30 @@
       "duration_ms": 253333,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Stop Looking (ft. Amy Miyu)",
+        "url": "https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "DJEAU",
+          "url": "https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 143784,
+      "name": "Stop Lookin (ft. AMY MIYU)",
+      "url": "https://open.spotify.com/track/0DGuvbENglRD3UTNtNKYtg"
     },
     {
       "added_at": "2023-06-09 04:00:00",

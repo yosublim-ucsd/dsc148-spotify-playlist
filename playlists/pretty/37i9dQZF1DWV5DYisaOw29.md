@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 36 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 36 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 | 35 | [Namesake](https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:35 |
 | 36 | [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 2:45 |
 
-Snapshot ID: `MCw3NDZiZTg2NzZmNGUyM2ExOWExNTRhMThhZDYyYjQ4ZTNlMjE3YzA3`
+Snapshot ID: `MCw2ZTBjMmFkMTNhOTc2NTRlOWIzMDFhYzY0MTM5MDVkYjAxMjg2MWNh`

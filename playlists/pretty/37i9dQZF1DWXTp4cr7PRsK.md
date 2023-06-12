@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,257 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 30 | [Almost There](https://open.spotify.com/track/4IfowS5OhB5DDYtuKmoo4v) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [PHOENIX MODE](https://open.spotify.com/album/3gp0vjA9L16pBIs0vrWzL9) | 3:15 |
 | 31 | [Luka/New President](https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 3:04 |
 
-Snapshot ID: `MCw4NTRhMzRlYTVjZDUzYjFmYWYxMjM0NjE4ODA2YTg1Y2NjZjM2YWJk`
+Snapshot ID: `MCwxMjI2ZjEzZjg1YjRiMmRmN2U4NTA1NDA4OGRhZGM5NGQ3ZTMzMDg3`

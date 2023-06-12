@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,385 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,519 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 12 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 |
 | 13 | [A Noite Vai Chegar](https://open.spotify.com/track/5qqz0pUTUTenMGr9Hlr43a) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji) | [A Noite Vai Chegar](https://open.spotify.com/album/67vB21If6Tev6AoNE2QAlJ) | 3:54 |
 | 14 | [Mistério da raça](https://open.spotify.com/track/3GDM3x918Z9o9COKIdf4jc) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Nós](https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b) | 3:07 |
-| 15 | [Moqueca](https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ) | 4:04 |
+| 15 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
 | 16 | [Estou Livre](https://open.spotify.com/track/4wQsadZBQqUX0uFXPHylcN) | [Tony Bizarro](https://open.spotify.com/artist/4Eev3uY6rsEe2XheMKXWZX) | [Estou Livre \(Remixes\)](https://open.spotify.com/album/031gLsHm36Z8lqjY7ZOAyY) | 4:00 |
 | 17 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 |
 | 18 | [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 |
 | 50 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 |
 
-Snapshot ID: `MCw0OGMxNTUwOThkMGQyYjE0NWEzZGRkYjEyMDE0MDA2MjFjZGQ1ZmY2`
+Snapshot ID: `MCwwMmMwYzI1YTNmNjgzOTAxODg5ZGFmZjc0YjJlYzVmZGVmMmIwOTFi`

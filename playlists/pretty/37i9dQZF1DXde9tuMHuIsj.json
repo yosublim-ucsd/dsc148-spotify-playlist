@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago",
-  "num_followers": 1526129,
+  "num_followers": 1526113,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmYyMDZhYmY2ZmNiOTk0YjY3NDkyYWJlNjE0MGIzZDNlNzgwNGU2",
+  "snapshot_id": "MCw4ODBiZWU4Mzk3OGM2M2Q0NmZiMWNmNjU2Yjc5MjE2YjNmYzY4NzE3",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "X Ley (feat. Dei V) [Remix]",
         "url": "https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt"
       },
@@ -1531,6 +1551,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
       },
@@ -1547,18 +1583,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+        "name": "No Hitter",
+        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
       },
       "artists": [
         {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+      "duration_ms": 164062,
+      "name": "No Hitter",
+      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1583,22 +1619,6 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "No Hitter",
-        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "No Hitter",
-      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 188181,
       "name": "XNO",
       "url": "https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "en guerra",
-        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "en guerra",
-      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Somos O No Somos",
-        "url": "https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 240049,
-      "name": "Somos O No Somos",
-      "url": "https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Un Cuarto",
         "url": "https://open.spotify.com/album/1FFuDe1T15U91jWt1jsWSO"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 209620,
       "name": "Bancario",
       "url": "https://open.spotify.com/track/1YM3lPEvD32V4fK9JkdoMe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Somos O No Somos",
+        "url": "https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 240049,
+      "name": "Somos O No Somos",
+      "url": "https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu"
     },
     {
       "added_at": "2023-06-09 04:00:00",

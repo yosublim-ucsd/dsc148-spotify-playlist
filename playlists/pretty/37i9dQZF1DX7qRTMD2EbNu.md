@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS?si=\_bn36cCwR1ibGuYVXTz8jQ"> Nxwrth</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,920 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,928 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [God Complex](https://open.spotify.com/track/71rECXgwu9iMFo5BdJ5ETa) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [God Complex](https://open.spotify.com/album/4LGZflpwugOMeBRcDfvl4E) | 3:27 |
 | 80 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
 
-Snapshot ID: `MCxjNDcyM2RmZTQ5M2NmMTM4NmYxYzdhMjE4OTNkYmMwZTZjMmRlZGY3`
+Snapshot ID: `MCxhOThlYjk5NmIwMGM1MGJhNjA5OTcyZDMzODA2NThjY2FlZGUwNjUz`

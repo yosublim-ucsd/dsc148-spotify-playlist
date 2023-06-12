@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 355864,
+  "num_followers": 355988,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzI1NWY5NmE0YjVjYTI2YmE0ZTNjYmFmNjIyODEwNGViZTVkZWQy",
+  "snapshot_id": "MCwyZTQzZGJkZWM3YzQwNzU2M2YzZGIzZTYwNWY5M2JmNmJiN2U3NmI5",
   "tracks": [
     {
       "added_at": "2023-05-30 05:41:43",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 150898,
       "name": "Pines and Cedars",
       "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
-      },
-      "artists": [
-        {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Printemps",
         "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 137424,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
+      },
+      "artists": [
+        {
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "The Old Oak Tree",
         "url": "https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Benediction",
-        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
       },
       "artists": [
         {
-          "name": "Nadav Amir-Himmel",
-          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
         }
       ],
-      "duration_ms": 143920,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -955,6 +939,22 @@
       "duration_ms": 180371,
       "name": "Spring Thaw",
       "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Benediction",
+        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
+      },
+      "artists": [
+        {
+          "name": "Nadav Amir-Himmel",
+          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+        }
+      ],
+      "duration_ms": 143920,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 113986,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 133375,
       "name": "Muse",
       "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 113986,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
-      },
-      "artists": [
-        {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
-        }
-      ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Eclipsis",
         "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
@@ -1195,22 +1179,6 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Take care",
-        "url": "https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1"
-      },
-      "artists": [
-        {
-          "name": "Wilson Trouv\u00e9",
-          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
-        }
-      ],
-      "duration_ms": 128931,
-      "name": "Take care",
-      "url": "https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1231,18 +1199,50 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
       "artists": [
         {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1"
+      },
+      "artists": [
+        {
+          "name": "Wilson Trouv\u00e9",
+          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
+        }
+      ],
+      "duration_ms": 128931,
+      "name": "Take care",
+      "url": "https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
+      },
+      "artists": [
+        {
+          "name": "Doris Casella",
+          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Estelle",
-        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
       "artists": [
         {
-          "name": "Doris Casella",
-          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
         }
       ],
-      "duration_ms": 118500,
-      "name": "Estelle",
-      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+      "duration_ms": 143000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Periferi",
         "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 150000,
       "name": "Ottilia",
       "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
+      },
+      "artists": [
+        {
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     }
   ],
   "unique_name": "Coffee and Piano",

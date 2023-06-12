@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: thekayetan",
-  "num_followers": 4195,
+  "num_followers": 4252,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njc0OTJlOWRiMzA5Nzc1OTA5OThlMjVhOTE2ZWVlNjAxZjE1YWNk",
+  "snapshot_id": "MCxmODYyM2Q2Y2M4NWZmYWVjMGQ4NTc2ZGFmYTI5NzFiODJkM2E0ZDY2",
   "tracks": [
     {
       "added_at": "2023-05-31 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Lont",
-        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 228472,
-      "name": "Lont",
-      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "VITAY (Avtomat Remix)",
         "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 250208,
       "name": "VITAY - Avtomat Remix",
       "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Lont",
+        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 228472,
+      "name": "Lont",
+      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
+        "name": "Obok mnie (Radio edit)",
+        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
       },
       "artists": [
         {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
+      "duration_ms": 162352,
+      "name": "Obok mnie - Radio edit",
+      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
     }
   ],
   "unique_name": "GLOW Polska",

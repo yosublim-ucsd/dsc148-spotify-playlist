@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,015 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,383 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 100 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
 | 101 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 
-Snapshot ID: `MCwyZDc4ZjhiNTg5ZjA1ZWIwOWMyN2FlNTM5M2RkOTY2NGZhYjY5ODAx`
+Snapshot ID: `MCw4NzdiMzNlOGRiOWY2YjViNzNkMWFlMzVkMmQ0YzgwZTM4OTZmMGYw`

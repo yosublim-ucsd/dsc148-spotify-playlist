@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: YUNGBLUD
 
-230 songs - 12 hr 31 min
+231 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-15 | 2023-05-12 |
 | [Well I Hope Ur Happy](https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Hell Is A Teenage Girl](https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ) | 3:04 | 2023-04-20 | 2023-05-26 |
 | [Where Do I Sign?](https://open.spotify.com/track/2iS56f2r8QJT5v6dykQUbV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Where Do I Sign?](https://open.spotify.com/album/0TPooGLGUC00XGmKlx0axn) | 3:11 | 2023-01-13 | 2023-03-03 |
-| [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-18 |  |
+| [Who Do You Wanna Be?](https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:49 | 2023-06-08 |  |
+| [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-18 | 2023-06-12 |
 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 | 2023-02-03 | 2023-03-18 |
 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 | 2023-03-08 | 2023-03-09 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-01-13 | 2023-01-20 |

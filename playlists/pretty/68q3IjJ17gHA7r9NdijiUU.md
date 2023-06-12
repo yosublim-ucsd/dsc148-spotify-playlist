@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 318,445 likes - 100 songs - 6 hr 30 min
+[Digster](https://open.spotify.com/user/digster.fm) - 318,456 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 99 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
 | 100 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 
-Snapshot ID: `MTU5OSwzZWIwMzE4MTZkMDVhZDc3YTlkOGVmYzFlYjVmZjM3YmU0NTFlZWY3`
+Snapshot ID: `MTYwMSw0ZmY1MmU3ZTE1YzdhZDlmOWVkMmYxZDAwYTcwZTVkMWE5ODAzNjhh`

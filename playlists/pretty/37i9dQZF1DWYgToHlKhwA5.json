@@ -1,12 +1,12 @@
 {
   "description": "Disfruta los sonidos de truenos distantes y lluvias fuertes.",
-  "num_followers": 54022,
+  "num_followers": 54120,
   "original_name": "Sonidos de Lluvia y Tormentas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjBlMTZmZTRlMGU1YzQ0ZGYzY2ViYTUxOGY1ZTY4NjllNGIyYzdi",
+  "snapshot_id": "MCxmZTdlYzdmM2ZkYzAyMDAzODRiOTlkYTEzMjAxOWEyZDNkNzA4ZjQ5",
   "tracks": [
     {
       "added_at": "2022-07-19 08:52:26",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Dormir Dan",
         "url": "https://open.spotify.com/album/3uBJcpWWkUjf67rmvtJ4Fc"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/66PaJAfv8IGEjBj0cggYnZ"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Storms Out",
         "url": "https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c"
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc"
     },
     {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Mal tiempo",
+        "url": "https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr"
+      },
+      "artists": [
+        {
+          "name": "El Tiempo Central",
+          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Costa Tormenta",
+      "url": "https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D"
+    },
+    {
       "added_at": "2022-07-19 08:52:26",
       "album": {
         "name": "Longing for rain",
@@ -519,22 +535,6 @@
       "duration_ms": 147534,
       "name": "Longing for rain",
       "url": "https://open.spotify.com/track/3UGkG7AQidJX6tZs61sO15"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Mal tiempo",
-        "url": "https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr"
-      },
-      "artists": [
-        {
-          "name": "El Tiempo Central",
-          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Costa Tormenta",
-      "url": "https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -857,7 +857,23 @@
       "url": "https://open.spotify.com/track/4NkLZ02Kkeka1qODiLJkVN"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Seek Shelter",
+        "url": "https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D"
+      },
+      "artists": [
+        {
+          "name": "Snore Patrol",
+          "url": "https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Stormy Evening",
         "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
@@ -887,22 +903,6 @@
       "duration_ms": 147534,
       "name": "Rumbling Sky",
       "url": "https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Seek Shelter",
-        "url": "https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D"
-      },
-      "artists": [
-        {
-          "name": "Snore Patrol",
-          "url": "https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/4QMNrMy6bj0jWJtJO4GUfj"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Histoires Sur Le Flash",
         "url": "https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2AtxBBgHbuuJFrv8h3U7ls"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Storm From The North",
         "url": "https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd"
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Rain Morning",
-        "url": "https://open.spotify.com/album/0a7mH4O1NsujRNY35geOTs"
-      },
-      "artists": [
-        {
-          "name": "Natural Dream Makers",
-          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Rain Morning",
-      "url": "https://open.spotify.com/track/400VRhKLp9MZhyJgeAN6OA"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
         "name": "Goddess Of Thunder",
         "url": "https://open.spotify.com/album/750KlTBN4XouiJKskT0Jpz"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Heavy Rain",
-        "url": "https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs"
+        "name": "Rain Morning",
+        "url": "https://open.spotify.com/album/0a7mH4O1NsujRNY35geOTs"
       },
       "artists": [
         {
-          "name": "Ray N.Y",
-          "url": "https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz"
+          "name": "Natural Dream Makers",
+          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
         }
       ],
-      "duration_ms": 168779,
-      "name": "Cozy Rain",
-      "url": "https://open.spotify.com/track/44REx0lmsZcpfmkKrMvDp0"
+      "duration_ms": 161239,
+      "name": "Rain Morning",
+      "url": "https://open.spotify.com/track/400VRhKLp9MZhyJgeAN6OA"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1143,6 +1127,22 @@
       "duration_ms": 134489,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE"
+    },
+    {
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs"
+      },
+      "artists": [
+        {
+          "name": "Ray N.Y",
+          "url": "https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Cozy Rain",
+      "url": "https://open.spotify.com/track/44REx0lmsZcpfmkKrMvDp0"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
+        "name": "Tonnerre et pluie",
+        "url": "https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI"
+      },
+      "artists": [
+        {
+          "name": "Effectum",
+          "url": "https://open.spotify.com/artist/7mudgeojeGL4IruR03vmFb"
+        }
+      ],
+      "duration_ms": 110712,
+      "name": "Forte pluie, tonnerre profond",
+      "url": "https://open.spotify.com/track/7r51Cb3FGb4hbr8visjjVr"
+    },
+    {
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
         "name": "Thunder Stories",
         "url": "https://open.spotify.com/album/4zHRIUbgKatKB8QhDPVK7c"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 119631,
       "name": "Soft Forest Clappering",
       "url": "https://open.spotify.com/track/5bcHiKNME9lrvd6rUJ5zxT"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
-        "name": "Tonnerre et pluie",
-        "url": "https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI"
-      },
-      "artists": [
-        {
-          "name": "Effectum",
-          "url": "https://open.spotify.com/artist/7mudgeojeGL4IruR03vmFb"
-        }
-      ],
-      "duration_ms": 110712,
-      "name": "Forte pluie, tonnerre profond",
-      "url": "https://open.spotify.com/track/7r51Cb3FGb4hbr8visjjVr"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Celtic Storm",
-        "url": "https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn"
-      },
-      "artists": [
-        {
-          "name": "Taranis",
-          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Dark Storm",
-      "url": "https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
         "name": "\u00c5skljud",
         "url": "https://open.spotify.com/album/6Jd8SQAVeOWorxzNrbeqGX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 226000,
       "name": "\u00c5skv\u00e4der",
       "url": "https://open.spotify.com/track/0xBJh1FWXbt1KyJbVxVYLp"
+    },
+    {
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Celtic Storm",
+        "url": "https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn"
+      },
+      "artists": [
+        {
+          "name": "Taranis",
+          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Dark Storm",
+      "url": "https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Countryside Storm",
-        "url": "https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY"
-      },
-      "artists": [
-        {
-          "name": "April Shower",
-          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Countryside Storm",
-      "url": "https://open.spotify.com/track/3DcBNBQXztYsrGgAqUGSJj"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
         "name": "Forest and Ocean Sounds",
         "url": "https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 123500,
       "name": "Gentle Storm",
       "url": "https://open.spotify.com/track/1CEaySVOx18mttscveNNeJ"
+    },
+    {
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Countryside Storm",
+        "url": "https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY"
+      },
+      "artists": [
+        {
+          "name": "April Shower",
+          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Countryside Storm",
+      "url": "https://open.spotify.com/track/3DcBNBQXztYsrGgAqUGSJj"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1593,20 +1593,20 @@
       "url": "https://open.spotify.com/track/5UCoKMFGx2aKJffRxMv0Wd"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Century Storm",
-        "url": "https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ"
+        "name": "Healing Storm",
+        "url": "https://open.spotify.com/album/1qH3TM556rYoUusvBU0V1t"
       },
       "artists": [
         {
-          "name": "Lunacy",
-          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
+          "name": "Adam Storme",
+          "url": "https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Thunder Around The Clock",
-      "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
+      "duration_ms": 208000,
+      "name": "Healing Storm",
+      "url": "https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1Our3nKwfAPgzhjEDj2Wyp"
     },
     {
-      "added_at": "2022-07-19 08:52:26",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
-        "name": "Healing Storm",
-        "url": "https://open.spotify.com/album/1qH3TM556rYoUusvBU0V1t"
+        "name": "Century Storm",
+        "url": "https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ"
       },
       "artists": [
         {
-          "name": "Adam Storme",
-          "url": "https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI"
+          "name": "Lunacy",
+          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Healing Storm",
-      "url": "https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc"
+      "duration_ms": 140000,
+      "name": "Thunder Around The Clock",
+      "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Peceful Waters",
-        "url": "https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm"
-      },
-      "artists": [
-        {
-          "name": "Peceful Waters",
-          "url": "https://open.spotify.com/artist/2VfTfwQpjAkt3dR71njyYp"
-        }
-      ],
-      "duration_ms": 129287,
-      "name": "Night Storm",
-      "url": "https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
         "name": "Magic Sky",
         "url": "https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 137462,
       "name": "Drizzling Down",
       "url": "https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV"
+    },
+    {
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Peceful Waters",
+        "url": "https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm"
+      },
+      "artists": [
+        {
+          "name": "Peceful Waters",
+          "url": "https://open.spotify.com/artist/2VfTfwQpjAkt3dR71njyYp"
+        }
+      ],
+      "duration_ms": 129287,
+      "name": "Night Storm",
+      "url": "https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -1785,6 +1785,22 @@
       "url": "https://open.spotify.com/track/3BMKIPPQOYUFEBEkbv6mVN"
     },
     {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Stormy Evening",
+        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
+      },
+      "artists": [
+        {
+          "name": "Taranis",
+          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunder Rain",
+      "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
+    },
+    {
       "added_at": "2022-07-19 08:52:26",
       "album": {
         "name": "Tormenta De Lluvia",
@@ -1801,39 +1817,7 @@
       "url": "https://open.spotify.com/track/5sIj5SGyT0k2CsZYGoue5n"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Stormy Evening",
-        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
-      },
-      "artists": [
-        {
-          "name": "Taranis",
-          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Thunder Rain",
-      "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Thunder Run",
-        "url": "https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g"
-      },
-      "artists": [
-        {
-          "name": "Adam Storme",
-          "url": "https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Thunder Run",
-      "url": "https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Nuage Froid",
         "url": "https://open.spotify.com/album/6I0XXsyriPTf9gRdK9MOlQ"
@@ -1849,7 +1833,23 @@
       "url": "https://open.spotify.com/track/5Bwc0m1mEGgtMOTtJell0T"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Thunder Run",
+        "url": "https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g"
+      },
+      "artists": [
+        {
+          "name": "Adam Storme",
+          "url": "https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunder Run",
+      "url": "https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Sky Thunder",
         "url": "https://open.spotify.com/album/27Ub2XPbYDlVVnA1zXsz1O"
@@ -1977,7 +1977,7 @@
       "url": "https://open.spotify.com/track/1WzjuOh6r9WXVi6dsoLKcB"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunderstorms (Vol. 3)",
         "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
@@ -2153,7 +2153,7 @@
       "url": "https://open.spotify.com/track/3zTYozWxO2br2ZpjUMp9hm"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunderstorms (Vol. 3)",
         "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
@@ -2167,22 +2167,6 @@
       "duration_ms": 168970,
       "name": "Sitting on the Porch During a Thunderstorm",
       "url": "https://open.spotify.com/track/3eauTrySTM6lllpECM7akg"
-    },
-    {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
-        "name": "Black Bolt",
-        "url": "https://open.spotify.com/album/1Bl4BdJ6YARVfhoV0tqKfe"
-      },
-      "artists": [
-        {
-          "name": "Haruna Fields",
-          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Black Bolt",
-      "url": "https://open.spotify.com/track/0T4xlWzMyjoMW3GmiVzG07"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -2201,7 +2185,23 @@
       "url": "https://open.spotify.com/track/19vICChcY7vRxy4NXp28mn"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Black Bolt",
+        "url": "https://open.spotify.com/album/1Bl4BdJ6YARVfhoV0tqKfe"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Black Bolt",
+      "url": "https://open.spotify.com/track/0T4xlWzMyjoMW3GmiVzG07"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Rain And Thunder (Vol. 3)",
         "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
@@ -2249,22 +2249,6 @@
       "url": "https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Tonnerre au printemps",
-        "url": "https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF"
-      },
-      "artists": [
-        {
-          "name": "Trueno Tropical",
-          "url": "https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tonnerre au printemps",
-      "url": "https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS"
-    },
-    {
       "added_at": "2022-07-19 08:52:26",
       "album": {
         "name": "Rain & Thunder",
@@ -2281,7 +2265,23 @@
       "url": "https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Tonnerre au printemps",
+        "url": "https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF"
+      },
+      "artists": [
+        {
+          "name": "Trueno Tropical",
+          "url": "https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tonnerre au printemps",
+      "url": "https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder And Lightning Vol. 2",
         "url": "https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe"
@@ -2297,7 +2297,7 @@
       "url": "https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR"
@@ -2377,7 +2377,7 @@
       "url": "https://open.spotify.com/track/3W1bHskcJ8bcJdwpD2HCBE"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Wilder Regen",
         "url": "https://open.spotify.com/album/0cNgvFON65mdd39nfornb9"
@@ -2409,7 +2409,7 @@
       "url": "https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Rain And Thunder (Vol. 3)",
         "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
@@ -2441,23 +2441,7 @@
       "url": "https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ"
     },
     {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
-        "name": "Loop And Shuffle",
-        "url": "https://open.spotify.com/album/1OkfMBc1D314asxVOrEi2m"
-      },
-      "artists": [
-        {
-          "name": "Loop And Shuffle",
-          "url": "https://open.spotify.com/artist/0l1B9knLg0tEkhZx03QgjB"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Thunder & Rain Sound",
-      "url": "https://open.spotify.com/track/2SB1XCZHGJIrjNBqzmKQZ8"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Storms a Brewing",
         "url": "https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj"
@@ -2471,22 +2455,6 @@
       "duration_ms": 203000,
       "name": "Storms a Brewing",
       "url": "https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "The Wet Forest",
-        "url": "https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6"
-      },
-      "artists": [
-        {
-          "name": "Slumbertronica",
-          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Lake Rain With Thunder",
-      "url": "https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -2505,7 +2473,39 @@
       "url": "https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2022-07-19 08:52:26",
+      "album": {
+        "name": "Loop And Shuffle",
+        "url": "https://open.spotify.com/album/1OkfMBc1D314asxVOrEi2m"
+      },
+      "artists": [
+        {
+          "name": "Loop And Shuffle",
+          "url": "https://open.spotify.com/artist/0l1B9knLg0tEkhZx03QgjB"
+        }
+      ],
+      "duration_ms": 141920,
+      "name": "Thunder & Rain Sound",
+      "url": "https://open.spotify.com/track/2SB1XCZHGJIrjNBqzmKQZ8"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "The Wet Forest",
+        "url": "https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6"
+      },
+      "artists": [
+        {
+          "name": "Slumbertronica",
+          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Lake Rain With Thunder",
+      "url": "https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunderstorms In Italy",
         "url": "https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu"
@@ -2537,7 +2537,7 @@
       "url": "https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Rain For The Queen",
         "url": "https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR"
@@ -2553,7 +2553,7 @@
       "url": "https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Sturm am Abend",
         "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
@@ -2567,6 +2567,22 @@
       "duration_ms": 141920,
       "name": "Sturm am Abend",
       "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Storm in the fields",
+        "url": "https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n"
+      },
+      "artists": [
+        {
+          "name": "Altostratus",
+          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
+        }
+      ],
+      "duration_ms": 149389,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -2585,23 +2601,7 @@
       "url": "https://open.spotify.com/track/5V6Vd53pmvD2xhVBryQZ15"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Storm in the fields",
-        "url": "https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n"
-      },
-      "artists": [
-        {
-          "name": "Altostratus",
-          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
-        }
-      ],
-      "duration_ms": 149389,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Residential Rain",
         "url": "https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v"
@@ -2617,7 +2617,7 @@
       "url": "https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Electrostatic",
         "url": "https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv"
@@ -2649,23 +2649,7 @@
       "url": "https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y"
     },
     {
-      "added_at": "2022-07-19 08:52:26",
-      "album": {
-        "name": "Weather Watcher",
-        "url": "https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC"
-      },
-      "artists": [
-        {
-          "name": "Weather Watcher",
-          "url": "https://open.spotify.com/artist/2wzYCm2bWxypuCR1UzL8Hw"
-        }
-      ],
-      "duration_ms": 129287,
-      "name": "Rainy Thunder Night",
-      "url": "https://open.spotify.com/track/7pCpJJEnBi4ANgiUG3Ha3u"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Hard Patio Rain with Thunder",
         "url": "https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY"
@@ -2681,20 +2665,20 @@
       "url": "https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "A Storm For Sleep",
-        "url": "https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921"
+        "name": "Weather Watcher",
+        "url": "https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC"
       },
       "artists": [
         {
-          "name": "A Tempestade",
-          "url": "https://open.spotify.com/artist/6L7uhP0Pp0USs4lVQepDJk"
+          "name": "Weather Watcher",
+          "url": "https://open.spotify.com/artist/2wzYCm2bWxypuCR1UzL8Hw"
         }
       ],
-      "duration_ms": 225140,
-      "name": "A Storm For Sleep",
-      "url": "https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl"
+      "duration_ms": 129287,
+      "name": "Rainy Thunder Night",
+      "url": "https://open.spotify.com/track/7pCpJJEnBi4ANgiUG3Ha3u"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -2713,6 +2697,38 @@
       "url": "https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg"
     },
     {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "A Storm For Sleep",
+        "url": "https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921"
+      },
+      "artists": [
+        {
+          "name": "A Tempestade",
+          "url": "https://open.spotify.com/artist/6L7uhP0Pp0USs4lVQepDJk"
+        }
+      ],
+      "duration_ms": 225140,
+      "name": "A Storm For Sleep",
+      "url": "https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Thunder Stories - Stereo HD Sounds",
+        "url": "https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK"
+      },
+      "artists": [
+        {
+          "name": "Sound of the Wilderness",
+          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
+        }
+      ],
+      "duration_ms": 120515,
+      "name": "Wind Storm, Rain & Far Thunder (Stereo & HD)",
+      "url": "https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV"
+    },
+    {
       "added_at": "2022-07-19 08:52:26",
       "album": {
         "name": "\u00c5ska",
@@ -2729,23 +2745,7 @@
       "url": "https://open.spotify.com/track/3ant2EoVsF6aBczcOBw1D9"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Thunder Stories - Stereo HD Sounds",
-        "url": "https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK"
-      },
-      "artists": [
-        {
-          "name": "Sound of the Wilderness",
-          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
-        }
-      ],
-      "duration_ms": 120515,
-      "name": "Wind Storm, Rain & Far Thunder (Stereo & HD)",
-      "url": "https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Contemplations",
         "url": "https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K"
@@ -2777,7 +2777,7 @@
       "url": "https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Stormy Harbor In The Evening",
         "url": "https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml"
@@ -2793,39 +2793,7 @@
       "url": "https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Distant Thunder At Night",
-        "url": "https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V"
-      },
-      "artists": [
-        {
-          "name": "Drakir Nature",
-          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
-        }
-      ],
-      "duration_ms": 142121,
-      "name": "Distant Thunder At Night",
-      "url": "https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Stormy Seasons",
-        "url": "https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x"
-      },
-      "artists": [
-        {
-          "name": "Northerly Nature",
-          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Archipelago Rain & Thunder",
-      "url": "https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder & Rain",
         "url": "https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE"
@@ -2841,7 +2809,39 @@
       "url": "https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Distant Thunder At Night",
+        "url": "https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "duration_ms": 142121,
+      "name": "Distant Thunder At Night",
+      "url": "https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Stormy Seasons",
+        "url": "https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x"
+      },
+      "artists": [
+        {
+          "name": "Northerly Nature",
+          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Archipelago Rain & Thunder",
+      "url": "https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "By The Window",
         "url": "https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL"
@@ -2857,7 +2857,23 @@
       "url": "https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Rain Sounds to Fall Asleep",
+        "url": "https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v"
+      },
+      "artists": [
+        {
+          "name": "Liquid Planet Recordings",
+          "url": "https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "A Gentle Thunderstorm",
+      "url": "https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder In The Forest",
         "url": "https://open.spotify.com/album/1WAmKL4qkDBnNjeMNt9M3w"
@@ -2873,7 +2889,7 @@
       "url": "https://open.spotify.com/track/3N96NGKoU8lgJs9ENxRUpc"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder In The Forest",
         "url": "https://open.spotify.com/album/7iLrSoNoZPV83W7i2Hx2Gm"
@@ -2887,22 +2903,6 @@
       "duration_ms": 138000,
       "name": "Thunder In The Forest",
       "url": "https://open.spotify.com/track/0GHYPILlyRq1NTVNEmhNZR"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Rain Sounds to Fall Asleep",
-        "url": "https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v"
-      },
-      "artists": [
-        {
-          "name": "Liquid Planet Recordings",
-          "url": "https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "A Gentle Thunderstorm",
-      "url": "https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -2921,7 +2921,7 @@
       "url": "https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "In the hands of Thor",
         "url": "https://open.spotify.com/album/2yUnTie8FuYybCVZlH48e3"
@@ -2937,7 +2937,7 @@
       "url": "https://open.spotify.com/track/5wasNCesFpY5wSiYTar3uL"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder & Rain",
         "url": "https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE"
@@ -2953,7 +2953,7 @@
       "url": "https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder On The Mountain",
         "url": "https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs"
@@ -2969,7 +2969,7 @@
       "url": "https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder Volts",
         "url": "https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t"
@@ -2983,38 +2983,6 @@
       "duration_ms": 165044,
       "name": "Thunder Volts",
       "url": "https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx"
-      },
-      "artists": [
-        {
-          "name": "Sylvie Kaplan",
-          "url": "https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA"
-        }
-      ],
-      "duration_ms": 114503,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "By The Window",
-        "url": "https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL"
-      },
-      "artists": [
-        {
-          "name": "Oceanica",
-          "url": "https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD"
-        }
-      ],
-      "duration_ms": 121019,
-      "name": "By The Window",
-      "url": "https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3033,7 +3001,23 @@
       "url": "https://open.spotify.com/track/5DwOYaWXl1ksN5WVRa8ZGs"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "By The Window",
+        "url": "https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL"
+      },
+      "artists": [
+        {
+          "name": "Oceanica",
+          "url": "https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD"
+        }
+      ],
+      "duration_ms": 121019,
+      "name": "By The Window",
+      "url": "https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Hard Patio Rain with Thunder",
         "url": "https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY"
@@ -3047,6 +3031,22 @@
       "duration_ms": 240708,
       "name": "Medium Rain and Intense NJ Thunder",
       "url": "https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kaplan",
+          "url": "https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA"
+        }
+      ],
+      "duration_ms": 114503,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3081,7 +3081,7 @@
       "url": "https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Sky Full Of Thunder",
         "url": "https://open.spotify.com/album/5QVO59SbLxKz9AZksuijkg"
@@ -3097,7 +3097,7 @@
       "url": "https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Deep Storm",
         "url": "https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7"
@@ -3129,23 +3129,7 @@
       "url": "https://open.spotify.com/track/75yganfLLS5N0oeLFt9gW4"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Woodland Thunder Sound",
-        "url": "https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k"
-      },
-      "artists": [
-        {
-          "name": "Cosmotic",
-          "url": "https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Woodland Thunder Sound",
-      "url": "https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Light Rain Passing Thunder",
         "url": "https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM"
@@ -3161,7 +3145,23 @@
       "url": "https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Woodland Thunder Sound",
+        "url": "https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k"
+      },
+      "artists": [
+        {
+          "name": "Cosmotic",
+          "url": "https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Woodland Thunder Sound",
+      "url": "https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thunder Experience",
         "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
@@ -3175,22 +3175,6 @@
       "duration_ms": 136757,
       "name": "Soft Rain Carrying Strong Lightnings",
       "url": "https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Lit up Sky",
-        "url": "https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS"
-      },
-      "artists": [
-        {
-          "name": "Indra",
-          "url": "https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Light And Thunder",
-      "url": "https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3209,7 +3193,7 @@
       "url": "https://open.spotify.com/track/3xUsY6iTXy0GgHAslizSzM"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Regent\u2019s Park Rain",
         "url": "https://open.spotify.com/album/6wDf8enUlIGEpYekOvx0Ej"
@@ -3225,7 +3209,7 @@
       "url": "https://open.spotify.com/track/2mwS92jhBI0Sl32boe5RVL"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thundering Heights",
         "url": "https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4"
@@ -3241,7 +3225,23 @@
       "url": "https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Lit up Sky",
+        "url": "https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS"
+      },
+      "artists": [
+        {
+          "name": "Indra",
+          "url": "https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Light And Thunder",
+      "url": "https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "The Mighty Storm",
         "url": "https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId"
@@ -3255,38 +3255,6 @@
       "duration_ms": 126382,
       "name": "The Mighty Storm",
       "url": "https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Thunder On The Mountain",
-        "url": "https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man Recordings",
-          "url": "https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Thunder On The Mountain",
-      "url": "https://open.spotify.com/track/1Lb0zH7GmFN9mTXL6vX2UH"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Midnight Rumble",
-        "url": "https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066"
-      },
-      "artists": [
-        {
-          "name": "Weatherality",
-          "url": "https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU"
-        }
-      ],
-      "duration_ms": 124264,
-      "name": "Relaxing Thunder Rain",
-      "url": "https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3305,7 +3273,39 @@
       "url": "https://open.spotify.com/track/4X5XEleEIET9w0rqmdhMoK"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Midnight Rumble",
+        "url": "https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066"
+      },
+      "artists": [
+        {
+          "name": "Weatherality",
+          "url": "https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU"
+        }
+      ],
+      "duration_ms": 124264,
+      "name": "Relaxing Thunder Rain",
+      "url": "https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Thunder On The Mountain",
+        "url": "https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man Recordings",
+          "url": "https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Thunder On The Mountain",
+      "url": "https://open.spotify.com/track/1Lb0zH7GmFN9mTXL6vX2UH"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Deep Storm",
         "url": "https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7"
@@ -3319,6 +3319,22 @@
       "duration_ms": 217710,
       "name": "Shelter Rain",
       "url": "https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Deep Rumble",
+        "url": "https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz"
+      },
+      "artists": [
+        {
+          "name": "Oblitzy",
+          "url": "https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O"
+        }
+      ],
+      "duration_ms": 135628,
+      "name": "Deep Rumble",
+      "url": "https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3337,23 +3353,7 @@
       "url": "https://open.spotify.com/track/3ZW0AweIggT138hYLyEeFN"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Deep Rumble",
-        "url": "https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz"
-      },
-      "artists": [
-        {
-          "name": "Oblitzy",
-          "url": "https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O"
-        }
-      ],
-      "duration_ms": 135628,
-      "name": "Deep Rumble",
-      "url": "https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Thundering Heights",
         "url": "https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4"
@@ -3369,7 +3369,7 @@
       "url": "https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Lit up Sky",
         "url": "https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS"
@@ -3385,7 +3385,7 @@
       "url": "https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Midnight Rumble",
         "url": "https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066"
@@ -3401,23 +3401,7 @@
       "url": "https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Thunder Nap",
-        "url": "https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ"
-      },
-      "artists": [
-        {
-          "name": "Heatriction",
-          "url": "https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Pleasing Thunder",
-      "url": "https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "El Trueno Desde Arriba",
         "url": "https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV"
@@ -3433,7 +3417,39 @@
       "url": "https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Thunder Nap",
+        "url": "https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ"
+      },
+      "artists": [
+        {
+          "name": "Heatriction",
+          "url": "https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Pleasing Thunder",
+      "url": "https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Under The Umbrella",
+        "url": "https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Under The Umbrella - Seamless",
+      "url": "https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "No Irrigation Needed",
         "url": "https://open.spotify.com/album/19vWL9OZPlxsCdoJRNY2t8"
@@ -3449,7 +3465,7 @@
       "url": "https://open.spotify.com/track/0Z7TLSV354yKvLrmbMJf8g"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Go With the Flow",
         "url": "https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3"
@@ -3465,20 +3481,20 @@
       "url": "https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
-        "name": "Under The Umbrella",
-        "url": "https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy"
+        "name": "Deep Rumble",
+        "url": "https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz"
       },
       "artists": [
         {
-          "name": "Tranquility Sound Machine",
-          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+          "name": "Oblitzy",
+          "url": "https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Under The Umbrella - Seamless",
-      "url": "https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx"
+      "duration_ms": 96387,
+      "name": "Crackling Sky",
+      "url": "https://open.spotify.com/track/2MLSAw581M4TTjguuua1oV"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3497,20 +3513,20 @@
       "url": "https://open.spotify.com/track/3mVOp7pRhdhkUOfDwfPGUM"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
-        "name": "Deep Rumble",
-        "url": "https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz"
+        "name": "Thunder Experience",
+        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
       },
       "artists": [
         {
-          "name": "Oblitzy",
-          "url": "https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O"
+          "name": "Naturalia",
+          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
         }
       ],
-      "duration_ms": 96387,
-      "name": "Crackling Sky",
-      "url": "https://open.spotify.com/track/2MLSAw581M4TTjguuua1oV"
+      "duration_ms": 195095,
+      "name": "Medium rain, Thunder Threatening",
+      "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3529,7 +3545,7 @@
       "url": "https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Let the Storm Pass",
         "url": "https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy"
@@ -3545,23 +3561,7 @@
       "url": "https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Thunder Experience",
-        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
-      },
-      "artists": [
-        {
-          "name": "Naturalia",
-          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
-        }
-      ],
-      "duration_ms": 195095,
-      "name": "Medium rain, Thunder Threatening",
-      "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Rain Sounds Vol 8",
         "url": "https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D"
@@ -3575,22 +3575,6 @@
       "duration_ms": 176400,
       "name": "Hail Rain And Thunder in London",
       "url": "https://open.spotify.com/track/3Xdaw3S3286xOUvGwNWtp9"
-    },
-    {
-      "added_at": "2023-06-11 01:28:37",
-      "album": {
-        "name": "Le Tonnerre Claquant",
-        "url": "https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ange",
-          "url": "https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok"
-        }
-      ],
-      "duration_ms": 158590,
-      "name": "Le Tonnerre Claquant",
-      "url": "https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3609,7 +3593,23 @@
       "url": "https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
+      "album": {
+        "name": "Le Tonnerre Claquant",
+        "url": "https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ange",
+          "url": "https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok"
+        }
+      ],
+      "duration_ms": 158590,
+      "name": "Le Tonnerre Claquant",
+      "url": "https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ"
+    },
+    {
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Go With the Flow",
         "url": "https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3"
@@ -3625,7 +3625,7 @@
       "url": "https://open.spotify.com/track/4hcuR9G66aV0v53j8fVLuE"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Call the Thunder",
         "url": "https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92"
@@ -3641,7 +3641,7 @@
       "url": "https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Let the Storm Pass",
         "url": "https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy"
@@ -3657,7 +3657,7 @@
       "url": "https://open.spotify.com/track/0jNTWoXM47Uyu8aEYvND4f"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Pouring Some Thunder",
         "url": "https://open.spotify.com/album/320FxgsXWekHkC6tuCJE6Z"
@@ -3673,7 +3673,7 @@
       "url": "https://open.spotify.com/track/64dYaCKeQk2Dki02HFoWOi"
     },
     {
-      "added_at": "2023-06-11 01:28:37",
+      "added_at": "2023-06-12 01:12:35",
       "album": {
         "name": "Wandering Storm",
         "url": "https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm"
@@ -3899,18 +3899,18 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Sleep & Thunder",
-        "url": "https://open.spotify.com/album/22K88cdwdSwBotFZzJ6hwY"
+        "name": "Waves Sleep",
+        "url": "https://open.spotify.com/album/7JcrLvD8A1YJgr7FG8HBiC"
       },
       "artists": [
         {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+          "name": "Water FX",
+          "url": "https://open.spotify.com/artist/7mtsLraLGz88jm6W1elhct"
         }
       ],
-      "duration_ms": 80000,
-      "name": "Sleeping on the Veranda, Woken by Thunder",
-      "url": "https://open.spotify.com/track/7bVojrg9tROZ49BWxHHpfM"
+      "duration_ms": 238435,
+      "name": "Thunderstorm Waves",
+      "url": "https://open.spotify.com/track/7sK3cslMt6ww5NvIptT2uw"
     },
     {
       "added_at": "2022-07-19 08:52:26",
@@ -3947,18 +3947,18 @@
     {
       "added_at": "2022-07-19 08:52:26",
       "album": {
-        "name": "Waves Sleep",
-        "url": "https://open.spotify.com/album/7JcrLvD8A1YJgr7FG8HBiC"
+        "name": "Sleep & Thunder",
+        "url": "https://open.spotify.com/album/22K88cdwdSwBotFZzJ6hwY"
       },
       "artists": [
         {
-          "name": "Water FX",
-          "url": "https://open.spotify.com/artist/7mtsLraLGz88jm6W1elhct"
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
         }
       ],
-      "duration_ms": 238435,
-      "name": "Thunderstorm Waves",
-      "url": "https://open.spotify.com/track/7sK3cslMt6ww5NvIptT2uw"
+      "duration_ms": 80000,
+      "name": "Sleeping on the Veranda, Woken by Thunder",
+      "url": "https://open.spotify.com/track/7bVojrg9tROZ49BWxHHpfM"
     },
     {
       "added_at": "2022-07-19 08:52:26",

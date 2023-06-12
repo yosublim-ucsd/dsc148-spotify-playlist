@@ -13115,6 +13115,24 @@
     },
     {
       "album": {
+        "name": "Social Lubrication",
+        "url": "https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
+    },
+    {
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV"
       },
@@ -13144,7 +13162,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND"
@@ -16230,7 +16248,7 @@
     {
       "album": {
         "name": "Social Lubrication",
-        "url": "https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk"
+        "url": "https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7"
       },
       "artists": [
         {
@@ -16241,6 +16259,24 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208812,
+      "name": "Social Lubrication",
+      "url": "https://open.spotify.com/track/086JbiF8kMBushqWDifdpE"
+    },
+    {
+      "album": {
+        "name": "Social Lubrication",
+        "url": "https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
       "duration_ms": 208812,
       "name": "Social Lubrication",
       "url": "https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6"
@@ -20123,6 +20159,24 @@
     },
     {
       "album": {
+        "name": "Social Lubrication",
+        "url": "https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229221,
+      "name": "Who Do You Wanna Be?",
+      "url": "https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL"
+    },
+    {
+      "album": {
         "name": "Who Do You Wanna Be?",
         "url": "https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs"
       },
@@ -20134,7 +20188,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 229221,
       "name": "Who Do You Wanna Be?",
       "url": "https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2"

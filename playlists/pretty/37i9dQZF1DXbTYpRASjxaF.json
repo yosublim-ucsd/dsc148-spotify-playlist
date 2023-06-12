@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Malcolm VL",
-  "num_followers": 112451,
+  "num_followers": 112529,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDNhYjRkODNhZWI1ZDM5M2ZiY2QzNGJhYTMzYzE2YzA0MWFkZWU1",
+  "snapshot_id": "MCwyNGUwMjcwNmE4NmYxYmMzZDJhZjU0ZGQ3NDcwMTZkNjRiNTM0OTE1",
   "tracks": [
     {
       "added_at": "2023-06-09 03:03:00",
@@ -951,38 +951,6 @@
     {
       "added_at": "2023-06-09 03:03:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Droga e Festa",
-      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
-    },
-    {
-      "added_at": "2023-06-09 03:03:00",
-      "album": {
         "name": "Avisa L\u00e1, Pt.3",
         "url": "https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 338823,
       "name": "Avisa L\u00e1, Pt.3",
       "url": "https://open.spotify.com/track/7pWzcOoDF3ssFLrH5wivif"
+    },
+    {
+      "added_at": "2023-06-09 03:03:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Droga e Festa",
+      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
     },
     {
       "added_at": "2023-06-09 03:03:00",

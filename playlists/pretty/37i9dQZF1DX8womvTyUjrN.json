@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Llane",
-  "num_followers": 278890,
+  "num_followers": 278944,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODBkNzU2OWQyNjE2ZWU1NzM2Nzk0OWRiYTA3OWJlYjc4NjgyOWEx",
+  "snapshot_id": "MCwxYTk1ZDUxY2FkMjMzYTk2MDg3ZmFlOWNjMzJiZDkxMTBiYjIwYmIz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Disculpa Amiga",
+        "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 168286,
+      "name": "Disculpa Amiga",
+      "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 179349,
       "name": "Legendaria",
       "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Me Equivoqu\u00e9",
-        "url": "https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 126641,
-      "name": "Me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob"
     }
   ],
   "unique_name": "el nuevo pop",

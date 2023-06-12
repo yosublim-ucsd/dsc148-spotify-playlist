@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-312 songs - 23 hr 17 min
+313 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 | 2022-12-15 | 2023-02-17 |
 | [Say Enough](https://open.spotify.com/track/791cKRPFa9jKhv1yYVnwid) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Tusekah](https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl) | [Say Enough](https://open.spotify.com/album/5hw5wPs7weFoWuHZNhA37q) | 3:46 | 2022-12-15 | 2023-02-10 |
 | [Say No More](https://open.spotify.com/track/3ukSlYPAMtOvORMbvrGYm1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Public Disturbance](https://open.spotify.com/album/1rHymzXSSB7UHohBpW6hQX) | 4:55 | 2022-12-08 | 2023-01-20 |
-| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 |  |
+| [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 | 2023-06-09 |  |
+| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 | 2023-06-12 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |
 | [Seasons](https://open.spotify.com/track/6XXU4PWswlDv6vHfJzUTcF) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Squidgenini](https://open.spotify.com/artist/3BcWc3ESZGsGrDxI7wnPyh) | [Seasons](https://open.spotify.com/album/3ITqcKSoxDq1NZpoGb6Xn6) | 4:28 | 2022-12-08 | 2023-01-20 |
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-20 | 2023-06-02 |

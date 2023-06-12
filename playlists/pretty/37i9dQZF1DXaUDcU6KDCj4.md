@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,695 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,883 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 78 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 |
 | 79 | [Darkness](https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Darkness](https://open.spotify.com/album/3gXaPXe0YwGAWP4atoOWBy) | 3:35 |
 | 80 | [Hallelujah Anyway](https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hallelujah Anyway](https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi) | 3:33 |
-| 81 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 |
+| 81 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/1KoXCDxNahXOl7Tvtm9rlF) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 4:54 |
 | 82 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 83 | [Never Enough](https://open.spotify.com/track/61pV8ZfMOiEcOUfqV5VVkh) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Never Enough](https://open.spotify.com/album/08YPWfyPUp5p0vGYcpXBtO) | 2:30 |
 | 84 | [Corner](https://open.spotify.com/track/3b5vsDkWRVQvxTqMeTvf9p) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Corner](https://open.spotify.com/album/5MMRLY7XRYrnmedJZ8c3ya) | 4:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 150 | [In Five](https://open.spotify.com/track/30cu284lHiTU8MT94UHNdk) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Red\-Eye Effect](https://open.spotify.com/album/1lmmfQayZ9x0mVbLn2Fn53) | 4:17 |
 
-Snapshot ID: `MCwyNWI5NGY1NjM0YWFmMTA5ZjllYzA3YjQ0ZmFhMzQ5ZTZmNWIwNmYy`
+Snapshot ID: `MCw5ODFkY2FmNDgyNzg3NTUxODg5Y2RiMGI2ZGNkZGJkOTE5ZmQyZmJl`

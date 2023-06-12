@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: SAGOSAID",
-  "num_followers": 42465,
+  "num_followers": 42491,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDEyOWZiMDY2YzZmZmU4YmY0MWMxMmE4OGFjMjc4NDMxYTkyYzI1",
+  "snapshot_id": "MCwwMTNlYzk4YTc2N2FiNjRiMTM0NTUyMDZkMDA2MWY0ZTA1NmRiZTcw",
   "tracks": [
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
+        "name": "Patient!! - BiSH Ver. from BiSH THE NEXT -",
+        "url": "https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        },
+        {
+          "name": "BiSH THE NEXT",
+          "url": "https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12"
+        }
+      ],
+      "duration_ms": 158741,
+      "name": "Patient!! - BiSH Ver. from BiSH THE NEXT -",
+      "url": "https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 215214,
       "name": "\u30cf\u30a4\u30ad",
       "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "Patient!! - BiSH Ver. from BiSH THE NEXT -",
-        "url": "https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        },
-        {
-          "name": "BiSH THE NEXT",
-          "url": "https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12"
-        }
-      ],
-      "duration_ms": 158741,
-      "name": "Patient!! - BiSH Ver. from BiSH THE NEXT -",
-      "url": "https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU"
     },
     {
       "added_at": "2023-06-06 15:00:00",

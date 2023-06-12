@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Jeangu Macrooy
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,974 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,037 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 74 | [Cherry](https://open.spotify.com/track/3ad5YheJ9rMdtQ6tjxWocI) | [James Sayer](https://open.spotify.com/artist/4gWPNRRA0vYlPxujZsFsKF) | [Cherry](https://open.spotify.com/album/2SE1UCUYgJkW2qdMEGO7wZ) | 2:53 |
 | 75 | [The Farmer](https://open.spotify.com/track/6E6BLeqT0pttSDS4OqP7e0) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [The Farmer](https://open.spotify.com/album/0x0EdZcQ8yFFD10KowmQSQ) | 3:17 |
 
-Snapshot ID: `MCw5NDQyZTlkNmRlNzM0NTVmMDcxZDc1NTVhODMzYTY4NTVhYWM3NDU2`
+Snapshot ID: `MCxhZThhOTZmYTc5YjY0ZDU5NDY5ZDA0ZDIxNzAyNzYyOTI1MDA4MzQ4`

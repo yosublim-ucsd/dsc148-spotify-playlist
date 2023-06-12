@@ -4,7 +4,7 @@
 
 > In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Brothers Osborne
 
-643 songs - 1 day 10 hr 40 min
+644 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,8 @@
 | [My Miracle](https://open.spotify.com/track/3yNuWBImT0geeISSCMbE3p) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [My Miracle](https://open.spotify.com/album/0CkY1OmLa5NdAyrsKNZ2vi) | 4:10 | 2019-05-26\* | 2019-08-13 |
 | [My Truck](https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [My Truck](https://open.spotify.com/album/5TVV5gPKNAhQcFBymp4m2u) | 2:38 | 2020-02-08 | 2020-04-25 |
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2020-06-02 | 2020-06-21 |
-| [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-03-10 |  |
+| [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-03-10 | 2023-06-12 |
+| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-10 |  |
 | [Neon Fools](https://open.spotify.com/track/1C0mdTiVLxRfsBrIhlPQQC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Neon Fools](https://open.spotify.com/album/5upZpszGKEezR0FT1xicc3) | 3:15 | 2020-02-15 | 2020-06-12 |
 | [Neon Fools](https://open.spotify.com/track/4eRclKjJzvw0xWG8XwstCT) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous \- EP](https://open.spotify.com/album/6aN2jKcVtBbiTLtRsysdIV) | 3:15 | 2020-06-12 | 2020-06-21 |
 | [Never Be Sorry](https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:23 | 2020-11-10 | 2021-02-20 |

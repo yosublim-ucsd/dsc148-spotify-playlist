@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-845 songs - 1 day 19 hr 54 min
+846 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 | 2022-12-17 |
 | [Marketa](https://open.spotify.com/track/5FzxcTskThKSLcSUadwZ90) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Connecting Visitors to Fun](https://open.spotify.com/album/14mNMkX1Us89c1VcXzNlPq) | 3:45 | 2020-03-29 | 2021-04-13 |
 | [Material Things](https://open.spotify.com/track/1Mgv7as2OzvJrUc3kphZxn) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Material Things](https://open.spotify.com/album/29T5p7BP5ZHsPuvX1qBadv) | 2:16 | 2021-10-08 | 2022-04-21 |
-| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 |  |
+| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 | 2023-06-12 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/0rDqIh1ugZmukdvkgYZb1X) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 2:53 | 2021-06-04 | 2022-04-21 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/7pD4yoAj7TIIqZLDhAwHfq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/album/2GUjxWI2nDtp1u5Op0Um1C) | 2:53 | 2021-03-02 | 2021-07-08 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 | 2023-04-18 |
@@ -699,6 +699,7 @@
 | [Summertime](https://open.spotify.com/track/6wnYU4r3lrzn9Yloq816Oj) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Summertime](https://open.spotify.com/album/3KpLyj4nJzfZVthITEOMQ4) | 3:10 | 2021-06-25 | 2022-04-19 |
 | [Summertime Silence](https://open.spotify.com/track/5aysvKjGKnX9sse9mIm7LY) | [FruitPunchLoverBoy](https://open.spotify.com/artist/7pAPdjGwblD7qvfnVNCtZ8) | [Summertime Silence](https://open.spotify.com/album/185kiPDfetExVqWRVHjTos) | 2:58 | 2020-04-18 | 2021-05-28 |
 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 | 2021-10-08 | 2022-07-27 |
+| [Sun Outside My Window](https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe) | 3:21 | 2023-04-17 |  |
 | [Sundown](https://open.spotify.com/track/0lTQrcDZtbH0GbsUN3Nvl0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 3:36 | 2021-05-01 | 2022-06-26 |
 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 | 2022-05-11 |  |
 | [Sunnnn](https://open.spotify.com/track/68bLFIx0Gw6P3DMBIGdUyz) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Pacific II](https://open.spotify.com/album/3XVHKlsCkHBAgezLyyArGT) | 4:20 | 2019-08-02 | 2021-08-26 |

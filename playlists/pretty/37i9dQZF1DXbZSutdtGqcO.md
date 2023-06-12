@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZSutdtGqcO.md) - [plain]
 
 > This is Lil Durk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,816 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,007 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZSutdtGqcO.md) - [plain]
 | 49 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
 | 50 | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N) | 3:25 |
 
-Snapshot ID: `MCw3ZmE4NjcwM2VmY2FmOThlODI3MzNiMGE2MmFmMmZiMDc1ODRlM2I2`
+Snapshot ID: `MCxhZjM4ZmU0ZWIyNWYwYjIwN2Y0YmIxMjRhMWJkM2I5MGMyMzRkZjBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,619 likes - 115 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,717 likes - 115 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 69 | [Squid](https://open.spotify.com/track/5kKBFSnpiBrvIZUwfsjSoB) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Brain Worms](https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho) | 4:47 |
 | 70 | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/album/1pj7hmoQMPdQVfBG5MrfhN) | 3:32 |
 | 71 | [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 |
-| 72 | [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 |
+| 72 | [Who Do You Wanna Be?](https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:49 |
 | 73 | [No One Left](https://open.spotify.com/track/5qmnuhrhYIK7QznDcN40Q4) | [Odonis Odonis](https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0), [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [No One Left](https://open.spotify.com/album/6rSWWykMsUkoz6ivtbniMo) | 3:24 |
 | 74 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 |
 | 75 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 114 | [Impermanency](https://open.spotify.com/track/4Kd7lRXOO8jfvG9RpGvthk) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Impermanency](https://open.spotify.com/album/3MlXwaIdVPDOmtN7rpSRYV) | 3:07 |
 | 115 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 |
 
-Snapshot ID: `MCxhNjI1NTRjNTk3NTI1YjhkMWYzYTdlNjYwNTQyZWM0NzA2YTk5Nzc1`
+Snapshot ID: `MCwxNzMyMjkxNmMxNmIzZGUzZDA3YTMxOTc3ZjJhZjUxYzNhNTczZGYw`

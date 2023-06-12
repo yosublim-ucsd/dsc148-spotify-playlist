@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: LIZOT, PRISKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,974 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,299 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ) | 2:05 |
 | 50 | [Rave All Night](https://open.spotify.com/track/4AXtDJp0o8l6hOMxwZx1aL) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Rave All Night](https://open.spotify.com/album/2m2DL56EzrVle3Cqg5cA6d) | 2:34 |
 
-Snapshot ID: `MCwyMWU2YTRmMTE1ZmM4Zjk0N2Q1NDdmOGY1NWExNGRhYzhlNDc1NTc5`
+Snapshot ID: `MCwxNjExODIxMTU2ZjVjZTFlOTJmMjIyMzk1ZmEyZGI2MjQyZDZkYWY4`

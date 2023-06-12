@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Mac\u00edas en portada.",
-  "num_followers": 1120680,
+  "num_followers": 1120912,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg0ZTVjNGYxZWNjZmM1YmIyZGMzOGEzZjRkMjMwZDRjZjAyMmM4",
+  "snapshot_id": "MCw2M2UwNThmNDkzY2U4NjU1YzhkNWQyZjc4MGRmZDY0NmM4YmUyNmYz",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "A Como Yo Lo Veo",
-        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "A Como Yo Lo Veo",
-      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "A Como Yo Lo Veo",
+        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Como Yo Lo Veo",
+      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "Es Demasiado Tarde (En Vivo)",
         "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 171061,
       "name": "Las Edades (En Vivo)",
       "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 215303,
-      "name": "Sigues Siendo Tu - En vivo",
-      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "No Hay Nada Mas Que Decir",
+        "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "No Hay Nada Mas Que Decir",
+      "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "Edgardo Nu\u00f1ez Con La S\u00e9ptima Banda",
         "url": "https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 205802,
       "name": "No Le Digas",
       "url": "https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "No Hay Nada Mas Que Decir",
-        "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "No Hay Nada Mas Que Decir",
-      "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
     },
     {
       "added_at": "2023-06-09 06:00:00",

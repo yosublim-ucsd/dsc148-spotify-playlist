@@ -1126,10 +1126,32 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 251208,
       "name": "Don't Drop Dead",
       "url": "https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI"
+    },
+    {
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT"
+      },
+      "artists": [
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        },
+        {
+          "name": "Midva",
+          "url": "https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251208,
+      "name": "Don't Drop Dead",
+      "url": "https://open.spotify.com/track/1O72TP7NaHxageyDGhE4Cw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-467 songs - 1 day 4 hr 55 min
+468 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,8 @@
 | [You Don't Get to Go](https://open.spotify.com/track/0YhkyUQmmkRPeynUeVMY9L) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [You Don't Get to Go](https://open.spotify.com/album/7xqALa0uZybNFjOmTrdB8j) | 3:06 | 2021-12-17 | 2022-02-23 |
 | [You Got To Move](https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [You Got To Move](https://open.spotify.com/album/0CuehB0whg0SkLEqF8dDNa) | 2:41 | 2022-04-01 | 2022-07-29 |
 | [You Got To Move](https://open.spotify.com/track/32Mf7nDU9RHDKazq2i7i0D) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 2:41 | 2022-07-22 | 2023-03-11 |
-| [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 |  |
+| [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 | 2023-06-12 |
+| [You I'm Waiting On](https://open.spotify.com/track/6VywyDwMOd6ehsR3MTV7gh) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Tears You Hide](https://open.spotify.com/album/3mfbxfHcZ0moeI1W2ukCb8) | 2:59 | 2023-06-09 |  |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-19 |  |
 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
 | [Young Man](https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX) | 4:06 | 2021-12-17 | 2022-06-25 |

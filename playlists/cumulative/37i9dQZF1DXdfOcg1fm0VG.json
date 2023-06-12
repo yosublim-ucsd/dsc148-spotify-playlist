@@ -2515,6 +2515,76 @@
     },
     {
       "album": {
+        "name": "Princess Zelda's Theme (From \"The Legend of Zelda: The Wind Waker\")",
+        "url": "https://open.spotify.com/album/1d1nxlw2y8ifwZjuaNlNeq"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/5mqdVjCmsdlTrlNx8zQK1p"
+    },
+    {
+      "album": {
         "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
         "url": "https://open.spotify.com/album/5tOvIY2wdzZdimqejO04nR"
       },
@@ -2578,7 +2648,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 376441,
       "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
       "url": "https://open.spotify.com/track/6QZXrA53z0pp9skkQHKwBa"

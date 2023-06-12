@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 190956,
       "name": "ABC Song",
       "url": "https://open.spotify.com/track/29H35COf0rsqC5JHCCkRhp"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 161423,
       "name": "Baby Animals Dance",
       "url": "https://open.spotify.com/track/2dWIX6bnShOvLds71mxLli"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 145144,
       "name": "Down By the Bay",
       "url": "https://open.spotify.com/track/3joKDJbiSaIjdN7JAXrXWS"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 95445,
       "name": "Fire Under My Feet",
       "url": "https://open.spotify.com/track/7eHFGqQLOzAdoBiuHPwplR"
@@ -514,6 +514,24 @@
       "duration_ms": 60755,
       "name": "Firebuds Let's Roll (Firebuds Theme) - From \"Disney Junior Music: Firebuds\"",
       "url": "https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx"
+    },
+    {
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/6fNMqkYZorZILXsXXfO8bG"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180935,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9"
     },
     {
       "album": {
@@ -662,10 +680,28 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 187200,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/5MJaz1QTEavuAgzDf3T5rB"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/7waNyJwNSwfNdWTaOckBkG"
+      },
+      "artists": [
+        {
+          "name": "Babble Bop",
+          "url": "https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145144,
+      "name": "Hickory Dickory Rock",
+      "url": "https://open.spotify.com/track/7Jqmh4XvYpFon2kFzRthWJ"
     },
     {
       "album": {
@@ -829,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Kamp Koral (Music from the Series)",
+        "url": "https://open.spotify.com/album/28VeN5zqeirjSLONzhnwte"
+      },
+      "artists": [
+        {
+          "name": "Kamp Koral Cast",
+          "url": "https://open.spotify.com/artist/3CHnJAHuxVudOER2h5bVJ8"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29930,
+      "name": "Kamp Koral Theme Song",
+      "url": "https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI"
+    },
+    {
+      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
@@ -884,7 +938,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 67664,
       "name": "Like Like You",
       "url": "https://open.spotify.com/track/51xnULBdyOqq3liDY8grhV"
@@ -938,7 +992,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 191453,
       "name": "Mac And Cheese",
       "url": "https://open.spotify.com/track/0BFUySZoRFFqycpY6DFDRv"
@@ -960,7 +1014,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 177964,
       "name": "Mad About the Moon",
       "url": "https://open.spotify.com/track/4h487nuIXvj9XdPcUd6QRP"
@@ -1190,7 +1244,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 32794,
       "name": "Noggin Knows Season 3 Theme Song",
       "url": "https://open.spotify.com/track/4DOhoo9KXz8wdvEt2oT7M3"
@@ -1248,7 +1302,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 36595,
       "name": "On Our Way Skidoo",
       "url": "https://open.spotify.com/track/2gIRtz9l2ZP51jmldw6pN1"
@@ -1313,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "That Girl Lay Lay (Music From Season 1)",
+        "url": "https://open.spotify.com/album/2lQuH7mxNzvX9MkF9B3Vg9"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33073,
+      "name": "Out The App",
+      "url": "https://open.spotify.com/track/50rLO1k7YC6YjbjiRgpshR"
+    },
+    {
+      "album": {
         "name": "Panda Dance",
         "url": "https://open.spotify.com/album/7qVgSim0vqr6zt1PnbWJV9"
       },
@@ -1324,10 +1400,28 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 197884,
       "name": "Panda Dance",
       "url": "https://open.spotify.com/track/7c3AS3XZhymp0ivWpJnBrO"
+    },
+    {
+      "album": {
+        "name": "Panda\u2019s Bus",
+        "url": "https://open.spotify.com/album/4eirXvLYN4NQliTGwGA1qS"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95071,
+      "name": "Panda\u2019s Bus",
+      "url": "https://open.spotify.com/track/6N6qWXQV8GaRtORPxFa5hR"
     },
     {
       "album": {
@@ -1346,7 +1440,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 45200,
       "name": "Pete The Cat Theme (feat. Elvis Costello)",
       "url": "https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk"
@@ -1382,7 +1476,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 162901,
       "name": "Roll Call",
       "url": "https://open.spotify.com/track/56XNZIljvMbFQQjSLfznf9"
@@ -1408,6 +1502,42 @@
       "duration_ms": 152142,
       "name": "Room 13",
       "url": "https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD"
+    },
+    {
+      "album": {
+        "name": "Rubble & Crew Theme Song",
+        "url": "https://open.spotify.com/album/2CLHf95bUTLq6QIvKJR07U"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32241,
+      "name": "Rubble & Crew Theme Song",
+      "url": "https://open.spotify.com/track/4wQQXYAmFsS6xPDUf9FbnT"
+    },
+    {
+      "album": {
+        "name": "Rugrats (Music from Season 1)",
+        "url": "https://open.spotify.com/album/5fSobETSlUXgg9DaAdELE3"
+      },
+      "artists": [
+        {
+          "name": "Rugrats",
+          "url": "https://open.spotify.com/artist/14ymXegICyobgkDom5wbIy"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117156,
+      "name": "Second Time Around",
+      "url": "https://open.spotify.com/track/1dSQU6IM6rOWc68kZa8Q7V"
     },
     {
       "album": {
@@ -1648,7 +1778,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 257213,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
@@ -1670,7 +1800,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 203991,
       "name": "The Farmer in the Dell",
       "url": "https://open.spotify.com/track/776gkH5xsUdC50JA0FzdUM"
@@ -1710,7 +1840,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 145144,
       "name": "The Rainbow Song",
       "url": "https://open.spotify.com/track/5pAa1P2w0PKS6wnjKixdLa"
@@ -1728,7 +1858,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 15000,
       "name": "The Really Loud House Theme Song",
       "url": "https://open.spotify.com/track/4HdMjsubh7RVnkla5sYB89"
@@ -2050,6 +2180,24 @@
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
+    },
+    {
+      "album": {
+        "name": "Songs From The Hit YouTube Kids Show: Season One",
+        "url": "https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "You Just Got Detention",
+      "url": "https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9"
     }
   ],
   "url": "https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1"

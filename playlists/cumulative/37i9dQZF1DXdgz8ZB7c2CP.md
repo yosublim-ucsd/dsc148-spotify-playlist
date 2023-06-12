@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring pluko
 
-456 songs - 1 day 1 hr 17 min
+457 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alleviate](https://open.spotify.com/track/3pEWMD5uFLYDxqVbLj5JvD) | [ASADI](https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj) | [Alleviate](https://open.spotify.com/album/5DBocAciC3tfExCBwtGYek) | 2:54 | 2021-08-06 | 2022-04-21 |
 | [Alone Again \(feat\. PEPTALK\) \- DON DARKOE Remix](https://open.spotify.com/track/6cGyTBOxH1HyOUiIYRPDuU) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql) | [Alone Again \(feat\. PEPTALK\) \[DON DARKOE Remix\]](https://open.spotify.com/album/3grziyZwvpbqpsXaeEL8CS) | 3:24 | 2023-05-12 | 2023-05-27 |
 | [am i dreaming?](https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [am i dreaming?](https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr) | 2:22 | 2023-05-12 |  |
-| [am i right?](https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [am i right?](https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w) | 3:02 | 2023-04-21 |  |
+| [am i right?](https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [am i right?](https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w) | 3:02 | 2023-04-21 | 2023-06-12 |
 | [Amethyst](https://open.spotify.com/track/6kLyzkDoArnNFFnI64TITL) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Amethyst](https://open.spotify.com/album/5WYI4JeMghfkkombhD6lj6) | 2:29 | 2022-04-22 | 2022-07-27 |
 | [And then it came together](https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 1:32 | 2023-05-05 |  |
 | [ANGEL](https://open.spotify.com/track/7f5IYglRWpboSl7CIuI2iE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANGEL](https://open.spotify.com/album/3tvSKOoKuCwlSUDuC4sDDd) | 2:03 | 2022-05-20 | 2022-09-24 |
@@ -75,6 +75,7 @@
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-05 |  |
 | [CHAMELEON](https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON](https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i) | 3:06 | 2023-05-12 |  |
 | [Chandelier \(camoufly Remix\)](https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Chandelier \(camoufly Remix\)](https://open.spotify.com/album/61Kux9RkSUm0LXx09IqRIZ) | 2:34 | 2021-09-24 | 2022-07-25 |
+| [Change Your Mind](https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Change Your Mind](https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P) | 2:47 | 2023-06-09 |  |
 | [Chemical \(feat\. Ahsha & Lemay\) \- Hex Cougar Remix](https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD), [Ahsha](https://open.spotify.com/artist/318Hgipp6taFiCWfOcNOq2), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Fallout \(The Remixes\)](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY) | 3:56 | 2021-08-06 | 2023-02-04 |
 | [Cleopatra](https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl) | [GEOTHEORY](https://open.spotify.com/artist/3iIFBDnPEFpR6PCF0Tuh6w) | [Interstellar Love](https://open.spotify.com/album/6xjGHN6Ttws80C1VP0TGC6) | 3:41 | 2021-08-06 | 2023-02-11 |
 | [Cliffs](https://open.spotify.com/track/7gnl8zbOnLzEVu5ktsvjEW) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz), [Bailey Flores](https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au) | [Alive](https://open.spotify.com/album/2yagJQQaCwDjcdB5t327cn) | 2:52 | 2021-10-08 | 2023-05-13 |

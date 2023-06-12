@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 195692,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR"
@@ -5874,7 +5874,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 226333,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
@@ -5936,6 +5936,28 @@
       "duration_ms": 187584,
       "name": "Secrecy",
       "url": "https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF"
+    },
+    {
+      "album": {
+        "name": "Set Fire",
+        "url": "https://open.spotify.com/album/2Rjb2p6LBWIeb0QyHnOwVE"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Set Fire",
+      "url": "https://open.spotify.com/track/1x9txwXoNMai6cJsldwF8A"
     },
     {
       "album": {

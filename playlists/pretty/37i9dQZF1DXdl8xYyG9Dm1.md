@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,137 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,216 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
 | 65 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 66 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
-| 67 | [OASiS](https://open.spotify.com/track/0SPm4WmHYI0kVTQkVOFuOT) | [ENAYBLVCK](https://open.spotify.com/artist/0k1ZUfmQx23y05KSh70PqN), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Victony](https://open.spotify.com/artist/5j5hepOHiuETlrtBTEOJoh) | [OASiS](https://open.spotify.com/album/5x1lIEmbgSzLMjX5WHTuSa) | 3:39 |
-| 68 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
+| 67 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
+| 68 | [OASiS](https://open.spotify.com/track/0SPm4WmHYI0kVTQkVOFuOT) | [ENAYBLVCK](https://open.spotify.com/artist/0k1ZUfmQx23y05KSh70PqN), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Victony](https://open.spotify.com/artist/5j5hepOHiuETlrtBTEOJoh) | [OASiS](https://open.spotify.com/album/5x1lIEmbgSzLMjX5WHTuSa) | 3:39 |
 | 69 | [Lord Protect My Steppings](https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:01 |
 | 70 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
 
-Snapshot ID: `MCw2MDE1YTcxNTU2NDhhZWUwMmI5YjZjYTkxOGRiMWI3YzRlNTI4ZGNm`
+Snapshot ID: `MCw0YmFlOGRkY2ZlODliZTRmNzFiNzdlNTAyNzJkMmFhZDMyNTA4NjAw`

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-643 songs - 1 day 15 hr 31 min
+644 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 | 2021-10-20 | 2023-05-24 |
 | [Hey Jude](https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 4:07 | 2022-06-10 |  |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-10-20 |  |
-| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 |  |
+| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 | 2023-06-12 |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-10-20 | 2022-05-29 |
 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 | 2021-10-20 |  |
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-10 |  |
@@ -332,6 +332,7 @@
 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 | 2021-10-20 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-10-20 |  |
 | [Into The Black](https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill For Love](https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY) | 5:22 | 2022-06-10 |  |
+| [Iris](https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/42FdghdSW95PPRm2DrQTIz) | 3:01 | 2023-02-24 |  |
 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 | 2021-10-20 | 2023-06-09 |
 | [Is This Love](https://open.spotify.com/track/68mzU8iAvNnF3PCidY66K0) | [Sye Elaine Spence](https://open.spotify.com/artist/0q1FB8NHOQ6hWMwMPxnf66) | [Bloom](https://open.spotify.com/album/29zRwYNrzdVkRra1P9aRix) | 3:43 | 2021-10-20 | 2022-07-18 |
 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 | 2021-10-20 | 2022-07-29 |

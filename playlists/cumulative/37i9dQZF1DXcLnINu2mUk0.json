@@ -4269,7 +4269,7 @@
       "artists": [
         {
           "name": "Wavy",
-          "url": "https://open.spotify.com/artist/2pgd5PsCPruMCPfT8P6dey"
+          "url": "https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW"
         },
         {
           "name": "Shugga",
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 189230,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
@@ -6516,6 +6516,32 @@
       "duration_ms": 168000,
       "name": "Yah!",
       "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
+    },
+    {
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/7o2gLbTGJCHuRXPqWZF6qP"
+      },
+      "artists": [
+        {
+          "name": "Remedy DON Dadda",
+          "url": "https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL"
+        },
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240366,
+      "name": "Yard",
+      "url": "https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl"
     },
     {
       "album": {

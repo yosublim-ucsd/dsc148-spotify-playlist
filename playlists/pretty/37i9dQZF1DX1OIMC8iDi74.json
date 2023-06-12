@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 885629,
+  "num_followers": 885571,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzlmOTlmNmUyNDk5MTA1YWQ4YWU0YzdlYTg3ZGNlNTEzMGY0NmUz",
+  "snapshot_id": "MCxjMjk1ZjM5YjA5OTA3NGE0NDNiNjMwYzA2Yjk1YTFlNGRiZDg4ZmNi",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -667,26 +687,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Limelight (NGHTMRE Remix)",
         "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -727,6 +747,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Only Be Me",
+        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Only Be Me",
+      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -743,22 +779,6 @@
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Only Be Me",
-        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Only Be Me",
-      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -843,26 +863,6 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Rumor",
-        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "WYN",
-          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
         }
       ],
-      "duration_ms": 278808,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1751,18 +1747,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+        "name": "Rumor",
+        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
       "artists": [
         {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "WYN",
+          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
         }
       ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+      "duration_ms": 278808,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "SIDE2SIDE",
+        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "In Motion",
         "url": "https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 181020,
       "name": "In Motion (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "SIDE2SIDE",
-        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
     },
     {
       "added_at": "2023-06-09 04:01:00",

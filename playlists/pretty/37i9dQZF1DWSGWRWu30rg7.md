@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Jordan Susanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,798 likes - 63 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,799 likes - 63 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 62 | [Brother](https://open.spotify.com/track/2b6IbwKc9fe9oAzug9pc2Z) | [Kid Scott](https://open.spotify.com/artist/7DnGDvROv19IBD4u0vLJw3) | [Brother](https://open.spotify.com/album/78ixQ4izCKjmgHfVng9PWZ) | 3:09 |
 | 63 | [Superjet](https://open.spotify.com/track/6w1457nrjgoJnqwIDQe2t1) | [Laser Gun](https://open.spotify.com/artist/62oyORylCE7xPZ0K1Y7qDN) | [Superjet](https://open.spotify.com/album/1y16ARItPyW6oz6UTFo4tG) | 4:21 |
 
-Snapshot ID: `MCxmYmU1MDg3MzQ2NDZmMjJhNWYyOTZjYWQwZWE5YzZlNzQ5ZWNlZDY5`
+Snapshot ID: `MCwxNjhiYzMzZmZmMGIxYWIyNGMxMWJkZTZjMmJjMGRlMGUzMWJjMGU2`

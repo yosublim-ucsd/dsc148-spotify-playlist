@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 5958,
+  "num_followers": 5977,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTNjMTZhYTk4Zjc3ZjIwZTZhNmRkZDY4MGY4YTY1NGI4NjNmYjI3",
+  "snapshot_id": "MCw0MmY1ZDJiMzk1ZGY3ZDQwM2U2YWNlM2NiZWZiZWM4ODNiMTdmMzFk",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Blessed, I Guess",
+        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "duration_ms": 124767,
+      "name": "Boys To Men",
+      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Blessed, I Guess",
-        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        }
-      ],
-      "duration_ms": 124767,
-      "name": "Boys To Men",
-      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
     },
     {
       "added_at": "2022-10-01 20:31:11",

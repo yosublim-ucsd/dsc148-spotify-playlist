@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-476 songs - 1 day 3 hr 15 min
+477 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [All My Loving](https://open.spotify.com/track/5zKlKlmfKl5xnALE2ZskEB) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 1:50 | 2021-03-02 |  |
 | [Angel of the Morning](https://open.spotify.com/track/2p2kH4FCxWy0OSkaIuz7an) | [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:05 | 2021-03-02 |  |
 | [Another Day Is Dawning \(aka There Is A Hope Somewhere\)](https://open.spotify.com/track/6El7fcz3FF1JbEPAwbsBJu) | [Earl Lawrence](https://open.spotify.com/artist/2XuZhOJe4s5pAbFzTbybaz) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:10 | 2021-03-02 |  |
-| [Artibella](https://open.spotify.com/track/3txMcReRByvnyTr8HTirMI) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:14 | 2022-09-22 |  |
+| [Artibella](https://open.spotify.com/track/3txMcReRByvnyTr8HTirMI) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:14 | 2022-09-22 | 2023-06-12 |
 | [Artibella](https://open.spotify.com/track/1Pi38NzwTfdbvmi46pJLSx) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Best of Ken Boothe](https://open.spotify.com/album/17iaBFo1jcO5B327FIoJb7) | 2:15 | 2021-03-02 | 2022-06-13 |
+| [Artibella](https://open.spotify.com/track/77cvEJ4aIcrsTfj4Za1C9C) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/53Ymaa5CBYdHVqdSlXDMnv) | 2:20 | 2022-09-22 |  |
 | [Ba Ba Boom](https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:19 | 2021-03-02 | 2022-07-29 |
 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 | 2022-09-22 |  |
 | [Baba Boom](https://open.spotify.com/track/22tjRqwi5KMbUK9KoSfHE2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Plebs Original Soundtrack](https://open.spotify.com/album/3ZOKU5P9LZ38FVCB9Yg6AF) | 3:21 | 2022-09-22 | 2022-11-13 |
@@ -387,8 +388,8 @@
 | [Sun Moon and Star](https://open.spotify.com/track/40VWRV2m76Ra1nMwOPxSBZ) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Essential Artist Collection: The Maytals](https://open.spotify.com/album/2oT90evBv9AnvDXcIXaq5o) | 3:12 | 2022-09-22 |  |
 | [Sun Moon and Star](https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:14 | 2021-03-02 | 2022-07-29 |
 | [Sun Moon and Star](https://open.spotify.com/track/3PEOj1PQDgS9bArJqBy53g) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:14 | 2022-09-22 | 2023-01-23 |
-| [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 | 2022-09-22 |  |
-| [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 | 2021-03-02 | 2022-12-24 |
+| [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 | 2022-09-22 | 2023-06-12 |
+| [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 | 2021-03-02 |  |
 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 | 2022-08-18 | 2022-09-23 |
 | [Suzanne Beware of the Devil](https://open.spotify.com/track/6WNT9qmTeBBXl9VpN9UCgE) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:35 | 2021-03-02 |  |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-03-02 |  |

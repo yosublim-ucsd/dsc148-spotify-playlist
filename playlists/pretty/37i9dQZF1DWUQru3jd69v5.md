@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Yunes Lagrintaa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,446 likes - 51 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,512 likes - 51 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [SUV NERO](https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H) | [Astro Centauri](https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [DRILLSTAR](https://open.spotify.com/album/0hYqjJdQO5twl5Mh8Hc2q5) | 2:08 |
 | 51 | [Stessi Posti](https://open.spotify.com/track/2cgnxJTioTZQDy6L0dL8so) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Stessi Posti](https://open.spotify.com/album/4HPhagjmND79u9LrnBeEoL) | 2:50 |
 
-Snapshot ID: `MCw1ZmM2OTFhYzM5MWUwMWZlZGUwZmYzMWY4ZTc0NDcwODk4ZjE0NDgx`
+Snapshot ID: `MCwxYjFhYjc2OThmN2MzMTgzMzY3Zjg2MDRjNmUzY2Q0ZWEzZmY2NTQx`

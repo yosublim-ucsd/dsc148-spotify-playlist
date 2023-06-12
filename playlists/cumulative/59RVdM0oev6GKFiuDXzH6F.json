@@ -2797,6 +2797,28 @@
     },
     {
       "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/0K8ZNj9YbH2BGFtQD4uUW7"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Birds",
+          "url": "https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U"
+        },
+        {
+          "name": "Seb Todd",
+          "url": "https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2Li8oPaDeGowwaKK3lXoYf"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
@@ -3378,6 +3400,24 @@
       "duration_ms": 141176,
       "name": "Rave To The Grave",
       "url": "https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r"
+    },
+    {
+      "album": {
+        "name": "Reach Your Soul",
+        "url": "https://open.spotify.com/album/7lZS74Vqwv4FyVjabUQthO"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164439,
+      "name": "Reach Your Soul",
+      "url": "https://open.spotify.com/track/0T1S8QRJ2xvXM6SpFnd6YT"
     },
     {
       "album": {
@@ -4482,6 +4522,32 @@
       "duration_ms": 171415,
       "name": "What Do You Mean",
       "url": "https://open.spotify.com/track/0Vb49jKIYWGLXwJCuKTUzC"
+    },
+    {
+      "album": {
+        "name": "Where You Are (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282375,
+      "name": "Where You Are - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
     },
     {
       "album": {

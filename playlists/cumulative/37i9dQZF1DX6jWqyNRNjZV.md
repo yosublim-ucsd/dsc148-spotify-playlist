@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-277 songs - 19 hr 36 min
+278 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [Salzburg](https://open.spotify.com/track/3G8Z1oJm9M4DXM7kJ2brRK) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka \- EP](https://open.spotify.com/album/7prXyrzPr3WsWDe6LX5hUt) | 4:10 | 2023-04-19 |  |
 | [Satyr](https://open.spotify.com/track/3GDK44ZpfDPaQEr8qaQQx5) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 4:45 | 2022-11-30 | 2023-01-24 |
 | [Sea Salt](https://open.spotify.com/track/6GJz6J9dnblGe1Q66bF5gU) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Avalanche](https://open.spotify.com/album/1DK7dxeuo9R1Ma0iaZBz3f) | 3:08 | 2022-11-30 | 2023-01-24 |
-| [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-19 |  |
+| [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-19 | 2023-06-12 |
+| [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-19 |  |
 | [Seasons](https://open.spotify.com/track/6XXU4PWswlDv6vHfJzUTcF) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Squidgenini](https://open.spotify.com/artist/3BcWc3ESZGsGrDxI7wnPyh) | [Seasons](https://open.spotify.com/album/3ITqcKSoxDq1NZpoGb6Xn6) | 4:28 | 2022-11-30 | 2023-01-24 |
 | [See Ya \- Re\-Work Mix](https://open.spotify.com/track/00J3Syc83pniRACf93KLHE) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [See Ya \(Re\-Work Mix\)](https://open.spotify.com/album/66dif4g8JyBHrMsKZn6GgV) | 3:38 | 2022-11-30 | 2023-01-24 |
 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 | 2023-04-19 |  |

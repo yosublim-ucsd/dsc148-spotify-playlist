@@ -966,10 +966,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 136255,
       "name": "Real Fine Daddy",
       "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
+    },
+    {
+      "album": {
+        "name": "Presenting Helen Humes",
+        "url": "https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl"
+      },
+      "artists": [
+        {
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136546,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
     },
     {
       "album": {

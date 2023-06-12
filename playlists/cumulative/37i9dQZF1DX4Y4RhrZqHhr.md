@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-531 songs - 1 day 4 hr 34 min
+532 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Mr\. Navigator](https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Mr\. Navigator](https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy) | 2:32 | 2021-04-09 | 2022-01-11 |
 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/4zIaXqKCXZs02eB6jEe5Mf) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/11UM41JGr8BavupgcGCICa) | 3:15 | 2021-04-09 | 2022-01-11 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-04-09 |  |
+| [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 | 2022-03-29 |  |
 | [My Love](https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb) | 4:22 | 2021-04-09 | 2022-07-29 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2022-03-29 | 2023-06-07 |
 | [My My My \- Radio Edit](https://open.spotify.com/track/4a2R36HOxSh9qdyLDrkMzK) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [My My My](https://open.spotify.com/album/1xOnf71ecVaE932YoWB6nB) | 3:10 | 2021-04-09 | 2022-01-11 |
@@ -420,7 +421,7 @@
 | [Shine](https://open.spotify.com/track/7fymo275KG2hK7SBfxf72C) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Pop Hits 2015](https://open.spotify.com/album/3ZagUWHI0FtnJ4PJflqUGR) | 4:15 | 2022-03-29 | 2022-11-14 |
 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 | 2022-03-23 |  |
 | [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/5up5uXChMJLKyuop9HwtCb) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Shotgun \(The Wild Remix\)](https://open.spotify.com/album/3pjsiMldUHVmgQCPVyVXAY) | 3:11 | 2021-04-09 | 2022-07-29 |
-| [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Staying at Tamara's \(Remixes\)](https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs) | 3:13 | 2022-03-29 |  |
+| [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Staying at Tamara's \(Remixes\)](https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs) | 3:13 | 2022-03-29 | 2023-06-12 |
 | [Shots \- Broiler Remix](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW) | 3:11 | 2021-04-09 | 2022-07-29 |
 | [Shots \- Broiler Remix](https://open.spotify.com/track/4XLm8FNvaTlmTAZmSrrV82) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Shots EP](https://open.spotify.com/album/5R4Ak5SlTSaVnXNZQQ5CX2) | 3:11 | 2022-03-29 | 2023-05-23 |
 | [Shots \- Broiler Remix](https://open.spotify.com/track/6QhRiypczyo3ArVyFnIjBK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Cape Town Beach Party](https://open.spotify.com/album/12P82go9mViSuzMj0VgjPe) | 3:12 | 2022-03-29 | 2022-11-13 |

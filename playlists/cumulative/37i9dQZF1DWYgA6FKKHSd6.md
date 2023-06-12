@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-200 songs - 14 hr 24 min
+201 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Crown Royal](https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR) | [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Chocolate Vibez](https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk) | 4:14 | 2021-07-12 |  |
 | [Dare 2 Dream](https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 3:57 | 2021-07-12 | 2022-07-28 |
 | [Daydream](https://open.spotify.com/track/2BpfSRsdfTW9Ea8M2ikM1R) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:11 | 2021-07-12 | 2022-07-28 |
+| [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 |  |
 | [Desert Rose](https://open.spotify.com/track/2ai8niXm8wl651b2gGxzas) | [Ed Calle](https://open.spotify.com/artist/6r8MZZRBkAXqyzaFLk5YRe) | [Soulful Nights](https://open.spotify.com/album/7dmh5uEjU9X4fD6pFIumJf) | 3:58 | 2022-08-12 | 2022-09-30 |
 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 | 2022-09-23 |  |
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [Stone Groove](https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/2UBOcVHIGEXwaZgBMifGhK) | 4:45 | 2021-07-12 | 2022-07-29 |
 | [Stone Groove](https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Pure](https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh) | 4:45 | 2021-07-12 |  |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:56 | 2021-07-12 |  |
-| [Straight to the Point](https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Straight to the Point](https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511) | 4:02 | 2021-10-01 |  |
+| [Straight to the Point](https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Straight to the Point](https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511) | 4:02 | 2021-10-01 | 2023-06-12 |
 | [Stratosphere](https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd) | 4:40 | 2021-07-12 |  |
 | [Stratosphere](https://open.spotify.com/track/2W540AXgdQY51tgniBvmIo) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/3HUr0DgkXGWecERNILMjg9) | 4:40 | 2021-07-12 | 2022-07-29 |
 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 | 2021-07-12 |  |

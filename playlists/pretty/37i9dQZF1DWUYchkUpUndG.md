@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"> Theresa Phondo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 59 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,190 likes - 59 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
 | 59 | [Your Glory We Need](https://open.spotify.com/track/3g7cqfLQmPfnd1PfdJnaRf) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6) | [Your Glory We Need](https://open.spotify.com/album/02Brf3FJ0QA3gyeM83uBnH) | 7:57 |
 
-Snapshot ID: `MCw3OGEyOTI2ODdhMmNlOWEzNWI4NjZjZjA5MzM1NzUzMmRmMzdjN2Ni`
+Snapshot ID: `MCw4YmU4NDg1MjEzZjE5MGZhMWU4ZDNiYTZiODUzZGZkNzFkMDhmYmJh`

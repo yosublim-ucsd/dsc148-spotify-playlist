@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Teenage Wrist
 
-3,748 songs - 8 day 20 hr 42 min
+3,749 songs - 8 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2921,7 +2921,8 @@
 | [So Yeah](https://open.spotify.com/track/66BuM6IbAYqaIgqDI3gipD) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu), [Alter Apex](https://open.spotify.com/artist/2OEdaqPubUga3xDwpKNIu0) | [UNDERCOVERS, Vol\. 2](https://open.spotify.com/album/4DWDFQ0rivepH2xFZOXU7q) | 3:25 | 2022-04-07 | 2022-04-15 |
 | [Soaking Up The Sickness](https://open.spotify.com/track/2HChWkyiB5u7br7n14vQt3) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Soaking Up The Sickness](https://open.spotify.com/album/5qPjGRZbTkxlIKh8Sh2hIz) | 3:47 | 2022-06-30 | 2022-07-09 |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 | 2022-11-19 |
-| [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 | 2023-06-09 |  |
+| [Social Lubrication](https://open.spotify.com/track/086JbiF8kMBushqWDifdpE) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:28 | 2023-06-09 |  |
+| [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 | 2023-06-09 | 2023-06-12 |
 | [Sodawater](https://open.spotify.com/track/2MBitvLCDmxTPCpUkdfHwX) | [Keep](https://open.spotify.com/artist/0oPLf7tpRZAVZMHWA0Nu7W) | [Sodawater](https://open.spotify.com/album/1Q45L55DyOjwSIdHQvSSoE) | 3:46 | 2023-06-09 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-08-19 | 2022-08-27 |
 | [Soju](https://open.spotify.com/track/0y6HDAADxL59jO3YxeJzxj) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Soju](https://open.spotify.com/album/0tDUuBysC1WpAsVm8rBtFV) | 2:41 | 2022-11-25 | 2022-12-03 |

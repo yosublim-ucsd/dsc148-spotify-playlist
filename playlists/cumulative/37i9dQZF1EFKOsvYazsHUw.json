@@ -152,6 +152,28 @@
     {
       "album": {
         "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1aych0BKUxtJkqh8SJUEjq"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
         "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
       },
       "artists": [
@@ -166,7 +188,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 222533,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7Cgqdh9mds9zdbwitjanVY"
@@ -326,10 +348,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 207906,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/46oB4z00bx2WDbUgBl33nf"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/7igfis38Qqhqm38DiPLbXT"
     },
     {
       "album": {
@@ -352,6 +392,24 @@
     {
       "album": {
         "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
         "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
       },
       "artists": [
@@ -362,7 +420,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 164120,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6Q0Dsq0JQWUe2RbOJBZl6c"
@@ -416,10 +474,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 164120,
       "name": "Easy On Yourself",
       "url": "https://open.spotify.com/track/1wM9bvjd3i9pbH0gpq7aYj"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Easy On Yourself",
+      "url": "https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms"
     },
     {
       "album": {
@@ -636,10 +712,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 225746,
       "name": "Hands Off Me",
       "url": "https://open.spotify.com/track/2LrxcIsIWa5Z8DPtfsZ4PJ"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Hands Off Me",
+      "url": "https://open.spotify.com/track/7v8mdR5c3k2bYoXvYbsfCs"
     },
     {
       "album": {
@@ -1038,6 +1132,24 @@
     {
       "album": {
         "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/2sz6BchGGyA7QsUW2Gw8eb"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
         "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
       },
       "artists": [
@@ -1048,7 +1160,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 177226,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1"
@@ -1214,10 +1326,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 192240,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0LMECRhJzJLyxURkiWHWY4"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o"
     },
     {
       "album": {

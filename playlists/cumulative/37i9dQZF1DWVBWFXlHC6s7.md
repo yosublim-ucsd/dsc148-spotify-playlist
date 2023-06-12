@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-51 songs - 3 hr 10 min
+52 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 | 2023-01-20 |  |
 | [Mistério da raça](https://open.spotify.com/track/3GDM3x918Z9o9COKIdf4jc) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Nós](https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b) | 3:07 | 2023-01-20 |  |
 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2023-01-20 | 2023-04-30 |
-| [Moqueca](https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ) | 4:04 | 2023-01-20 |  |
+| [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-01-20 |  |
+| [Moqueca](https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ) | 4:04 | 2023-01-20 | 2023-06-12 |
 | [Morro do Barraco Sem Água](https://open.spotify.com/track/1TxZ3YTh0i1pKlQE37grQX) | [Lemos & Debétio](https://open.spotify.com/artist/5NpcrcGcWkjihQktEMNIKu) | [Morro do Barraco Sem Água](https://open.spotify.com/album/52yTCl3qAkQiMpT4thQ1FQ) | 2:49 | 2023-01-20 |  |
 | [Na baixa do sapateiro](https://open.spotify.com/track/0EFgQPupq1L5Xk8pipKhI1) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:26 | 2023-01-20 |  |
 | [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 | 2023-01-20 |  |

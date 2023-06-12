@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,584 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,608 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 30 | [Karma](https://open.spotify.com/track/4NVkR10qkADrFrQnQ23l2c) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Karma](https://open.spotify.com/album/0uAosRh2GbvWojGO1DMq5d) | 2:33 |
 | 31 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/0YfMzQvsaVC4QP557FFH5r) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
 | 32 | [Entre os Dois \(feat\. Julinho Ksd \)](https://open.spotify.com/track/5OcuLlg5EdDE01ZGbQaIIa) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Entre os Dois \(feat\. Julinho Ksd \)](https://open.spotify.com/album/17wFwqW7zLXEFqx59NmIqS) | 3:21 |
-| 33 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/2pgd5PsCPruMCPfT8P6dey), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 |
+| 33 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 |
 | 34 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
 | 35 | [CONVALLARIA](https://open.spotify.com/track/24D8TQh8S6x3AOCwnL6zI1) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [CONVALLARIA](https://open.spotify.com/album/2LK8xqNsywlhQj3xRbLXe7) | 3:34 |
 | 36 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Cattiveiro Freestyle](https://open.spotify.com/track/1jEDmLfUSOAhFEvNaJToIL) | [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cattiveiro Freestyle](https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t) | 3:34 |
 | 75 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 |
 
-Snapshot ID: `MCxkNzE5YzU1MWI4YzA1OWU2ZTgxNjFhNDlmYzk4YmYwMzAzMTU1YTZl`
+Snapshot ID: `MCwwMTM4YTMzY2FhOWM4ZTYwMWEyNmQ3MDM0MDE5NmJiZTIxNjNjNmQ3`

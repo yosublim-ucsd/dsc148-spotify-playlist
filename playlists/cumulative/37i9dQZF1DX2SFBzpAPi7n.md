@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KyoungSeo\(경서\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-480 songs - 1 day 5 hr 31 min
+481 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [She's mine](https://open.spotify.com/track/03CDPxCuiJQPkXlrpEbWVa) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [The Last Boy In The Class](https://open.spotify.com/album/7EfhRDaQv3Xr8WOkqKYzDR) | 2:36 | 2022-05-24 | 2022-05-26 |
 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2023-01-26 | 2023-04-27 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2022-04-22 | 2023-06-08 |
+| [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2023-06-01 |  |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
@@ -466,7 +467,7 @@
 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2022-04-12 | 2023-06-07 |
 | [You're right](https://open.spotify.com/track/3X4StHauTX08nwxvdzByae) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:36 | 2022-04-21 | 2022-07-23 |
 | [Young](https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP), [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [Young](https://open.spotify.com/album/5y5xxuMomFzgXvUJzetwxP) | 3:26 | 2022-04-12 | 2022-07-26 |
-| [Young Boy](https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NINE.i The 2nd Mini Album \[I \(Part.1\)\]](https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ) | 3:30 | 2022-11-09 |  |
+| [Young Boy](https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NINE.i The 2nd Mini Album \[I \(Part.1\)\]](https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ) | 3:30 | 2022-11-09 | 2023-06-12 |
 | [YOUNG! \(Feat\. Jayci yucca\)](https://open.spotify.com/track/4kWmBmzkq3GVW6rvCYXlJg) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy) | [UP](https://open.spotify.com/album/3BKgpuuOu0PIb2aYfk2p1O) | 3:11 | 2022-04-22 | 2022-07-28 |
 | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/track/2hHfHsqusupS8iimTLpBVI) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/album/3ejXv1mREH4JSTi2gg82hQ) | 4:38 | 2022-04-22 | 2022-04-26 |
 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 | 2022-05-11 | 2022-07-23 |

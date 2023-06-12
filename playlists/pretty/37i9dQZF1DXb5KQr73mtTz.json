@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10356,
+  "num_followers": 10362,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc2ZjI3NDU5MWYwYjIzNmE5YTE4MDQ2NTQyMzQyM2MzZTE0OTk2",
+  "snapshot_id": "MCw3NWM4NGVkNzRhN2UwZjRkZGU2Mzg1ZjkwNTM2MDg5NWEyYmUzYjE1",
   "tracks": [
     {
       "added_at": "2023-05-31 15:48:01",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
       "artists": [
         {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
         }
       ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+      "duration_ms": 240266,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "Thank you for Goodbye",
         "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 253985,
       "name": "Thank you for Goodbye",
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "The Island",
-      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
+        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+        }
+      ],
+      "duration_ms": 302864,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
-        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
-        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeonji",
-          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
-        }
-      ],
-      "duration_ms": 302864,
-      "name": "\ub9c8\uc74c\uc758 \ub9d0",
-      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "Strangers Again, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa"
-      },
-      "artists": [
-        {
-          "name": "Hajin",
-          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 240532,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "Strangers Again, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "duration_ms": 253680,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

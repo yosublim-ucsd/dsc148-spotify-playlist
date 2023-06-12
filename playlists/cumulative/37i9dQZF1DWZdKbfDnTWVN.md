@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover KayCyy
 
-127 songs - 6 hr 27 min
+129 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Coastin](https://open.spotify.com/track/3Q6sRzzw2IIUDhEAag9Ah4) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO) | [Coastin](https://open.spotify.com/album/037ahJTrsQ4PuEvFUHljwQ) | 2:29 | 2022-05-27 | 2022-11-11 |
 | [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 | 2022-06-30 | 2022-11-18 |
 | [Dice](https://open.spotify.com/track/5SJxfCadODTEdgO9ooKOmR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Dice](https://open.spotify.com/album/78nK71bAefWTNdu7mXmdcG) | 2:31 | 2022-07-14 | 2023-04-21 |
-| [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 | 2022-11-10 |  |
+| [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 | 2022-11-10 | 2023-06-12 |
+| [Digdat](https://open.spotify.com/track/6PU0d8bb9HDNcqaxBxFtnH) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 4:11 | 2023-06-08 |  |
 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 |  |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
 | [FLEE.](https://open.spotify.com/track/29SlCViPGeON1K5cp0UoJ0) | [NAFFARiOH](https://open.spotify.com/artist/2m3MGtFtxBOff71bHXfeNi), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [FLEE.](https://open.spotify.com/album/4qpvD0IuSc7JV4MxCxozg4) | 2:48 | 2023-06-02 |  |
@@ -130,8 +131,9 @@
 | [W.T.N ?](https://open.spotify.com/track/7dfVmXnGB5OlBHiQum53rL) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [W.T.N ?](https://open.spotify.com/album/2G2k6UrxLNcEGWhZLUNueo) | 2:42 | 2022-10-13 | 2023-01-11 |
 | [W.T.N ?](https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Joshoxy](https://open.spotify.com/artist/0PbQMJK1AKXAbvSakUmtmw) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:42 | 2022-10-13 | 2023-01-27 |
 | [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 | 2022-10-12 |
+| [Wasp](https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 3:22 | 2023-06-08 |  |
 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
-| [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 |  |
+| [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 | 2023-06-12 |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-06-03 |
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 | 2023-04-14 |
 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 | 2022-09-29 |  |

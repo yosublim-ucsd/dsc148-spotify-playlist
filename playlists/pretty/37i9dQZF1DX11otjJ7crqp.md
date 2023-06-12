@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,422 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,466 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [LAKEHOUSE](https://open.spotify.com/track/6MxVq8FXsONckwsnyUWgXj) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [A SPACE BETWEEN ORANGE & BLUE](https://open.spotify.com/album/33HhNZRdRVcr7cHydG2bV3) | 2:18 |
 | 99 | [Don't Let Me Down](https://open.spotify.com/track/2zYW3zkyOPxdVH7DJPOuta) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Escapetape](https://open.spotify.com/album/5amtb8YhJ26POCtX6bpcUb) | 3:31 |
 
-Snapshot ID: `MCwyMTRhMzA1Mzk5YjViNDAwMGY0NjY3N2MxMjAwNWJiZGYyYTMzYjk5`
+Snapshot ID: `MCxmMWRmMzU2ZDNiMTJlM2EwYjFkNmNjZDBlMGU0ODM3NzE0ZDk3NWI4`

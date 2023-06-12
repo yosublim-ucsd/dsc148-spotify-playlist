@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Dream Wife
 
-1,114 songs - 2 day 7 hr 30 min
+1,117 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,8 +711,9 @@
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 | 2023-04-09 |
 | [Option to Nothing](https://open.spotify.com/track/4q0YgwbxglVAOizvBNY7eU) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Option to Nothing](https://open.spotify.com/album/1K3fRWYf05g6d9EIXk7Vjn) | 2:21 | 2022-11-18 | 2023-02-24 |
 | [Orange County Punk Rock Legend](https://open.spotify.com/track/2IyMFjkWuxuev05AWpFDXj) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Orange County Punk Rock Legend](https://open.spotify.com/album/0N6DCJtzG6GPoaQxu0YwJL) | 1:40 | 2022-07-21 | 2022-09-09 |
+| [Orbit](https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:32 | 2023-06-08 |  |
 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 | 2023-04-20 | 2023-04-30 |
-| [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 | 2023-04-20 |  |
+| [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 | 2023-04-20 | 2023-06-12 |
 | [Ordinaire](https://open.spotify.com/track/5XOU00eDPnL8N67wD1h6RP) | [L'Affaire Pélican](https://open.spotify.com/artist/1ksofERLywmzgMqjit8iAY) | [Ordinaire](https://open.spotify.com/album/4ETAzo6wdR5Lup7xFt1oMD) | 2:39 | 2022-07-21 | 2022-09-09 |
 | [Out Cold](https://open.spotify.com/track/4Uqx6xnZQgev4I4whEg8vK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 2:16 | 2022-09-29 | 2022-11-11 |
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-27 | 2023-02-17 |
@@ -878,7 +879,8 @@
 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 | 2022-03-11 | 2022-04-22 |
 | [SOBER](https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [SOBER](https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn) | 2:33 | 2022-08-04 | 2022-09-23 |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-12-17 | 2022-02-04 |
-| [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 | 2023-06-08 |  |
+| [Social Lubrication](https://open.spotify.com/track/086JbiF8kMBushqWDifdpE) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:28 | 2023-06-08 |  |
+| [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 | 2023-06-08 | 2023-06-12 |
 | [Some Things Never Change](https://open.spotify.com/track/0TE9FwyzhIIfJPWwysf31s) | [Quitters](https://open.spotify.com/artist/0jkdaogfkH2BOUORlk2RD6) | [Captain Are We Thinking?](https://open.spotify.com/album/2uQtZFqp8SChsLZQMEDHJ0) | 3:07 | 2022-09-22 | 2022-11-11 |
 | [Something](https://open.spotify.com/track/2HbrIFwmGjKDI2sRaA64hx) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [Something](https://open.spotify.com/album/6iSuKcWNLHhSgiTBJutDsN) | 2:31 | 2023-03-17 | 2023-05-05 |
 | [Song about Mike Dawner](https://open.spotify.com/track/2Xq1KfkKKIejn21zEyTNp7) | [Primetime Failure](https://open.spotify.com/artist/4vCEXhGvZILr8JiAenk0ee) | [Oxygen](https://open.spotify.com/album/3fbNnJvFuqLdhcYhYxgvPC) | 2:07 | 2023-03-24 | 2023-05-26 |
@@ -1087,7 +1089,8 @@
 | [White Van](https://open.spotify.com/track/1d0ESrGSkVsh5p7uziMdS6) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [White Van](https://open.spotify.com/album/2Aq4UyW1i37HP4pkG3C9Rn) | 2:54 | 2023-02-03 | 2023-03-31 |
 | [Whitecaps](https://open.spotify.com/track/0Hc9ikYkhjxSwAd4groPxN) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Whitecaps](https://open.spotify.com/album/5ys000sFJpsTuGsvpvql1D) | 2:29 | 2022-03-18 | 2022-04-22 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 | 2023-04-14 |
-| [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-18 |  |
+| [Who Do You Wanna Be?](https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:49 | 2023-06-08 |  |
+| [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-18 | 2023-06-12 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-02-18 | 2022-03-18 |
 | [Who You Really Are](https://open.spotify.com/track/2brypwXodpUrDAidoruQt5) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Who You Really Are](https://open.spotify.com/album/35OtE4aJrZiGmTcn5yl9Ye) | 3:20 | 2023-05-25 |  |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-07 | 2022-08-19 |

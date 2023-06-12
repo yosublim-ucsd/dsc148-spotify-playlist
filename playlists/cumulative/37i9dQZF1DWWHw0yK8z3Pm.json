@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 199591,
       "name": "Across the Hall",
       "url": "https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA"
@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164917,
+      "name": "Chasing Spirits",
+      "url": "https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe"
+    },
+    {
+      "album": {
         "name": "Chasing Spirits",
         "url": "https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 164917,
       "name": "Chasing Spirits",
       "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 199838,
       "name": "Hey Bob Dylan",
       "url": "https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5"

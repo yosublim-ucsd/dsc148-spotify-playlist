@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdhJjehriAj.md) - [plain]
 
 > This Is DaBaby, The Essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,893 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,976 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdhJjehriAj.md) - [plain]
 | 50 | [Stain \(feat\. DaBaby\)](https://open.spotify.com/track/0dIz1I7IwX5ardG47AHxCZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:55 |
 | 51 | [Protect Da Brand \(feat\. DaBaby\)](https://open.spotify.com/track/0Pqix0NTfbuROfPbaZbBgp) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 3:00 |
 
-Snapshot ID: `MCxjODk1YjQ5MzNmMGRlM2Q4MzcyOGI2NDNmMTMyZmUzNDE3M2MyMDMz`
+Snapshot ID: `MCxiMWExYjc1NjYwY2M0YzE0MWExYmUyN2ViNmIwYmZhYzE2MGVmYTZk`

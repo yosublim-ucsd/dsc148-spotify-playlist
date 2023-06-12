@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-131 songs - 12 hr 43 min
+132 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 |  |
 | [Dig This Vibe](https://open.spotify.com/track/2xtVHxXsBNADpdNUr8Owpa) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 4:54 | 2021-06-25 | 2022-07-29 |
 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 | 2021-06-25 |  |
-| [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 |  |
+| [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 | 2023-06-12 |
 | [ESSENTIAL DUB](https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c) | [MAJOR FORCE RARE TRACKS](https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd) | 4:58 | 2021-06-25 | 2023-03-12 |
+| [Everything You Do Is A Balloon](https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y) | 6:59 | 2021-06-25 |  |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2021-06-25 | 2023-06-08 |
 | [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 | 2021-06-25 | 2023-02-05 |
 | [Five Days](https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/5yS6FBypn4GpZV8LymMbWd) | 5:22 | 2021-06-25 | 2022-11-06 |

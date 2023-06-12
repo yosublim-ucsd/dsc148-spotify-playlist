@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-270 songs - 16 hr 52 min
+271 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2022-04-15 |  |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-04-04 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 | 2021-10-29 | 2022-07-29 |
-| [Middle of the Morning](https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Middle of the Morning](https://open.spotify.com/album/72GOjmgEWNgOTQ59TpIAYb) | 4:40 | 2023-04-01 |  |
+| [Middle of the Morning](https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Middle of the Morning](https://open.spotify.com/album/72GOjmgEWNgOTQ59TpIAYb) | 4:40 | 2023-04-01 | 2023-06-12 |
+| [Middle of the Morning](https://open.spotify.com/track/7LQWSJaHKYMSGmffJSujdu) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:40 | 2023-06-09 |  |
 | [Million Dollar Secret](https://open.spotify.com/track/4p6PR5DSLxoWYiKyFuv1De) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Million Dollar Secret](https://open.spotify.com/album/1kpe6fMGGgpMZGtAU9yLuQ) | 2:25 | 2022-04-15 | 2022-04-21 |
 | [Mockingbird](https://open.spotify.com/track/2CaLpacfbqCPvcLmX4ZN8e) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mockingbird](https://open.spotify.com/album/6Nk8Q2py4XcHpOGtwlADXE) | 4:37 | 2021-10-29 | 2022-07-29 |
 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 148292,
+  "num_followers": 148381,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1",
+  "snapshot_id": "MCw2NjJlYzcxOWZlODQ5ZWY1NGQzNTYyZGFlZDU3OTgyMWFjNzA0YWYy",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1567,18 +1567,30 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
+        "name": "Lance Casual",
+        "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
       "artists": [
         {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+          "name": "Duace",
+          "url": "https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "Blue Mary",
+          "url": "https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
+      "duration_ms": 181546,
+      "name": "Lance Casual",
+      "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1607,30 +1619,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Lance Casual",
-        "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
+        "name": "Rosas Rositas",
+        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
       },
       "artists": [
         {
-          "name": "Duace",
-          "url": "https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S"
-        },
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
-        {
-          "name": "Blue Mary",
-          "url": "https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
         }
       ],
-      "duration_ms": 181546,
-      "name": "Lance Casual",
-      "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
+      "duration_ms": 309406,
+      "name": "Rosas Rositas",
+      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
     }
   ],
   "unique_name": "Resenha na Praia",

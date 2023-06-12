@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Christine & The Queens
 
-1,554 songs - 3 day 20 hr 16 min
+1,555 songs - 3 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,7 +1157,8 @@
 | [Science Fair](https://open.spotify.com/track/7lXLUOrEnz0ZVenSnO3NWv) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Science Fair](https://open.spotify.com/album/6O6mwM5RhR27oacgA7xxMU) | 6:20 | 2020-10-30 | 2021-01-15 |
 | [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 | 2022-06-24 | 2022-08-19 |
 | [Sea Demon](https://open.spotify.com/track/7h9Qb2MMCCALucfx2Tglzt) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Sea Demon](https://open.spotify.com/album/5Ah4JlqxlgK6hHfd1wg72f) | 2:54 | 2021-09-03 | 2021-10-29 |
-| [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-13 |  |
+| [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-13 | 2023-06-12 |
+| [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-06-08 |  |
 | [Seahorse](https://open.spotify.com/track/6w5VbMZwwXvQFDcshBu7Zw) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seahorse](https://open.spotify.com/album/3hUjjjCYbSFtjAOJvphULD) | 4:18 | 2021-05-14 | 2021-07-23 |
 | [Second Nature](https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:02 | 2021-12-10 | 2022-02-11 |
 | [Second Nature](https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Second Nature](https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA) | 5:47 | 2022-09-22 | 2022-10-13 |

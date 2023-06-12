@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,996 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,133 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 32 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 |
 | 33 | [All I Really Wanna Do](https://open.spotify.com/track/2pdN1F1hOI1At7GepafDMT) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:42 |
 | 34 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
-| 35 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 |
+| 35 | [You I'm Waiting On](https://open.spotify.com/track/6VywyDwMOd6ehsR3MTV7gh) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Tears You Hide](https://open.spotify.com/album/3mfbxfHcZ0moeI1W2ukCb8) | 2:59 |
 | 36 | [Winnemucca](https://open.spotify.com/track/4nl1hkf6OVqYRNioo2pyXk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 4:17 |
 | 37 | [Problem](https://open.spotify.com/track/0F0ROYKhiZhAKioVBOoy8V) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Problem](https://open.spotify.com/album/1rf3nCQFBJgwNZMO66H4lz) | 3:54 |
 | 38 | [Summertime](https://open.spotify.com/track/5Pk3W4zR90oKigFXvDpVaa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Summertime](https://open.spotify.com/album/6FL4FWzNcXbYCEKCZmBcmW) | 4:05 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 149 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 |
 
-Snapshot ID: `MCxiNDE5Nzg2NDMwZGVkZGRlY2VjOTFjMmUyMTZmODQyMmVjMDczNTRh`
+Snapshot ID: `MCw4MzU4NTk2Yjg3YjE5OTQ2NDk0MzVmZjBmODBiN2IzOGIxNGQxMzI1`

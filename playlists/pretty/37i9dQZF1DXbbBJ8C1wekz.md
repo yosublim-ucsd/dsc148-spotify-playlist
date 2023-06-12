@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,872 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,966 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 29 | [30 Dias](https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [MIDNIGHT CALLS](https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc) | 4:11 |
 | 30 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
 | 31 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
-| 32 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
-| 33 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
+| 32 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
+| 33 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
 | 34 | [Chega de Falar de Ice](https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Chega de Falar de Ice](https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg) | 2:57 |
 | 35 | [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 |
 | 36 | [Menino Ney](https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dazz](https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit) | [Menino Ney](https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU) | 2:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 55 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 56 | [212 Vip](https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [212 Vip](https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms) | 2:12 |
 | 57 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
-| 58 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
-| 59 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
+| 58 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
+| 59 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 60 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 
-Snapshot ID: `MCxjZGUyMGY3YmFjNjlmMWE0ZDVkYjQyZWY4ZWZlZjg3NmMwZjIwNjk1`
+Snapshot ID: `MCw2NzVmMTJlYzI5ZTQwMTI4ODg5YmJmNDEwZjQyMWNlMDBkN2RiNTMz`

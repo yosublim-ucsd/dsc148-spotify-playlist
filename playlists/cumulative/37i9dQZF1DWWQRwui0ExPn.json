@@ -28643,6 +28643,24 @@
     },
     {
       "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB"
+      },
+      "artists": [
+        {
+          "name": "Philphonic",
+          "url": "https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135010,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6v3cJc3QSWB2Fs9lGF2TlU"
       },
@@ -64062,7 +64080,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 137931,
       "name": "Mount Sumi",
       "url": "https://open.spotify.com/track/7jmXkWfSGhYoQZTLY4Poqg"
@@ -99588,7 +99606,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 153176,
       "name": "Tokyo Love",
       "url": "https://open.spotify.com/track/1mXMojPxCgbeGtYrtDekoj"
@@ -108636,6 +108654,32 @@
       "duration_ms": 143245,
       "name": "Windy Morning",
       "url": "https://open.spotify.com/track/2XH8i9DIs3PpE52wIxtlyH"
+    },
+    {
+      "album": {
+        "name": "Windy Seasons",
+        "url": "https://open.spotify.com/album/4vXXQBKe2IgTFDuFZ0s70W"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "The Pinch",
+          "url": "https://open.spotify.com/artist/2RGFyUFoEIlioJofhOPp08"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Windy Seasons",
+      "url": "https://open.spotify.com/track/4AQ6z5ljQbfmQFtfHDZHnm"
     },
     {
       "album": {

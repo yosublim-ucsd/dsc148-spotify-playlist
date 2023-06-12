@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-935 songs - 2 day 3 hr 10 min
+936 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Castles In The Sky](https://open.spotify.com/track/4xZax8srPgsXV2mpMerqEk) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Castles In The Sky](https://open.spotify.com/album/3TolDOsMadcVP94ucEJEqU) | 3:43 | 2020-12-05 | 2021-12-09 |
 | [Catania](https://open.spotify.com/track/5t8ya2Qx7Xc6bG53piXMYY) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Catania](https://open.spotify.com/album/3PO7P1e9CiJlzKBCqL9pg3) | 3:40 | 2020-07-01 | 2021-10-12 |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-19 | 2022-07-29 |
+| [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 |  |
 | [Chameleon](https://open.spotify.com/track/6400BZ7REh8DshcZKU7Pfp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Chameleon](https://open.spotify.com/album/6vdxUCoudeeMJ8dv0iXA2S) | 3:18 | 2020-05-22\* | 2020-09-20 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2020-12-12 | 2021-11-20 |
 | [Chance To Dance](https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Chance To Dance](https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN) | 3:09 | 2020-09-05 | 2021-11-08 |
@@ -734,7 +735,7 @@
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-04-01 | 2022-04-17 |
 | [SEXUAL](https://open.spotify.com/track/4PZunWMdRDz63eZHAzoeD2) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [SEXUAL](https://open.spotify.com/album/3h1FyQdZSsIeel16epLcn1) | 3:19 | 2022-04-01 | 2022-07-29 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-03 |  |
-| [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-03-17 |  |
+| [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-03-17 | 2023-06-12 |
 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 | 2023-05-26 |  |
 | [Shingaling](https://open.spotify.com/track/3ANKZ1tJoxuEE0d8Irncl3) | [Tom Swoon](https://open.spotify.com/artist/2OFEXARoSZyZLR6S0oV2R7) | [Shingaling](https://open.spotify.com/album/3aGEPxNWMCyHfKkbu4dZAL) | 2:33 | 2020-06-12 | 2021-12-21 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-04-01 | 2022-07-29 |

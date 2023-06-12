@@ -6,7 +6,7 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "Mjc3MixkYTA2MDVmMWZmMzg0NTdjMGFmN2E0NjI3ZjI1ZmI1ODBiNDMzN2Mw",
+  "snapshot_id": "Mjc3NSwxNjM0NTk4MzQyZDI3ZmFlYTZmZjBkNGNkYmI2OTY5MTY0NmQ3NWMw",
   "tracks": [
     {
       "added_at": "2023-06-08 23:09:22",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y"
     },
     {
+      "added_at": "2023-06-12 00:20:39",
+      "album": {
+        "name": "Reach Your Soul",
+        "url": "https://open.spotify.com/album/7lZS74Vqwv4FyVjabUQthO"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "duration_ms": 164439,
+      "name": "Reach Your Soul",
+      "url": "https://open.spotify.com/track/0T1S8QRJ2xvXM6SpFnd6YT"
+    },
+    {
       "added_at": "2023-06-08 23:09:22",
       "album": {
         "name": "Fendi Gucci Vuitton",
@@ -375,6 +391,50 @@
       "duration_ms": 169218,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg"
+    },
+    {
+      "added_at": "2023-06-12 00:33:30",
+      "album": {
+        "name": "Where You Are (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 282375,
+      "name": "Where You Are - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
+    },
+    {
+      "added_at": "2023-06-12 00:21:14",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/0K8ZNj9YbH2BGFtQD4uUW7"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Birds",
+          "url": "https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U"
+        },
+        {
+          "name": "Seb Todd",
+          "url": "https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2Li8oPaDeGowwaKK3lXoYf"
     },
     {
       "added_at": "2023-06-08 23:09:22",

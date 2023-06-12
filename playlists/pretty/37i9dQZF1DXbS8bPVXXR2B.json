@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 207242,
+  "num_followers": 207370,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjg5MTEyNjcwOWZmNWZjNTljZGNmNjEwZjA1OGM3NDgzY2NmNDYw",
+  "snapshot_id": "MCwwNDRjYjMwNmRkOWY5NDBlMWU4Njc2YjZhNWQ5N2RlYTJlOGVjMGRi",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Jazz",
         "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 479629,
       "name": "Aaj Shanibar",
       "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Summertime Groove",
-        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
-      },
-      "artists": [
-        {
-          "name": "Bohannon",
-          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
-        }
-      ],
-      "duration_ms": 352106,
-      "name": "Let's Start The Dance",
-      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Funk / Soul / Disco",
         "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 177653,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Summertime Groove",
+        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
+      },
+      "artists": [
+        {
+          "name": "Bohannon",
+          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
+        }
+      ],
+      "duration_ms": 352106,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 587050,
       "name": "Heartbeat - Club Mix",
       "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

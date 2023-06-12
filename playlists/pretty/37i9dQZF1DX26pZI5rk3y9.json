@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5504,
+  "num_followers": 5530,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWM2NjQ2NjljNjM1MmFiYmFkYWM4ZmQwYmRmMmMyYzQ2MjliYTU1",
+  "snapshot_id": "MCxiMmE0YTdlODNlM2E5OGQ2NGUwYzVhNzFhYzA4Y2U3OWFjMWE5MTk1",
   "tracks": [
     {
       "added_at": "2023-06-09 15:02:31",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Deal With the Devil (You'll Get Yours)",
         "url": "https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2"
       },
@@ -259,34 +275,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+        "name": "Eric (Long Live The King)",
+        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Chrysomallousa",
-        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
-      },
-      "artists": [
+          "name": "Jack Biilmann",
+          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
+        },
         {
-          "name": "Demetris Mesimeris",
-          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
+          "name": "The Black Tide",
+          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
         }
       ],
-      "duration_ms": 219954,
-      "name": "Chrysomallousa",
-      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+      "duration_ms": 204666,
+      "name": "Eric (Long Live The King)",
+      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -307,22 +311,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Eric (Long Live The King)",
-        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
+        "name": "Chrysomallousa",
+        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
       },
       "artists": [
         {
-          "name": "Jack Biilmann",
-          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
-        },
-        {
-          "name": "The Black Tide",
-          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
+          "name": "Demetris Mesimeris",
+          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Eric (Long Live The King)",
-      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+      "duration_ms": 219954,
+      "name": "Chrysomallousa",
+      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
-      },
-      "artists": [
-        {
-          "name": "Handsome Jack",
-          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
       },
@@ -439,18 +423,34 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
       },
       "artists": [
         {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+          "name": "Handsome Jack",
+          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
         }
       ],
-      "duration_ms": 248555,
-      "name": "Can Opener",
-      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
+      "duration_ms": 214666,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -467,6 +467,22 @@
       "duration_ms": 235573,
       "name": "Good Love Goes Bad",
       "url": "https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Can Opener",
+      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Done Cryin'",
-      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "So Free",
         "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 277904,
-      "name": "Gimme Your Love",
-      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 277904,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Cassanova Kirk Daniel",
         "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
       },
       "artists": [
         {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
         }
       ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
       "artists": [
         {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
         }
       ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-06-09 15:02:31",

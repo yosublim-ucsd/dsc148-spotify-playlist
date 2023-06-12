@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 139129,
       "name": "Quiero Que Me Digas Cuando",
       "url": "https://open.spotify.com/track/0QxUOvVy6FqHdJhcW644P6"
@@ -1242,6 +1242,28 @@
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
+    },
+    {
+      "album": {
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "Vamos A Olvidarnos De Ella",
+      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
     },
     {
       "album": {

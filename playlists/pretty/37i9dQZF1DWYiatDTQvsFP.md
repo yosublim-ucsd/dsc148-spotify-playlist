@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈️  cover: Ja Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,174 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,690 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 99 | [Diana \(feat\. King Combs\)](https://open.spotify.com/track/4Tc9PHEoeP17PQj3OOKXPu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:08 |
 | 100 | [90's Love](https://open.spotify.com/track/6izMYA7zfbugQijioqoUIi) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [90's Love](https://open.spotify.com/album/2Hk0ZF1VM15CuaN2f8aWbF) | 3:27 |
 
-Snapshot ID: `MCxmMzMxNTg0OWU3NGM5ZTI5NDRjYWE0M2YwOTNlYzVkY2FiOWNlYWNh`
+Snapshot ID: `MCw0MDFmZmFkN2ZiMWNjODVlZWY3ZjVjNWY3Y2E4MTExZDQ2MTQ0YWI2`

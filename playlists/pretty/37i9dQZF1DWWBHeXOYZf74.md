@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,129 likes - 110 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,109 likes - 110 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 109 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 |
 | 110 | [VEHICLE](https://open.spotify.com/track/5jMUso85VnswHLihS6g6Pb) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [VEHICLE](https://open.spotify.com/album/1nYiFTWWqYA10ynJgbm7Rl) | 2:49 |
 
-Snapshot ID: `MCw2MDUyOWVlNjA3MTIwN2Q4ZDFkYzc4YmRjMjNkNjQwMmVhZWRmNWJm`
+Snapshot ID: `MCw2Nzk0ZWUzODhlYzI2NzUyYjFlZmVlNTlmNjQwYTQ0MGQ4M2Q3MzUy`

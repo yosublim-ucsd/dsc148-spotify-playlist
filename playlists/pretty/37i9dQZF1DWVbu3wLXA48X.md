@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Christine and the Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,895 likes - 74 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,899 likes - 74 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 73 | [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 |
 | 74 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 |
 
-Snapshot ID: `MCxiZDNmOTk3MDFmMjQ0N2VjZjFmZjkyMzE0Y2FiMWQzZDI3OWI3ZjQ4`
+Snapshot ID: `MCwzOWVmNzlhNjRiOTY4YzRhZTllOTgwZDMzMDJiMzBhZWQ2NTIxN2Rm`

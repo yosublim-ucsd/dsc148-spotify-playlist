@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Joyner Lucas, City Girls, and more\. Cover: Central Cee & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,588 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,659 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 |
 | 49 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 |
 
-Snapshot ID: `MCw3ODljMDZjNzAwMDUzYmVlMDg0NmU3NmE4MzY1ZmU3NTkzZDcyYTQ4`
+Snapshot ID: `MCxhNjkyZTlkMzllOGUyODI1MTQ2YzIxYjUzNTRjOWE0ZTJiM2RhZmM0`

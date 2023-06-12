@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,296 songs - 5 day 11 hr 40 min
+2,297 songs - 5 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [Fighter Jet](https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fighter Jet](https://open.spotify.com/album/7Anb3I5lyViWJDxoXvt9B7) | 2:44 | 2022-08-12 | 2022-08-28 |
 | [Fighting Words](https://open.spotify.com/track/2F8BREdlqWzj0ObIvaKGVo) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Phenom](https://open.spotify.com/album/7AyAh6GetkgZlQoopfmgBf) | 2:24 | 2020-08-22 | 2020-09-04 |
 | [finally \- Radio Edit](https://open.spotify.com/track/31MBBTNAAVpcJNEmVmVbUk) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [finally](https://open.spotify.com/album/47OzYay0e5CD29sxi0HePY) | 2:17 | 2022-04-08 | 2022-05-13 |
+| [Find A Way](https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE) | [Tm2 Ent Presents Nani Babbey](https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX) | [Find A Way](https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8) | 3:06 | 2023-06-11 |  |
 | [Find A Way \(feat\. Lil Baby\)](https://open.spotify.com/track/292NnHERQgizPvOY3pCEPK) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:17 | 2021-07-11 |  |
 | [Finding Friends](https://open.spotify.com/track/3VsSoZQqBL1rQS4qpo8BaJ) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Finding Friends](https://open.spotify.com/album/5cpdeK47tNjNYBGgCZB2ol) | 3:03 | 2022-09-16 | 2022-10-04 |
 | [Finding Home](https://open.spotify.com/track/6SeoZNOlp8yEppdCwL5JX5) | [Hak Black](https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4) | [Finding Home](https://open.spotify.com/album/0ThydTtBVa0Eb3D6mVAqUw) | 3:23 | 2022-10-04 | 2022-10-29 |

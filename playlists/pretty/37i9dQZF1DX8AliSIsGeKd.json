@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Stephan Jolk, braev",
-  "num_followers": 593212,
+  "num_followers": 593357,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzdiZTUxNjkxZTc4ZmZkODQ1NWRjNjM2NGYxYWQxYTk5ZjYyNjAw",
+  "snapshot_id": "MCwxZWMxYTQzMjIyNTk2ODhkY2U1OTcyNzY3Y2I5ZGMwYTE1NDI1YjIx",
   "tracks": [
     {
       "added_at": "2023-06-09 00:00:00",
@@ -667,7 +667,7 @@
     {
       "added_at": "2023-06-09 00:00:00",
       "album": {
-        "name": "When the Party Ends (Jennifer Cardini Remix)",
+        "name": "When the Party Ends (Jennifer Cardini & Damon Jee Remix)",
         "url": "https://open.spotify.com/album/3LyYqJbFqXDsOGgj1zrS4z"
       },
       "artists": [
@@ -678,10 +678,14 @@
         {
           "name": "Jennifer Cardini",
           "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        },
+        {
+          "name": "Damon Jee",
+          "url": "https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d"
         }
       ],
       "duration_ms": 369263,
-      "name": "When the Party Ends - Jennifer Cardini Remix",
+      "name": "When the Party Ends - Jennifer Cardini & Damon Jee Remix",
       "url": "https://open.spotify.com/track/4uSI8eRUAV0sjDaHe4uIl8"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 111616,
+  "num_followers": 111664,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWRlYjU3ZWI1OWJmZTU3ZWJmYWU0MDk5N2YwNmMxZTVjODYzOGNi",
+  "snapshot_id": "MCw0MmM4Njc1OGZmNTdiMzc0OWFlYzJiZGIyYjQzMTQ2YTk3ODNmMjQy",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Armon\u00eda",
-        "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "Armon\u00eda",
-      "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 234042,
       "name": "Soy Tu Padre",
       "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Armon\u00eda",
+        "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 175456,
+      "name": "Armon\u00eda",
+      "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "De Todo Un Poco",
+        "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Rumbarengue",
+      "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 170614,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "De Todo Un Poco",
-        "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Rumbarengue",
-      "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -447,6 +447,22 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -523,22 +539,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Hoy Ver\u00e9 Su Gloria",
         "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
       },
       "artists": [
         {
-          "name": "Robert Felix",
-          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Por Un Minuto Tu Presencia",
-      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+          "name": "Robert Felix",
+          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+      "duration_ms": 227520,
+      "name": "Por Un Minuto Tu Presencia",
+      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -691,6 +691,22 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -759,54 +775,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Cambio de Plan",
-        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "Cambio de Plan",
-      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
-      },
-      "artists": [
-        {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -827,6 +795,38 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Cambio de Plan",
+        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Cambio de Plan",
+      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "En Accion",
         "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 210964,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 232360,
       "name": "Le Llaman Jesus",
       "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Poniendo el Estilo",
+        "url": "https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Bless",
+          "url": "https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv"
+        }
+      ],
+      "duration_ms": 258504,
+      "name": "Poniendo el Estilo",
+      "url": "https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5"
     }
   ],
   "unique_name": "Baila Con Dios",

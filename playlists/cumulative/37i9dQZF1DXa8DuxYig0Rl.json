@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
+      },
+      "artists": [
+        {
+          "name": "Ana Mar\u00eda Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141640,
+      "name": "Espinita",
+      "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
+    },
+    {
+      "album": {
         "name": "La M\u00fasica en la Radio",
         "url": "https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 141946,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw"

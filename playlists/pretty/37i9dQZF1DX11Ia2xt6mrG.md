@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Nortec: Bostich + Fussible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,505 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,513 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 39 | [Desconocidos](https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6) | [SBM](https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Desconocidos](https://open.spotify.com/album/0f26pWyvXwc0gP6qdBRjWD) | 2:45 |
 | 40 | [Playa](https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p) | [Playa](https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH) | 2:48 |
 | 41 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1) | 3:29 |
-| 42 | [In Your Arms](https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [ML3NNON](https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [In Your Arms](https://open.spotify.com/album/19068iWscfCtBIkmza7Mur) | 2:34 |
-| 43 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 |
+| 42 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 |
+| 43 | [In Your Arms](https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [ML3NNON](https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [In Your Arms](https://open.spotify.com/album/19068iWscfCtBIkmza7Mur) | 2:34 |
 | 44 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
 | 45 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:42 |
-| 46 | [FUEL](https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [ENCORE](https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT) | 2:01 |
-| 47 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
+| 46 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
+| 47 | [FUEL](https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [ENCORE](https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT) | 2:01 |
 | 48 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |
 | 49 | [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 |
 | 50 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 75 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 | 76 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |
 
-Snapshot ID: `MCw5NWJiZmU1ZDMxYmJlNGQ2OGEwMGIzZWY2YTZiOGE3YzU1MGE1ODkw`
+Snapshot ID: `MCxjYjFkYWY2MzllZGYwOTQ3YTA1NDg5MDlhMWM0MzZlNmNkNjI1ZWYw`

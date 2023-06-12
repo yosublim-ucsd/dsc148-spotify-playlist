@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 57241,
+  "num_followers": 57262,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTQyYjQ5YWIyZDNkNDE2OTlkMzQ5ZmI2N2FjNDJlMmY1YWQyODBi",
+  "snapshot_id": "MCw5N2M2NmJiODNhMTg4MmZkYzY0YTY2ZWI1Yzk1NGY3MTA2YzRlZDNi",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 361160,
-      "name": "Blurred - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Atlas (Remixes)",
         "url": "https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 361160,
+      "name": "Blurred - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,583 likes - 120 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,605 likes - 120 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 33 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 34 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
 | 35 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
-| 36 | [Don't Drop Dead](https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Don't Drop Dead](https://open.spotify.com/album/79o2wihQ10jYJ1POc2z8Mq) | 4:11 |
+| 36 | [Don't Drop Dead](https://open.spotify.com/track/1O72TP7NaHxageyDGhE4Cw) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 4:11 |
 | 37 | [Dread](https://open.spotify.com/track/2hm9icGTG6REAiJ6NAqhCF) | [Shoko Igarashi](https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK) | [Dread](https://open.spotify.com/album/2WXFVUxSMjyScjjrtYqknh) | 4:20 |
 | 38 | [Tokyo Flower](https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Tokyo Flower](https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6) | 4:18 |
 | 39 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 119 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 120 | [Ase \- DJ Shu\-Ma Radio Edit](https://open.spotify.com/track/71xNovSBAgBx9fv0J8SP7P) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Motoharu](https://open.spotify.com/artist/04CqkEZiDoI9li9KATOyFX), [DJ Shu\-Ma](https://open.spotify.com/artist/0eoXzMplwSO3hHkf7rhqds) | [Ase Remixes](https://open.spotify.com/album/7IbX83cAoDuOn8yMeeR7pl) | 4:49 |
 
-Snapshot ID: `MCxjMDU0NjEwMWZkNTg4OGU0YmMxM2RhYzIxZWRmYjdkMGEwMDEzNzY3`
+Snapshot ID: `MCwwN2NkNjNjZDNiMjExNmEzNmMyM2UzZTgzN2RlY2RkNjY1NDgxMDRi`

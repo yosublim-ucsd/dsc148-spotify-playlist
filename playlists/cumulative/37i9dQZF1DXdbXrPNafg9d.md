@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Christine & The Queens
 
-5,395 songs - 13 day 4 hr 0 min
+5,396 songs - 13 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5051,7 +5051,8 @@
 | [Waste My Time](https://open.spotify.com/track/4Zkb4kpHsK9UTnOyze1yCZ) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [Waste My Time / Off Today](https://open.spotify.com/album/1CYTGojin5v6oKAIcwPetZ) | 3:28 | 2020-04-10 | 2020-05-15 |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-22 | 2022-09-03 |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2020-08-21 | 2020-09-25 |
-| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 | 2023-05-12 |  |
+| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/1KoXCDxNahXOl7Tvtm9rlF) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 4:54 | 2023-05-12 |  |
+| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 | 2023-05-12 | 2023-06-12 |
 | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/track/1tfPHG8x4FHKQ2kTVPp6lS) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/album/3YbyEgS5rdb6WVzAbA7sQr) | 5:00 | 2020-11-06 | 2020-12-04 |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 | 2023-01-14 |
 | [Wasted Time](https://open.spotify.com/track/0rlonE9cFsQJUofKngLbzk) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/7dC882FIaYsSL0Xr8IWOZY) | 3:05 | 2019-10-04 | 2019-11-22 |

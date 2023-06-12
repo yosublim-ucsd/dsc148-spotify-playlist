@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 52 | [Change My Mind](https://open.spotify.com/track/6kU61vxWjXCb8hxJQm16j7) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:01 |
 | 53 | [Hey Nice To Know Ya](https://open.spotify.com/track/46oEi1KC1eNDyNdCbGdZ1d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:24 |
 | 54 | [Special](https://open.spotify.com/track/5BmFkMlzo74gvl4h1dObB9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:21 |
-| 55 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 |
-| 56 | [Fighting with Myself \- Live](https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:36 |
+| 55 | [Fighting with Myself \- Live](https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:36 |
+| 56 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 |
 | 57 | [Magic](https://open.spotify.com/track/3LJaFfGJSxqanKkgEUXuPy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:05 |
 | 58 | [Broken Vow](https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [The Best Of..\. So Far \(Deluxe\)](https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK) | 4:26 |
 | 59 | [I'll Do It](https://open.spotify.com/track/54TtC7panYEEymLPoHZI1X) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [I'll Do It](https://open.spotify.com/album/5qmrI4QzGtnHZ82fIFD3MZ) | 3:33 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgxMDc0ODEsMDAwMDAwMDBkMzkyYmMwNjdmZDJkNzQyYjE0NDIwZDIzNjJhNTliNA==`
+Snapshot ID: `MjgxMDg5MjEsMDAwMDAwMDBkMTVkZjdhYjIxNjJhM2RjYzA2Y2RlYmU5ZjhjZDgzZg==`

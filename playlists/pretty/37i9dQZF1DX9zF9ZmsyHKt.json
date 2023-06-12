@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 324017,
+  "num_followers": 324066,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjIyNDRhNWQ2YWUxNDJlNWU3ZGJjNGJmNzkwYjE1MzhmNDM1Njky",
+  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -91,26 +91,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Mania De Voc\u00ea",
-      "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Mania De Voc\u00ea",
+      "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 223266,
       "name": "Andan\u00e7a",
       "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Psiu",
-        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
         }
       ],
-      "duration_ms": 297128,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -859,18 +859,34 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+        "name": "Psiu",
+        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
       },
       "artists": [
         {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+      "duration_ms": 297128,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Frevo Mulher",
+        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
+      },
+      "artists": [
+        {
+          "name": "Amelinha",
+          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Frevo Mulher",
+      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -891,22 +907,6 @@
       "duration_ms": 181413,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Frevo Mulher",
-        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
-      },
-      "artists": [
-        {
-          "name": "Amelinha",
-          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Frevo Mulher",
-      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
-      },
-      "artists": [
-        {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
-        }
-      ],
-      "duration_ms": 321647,
-      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 252373,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+      },
+      "artists": [
+        {
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+        }
+      ],
+      "duration_ms": 321647,
+      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Nobre Vagabundo",
-      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232361,
-      "name": "Essa Vista",
-      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Hitz\u00e3o da Porra",
         "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 201840,
       "name": "\u00c9 Isso A\u00ed",
       "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 232361,
+      "name": "Essa Vista",
+      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
     }
   ],
   "unique_name": "Escuta as Minas",

@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141519,
+  "num_followers": 141526,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWI0ZTUyNWQ2ZDVjMDJhMDZlMGNjZTgwZjMyYjVkYjdjN2U4ODFk",
+  "snapshot_id": "MCwyYzk2MTMwMzAxZTljN2E5MzU2NmQxM2Y0OGNmNjIzMWQxOTU1YTQ4",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 185226,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
     },
     {
       "added_at": "2021-04-26 16:53:52",

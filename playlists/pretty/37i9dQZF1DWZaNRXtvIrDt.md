@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,127 likes - 76 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,126 likes - 76 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 57 | [Planet Waves](https://open.spotify.com/track/2Wpc7khFsHEGGbnLdwrwmM) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Planet Waves](https://open.spotify.com/album/0nDbj8c9TZXVK4T96pFW1I) | 6:27 |
 | 58 | [Single Breath](https://open.spotify.com/track/5DOMFonuoyCcfnEojseB9B) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [BODYHI02](https://open.spotify.com/album/7hZbpy49j5LxG8Q7C8HL4b) | 6:44 |
 | 59 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
-| 60 | [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 |
+| 60 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 61 | [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 |
 | 62 | [4 My Ladies](https://open.spotify.com/track/2anqDovtfF9nE8gnRQh4Do) | [Lex](https://open.spotify.com/artist/0oI3w63aSJPWFVS5tPFP7g) | [2kisses \- EP](https://open.spotify.com/album/4MXJZcuH5OeriwyRgvtFJa) | 4:46 |
 | 63 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 75 | [Bleached](https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Kreuzberg Kix EP 2](https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi) | 5:33 |
 | 76 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 
-Snapshot ID: `MCw2NTdiMjBhYmE4OTI5YzYyNTdlNzc3YmVmMzZmYTQyODM3NDVjYjBl`
+Snapshot ID: `MCw2NGU5NGVmY2Q0NWExYzNhMDY1NTQ4YzI0YzBjMTk3M2I4ZmM1OGUz`

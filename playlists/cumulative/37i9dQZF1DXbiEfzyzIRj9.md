@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
 
-253 songs - 18 hr 38 min
+254 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Domenico](https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Domenico](https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne) | 4:58 | 2023-03-16 |  |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-06-09 |  |
 | [Don't Break My Heart](https://open.spotify.com/track/4FlUR0F8qDcCJoppxn4UFZ) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Break My Heart](https://open.spotify.com/album/00aSM0hWFLEe2wFZ3LiPxn) | 3:47 | 2023-03-16 | 2023-03-31 |
-| [Don't Drop Dead](https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Don't Drop Dead](https://open.spotify.com/album/79o2wihQ10jYJ1POc2z8Mq) | 4:11 | 2023-05-11 |  |
+| [Don't Drop Dead](https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Don't Drop Dead](https://open.spotify.com/album/79o2wihQ10jYJ1POc2z8Mq) | 4:11 | 2023-05-11 | 2023-06-12 |
+| [Don't Drop Dead](https://open.spotify.com/track/1O72TP7NaHxageyDGhE4Cw) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 4:11 | 2023-06-09 |  |
 | [Don't Hurt Me](https://open.spotify.com/track/2NdCMXN5d7zVIwgaARacmy) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [All Thru The Night \(Locked On Vol 4\)](https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE) | 3:31 | 2023-06-09 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2023-03-16 | 2023-03-21 |
 | [Don't Live in Oblivion, It's Cold Down There](https://open.spotify.com/track/4OdYcHs1SNceLXslZSPXuW) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Don't Live In Oblivion, It's Cold Down There](https://open.spotify.com/album/7aGJzgabsr8GFl0MhQL6Uj) | 3:35 | 2023-05-04 | 2023-06-09 |

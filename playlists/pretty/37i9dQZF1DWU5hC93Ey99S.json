@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 12487,
+  "num_followers": 12505,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTZlODhiNTMyYjU0NDg2MDYwMTk2YWQwMGE1NzVlZGJlMDRhNTRj",
+  "snapshot_id": "MCwyNzU0NGFhMTVkZGY4ZmI0Y2Y5MzE5NTk2NjUwMTdlYjRlODk0MjAw",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Paperplanes",
+        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 210234,
+      "name": "Paperplanes",
+      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Breaking Apart",
         "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Paperplanes",
-        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 210234,
-      "name": "Paperplanes",
-      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1055,6 +1055,54 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Kezano",
+          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
+        }
+      ],
+      "duration_ms": 136097,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Say Yes To Heaven (sim0ne & Melo Nada Remix)",
+        "url": "https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
+        },
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        }
+      ],
+      "duration_ms": 253981,
+      "name": "Say Yes To Heaven - sim0ne & Melo Nada Remix",
+      "url": "https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Run Till Dark (with Now United) (Arcando Remix)",
         "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
@@ -1091,46 +1139,6 @@
       "duration_ms": 308571,
       "name": "I Will",
       "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Kezano",
-          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
-        }
-      ],
-      "duration_ms": 136097,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
-      },
-      "artists": [
-        {
-          "name": "Alxboiiz",
-          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1175,6 +1183,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
+      },
+      "artists": [
+        {
+          "name": "Alxboiiz",
+          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 211024,
       "name": "Her",
       "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Say Yes To Heaven (sim0ne & Melo Nada Remix)",
-        "url": "https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "sim0ne",
-          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
-        },
-        {
-          "name": "Melo Nada",
-          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
-        }
-      ],
-      "duration_ms": 253981,
-      "name": "Say Yes To Heaven - sim0ne & Melo Nada Remix",
-      "url": "https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Nothing Is Easy EP",
-        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 191328,
-      "name": "Nothing Is Easy",
-      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 123488,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Nothing Is Easy EP",
+        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 191328,
+      "name": "Nothing Is Easy",
+      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1299,6 +1299,22 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Loved Ones",
+        "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Loved Ones",
-        "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
-      },
-      "artists": [
-        {
-          "name": "Alex Adair",
-          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Loved Ones",
-      "url": "https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "BADDER",
         "url": "https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe"
       },
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 230074,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Esther (Duskus Romantic Edit)",
         "url": "https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 183440,
       "name": "Esther - Duskus Romantic Edit",
       "url": "https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "talk",
-        "url": "https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF"
-      },
-      "artists": [
-        {
-          "name": "henri",
-          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
-        }
-      ],
-      "duration_ms": 190281,
-      "name": "talk",
-      "url": "https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1467,6 +1467,22 @@
       "duration_ms": 136721,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "talk",
+        "url": "https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "duration_ms": 190281,
+      "name": "talk",
+      "url": "https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1539,6 +1555,26 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Looking Down From Space",
+        "url": "https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "duration_ms": 248955,
+      "name": "Looking Down From Space",
+      "url": "https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF"
       },
@@ -1599,26 +1635,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Looking Down From Space",
-        "url": "https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI"
-      },
-      "artists": [
-        {
-          "name": "OTR",
-          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
-        }
-      ],
-      "duration_ms": 248955,
-      "name": "Looking Down From Space",
-      "url": "https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Need Somebody (Icarus Remix)",
         "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 230074,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "\u00e9xtasis",
         "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
       },
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "notice",
+        "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
+      },
+      "artists": [
+        {
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+        }
+      ],
+      "duration_ms": 155165,
+      "name": "notice",
+      "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "notice",
-        "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
-      },
-      "artists": [
-        {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
-        }
-      ],
-      "duration_ms": 155165,
-      "name": "notice",
-      "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7ByGfr10et7e5vZxGUVrlO"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 220000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4R6XSF33V92Cgqs038Ugcy"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 276367,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "just alone",
-        "url": "https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
       },
       "artists": [
         {
-          "name": "heartaake",
-          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 146506,
-      "name": "just alone",
-      "url": "https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy"
+      "duration_ms": 276367,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -1839,6 +1823,22 @@
       "duration_ms": 207538,
       "name": "U (feat. BRONZE AVERY)",
       "url": "https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "just alone",
+        "url": "https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "just alone",
+      "url": "https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy"
     }
   ],
   "unique_name": "Emotional Dance",

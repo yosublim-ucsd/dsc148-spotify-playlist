@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 25197,
+  "num_followers": 25241,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTFjM2I2NTEzNmQ3MGIzYmJjMWY1MTZiNTJmMjY4OTI2OWM1NDll",
+  "snapshot_id": "MCxlYWI3ZmFlMjVmNzBiNmFmMjAyNDVhNmI2ZDFmNmY4NzkwZTI1NzBl",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
+      },
+      "artists": [
+        {
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
+        }
+      ],
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "New Orleans Piano Professor",
         "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
-      },
-      "artists": [
-        {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 246266,
       "name": "If I Hadn't Been High",
       "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "The Blues Singer",
+        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Some Nerve",
+      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
         "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 344440,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Blues Singer",
-        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Some Nerve",
-      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
     },
     {
       "added_at": "2022-05-13 10:49:08",

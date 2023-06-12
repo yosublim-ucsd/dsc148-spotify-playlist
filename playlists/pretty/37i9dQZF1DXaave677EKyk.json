@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 24682,
+  "num_followers": 24693,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjY3ZDI1N2U1MzhjZWU1MjYxZmFhYmE3MGNkNGJiMTkzMjdlMzI2",
+  "snapshot_id": "MCw0MTNhY2E3ZmFkYmI5MGYzYzkyZDJjYTZlZDQ5NzM3NTU1MGE4OTZm",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -175,18 +175,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/4xb0NhEvmO2m5YV1sxzTmH"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 159916,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/4sr6SwiKaIc6z90KEPKmzR"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "It's Your Time",
         "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 186659,
       "name": "It's Your Time",
       "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/4xb0NhEvmO2m5YV1sxzTmH"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 159916,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/4sr6SwiKaIc6z90KEPKmzR"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Don\u2019t Walk Away",
         "url": "https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 250080,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/6hj2GEXUPrHo86Ga9qfMkS"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb"
     },
     {
       "added_at": "2023-06-02 15:32:09",

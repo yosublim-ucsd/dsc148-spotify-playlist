@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KyoungSeo(\uacbd\uc11c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 213538,
+  "num_followers": 213554,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmI1NmFlMTA5MWVmMzAwMmQ4NGIyMzdjNDAzZDNjY2VkOGIxNDZh",
+  "snapshot_id": "MCxiYjQ4NDczZGMwMDBiNzE3ZGYxODllMjEyZGJkMTQ2ODExNmRlZTQ5",
   "tracks": [
     {
       "added_at": "2023-06-01 15:03:19",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "COLORFUL TRAUMA",
-        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I hate you",
-      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+        "name": "COLORFUL TRAUMA",
+        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+      "duration_ms": 190000,
+      "name": "I hate you",
+      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 180213,
       "name": "Moonshot",
       "url": "https://open.spotify.com/track/17wECh3CzqeHm48pqm544P"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "NINE.i The 2nd Mini Album [I (Part.1)]",
-        "url": "https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ"
-      },
-      "artists": [
-        {
-          "name": "NINE.i",
-          "url": "https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Young Boy",
-      "url": "https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 875811,
+  "num_followers": 876694,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDA4ZjVlMzRhMGY1NzNjY2RlN2U2YTY2MTE5NTc3NzU4MTFmMzZl",
+  "snapshot_id": "MCw0OTgzZWUyYTdhOWY4MWMxMTBhYjIxNDkyMzhiYWExMDAzM2Q3MjRl",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "Freddie's Inferno - Ghost Slowed",
-        "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "OG Ron C",
-          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Limbo - Ghost Slowed",
-      "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
+        "name": "Freddie's Inferno - Ghost Slowed",
+        "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Limbo - Ghost Slowed",
+      "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
     },
     {
       "added_at": "2023-06-01 19:04:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,586 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,754 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [mint](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd) | [paranoid](https://open.spotify.com/album/6ifk66PjfkFLOV76nDFU6O) | 2:37 |
 | 100 | [with my eyes](https://open.spotify.com/track/50MNRG3QscZOkJcOApElDe) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [with my eyes](https://open.spotify.com/album/1bEZAzce2li8Kiwh5uqyCO) | 2:15 |
 
-Snapshot ID: `MCxkOTUyODdiNDMxYmI4YmVlODMwYWRlMDU5OTAzYTU0NTdkYzQ3ZTZh`
+Snapshot ID: `MCwxNWFmYTI2M2QxODUzZDA0NzcxNTA5YTQ5YmNiMTI2NGJiY2VhYTA4`

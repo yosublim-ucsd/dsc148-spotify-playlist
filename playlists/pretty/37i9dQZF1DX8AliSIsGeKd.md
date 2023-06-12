@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stephan Jolk, braev
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,212 likes - 88 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,357 likes - 88 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 34 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 |
 | 35 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 |
 | 36 | [Intelli](https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Unknown Memories](https://open.spotify.com/album/7nFASYumUoZr10jLO1jald) | 5:57 |
-| 37 | [When the Party Ends \- Jennifer Cardini Remix](https://open.spotify.com/track/4uSI8eRUAV0sjDaHe4uIl8) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [When the Party Ends \(Jennifer Cardini Remix\)](https://open.spotify.com/album/3LyYqJbFqXDsOGgj1zrS4z) | 6:09 |
+| 37 | [When the Party Ends \- Jennifer Cardini & Damon Jee Remix](https://open.spotify.com/track/4uSI8eRUAV0sjDaHe4uIl8) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [When the Party Ends \(Jennifer Cardini & Damon Jee Remix\)](https://open.spotify.com/album/3LyYqJbFqXDsOGgj1zrS4z) | 6:09 |
 | 38 | [Waiting](https://open.spotify.com/track/0e715q7SEY3xVhS4GdDOBw) | [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [Waiting](https://open.spotify.com/album/3hyPb8MxlWNdRABvcmFOdH) | 6:55 |
 | 39 | [Phynk](https://open.spotify.com/track/74yu25QGFZf2zjak1njPB3) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Phynk](https://open.spotify.com/album/2gMJYgRUxCsl3ZroxZ7yWU) | 6:46 |
 | 40 | [Actuary](https://open.spotify.com/track/4uIkywVDrXDXADvbyIt9Sd) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Actuary](https://open.spotify.com/album/72DzGSGjXc7b3doBvuw4Qh) | 5:52 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 |
 | 88 | [Ice Cream](https://open.spotify.com/track/2ftIFydkGPlHv982KWiyHf) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Ice Cream](https://open.spotify.com/album/6zUXUOaZwotqGoI7OvTYdx) | 5:05 |
 
-Snapshot ID: `MCwwYzdiZTUxNjkxZTc4ZmZkODQ1NWRjNjM2NGYxYWQxYTk5ZjYyNjAw`
+Snapshot ID: `MCwxZWMxYTQzMjIyNTk2ODhkY2U1OTcyNzY3Y2I5ZGMwYTE1NDI1YjIx`

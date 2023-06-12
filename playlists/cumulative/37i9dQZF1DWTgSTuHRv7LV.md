@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-544 songs - 1 day 6 hr 54 min
+545 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Escandalosos](https://open.spotify.com/track/4hZ4dGwBDqCDRWWlZ2D4jS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Escandalosos](https://open.spotify.com/album/2jpFtQY8a0vZ3q8j0mDs6r) | 3:19 | 2022-01-19 | 2022-05-14 |
 | [Estamos Arriba](https://open.spotify.com/track/4K5cnD7P21Ny0hvbFKXIBc) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Pa' la Calle](https://open.spotify.com/album/3VdE4tEwl2bs4IGjkshN0K) | 2:59 | 2022-01-19 | 2022-10-08 |
 | [ESTO ES ASI](https://open.spotify.com/track/1DPQYKIPFXnn1Z82WoFECu) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CINEMA](https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL) | 2:29 | 2022-01-19 | 2022-10-08 |
+| [Eternamente](https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Eternamente](https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG) | 4:03 | 2023-06-09 |  |
 | [EXCE$OS](https://open.spotify.com/track/4PYAx3eimCXOxsx7aVdMEP) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [FLYHOUSE](https://open.spotify.com/album/62tX9heOl30wrHisOiL1FU) | 3:07 | 2022-10-07 | 2022-12-10 |
 | [Explicita](https://open.spotify.com/track/2E3XW68AKV6tVB5Jr1OQJ9) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp) | [Explicita](https://open.spotify.com/album/3LtFl0dohF761jukARAR5L) | 3:09 | 2022-10-07 | 2023-05-27 |
 | [Fact Check](https://open.spotify.com/track/50pJ9NlpHyeVTimMq4OSQ5) | [SUPIČIĆ](https://open.spotify.com/artist/6nmMdJBINPKVDb4kCCbQyU), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Supi World](https://open.spotify.com/album/5xq7o3tI8UAnZQF3oI8SUS) | 3:31 | 2022-10-07 | 2022-12-10 |
@@ -422,7 +423,7 @@
 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 | 2023-05-26 |  |
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2022-01-19 | 2022-03-22 |
 | [Sauce Boy Freestyle 5](https://open.spotify.com/track/69L3B6ZuwodK4NL8bAPgJc) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:56 | 2022-01-06 | 2023-05-27 |
-| [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-12-09 |  |
+| [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-12-09 | 2023-06-12 |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-06 | 2022-01-20 |
 | [Se Terminó](https://open.spotify.com/track/6A960m4WHVWnraFxdKl79g) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Se Terminó](https://open.spotify.com/album/1xKVcal5ESjPnMmJGA88Mr) | 3:27 | 2022-01-06 | 2022-01-19 |
 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-10-07 |  |

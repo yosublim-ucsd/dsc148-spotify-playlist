@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!70\u5e74\u4ee3 DISCO",
+        "url": "https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u"
+    },
+    {
+      "album": {
         "name": "'80s Pop #1's",
         "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
       },
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 211253,
       "name": "Oh La La La",
       "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"

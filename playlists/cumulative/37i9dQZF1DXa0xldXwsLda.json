@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 159840,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh"
@@ -1478,6 +1478,24 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
+    },
+    {
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U"
     },
     {
       "album": {

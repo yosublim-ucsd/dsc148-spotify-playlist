@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 48815,
+  "num_followers": 48863,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmJjN2JlYTkxMGM4OTdhNmE2MGViNmE4MTIzODQ0N2Q3MTM0YTRl",
+  "snapshot_id": "MCwzNTJlMDczYTk1ZjE5NzIzOWRhZjMzMGFmY2UzZWViNjY5NzJhNWRj",
   "tracks": [
     {
       "added_at": "2023-05-08 08:07:09",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 550106,
-      "name": "Marhba / Gnawa Sidi Mimoun",
-      "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
         "name": "The Gnawa Caravan: Salt",
         "url": "https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 444786,
       "name": "Bambraka",
       "url": "https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 550106,
+      "name": "Marhba / Gnawa Sidi Mimoun",
+      "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -723,18 +723,22 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Oulad Lghaba",
+        "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
         }
       ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
+      "duration_ms": 337693,
+      "name": "Bala Yourki",
+      "url": "https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Oulad Lghaba",
-        "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Asmaa Hamzaoui",
-          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
-        },
-        {
-          "name": "Bnat Timbouktou",
-          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 337693,
-      "name": "Bala Yourki",
-      "url": "https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y"
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 375120,
-      "name": "Baba Arabi",
-      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
         "name": "Makenba",
         "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
       },
@@ -883,6 +867,30 @@
       "duration_ms": 474186,
       "name": "Ali ya ali",
       "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
+        "name": "Kalimba",
+        "url": "https://open.spotify.com/album/45kB4RCp3VGg3DZo3klaup"
+      },
+      "artists": [
+        {
+          "name": "Joachim K\u00fchn",
+          "url": "https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph"
+        },
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Ramon Lopez",
+          "url": "https://open.spotify.com/artist/2YGdXhpR7VkGHLHTA3x3GG"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Hamdouchi",
+      "url": "https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk"
     }
   ],
   "unique_name": "Gnawa Music",

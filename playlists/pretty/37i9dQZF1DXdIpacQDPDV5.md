@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,540 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,559 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 79 | [turn it all the way up](https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [turn it all the way up](https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX) | 2:36 |
 | 80 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 
-Snapshot ID: `MCwwMGIyYjUyN2Q5MTdkMzkxOWFjMTRjYTU3YzQ5NzcwZTRiZTNmNjY3`
+Snapshot ID: `MCxmM2Q4OWMyNmE2MDg3NDFjNzU4MWY3OGRhZDhlZDRmYmFjNDI2ODcw`

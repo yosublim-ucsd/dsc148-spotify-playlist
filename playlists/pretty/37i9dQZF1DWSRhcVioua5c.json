@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 61766,
+  "num_followers": 61814,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjJiMGI5NGI5MDZmNzg0MzkyMWVjYjk1NGMyMDFhNTUxNDViOWU5",
+  "snapshot_id": "MCw1MDRlMjVhMWJmOTZhZjhjMWY1NzVkMWI4ZjFlZTA0ZWJiZjE3MjJm",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -923,8 +923,8 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Los Del Portezuelo",
-        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Al So\u00f1arte",
-      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 249627,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 248240,
       "name": "No Dejare de Amarte",
       "url": "https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 249627,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
     },
     {
       "added_at": "2023-06-09 03:00:00",

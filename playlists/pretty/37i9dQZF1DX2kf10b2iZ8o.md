@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,762 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,778 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 72 | [ALL nOR NOTHING](https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx) | [Yukihiro Kamiya \(CV: Sho Karino\)](https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1), [Sora Kitamura \(CV: Fumiyoshi Shioya\)](https://open.spotify.com/artist/6O1CPJg7GuFx2XxkkhCpNI), [Hideo Akuno \(CV: Kentaro Kumagai\)](https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8), [Shoma Hanamura \(CV: Yutaka Balletta\)](https://open.spotify.com/artist/1cOxuGlbGgRBR8q3pcDJRo), [Natsuki Sakaki \(CV: Hiroshi Watanabe\)](https://open.spotify.com/artist/1ILdCr0TdH91xKLF4KNTDK), [Nao Okamura \(CV: Shogo Yano\)](https://open.spotify.com/artist/4ipiPcfgnexMaLOjj8K3mG) | [ALL nOR NOTHING](https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt) | 4:15 |
 | 73 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
 | 74 | [Toward Pole Star](https://open.spotify.com/track/3ttWXcnYMaTc5IUgRmQndI) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM GROWING SIGN@L 18](https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl) | 4:20 |
-| 75 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [Kaoru Sakuraba \(CV: Yuma Uchida\)](https://open.spotify.com/artist/4gi15MhB1b1G387qfQ53uM), [Genbu Kurono \(CV: Toshinari Fukamachi\)](https://open.spotify.com/artist/5IWvN4rKghEIbXWvjzp2aS), [Kazuki Tsukumo \(CV: Tatsuya Tokutake\)](https://open.spotify.com/artist/3c4wvFNvtX55OAP2E8ssYx) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 |
+| 75 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
 
-Snapshot ID: `MCxiODg5NDY5OGUzZGY3MmUwYzQxZDY0ZDc0ODA0ZDM1MTY4ZWMzYTk5`
+Snapshot ID: `MCxhNjZmNTllYmZmYTVmOWJiZDZhYjgyYzcxZjczYjVlMGM1OTM0YzBk`

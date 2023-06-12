@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,771 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,812 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 |
 | 100 | [deep end](https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [deep end](https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w) | 2:24 |
 
-Snapshot ID: `MCwxMjAyMTQ5OGYzMGZlOTI5MWRhOTdiZTNlYzVhMmM5M2VhMzM3YjE5`
+Snapshot ID: `MCxkODBkMWZkZDMyMDU2ZjhkNjJmZTA5YjBiOWQyZWUyZTU3YzZkMzMy`

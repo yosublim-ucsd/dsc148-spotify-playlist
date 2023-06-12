@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 26 min
+105 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bendito Destino](https://open.spotify.com/track/61dvkuoxkU2jmWZChXcKp5) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Bendito Destino](https://open.spotify.com/album/1qTfZSwtJ0U8kLDUGSvCuH) | 2:52 | 2023-01-08 |  |
 | [Canción A Mi Papá](https://open.spotify.com/track/0Ec1rgYW7VMIhSDIxoa5Di) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Canción A Mi Papá](https://open.spotify.com/album/7vRddwntQQ0bBBzreNKmFL) | 2:43 | 2022-07-31 | 2022-10-12 |
 | [Canción a Mi Papá](https://open.spotify.com/track/1yD07nDoSftuK04VdN1VXD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Canción a Mi Papá](https://open.spotify.com/album/4z8gWLTm7PUf8CmnLQ1pca) | 2:43 | 2022-06-08 | 2022-07-28 |
-| [Cien Mil Veces](https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:05 | 2023-06-06 |  |
+| [Cien Mil Veces](https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:05 | 2023-06-06 | 2023-06-12 |
 | [Como Si No Fuimos Nada](https://open.spotify.com/track/2BJlcaqAhnaTEmXPaQWaMe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:37 | 2022-09-04 | 2023-05-12 |
 | [Como Si No Fuimos Nada](https://open.spotify.com/track/4eSS6zVAfDwVchQYuZ8B7r) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Como Si No Fuimos Nada](https://open.spotify.com/album/7FbALC5f5pRWB0btE0RqVQ) | 3:37 | 2022-06-01 | 2022-09-05 |
 | [Cuantas Borracheras](https://open.spotify.com/track/2EagmrVEVsJr1xImVl6XiK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 3:02 | 2022-06-01 | 2022-07-14 |
@@ -78,6 +78,7 @@
 | [Me Pongo En Tu Lugar](https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:06 | 2022-12-10 |  |
 | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI) | 3:12 | 2022-10-15 | 2022-12-11 |
 | [Me Sigue Doliendo](https://open.spotify.com/track/5Mqqd14WL7mmJMLESWYNtX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Sigue Doliendo](https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi) | 3:47 | 2022-06-01 | 2022-11-03 |
+| [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 | 2023-06-11 |  |
 | [Mis 3 Animales](https://open.spotify.com/track/7C1XFjfirE8r7piaEagMVv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mis 3 Animales](https://open.spotify.com/album/3eE9FObDq5KK0QzSKAf2Bt) | 2:53 | 2022-10-12 | 2023-01-17 |
 | [Negrita Eae](https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Puro Mazatlán](https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46) | 2:59 | 2022-06-21 | 2022-10-13 |
 | [No Dejes Que](https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nos Vamos Juntos \- Un Tributo A Las Canciones De Caifanes Y Jaguares](https://open.spotify.com/album/2uk0BrQkXCpGFC0L4CQHVj) | 4:34 | 2022-06-04 | 2022-10-06 |

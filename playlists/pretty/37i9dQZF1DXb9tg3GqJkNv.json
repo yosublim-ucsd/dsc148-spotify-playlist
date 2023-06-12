@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Mindflip",
-  "num_followers": 5186,
+  "num_followers": 5210,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmRmNjhmNTJlZmNjYzg1YjgwNzNiY2ExMzZjMWEyYmU1Y2Q0ZTI1",
+  "snapshot_id": "MCw5NGIzMzRhNzNkYmI5YTBmOTY0Y2M2MDA5NTc2YjhiZDg4N2MzMjg4",
   "tracks": [
     {
       "added_at": "2023-06-08 21:37:02",
@@ -855,30 +855,6 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
-    },
-    {
-      "added_at": "2023-06-08 21:37:02",
-      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
+    },
+    {
+      "added_at": "2023-06-08 21:37:02",
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
     },
     {
       "added_at": "2023-06-08 21:37:02",

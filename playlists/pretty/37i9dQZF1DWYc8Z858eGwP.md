@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=QAhp5hzXS5Oa7NerqckO0w">Bloody Civilian </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,968 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,986 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 60 | [BECOME ONE](https://open.spotify.com/track/7LGZtDOrHuxikAW1ZCVFAu) | [Nicole Elocin](https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BECOME ONE](https://open.spotify.com/album/0BnMkwFk7lRK78gASQryUf) | 3:38 |
 
-Snapshot ID: `MCw5MTdmNjg3ZjNjYWVhMTdlNmY1OWM5NDBiYTg5OGJlNWM3YjJlZGQ4`
+Snapshot ID: `MCw2MjhkYzdjMmFiOWEyMGVkNjZiZWI5OWMxYWMzMjFiOWQ4ZWZiYjY2`

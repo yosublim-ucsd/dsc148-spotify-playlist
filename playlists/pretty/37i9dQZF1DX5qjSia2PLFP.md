@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=38d777c33e67427b">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,214 likes - 81 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,216 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 80 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 81 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCwwYjY0NzE3ZmFlZTAyZWJmM2I1MTExYWYwODIxMTEwNzFiMTFhYWQ5`
+Snapshot ID: `MCwxODg0ZmM1NDMxYTdhZGQxNjZiYTNiZWJhMmNiNDMyN2M2MzA1NWIx`

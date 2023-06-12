@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,579 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,602 likes - 99 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 77 | [Quiet Place](https://open.spotify.com/track/6k96PVCzURnKNnWDpsZ6xY) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Piano Meditations II](https://open.spotify.com/album/6sdYGreE8MbiQHrgF6jJh6) | 3:30 |
 | 78 | [Felt](https://open.spotify.com/track/3Zp8h6uK8L1H2mOn7SAxUR) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Journey Through Memories](https://open.spotify.com/album/069i2WxHKeLNopI6OKIvch) | 5:40 |
 | 79 | [わたしを泣かせてください \~歌劇「リナルド」より](https://open.spotify.com/track/6qViP5bbjV55GeHm881KiS) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [わたしを泣かせてください](https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE) | 3:05 |
-| 80 | [Vesperae solennes de confessore in C Major, K\. 339: V\. Laudate Dominum omnes gentes \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
+| 80 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 81 | [A Dream of Hanakonzyo Color](https://open.spotify.com/track/2PklJbGfHNaFPo5HidKimK) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [Scene Tonight Only](https://open.spotify.com/album/4SmjguZEfuwXUbLErOu4aH) | 2:34 |
 | 82 | [labour \- RAK session radio edit](https://open.spotify.com/track/5UDNm9SUu3I3iSObOW7DJy) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour \(RAK session radio edit\)](https://open.spotify.com/album/6fv71rGjkMUTKvQ0DnC2jD) | 4:08 |
 | 83 | [遠く](https://open.spotify.com/track/6C9aG68VyWYP3aUbh9jMTQ) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [遠く](https://open.spotify.com/album/3fSSUK0Z5FZytj9JJFHA3j) | 8:22 |
-| 84 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
+| 84 | [Vesperae solennes de confessore in C Major, K\. 339: V\. Laudate Dominum omnes gentes \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 85 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 |
 | 86 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 87 | [new morning](https://open.spotify.com/track/5hP9i6B9MmHYqTbUMVzVM0) | [Sakura](https://open.spotify.com/artist/27vQ6xb6e29VigNaUAvB8q) | [new morning](https://open.spotify.com/album/16tkdfGkBfvumvRDittZYL) | 3:15 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 96 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 |
 | 97 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 |
 | 98 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 |
-| 99 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 |
+| 99 | [Flimsier](https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Flimsier](https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN) | 3:59 |
 
-Snapshot ID: `MCxhMjRmODdmMTVlOGY2NTNkZWVhYjU0YWM3NzkwMjY5ZDYyNTAzN2Jl`
+Snapshot ID: `MCw0ZjVlZTQzNzIwYjMxMmZiYjViZmVhN2VhNTcyYmYxYTQ2MjIwNTZl`

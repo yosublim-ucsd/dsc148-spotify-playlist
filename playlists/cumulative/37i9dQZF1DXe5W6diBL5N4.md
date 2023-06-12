@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\)
 
-5,603 songs - 13 day 11 hr 51 min
+5,604 songs - 13 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,8 @@
 | [Best You Ever Had \(Feat\. Sean Kollin\)](https://open.spotify.com/track/1AHN0ou7UxQWjxACgtQwW8) | [Jxxn](https://open.spotify.com/artist/0yg3ZswlGCiIij5a6bpPQE), [Sean Kollin](https://open.spotify.com/artist/5QzXsLvGOPhBvPB092KZvU) | [Best You Ever Had](https://open.spotify.com/album/6bNk5qf28n52AJTmizxLiZ) | 2:32 | 2022-07-24 | 2022-08-10 |
 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/3TESxOg8FArtQHKt4hKEoZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-08-30 | 2022-09-07 |
 | [Better Better](https://open.spotify.com/track/2NcEsvFbuTGqnuu9nRmXta) | [X\-PIERS](https://open.spotify.com/artist/1XbxFr1AokUIf6TNDEUCPz) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0FQ6KjK4C9wKobhQVZF1n7) | 3:08 | 2022-05-22 | 2022-06-10 |
-| [Better Days](https://open.spotify.com/track/5bPnxPOboUN0lB6v9LD4AF) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/32m1R6ON07WxFxba278ru8) | 3:41 | 2023-06-01 |  |
+| [Better Days](https://open.spotify.com/track/5bPnxPOboUN0lB6v9LD4AF) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/32m1R6ON07WxFxba278ru8) | 3:41 | 2023-06-01 | 2023-06-12 |
+| [Better Days](https://open.spotify.com/track/5rUYtiBQcEMhRSJ89G9mWv) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/7tZgiEx9aefGV4OzU4SuVf) | 3:41 | 2023-06-09 |  |
 | [BETTER KNOW \(feat\. Louie\)](https://open.spotify.com/track/1cD6hl0bsphFgh1nAiCz2G) | [김슬옹](https://open.spotify.com/artist/3WoLTUzCzouGlfB95USM5f), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [BETTER KNOW](https://open.spotify.com/album/70aOkJrJWI7xBCUBWKxwGh) | 3:35 | 2022-08-16 | 2022-08-30 |
 | [BETTER LYF \(Feat\. ZENE THE ZILLA, greenbeige, Rakon, iknouwannit, Dawn Dox, J;KEY, ogoovado, Val'dane\) \(Prod\. iknouwannit\)](https://open.spotify.com/track/5rlPp2JyI36cUPmxIB0RnT) | [YTC4LYF](https://open.spotify.com/artist/3HqmILErtFTTIJt7vovJ6l), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [greenbeige](https://open.spotify.com/artist/4x3Fz4qscjiV4wNg5jCznm), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk), [iknouwannit](https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5), [Dawn Dox](https://open.spotify.com/artist/4j7IhXlXKQkZ4kXZpGI2S7), [제이키\(J;KEY\)](https://open.spotify.com/artist/3BgxHivrpOrBuEEJOWX9E2), [ogoovado](https://open.spotify.com/artist/3l9OJFfBQGJnaU15JTPnpG), [Val'dane](https://open.spotify.com/artist/2gZt3nWt9o804AkeqxqqHp) | [BETTER LYF](https://open.spotify.com/album/3V3TbmMq3SCySyIRixbgRa) | 4:23 | 2022-05-05 | 2022-05-12 |
 | [better now](https://open.spotify.com/track/2lIrlGvlCffGBwrY8SEaEA) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [independence2+](https://open.spotify.com/album/2H7xdxHKAEKCI4yioyGiVF) | 3:08 | 2022-09-19 | 2022-11-07 |

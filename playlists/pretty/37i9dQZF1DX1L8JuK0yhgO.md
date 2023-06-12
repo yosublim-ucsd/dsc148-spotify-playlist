@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,106 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,110 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 54 | [Sprite](https://open.spotify.com/track/6TcQGhYKI6POaWudE3VPMc) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Aoto](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Maphie](https://open.spotify.com/artist/38oAzEhxXOHHI96zBA29WP) | [Sprite](https://open.spotify.com/album/4wTUA4tysMbOoW0CPHkVXj) | 2:53 |
 | 55 | [sonoichimande](https://open.spotify.com/track/6f25u2CqbNCoT2gfYOcJyv) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [sonoichimande](https://open.spotify.com/album/1ZIoyEcSHv8hWjLRTlTa8y) | 2:59 |
 | 56 | [開口一番 \- evanturetime Remix](https://open.spotify.com/track/0ZQkO3qJzPbKBCZHhWGe0b) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [開口一番 \(evanturetime Remix\)](https://open.spotify.com/album/5STJUbhClxk6fxZISjWhUA) | 2:45 |
-| 57 | [Heavenly](https://open.spotify.com/track/0Mm5MzVZ1YegYIcAhYiB68) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [Heavenly](https://open.spotify.com/album/5dp4D34dDl735VJiZb2WrL) | 2:55 |
+| 57 | [Heavenly](https://open.spotify.com/track/0Mm5MzVZ1YegYIcAhYiB68) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [Heavenly](https://open.spotify.com/album/5dp4D34dDl735VJiZb2WrL) | 2:55 |
 | 58 | [Beee\-Hive](https://open.spotify.com/track/7I2ViRmeZhDSxNBTSwLMXa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Beee\-Hive](https://open.spotify.com/album/5OLSia3v0gJn2bKuDMWcWT) | 4:38 |
 | 59 | [Love Groovin'](https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Love Groovin'](https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi) | 3:05 |
 | 60 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 |
 
-Snapshot ID: `MCxmYmJjOGNmMzk1ZGM1N2FlOGJhZDdjZGY1OWEzYTMyMDljMTg3YjUz`
+Snapshot ID: `MCwxNWE4YmJmZTA0NDEyZTU2YTE1NGRmNTNmNDM3MTAyNTgwZTk0Yjhl`

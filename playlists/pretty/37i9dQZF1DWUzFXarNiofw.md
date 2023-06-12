@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,586 likes - 156 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,739 likes - 156 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 155 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 |
 | 156 | [Some Feelings Never Go Away](https://open.spotify.com/track/2W3opOU3acvOKwo8UDx0mf) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Some Feelings Never Go Away](https://open.spotify.com/album/4DCjK4nmfen3fkYxfrxa6i) | 2:57 |
 
-Snapshot ID: `MCxjMTcyNTA3MjFmMDU2M2FhZjEyMTY0MzRkMDA0NDc0ZDE2ODY3Mzdj`
+Snapshot ID: `MCxlMzg5NTI0YWQ1NGY3MGZjMmJlZjBhMDYxZGE3YzNmOWMxZTA4MmJj`

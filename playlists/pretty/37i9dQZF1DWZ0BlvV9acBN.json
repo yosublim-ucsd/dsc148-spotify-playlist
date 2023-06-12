@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 118064,
+  "num_followers": 118100,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjA4OTJhMjg2ZDcyNjk4YTU1OTIyZDFhYmE5MzM5NjA0MTBjNTIx",
+  "snapshot_id": "MCw3MjA2YWRmMzk5NDQxZTEyYzBmNWM3ODMyYTQyMmUzYTQ1NTVlMWQ5",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Onde Tem Lenha",
         "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
+        "name": "Bartimeu",
+        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Marcos Miranda",
+          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
         }
       ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+      "duration_ms": 231250,
+      "name": "Bartimeu",
+      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Bartimeu",
-        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
       "artists": [
         {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Marcos Miranda",
-          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 231250,
-      "name": "Bartimeu",
-      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 288000,
       "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -743,6 +723,22 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -783,22 +779,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 258000,
       "name": "Peregrino",
       "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Mais Amor",
+        "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 268786,
+      "name": "Mais Amor",
+      "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Mais Amor",
-        "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
+        "name": "Ex\u00edlio",
+        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
         }
       ],
-      "duration_ms": 268786,
-      "name": "Mais Amor",
-      "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 190519,
       "name": "Agora Eu Vivo Teu Amor",
       "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Ex\u00edlio",
-        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
-      },
-      "artists": [
-        {
-          "name": "Hugo Santos",
-          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
-        }
-      ],
-      "duration_ms": 279510,
-      "name": "Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
     },
     {
       "added_at": "2023-06-02 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,641 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,711 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 2 | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7) | 9:42 |
 | 3 | [Escape](https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 4:38 |
 | 4 | [Crimson Cloud](https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [Crimson Cloud](https://open.spotify.com/album/2V1hViF311H8XX1104K3i4) | 4:49 |
-| 5 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND), [Jordan Reyne](https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 |
+| 5 | [銀翼の凶星 〜 バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
 | 6 | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla) | 6:45 |
-| 7 | [銀翼の凶星 〜 バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
+| 7 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND), [Jordan Reyne](https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 |
 | 8 | [Devil Trigger \- Opening Remix](https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS) | [Yoshiya Terayama](https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq), [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [DEVIL MAY CRY 5 Original SoundTrack](https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe) | 2:27 |
 | 9 | ["DEVILS NEVER CRY"\(スタッフロール\)](https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 3 オリジナル・サウンドトラック](https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb) | 5:19 |
 | 10 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCxjZDFjY2U2ZWU5ZjQ1Njg4NTkxMDdjNGE1YjY5NDBiYTgzOTgxYmYz`
+Snapshot ID: `MCw0NjRmNDgzMTM3ZTY0MDA3NjFmNGI3MTEyYmM5YzhmMmQyMzU4ZmM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,485 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,551 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 74 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
 | 75 | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP) | 4:03 |
 | 76 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
-| 77 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
-| 78 | [Quién?](https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Quién?](https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy) | 3:46 |
-| 79 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
+| 77 | [Quién?](https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Quién?](https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy) | 3:46 |
+| 78 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
+| 79 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
 | 80 | [99'S](https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99'S](https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH) | 3:53 |
 | 81 | [Los Pizzas](https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Los Pizzas](https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0) | 2:16 |
 | 82 | [Corren Con Suerte](https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Cementerio De Raperos](https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h) | 3:58 |
-| 83 | [Mariguana & Tequila](https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Robot Montana](https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P) | 2:55 |
-| 84 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 |
+| 83 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 |
+| 84 | [Mariguana & Tequila](https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Robot Montana](https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P) | 2:55 |
 | 85 | [Sabadrugs](https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [B\-RASTER](https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby), [Sonik 420](https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed) | [Sabadrugs](https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC) | 3:49 |
 | 86 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 |
 | 87 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 | 100 | [México Lindo y Bandido \- Remix Dj Migue Soria \(Banda Sonora de la Película: "Los Jefes"\)](https://open.spotify.com/track/5lqxSDQ03I3pUxCVZq50q4) | [E\. Davalos](https://open.spotify.com/artist/12IZ7qlSBXBKqvxE6QYp70), [R\. Rodriguez](https://open.spotify.com/artist/3JNfocZPUOqSkazQBQKFCt), [M\. Soria](https://open.spotify.com/artist/5nZ7iv3dWZVqeRUDP4ty6I) | [Los Jefes \(Banda Sonora de la Película\)](https://open.spotify.com/album/2R4W5sM64HVW2Dqmb9Owck) | 4:07 |
 
-Snapshot ID: `MCw1NDc0MmVmMTBjYzJmNGMyNzA3NjlhNDdjZWQ3MjUyNjVjNzk0ZDVh`
+Snapshot ID: `MCxiNDcxNTc4MDI3MzE2YWJhMDc5MmRmMzk1YjY5YWQ2MjVhNGM5MWU1`

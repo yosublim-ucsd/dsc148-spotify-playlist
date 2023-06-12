@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 615163,
+  "num_followers": 615245,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODUwYzY4MTk0MWQ1YjIxOWM5MjZhNjFiMTI2MmZhZmI4YTczZjQz",
+  "snapshot_id": "MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Queen of Disaster",
-        "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
-      },
-      "artists": [
-        {
-          "name": "LULLANAS",
-          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Queen of Disaster",
-      "url": "https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Tell That Devil",
         "url": "https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 158617,
       "name": "Tell That Devil",
       "url": "https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Queen of Disaster",
+        "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
+      },
+      "artists": [
+        {
+          "name": "LULLANAS",
+          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Queen of Disaster",
+      "url": "https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Dark River",
-        "url": "https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Spider in the Roses (feat. Rob the Man)",
         "url": "https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 202293,
       "name": "Spider in the Roses (feat. Rob the Man)",
       "url": "https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Banshee",
         "url": "https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 226973,
       "name": "Banshee",
       "url": "https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "We Could Fall In Love",
-        "url": "https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh"
-      },
-      "artists": [
-        {
-          "name": "Hesta Prynn",
-          "url": "https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV"
-        }
-      ],
-      "duration_ms": 235997,
-      "name": "Beside Myself",
-      "url": "https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Serious Love",
         "url": "https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 253500,
       "name": "Serious Love",
       "url": "https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "We Could Fall In Love",
+        "url": "https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh"
+      },
+      "artists": [
+        {
+          "name": "Hesta Prynn",
+          "url": "https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV"
+        }
+      ],
+      "duration_ms": 235997,
+      "name": "Beside Myself",
+      "url": "https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3"
     },
     {
       "added_at": "2023-05-12 04:00:00",

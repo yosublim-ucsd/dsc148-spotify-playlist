@@ -4,13 +4,13 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-345 songs - 22 hr 43 min
+346 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2022-05-13 | 2022-06-04 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-08-30 | 2022-06-10 |
-| [1080p](https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 2:33 | 2021-08-30 |  |
+| [1080p](https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 2:33 | 2021-08-30 | 2023-06-12 |
 | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/track/7dmcTMq4saNeKIBmG3m6Tq) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/album/07jqb6FPwDeCOAtBg7tHjc) | 3:21 | 2020-12-22 | 2022-04-18 |
 | [1night](https://open.spotify.com/track/6NgFdt2XvqRacjK0BPgMi8) | [Daddy NAT](https://open.spotify.com/artist/49ZFag40tJxY9Q9kF0hp3B) | [1night](https://open.spotify.com/album/4HsTyyFCQ8XZodp9l4rHya) | 2:54 | 2022-05-13 | 2022-06-04 |
 | [6's to 9's \(feat\. Rationale\)](https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:26 | 2022-05-13 | 2022-06-04 |
@@ -338,6 +338,7 @@
 | [What Falling in Love Is For](https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68) | 2:54 | 2023-03-20 |  |
 | [What Falling in Love Is For](https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/0j4EGK02p89xpridPMp6sI) | 2:54 | 2020-12-22 | 2023-03-22 |
 | [What We've Got](https://open.spotify.com/track/5HEpukkNnxdPAV9zsgDLOx) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Manatee Commune](https://open.spotify.com/album/6MzzlBosYKeVzYLF5lZzlq) | 4:08 | 2020-12-22 | 2022-04-17 |
+| [When She Dance](https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:22 | 2023-06-09 |  |
 | [When You Lock Eyes](https://open.spotify.com/track/436jz9bb0osX1lD8KUWf9U) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [When You Lock Eyes](https://open.spotify.com/album/5a8Xinn5KJFrMaOYt8Fbpo) | 2:22 | 2020-12-22 | 2022-07-29 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 | 2020-12-22 |  |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-12-22 | 2022-04-18 |

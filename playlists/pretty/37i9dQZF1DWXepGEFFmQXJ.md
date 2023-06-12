@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,463 likes - 77 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,721 likes - 77 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 39 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 |
 | 40 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 |
 | 41 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
-| 42 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
+| 42 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
 | 43 | [Sleep On It](https://open.spotify.com/track/4WIfHW4NCpHuypEQYZ4PGi) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Sleep On It](https://open.spotify.com/album/6qz0hjuJHpeaiQNzk37vuk) | 3:11 |
 | 44 | [Like It Like It Is](https://open.spotify.com/track/2oAXPZqPeQqIjUIawx5Is5) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Like It Like It Is](https://open.spotify.com/album/6cXk05iNUlYUsZ4EPlSON0) | 3:15 |
 | 45 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 77 | [Blue Eyes](https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21) | [Brook Chivell](https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ) | [Blue Eyes](https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL) | 4:06 |
 
-Snapshot ID: `MCxkYTI2ZmMwYjc2ZjliYTI4ZmZjYTgwOGQwYzljYTFkMGMxNzRlMTQ4`
+Snapshot ID: `MCxjNmQ3ZDlhYzQ0MGU4MjliNTZhNjkzYjhmMmI3ZDRjZTM0YjhiOTUy`

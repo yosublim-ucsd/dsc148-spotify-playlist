@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11295,
+  "num_followers": 11293,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWZkYjg0NmFjYjEzZTFjZDAzZTZiMTNhM2ZhYTE0M2ZiMzc4Y2Jm",
+  "snapshot_id": "MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Daniel's Interlude",
-      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 70253,
       "name": "Drown in It",
       "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Daniel's Interlude",
+      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 117226,
-      "name": "Makin' Love - Interlude",
-      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 100680,
       "name": "Puff's Intro",
       "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 107733,
+      "name": "Interlude (553-Nasty)",
+      "url": "https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 107733,
-      "name": "Interlude (553-Nasty)",
-      "url": "https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb"
+      "duration_ms": 117226,
+      "name": "Makin' Love - Interlude",
+      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Beautifully Human: Words and Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 91573,
-      "name": "Nothing (Interlude)",
-      "url": "https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP"
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
         }
       ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
+      "duration_ms": 91573,
+      "name": "Nothing (Interlude)",
+      "url": "https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Whoomp (Interlude)",
+      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Ready is Always Too Late",
         "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 48933,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Whoomp (Interlude)",
-      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
       "added_at": "2022-12-03 05:29:16",

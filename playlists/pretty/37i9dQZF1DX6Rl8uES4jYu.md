@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,851 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,840 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Keeping You](https://open.spotify.com/track/7rgbpvuPWpy0o3fyvb3Sop) | [Mindy](https://open.spotify.com/artist/4IVRW82OzrZZ4qZSf0xYJF), [whereisluna](https://open.spotify.com/artist/4eWPaOqG36uS4H7uTuPnFn), [Whensday](https://open.spotify.com/artist/5kGJj49tILjz1N5FHt77fm) | [Keeping You](https://open.spotify.com/album/2QV8qGa4SbBkCWWjmZWWmg) | 3:03 |
 | 100 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 
-Snapshot ID: `MCwzZTc2MWFiOGQ2YjgxMjJlMWQ4NjE0YWJmYTkyYTM3YjYwNTY2MDM4`
+Snapshot ID: `MCwzOWFmNDhlMDE3MzU1ZTllNTg4NjE0YTBlYzAzOTM3ZmY3MWNjZTE1`

@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-709 songs - 2 day 3 hr 7 min
+710 songs - 2 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,8 @@
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-10-14 |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2022-10-20 | 2022-12-17 |
 | [Say Less](https://open.spotify.com/track/7bsGEh6Zve75sF3cvRAod7) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years](https://open.spotify.com/album/1s5ZFYgycwl95KApfbDwZR) | 5:23 | 2021-11-26 | 2022-05-06 |
-| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 |  |
+| [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 | 2023-06-08 |  |
+| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 | 2023-06-12 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-14 | 2022-08-20 |
 | [SE15](https://open.spotify.com/track/5sEY20SqFKfmwRavzwJtKF) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 3:21 | 2022-07-14 | 2022-09-16 |

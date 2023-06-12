@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 100516,
+  "num_followers": 100593,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzI1N2M0ODJmZDA0ODhiNmNhNGMwNzcxM2U2MDk1NWE5ZDE0OWMz",
+  "snapshot_id": "MCwzODc4MmYzM2E3Y2VjYTc1MzUyOWZlN2QwZGY0MDVlYjcwMDM2YWJl",
   "tracks": [
     {
       "added_at": "2023-05-14 17:03:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "in between everything",
         "url": "https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 158446,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Everywhere (BBC Children In Need)",
         "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 171413,
       "name": "Everywhere (BBC Children In Need)",
       "url": "https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 192078,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "dancing in the moonlight",
+        "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
+      },
+      "artists": [
+        {
+          "name": "Luke Burr",
+          "url": "https://open.spotify.com/artist/76JR66y9YIbwd92enbWxLv"
+        }
+      ],
+      "duration_ms": 147457,
+      "name": "dancing in the moonlight",
+      "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 164526,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "dancing in the moonlight",
-        "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
-      },
-      "artists": [
-        {
-          "name": "Luke Burr",
-          "url": "https://open.spotify.com/artist/76JR66y9YIbwd92enbWxLv"
-        }
-      ],
-      "duration_ms": 147457,
-      "name": "dancing in the moonlight",
-      "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Born in the Eighties",
         "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 213945,
       "name": "Ayo Technology",
       "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2023-05-14 17:03:21",

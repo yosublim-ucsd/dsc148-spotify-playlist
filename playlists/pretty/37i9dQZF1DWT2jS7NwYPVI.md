@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,103 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,189 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 100 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 101 | [BUMMER!](https://open.spotify.com/track/73phkrwQPTCg8UrlqEkSyj) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/5c8so0KAt0lRHZNF24lFwe) | 2:39 |
 
-Snapshot ID: `MCxmOTYzNGFiNjAxMGNjYmEyNGRmMzhkYTEyMTY3YTJlMGFhZmI0NjUx`
+Snapshot ID: `MCxkYjM4YjM3NWEyNTg0YmZkYmZjZTA4MjFiZmE1MGVlMzJiMWIxM2E3`

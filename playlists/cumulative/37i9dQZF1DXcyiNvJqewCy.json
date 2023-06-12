@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "7 Minutes In Heaven",
+        "url": "https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216572,
+      "name": "7 Minutes In Heaven",
+      "url": "https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj"
+    },
+    {
+      "album": {
         "name": "a little more time",
         "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"

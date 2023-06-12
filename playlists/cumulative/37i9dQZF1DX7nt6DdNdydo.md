@@ -4,7 +4,7 @@
 
 > Where swing meets blues.
 
-76 songs - 3 hr 30 min
+77 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Oh Babe!](https://open.spotify.com/track/6YLqPqg3zvDzctYzoIXIDR) | [Roy Milton & His Solid Senders](https://open.spotify.com/artist/24E0Uh3YmtQFLPskGf2QiW) | [Solid Hits by Solid Senders](https://open.spotify.com/album/7oOb3QzANU0qIYlLnqEjcy) | 2:30 | 2022-03-28 | 2022-11-13 |
 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 | 2020-03-25 |  |
 | [Real Fine Daddy](https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh) | 2:16 | 2020-03-25 | 2022-07-29 |
-| [Real Fine Daddy](https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'N' Rhythm & Blues](https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4) | 2:16 | 2022-03-28 |  |
+| [Real Fine Daddy](https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'N' Rhythm & Blues](https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4) | 2:16 | 2022-03-28 | 2023-06-12 |
+| [Real Fine Daddy](https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Presenting Helen Humes](https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl) | 2:16 | 2022-03-28 |  |
 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 | 2020-03-25 |  |
 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 | 2020-03-25 |  |
 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 | 2020-03-25 |  |

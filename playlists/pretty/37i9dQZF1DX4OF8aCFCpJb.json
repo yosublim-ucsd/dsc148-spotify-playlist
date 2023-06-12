@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67012,
+  "num_followers": 67021,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjljYzBmMjc4MWNhY2EyNWRmNmFmMzhiNGZlOTJlYzQ4YjU1ZDA2",
+  "snapshot_id": "MCwzZmRiNjkwMmFlYzZhMDU3ZTA2ZWExZWI4MGRmN2Y0MDlmOTEzNThl",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Mera tid",
-        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Mera tid",
-      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+        "name": "Mera tid",
+        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
       },
       "artists": [
         {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
+      "duration_ms": 189600,
+      "name": "Mera tid",
+      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -747,26 +747,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Slutpl\u00e4deringen",
-        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
+        "name": "Marknadens soldat",
+        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
       },
       "artists": [
         {
-          "name": "Kartellen",
-          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
         },
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        },
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 156360,
-      "name": "Rikslarm",
-      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
+      "duration_ms": 251000,
+      "name": "Mediak\u00e5t feat. Timbuktu",
+      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -819,22 +815,26 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Marknadens soldat",
-        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
+        "name": "Slutpl\u00e4deringen",
+        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
       "artists": [
         {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+          "name": "Kartellen",
+          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
         },
         {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Mediak\u00e5t feat. Timbuktu",
-      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
+      "duration_ms": 156360,
+      "name": "Rikslarm",
+      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
     },
     {
       "added_at": "2023-06-08 22:00:00",

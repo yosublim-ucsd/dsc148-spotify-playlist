@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,259 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,367 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 28 | [Heart of Stone](https://open.spotify.com/track/5rgYVhI2pNCm66hCmRUY3z) | [Cemetery Sun](https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz) | [Heart of Stone](https://open.spotify.com/album/0VTAHQk2pL1zEX8RPEJBn5) | 3:24 |
 | 29 | [Wildflower](https://open.spotify.com/track/66JAiAww71cy0rv3c8567D) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Wildflower](https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj) | 3:01 |
 | 30 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
-| 31 | [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 |
+| 31 | [Social Lubrication](https://open.spotify.com/track/086JbiF8kMBushqWDifdpE) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:28 |
 | 32 | [Saturday](https://open.spotify.com/track/0PVraNcaWR9Efy43ayGqpG) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Saturday](https://open.spotify.com/album/6zocDspAImGf6QR05LY8hm) | 3:02 |
 | 33 | [Nerve](https://open.spotify.com/track/7jp4a5VWUXtgetIlNcIEDb) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Nerve](https://open.spotify.com/album/2NwW0Tzme7gCSoypEx7MDO) | 3:03 |
 | 34 | [Build a Bridge](https://open.spotify.com/track/6mtEaUoVhCowSiIGkxQ5An) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Build a Bridge](https://open.spotify.com/album/2tlbVhKQdpYHUfi32LdWmx) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 |
 | 50 | [Wet Like Summer](https://open.spotify.com/track/505RZEFoZAJvbpQIDsSxEq) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [Wet Like Summer](https://open.spotify.com/album/1DhiNOli1JsvZ6ZcPpI9Rv) | 3:28 |
 
-Snapshot ID: `MCwxYWE3NWE2ZjhiMTAxZDQ0NWQ1NGI0MDM5MDE0YmU0NWJmMGNlZmI5`
+Snapshot ID: `MCw3Y2Q0MzJlMTIyMTU4NzFiZDBkZTIyYTQ5MThiYmUzNGIzNjI0NjI4`

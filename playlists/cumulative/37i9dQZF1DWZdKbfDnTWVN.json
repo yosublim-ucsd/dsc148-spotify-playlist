@@ -540,10 +540,32 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 242003,
       "name": "Digdat",
       "url": "https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56"
+    },
+    {
+      "album": {
+        "name": "Biggs (Deluxe)",
+        "url": "https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        },
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251748,
+      "name": "Digdat",
+      "url": "https://open.spotify.com/track/6PU0d8bb9HDNcqaxBxFtnH"
     },
     {
       "album": {
@@ -2661,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Biggs (Deluxe)",
+        "url": "https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202428,
+      "name": "Wasp",
+      "url": "https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0"
+    },
+    {
+      "album": {
         "name": "Biggs",
         "url": "https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD"
       },
@@ -2690,7 +2730,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 202428,
       "name": "Wasp",
       "url": "https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,837 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,911 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [constellations](https://open.spotify.com/track/1GCJZ0gIDc4XtWco9Jp9fA) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [constellations](https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC) | 3:31 |
 | 50 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
 
-Snapshot ID: `MCw0NmEyMmY5ODExZTU0ODg1MTkzODJjNThmYmJjOTRkODkyM2IwZWY1`
+Snapshot ID: `MCxmNTExMjZmOGVkZDE4Y2M1MDBhMDg1OGY1YzY3NTM0NDA5YWE3ZGRi`

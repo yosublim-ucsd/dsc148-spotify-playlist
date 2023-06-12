@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Daniel Quién en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,568 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,581 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Escape](https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Escape](https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE) | 3:17 |
 | 50 | [Tu Mundo](https://open.spotify.com/track/7arcup9zgkX4sEJfe7ivq5) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Tu Mundo](https://open.spotify.com/album/1PB3y2CJFEH4sFa4fd7Re7) | 2:57 |
 
-Snapshot ID: `MCw3MWJkZDhmYzA2ZTQwMmVhMzU0MDM2MGUwODQ0MTZmMTY2NjU0YTMz`
+Snapshot ID: `MCxmZDJmZDM2NzkzMTJmYzUwMTIwNzhhNTgxMGNhMzE4YTRiZjVlMjg2`

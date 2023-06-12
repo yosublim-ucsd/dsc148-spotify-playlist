@@ -4475,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Table For Glasses",
+        "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231368,
+      "name": "Table For Glasses",
+      "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
+    },
+    {
+      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z"
       },
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"

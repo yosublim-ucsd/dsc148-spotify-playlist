@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Zemmoa",
-  "num_followers": 128422,
+  "num_followers": 128443,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzA3MzRiNTc4NDAxODdjMDIyMDc1ZjEyYTM2ODUyNTU2NzQ3ZWQ5",
+  "snapshot_id": "MCwxOWI5MjlkOTEyYzUxMmMyYjU1NDkzMjI2OWVhMTk1NDY4NmFmYTNj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Fashion Victims",
-        "url": "https://open.spotify.com/album/32bbGOz5Csz71ntB1R6OXf"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Fashion Victims",
-      "url": "https://open.spotify.com/track/1Qsvw6CYOmcwR1IAukmwmj"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Mala Crianza",
         "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
       },
@@ -1179,6 +1163,26 @@
       "duration_ms": 206497,
       "name": "Sentirme Amante",
       "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Que S\u00ed Que No",
+        "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
+      },
+      "artists": [
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Que S\u00ed Que No",
+      "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"
     }
   ],
   "unique_name": "BRILLO",

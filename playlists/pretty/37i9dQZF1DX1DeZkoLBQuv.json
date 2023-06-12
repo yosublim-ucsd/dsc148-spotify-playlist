@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6007,
+  "num_followers": 6006,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh",
+  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Aclame Ao Sehnor",
-        "url": "https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php"
-      },
-      "artists": [
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Aclame Ao Senhor",
-      "url": "https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Hinos Inesquec\u00edveis (Ao Vivo)",
         "url": "https://open.spotify.com/album/69dbeC4BPdjqifvLHTMkdA"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 201693,
       "name": "Jesus, o Bom Amigo - Ao Vivo",
       "url": "https://open.spotify.com/track/6igxgvU8TBqZIV3gqyAHoD"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Aclame Ao Sehnor",
+        "url": "https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php"
+      },
+      "artists": [
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Aclame Ao Senhor",
+      "url": "https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "#TBT",
         "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212175,
       "name": "A Hist\u00f3ria de Cristo",
       "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     },
     {
       "added_at": "2022-12-09 06:26:14",

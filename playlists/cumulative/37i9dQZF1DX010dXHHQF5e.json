@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128446,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/3luZtWjidc0Pt03uGMJM6E"
+    },
+    {
+      "album": {
         "name": "I Will Say Goodbye",
         "url": "https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f"
       },
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 244517,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/6elLwegs9pgjtGXmIxwcc7"

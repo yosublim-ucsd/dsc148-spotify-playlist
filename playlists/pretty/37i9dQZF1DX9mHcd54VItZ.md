@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=Z0xj63C2R\_i51OZ3pDUs0w">Vrede</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,239 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,252 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Howl](https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Howl](https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr) | 4:46 |
 | 50 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 |
 
-Snapshot ID: `MCw2NDA3ZTcwNzY4ZDdiODkxNzdmNzViYmFlYWQ2MDRiMjNiMmUyNWM2`
+Snapshot ID: `MCxkZmUwYjZlODc3NDRiMTJmMTFhNDUwN2MyM2NkOTgzOWE3N2YxNTQz`

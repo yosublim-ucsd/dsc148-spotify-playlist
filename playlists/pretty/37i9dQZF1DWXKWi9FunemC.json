@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 212110,
+  "num_followers": 212231,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjJiOGVkNzZmMWNmZWJiNDVlNWQxZjdlYmE0OTA1MjEyZGFlOWUz",
+  "snapshot_id": "MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -371,26 +371,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Secrets (B-Sides)",
-        "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "Rebekah Autumn",
-          "url": "https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ"
-        }
-      ],
-      "duration_ms": 213942,
-      "name": "I Know Just What You Need",
-      "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 270467,
       "name": "Deeper Water",
       "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Love Secrets (B-Sides)",
+        "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Rebekah Autumn",
+          "url": "https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "I Know Just What You Need",
+      "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Narrow Sea",
         "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 313489,
       "name": "O Rock Eternal",
       "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Mighty Refuge",
         "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 205948,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 272600,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 272600,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Now I See",
-        "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
-      },
-      "artists": [
-        {
-          "name": "The McClures",
-          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Now I See",
-      "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 225600,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Now I See",
+        "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
+      },
+      "artists": [
+        {
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Now I See",
+      "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
       },
       "artists": [
         {
-          "name": "London Gatch",
-          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 390497,
-      "name": "Home - Acoustic",
-      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+      "duration_ms": 390497,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Kingdoms",
-        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
-      },
-      "artists": [
-        {
-          "name": "Enterline",
-          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
-        }
-      ],
-      "duration_ms": 207135,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
         "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 240946,
       "name": "This Wild Earth",
       "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Kingdoms",
+        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
+      },
+      "artists": [
+        {
+          "name": "Enterline",
+          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
+        }
+      ],
+      "duration_ms": 207135,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 306506,
-      "name": "God Evermore",
-      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 221684,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Ever Be",
+        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 306506,
+      "name": "God Evermore",
+      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "King Of Kings (Live)",
-        "url": "https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 291565,
-      "name": "King Of Kings - Live",
-      "url": "https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "God of the Breakthrough (Live)",
         "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "King Of Kings (Live)",
+        "url": "https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 291565,
+      "name": "King Of Kings - Live",
+      "url": "https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39"
     },
     {
       "added_at": "2020-08-31 15:19:19",

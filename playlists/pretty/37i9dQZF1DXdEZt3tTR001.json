@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 125034,
+  "num_followers": 125177,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDg2ZWU4MGE1MjQ2NDVhMDNkYjQxOTNkYTBlYmI2Mzc5ZDdjYTIy",
+  "snapshot_id": "MCxhZjgxNWUxYTUyZmZhMzVmNTA5ZGI1ZmUwNDg4NzVjM2Y5ZmQ2MDVm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "My Thoughts",
         "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 268515,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "azz izz",
+        "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "A Real Romantic",
         "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 269354,
       "name": "Livid",
       "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Cruel Intentions (Remix) [feat. Snoh Aalegra]",
-        "url": "https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        },
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 280944,
-      "name": "Cruel Intentions (Remix) [feat. Snoh Aalegra]",
-      "url": "https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+        "name": "Cruel Intentions (Remix) [feat. Snoh Aalegra]",
+        "url": "https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 198137,
-      "name": "Falling Higher",
-      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
+      "duration_ms": 280944,
+      "name": "Cruel Intentions (Remix) [feat. Snoh Aalegra]",
+      "url": "https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC"
     }
   ],
   "unique_name": "floating",

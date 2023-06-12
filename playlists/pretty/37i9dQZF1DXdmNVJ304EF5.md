@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 
 > Where the local scene started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,726 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,734 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 49 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 |
 | 50 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 |
 
-Snapshot ID: `MCw2NTM5Mzg5Yzc0YWY4YWIyODhmZjRmNTg0MTE3ZTI5MDZkYThlZGY1`
+Snapshot ID: `MCwxOGI5NDIyMmVmM2M5NzgyYTRlNmIwNmE5NzA4NTQxZmI3OGFmYjhl`

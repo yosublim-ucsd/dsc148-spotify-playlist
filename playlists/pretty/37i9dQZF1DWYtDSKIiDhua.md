@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,686 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,738 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 79 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 80 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
 
-Snapshot ID: `MCw1NmY0MmE0NDczMTc3ZWNhMWE3ZWYzNjk1MmIxZDVmYWVhNDYwOGIy`
+Snapshot ID: `MCxlNWJhNDFmMzE0MDIxNDRmYWE3NDlhMTcyMTE0NTc0Zjk2N2M2ZmI2`

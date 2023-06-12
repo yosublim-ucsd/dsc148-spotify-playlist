@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 348423,
+  "num_followers": 348560,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWYyYjQ0YWVjOTI5NWJkMzIwNDc0NmZhZTk4N2ViMmNhYjg0YWMz",
+  "snapshot_id": "MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Too Much Pressure",
         "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 231493,
       "name": "Too Much Pressure",
       "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Twenty-Eight Teeth",
-        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
-      },
-      "artists": [
-        {
-          "name": "Buck-O-Nine",
-          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Twenty-Eight Teeth",
+        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
+      },
+      "artists": [
+        {
+          "name": "Buck-O-Nine",
+          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "South Somewhere Else",
         "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 95500,
       "name": "Future Version",
       "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+        "name": "A Live Injection: Anthology 1968-1979",
+        "url": "https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm"
       },
       "artists": [
         {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB"
         }
       ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
+      "duration_ms": 159400,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1443,34 +1443,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "A Live Injection: Anthology 1968-1979",
-        "url": "https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm"
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
       },
       "artists": [
         {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB"
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Gemini, Her Majesty",
-        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 291147,
-      "name": "Ruby Cumulous",
-      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Gemini, Her Majesty",
+        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 291147,
+      "name": "Ruby Cumulous",
+      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
+        "name": "The Band Geek Mafia",
+        "url": "https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk"
       },
       "artists": [
         {
-          "name": "Just Friends",
-          "url": "https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa"
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
         }
       ],
-      "duration_ms": 193503,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
+      "duration_ms": 194840,
+      "name": "Delinquent Song",
+      "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
     }
   ],
   "unique_name": "The Essential Ska",

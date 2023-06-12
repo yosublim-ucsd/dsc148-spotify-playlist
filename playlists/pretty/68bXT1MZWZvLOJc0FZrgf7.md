@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Party Favor and Baauer
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,787 likes - 150 songs - 7 hr 52 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,785 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 12 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 |
 | 13 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 14 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 |
-| 15 | [Took The Night \- J\. Worra Remix](https://open.spotify.com/track/5HBOOjUPTqfDFr6rLQrzkz) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Took The Night \(J\. Worra Remix\)](https://open.spotify.com/album/5Db7KWY3EGNin5UMFSLyXu) | 5:03 |
+| 15 | [Took The Night \- J\. Worra Extended Mix](https://open.spotify.com/track/5HBOOjUPTqfDFr6rLQrzkz) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Took The Night \(J\. Worra Extended Mix\)](https://open.spotify.com/album/5Db7KWY3EGNin5UMFSLyXu) | 5:03 |
 | 16 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 | 17 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 |
 | 18 | [Face](https://open.spotify.com/track/2ARzBgGU6S3F9Dhm59dVn8) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Face](https://open.spotify.com/album/1semThNRoxCeYqerwMftAQ) | 2:25 |

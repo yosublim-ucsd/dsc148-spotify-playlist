@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>
 
 95 songs - 4 hr 47 min
 

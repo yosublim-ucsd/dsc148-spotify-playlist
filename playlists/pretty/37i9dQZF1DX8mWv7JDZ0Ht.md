@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,625 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,718 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 46 | [Passa](https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Passa](https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq) | 2:56 |
 | 47 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 |
 | 48 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 |
-| 49 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 |
+| 49 | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 |
 | 50 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 |
-| 51 | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 |
-| 52 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 |
-| 53 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
+| 51 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 |
+| 52 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
+| 53 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 |
 | 54 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 |
 | 55 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
 | 56 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 58 | [A Voz](https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Voz](https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq) | 4:02 |
 | 59 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
 | 60 | [Cangote](https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Cangote](https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8) | 2:46 |
-| 61 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
-| 62 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 |
-| 63 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 |
-| 64 | [Virginiana](https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur) | 2:33 |
-| 65 | [Ponto de Equilíbrio](https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz) | [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Ponto de Equilíbrio](https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj) | 2:57 |
+| 61 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 |
+| 62 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
+| 63 | [Ponto de Equilíbrio](https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz) | [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Ponto de Equilíbrio](https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj) | 2:57 |
+| 64 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 |
+| 65 | [Virginiana](https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur) | 2:33 |
 | 66 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
 | 67 | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq) | 4:33 |
 | 68 | [Eu e Você](https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Eu e Você](https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Eu Vou](https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Eu Vou](https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3) | 3:14 |
 | 80 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 |
 
-Snapshot ID: `MCw4Mjc5NzUxNzkwNDQxZDBkY2VhYTk1N2MxYzIyMzkxMWY3ZTQ3NzAz`
+Snapshot ID: `MCwzMjYwY2I3Y2IyNzM0NzU0NmZkNTlhMDhkYTYzMWU0NTJiZTNmOTIy`

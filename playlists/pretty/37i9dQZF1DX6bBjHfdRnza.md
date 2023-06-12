@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Daniel Allan\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,598 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,644 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Everything U Do](https://open.spotify.com/track/0qX63a02yvrn8QWwEW7ru0) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Everything U Do](https://open.spotify.com/album/1pfYmqEtcekKD2qXWD70ql) | 2:49 |
 | 100 | [Ur Body So Smooth](https://open.spotify.com/track/4lWy2WTBNsrMeJ3u6Uioxd) | [Coffintexts](https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1) | [Ur Body So Smooth](https://open.spotify.com/album/7CmrstB0wKRpchRx2FHkNJ) | 4:16 |
 
-Snapshot ID: `MCxiZWQ2NmVlNWRmMDZkYTMyOWJmZjI5ZDk3MDU5MTM1ZjJjYzcyZTNm`
+Snapshot ID: `MCxkZDRjY2RhMzZmYmNjZjdhYzM4OTNlMDU4MGM5ZGI2YmY5N2FlODhm`

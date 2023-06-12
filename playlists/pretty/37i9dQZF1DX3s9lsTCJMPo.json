@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56490,
+  "num_followers": 56569,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmY1MjM3OWY3YTY0M2I5MzMwNDk2NGRjM2YzYmExZGNiNTBmZDUx",
+  "snapshot_id": "MCxhZjRmNzA2MTA4ZDc2MzU5MzA3MWVmYjA4Y2FlZDE2YjRjYjdjYzUw",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -547,38 +547,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds Feat. Peter Ram",
-          "url": "https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Wave Wid Me",
-      "url": "https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 2004",
-        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
-      },
-      "artists": [
-        {
-          "name": "Maximus Dan",
-          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "Soca Train",
-      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "The Very Best of Explainer Vol.1 & 2",
         "url": "https://open.spotify.com/album/60R5LNq4oXT9jDPrTwF4UV"
       },
@@ -595,6 +563,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds Feat. Peter Ram",
+          "url": "https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Wave Wid Me",
+      "url": "https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "The Gilded Collection 1986 - 1989",
         "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 309373,
       "name": "The Hammer",
       "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2004",
+        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
+      },
+      "artists": [
+        {
+          "name": "Maximus Dan",
+          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
+        }
+      ],
+      "duration_ms": 294360,
+      "name": "Soca Train",
+      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 433266,
-      "name": "Calypso Music",
-      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Debble-Ish Rage",
         "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 433266,
+      "name": "Calypso Music",
+      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 432666,
       "name": "Nani Wine",
       "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Get On",
+      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Sparrow",
+          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
         }
       ],
-      "duration_ms": 345373,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
+      "duration_ms": 372000,
+      "name": "Doh Back Back",
+      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -859,22 +859,6 @@
       "duration_ms": 253253,
       "name": "Feels Like I'm Home Again",
       "url": "https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 2",
-        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
-      },
-      "artists": [
-        {
-          "name": "Sparrow",
-          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Doh Back Back",
-      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -907,6 +891,22 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 345373,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "South South West",
-          "url": "https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Thelma",
-      "url": "https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca for De World",
         "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Just for You",
-        "url": "https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs"
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
       "artists": [
         {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
+          "name": "South South West",
+          "url": "https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y"
         }
       ],
-      "duration_ms": 338053,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D"
+      "duration_ms": 255093,
+      "name": "Thelma",
+      "url": "https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Just for You",
+        "url": "https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
+        }
+      ],
+      "duration_ms": 338053,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 284626,
       "name": "Hard Wine",
       "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Sparrow's Dance Party",
-        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
       },
       "artists": [
         {
-          "name": "The Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
         }
       ],
-      "duration_ms": 595866,
-      "name": "Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa-Sa-Yea",
-      "url": "https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3"
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Sparrow's Dance Party",
+        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
+        }
+      ],
+      "duration_ms": 595866,
+      "name": "Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa-Sa-Yea",
+      "url": "https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Carnival Party",
         "url": "https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 305040,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (We Love De)",
-      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Lovey",
+          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Bitein Incex (We Love De)",
+      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Calypsoca 2002",
         "url": "https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 271418,
       "name": "Bitin Incex",
       "url": "https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
     },
     {
       "added_at": "2023-05-15 08:13:13",

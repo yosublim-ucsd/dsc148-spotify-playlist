@@ -9502,10 +9502,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 221124,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5bPnxPOboUN0lB6v9LD4AF"
+    },
+    {
+      "album": {
+        "name": "Heartbreaking Sorrow",
+        "url": "https://open.spotify.com/album/7tZgiEx9aefGV4OzU4SuVf"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221124,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5rUYtiBQcEMhRSJ89G9mWv"
     },
     {
       "album": {

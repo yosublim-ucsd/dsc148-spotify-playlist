@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
-  "num_followers": 16671,
+  "num_followers": 16682,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTI4NTJkNDhkZGNhNjdjMmE4MzI0NWY3ZjVhYjUxYjExMzMzNzM1",
+  "snapshot_id": "MCwzMTU3ZWFkNGEzZDBkNjI0MDczMDA4MzdmZmJmYmMwMGEyOGJlZGZh",
   "tracks": [
     {
       "added_at": "2023-05-12 03:03:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Oxi (Dio Mio!)",
         "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 160413,
       "name": "Oxi (Dio Mio!)",
       "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+        "name": "Menino Bom",
+        "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
       },
       "artists": [
         {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+      "duration_ms": 203006,
+      "name": "Menino Bom",
+      "url": "https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Menino Bom",
-        "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
       "artists": [
         {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 203006,
-      "name": "Menino Bom",
-      "url": "https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4"
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Que Seja",
         "url": "https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 278374,
       "name": "Que Seja",
       "url": "https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
+        "name": "Ideia Errada",
+        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
+      },
+      "artists": [
+        {
+          "name": "Cigana",
+          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Ideia Errada",
+      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
         "name": "delirar",
         "url": "https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD"
       },
@@ -967,18 +983,22 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Ideia Errada",
-        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
+        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
       "artists": [
         {
-          "name": "Cigana",
-          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Ideia Errada",
-      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+      "duration_ms": 162045,
+      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1015,42 +1035,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 162045,
-      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Me Liga",
-      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Escuro (Remix)",
         "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 184557,
       "name": "Escuro - Remix",
       "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
+      },
+      "artists": [
+        {
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+        }
+      ],
+      "duration_ms": 176398,
+      "name": "Me Liga",
+      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
     },
     {
       "added_at": "2023-05-12 03:03:00",

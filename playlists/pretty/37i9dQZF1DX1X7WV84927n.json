@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Five Finger Death Punch",
-  "num_followers": 320443,
+  "num_followers": 320589,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTZjZjQwZWY2MDgxNjg1NzgxMDA4ODFmMjhkODA5ZmI5M2U1ZGU5",
+  "snapshot_id": "MCwyMDk1YjVhOTBhZjYzNTcxZTQ5MDA4Nzg4ODllNDNjY2Q4Yjc4Mjdi",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "BANSHEE/#REBEL",
-        "url": "https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf"
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/2aC2YH2ZxdTGgni85OcNu5"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 214880,
       "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j"
+      "url": "https://open.spotify.com/track/6pdntQc8sbazCWErk3AKz1"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -91,18 +91,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Need A Favor",
-        "url": "https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd"
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -135,26 +139,6 @@
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "ATUM",
         "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 187835,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
-        "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
-      "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Darkness Before The Dawn",
         "url": "https://open.spotify.com/album/3IZTHRazB2WFoRlrHzFd4x"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 219186,
       "name": "Darkness Before The Dawn",
       "url": "https://open.spotify.com/track/2BbMEzY7aVDsks9rNBLE7n"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
+        "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
+      "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
     },
     {
       "added_at": "2023-06-09 04:01:00",

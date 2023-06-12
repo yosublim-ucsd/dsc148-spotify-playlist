@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 163091,
       "name": "Backstreetboyz",
       "url": "https://open.spotify.com/track/2vBsiMIBsojrlR69SOvJR1"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -5800,6 +5800,24 @@
       "duration_ms": 148119,
       "name": "En Solskinnsdag",
       "url": "https://open.spotify.com/track/3n3x4saKCr5Y6XTzXXpiM6"
+    },
+    {
+      "album": {
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+      },
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186413,
+      "name": "En Solskinnsdag",
+      "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
     },
     {
       "album": {
@@ -10540,6 +10558,24 @@
       "duration_ms": 118766,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo"
+    },
+    {
+      "album": {
+        "name": "Melis",
+        "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
+      },
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Idyll",
+      "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
     },
     {
       "album": {

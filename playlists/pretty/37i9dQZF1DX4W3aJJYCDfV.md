@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nathan Dawe, Joel Corry + Ella Henderson \(pictured\), J Hus + Drake, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,871 likes - 142 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,800 likes - 142 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 72 | [You Belong With Me](https://open.spotify.com/track/50RfRlCwn9rzIrEncTJL5G) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [You Belong With Me](https://open.spotify.com/album/5AbsHlpipMjNGEm2gfAqWY) | 3:26 |
 | 73 | [MORE OR LESS](https://open.spotify.com/track/0ICM24EFzuFvn1Hk5tSbXy) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p) | [MORE OR LESS](https://open.spotify.com/album/5ujYwI20QzkWG6RCvrEtHQ) | 3:07 |
 | 74 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 |
-| 75 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 75 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 76 | [Bounce](https://open.spotify.com/track/48rDZsD6mAvTU6vhPua3On) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Bounce](https://open.spotify.com/album/5hMAn7UkuDIIkbDPg4iaUR) | 2:19 |
 | 77 | [Make It Right \(feat\. Josie Man\)](https://open.spotify.com/track/4sdx46cciyfrmrvMWX3JuF) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Make It Right \(feat\. Josie Man\)](https://open.spotify.com/album/0ZMXuUkoAvwKzMKrGMZT5A) | 3:00 |
 | 78 | [Sunset](https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Sunset](https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h) | 4:45 |
@@ -137,12 +137,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 127 | [Good To Me](https://open.spotify.com/track/632maZyihLFATahwU2jyu0) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Perfext](https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [The Sarz Academy Presents: Memories That Last Forever 2](https://open.spotify.com/album/6PUjWFCiY99oOGa8fV6yGB) | 3:34 |
 | 128 | [not responsible](https://open.spotify.com/track/5zpQViOSv0oXf8utyIPhdq) | [Zoey Lily](https://open.spotify.com/artist/0LazfGmIM2fG2g9Xg3ZLWA) | [Too Many Nights](https://open.spotify.com/album/3kZqPKDypjiQEF7axzeCAe) | 3:07 |
 | 129 | [Good Enough](https://open.spotify.com/track/75eZUwglAq6A6o3iNcnuUV) | [Jesse Elvis](https://open.spotify.com/artist/761s7ARkOG0L11knEZ0WhF) | [Good Enough](https://open.spotify.com/album/1hhhSiRAkbbcdnqA2YiI9D) | 3:03 |
-| 130 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
+| 130 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 131 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 |
 | 132 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
 | 133 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 |
 | 134 | [Never the One](https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Never the One](https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B) | 2:57 |
-| 135 | [Cinnamon Buns](https://open.spotify.com/track/121lkT3w23DMbVDb9gQFZ0) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a), [Rozsa](https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa), ['No Secrets'](https://open.spotify.com/artist/000AVsBO0NE04KcMVKh4na) | [Cinnamon Buns](https://open.spotify.com/album/3j6tLuBtq27fnUnMqXq5Sw) | 2:45 |
+| 135 | [Cinnamon Buns](https://open.spotify.com/track/121lkT3w23DMbVDb9gQFZ0) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a), [Rozsa](https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa), [NoSecrets](https://open.spotify.com/artist/000AVsBO0NE04KcMVKh4na) | [Cinnamon Buns](https://open.spotify.com/album/3j6tLuBtq27fnUnMqXq5Sw) | 2:45 |
 | 136 | [When I Look At You](https://open.spotify.com/track/5G8kYuImq3N1CTQWBwt8Nm) | [Liv Harland](https://open.spotify.com/artist/0X9dw83QR5kirBVlMffpKW) | [Inspirations](https://open.spotify.com/album/579RGhdS5J6Aq9IMkJOvw8) | 3:35 |
 | 137 | [Do You Want My Love](https://open.spotify.com/track/6VLxzOQaQv6a8r4RLjP4OP) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34) | [Do You Want My Love](https://open.spotify.com/album/1khoRW3vvoveZ5HwOnB6aw) | 3:32 |
 | 138 | [2,3](https://open.spotify.com/track/0NTHd3iUZZwTde1UKOaTZ5) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [2,3](https://open.spotify.com/album/7owfv0ymUOlbhvUQOD4iZw) | 2:32 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 141 | [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 |
 | 142 | [All I Need](https://open.spotify.com/track/0KioBKSzWP7lwXOwH6iJF2) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Brad McDermott](https://open.spotify.com/artist/00wJpBsiDvhEGM3M6cnVgI) | [All I Need](https://open.spotify.com/album/1yJFSMd3lTEkhkEuSp8rHC) | 2:00 |
 
-Snapshot ID: `MCxhYWQzNDJhYmVmMTZmZWY3YmViYzgwYjA3NjMxODI2OGE5ZDJjOWM0`
+Snapshot ID: `MCwyODgwZmUzNGQ5NDhlMTVkMmRkM2ViOGZiYmY1NjBjNDJhYTI0NmJj`

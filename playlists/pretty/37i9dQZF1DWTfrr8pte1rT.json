@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/",
-  "num_followers": 307795,
+  "num_followers": 307839,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjk1MmYxMDE0YTBjNDYwNWFjZGI0MDhmOTVhN2ExOTlhMzA5MmFi",
+  "snapshot_id": "MCw4ZGE2OWM4YjUwY2IxYWE1MjEwYmE5YmY4NDEyOGIwNzQ5ZGVhZmQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 17:17:16",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 182875,
-      "name": "Nothing For Free",
-      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Kill Or Be Killed (Felsmann + Tiley Reinterpretation)",
-        "url": "https://open.spotify.com/album/2KS2e5L7diPrmbjOeL58qv"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        },
-        {
-          "name": "Felsmann + Tiley",
-          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
-        }
-      ],
-      "duration_ms": 171702,
-      "name": "Kill Or Be Killed - Felsmann + Tiley Reinterpretation",
-      "url": "https://open.spotify.com/track/4giarhA9W5oPE7fprx7fcx"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Amnesia (feat. GASHI)",
         "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 193548,
       "name": "Amnesia (feat. GASHI)",
       "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Kill Or Be Killed (Felsmann + Tiley Reinterpretation)",
+        "url": "https://open.spotify.com/album/2KS2e5L7diPrmbjOeL58qv"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Felsmann + Tiley",
+          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+        }
+      ],
+      "duration_ms": 171702,
+      "name": "Kill Or Be Killed - Felsmann + Tiley Reinterpretation",
+      "url": "https://open.spotify.com/track/4giarhA9W5oPE7fprx7fcx"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
       },
@@ -1175,46 +1191,6 @@
       "duration_ms": 160941,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Do Or Die (Alternate Versions)",
-        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        },
-        {
-          "name": "VYPER \uae68\ubb3c\ub2e4",
-          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
-      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1263,6 +1239,30 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Do Or Die (Alternate Versions)",
+        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "VYPER \uae68\ubb3c\ub2e4",
+          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
+      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Day One (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
-      },
-      "artists": [
-        {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 204978,
-      "name": "Day One - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+        "name": "Day One (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
         },
         {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
       ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+      "duration_ms": 204978,
+      "name": "Day One - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
       "artists": [
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         },
         {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Baptize (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
         }
       ],
-      "duration_ms": 250241,
-      "name": "Baptize - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+      "duration_ms": 215172,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
         "url": "https://open.spotify.com/album/69pshuUSWZvUCylSdkYrFh"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 170769,
       "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2145,6 +2145,46 @@
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
+      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
       "added_at": "2023-06-02 17:17:16",
       "album": {
         "name": "die 4 u",
@@ -2167,26 +2207,6 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
-      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2391,26 +2411,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Color Decay (Deluxe)",
-        "url": "https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 246951,
-      "name": "Sacrifice - Ray Volpe Remix",
-      "url": "https://open.spotify.com/track/0Hi0rfeMiMvYdwXYMeML9t"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2451,42 +2451,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+        "name": "Color Decay (Deluxe)",
+        "url": "https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf"
       },
       "artists": [
         {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         },
         {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
         }
       ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "cut the cable",
-        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 178844,
-      "name": "cut the cable",
-      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+      "duration_ms": 246951,
+      "name": "Sacrifice - Ray Volpe Remix",
+      "url": "https://open.spotify.com/track/0Hi0rfeMiMvYdwXYMeML9t"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2507,6 +2487,26 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "cut the cable",
+        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 178844,
+      "name": "cut the cable",
+      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
     }
   ],
   "unique_name": "Rocktronic",

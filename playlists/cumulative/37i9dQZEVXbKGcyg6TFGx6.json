@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 250120,
       "name": "25 G",
       "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 145050,
       "name": "AURA",
       "url": "https://open.spotify.com/track/5345G7vEjOT2CvaECkqJiS"
@@ -4854,7 +4854,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -5888,7 +5888,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -7600,6 +7600,24 @@
       "duration_ms": 184799,
       "name": "Fade",
       "url": "https://open.spotify.com/track/2JCfFrn9DivwTDYhx2Z2qd"
+    },
+    {
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7KxH2DaU1xibdZ4sWkLd3L"
+      },
+      "artists": [
+        {
+          "name": "Eradyk",
+          "url": "https://open.spotify.com/artist/5TuemmJtDpZZfvTbExmEo7"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184799,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/78ueoywWrImrfLMt3MUhui"
     },
     {
       "album": {
@@ -9166,7 +9184,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 138414,
       "name": "Gramm f\u00fcr Gramm",
       "url": "https://open.spotify.com/track/4vEs6qII13M2TjDsuJ82UB"
@@ -9518,7 +9536,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -13824,7 +13842,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 227807,
       "name": "Maria Joana",
       "url": "https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4"
@@ -14422,7 +14440,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 259127,
       "name": "Minha Terra",
       "url": "https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6"
@@ -19798,7 +19816,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 150909,
       "name": "Sombritude",
       "url": "https://open.spotify.com/track/083YRryV94SEGihxdU9qO9"
@@ -22106,7 +22124,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 248866,
       "name": "Trojan Horse",
       "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
@@ -22200,7 +22218,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
@@ -22258,7 +22276,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-12",
       "duration_ms": 198026,
       "name": "UK Rap",
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"

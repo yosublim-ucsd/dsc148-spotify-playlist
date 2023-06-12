@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 422042,
+  "num_followers": 422361,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTI4ZWJmYTk5OGY3YzM1ZWQwYmIyNDhjZDcwZWY4YjRhNGM4Y2Uy",
+  "snapshot_id": "MCwwYThhNDc0N2E3NTIzYzJmZmUwZWMzMmYzZTk0ZjQxOGY2OGQ1OWRi",
   "tracks": [
     {
       "added_at": "2023-06-07 04:49:24",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+        "name": "Belum Siap Kehilangan",
+        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
         }
       ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "Belum Siap Kehilangan",
-        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
       },
       "artists": [
         {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 288333,
-      "name": "Belum Siap Kehilangan",
-      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "Tangga",
-        "url": "https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB"
-      },
-      "artists": [
-        {
-          "name": "Tangga",
-          "url": "https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Hebat",
-      "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
         "name": "Raisa",
         "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 262746,
       "name": "Serba Salah",
       "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
+        "name": "Tangga",
+        "url": "https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB"
+      },
+      "artists": [
+        {
+          "name": "Tangga",
+          "url": "https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Hebat",
+      "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Jangan Kau Lepas",
-      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
         "name": "Keabadian",
         "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 247666,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Jangan Kau Lepas",
+      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
     },
     {
       "added_at": "2023-06-07 04:49:24",

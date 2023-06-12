@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,855 likes - 108 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,863 likes - 108 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [FIGHT!](https://open.spotify.com/track/5fxUkaEFs05qXwvimmPh7i) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [FIGHT!](https://open.spotify.com/album/2popxZy81LJFpFzz3gyOdk) | 1:46 |
 | 108 | [The Lure \(Main Theme\) \(with Mike Dean\)](https://open.spotify.com/track/0OajXvsbkfhx5CTn4gsAdB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [The Idol Episode 1](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 4:37 |
 
-Snapshot ID: `MCw4YmU1YzM4MjI3NzE1OGUzZWQyNjE4MjdlZDQzMmE5NDdhMDE1NDc5`
+Snapshot ID: `MCw0OGJkMTkwMzg2NDY5ZTY5YTNkZGUwMGM2YWE0NTliMzI5ZjZhYjU0`

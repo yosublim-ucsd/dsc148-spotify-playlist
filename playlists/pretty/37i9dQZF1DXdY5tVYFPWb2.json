@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 142624,
+  "num_followers": 142700,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTAzZTBmNTg5M2NkMDJlMGMzODJhNDgzYWM4MjZiZTI0Y2Y4Y2Iw",
+  "snapshot_id": "MCxjY2I4ZmMzNmUzZjczYWE2MmFjNTZmZTcxMDA1NjIxMGJmNzI5NDkw",
   "tracks": [
     {
       "added_at": "2023-06-06 15:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "\u604b\u306f\u3053\u308c\u304b\u3089 / \u541b\u306e\u7b11\u9854\u306b\u3064\u3089\u308c\u3066",
-        "url": "https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1"
-      },
-      "artists": [
-        {
-          "name": "20th Century",
-          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
-      "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
+        "name": "\u604b\u306f\u3053\u308c\u304b\u3089 / \u541b\u306e\u7b11\u9854\u306b\u3064\u3089\u308c\u3066",
+        "url": "https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1"
+      },
+      "artists": [
+        {
+          "name": "20th Century",
+          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
+      "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
         "name": "FANCITY",
         "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
       },
@@ -1403,26 +1403,6 @@
       "duration_ms": 242143,
       "name": "FANCITY",
       "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "RA MU - Night Tempo presents The Showa Groove",
-        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "RA MU",
-          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
-        }
-      ],
-      "duration_ms": 302721,
-      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1447,22 +1427,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Danceless Island",
-        "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Danceless Island",
-      "url": "https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1483,6 +1447,42 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
+        "name": "RA MU - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "duration_ms": 302721,
+      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Danceless Island",
+        "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Danceless Island",
+      "url": "https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
         "name": "yugi",
         "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1515,38 +1531,6 @@
       "duration_ms": 227253,
       "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
       "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "BRAND NEW MEMORY",
-        "url": "https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR"
-      },
-      "artists": [
-        {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
-        }
-      ],
-      "duration_ms": 259038,
-      "name": "BRAND NEW MEMORY",
-      "url": "https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "Change My Life",
-        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
-      },
-      "artists": [
-        {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Change My Life",
-      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 376533,
       "name": "Drive\u2019n The Rain",
       "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "BRAND NEW MEMORY",
+        "url": "https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "duration_ms": 259038,
+      "name": "BRAND NEW MEMORY",
+      "url": "https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Solotrip",
-        "url": "https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 192142,
-      "name": "Solotrip",
-      "url": "https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 294000,
       "name": "Call out",
       "url": "https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Solotrip",
+        "url": "https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 192142,
+      "name": "Solotrip",
+      "url": "https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1739,18 +1739,34 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Too good to be true/Nightmare",
-        "url": "https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR"
+        "name": "DOWN TOWN",
+        "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
       },
       "artists": [
         {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        },
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Hiro-a-key",
+          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 312346,
-      "name": "Too good to be true",
-      "url": "https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm"
+      "duration_ms": 290610,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

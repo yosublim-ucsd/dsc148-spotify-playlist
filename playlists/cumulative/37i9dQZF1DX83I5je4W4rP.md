@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-238 songs - 14 hr 21 min
+239 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-05 |  |
 | [Catching Lightning](https://open.spotify.com/track/0c0OK6ACguL8yMJzwnVnL2) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Catching Lightning](https://open.spotify.com/album/39pbDhzcXTqeuCDgwdTIM6) | 3:14 | 2021-12-10 | 2022-07-29 |
 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 | 2022-08-05 | 2023-06-08 |
+| [Clip My Wings](https://open.spotify.com/track/1X0Vk0VdE7lUp27ofRWUlN) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Clip My Wings](https://open.spotify.com/album/1PnFr9W2wHSzYY25SRRAjs) | 3:38 | 2023-06-07 |  |
 | [Closer To The Sun](https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer To The Sun](https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Closer to the Sun](https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer to the Sun](https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW) | 2:25 | 2022-07-06 |  |
 | [Collie Man](https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Everything You Need](https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6) | 2:13 | 2022-07-06 |  |
@@ -162,7 +163,7 @@
 | [Paradise](https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Paradise](https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s) | 4:10 | 2021-12-10 |  |
 | [Press Remix](https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Remix](https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM) | 3:40 | 2023-06-07 |  |
 | [Press Rewind](https://open.spotify.com/track/2kudB8qSGMmUa5wjVZ7IeX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/1MrH6gRBoOQ92EVboSgsiy) | 4:34 | 2021-12-10 | 2022-07-29 |
-| [Press Rewind](https://open.spotify.com/track/6dBaJ2qH6aPUpt3zMToSGq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:34 | 2023-05-19 |  |
+| [Press Rewind](https://open.spotify.com/track/6dBaJ2qH6aPUpt3zMToSGq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:34 | 2023-05-19 | 2023-06-12 |
 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 | 2022-07-06 |  |
 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 | 2021-12-10 |  |
 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 | 2021-12-10 |  |

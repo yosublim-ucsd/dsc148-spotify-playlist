@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Celebrate 25 years of Sex & The City with a collection of songs from and inspired by the iconic show\. Cover: Charlotte, Samantha, Carrie & Miranda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,297 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227,314 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
 | 50 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 
-Snapshot ID: `MCw1YjdlYjQ0ZTgwZmFhMGEwZjE5YjA2YWQ3ZTEwNmMyYmU0ZWFhZTZl`
+Snapshot ID: `MCw5YzA0ODBkNzZkZmNlNjI3NDk1ODc3ODgxNjM0YmRjNzE3OGU5YWJi`

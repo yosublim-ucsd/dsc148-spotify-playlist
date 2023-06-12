@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,942 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,939 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [一絲不掛的憂傷](https://open.spotify.com/track/4khI7S1H8NPFTuh7jYk7eu) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [一絲不掛的憂傷](https://open.spotify.com/album/6k2QnyKj24x5BHGuiTMl45) | 3:38 |
 | 100 | [預感](https://open.spotify.com/track/7cd9FUyybSJX1gQ9ElPi2g) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:50 |
 
-Snapshot ID: `MCwxYzIzMmVjMDI5NDYxZDY3YTFmYmUzNWU4NWQzMGMxOWFjOGM5ZDQ5`
+Snapshot ID: `MCxhNDg2YzlmNWVlZDgzYzk3MzFkYjE5ODU4ODZjOGY0ODM2ODc0YTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from The Drums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,491 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,500 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 89 | [Sorry Like You Mean It](https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/1j2YF9cYbGQZiTg8aTE7WE) | 3:29 |
 | 90 | [Everybody Just Wants To](https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Everybody Just Wants To](https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU) | 2:26 |
 | 91 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
-| 92 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 |
+| 92 | [Orbit](https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:32 |
 | 93 | [She's on Fire](https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [She's On Fire](https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY) | 4:25 |
 | 94 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 |
 | 95 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 |
 | 100 | [Boy](https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Boy](https://open.spotify.com/album/2qBJLDN7ESadifGtdEUsY9) | 3:11 |
 
-Snapshot ID: `MCwyNzg5MTA0OWVmMTAwOTMzNzEzNmZhOWQzZTY3NTU3ODRmMGU5NWNm`
+Snapshot ID: `MCw4ODczYTBjM2RkN2UzZDViYjRhZTYyYzVjMDYxNmIzZTllYzU2Zjky`

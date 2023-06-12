@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Milky Chance along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,967 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,064 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 59 | [Oh No Darling!](https://open.spotify.com/track/3TMp13jKf5DDxmVfs4HGbt) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:23 |
 | 60 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 |
 
-Snapshot ID: `MCxiMzY0YzA3YTU5N2VmNGU1NTFhZGUzNTYxZGRlMGVlNjAyYTQwZjBh`
+Snapshot ID: `MCw3ZTY0NDE4MzQwNmVjOGUyZWRmZTU0ZjkxMmRkMDE5ZmU4ODBmMTU1`
