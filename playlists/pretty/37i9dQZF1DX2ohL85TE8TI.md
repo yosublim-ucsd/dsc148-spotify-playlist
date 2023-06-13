@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Dr\. Romantic\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 낭만닥터 김사부\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,704 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,845 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 100 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 |
 
-Snapshot ID: `MCxjNTdmZTg3YmEyOTRmZmI5Y2ZmNDAzZDhlODAyNjFlOTZiNWZmODFm`
+Snapshot ID: `MCwyNDMwN2YwYjQwZjIxMTAwNzhlZTc0Mjg5MDUzOTczNWIxODU1NWU1`

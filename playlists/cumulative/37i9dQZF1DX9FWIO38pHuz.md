@@ -4,11 +4,12 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-82 songs - 4 hr 53 min
+83 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [AA Side Single](https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [AA Side Single](https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN) | 4:03 | 2022-11-30 |  |
+| [AA Side Single](https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [AA Side Single](https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN) | 4:03 | 2022-11-30 | 2023-06-13 |
+| [AA Side Single](https://open.spotify.com/track/47sujtTF4MdGku6L74kWRu) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:03 | 2022-11-30 |  |
 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 | 2022-11-30 |  |
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-11-30 | 2023-04-30 |
 | [Aqua Girl \- Jules Grant Remix](https://open.spotify.com/track/2ZDaTRSKYqzl561mnMF4k5) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Jules Grant](https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8) | [Aqua Girl \(Jules Grant Remix\)](https://open.spotify.com/album/369x47N74qLzB1rlEAohUw) | 3:16 | 2022-11-30 |  |

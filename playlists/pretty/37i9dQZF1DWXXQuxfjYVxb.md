@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 
 > The very best of Cardi B\. Listen to Cardi's new song  "UP" Okurr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,520 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,634 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 | 42 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 43 | [Bartier Cardi \(feat\. 21 Savage\)](https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:44 |
 
-Snapshot ID: `MCwyODEzYzEyM2Q3YmE0ZjNjODA2MzY1NzQ2YjNhMTI0NDI2NDM3Njc1`
+Snapshot ID: `MCwwOGI0NGY5NDIxNTAxYWVhYzFhY2Y3MDAwZDEyYzFlYTNmMTg5YjEw`

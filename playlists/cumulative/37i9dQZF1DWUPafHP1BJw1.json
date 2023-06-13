@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "LA FAMA",
+        "url": "https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91"
+      },
+      "artists": [
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b"
+    },
+    {
+      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&amp;B jams and viral trends feat Rihanna, Mary J. Blige &amp; Coco Jones! Cover: Summer Walker",
-  "num_followers": 8150,
+  "num_followers": 8151,
   "original_name": "Top Trending: R&B / Soul",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MjA0NCxlZGY2MTU2ZWQ0ZDUzYmRkOTkzYTA4MWYyMjFkZTg5ZThlMWFhOTE5",
+  "snapshot_id": "MjA0NiwyZjNmZTJlNWFkMTliNjU3ZmM4YTdlODZlY2Y1YTU0YTM2NTRjMWRj",
   "tracks": [
     {
       "added_at": "2023-05-23 20:19:52",
@@ -151,6 +151,22 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2023-06-12 21:57:01",
+      "album": {
+        "name": "Is It A Crime? EP",
+        "url": "https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 142041,
+      "name": "Is It A Crime?",
+      "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
     },
     {
       "added_at": "2023-05-23 20:19:52",

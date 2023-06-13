@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,435 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,555 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 74 | [Coincidencia](https://open.spotify.com/track/3MZH3sQRfgZayfUBnD45ux) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z), [BRYE](https://open.spotify.com/artist/374V8LHsfdvvaFU4gfIYrO) | [Otro Color](https://open.spotify.com/album/0RoApJdoKdm1M57K4cFpk3) | 3:12 |
 | 75 | [Amor Fallido](https://open.spotify.com/track/6eQEldYcnaiKujlmgbx0ND) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Sin Fecha De Vencimiento](https://open.spotify.com/album/7unwzqZgUDVjwwUHAiwpZ5) | 3:39 |
 
-Snapshot ID: `MCw1NTA2ZGUzNTI4MDU0Y2UzMDRlZDNmMDE3NjFkN2Y3MTdkNGU5ZGNm`
+Snapshot ID: `MCwxMzMyMzcwZmE0OWVjNWZkMTJjZTE5OTc2YmQxNjBjNjBmNGZkNjUy`

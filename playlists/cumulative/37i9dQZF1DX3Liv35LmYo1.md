@@ -4,7 +4,7 @@
 
 > Moody electronica for the night shift
 
-147 songs - 11 hr 44 min
+148 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2022-12-01 |  |
 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 | 2022-12-01 | 2023-03-31 |
 | [fall back](https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw) | [fall back](https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj) | 4:12 | 2022-12-01 | 2023-03-25 |
-| [Falling Under](https://open.spotify.com/track/1xVfYTbOUuA5FJaLbZXVIg) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Falling Under](https://open.spotify.com/album/5uVjUcMLeQmlgIBsAikmEO) | 4:31 | 2023-06-08 |  |
+| [Falling Under](https://open.spotify.com/track/1xVfYTbOUuA5FJaLbZXVIg) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Falling Under](https://open.spotify.com/album/5uVjUcMLeQmlgIBsAikmEO) | 4:31 | 2023-06-08 | 2023-06-13 |
 | [Flauta Magica](https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8) | 2:22 | 2022-12-01 | 2023-03-25 |
 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 | 2023-03-16 |  |
 | [Fooley](https://open.spotify.com/track/53a82fPkpZAQ7zgXTCsLpn) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:34 | 2023-02-09 | 2023-05-06 |
@@ -133,6 +133,7 @@
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-12-01 | 2023-03-25 |
 | [Speed King](https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Speed King](https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf) | 9:52 | 2022-12-01 | 2023-03-03 |
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-12-01 | 2023-03-25 |
+| [Strange Sounds](https://open.spotify.com/track/62dLbHvGjxAOwWt38CwQ2w) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 5:51 | 2023-06-08 |  |
 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 | 2023-02-09 | 2023-03-25 |
 | [suddenly](https://open.spotify.com/track/2In6PrEuJro3m27l29YTG3) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j) | 3:35 | 2022-12-01 | 2022-12-14 |
 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 | 2022-12-01 |  |

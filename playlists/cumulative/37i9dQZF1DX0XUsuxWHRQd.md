@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from  Metro Boomin, Moneybagg Yo, YG and Tyga
+> Music from Metro Boomin, Moneybagg Yo, YG and Tyga
 
 1,650 songs - 3 day 13 hr 8 min
 

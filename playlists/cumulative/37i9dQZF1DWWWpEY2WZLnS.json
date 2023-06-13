@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mas pegao en Dembow. \nCover: Kiko El Crazy",
+  "description": "Lo mas pegao en Dembow. \nCover: Peso Pluma y El Alfa",
   "name": "Dembow Pegao",
   "tracks": [
     {
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
@@ -4259,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "Pichirry",
+        "url": "https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "Pichirry",
+      "url": "https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ"
+    },
+    {
+      "album": {
         "name": "Pila'e Teteo",
         "url": "https://open.spotify.com/album/2rq7AbuH4rMfsS6pP0nFPS"
       },
@@ -4274,7 +4296,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 157565,
       "name": "Pichirry",
       "url": "https://open.spotify.com/track/4WxbLssRkT28OuU9nYmlSJ"
@@ -4332,6 +4354,28 @@
       "duration_ms": 190169,
       "name": "Piropi",
       "url": "https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu"
+    },
+    {
+      "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,683 likes - 102 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,703 likes - 102 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 101 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 | 102 | [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 |
 
-Snapshot ID: `MCw3ZWMzOWZhMjc4NDIxOTAyMjQxMGFlZDk0ZjA1YTZlMTVhMDRjYjEy`
+Snapshot ID: `MCw3ZjAxMjIxM2ZiYmJlYmQ0NmE0NjlhN2FjODYyZTdhYjBkODY3NGNm`

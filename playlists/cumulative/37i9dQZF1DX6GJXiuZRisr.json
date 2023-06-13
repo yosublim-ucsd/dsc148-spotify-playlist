@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
@@ -7858,6 +7858,28 @@
       "duration_ms": 162580,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/22UPkpMAwkxdsZnuS1tAxW"
+    },
+    {
+      "album": {
+        "name": "Zara (ALPHA 9 Remix)",
+        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Zara - ALPHA 9 Remix",
+      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr"

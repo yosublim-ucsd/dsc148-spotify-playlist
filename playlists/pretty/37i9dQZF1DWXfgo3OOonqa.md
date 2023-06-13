@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > d min bratkooooo
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,622 likes - 86 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,681 likes - 86 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 85 | [CHROME HEARTS](https://open.spotify.com/track/15myElcUodWzdBhmeCRkF3) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [CHROME HEARTS](https://open.spotify.com/album/53aSOp9m0KGQmk00qdb69U) | 2:19 |
 | 86 | [Swervin](https://open.spotify.com/track/52DaVto2mC1WRYvqzv1XUQ) | [GSM GULLY](https://open.spotify.com/artist/1ijkpUlX703OAydlPtNVzP) | [Swervin](https://open.spotify.com/album/28f2jocrQQJvi4HHMdC4pc) | 3:15 |
 
-Snapshot ID: `MCw0ODI3N2MzYTM5MDA5NTNjNGIyYTAwMmY0ZTdhMGVjZjAxZmRhM2Qz`
+Snapshot ID: `MCwwNGE4NGU3YjlkODRmOGNjYTQ2MWVlYWI3ZGJkOWM1MWMzZDNhMDY5`

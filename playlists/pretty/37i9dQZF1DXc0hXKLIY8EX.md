@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Conneticut music breaking waves\. Cover: Ice Spice & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155 likes - 61 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 61 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 60 | [pamper!](https://open.spotify.com/track/6n8fvllUe0eQRMoX5yr618) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [pamper!](https://open.spotify.com/album/3SP44QfxpGYFhgjRDiprIN) | 1:38 |
 | 61 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 
-Snapshot ID: `MCw5MTNhNjliYWMxYzc0NjE0OGEyOGVjNzBkZmQ0NjljMzA3YjhjOWRm`
+Snapshot ID: `MCwwMGQ0Mzk3M2IxMzg1ODAyYjRkNzFkNGM4MmE4ZGE3NmQ1NWY3YWM2`

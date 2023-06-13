@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,450 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,894 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Secrets \- Sped Up Version](https://open.spotify.com/track/4lAgubu7u2I8YqBs2Lefhi) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Secrets \(Sped Up Version\)](https://open.spotify.com/album/0oyWSmS7Zk7U7TQKXGgFCF) | 1:42 |
 | 100 | [Drama \(feat\. Drake\) \- Sped Up](https://open.spotify.com/track/4Xu9IUWFfEkW8YZw6orPGd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 3:44 |
 
-Snapshot ID: `MCw2MGYzNWM4YTEwZWU3MWYwZjEwMjg4M2I2NTFlNTI5MTQzYjBhM2I4`
+Snapshot ID: `MCwzNDJhODFlNzNhYjRmNjhiOWViNzZjZWZkYWM5MjdjNGJiNTM5OWZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,797 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,814 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 14 | [On To The Next One](https://open.spotify.com/track/0iIHi4PR5RNS97qDFDYEzG) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [On To The Next One](https://open.spotify.com/album/6JlZ30MIRDya1ejygqMk47) | 2:48 |
 | 15 | [Raise a Glass](https://open.spotify.com/track/0udhUWKw9Rf556Nf7X5Ep9) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU), [Shahi Teruko](https://open.spotify.com/artist/74Nzptrhmpsceggc2DPW8G) | [Raise a Glass](https://open.spotify.com/album/1o6BgBrtidtzazbU3umYeE) | 3:52 |
 | 16 | [Funky Family](https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Funky Family](https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI) | 4:06 |
-| 17 | [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 |
+| 17 | [Scream!](https://open.spotify.com/track/35PUAa9vqiMdVhhzakNdaZ) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:34 |
 | 18 | [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 |
 | 19 | [Yes It Do](https://open.spotify.com/track/3S2AYMJpZBYwFJkqIhwpnV) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [Keep It Real](https://open.spotify.com/album/490tEx7QX0OmH7vmZ6JZBk) | 2:24 |
 | 20 | [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCxhMTNjNmFjZDZhZTIyY2ZjYTU1OWEyNGM4ZTNhYjNlZDI0MDg5MWE3`
+Snapshot ID: `MCwwNGZiMGYzNDQ4ZjhlZmNlM2YxOWQ5MzlhMTRjNWM1N2FlZjhmZGI5`

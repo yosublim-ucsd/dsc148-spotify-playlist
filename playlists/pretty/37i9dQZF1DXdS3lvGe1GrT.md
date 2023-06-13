@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,173 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,219 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Familiar Face](https://open.spotify.com/track/1tgv5EAivEwdfJiHvC6ZhZ) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Familiar Face](https://open.spotify.com/album/7A0h7lTs2LUIQ5FSoZqvyc) | 2:30 |
 | 100 | [Forgiveness](https://open.spotify.com/track/1QdrHmhH2QfiyfqME61MTg) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Forgiveness](https://open.spotify.com/album/1kutmstIVd2137q5aiN9Al) | 2:48 |
 
-Snapshot ID: `MCw4ZjU1MzU4ZWI1NTQ1NDZlZGJiOTFmNDVkNzkzNjkyNGFmMTQwOTk0`
+Snapshot ID: `MCxkM2IwYjk4MGRjY2QyYzg1OWM3YTk1NjQxZTkzYjg0YjkwYjk1Mjc5`

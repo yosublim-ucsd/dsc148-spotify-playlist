@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=teqXkrAlT8aQUdbJL1KbeA">HONEYMOAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,256 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,262 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
 | 100 | [Queen of Nothing \- Radio Remix](https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [AM/FM](https://open.spotify.com/album/37c3d2zBC43BVUTodE178f) | 3:27 |
 
-Snapshot ID: `MCxmN2M2OGNiMzM2ZDQyYmJiMmRjOGQyNDVjNTU2OWFmM2E2OWVmZGQ1`
+Snapshot ID: `MCxhNTQ0MzI5ZDBlODQ1MTUzMmMxZDMzYTk4MWM4ZjZlMTUzZDEzMzY5`

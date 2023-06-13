@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124960,
+      "name": "Ah\u00ed Les Encargo",
+      "url": "https://open.spotify.com/track/0kiGIbCbOmQPl7a5SZhnzI"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 187720,
       "name": "Mis Dos Vicios",
       "url": "https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6"

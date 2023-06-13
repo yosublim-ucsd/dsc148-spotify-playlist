@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,382 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,386 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [F.O.](https://open.spotify.com/track/1UtMrFhIMqr7JxJvmizLM7) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [F.O.](https://open.spotify.com/album/79zFhhB0UfgTwdPaVv1drX) | 3:21 |
 | 67 | [Vengeance // 直衝地獄](https://open.spotify.com/track/2doqzJTVdH9nNuesRwNXKY) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/0ZJJtdrebVOdx8yKeAZogM) | [Vengeance // 直衝地獄](https://open.spotify.com/album/5GUJQEU9GZ7Hv6B9XbCEF1) | 4:08 |
 
-Snapshot ID: `MCxlZjY1MzJjODA4NjVlZjM4ODMzYjQwNmRhNzdhN2U5YmFhZDBmMzQy`
+Snapshot ID: `MCw1NmM2NDVhYjIyNGQ4NGNkNjAzMzU4NTdhZWJkNzY0NGZmNWVlMThh`

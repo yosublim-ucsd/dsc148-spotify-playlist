@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g?si=8a0f7b38ba0e44ef">Semler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,859 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,926 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Voyage](https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Voyage](https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi) | 3:28 |
 | 98 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
 
-Snapshot ID: `MCxjY2Q1ODU3ZjdmNGE0ZWNkZDdlYzljYmYyZmY1MzgyOGYxYjExYjEy`
+Snapshot ID: `MCwyZjI5OGY5Y2ViOTMwZGZhZDU2MGE2MzM1NzAyYTZiMDYxNzc5NzRh`

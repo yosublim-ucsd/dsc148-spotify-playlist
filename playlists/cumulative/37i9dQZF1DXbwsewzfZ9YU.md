@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Zulu
 
-105 songs - 4 hr 31 min
+106 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Resurrection II](https://open.spotify.com/track/6ekWBiiyu5wPAixB5ZtK2H) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 3:02 | 2023-04-21 |  |
 | [Shadow Figure](https://open.spotify.com/track/1LFFTtAGghxZLGZcBj2jPo) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 2:31 | 2023-02-24 |  |
 | [Soul Deprivation](https://open.spotify.com/track/2znXHOOnt1MyScfn5BS9z0) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Depictions of Chaos](https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh) | 2:28 | 2023-02-24 |  |
+| [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-12 |  |
 | [Teeth](https://open.spotify.com/track/4kkhQOFrNzvkAiwyK6gV4w) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Fade](https://open.spotify.com/album/0sCbs96kgvWVbTDtA2BPIR) | 4:30 | 2023-02-24 | 2023-05-20 |
 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 | 2023-02-24 |  |
 | [The Killing Womb](https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 2:32 | 2023-02-24 |  |

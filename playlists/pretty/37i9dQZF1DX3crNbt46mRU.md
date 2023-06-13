@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,096 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,107 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 14 | [Hundert Jahre Eiszeit](https://open.spotify.com/track/2aS1Hr5Yirja8gYge1wmTZ) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn), [Pano](https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa) | [Hundert Jahre Eiszeit](https://open.spotify.com/album/03ONbOfdYundtRiHOmaGgj) | 2:35 |
 | 15 | [TAXI SULLA LUNA](https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [TAXI SULLA LUNA](https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG) | 2:23 |
 | 16 | [Focus](https://open.spotify.com/track/4uSCy5aQ6PvKL3QGicLTAp) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Focus](https://open.spotify.com/album/7nBWxRRvrBQvHNhtAO9oMi) | 2:01 |
-| 17 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 17 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 18 | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX) | 3:49 |
 | 19 | [Keine Love](https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Keine Love](https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw) | 2:38 |
 | 20 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Kein Künstler](https://open.spotify.com/track/0l3j8q0jYIMDsOHt2eG7QG) | [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [Kein Künstler](https://open.spotify.com/album/5CMnOMRzAjqTE0KYCCr8S2) | 3:39 |
 | 106 | [PLOMO](https://open.spotify.com/track/3t9UdRTNyegLcFdDaUD3QJ) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [PLOMO](https://open.spotify.com/album/14jXb1MegQ8z6W1bYjPDhR) | 2:41 |
 
-Snapshot ID: `MCwwNGJlOWYyNzgwODcwODEwYTljYmFiYTg2NzhiMjk5OGIyZGY1NDZh`
+Snapshot ID: `MCw1Zjc2NzEyMmRlMWFiNGE4MzViMTYxOGNjY2M3Njg4OTMzNGEyNjE5`

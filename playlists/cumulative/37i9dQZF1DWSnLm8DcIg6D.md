@@ -2,7 +2,7 @@
 
 ### [hot girl sh\*t](https://open.spotify.com/playlist/37i9dQZF1DWSnLm8DcIg6D)
 
-> 3, 2 , 1 girls wanna have fun  ❤️‍🔥 cover: Doja Cat
+> I do what I wanna, I go when I gotta \- Madonna
 
 114 songs - 6 hr 0 min
 

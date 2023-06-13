@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 77098,
+  "num_followers": 77267,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVjZmQ3NTk2NjYxOGZlN2Q1YWZjYmZlOTc4ODcxNGQ5YWZlYWJl",
+  "snapshot_id": "MCwxYzY1M2YyMGFjZmJhNmU3ZDBiZDlhZmFhMmVhNzkwNTM1M2U5ZDdi",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Est\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 352533,
-      "name": "Est\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "No Sil\u00eancio (Ao vivo)",
         "url": "https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Est\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 352533,
+      "name": "Est\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Eu Sou Mist\u00e9rio",
         "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
       },
@@ -231,38 +231,6 @@
       "duration_ms": 268510,
       "name": "Eu Sou Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Pode Dormir Tranquilo",
-        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 288457,
-      "name": "Pode Dormir Tranquilo",
-      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -283,6 +251,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "O Le\u00e3o",
         "url": "https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD"
       },
@@ -299,6 +283,38 @@
       "duration_ms": 267398,
       "name": "O Le\u00e3o",
       "url": "https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "T\u00e1 nas M\u00e3os de Deus",
+        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 262528,
+      "name": "T\u00e1 nas M\u00e3os de Deus",
+      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "T\u00e1 nas M\u00e3os de Deus",
-        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 262528,
-      "name": "T\u00e1 nas M\u00e3os de Deus",
-      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "O M\u00ednimo de Mim",
         "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Mudou",
-        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 269183,
-      "name": "Ele N\u00e3o Mudou",
-      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Vou Marcar Tua Hist\u00f3ria",
         "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 249983,
       "name": "Vou Marcar Tua Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Ele N\u00e3o Mudou",
+        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 269183,
+      "name": "Ele N\u00e3o Mudou",
+      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Deus Vai Te Honrar",
-        "url": "https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 262250,
-      "name": "Deus Vai Te Honrar",
-      "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 340411,
       "name": "Voc\u00ea N\u00e3o Vai Parar",
       "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Deus Vai Te Honrar",
+        "url": "https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 262250,
+      "name": "Deus Vai Te Honrar",
+      "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Sou Eu",
-        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
+        "name": "Forma de Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
+      "duration_ms": 244285,
+      "name": "Forma de Cuidado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -699,6 +703,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Sou Eu",
+        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Sou Deus",
         "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Forma de Cuidado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Forma de Cuidado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -763,6 +763,38 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -823,38 +855,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Deus Realiza Sonhos",
         "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 389634,
       "name": "O Noivo Vir\u00e1",
       "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 266020,
       "name": "Fase do Deserto",
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 327456,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 327456,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "O Desfecho",
         "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
       },
@@ -1175,6 +1175,38 @@
       "duration_ms": 275132,
       "name": "N\u00e3o Vai Se Repetir",
       "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Porto Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nrrM8gk1SiXeqWMUnMSnk"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 335620,
+      "name": "Porto Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1215,38 +1247,6 @@
       "duration_ms": 263040,
       "name": "Tempo de Espera",
       "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Porto Seguro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nrrM8gk1SiXeqWMUnMSnk"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 335620,
-      "name": "Porto Seguro - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2023-06-02 03:00:00",

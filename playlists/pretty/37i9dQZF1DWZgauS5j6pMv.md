@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,639 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,730 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 49 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 |
 | 50 | [Unshakable](https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Unshakable](https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK) | 5:31 |
 | 51 | [Goddam \- Action Paxton Remix](https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Action Paxton](https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ), [Olivia Ruff](https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Brasstronix](https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2) | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14) | 4:33 |
-| 52 | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP) | 4:50 |
+| 52 | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/3baccsZBLbwyt13He6xLgf) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:50 |
 | 53 | [Maybe You´re the One](https://open.spotify.com/track/3mDWp7MEpIouGgskiiqITA) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Susanne Ørum](https://open.spotify.com/artist/2pA0uUUengpSBIefFLlwag) | [Maybe You´re The One](https://open.spotify.com/album/6E8LtIJ6vpnMlNKWxucLew) | 3:40 |
 | 54 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 |
 | 55 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 | 100 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 
-Snapshot ID: `MCxiYjZiNmI5MzQ1MGVlNThkZWRiNGU5YmI3YjczN2ViYTQzMTQ5ZDVl`
+Snapshot ID: `MCxkMzYwYzliOWMxYjgzN2E2NTcyYjQ4NGYzM2JhYzQ5ZDUyMmE0ZGQ3`

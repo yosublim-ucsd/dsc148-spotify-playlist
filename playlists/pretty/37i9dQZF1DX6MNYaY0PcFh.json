@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 60047,
+  "num_followers": 60118,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE2ZmUwM2FkY2Q3ZTc5ZTMyMWIyM2Q3OTJmYTVhNDA1OWMyNGUw",
+  "snapshot_id": "MCxmZjZlMzk3Yjg2NjczNDA4YzcwMDYyZjYxNWYyYTI5MThhMjlmOGM5",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "This Time of Morning (Mikey B Remix) (feat. Local)",
         "url": "https://open.spotify.com/album/4XYjOIWcFXIPmvCBpNASXD"
       },
@@ -371,6 +355,30 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "On a Beach (Champion Remix)",
+        "url": "https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        },
+        {
+          "name": "Double S",
+          "url": "https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "On A Beach - Champion Remix",
+      "url": "https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "345",
         "url": "https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G"
       },
@@ -411,26 +419,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "On a Beach (Champion Remix)",
-        "url": "https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ"
       },
       "artists": [
         {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        },
-        {
-          "name": "Double S",
-          "url": "https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         }
       ],
-      "duration_ms": 165692,
-      "name": "On A Beach - Champion Remix",
-      "url": "https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE"
+      "duration_ms": 180923,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/3FGBDhlwrAPNv486sGmYSS"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 170381,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb"
     },
     {
       "added_at": "2023-06-08 23:00:00",

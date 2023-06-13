@@ -4470,7 +4470,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 146526,
       "name": "Felt Like Heaven",
       "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
@@ -4536,6 +4536,36 @@
       "duration_ms": 138157,
       "name": "Floor Seats (Text Back)",
       "url": "https://open.spotify.com/track/6m37YblnnlJ1x7DfTc3Vj0"
+    },
+    {
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/2qacgpQ0n3auIenJgT5yVA"
+      },
+      "artists": [
+        {
+          "name": "Horse Head",
+          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        },
+        {
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+        },
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Floorboards",
+      "url": "https://open.spotify.com/track/5ozjeOUHnkmrdBqsDzeTkt"
     },
     {
       "album": {

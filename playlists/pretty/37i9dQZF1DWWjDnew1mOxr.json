@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Sam Fender ",
-  "num_followers": 106403,
+  "num_followers": 106485,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzk2YWE1MmFlYjQyZjE0NDMyYjY0ZTM4YzI5M2NiMjBhZjI1M2Ix",
+  "snapshot_id": "MCw4MjE3MWM2ZTk0ZjY5MjM0YjFkZjk1ZjE1ZjRmY2ZlOTBkMjZiZjQ2",
   "tracks": [
     {
       "added_at": "2023-06-07 18:06:31",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Do You Want It?",
-        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
+        "name": "Troubled Son",
+        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
         }
       ],
-      "duration_ms": 190914,
-      "name": "Do You Want It?",
-      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
+      "duration_ms": 200482,
+      "name": "Troubled Son",
+      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -327,6 +327,22 @@
       "duration_ms": 237986,
       "name": "Hypersonic Missiles",
       "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "Do You Want It?",
+        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Do You Want It?",
+      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -359,22 +375,6 @@
       "duration_ms": 151166,
       "name": "Intimacy",
       "url": "https://open.spotify.com/track/39EFala3XXRculW4xXJyOg"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
-        "name": "Troubled Son",
-        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 200482,
-      "name": "Troubled Son",
-      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -743,22 +759,6 @@
       "duration_ms": 188744,
       "name": "Wave",
       "url": "https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Skirts & Salads",
-        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
-      },
-      "artists": [
-        {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
-        }
-      ],
-      "duration_ms": 144896,
-      "name": "Skirts & Salads",
-      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
         "name": "Never Good Enough",
         "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 227115,
       "name": "Never Good Enough",
       "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "Skirts & Salads",
+        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "duration_ms": 144896,
+      "name": "Skirts & Salads",
+      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "King of My Head",
-        "url": "https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H"
+        "name": "Buck Rogers Time",
+        "url": "https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ"
       },
       "artists": [
         {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+          "name": "Cucamaras",
+          "url": "https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T"
         }
       ],
-      "duration_ms": 220085,
-      "name": "King of My Head",
-      "url": "https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2"
+      "duration_ms": 274664,
+      "name": "Bleachers Yard",
+      "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Buck Rogers Time",
-        "url": "https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ"
+        "name": "King of My Head",
+        "url": "https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H"
       },
       "artists": [
         {
-          "name": "Cucamaras",
-          "url": "https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T"
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
         }
       ],
-      "duration_ms": 274664,
-      "name": "Bleachers Yard",
-      "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
+      "duration_ms": 220085,
+      "name": "King of My Head",
+      "url": "https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Propaganda",
-        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
       },
       "artists": [
         {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
         }
       ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+      "duration_ms": 146865,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "SITUATIONS",
-        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
       "artists": [
         {
-          "name": "Retro Video Club",
-          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
         }
       ],
-      "duration_ms": 179618,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -1175,6 +1159,22 @@
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "SITUATIONS",
+        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
+      },
+      "artists": [
+        {
+          "name": "Retro Video Club",
+          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
+        }
+      ],
+      "duration_ms": 179618,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
     },
     {
       "added_at": "2023-06-07 18:06:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-07 18:06:31",
       "album": {
-        "name": "Time Comes Around",
-        "url": "https://open.spotify.com/album/0mNncGLnd5QVfpRjrILdXC"
-      },
-      "artists": [
-        {
-          "name": "Liam Fender",
-          "url": "https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6"
-        }
-      ],
-      "duration_ms": 272720,
-      "name": "Time Comes Around",
-      "url": "https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji"
-    },
-    {
-      "added_at": "2023-06-07 18:06:31",
-      "album": {
         "name": "Fashion",
         "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "added_at": "2023-06-07 18:06:31",
+      "album": {
+        "name": "Time Comes Around",
+        "url": "https://open.spotify.com/album/0mNncGLnd5QVfpRjrILdXC"
+      },
+      "artists": [
+        {
+          "name": "Liam Fender",
+          "url": "https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6"
+        }
+      ],
+      "duration_ms": 272720,
+      "name": "Time Comes Around",
+      "url": "https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji"
     }
   ],
   "unique_name": "Proper Belters",

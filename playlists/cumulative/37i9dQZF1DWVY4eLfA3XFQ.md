@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Odd Mob
 
-1,124 songs - 2 day 17 hr 31 min
+1,125 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Know My Name \(Woo Dat\)](https://open.spotify.com/track/0O76moOQx3YIeqPJScB24c) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Know My Name \(Woo Dat\)](https://open.spotify.com/album/0EUPcYgMGtKlrNOh9Zje6H) | 2:16 | 2021-11-26 | 2022-01-06 |
 | [Krank](https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX) | [Krank](https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg) | 3:46 | 2022-10-28 | 2023-01-21 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-11-26 | 2022-03-12 |
-| [L.S.D](https://open.spotify.com/track/14uVQ9HVZl2cmFKqsv4v7N) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [SLY.](https://open.spotify.com/artist/5Btk5DDiCMFIBmX7oHPZb1) | [L.S.D](https://open.spotify.com/album/1hPJDSLWXOUlzkvmJxr54M) | 2:22 | 2023-06-09 |  |
+| [L.S.D](https://open.spotify.com/track/14uVQ9HVZl2cmFKqsv4v7N) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [SLY.](https://open.spotify.com/artist/5Btk5DDiCMFIBmX7oHPZb1) | [L.S.D](https://open.spotify.com/album/1hPJDSLWXOUlzkvmJxr54M) | 2:22 | 2023-06-09 | 2023-06-13 |
 | [La candela viva](https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [La candela viva](https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr) | 2:54 | 2022-01-21 | 2022-05-14 |
 | [La Candela Viva](https://open.spotify.com/track/7nXUx5OiBbR4gmKMW91Jjo) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [La Candela Viva](https://open.spotify.com/album/1QKqaGnIWDOk4w5eX0rjjE) | 3:00 | 2022-07-22 | 2022-11-12 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-03-11 | 2022-06-18 |
@@ -939,6 +939,7 @@
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2023-05-20 |
 | [Take Me Back](https://open.spotify.com/track/2nrS7SfM7zZqZi3e9YSeiK) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Take Me Back](https://open.spotify.com/album/5thXHrAHGnJLLirz347m9w) | 3:25 | 2021-11-26 | 2022-01-06 |
 | [Take My Hand \- Torren Foot Club Mix](https://open.spotify.com/track/0A1XjIshFtH22M9Pk0gAs8) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Take My Hand \(Torren Foot Club Mix\)](https://open.spotify.com/album/6WiWo0paKtRz7w4rZIJPZP) | 3:52 | 2021-11-26 | 2022-04-02 |
+| [Take You Home](https://open.spotify.com/track/1BBxP6CwIQICRZbcsmUz40) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [Take You Home](https://open.spotify.com/album/2T9xeXxvkfCdKue0QEGNzb) | 2:19 | 2023-06-09 |  |
 | [Taken In](https://open.spotify.com/track/4AfjRPe21waJcsTwBTMU19) | [Armbar](https://open.spotify.com/artist/2xioGjvFkStDPGKFHsnF8X) | [Taken In](https://open.spotify.com/album/25WiJtAV6qMLcO9aNL7GQN) | 8:16 | 2022-12-28 | 2023-01-06 |
 | [Taki](https://open.spotify.com/track/5hKRfygrnxV9mN7y8xo7EN) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [verk](https://open.spotify.com/artist/6VTs7LSFnN636jvXUTkUgo) | [Taki](https://open.spotify.com/album/274pH7bndWdA3YdBQz09g9) | 2:39 | 2023-04-14 | 2023-06-10 |
 | [Taking Libz \- Original Mix](https://open.spotify.com/track/1S6m7dZJnGkuHpzYorEx47) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Taking Libz EP](https://open.spotify.com/album/6igcWVzxDCCETgeMdJmeBV) | 6:17 | 2022-05-13 | 2022-05-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 94611,
+  "num_followers": 94708,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
+  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -791,6 +791,26 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Better Living Through Chemistry",
         "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 422960,
       "name": "Fantasy Girl - Acid Mix",
       "url": "https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR"
-      },
-      "artists": [
-        {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Addison Groove",
-          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
-        }
-      ],
-      "duration_ms": 204579,
-      "name": "Acid Bit (feat. Addison Groove)",
-      "url": "https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM"
     }
   ],
   "unique_name": "303 Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGhPW9YWwgC.md) - [plain]
 
 > La playlist oficial de la serie de Netflix, Sky High.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,688 likes - 26 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGhPW9YWwgC.md) - [plain]
 | 25 | [Quisiera Volverme Buena](https://open.spotify.com/track/6Ap6cqtMY5hGRq7vqqP9fj) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Miguel Campello](https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 3:43 |
 | 26 | [Parte Por Parte](https://open.spotify.com/track/3m6uuHUNDl3iYZVCBuvPEz) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 2:28 |
 
-Snapshot ID: `MCw3NWEyOTMyMDYxNGExZTA0OWZjZGZjZjNmNzI1OTYzMzQ3OThjZmUz`
+Snapshot ID: `MCw5ZDZlNjEyZGY1YTllZmJjYTJmOWJmZDc2ZGE0NzViM2MyZmM5OTcy`

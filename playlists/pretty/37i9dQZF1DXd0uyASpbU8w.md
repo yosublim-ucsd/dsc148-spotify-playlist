@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=tx7HKXszTPKz14xbc5CrQA">J Hus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,707 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,722 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 59 | [No Other Love](https://open.spotify.com/track/3Cv4fILQBIlDpGc548ZyBm) | [David Watkyns](https://open.spotify.com/artist/033aqXGhGeMNniint8kvoh) | [No Other Love](https://open.spotify.com/album/0TfavVcux41W2yOzisSbfT) | 3:11 |
 | 60 | [Hidden Stars](https://open.spotify.com/track/2LjIst0MFxVFMS5mxsUycd) | [Rowan Stuart](https://open.spotify.com/artist/2Vh3ok1AQZa05LZInly68a) | [Hidden Stars](https://open.spotify.com/album/5YK1VxnEiDgsqrvqsVcXhl) | 3:35 |
 
-Snapshot ID: `MCw1MzA5MWFjNzFjYWJiY2Y3YjkxZDU2YWE2MjZiM2UwMjE1MzZiOWU1`
+Snapshot ID: `MCw0N2E0MWE3OWNjZjRhMTAyOTA0NzE2NWVkYzliZjJkZmU5ZjM4Mjlh`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+        "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292527,
+      "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
+      "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
+    },
+    {
+      "album": {
         "name": "A Mere Blip In Your Timeline",
         "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
@@ -5788,7 +5806,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 243750,
       "name": "Reach Across the Sky - Crystal Skies Remix",
       "url": "https://open.spotify.com/track/5xWYXEcB7FUX9IW7wMRG0h"
@@ -6046,6 +6064,10 @@
         {
           "name": "Dion Timmer",
           "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
         },
         {
           "name": "Alexis Donn",

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3208,
+  "num_followers": 3213,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODFhZDY2NDkzMjE1YjgwYzM4MjZiMmM1ZmNlMDI0MTY2MzBlM2Iw",
+  "snapshot_id": "MCw3ZGFlYzBjMDc0OGViYTI1YWZiZjAxZjhmMWNlN2NkMjhlNGVhYjg5",
   "tracks": [
     {
       "added_at": "2023-06-09 07:15:27",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-06-09 07:15:27",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-06-09 07:15:27",
+      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
-    },
-    {
-      "added_at": "2023-06-09 07:15:27",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-06-09 07:15:27",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-06-09 07:15:27",
       "album": {
+        "name": "The Longest Journey",
+        "url": "https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx"
+      },
+      "artists": [
+        {
+          "name": "Pieternel",
+          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "The Longest Journey",
+      "url": "https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809"
+    },
+    {
+      "added_at": "2023-06-09 07:15:27",
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
       },
@@ -815,34 +831,18 @@
     {
       "added_at": "2023-06-09 07:15:27",
       "album": {
-        "name": "The Longest Journey",
-        "url": "https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx"
+        "name": "Big Grey Boxes",
+        "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
       },
       "artists": [
         {
-          "name": "Pieternel",
-          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
         }
       ],
-      "duration_ms": 228466,
-      "name": "The Longest Journey",
-      "url": "https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809"
-    },
-    {
-      "added_at": "2023-06-09 07:15:27",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+      "duration_ms": 259374,
+      "name": "Big Grey Boxes",
+      "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
     }
   ],
   "unique_name": "Route Americana",

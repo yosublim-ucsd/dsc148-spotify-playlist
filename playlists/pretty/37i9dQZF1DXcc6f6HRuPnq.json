@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 85989,
+  "num_followers": 86179,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTZjMDg0ZDgzZmE3OTNjODRiZDFmODIzOTc2Nzk0Y2IwMGRhNDJk",
+  "snapshot_id": "MCwyOTMzMmIzNjlhNTVkYzNkMGYyMDAzYmQxYzEzZTEwYzQ5MjA0OGI5",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -575,22 +591,6 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Driftin' Blues (Live)",
-        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
-      },
-      "artists": [
-        {
-          "name": "Charles Brown",
-          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Driftin' Blues - Live",
-      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Driftin' Blues (Live)",
+        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Driftin' Blues - Live",
+      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Old Bones, New Fire",
-        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
       },
       "artists": [
         {
-          "name": "Miraculous Mule",
-          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
         }
       ],
-      "duration_ms": 187524,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Old Bones, New Fire",
+        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+      },
+      "artists": [
+        {
+          "name": "Miraculous Mule",
+          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Poet Of The Blues",
-        "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"
+        "name": "Life Don't Miss Nobody",
+        "url": "https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP"
       },
       "artists": [
         {
-          "name": "Percy Mayfield",
-          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
+          "name": "Tracy Nelson",
+          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 172573,
-      "name": "The River's Invitation",
-      "url": "https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3"
+      "duration_ms": 335826,
+      "name": "It Don't Make Sense (feat. Charlie Musselwhite)",
+      "url": "https://open.spotify.com/track/2GIRnzs5MPRzUkJFJF2gTw"
     }
   ],
   "unique_name": "Midnight Blues",

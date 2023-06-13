@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "Duur",
+        "url": "https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "Duur",
+      "url": "https://open.spotify.com/track/7Ee3A2Q4UcHiUDrd3aGi6a"
+    },
+    {
+      "album": {
         "name": "Scars & Screws",
         "url": "https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc"
       },
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 312892,
       "name": "Pehli Nazar Mein",
       "url": "https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1"

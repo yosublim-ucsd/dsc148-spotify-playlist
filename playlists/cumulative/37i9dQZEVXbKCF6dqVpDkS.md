@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,065 songs - 2 day 7 hr 12 min
+1,066 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Als Je Bij Me Blijft](https://open.spotify.com/track/5R7KyW1qVi1CHzZiB4ALFs) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Als Je Bij Me Blijft](https://open.spotify.com/album/3xzPbtjtcGh53z4VUwbsgO) | 2:45 | 2022-05-14 | 2022-07-24 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2021-10-17 | 2021-11-21 |
 | [Altijd Samen](https://open.spotify.com/track/1Mx89XMlp7edvEoz6CNfji) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nori](https://open.spotify.com/artist/5y4vEhbvfvMF7dwkJLbNUg) | [Altijd Samen](https://open.spotify.com/album/6BHxEiojDWUxosoajN3adD) | 2:17 | 2021-08-22 | 2021-08-23 |
-| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 |  |
+| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 | 2023-06-13 |
 | [Amazin'](https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Amazin'](https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5) | 2:55 | 2022-05-14 | 2022-09-30 |
 | [AMS \- BCN](https://open.spotify.com/track/0TMysfbsGcUHv8zYL9DFpj) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMS \- BCN](https://open.spotify.com/album/5MNOw6rs4svzemQ0VgO7X0) | 2:52 | 2021-07-11 | 2021-07-18 |
 | [Amsterdam](https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Amsterdam](https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3) | 2:53 | 2022-01-15 | 2022-06-19 |
@@ -804,6 +804,7 @@
 | [Risico](https://open.spotify.com/track/30lUzQGA7K32vIj77N4cwC) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:09 | 2021-09-05 | 2021-09-06 |
 | [Risk](https://open.spotify.com/track/5z5t2KLpYFTTMkj2QEMb1x) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Risk](https://open.spotify.com/album/6k8npU2FP0pvCakmKNzS5b) | 3:35 | 2022-08-27 | 2022-09-04 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-13 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-06-12 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-07 | 2022-12-29 |
 | [Roddels](https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Roddels](https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB) | 2:17 | 2023-03-25 | 2023-04-09 |
 | [Roller Coaster](https://open.spotify.com/track/1z2HAz6JcwfGHKMSgKEA3D) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [PRESSURE MAKES DIAMONDS](https://open.spotify.com/album/5GavylsuNH6w0nfggBDuKa) | 4:29 | 2021-03-27\* | 2023-01-07 |

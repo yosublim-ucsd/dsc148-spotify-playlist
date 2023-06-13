@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Sansette Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,593 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,611 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Gin Bilog](https://open.spotify.com/track/3eBj9Hw9YeqvIuZj5tuk0Z) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [DZBY](https://open.spotify.com/artist/1UoRP4CodWnCjUP2nRBv1o) | [Gin Bilog](https://open.spotify.com/album/29Y2jsfCsRsrNNeazsBclq) | 4:39 |
 | 75 | [Hiraya Manawari \(Sana Mangyari\)](https://open.spotify.com/track/6PlB4OhJ1YKXPJ6od8b9FS) | [A for A](https://open.spotify.com/artist/4BytLrttDvV1u8CTUNmBOp) | [Hiraya Manawari \(Sana Mangyari\)](https://open.spotify.com/album/44YgH1zPEDk9ZlmyQOVlON) | 3:37 |
 
-Snapshot ID: `MCw4MWYzODQyMzNlZGVlM2RkNTQ4OTE2MWVmZjFmMmUzZGIyM2Q0MGUx`
+Snapshot ID: `MCxiM2YwMjkwMjExY2M1NTY2NjY1ZGFhNWFmODAzZTUwYzUxZjVmNGU5`

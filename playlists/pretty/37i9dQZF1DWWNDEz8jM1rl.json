@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 111664,
+  "num_followers": 111711,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmM4Njc1OGZmNTdiMzc0OWFlYzJiZGIyYjQzMTQ2YTk3ODNmMjQy",
+  "snapshot_id": "MCxkNmZlMWYwMTdiNTg4MTVmNzhkMmU3MzRiMmY4ZjBjZTQ0MGMzMTFl",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 207966,
-      "name": "El Que Reina",
-      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 264826,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 207966,
+      "name": "El Que Reina",
+      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -211,38 +211,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Oveja Entre Lobos",
         "url": "https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat"
       },
@@ -307,6 +275,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 219692,
       "name": "Tu Eres (feat. Andrea Dominguez)",
       "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos Tropicales",
-        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Largo Viaje",
-      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "S\u00f3lo \u00c9xitos Tropicales",
+        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Largo Viaje",
+      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
-      },
-      "artists": [
-        {
-          "name": "Raza For Christ",
-          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "Fue Por Ti",
-      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Soy Sonero",
         "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 255242,
       "name": "Salsa del Cielo",
       "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
+      },
+      "artists": [
+        {
+          "name": "Raza For Christ",
+          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "Fue Por Ti",
+      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Cambio de Plan",
-        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "Cambio de Plan",
-      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "En Accion",
         "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 282760,
       "name": "En Tu Presencia",
       "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Cambio de Plan",
+        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Cambio de Plan",
+      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
     },
     {
       "added_at": "2020-09-18 05:02:00",

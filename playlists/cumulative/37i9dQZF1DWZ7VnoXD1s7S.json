@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 442293,
       "name": "13 Angels Standing Guard 'Round The Side Of Your Bed",
       "url": "https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 82683,
       "name": "Ache",
       "url": "https://open.spotify.com/track/3tOx7feTSndrn23Pv5LKjX"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 77346,
       "name": "I",
       "url": "https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO"
@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Inuyasha",
+        "url": "https://open.spotify.com/album/7uBNXd5YzniBgl2uZYv275"
+      },
+      "artists": [
+        {
+          "name": "ONIBOY",
+          "url": "https://open.spotify.com/artist/6ZmMnPWHRkSBb0nuyr1phJ"
+        },
+        {
+          "name": "Xori",
+          "url": "https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173776,
+      "name": "Inuyasha",
+      "url": "https://open.spotify.com/track/0TA4JOJDwR4iCimT8EcBb7"
+    },
+    {
+      "album": {
         "name": "You Get Sick; You Regret Things",
         "url": "https://open.spotify.com/album/5ahXdYbeGakgce25ZLVdDm"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 75488,
       "name": "Is it Some Devil That Crawls Inside of You?",
       "url": "https://open.spotify.com/track/2d5iML85eyaY9dP8zuSQGh"
@@ -1378,6 +1400,24 @@
       "duration_ms": 384116,
       "name": "Never",
       "url": "https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV"
+    },
+    {
+      "album": {
+        "name": "SILENT HILL3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7mUy29OoRRIqmm3XsBrdoV"
+      },
+      "artists": [
+        {
+          "name": "Akira Yamaoka",
+          "url": "https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Never Forgive Me, Never Forget Me",
+      "url": "https://open.spotify.com/track/6R4mAswkmw9ufF57p3NvPt"
     },
     {
       "album": {
@@ -1778,6 +1818,24 @@
       "duration_ms": 214588,
       "name": "retire (final)",
       "url": "https://open.spotify.com/track/3xO7yLHU8cTglvxXHFdrSc"
+    },
+    {
+      "album": {
+        "name": "Montage Of Heck: The Home Recordings",
+        "url": "https://open.spotify.com/album/5UlRowLBWdNDdO17os804M"
+      },
+      "artists": [
+        {
+          "name": "Kurt Cobain",
+          "url": "https://open.spotify.com/artist/6pAuTi6FXi6qFQJ1dzMXQs"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Sappy - Early Demo",
+      "url": "https://open.spotify.com/track/4le6DvrwMv2rpyN1SPeL0g"
     },
     {
       "album": {
@@ -2352,7 +2410,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 62272,
       "name": "\u2606\u30e1\u30cb\u30e5\u30fc\u30bf\u30a4\u30d7\u30c1\u30a7\u30f3\u30b8\u2606",
       "url": "https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv"

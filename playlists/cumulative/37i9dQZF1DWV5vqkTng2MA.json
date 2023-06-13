@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 276773,
       "name": "Only Songs",
       "url": "https://open.spotify.com/track/1tbQJsvQzT5KBx3sqgz51u"
@@ -2862,6 +2862,24 @@
       "duration_ms": 260308,
       "name": "Party City",
       "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
+    },
+    {
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Party City",
+      "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
     },
     {
       "album": {

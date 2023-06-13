@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ずっと真夜中でいいのに。 \*👉 <a href="https://spice.eplus.jp/articles/318971?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,051 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,086 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [初恋2 \- prod by Tsudio Studio](https://open.spotify.com/track/14jYhpGWMx4LflgXBk7wO8) | [光学](https://open.spotify.com/artist/0pcVPsuneTWwZrYk6hSnty), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [Tsudio Studio](https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE) | [Opto5:Mandark](https://open.spotify.com/album/1lgy8vRDMNERDlll36wwlZ) | 3:50 |
 | 70 | [fall](https://open.spotify.com/track/4jRdeMokswXcSYn288yKX5) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [fall](https://open.spotify.com/album/1ipnoX9JZ0XQlQfISSCN6R) | 3:18 |
 
-Snapshot ID: `MCw5MTBhODBkZThjNzUyOThmZmE1MTE4OGVjMTVlMzE0OWJiNzE5MmYx`
+Snapshot ID: `MCw0NjFhZDE2N2NiMzkxZTgxMjkxYjM4NGFiNDA2ZTcxODE1ZTgyMTJh`

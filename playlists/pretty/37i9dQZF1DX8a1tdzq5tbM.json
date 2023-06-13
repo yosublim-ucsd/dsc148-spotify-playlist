@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1362910,
+  "num_followers": 1363308,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNiYWQzOTJiNzBmYThiNTYyZmEwODcyN2E4OGYwNjIzMjk2ZGY2",
+  "snapshot_id": "MCxlZjgzMjhmNDc3ODI5Nzk3OWE2OTU4OTlhODkyNTFkMGY4MTQxZTM2",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -159,22 +143,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
       },
@@ -187,22 +155,6 @@
       "duration_ms": 209800,
       "name": "Cry for You",
       "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -223,6 +175,22 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -259,6 +227,22 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -379,6 +363,22 @@
       "duration_ms": 224531,
       "name": "Sun Is Up",
       "url": "https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Let the Music Play",
         "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 216360,
       "name": "Exploration of Space",
       "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326834,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/1Hi9I8Qwt1ADYYlzDge3Np"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326834,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/1Hi9I8Qwt1ADYYlzDge3Np"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -987,42 +987,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Move For me",
-      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Mixed For Feet, Vol. 1",
         "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
       },
@@ -1055,6 +1019,42 @@
       "duration_ms": 187402,
       "name": "75, Brazil Street (Radio Mix) - Nicola Fasano Vs Pat-Rich",
       "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Move For me",
+      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
-        },
-        {
-          "name": "Black Olive",
-          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "You're Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
+        },
+        {
+          "name": "Black Olive",
+          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "You're Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "ResuRection",
         "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Elements Of Life",
+        "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/3GQmTjG7lCwEiujCanfRQI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1267,26 +1287,6 @@
       "duration_ms": 178494,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1QfJwbwcWUHheqVo3yRfpd"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Elements Of Life",
-        "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/3GQmTjG7lCwEiujCanfRQI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
       },
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -1475,6 +1475,26 @@
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Somewhere (feat. Sarah Lynn)",
+        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
+      },
+      "artists": [
+        {
+          "name": "DJ Mog",
+          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
+        },
+        {
+          "name": "Sarah Lynn",
+          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
+      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1503,26 +1523,6 @@
       "duration_ms": 220640,
       "name": "Everytime We Touch (with Steve Angello & Sebastian Ingrosso)",
       "url": "https://open.spotify.com/track/7nuPjNAEL3qcEUcZre7rJF"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Somewhere (feat. Sarah Lynn)",
-        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
-      },
-      "artists": [
-        {
-          "name": "DJ Mog",
-          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
-        },
-        {
-          "name": "Sarah Lynn",
-          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
-      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 200320,
       "name": "Step One Two",
       "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Disconnect (Platinum Edition)",
-        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Radio Edit",
-      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Disconnect (Platinum Edition)",
+        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Radio Edit",
+      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
     },
     {
       "added_at": "2023-03-22 14:00:00",

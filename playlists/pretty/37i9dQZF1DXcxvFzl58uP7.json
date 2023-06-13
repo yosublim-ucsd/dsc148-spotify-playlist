@@ -1,12 +1,12 @@
 {
-  "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1079227,
+  "description": "Dreamy jams from the best bedroom producers. Cover: Clairo",
+  "num_followers": 1079355,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGIxMWEyOWNkZjViMTk1ZTI4ZDkyNTJiZTI5MTAwOTBkZTkwZWRk",
+  "snapshot_id": "MCxlNDc0MjRhMjg3MDg5MDk5YTcwNzRlMTE0NTdlZDBjNTkxYzE1ZGUy",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Sometimes (Backwood)",
         "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 174105,
       "name": "Cooks",
       "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "4 Track EP",
-        "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 186781,
-      "name": "Bedroom",
-      "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+        "name": "4 Track EP",
+        "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
       },
       "artists": [
         {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
         }
       ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+      "duration_ms": 186781,
+      "name": "Bedroom",
+      "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -755,6 +739,22 @@
       "duration_ms": 169822,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "feel u",
         "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 150670,
       "name": "feel u",
       "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
         }
       ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -983,6 +967,22 @@
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "Clueless",
@@ -1143,6 +1127,22 @@
       "duration_ms": 227234,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Nothing in Return",
-        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Nothing in Return",
-      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 194011,
       "name": "Always Lone",
       "url": "https://open.spotify.com/track/5zYDxzEPmchIgpULm0QgJA"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Nothing in Return",
+        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Nothing in Return",
+      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 210281,
       "name": "Puppy Dog",
       "url": "https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "MESS U MADE",
+        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "MESS U MADE",
+      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
     },
     {
       "added_at": "2023-04-28 05:06:47",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
     },
     {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D"
+      },
+      "artists": [
+        {
+          "name": "mal sounds",
+          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Friday Night With The Neighbours",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D"
-      },
-      "artists": [
-        {
-          "name": "mal sounds",
-          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "A lot to explain",
@@ -1591,6 +1591,22 @@
       "duration_ms": 133109,
       "name": "A lot to explain",
       "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1623,22 +1639,6 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
     }
   ],
   "unique_name": "Bedroom Pop",

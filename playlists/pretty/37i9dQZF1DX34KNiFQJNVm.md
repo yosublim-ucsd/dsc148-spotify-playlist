@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosalía e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,365 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,568 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [No Air](https://open.spotify.com/track/0yeMGcQyRgcTeFGPRgpLNa) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [AXXE](https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i), [Ventura](https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC) | [No Air](https://open.spotify.com/album/7D1UOobbVg5OCmMEN0Adlq) | 2:44 |
 | 97 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 |
 
-Snapshot ID: `MCwxY2E3NjZiNzA0NjViMzIzNjQ4NDY3ZmFlMDU5ZjQwNjMwNmNjN2I1`
+Snapshot ID: `MCw3MjZkMmI0ZjMzYjk3ZGQ5YjdlZTQ5MjJjZDMwMDdlNjc1NTZmZjYx`

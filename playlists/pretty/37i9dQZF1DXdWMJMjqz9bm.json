@@ -1,17 +1,17 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 193812,
+  "num_followers": 193850,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODBkMWZkZDMyMDU2ZjhkNjJmZTA5YjBiOWQyZWUyZTU3YzZkMzMy",
+  "snapshot_id": "MCw4ZTI1ODdlNzYwMmIxZjllMzMwOGM5OTBjODQyZDQwNWRmNjgwOWVl",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Good Times Go",
+        "name": "Good Times Go EP",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
       "artists": [
@@ -43,22 +43,6 @@
       "duration_ms": 137915,
       "name": "Vroom",
       "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Walking Blind",
-        "url": "https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU"
-      },
-      "artists": [
-        {
-          "name": "Allen Haley",
-          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
-        }
-      ],
-      "duration_ms": 138301,
-      "name": "Walking Blind",
-      "url": "https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -95,6 +79,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "strings attached",
+        "url": "https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "duration_ms": 124621,
+      "name": "strings attached",
+      "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "NO BAD DAYS (feat. Armani White, Collett)",
         "url": "https://open.spotify.com/album/1IwDQZem4cLcWfJpuoIISn"
       },
@@ -117,22 +117,6 @@
       "url": "https://open.spotify.com/track/3qrxa00Q7sONw0HuvDA3Pg"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "harvey dent",
@@ -151,6 +135,22 @@
       "duration_ms": 151714,
       "name": "harvey dent",
       "url": "https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Walking Blind",
+        "url": "https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU"
+      },
+      "artists": [
+        {
+          "name": "Allen Haley",
+          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
+        }
+      ],
+      "duration_ms": 138301,
+      "name": "Walking Blind",
+      "url": "https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Nothing Last Forever",
         "url": "https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 178745,
       "name": "Nothing Last Forever",
       "url": "https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "strings attached",
-        "url": "https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo"
-      },
-      "artists": [
-        {
-          "name": "gianni & kyle",
-          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
-        }
-      ],
-      "duration_ms": 124621,
-      "name": "strings attached",
-      "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
     },
     {
       "added_at": "2023-05-26 04:00:00",

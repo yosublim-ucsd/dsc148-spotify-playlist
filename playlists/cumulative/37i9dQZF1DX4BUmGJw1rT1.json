@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
@@ -1474,6 +1474,28 @@
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
+    },
+    {
+      "album": {
+        "name": "I Got Your Love",
+        "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        },
+        {
+          "name": "Seibold",
+          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133777,
+      "name": "I Got Your Love",
+      "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
     },
     {
       "album": {

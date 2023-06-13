@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,448 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,455 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Pull up \(Remix\) \[feat\. Kardinal Offishall, Trinity Chris, Lindo P, Untitled, Shawn Desman, Shanti & Fito Blanko\]](https://open.spotify.com/track/2METyPRWcGhvQuXBzUCEzS) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Trinity Chris](https://open.spotify.com/artist/0joS9i0Yela7n7rw9pnZ56), [Lindo P](https://open.spotify.com/artist/3OgBn5STML2ZJQFz9enE8X), [Untitled](https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE), [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Shanti](https://open.spotify.com/artist/4Mqv4vPwfSL3EdB99OVFVX), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [Pull Up](https://open.spotify.com/album/3NKZrJCxOrczBgoYwjt6jp) | 4:23 |
 | 75 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCxhOTgwM2VmYTIxZWQ3ZTYzNDcxMzM1ZWQyMDViY2RmYTZkZjc4NDk3`
+Snapshot ID: `MCxjMTk5OGVkMzg3MTU0YjBlZGFmOTZhMjA4MDYxNzZmMGEwZjk0N2Jm`

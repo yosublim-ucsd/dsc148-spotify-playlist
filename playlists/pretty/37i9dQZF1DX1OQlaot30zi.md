@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rondodasosa, Shiva, Medy, Villabanks e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,823 likes - 95 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,882 likes - 95 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Gotham](https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP), [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Gotham](https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ) | 2:46 |
 | 95 | [SeVilla](https://open.spotify.com/track/0jUKFgZqtTyqGONRe6Ysm3) | [PACOSKI](https://open.spotify.com/artist/6JYRBnw3eN2qidujSRnuN6) | [SeVilla](https://open.spotify.com/album/0Qb4Lk69KfWRSpEmFzmugT) | 3:15 |
 
-Snapshot ID: `MCxlNjQ0NWI4YjI2MmFiZTQ2MjdmMTNjNmQyNWE2MWQzZmU0OTQ0NjE3`
+Snapshot ID: `MCwwYzYwMzNkZWRmOTk5ZDE3YjFjZDE2NjBjNjE2ZjQ5OTBiZTlhNmI2`

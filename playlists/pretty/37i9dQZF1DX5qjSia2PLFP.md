@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=38d777c33e67427b">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,216 likes - 81 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,232 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 64 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 |
 | 65 | [DROPPING 4s](https://open.spotify.com/track/51G1Db6j2UUiil1DzkPP9U) | [150 EBK](https://open.spotify.com/artist/2KYCLOKwnu5Fk3pCA8SKTJ), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [DROPPING 4s](https://open.spotify.com/album/1zRP85In24yIFd7Jz79AEv) | 2:09 |
 | 66 | [Face](https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Face](https://open.spotify.com/album/2FU4NwQkSHHPt8OrCZ7sKN) | 3:07 |
-| 67 | [One Mo Chance](https://open.spotify.com/track/3c1wpfkGzcL260V38wtzCn) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [One Mo Chance](https://open.spotify.com/album/5vTUjOO1XQLmgP5AwVZpym) | 1:50 |
+| 67 | [One Mo Chance](https://open.spotify.com/track/1vVESbpNKntRvd8NKPamUI) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [One Mo Chance](https://open.spotify.com/album/4yTZE01s4ib6fxPe96nKlJ) | 1:50 |
 | 68 | [Hand Her The Gun](https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [The Revive \(The Ascension 2 Prelude\)](https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz) | 2:38 |
 | 69 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 | 70 | [Haku](https://open.spotify.com/track/1USaSmbCC4U80jbN7ZrqeN) | [Auxxk](https://open.spotify.com/artist/2SVrysB8sFET2DutqpqCj5) | [Auxxk Airdrop v4](https://open.spotify.com/album/0FJWZQQ2ozu62YkflVUjWj) | 2:32 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 80 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 81 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCwxODg0ZmM1NDMxYTdhZGQxNjZiYTNiZWJhMmNiNDMyN2M2MzA1NWIx`
+Snapshot ID: `MCxmMjQyNGZmZTA2ZmRhNzJhNzBkZWZjZTg2YjcwNTViNTljYzc1M2Vk`

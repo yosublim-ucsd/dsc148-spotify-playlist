@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Macías en portada.
 
-250 songs - 13 hr 29 min
+251 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,11 +152,12 @@
 | [Necesito Tu Perdón](https://open.spotify.com/track/6uBL9bmmwwQeDK8wbE9LDr) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda La Autentica](https://open.spotify.com/artist/7ccozMZJAeXJcXvwvo2kRT) | [Necesito Tu Perdón](https://open.spotify.com/album/15o4wGalDXk6QJgHEhx50c) | 2:55 | 2022-06-17 | 2022-07-12 |
 | [Necesito Una Compañera](https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Necesito Una Compañera](https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1) | 3:33 | 2022-09-23 |  |
 | [Nimodo](https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nimodo](https://open.spotify.com/album/19Ei3bMxRcA3DbraG7a5eY) | 3:02 | 2022-04-22 | 2022-09-06 |
+| [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 | 2023-06-09 |  |
 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 | 2022-07-01 | 2023-01-28 |
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 |  |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |
 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 | 2022-12-03 |  |
-| [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 |  |
+| [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 | 2023-06-13 |
 | [No Se Lo Deseo a Nadie](https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [No Se Lo Deseo a Nadie](https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs) | 2:23 | 2022-07-01 |  |
 | [No Sé Qué Hacer](https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V) | 2:51 | 2023-01-27 | 2023-02-25 |
 | [Nos Perdimos](https://open.spotify.com/track/3HU3xpciIxqfEZ6P8CznZY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nos Perdimos](https://open.spotify.com/album/536ir6fCRb02qJbAKF2GmR) | 2:48 | 2022-12-03 | 2023-02-01 |

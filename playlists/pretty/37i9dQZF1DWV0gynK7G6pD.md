@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Pablo Sáinz\-Villegas
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,382 likes - 73 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,433 likes - 73 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 72 | [Violin Concerto No\. 1 "Patientia": Patientia](https://open.spotify.com/track/6kcDNJDYxsaZT5qqUeeJM6) | [Kjetil Bjerkestrand](https://open.spotify.com/artist/4sN0cvmzEz8vzY6G0010Nd), [Sara Övinge](https://open.spotify.com/artist/0hoKJio1ECgY1ZvNEj55VH), [Anja Lauvdal](https://open.spotify.com/artist/2uxb12NuFW8uJAHt6CxcGk), [Norwegian Chamber Orchestra](https://open.spotify.com/artist/0d9lUpaO0F9TJH1mEJ3Ec5) | [Violin Concerto No\. 1 "Patientia": Patientia](https://open.spotify.com/album/0svHPVpEPGuGcLx7imou0H) | 4:51 |
 | 73 | [Capriccio sopra La Battaglia, F 2.31](https://open.spotify.com/track/5Se3s0wbqCEbEH7VhEAojy) | [Girolamo Frescobaldi](https://open.spotify.com/artist/3t1716FlIhsjG7C26XkR2F), [Francesco Corti](https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2) | [Capriccio sopra La Battaglia, F 2.31](https://open.spotify.com/album/55vRFhrMb04S6vdRQUbOdN) | 2:05 |
 
-Snapshot ID: `MCxlYzRhNzY5ZGFmZmVmZmZmODE1NTFkYjI2N2U1MzdhNmMxNzkyOTdh`
+Snapshot ID: `MCwwYmZiYzExNGIzZWIxMzhlZGU2MzZkOTVmNzc2NWE1ZTQ5NmQxMTkw`

@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 209006,
       "name": "Bebe Blues (Gray Wolf, Pianobebe)",
       "url": "https://open.spotify.com/track/4TSXaLjKgwnRSDBzCEXcsY"
@@ -124,10 +124,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 236018,
       "name": "Blue for You",
       "url": "https://open.spotify.com/track/1NcDxgxy6022JjFH6g0QuV"
+    },
+    {
+      "album": {
+        "name": "The Piano",
+        "url": "https://open.spotify.com/album/0Rb9Ox0ttvSU9WEDIwx3Sw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Blue Otani",
+      "url": "https://open.spotify.com/track/70Wnix3Z0olEn0trakNdg6"
     },
     {
       "album": {
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 281826,
       "name": "Blue-eyed Devil",
       "url": "https://open.spotify.com/track/5btHPJreBQQrMnRieocsSP"
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Blues For Myself (Piano Solo)",
+        "url": "https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "Blues For Myself",
+      "url": "https://open.spotify.com/track/5adplcKfzKt11qY8KvL4Dd"
+    },
+    {
+      "album": {
         "name": "Blue-eyed Devil: Solo Blues Piano",
         "url": "https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9"
       },
@@ -239,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Her Second Album of Piano Solos with Drums Acc.",
+        "url": "https://open.spotify.com/album/12PaoHPXzBjP9upedckspN"
+      },
+      "artists": [
+        {
+          "name": "Hazel Scott",
+          "url": "https://open.spotify.com/artist/2CoyzkezSfH59UcVF1sGvP"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "Blues in B Flat",
+      "url": "https://open.spotify.com/track/5WNCoHsv3XjmfAX9prwjkb"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/0cX6CQ3MWCTysXi57T1we1"
       },
@@ -250,7 +304,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 188655,
       "name": "Blues In Central Park",
       "url": "https://open.spotify.com/track/0UZjDQEfsravm7l8lW4G7n"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 167666,
       "name": "Boogie Relaxing Piano",
       "url": "https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO"
@@ -304,7 +358,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 270000,
       "name": "Boogies",
       "url": "https://open.spotify.com/track/26DY6PwAh2BHagNyEzcldn"
@@ -358,7 +412,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 251741,
       "name": "Calm Blue",
       "url": "https://open.spotify.com/track/7fwJy2821G1RkhPGIKmBrg"
@@ -376,7 +430,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 185642,
       "name": "Central Park East Blues Song",
       "url": "https://open.spotify.com/track/2E8qQTaAUbHp2a50wqM1FE"
@@ -456,7 +510,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 253413,
       "name": "Deep Feeling Blues",
       "url": "https://open.spotify.com/track/4s1vnhkD5yIUFoTI6KNx8z"
@@ -492,7 +546,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 248586,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv"
@@ -535,6 +589,42 @@
     },
     {
       "album": {
+        "name": "Green's Blues",
+        "url": "https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V"
+      },
+      "artists": [
+        {
+          "name": "Benny Green",
+          "url": "https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355973,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/2O2ZgsGlwexJ4mlMQYphlZ"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/1xn3RlEzSXSXSMd6LdL2N9"
+      },
+      "artists": [
+        {
+          "name": "Late Night Boy",
+          "url": "https://open.spotify.com/artist/0FnVrn8XCkh7WoV9yn1wCX"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/3byWT4cNKt09Heqaa4sZ9o"
+    },
+    {
+      "album": {
         "name": "Piano Major Blues (Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists)",
         "url": "https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh"
       },
@@ -546,7 +636,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 106015,
       "name": "In Effigy",
       "url": "https://open.spotify.com/track/53aweR2cvoXfE4zwffiDnt"
@@ -604,7 +694,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 204631,
       "name": "Jazz Blues (Piano Improve Music)",
       "url": "https://open.spotify.com/track/34AhbSoWB7ISyJ6pPMJ4Aq"
@@ -622,7 +712,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 75860,
       "name": "Lazy Junction Blues",
       "url": "https://open.spotify.com/track/4Ef8GaDTd6q03V7ZMyXLQZ"
@@ -644,7 +734,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 263506,
       "name": "Little Brother - Instrumental",
       "url": "https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW"
@@ -662,7 +752,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 203439,
       "name": "Low Brow Blues",
       "url": "https://open.spotify.com/track/1aFzzG00a8cLNEWBHAzUWh"
@@ -705,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/4iA9O1kxiuLEjEPyeamuRl"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "Memphis Blues",
+      "url": "https://open.spotify.com/track/5EDUzkkjr9ojJ5Zerf0WYf"
+    },
+    {
+      "album": {
         "name": "Midnight Blues",
         "url": "https://open.spotify.com/album/6iKowQ8n8B47QDAVD35YmC"
       },
@@ -734,10 +842,46 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 162626,
       "name": "Midnight Hour Blues",
       "url": "https://open.spotify.com/track/2AS1aJkVBvyJSe8eVPYA84"
+    },
+    {
+      "album": {
+        "name": "At The Piano",
+        "url": "https://open.spotify.com/album/2d4yZdBZNZFYQfxWvo9uly"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471040,
+      "name": "Misterioso",
+      "url": "https://open.spotify.com/track/7cM0CZAO03RDFvIUZAIgxS"
+    },
+    {
+      "album": {
+        "name": "Green's Blues",
+        "url": "https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V"
+      },
+      "artists": [
+        {
+          "name": "Benny Green",
+          "url": "https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335906,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2yBWfprrjGzIq46TYWyxvR"
     },
     {
       "album": {
@@ -770,10 +914,50 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 225477,
       "name": "Past Midnight",
       "url": "https://open.spotify.com/track/1Zp0GjOlty47ruJj6URQXS"
+    },
+    {
+      "album": {
+        "name": "Piano and Soul",
+        "url": "https://open.spotify.com/album/0K8Gg19pYt8wczJa6UWNUs"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1lv\u00f6lgyi G\u00e9za",
+          "url": "https://open.spotify.com/artist/7fCxTOrvVAvihxRNQ3XBZy"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141559,
+      "name": "Piano Blues",
+      "url": "https://open.spotify.com/track/19mBHLCSJodmesoHAXv0MT"
+    },
+    {
+      "album": {
+        "name": "Copland: Complete Solo Piano Works, Vol. 2",
+        "url": "https://open.spotify.com/album/3lcDnJITLkWKcKaREJh13x"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "David Northington",
+          "url": "https://open.spotify.com/artist/1xciq2NF9v0KeE36cqLxzE"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140626,
+      "name": "Piano Blues No. 1",
+      "url": "https://open.spotify.com/track/5HnEJxqDDIBN74Tx2Qbas1"
     },
     {
       "album": {
@@ -792,7 +976,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 265500,
       "name": "Piano Blues: 100% Blues",
       "url": "https://open.spotify.com/track/1xJo9dOq8D3EguvNEjQAvQ"
@@ -814,10 +998,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 269000,
       "name": "Piano Blues: A Hope Street",
       "url": "https://open.spotify.com/track/7sQnsrPA2Vfk8YzY5pnFiS"
+    },
+    {
+      "album": {
+        "name": "Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues",
+        "url": "https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc"
+      },
+      "artists": [
+        {
+          "name": "Instrumental Jazz Music Ambient",
+          "url": "https://open.spotify.com/artist/1EJY1WcqU1y3P5GKl1VqzE"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Piano Blues: Blue Piano Long",
+      "url": "https://open.spotify.com/track/41KCW0aRcTDwvQ4YjyxO62"
     },
     {
       "album": {
@@ -836,7 +1038,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 193000,
       "name": "Piano Blues: Let's Start Again",
       "url": "https://open.spotify.com/track/3PjOjtnxhMTmyQTdZtMNxj"
@@ -854,7 +1056,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 252076,
       "name": "Piano Blues: Not Now",
       "url": "https://open.spotify.com/track/3eBc7S3spGJUaYB5x2kot1"
@@ -973,6 +1175,42 @@
     },
     {
       "album": {
+        "name": "Piano Solo",
+        "url": "https://open.spotify.com/album/42epg9aEn5X05ozmyHZ0RN"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292213,
+      "name": "Solo Blues",
+      "url": "https://open.spotify.com/track/5JUlLQmsP3aWblWq7tRloY"
+    },
+    {
+      "album": {
+        "name": "Jazz Piano: Relaxing Instrumental Music, Best Background Dinner Music Solo Piano Essentials Edition",
+        "url": "https://open.spotify.com/album/64lggAgLX3UitTl7tWudfp"
+      },
+      "artists": [
+        {
+          "name": "Jazz Piano Essentials",
+          "url": "https://open.spotify.com/artist/7FKrXdtvJQnJ5bE4WKx1qn"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114747,
+      "name": "Solo Piano Blues Improv",
+      "url": "https://open.spotify.com/track/4341SmMoZkj2CAEyRm1K0P"
+    },
+    {
+      "album": {
         "name": "Relaxing Jazz For Quiet Moments: Relaxing Jazz Piano Music",
         "url": "https://open.spotify.com/album/4bHSQNDqSd5TFjHBDPsUhl"
       },
@@ -988,6 +1226,24 @@
       "duration_ms": 115986,
       "name": "Solo Piano Blues Improv",
       "url": "https://open.spotify.com/track/1UDsIm2Zv4seGt2Iz96zjb"
+    },
+    {
+      "album": {
+        "name": "Green's Blues",
+        "url": "https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V"
+      },
+      "artists": [
+        {
+          "name": "Benny Green",
+          "url": "https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/4RZP3Vkqd7OaMFcJV4NwAM"
     },
     {
       "album": {
@@ -1020,7 +1276,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 285973,
       "name": "The Grind",
       "url": "https://open.spotify.com/track/1V5e4VotOmyiv6gq5HF46d"
@@ -1100,7 +1356,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 149807,
       "name": "Un piccolo vecchio swing",
       "url": "https://open.spotify.com/track/60DRLblaDS96A0c2Bqwp4I"
@@ -1118,10 +1374,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 225293,
       "name": "Voodoo Rag",
       "url": "https://open.spotify.com/track/5fKitjmfucWNCOZzyk8y6j"
+    },
+    {
+      "album": {
+        "name": "At The Piano",
+        "url": "https://open.spotify.com/album/2d4yZdBZNZFYQfxWvo9uly"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Wazuri Blues",
+      "url": "https://open.spotify.com/track/3Q8ZjS0JPDxOLiijhDDJBe"
     },
     {
       "album": {
@@ -1136,7 +1410,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 179139,
       "name": "When the Saints Go Marching In",
       "url": "https://open.spotify.com/track/3MS0XCPJ0D6L5ksyDN11Z9"

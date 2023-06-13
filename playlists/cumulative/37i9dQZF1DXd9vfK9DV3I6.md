@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-249 songs - 18 hr 27 min
+250 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Mandala](https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi) | 3:57 | 2022-08-22 |  |
 | [Mandala](https://open.spotify.com/track/5K0R8reohWaKRyehS3dJt3) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/1sBusxJUPeNbyGtoZgfwkL) | 3:57 | 2020-10-18\* | 2022-07-29 |
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2020-10-18\* |  |
-| [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2020-10-18\* |  |
+| [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2020-10-18\* | 2023-06-13 |
 | [Mazrub](https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Mazrub](https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi) | 3:06 | 2021-02-23 | 2023-03-26 |
 | [Memories](https://open.spotify.com/track/79K265g8aRrl98igAjOE0L) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY) | 3:28 | 2020-11-13 | 2022-07-29 |
 | [Memories](https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y) | 3:28 | 2022-06-27 | 2023-03-18 |
@@ -237,6 +237,7 @@
 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 | 2022-06-27 |  |
 | [Voyage](https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF) | [Houssem Amari](https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd), [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Voyage](https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC) | 4:04 | 2021-10-27 | 2023-05-26 |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2020-10-18\* | 2021-05-06 |
+| [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 | 2023-06-09 |  |
 | [Weyna \- DJ Phellix Remix](https://open.spotify.com/track/6ukHZyw9OSWYb4xnxjamB6) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV) | [Weyna \(DJ Phellix Remix\)](https://open.spotify.com/album/5DSKC1TtOIYbGVk1X8T43I) | 6:26 | 2023-06-08 |  |
 | [Whenever You Go \(La La La\)](https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB) | [The Suncatchers](https://open.spotify.com/artist/0ciYYtVA4U5kas1Q3CJeTA), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Whenever You Go \(La La La\)](https://open.spotify.com/album/4KbvlXJCOQpYjwVMSSWZ4p) | 3:02 | 2020-10-18\* | 2022-06-19 |
 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 |  |

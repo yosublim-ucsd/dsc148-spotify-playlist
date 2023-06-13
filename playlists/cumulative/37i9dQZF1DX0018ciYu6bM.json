@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: (G)I-DLE",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: LE SSERAFIM",
   "name": "KimBops!",
   "tracks": [
+    {
+      "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
+    },
     {
       "album": {
         "name": "YOUNI-BIRTH",
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 171840,
       "name": "Cherry Talk",
       "url": "https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP"
@@ -1820,6 +1838,24 @@
       "duration_ms": 150026,
       "name": "DOMESTIC",
       "url": "https://open.spotify.com/track/3TXcWRCU3TMLAAYRTnFCN4"
+    },
+    {
+      "album": {
+        "name": "NINE to SIX 1st Single Album \u2032GOOD TO YOU\u2032",
+        "url": "https://open.spotify.com/album/1xKvkkPctHHnzZr8qKq6xC"
+      },
+      "artists": [
+        {
+          "name": "NINE to SIX",
+          "url": "https://open.spotify.com/artist/2L2CWqf3JTM6IuEDS1vnHz"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Don\u2032t Call Me",
+      "url": "https://open.spotify.com/track/2JZcu16wgcucoYRBWD41zQ"
     },
     {
       "album": {
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
@@ -3531,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "HARMONY : ALL IN",
+        "url": "https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
+    },
+    {
+      "album": {
         "name": "[Genuine]",
         "url": "https://open.spotify.com/album/2HBxRQqGizwA9UveoLz3QP"
       },
@@ -4514,7 +4568,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 209786,
       "name": "My Love",
       "url": "https://open.spotify.com/track/41UKTWmpieX6d0AOpqAxFw"
@@ -4692,7 +4746,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 157462,
       "name": "Nolza",
       "url": "https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v"
@@ -4710,7 +4764,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 210880,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/6rB8dfmItwVjDKRVHriRhI"
@@ -5122,7 +5176,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 177055,
       "name": "PINK YOUR MOMENT",
       "url": "https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT"
@@ -5603,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "QUEENDOM PUZZLE RISE UP",
+        "url": "https://open.spotify.com/album/5ELU5e4oPW1YVP2bCczUsH"
+      },
+      "artists": [
+        {
+          "name": "QUEENDOM PUZZLE",
+          "url": "https://open.spotify.com/artist/6gppD6ZX5uLUK1mUDqJX5e"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "RISE UP",
+      "url": "https://open.spotify.com/track/32ZAKn8Qc0VGn4UmCxnR5z"
+    },
+    {
+      "album": {
         "name": "ASSEMBLE",
         "url": "https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5"
       },
@@ -5803,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "S-Class",
+      "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
+    },
+    {
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1l6LyCeXhE2eyAqHIk73Sj"
       },
@@ -6000,6 +6090,24 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
     },
     {
       "album": {
@@ -6552,7 +6660,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 129240,
       "name": "Sunday Night Drive",
       "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
@@ -6671,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
       },
@@ -6682,7 +6808,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 167533,
       "name": "Tantara",
       "url": "https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8"
@@ -7735,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN"
+    },
+    {
+      "album": {
         "name": "BIT Part.1",
         "url": "https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc"
       },
@@ -7862,6 +8006,24 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "album": {

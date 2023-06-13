@@ -1,15 +1,15 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 123995,
+  "num_followers": 124083,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDgwOTgsMDAwMDAwMDAwZWEwY2VhNmI5NTFmZTExMzAzZmZlYjM0MzdkMzBlYw==",
+  "snapshot_id": "MjgxMDk1MzQsMDAwMDAwMDAzZDA3MjY0YzRmNjliOWNhMjdkYWQ1YjMwMDlkZmZiNQ==",
   "tracks": [
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
-      "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626880,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
-    },
-    {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
@@ -81,7 +65,23 @@
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
+      "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
+      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
+    },
+    {
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
-      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
-    },
-    {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 326880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
+    },
+    {
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
@@ -177,23 +177,7 @@
       "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 326880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
-    },
-    {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
@@ -213,7 +197,7 @@
       "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
@@ -229,7 +213,23 @@
       "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "El Todopoderoso",
+      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
+    },
+    {
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
-    },
-    {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
@@ -301,7 +285,7 @@
       "url": "https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
@@ -321,7 +305,7 @@
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
@@ -369,7 +353,7 @@
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Salsa Hits Nyc, Vol. 1",
         "url": "https://open.spotify.com/album/3rHhHCN4x6Yk9km8YpasIv"
@@ -385,7 +369,7 @@
       "url": "https://open.spotify.com/track/7JcCOSGvzdSJwBe3R1hwKe"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
@@ -401,7 +385,7 @@
       "url": "https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
@@ -417,7 +401,7 @@
       "url": "https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
@@ -433,7 +417,7 @@
       "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
@@ -453,7 +437,7 @@
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -525,7 +509,7 @@
       "url": "https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "T\u00fa Bien Lo Sabes",
         "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
@@ -541,7 +525,7 @@
       "url": "https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
@@ -561,7 +545,7 @@
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
@@ -581,7 +565,7 @@
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -597,7 +581,7 @@
       "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
@@ -613,7 +597,7 @@
       "url": "https://open.spotify.com/track/50T8GUjGq1SMxsMWMLu0fl"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
@@ -629,7 +613,7 @@
       "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
@@ -645,27 +629,7 @@
       "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
-      "album": {
-        "name": "La Gran Fuga",
-        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 263773,
-      "name": "Abuelita",
-      "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
-    },
-    {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
@@ -685,7 +649,27 @@
       "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "Abuelita",
+      "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
+    },
+    {
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
@@ -705,7 +689,7 @@
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
@@ -725,7 +709,7 @@
       "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Dia De Ayer",
         "url": "https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI"
@@ -745,7 +729,7 @@
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
@@ -761,7 +745,7 @@
       "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "La Gran Fuga",
         "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
@@ -781,7 +765,7 @@
       "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
@@ -817,7 +801,7 @@
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -833,7 +817,7 @@
       "url": "https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
@@ -853,7 +837,7 @@
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
@@ -869,7 +853,7 @@
       "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
@@ -893,7 +877,7 @@
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -909,7 +893,7 @@
       "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "El Sabio",
         "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
@@ -925,7 +909,7 @@
       "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
-      "added_at": "2023-06-11 12:18:22",
+      "added_at": "2023-06-12 12:14:03",
       "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
@@ -939,6 +923,26 @@
       "duration_ms": 211200,
       "name": "Comedia",
       "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
+    },
+    {
+      "added_at": "2023-06-12 12:14:03",
+      "album": {
+        "name": "Viva La Charanga",
+        "url": "https://open.spotify.com/album/5mZdp6J9epdgylrUNHp89v"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Isla Del Encanto",
+      "url": "https://open.spotify.com/track/42Wy96ME6BJo7ZS0tWfSQr"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

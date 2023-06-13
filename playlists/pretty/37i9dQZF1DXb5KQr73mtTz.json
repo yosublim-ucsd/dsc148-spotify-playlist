@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10362,
+  "num_followers": 10379,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM4NGVkNzRhN2UwZjRkZGU2Mzg1ZjkwNTM2MDg5NWEyYmUzYjE1",
+  "snapshot_id": "MCwwOWY0M2Y4MzBhYzMwMjQzZjYwMTE2MGNjNDNhZjE4ZjQzZjIzYzgw",
   "tracks": [
     {
       "added_at": "2023-05-31 15:48:01",
@@ -159,6 +159,38 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "My sea",
+      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -191,38 +223,6 @@
       "duration_ms": 258532,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "My sea",
-      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 192430,
-      "name": "Forgetting You",
-      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
+        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
+      },
+      "artists": [
+        {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "The Island",
-      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 228548,
       "name": "lie",
       "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
         "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 302864,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2023-05-31 15:48:01",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-31 15:48:01",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-05-31 15:48:01",
-      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204937,
       "name": "nevertheless",
       "url": "https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2"
+    },
+    {
+      "added_at": "2023-05-31 15:48:01",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-05-31 15:48:01",

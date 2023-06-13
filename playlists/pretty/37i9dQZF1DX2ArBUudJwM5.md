@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,162 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,155 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 9 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
 | 10 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 11 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 |
-| 12 | [Hacia los Bosques](https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:04 |
-| 13 | [Disimulando](https://open.spotify.com/track/6hvWHYGNxRNnnOcFT7CxOI) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Oriente](https://open.spotify.com/album/75dUWteARyUJf238yCqtud) | 1:25 |
+| 12 | [Disimulando](https://open.spotify.com/track/6hvWHYGNxRNnnOcFT7CxOI) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Oriente](https://open.spotify.com/album/75dUWteARyUJf238yCqtud) | 1:25 |
+| 13 | [Hacia los Bosques](https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:04 |
 | 14 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 |
 | 15 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 16 | [Canción Cauce](https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 1:56 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 37 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 |
 | 38 | [KRONOS](https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV) | [EMILIA SALŪM](https://open.spotify.com/artist/0ZrwqNDhNGrqOxPxjKb40A) | [Ēgida](https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ) | 3:54 |
 | 39 | [Enciendo](https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Enciendo](https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI) | 2:46 |
-| 40 | [Indefinido](https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO) | [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Transparente](https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc) | 2:23 |
-| 41 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
+| 40 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
+| 41 | [Indefinido](https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO) | [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Transparente](https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc) | 2:23 |
 | 42 | [Camino](https://open.spotify.com/track/7yGV8rGE3cme3t6RVnrEIj) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Camino](https://open.spotify.com/album/3ZiNjuZj0pj5EEUpr5jCDL) | 2:14 |
 | 43 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
-| 44 | [Ego](https://open.spotify.com/track/5Iku361RKkGY4j2Bs0fpcg) | [Nube de magallanes](https://open.spotify.com/artist/5ZvzaUuX9L4BzMUvmMhFul) | [Ego](https://open.spotify.com/album/0RdnnfVy7EYNJpJw4iknOY) | 3:01 |
-| 45 | [A Cara de Perr4](https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB) | [Rebelión en la Zanja](https://open.spotify.com/artist/2jzPsfoptoYtn0QO20peft), [DJ DEMON10](https://open.spotify.com/artist/4900tzL324zNZXrc9Nl2EH) | [A cara de Perr4](https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch) | 2:08 |
+| 44 | [A Cara de Perr4](https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB) | [Rebelión en la Zanja](https://open.spotify.com/artist/2jzPsfoptoYtn0QO20peft), [DJ DEMON10](https://open.spotify.com/artist/4900tzL324zNZXrc9Nl2EH) | [A cara de Perr4](https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch) | 2:08 |
+| 45 | [Ego](https://open.spotify.com/track/5Iku361RKkGY4j2Bs0fpcg) | [Nube de magallanes](https://open.spotify.com/artist/5ZvzaUuX9L4BzMUvmMhFul) | [Ego](https://open.spotify.com/album/0RdnnfVy7EYNJpJw4iknOY) | 3:01 |
 | 46 | [Tuluz](https://open.spotify.com/track/7DMZkhNsMnkLzgo0dZ6xE9) | [Natasha Doe](https://open.spotify.com/artist/5bsh3uuCDjvGE44fabHaZC) | [Tuluz](https://open.spotify.com/album/29oDtLN4ah2hzy32FVVXP7) | 3:09 |
 | 47 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
 | 48 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 |
 | 49 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 | 50 | [Manantyal](https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx) | [La Fresca](https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E) | [Manantyal](https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK) | 3:15 |
 
-Snapshot ID: `MCw5Y2VjMzQ3ZjIyOTUwYjNjMzFiZWNkYWE2Mzc5NzQ4Njc2YjQ1YmI2`
+Snapshot ID: `MCxkNWNjMmEyMjA0OGZmMjFlODkzZmQ0NDVlYjE3Nzk2OTFmNzViNWIz`

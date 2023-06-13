@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-589 songs - 2 day 4 hr 27 min
+590 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Argon](https://open.spotify.com/track/5l4LtxYMrEwPeqELZ8KeKc) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 5:00 | 2021-10-20 | 2022-07-13 |
 | [Arrival](https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 9:26 | 2021-10-20 | 2022-07-23 |
 | [Asia](https://open.spotify.com/track/6kg3oZmQjDU1nMLOWU3gVP) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:03 | 2021-10-20 | 2022-11-13 |
+| [Astrosat](https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 5:00 | 2021-10-20 |  |
 | [Astrosat](https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3) | 5:00 | 2021-10-20 | 2022-09-26 |
 | [Astrosat](https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 5:00 | 2021-10-20 | 2023-06-08 |
 | [Astrosat](https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 5:00 | 2021-10-20 | 2022-10-21 |
@@ -197,7 +198,7 @@
 | [Feel First Life](https://open.spotify.com/track/4esxro8J1rbsalCPb0yrgC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 5:33 | 2021-10-20 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2021-10-20 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-20 | 2022-06-22 |
-| [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-09-30 |  |
+| [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-09-30 | 2023-06-13 |
 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 | 2022-01-14 | 2022-07-29 |
 | [Ficus II](https://open.spotify.com/track/0gSMfmDg40ayq9jAMj779s) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Mokragora](https://open.spotify.com/album/4IfHDBllVvLfuVpxFvG19D) | 2:46 | 2021-10-20 |  |
 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 |  |

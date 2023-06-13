@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Trixie Mattel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,064 likes - 58 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,908 likes - 58 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 57 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
 | 58 | [Mente Pra Mim](https://open.spotify.com/track/4HbdogzFpLI45J5l4IYXS0) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:38 |
 
-Snapshot ID: `MCwxZTQ0Yzc5YTNmNmFjNmY3ZGM0YjQ2YmVmNTM2MGU4MjY3MTIzMDcw`
+Snapshot ID: `MCxlMGJiYjVkZDk4ZmI3YWE0Zjg1ODc4N2M3ODczODc1OWEyZjk3Nzhl`

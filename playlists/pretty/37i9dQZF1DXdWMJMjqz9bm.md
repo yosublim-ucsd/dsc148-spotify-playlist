@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,812 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,850 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 1 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 2 | [Vroom](https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Vroom](https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL) | 2:17 |
-| 3 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
-| 4 | [fvcked up](https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0) | 1:52 |
-| 5 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
+| 3 | [fvcked up](https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0) | 1:52 |
+| 4 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
+| 5 | [strings attached](https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [strings attached](https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo) | 2:04 |
 | 6 | [NO BAD DAYS \(feat\. Armani White, Collett\)](https://open.spotify.com/track/3qrxa00Q7sONw0HuvDA3Pg) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [NO BAD DAYS \(feat\. Armani White, Collett\)](https://open.spotify.com/album/1IwDQZem4cLcWfJpuoIISn) | 2:53 |
-| 7 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 |
-| 8 | [harvey dent](https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [harvey dent](https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc) | 2:31 |
+| 7 | [harvey dent](https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [harvey dent](https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc) | 2:31 |
+| 8 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
 | 9 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 |
-| 10 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
-| 11 | [strings attached](https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [strings attached](https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo) | 2:04 |
+| 10 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 |
+| 11 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
 | 12 | [MIAMI](https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP), [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [MIAMI](https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF) | 3:12 |
 | 13 | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/album/1gebTTFEpyP6zKhXhG60QI) | 3:16 |
 | 14 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 |
 | 100 | [deep end](https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [deep end](https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w) | 2:24 |
 
-Snapshot ID: `MCxkODBkMWZkZDMyMDU2ZjhkNjJmZTA5YjBiOWQyZWUyZTU3YzZkMzMy`
+Snapshot ID: `MCw4ZTI1ODdlNzYwMmIxZjllMzMwOGM5OTBjODQyZDQwNWRmNjgwOWVl`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917311,
+  "num_followers": 917416,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy",
+  "snapshot_id": "MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
         "url": "https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -595,38 +595,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "EL FINAL",
-        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 232283,
-      "name": "EL FINAL",
-      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
         "url": "https://open.spotify.com/album/5sPJWFOx3rH3SXr7KCnQ8A"
       },
@@ -643,6 +611,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "DEGRENGOLADA",
         "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 247249,
       "name": "Pi\u0119kna degrengolada",
       "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "EL FINAL",
+        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 232283,
+      "name": "EL FINAL",
+      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Masa Sepi",
         "url": "https://open.spotify.com/album/264G53YN0qa679J5JEDtkg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 213750,
       "name": "Masa Sepi",
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
+        "name": "Ge\u00e7miyor Zaman",
+        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
       },
       "artists": [
         {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
+      "duration_ms": 283718,
+      "name": "Ge\u00e7miyor Zaman",
+      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Ge\u00e7miyor Zaman",
-        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
       },
       "artists": [
         {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
         }
       ],
-      "duration_ms": 283718,
-      "name": "Ge\u00e7miyor Zaman",
-      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
+      "duration_ms": 153333,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
-        }
-      ],
-      "duration_ms": 201724,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Porque Yo",
         "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
       },
@@ -1067,34 +1047,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
-        "url": "https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
-      "url": "https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1115,6 +1083,38 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
+        "url": "https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
+      "url": "https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 201549,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Jordan 1s",
         "url": "https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP"
-      },
-      "artists": [
-        {
-          "name": "Joalin",
-          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
-        }
-      ],
-      "duration_ms": 178456,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Asfalos & Mporo",
         "url": "https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 230031,
       "name": "Asfalos & Mporo",
       "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "duration_ms": 178456,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
-      },
-      "artists": [
-        {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "\u00c4lskar",
         "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 201826,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc"
     },
     {
       "added_at": "2023-06-07 04:00:00",

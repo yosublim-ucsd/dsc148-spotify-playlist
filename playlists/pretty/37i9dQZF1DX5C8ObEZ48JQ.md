@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci?si=K1AroqvPQ3CMfi9C7oaUCw"> Zowie Kengocha </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,908 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,912 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 59 | [Way She Moves](https://open.spotify.com/track/3JkhLVjffCyHkVNHAbsVuB) | [Miguel Pregueiro](https://open.spotify.com/artist/1KJn2GWgLeT2bwifuI7sSZ), [Gvbriel](https://open.spotify.com/artist/6x4KFe5Xh1yVri5L2v0Yia) | [Way She Moves](https://open.spotify.com/album/3nnQG33scBtLyaE49Yp5OS) | 2:54 |
 | 60 | [Never Know](https://open.spotify.com/track/150vkxjvVxLt2d102XsPMp) | [Valerie Omari](https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6), [Smahlo](https://open.spotify.com/artist/108TJaya0ebqLfTfs9Wek1) | [Closure](https://open.spotify.com/album/6BuwseVR6SwvbCblRzIRYi) | 2:40 |
 
-Snapshot ID: `MCxlZGY2Zjg3Njc1ZGFiMThjNTNhZmIxZjI5NGZmOThlZWQ4MDdiOTI1`
+Snapshot ID: `MCwxMWM5MmJiMTczZTk2YTNkN2IyMmY0NTY0MzlhM2RkNDJiNGZjOGFj`

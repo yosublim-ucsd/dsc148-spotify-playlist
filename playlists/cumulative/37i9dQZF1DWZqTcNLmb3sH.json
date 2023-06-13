@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 278248,
       "name": "Aagodide Aarambhavu #TheHugSong (From \"Daredevil Musthafa\")",
       "url": "https://open.spotify.com/track/4IlgYljMpmrWfhwtgnELkH"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 286250,
       "name": "Dharaniya Dhamaniya - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/0znT06DbSQ4ApZbJjbhDr9"
@@ -4372,6 +4372,32 @@
       "duration_ms": 191999,
       "name": "Enno Kore Na",
       "url": "https://open.spotify.com/track/1lXgJNyEmaUegk2QjbLf5k"
+    },
+    {
+      "album": {
+        "name": "Enthaha Mysore (From \"Barisu Kannada Dindimava\")",
+        "url": "https://open.spotify.com/album/5vYmQGZ9iI8P7FiqovJyx2"
+      },
+      "artists": [
+        {
+          "name": "Manuraj",
+          "url": "https://open.spotify.com/artist/2iWbqgIphjROIt5EcG7KZA"
+        },
+        {
+          "name": "Suneel Rao",
+          "url": "https://open.spotify.com/artist/3TlelLozbjHYJ1ZLYvVx6y"
+        },
+        {
+          "name": "Rajeshwari Sundarmurthy",
+          "url": "https://open.spotify.com/artist/75rLDUi6rKpXVoo66X9RCW"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316001,
+      "name": "Enthaha Mysore (From \"Barisu Kannada Dindimava\")",
+      "url": "https://open.spotify.com/track/6xKriaoqsLOY6CWFxkBOam"
     },
     {
       "album": {
@@ -9961,6 +9987,28 @@
     },
     {
       "album": {
+        "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
+        "url": "https://open.spotify.com/album/4MsSKJmKpqf7kOF6Cc82S4"
+      },
+      "artists": [
+        {
+          "name": "Swaraag Keerthan",
+          "url": "https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL"
+        },
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260570,
+      "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
+      "url": "https://open.spotify.com/track/1ruiOa3vHHJGDEgcFUKzr3"
+    },
+    {
+      "album": {
         "name": "Naanondu Gombe (From \"Hare Rama Hare Krishna\")",
         "url": "https://open.spotify.com/album/28xlrkeZm3MAadwJI4oeqJ"
       },
@@ -10608,7 +10656,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 230024,
       "name": "Nee Iralu Nannali (from \"Samarthya\")",
       "url": "https://open.spotify.com/track/5AE0naO0fPaJwwuTbuXXs4"
@@ -12596,6 +12644,28 @@
       "duration_ms": 196000,
       "name": "Ondurinali",
       "url": "https://open.spotify.com/track/0ExIZxPkKAlIRK7rHZrQIq"
+    },
+    {
+      "album": {
+        "name": "Onthara Aaythade (from \"Mr Natwarlal\")",
+        "url": "https://open.spotify.com/album/7K9nxiFc2QdKrDIyihIyZG"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Dharma Vish",
+          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177129,
+      "name": "Onthara Aaythade (from \"Mr Natwarlal\" )",
+      "url": "https://open.spotify.com/track/6shmhLZhXNe8T4748GhVMj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,662 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,739 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Genny e Mattia](https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Genny e Mattia](https://open.spotify.com/album/2VB3t5nVljtzj0qJwePSIj) | 3:14 |
 | 50 | [CREATUR](https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [CREATUR](https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4) | 2:37 |
 
-Snapshot ID: `MCxlNzk3MDk2NTU3YTQ1NjQ5NzdiNjVhOWI5MGQ2ZjUzMmEyMGRiNWZj`
+Snapshot ID: `MCw4ZDhkZTU0ZjJkN2Q4OTVjZjY0NDc5MGI0NWMxNGQzNzNmZDBmN2Y0`

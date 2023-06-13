@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,933 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,893 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 42 | [Moscato](https://open.spotify.com/track/0O0qqeFUMjMgusToxLWXFh) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Moscato](https://open.spotify.com/album/5KAfXsur99a2zCDVublp40) | 2:36 |
 | 43 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
 | 44 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
-| 45 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 45 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 46 | [Down The Line](https://open.spotify.com/track/0rqHIxHpZJRLEycMxnyJl3) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Popular Problems](https://open.spotify.com/album/0e30TrIOgKMS8IvEGGj6f3) | 3:13 |
 | 47 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
 | 48 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Doe Het Licht Maar Uit](https://open.spotify.com/track/4VW5IbDYlGoMf4lmYC5r9B) | [Dominique](https://open.spotify.com/artist/1ZsK3mltVHS1cjtIghy0UT) | [Doe Het Licht Maar Uit](https://open.spotify.com/album/0ZYY3EH6Kap7PhFg8gKPwC) | 2:38 |
 | 103 | [It Should Have Been You](https://open.spotify.com/track/09syFesVXKSg9sPiAU6opy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [It Should Have Been You](https://open.spotify.com/album/7hQq9HEkRmo31QlGAtGRGo) | 3:29 |
 
-Snapshot ID: `MCw4Y2I3ZTgxMjU1ZDE0ZWM3MWNmMTUxZWNlYzMzMDRiN2UwNjg3ZjUw`
+Snapshot ID: `MCwyN2ZhOTA2NTZjYjJhMWViMDA4N2JkMzBhNDQ3MWRmNzBlYzcxYTVl`

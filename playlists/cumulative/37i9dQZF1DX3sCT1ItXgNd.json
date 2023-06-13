@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "5 estrellas",
+        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198214,
+      "name": "5 estrellas",
+      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
+    },
+    {
+      "album": {
         "name": "5 SENT\u00cdOS",
         "url": "https://open.spotify.com/album/3777kSd47h5uVR0lnPf81n"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 175333,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/1ItVCwBxcwLvQDh4Y2LjVq"
@@ -434,10 +452,28 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 154960,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/4nOq3daqKP7XXSDckP6zyS"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
     },
     {
       "album": {
@@ -569,6 +605,24 @@
     },
     {
       "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "album": {
         "name": "Esta Vida Es Un Jaleo",
         "url": "https://open.spotify.com/album/4W1o9T3ghMa61HFLUAIOHj"
       },
@@ -602,6 +656,24 @@
       "duration_ms": 207645,
       "name": "Con los Pies en el Techo",
       "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
+    },
+    {
+      "album": {
+        "name": "Converse Blancas",
+        "url": "https://open.spotify.com/album/4dVOUUzGo6w2dgUXxFtLVi"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166673,
+      "name": "Converse Blancas",
+      "url": "https://open.spotify.com/track/3xVZtiwZaAjUiOc9mXyGaM"
     },
     {
       "album": {
@@ -660,7 +732,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 147726,
       "name": "Coti x Coti",
       "url": "https://open.spotify.com/track/6uwVwVdsXpOmq1BYY8rDtM"
@@ -1294,7 +1366,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 154999,
       "name": "HONG KONG",
       "url": "https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e"
@@ -1515,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "LA PRIMERA",
+        "url": "https://open.spotify.com/album/7qWtxmWxkwl8UF0h9b367O"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "LA PRIMERA",
+      "url": "https://open.spotify.com/track/5L13lvUrc2AVyTtPEFda28"
+    },
+    {
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
       },
@@ -1544,7 +1634,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 165285,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
@@ -2345,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Olvid\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Olvid\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "album": {
         "name": "P.M.",
         "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
       },
@@ -2716,7 +2828,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 201998,
       "name": "si tiene que ser ser\u00e1.",
       "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
@@ -3357,6 +3469,28 @@
     },
     {
       "album": {
+        "name": "Vivo En Un Mundo (El Ladr\u00f3n De Mi Sue\u00f1o)",
+        "url": "https://open.spotify.com/album/7zaMAAwjlrwyVyhcaLMfBe"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Sanchez",
+          "url": "https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155605,
+      "name": "Vivo En Un Mundo (El Ladr\u00f3n De Mi Sue\u00f1o)",
+      "url": "https://open.spotify.com/track/4hwq7PosX7h6qNCXJTPyJz"
+    },
+    {
+      "album": {
         "name": "VUELA",
         "url": "https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq"
       },
@@ -3376,7 +3510,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 193394,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"

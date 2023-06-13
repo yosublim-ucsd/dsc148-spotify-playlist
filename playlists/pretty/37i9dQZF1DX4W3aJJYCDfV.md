@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nathan Dawe, Joel Corry + Ella Henderson \(pictured\), J Hus + Drake, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,800 likes - 142 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,814 likes - 142 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 44 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
 | 45 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 |
 | 46 | [Skin](https://open.spotify.com/track/6kU3y1scDotMEOKPvxzfYp) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Skin](https://open.spotify.com/album/4m9DcoBe4Y0IVCZqIGww7v) | 3:01 |
-| 47 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 47 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 48 | [3 Dimensions](https://open.spotify.com/track/0EOMZzZ4Czq4B1yVvjHvBb) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Purple Hearts](https://open.spotify.com/album/7Et7I5XV9sRMc47uuKRfuY) | 4:00 |
 | 49 | [Care Like You](https://open.spotify.com/track/5HrYEk5u7zjBB9HtTno0bV) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Care Like You](https://open.spotify.com/album/7JFW0I7xU2FaVj5UIKXGnm) | 2:58 |
 | 50 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 141 | [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 |
 | 142 | [All I Need](https://open.spotify.com/track/0KioBKSzWP7lwXOwH6iJF2) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Brad McDermott](https://open.spotify.com/artist/00wJpBsiDvhEGM3M6cnVgI) | [All I Need](https://open.spotify.com/album/1yJFSMd3lTEkhkEuSp8rHC) | 2:00 |
 
-Snapshot ID: `MCwyODgwZmUzNGQ5NDhlMTVkMmRkM2ViOGZiYmY1NjBjNDJhYTI0NmJj`
+Snapshot ID: `MCwyMjQ5YzljYzkxMmZiNmNlNmVmY2RkYTU3NmQzMjU5NzI2NmIyYzI5`

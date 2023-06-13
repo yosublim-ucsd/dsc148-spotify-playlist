@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5530,
+  "num_followers": 5548,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmE0YTdlODNlM2E5OGQ2NGUwYzVhNzFhYzA4Y2U3OWFjMWE5MTk1",
+  "snapshot_id": "MCwzODVmZTE0OTJlZjE4MTI4ZTNhYmI4M2NiNzA2MDFiNTBlMTEzMmQw",
   "tracks": [
     {
       "added_at": "2023-06-09 15:02:31",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
@@ -159,18 +143,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Vibes EP",
-        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
       "artists": [
         {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 270658,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -191,18 +175,34 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
       },
       "artists": [
         {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Vibes EP",
+        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 270658,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 214666,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Done Cryin'",
-      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
       "artists": [
         {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
+      "duration_ms": 277904,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
       },
       "artists": [
         {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
         }
       ],
-      "duration_ms": 277904,
-      "name": "Gimme Your Love",
-      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
-      },
-      "artists": [
-        {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
-        }
-      ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
       },
       "artists": [
         {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
         }
       ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -743,6 +727,22 @@
       "duration_ms": 312640,
       "name": "Take My Rider",
       "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+      },
+      "artists": [
+        {
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-06-09 15:02:31",

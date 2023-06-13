@@ -2449,6 +2449,32 @@
     },
     {
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/2aaiIRxkz5XNJI5sClUmdk"
+      },
+      "artists": [
+        {
+          "name": "Gill Saab Music",
+          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
+        },
+        {
+          "name": "Amantej Hundal",
+          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
+        },
+        {
+          "name": "Jashan dandiwal",
+          "url": "https://open.spotify.com/artist/4hDhWCwjFx2gm00vBrN4tA"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV"
+    },
+    {
+      "album": {
         "name": "TALK LESS",
         "url": "https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz"
       },

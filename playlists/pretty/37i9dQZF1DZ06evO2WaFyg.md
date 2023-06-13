@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,266 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,353 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 49 | [Reminder \(feat\. A$AP Rocky & Young Thug\) \- Remix](https://open.spotify.com/track/2rlEZYWZFE84YTbrwypBr0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:41 |
 | 50 | [Love Somebody \(feat\. Young Thug\)](https://open.spotify.com/track/48ajXgWAXmeK5AqvAla7zG) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Brick Factory, Vol\. 1](https://open.spotify.com/album/2GApi8AmvIOCez3gbEwxk2) | 3:32 |
 
-Snapshot ID: `MjgxMDgwOTgsMDAwMDAwMDA2ODgyZDZhM2I0MjFiZmE4YWMyZmZiZjY4YTMwMmVkZQ==`
+Snapshot ID: `MjgxMDk1MzQsMDAwMDAwMDA4YmM4OGM4ZGJjYjExMTUxMmEyM2Y5M2YxNzRmYzAxYw==`

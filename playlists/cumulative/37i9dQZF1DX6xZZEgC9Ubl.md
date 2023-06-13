@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-814 songs - 1 day 12 hr 57 min
+815 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,10 +239,11 @@
 | [FEEL SOMETHING \(feat\. Marshmello\)](https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:19 | 2022-10-07 | 2023-04-26 |
 | [feelz](https://open.spotify.com/track/1wxlGbYus0B1Hx3ZRylTO4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [feelz](https://open.spotify.com/album/6aajhaqtA4RbAQCWL86iXx) | 2:25 | 2022-05-20 | 2022-05-24 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-10 | 2022-02-14 |
-| [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 | 2023-04-12 |  |
+| [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 | 2023-04-12 | 2023-06-13 |
 | [finer things](https://open.spotify.com/track/5hdfbfpt4txiDMZGRaPc1h) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [finer things](https://open.spotify.com/album/2TEOAG9CwnAJGaduf6KhMR) | 2:50 | 2022-02-04 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-03-14 | 2022-09-24 |
 | [Floor Seats \(Text Back\)](https://open.spotify.com/track/6m37YblnnlJ1x7DfTc3Vj0) | [Moxas](https://open.spotify.com/artist/3XYVGehxrRKN0Rt5Rp7e8w) | [Floor Seats \(Text Back\)](https://open.spotify.com/album/4prQPMv85eAvXN7JpbOEWD) | 2:18 | 2021-01-16 | 2021-03-26 |
+| [Floorboards](https://open.spotify.com/track/5ozjeOUHnkmrdBqsDzeTkt) | [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R), [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4) | [Under Your Spell](https://open.spotify.com/album/2qacgpQ0n3auIenJgT5yVA) | 3:00 | 2023-06-12 |  |
 | [Flower Ghoul](https://open.spotify.com/track/3ovha0ritsxTs7pTND84qJ) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/0RqHblTAIH8QJlNi3LapPw) | 2:33 | 2021-08-14 | 2022-04-20 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-12-13\* |  |
 | [Forever](https://open.spotify.com/track/7uHRKSQ9WIlBBuBY7BHcbq) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever](https://open.spotify.com/album/6eCvWduBT4UJSYpseMSnXO) | 1:48 | 2021-01-15 | 2021-02-13 |

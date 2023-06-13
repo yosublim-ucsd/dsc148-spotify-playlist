@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,955 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,975 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 20 | [Free](https://open.spotify.com/track/3BmvMHK6qg9IosDSQcWdOB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 3:54 |
 | 21 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 22 | [Donkey](https://open.spotify.com/track/4Lkqdk7axHmD1WwOOPT5SY) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Donkey](https://open.spotify.com/album/1nRnp2Wy1iRpaOzDHTXCdt) | 2:56 |
-| 23 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
+| 23 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
 | 24 | [Wide Eyes](https://open.spotify.com/track/2MqA97ASOrHNS7smobH9cL) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Here Is Everything](https://open.spotify.com/album/4y4NbKs64sZgekHGyld9na) | 3:30 |
 | 25 | [A Mess](https://open.spotify.com/track/3IB2aDfSsQbMgRuZCAwYPU) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Endless Affair](https://open.spotify.com/album/6pdmkYasL5TUNVYRGHHcuK) | 3:58 |
 | 26 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Cashmere Sweaters](https://open.spotify.com/track/0UCY0Gx5MuEBIjPU2Vn2Pu) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Cashmere Sweaters](https://open.spotify.com/album/1sYrn2MATYpc1noRzeJekO) | 3:03 |
 | 50 | [Time Comes in Roses](https://open.spotify.com/track/3TI83GvDhveHJFtOwcHdrg) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Already, Always](https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ) | 3:11 |
 
-Snapshot ID: `MCw4YWJkMWEyOTI4Y2M3Zjk5Njg1OWNhZWQwZGViMzgzNjI0MTJiYTBh`
+Snapshot ID: `MCwzYzk1NTZlMjkzNDdjMDBmYmNhZTgzMTc0ODcxYWI0YmZiMzU0MzM5`

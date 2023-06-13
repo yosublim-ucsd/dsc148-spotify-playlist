@@ -7561,6 +7561,24 @@
     },
     {
       "album": {
+        "name": "Coisa de Deus",
+        "url": "https://open.spotify.com/album/3RBNlsezIpkFb9meBXieS5"
+      },
+      "artists": [
+        {
+          "name": "Rick & Renner",
+          "url": "https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269546,
+      "name": "Vai, vai muuuu",
+      "url": "https://open.spotify.com/track/1UelJ6cu6YS2ko6RkFKZEy"
+    },
+    {
+      "album": {
         "name": "Vem Morena",
         "url": "https://open.spotify.com/album/4HPfp7LJKsPZMxcAFUG8Ba"
       },

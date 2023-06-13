@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,671 songs - 3 day 12 hr 57 min
+1,672 songs - 3 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [Goo](https://open.spotify.com/track/386y7lYyXr0sni9FuQNH50) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:56 | 2022-08-12 | 2022-09-03 |
 | [Good At Being Lonely](https://open.spotify.com/track/0LYe73e9juUPjSDfsYSRhV) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Good At Being Lonely](https://open.spotify.com/album/5KdiRRFqcb3vBDm2FIkIVC) | 2:24 | 2021-07-28 | 2021-11-20 |
 | [Good Company](https://open.spotify.com/track/6GFJBdoLNY1mKZYwyMTDv7) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Good Company](https://open.spotify.com/album/7us6tSlNirxmxDNnkUV4SC) | 3:58 | 2021-10-12 | 2021-10-13 |
-| [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 | 2023-06-02 |  |
+| [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 | 2023-06-02 | 2023-06-13 |
 | [good guys](https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [good guys](https://open.spotify.com/album/1rvGSofYK4rYkX2INIzFjI) | 3:44 | 2020-05-22 | 2021-10-14 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-10 | 2022-09-17 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-10 | 2022-07-25 |
@@ -1425,6 +1425,7 @@
 | [Sunroof](https://open.spotify.com/track/2UGbgIze4hB9GkdAte1eiV) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [NOW That's What I Call Music! Vol\. 84](https://open.spotify.com/album/1vDJyYjUUvXYJaZmKsukJJ) | 2:40 | 2022-11-11 | 2022-11-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-11-26 | 2022-07-29 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-01-14 | 2023-06-12 |
+| [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-05-05 |  |
 | [sunshine](https://open.spotify.com/track/3AnlmPe3kCwc0gaDkUBX2Z) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [sunshine](https://open.spotify.com/album/1GzDM6E01A4PqodtwxQXfR) | 2:21 | 2021-02-23 | 2021-11-20 |
 | [Sunshine](https://open.spotify.com/track/2uFSWRjGngObrrfMZcBVBv) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [Sunshine](https://open.spotify.com/album/1PYCwyi5YM95iL8IlVHDOm) | 2:52 | 2021-03-06 | 2022-03-26 |
 | [Superglue](https://open.spotify.com/track/7gF16AbvFNPRXgmuXtevuU) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Superglue](https://open.spotify.com/album/3DDG8hBJQIYtWGGd4p58nT) | 2:07 | 2022-06-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-210 songs - 13 hr 39 min
+211 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Way back home](https://open.spotify.com/track/1d2OlYerfxGD0xTCyThzre) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [It’s okay to be sensitive 2 OST Part.3](https://open.spotify.com/album/2QhbFZOZMVc4jquiVfOW9r) | 3:32 | 2022-05-11 | 2022-07-24 |
 | [We All Lie](https://open.spotify.com/track/6DyXREiYD3B4xgjjsfHfJ9) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [SKY Castle, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/38DD8BlG64VE9rMQIA7Yyx) | 3:15 | 2022-06-24 | 2022-07-02 |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2022-05-11 |  |
-| [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 | 2022-05-11 |  |
+| [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 | 2022-05-11 | 2023-06-13 |
 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 | 2022-05-11 | 2023-06-11 |
 | [Who I strolled with](https://open.spotify.com/track/0kbEUq3HukO0q1OKoM9B4W) | [Poetic Narrator](https://open.spotify.com/artist/5LkR25p8z9zlJpkwJP5M1o) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5vFUgTDnoCJCoYzS694bbc) | 3:10 | 2022-06-09 | 2022-07-21 |
 | [Will Be](https://open.spotify.com/track/20ewHOo7c8SMTKSshwtjdZ) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Racket Boys \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1ggqSA0RWm5Dg3YOjC0Tif) | 3:03 | 2022-06-09 | 2022-06-21 |
@@ -216,6 +216,7 @@
 | [내 맘을 볼 수 있나요](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:45 | 2022-06-24 |  |
 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2022-06-24 |  |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 | 2022-07-27 |
+| [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2023-03-13 |  |
 | [별](https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [미녀는 괴로워 Original Motion picture Soundtrack](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) | 5:02 | 2022-05-11 | 2022-07-24 |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-05-11 | 2023-06-04 |
 

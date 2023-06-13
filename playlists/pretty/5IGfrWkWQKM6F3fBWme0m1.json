@@ -1,13 +1,261 @@
 {
   "description": "inspirations &amp; favorites",
-  "num_followers": 6166,
+  "num_followers": 6168,
   "original_name": "JG ~ Dusk Til... \ud83d\udcab",
   "owner": {
     "name": "Jacques Greene",
     "url": "https://open.spotify.com/user/philippeaubindionne"
   },
-  "snapshot_id": "MTE2NixhMjMzY2U4MjVlZWYxNTc0MzcyYjgzMzY2OGZjYWI0ZGU3OGI3NDg3",
+  "snapshot_id": "MTE3MCw2MTI1OGVjZDMxNjVkOGFjNDBhOTEyZjg1MGVhZmE3NDlhZGRiYTNj",
   "tracks": [
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "The Head Hurts but the Heart Knows the Truth",
+        "url": "https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x"
+      },
+      "artists": [
+        {
+          "name": "Headache",
+          "url": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "The Beginning of the End",
+      "url": "https://open.spotify.com/track/1MPtLlyuB1X78TeammWxy9"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Never Gonna Be",
+        "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Every Single Time",
+      "url": "https://open.spotify.com/track/2vTDzBoSYaYDnGgN8HbcpQ"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "LLTB",
+        "url": "https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "LLTB",
+      "url": "https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Obsession 2",
+        "url": "https://open.spotify.com/album/0WOeBuwdqDqlMqrSwOzCUJ"
+      },
+      "artists": [
+        {
+          "name": "Inga Copeland",
+          "url": "https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi"
+        }
+      ],
+      "duration_ms": 237331,
+      "name": "Obsession 2",
+      "url": "https://open.spotify.com/track/0nLh1u0zmIEBdQs8fGa3Ai"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Dismantled Into Juice",
+        "url": "https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        },
+        {
+          "name": "Monstera Black",
+          "url": "https://open.spotify.com/artist/4McIq91y9cJCNL6TaIbe6W"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "You Can Build Me",
+      "url": "https://open.spotify.com/track/5oDvyftFW854n3gTtwBosS"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "A Part of You in Everything",
+        "url": "https://open.spotify.com/album/2dYQk5VDGP3ej703JnIaIp"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "My Brother (is a Star)",
+      "url": "https://open.spotify.com/track/7e4AMTsRM0VB0dpQYRqIKo"
+    },
+    {
+      "added_at": "2023-06-12 20:43:17",
+      "album": {
+        "name": "Rosebud / Black Dove",
+        "url": "https://open.spotify.com/album/0GqxOSETsidoCMzXvjLN3o"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 388497,
+      "name": "Black Dove",
+      "url": "https://open.spotify.com/track/6okbnQZIX3CAh9MaMF6wIk"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Transitions / Retransitions",
+        "url": "https://open.spotify.com/album/2aOaDqjXVDTLfkBczW5tRc"
+      },
+      "artists": [
+        {
+          "name": "Deep blue",
+          "url": "https://open.spotify.com/artist/0N1AChd9JXrtoczyW8PzZM"
+        },
+        {
+          "name": "Blame",
+          "url": "https://open.spotify.com/artist/55Of1EYV7uMJ7VDBG2TpxA"
+        }
+      ],
+      "duration_ms": 465399,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/5uDegUCglWYGmYjjg0JUwy"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Open Your Mind / Murder Most Foul / Dub in U (Remix) / Survival (Remix)",
+        "url": "https://open.spotify.com/album/5ju27TKkhKkEGXVvPtG7NI"
+      },
+      "artists": [
+        {
+          "name": "Foul Play",
+          "url": "https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8"
+        }
+      ],
+      "duration_ms": 381258,
+      "name": "Open Your Mind",
+      "url": "https://open.spotify.com/track/47Apmyz1H3IuO7jm7lm45q"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Skinned",
+        "url": "https://open.spotify.com/album/5ZrwHSdgcX7sgHpc373KEn"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 158799,
+      "name": "I'm A Girl You Can Hold IRL",
+      "url": "https://open.spotify.com/track/4AdqGV9WJmIKybuqZWCzhi"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Tracey Denim",
+        "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "changer",
+      "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Ti Chuong (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/198OOyrK12wZp6mYT5NYuJ"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Nyaruach",
+          "url": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Ti Chuong - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/2jtwb4nOd2iGP5fmMsIfR9"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Clearly Rushing",
+        "url": "https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Clearly Rushing",
+      "url": "https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC"
+    },
+    {
+      "added_at": "2023-06-12 20:37:18",
+      "album": {
+        "name": "Last Thing You",
+        "url": "https://open.spotify.com/album/0X3gPUrFmtUVlwAZfyWzjM"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Scandinavian Star",
+          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Two Autumns",
+      "url": "https://open.spotify.com/track/5hvAJESooOieTSDSOXBgUi"
+    },
     {
       "added_at": "2023-05-09 15:17:42",
       "album": {

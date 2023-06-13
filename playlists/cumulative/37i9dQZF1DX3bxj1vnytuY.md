@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-207 songs - 20 hr 47 min
+209 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 | 2022-12-15 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-04-13 |  |
 | [Memelles](https://open.spotify.com/track/2SWvbOmiI6sa9WVbiIk4Cm) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [The Lost Tribe](https://open.spotify.com/album/35E8qTvXvEBKnUIeZPbPff) | 6:26 | 2023-05-12 |  |
+| [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 | 2023-06-12 |  |
 | [Milima](https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf) | [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [Tora](https://open.spotify.com/album/4hut2n5Fk1dfwppjVXHIQx) | 7:06 | 2022-04-13 | 2022-07-22 |
 | [Mirari](https://open.spotify.com/track/33OHSpGMU23L5QbJ6tz76S) | [Da Fresh](https://open.spotify.com/artist/0BmOEIkxF8hzj1NKUS6gwE), [Noidor](https://open.spotify.com/artist/0tXYl1GWDnDsBoaSPbMnuT) | [Mirari](https://open.spotify.com/album/18bIcMfS7bX3HUIMtskbPI) | 8:15 | 2022-04-13 | 2023-04-21 |
 | [Missing](https://open.spotify.com/track/75WqikxuauMp0htqRbDaqE) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Bass Fly](https://open.spotify.com/artist/1LuYsLLkjgXDSuq5bPbfZJ), [Kate Yvorra](https://open.spotify.com/artist/1gf114j9X3aRFf9ZqDhDto) | [Missing](https://open.spotify.com/album/1U16ItaIb8azbG8sdOHhUo) | 3:28 | 2023-03-13 |  |
@@ -146,6 +147,7 @@
 | [Odin \- atalkingdrum Remix](https://open.spotify.com/track/11LVlokOK5w2h2HWvX1jN1) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1), [Bachir Salloum](https://open.spotify.com/artist/1ICH9aTWuJCGa1MQi7hMh9), [atalkingdrum](https://open.spotify.com/artist/5Cy5Nk0jBHN5Z7fxtghBCO) | [Odin Remixes](https://open.spotify.com/album/2FbqUBG0CU0D67DdkFWwuH) | 6:26 | 2022-04-13 | 2023-04-21 |
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2022-04-13 |  |
 | [Oud Dreams \(feat\. The Spy From Cairo\) \- Pattern Drama & Kellam Remix](https://open.spotify.com/track/6ymCppoGyTwqt17DMt6xVg) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS), [Kellam](https://open.spotify.com/artist/5jlkvfhZQIQM6O8CXQTYUD), [Pattern Drama](https://open.spotify.com/artist/0NOTKMhONUvL0OVDCRVCdW) | [Lunar Dreams](https://open.spotify.com/album/2keSq7gnUL3wwjHK1aS2iG) | 8:12 | 2022-04-13 | 2023-04-21 |
+| [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 | 2023-06-12 |  |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-13 |  |
 | [Pharaoh \- Enoo Napa Remix](https://open.spotify.com/track/4MuRuDNaYCZ9IzaT0KSfhT) | [Stoim](https://open.spotify.com/artist/3mzj6sewlyj9tNug1u0cLW), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Pharaoh](https://open.spotify.com/album/0yQQlhMne6GG2ebsznhcV3) | 6:40 | 2023-04-18 | 2023-04-21 |
 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 | 2023-04-18 | 2023-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 283373,
+  "num_followers": 283431,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGRmNDZhYjJkNmZiY2FiMWQ1ZTEwMmJmMDdiMTgxYWE4NGYxMWE0",
+  "snapshot_id": "MCxiZmQ3ZDMzNGM5Y2Y3ODNhYzI3ZWEwMzBmZjQxZTY5Yzk3OGVjMzhj",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Heavy Days",
+        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 227683,
+      "name": "Heavy Days",
+      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "The Clouds Cleared the Way",
         "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Heavy Days",
-        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "lil rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Heavy Days",
-      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 389948,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "lil rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Liquid",
+        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Liquid",
-        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
       "artists": [
         {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1307,34 +1323,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
       },
       "artists": [
         {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     }
   ],
   "unique_name": "Dreampop",

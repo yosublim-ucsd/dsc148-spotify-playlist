@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,842 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,849 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [とりとめもなく](https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs) | [SPRINGMAN](https://open.spotify.com/artist/4LZ9A4yEqrFENhEVdzyPi8) | [とりとめもなく](https://open.spotify.com/album/7ol3aw2wOOL9hAXbQVOcRc) | 3:58 |
 | 70 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 |
 
-Snapshot ID: `MCw0ZGIzNDlhMWJkMzU3ZDhmN2E3ZmViNjBmNjdhMGRmOTgxMmMxODQ4`
+Snapshot ID: `MCw4MmI1MDc1ZjM5MmY5MzVkNTVlOWEwMTYyZjY5MTA2ODAyZjQzZWUw`

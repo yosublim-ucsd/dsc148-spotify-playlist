@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 224000,
       "name": "Kingslayer",
       "url": "https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1"
@@ -7302,7 +7302,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 165857,
       "name": "Riot",
       "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
@@ -9109,6 +9109,28 @@
     },
     {
       "album": {
+        "name": "Trails",
+        "url": "https://open.spotify.com/album/5j9DiOBBpwcKlkfKhmrw3L"
+      },
+      "artists": [
+        {
+          "name": "TOMB",
+          "url": "https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw"
+        },
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Trails",
+      "url": "https://open.spotify.com/track/1PmMP6cn7o5BvZ6boNEXM5"
+    },
+    {
+      "album": {
         "name": "Tripwire",
         "url": "https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt"
       },
@@ -9414,6 +9436,24 @@
       "duration_ms": 284000,
       "name": "Unfinished",
       "url": "https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk"
+    },
+    {
+      "album": {
+        "name": "Uplift",
+        "url": "https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228494,
+      "name": "Uplift",
+      "url": "https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb"
     },
     {
       "album": {

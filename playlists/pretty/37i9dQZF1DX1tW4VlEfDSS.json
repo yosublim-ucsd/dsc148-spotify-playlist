@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 343290,
+  "num_followers": 343339,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmI3ZjQxZWYxNmE0ZjY4MTk1ZDM2MmQzN2Y5MTNmYjIwMjIxZGU0",
+  "snapshot_id": "MCwyMWI0N2QyNTY2ZTNhOGIzMDMxOGIyN2FhODcwMjhiMzlmMjEwOGJm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         }
       ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Real Groove (Studio 2054 Remix)",
         "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Angels By My Side (feat. Pauline Taylor)",
         "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 217606,
       "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
       "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Peace Now (Folamour Remix)",
+        "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Peace Now - Folamour Remix",
+      "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
       },
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Peace Now (Folamour Remix)",
-        "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Peace Now - Folamour Remix",
-      "url": "https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "You Are the Sun",
-        "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
-      },
-      "artists": [
-        {
-          "name": "TEE MANGO",
-          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
-        }
-      ],
-      "duration_ms": 408889,
-      "name": "You Are the Sun - Sun Up Mix",
-      "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "You Ain't Love (feat. Teni Tinks)",
         "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 271475,
       "name": "You Ain't Love (feat. Teni Tinks)",
       "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "You Are the Sun",
+        "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
+      },
+      "artists": [
+        {
+          "name": "TEE MANGO",
+          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
+        }
+      ],
+      "duration_ms": 408889,
+      "name": "You Are the Sun - Sun Up Mix",
+      "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
     }
   ],
   "unique_name": "Groove Theory",

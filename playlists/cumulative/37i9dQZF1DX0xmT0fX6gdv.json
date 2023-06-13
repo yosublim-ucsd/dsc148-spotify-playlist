@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "West View",
+        "url": "https://open.spotify.com/album/5rJMGhMEBGy1xbJPfiT8n2"
+      },
+      "artists": [
+        {
+          "name": "Vicious Pink",
+          "url": "https://open.spotify.com/artist/5De1ZtOD9ZUyckEjIKFXAi"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Baby It's Too Late",
+      "url": "https://open.spotify.com/track/5MTfkalr6ATMrCK7Yvl16A"
+    },
+    {
+      "album": {
         "name": "Bal",
         "url": "https://open.spotify.com/album/3MN57Hn6CaOFLB1LISKdaK"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 156370,
       "name": "Bananasmania",
       "url": "https://open.spotify.com/track/10QQgp6U3azqVBUdTnuZBY"
@@ -419,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Message (Analog Africa Dance Edition No. 9)",
+        "url": "https://open.spotify.com/album/0brmDZ18UVq39dLEbJEHk0"
+      },
+      "artists": [
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229700,
+      "name": "Burkina Faso",
+      "url": "https://open.spotify.com/track/06RqHNmbkYp8Lkk7na46w0"
+    },
+    {
+      "album": {
         "name": "So Hot / Cairo",
         "url": "https://open.spotify.com/album/4FCqSV9gCTa2oLYX8Ww5Ir"
       },
@@ -430,7 +466,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 470130,
       "name": "Cairo",
       "url": "https://open.spotify.com/track/3V3ATnTp414n1g0dKxInZd"
@@ -538,7 +574,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 187706,
       "name": "Computered Love",
       "url": "https://open.spotify.com/track/5tAjQ1an0nQmezG7cQoy57"
@@ -600,6 +636,24 @@
       "duration_ms": 310435,
       "name": "Dar\u0131ld\u0131m Dar\u0131ld\u0131m (feat. Arif Sa\u011f)",
       "url": "https://open.spotify.com/track/6sDZmjnd5XaWiRpTKxlCq4"
+    },
+    {
+      "album": {
+        "name": "Negah - Persian Music",
+        "url": "https://open.spotify.com/album/2YegsNYNjZNqEdvNJuabue"
+      },
+      "artists": [
+        {
+          "name": "Nahid",
+          "url": "https://open.spotify.com/artist/2HGF8MZq8nygoAlDB3BhCP"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271146,
+      "name": "Delakam",
+      "url": "https://open.spotify.com/track/33F58HYG2iABKEigRZ3lmY"
     },
     {
       "album": {
@@ -734,7 +788,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 428739,
       "name": "Drums",
       "url": "https://open.spotify.com/track/5uMgv6GDodSBDaildkFZNd"
@@ -846,7 +900,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 272041,
       "name": "Equatorial Lies",
       "url": "https://open.spotify.com/track/5DcPAZ0NYV0wS8Dp5qSO8k"
@@ -890,6 +944,24 @@
       "duration_ms": 195568,
       "name": "Esmerim",
       "url": "https://open.spotify.com/track/4ZaSO58hLAtXO87JxhhdHN"
+    },
+    {
+      "album": {
+        "name": "Exotika",
+        "url": "https://open.spotify.com/album/3Yt51ebr15UVWSHUQNIau6"
+      },
+      "artists": [
+        {
+          "name": "Chris & Cosey",
+          "url": "https://open.spotify.com/artist/2lHpa4rwVeFbEnA0X7d0Tt"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373693,
+      "name": "Exotika (12\" Mix)",
+      "url": "https://open.spotify.com/track/7bAIwe62a4gduMuGmiyT2L"
     },
     {
       "album": {
@@ -1003,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Ghost Station",
+        "url": "https://open.spotify.com/album/4ytrHWz9MQ6yHyPoCdRICq"
+      },
+      "artists": [
+        {
+          "name": "Mehmet Aslan",
+          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358125,
+      "name": "Ghost Station",
+      "url": "https://open.spotify.com/track/6eZ9zDJZIOITT6uhClv9Rv"
+    },
+    {
+      "album": {
         "name": "Todas sus grabaciones en Hispavox (1966-1969) [Remastered 2015]",
         "url": "https://open.spotify.com/album/5mFdQz7Hq7GcprMgnJ2hvU"
       },
@@ -1018,6 +1108,24 @@
       "duration_ms": 250013,
       "name": "Habibi - 2015 Remaster",
       "url": "https://open.spotify.com/track/615dCtcrqPmPnRZzvtwU6W"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 T\u00fcrk",
+        "url": "https://open.spotify.com/album/3w8eaJ4NyM57TqYtcp8BdC"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 T\u00fcrk",
+          "url": "https://open.spotify.com/artist/18xdp1D1mbxI6asFygGm22"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191169,
+      "name": "Haydi Yallah",
+      "url": "https://open.spotify.com/track/4Qoi73LJQYGoOH0cHqWaG4"
     },
     {
       "album": {
@@ -1090,7 +1198,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 171600,
       "name": "Heyecanl\u0131",
       "url": "https://open.spotify.com/track/3j5dcfD2f6TfGtTOB0fEUo"
@@ -1263,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Theme From 'It's All Gone Pearshaped' / Koultans",
+        "url": "https://open.spotify.com/album/7y0m0g1kj347CzmjbwigjS"
+      },
+      "artists": [
+        {
+          "name": "Frantz Tuernal",
+          "url": "https://open.spotify.com/artist/0dEMzudL5SWCEOTTO5IMIx"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356473,
+      "name": "Koultans",
+      "url": "https://open.spotify.com/track/6svZk8939gwsIxO7LDn9vo"
+    },
+    {
+      "album": {
         "name": "K\u00fcnefe",
         "url": "https://open.spotify.com/album/1hj2K4lVFrS0yXeMLKZxlI"
       },
@@ -1344,6 +1470,24 @@
       "duration_ms": 320333,
       "name": "Le Serpent",
       "url": "https://open.spotify.com/track/7lfsbvVeajfdw3l8Cww7Ls"
+    },
+    {
+      "album": {
+        "name": "Copine",
+        "url": "https://open.spotify.com/album/5bBCfJWiZe2sC98S8Ge7OP"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276053,
+      "name": "Les Aventures de TINTIN",
+      "url": "https://open.spotify.com/track/0haoDgX7K78fJJR5UXzh8G"
     },
     {
       "album": {
@@ -1542,6 +1686,24 @@
       "duration_ms": 237159,
       "name": "Maschinenland",
       "url": "https://open.spotify.com/track/5PKewyuFRrOEqY2WadQlNp"
+    },
+    {
+      "album": {
+        "name": "Matilde's Lemon Dance",
+        "url": "https://open.spotify.com/album/6rHL95y8OC6mv29QJ5rpYk"
+      },
+      "artists": [
+        {
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227767,
+      "name": "Matilde's Lemon Dance",
+      "url": "https://open.spotify.com/track/38IS54hz9C3WxRRwLv7QiK"
     },
     {
       "album": {
@@ -1966,7 +2128,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 347472,
       "name": "Pit Stop",
       "url": "https://open.spotify.com/track/0nRhZk6A7fmO9jHTe3qw0M"
@@ -2080,7 +2242,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 270205,
       "name": "Raising Sun on Bali - Lexx Selemat Pagi Mix",
       "url": "https://open.spotify.com/track/1avghaZ5qoTNWQWpDbQmPR"
@@ -2330,6 +2492,24 @@
       "duration_ms": 309026,
       "name": "Software Version",
       "url": "https://open.spotify.com/track/26eGCc37eGsEqX00UrKf18"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7jcPSDKkzNdn8DwwsvXIGY"
     },
     {
       "album": {
@@ -2590,7 +2770,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 198760,
       "name": "The Well",
       "url": "https://open.spotify.com/track/5IbHtOqchDImJYqgrvAu8j"
@@ -2644,7 +2824,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 417463,
       "name": "Treehouse / School Bell (Part 1)",
       "url": "https://open.spotify.com/track/3269Bqg2VzL7bfqhf8kh20"

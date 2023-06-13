@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 73108,
+  "num_followers": 73175,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI2NGU4YTk4MmUwYzAzNzIzZmI1ZTEyMmQ1Zjg3MzZhNDFmZjBk",
+  "snapshot_id": "MCwzYjBkZjhhMzM2YzQxOTMyNTIwYWRlOTg3MWJkMTkzMjNhOTY4NDI3",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 269946,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Already Free",
         "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
       },
@@ -351,22 +335,6 @@
       "duration_ms": 302306,
       "name": "Down In the Flood",
       "url": "https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -387,6 +355,38 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Fight For Your Mind",
         "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
       },
@@ -399,38 +399,6 @@
       "duration_ms": 293960,
       "name": "Ground On Down",
       "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -463,6 +431,38 @@
       "duration_ms": 380266,
       "name": "Congo Square",
       "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 593546,
-      "name": "Sahib Teri Bandi - Maki Madni",
-      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 135106,
       "name": "Talk To Me Baby",
       "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 593546,
+      "name": "Sahib Teri Bandi - Maki Madni",
+      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Deuce (Remastered 2017)",
+        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 344492,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Don't Let The Bossman Get You Down!",
         "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
       },
@@ -795,34 +811,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Deuce (Remastered 2017)",
-        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
         }
       ],
-      "duration_ms": 344492,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Bad Girl Blues - Remastered",
-      "url": "https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx"
+      "duration_ms": 241000,
+      "name": "Roll Your Moneymaker",
+      "url": "https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

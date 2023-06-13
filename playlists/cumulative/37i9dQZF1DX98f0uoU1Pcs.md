@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-492 songs - 1 day 2 hr 30 min
+493 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [BLUE TWO](https://open.spotify.com/artist/46ii392aUgGZUt2rvBrv4m) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 | 2022-03-11 | 2023-04-15 |
 | [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-14 |  |
 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 | 2022-09-19 | 2023-06-03 |
-| [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2023-01-20 |  |
+| [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2023-01-20 | 2023-06-13 |
 | [Pringle Street](https://open.spotify.com/track/4VodRXNcHJFVsrek9QpAB0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [This Place You Know](https://open.spotify.com/album/4clVVRmUrtFtND1sLCJxOY) | 2:59 | 2022-01-07 | 2022-03-12 |
 | [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 | 2023-01-27 | 2023-03-18 |
 | [Prisoners](https://open.spotify.com/track/4i2GTbn2CIPpSa6ml9ZXd9) | [Borbón Pink](https://open.spotify.com/artist/4Wxc9NqZrEOCQKXvIm7zIS) | [Prisoners](https://open.spotify.com/album/1JSEtrxow4uLGps2Otecdf) | 2:44 | 2022-08-26 | 2022-09-24 |
@@ -415,6 +415,7 @@
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-08-06 |
 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 | 2023-04-14 |  |
 | [Superbloom](https://open.spotify.com/track/4bpNIkj2FfPmFCNjR3Kjk0) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [Superbloom](https://open.spotify.com/album/1awoY0qUuW0BAncUn96krA) | 2:54 | 2021-10-07 | 2022-01-08 |
+| [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 | 2023-06-13 |  |
 | [System](https://open.spotify.com/track/1zTHW5TprTtkSfyY39Wr4Q) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [System](https://open.spotify.com/album/1RDY4RAy078SdY2ywM61XN) | 2:09 | 2021-10-07 | 2022-08-06 |
 | [Takes the Piss](https://open.spotify.com/track/5Xv1xvngdGCkrt1MnaOyEX) | [gloo](https://open.spotify.com/artist/22nB1MCDHJehA6lhrgrev3) | [How Not to Be Happy](https://open.spotify.com/album/1jB1L2n0kCjePkgb8ThTBI) | 2:31 | 2021-10-07 | 2022-03-12 |
 | [Talk For Hours](https://open.spotify.com/track/03PjveqFmnkDdYNWXrujZb) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:59 | 2023-03-21 |  |

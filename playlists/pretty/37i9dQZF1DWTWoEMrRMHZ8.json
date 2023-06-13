@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ana Vilela",
-  "num_followers": 340208,
+  "num_followers": 340237,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThiNWM1ZmI0N2NmMDhkNDU1ZmVmYzkxNmRhYWFhYzkwZGNlMjky",
+  "snapshot_id": "MCxmZWJmNDY2NGEwMDc2MDM4NzU3MjMxNTk5YWRmMWJjOTdiYjJlNjNi",
   "tracks": [
     {
       "added_at": "2023-06-02 03:39:33",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -339,30 +339,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 212014,
       "name": "Sem Samba N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Argumento - Spotify Singles",
+        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Bloco Do Silva #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Argumento - Spotify Singles",
-        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Argumento - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 322543,
-      "name": "Cora\u00e7\u00e3o Selvagem",
-      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 322543,
+      "name": "Cora\u00e7\u00e3o Selvagem",
+      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Tarde Em Itapu\u00e3",
-        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Um Gosto de Sol",
         "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Tarde Em Itapu\u00e3",
+        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "ARRISCA",
-        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 213513,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "\u00c9 Preciso Perdoar",
         "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 245666,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 213513,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Olho de Peixe",
+        "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Marcos Suzano",
+          "url": "https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Le\u00e3o do Norte",
+      "url": "https://open.spotify.com/track/0OuAp3mPhm8gtCF6fqqyYL"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Jaqueira",
         "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
       },
@@ -1163,22 +1183,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Olho de Peixe",
-        "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
       "artists": [
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Marcos Suzano",
-          "url": "https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Le\u00e3o do Norte",
-      "url": "https://open.spotify.com/track/0OuAp3mPhm8gtCF6fqqyYL"
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1215,22 +1231,6 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 235437,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Se N\u00e3o For Amor",
-        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Se N\u00e3o For Amor",
-      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Regra Tr\u00eas",
         "url": "https://open.spotify.com/album/5wMyRe196Z2c34iHVFpGis"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/7Lk11taa1HND86DbUk1zB5"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Se N\u00e3o For Amor",
+        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Se N\u00e3o For Amor",
+      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Redescobrir",
-        "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
+        "name": "Poliamor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2tgQHFbqFj0fUHG4wUudLC"
       },
       "artists": [
         {
-          "name": "Bruna Caram",
-          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
-        },
-        {
-          "name": "Z\u00e9 Renato",
-          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
         }
       ],
-      "duration_ms": 207240,
-      "name": "Redescobrir",
-      "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
+      "duration_ms": 170991,
+      "name": "Poliamor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Poliamor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2tgQHFbqFj0fUHG4wUudLC"
+        "name": "Redescobrir",
+        "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
       },
       "artists": [
         {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        },
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
         }
       ],
-      "duration_ms": 170991,
-      "name": "Poliamor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W"
+      "duration_ms": 207240,
+      "name": "Redescobrir",
+      "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "sramba.",
-        "url": "https://open.spotify.com/album/7KoS5oBUK2cvWCNLvAvweT"
-      },
-      "artists": [
-        {
-          "name": "Domenico Lancellotti",
-          "url": "https://open.spotify.com/artist/5Xx27g4aSstcsU3WF4waDC"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "Nada ser\u00e1 de outra maneira",
-      "url": "https://open.spotify.com/track/2DfiblFd1BQOnn1nQOGR3K"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "sramba.",
+        "url": "https://open.spotify.com/album/7KoS5oBUK2cvWCNLvAvweT"
+      },
+      "artists": [
+        {
+          "name": "Domenico Lancellotti",
+          "url": "https://open.spotify.com/artist/5Xx27g4aSstcsU3WF4waDC"
+        }
+      ],
+      "duration_ms": 172554,
+      "name": "Nada ser\u00e1 de outra maneira",
+      "url": "https://open.spotify.com/track/2DfiblFd1BQOnn1nQOGR3K"
     },
     {
       "added_at": "2023-06-02 03:39:33",

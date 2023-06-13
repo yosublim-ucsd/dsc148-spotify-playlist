@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-83 songs - 4 hr 59 min
+84 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Missing You](https://open.spotify.com/track/5sw7riEsdPOFMjjGUietiz) | [Niklas Long](https://open.spotify.com/artist/56udwxmcaG72FBXguNW1AN) | [Missing You](https://open.spotify.com/album/6qYZ9VnIrtHkgALrCfPUsY) | 2:22 | 2022-06-30 |  |
 | [Motel](https://open.spotify.com/track/28B2490QuJ8zJTj6wXy8KQ) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Musica Peculiar](https://open.spotify.com/album/5foAqzpBE2MIjomAGk590t) | 1:50 | 2022-06-30 |  |
 | [Muevelo Sacudelo](https://open.spotify.com/track/20MOxAOkxdf8jP7x2rJXNu) | [DJ Freshly](https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0), [Freddy Moore](https://open.spotify.com/artist/5xlN7ijuxiGalnAD5BgqYN) | [Freshly Guaracha Hits](https://open.spotify.com/album/11d51CGp2mUsUJAVq05IE5) | 4:19 | 2022-06-30 |  |
-| [Multiples Efectos](https://open.spotify.com/track/62RKkuMYjFQSPlXstcCn9s) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/2Lg7enLjJNY4yJSBv9wWbU) | 3:30 | 2022-06-30 |  |
+| [Multiples Efectos](https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD) | 3:30 | 2023-01-09 |  |
+| [Multiples Efectos](https://open.spotify.com/track/62RKkuMYjFQSPlXstcCn9s) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/2Lg7enLjJNY4yJSBv9wWbU) | 3:30 | 2022-06-30 | 2023-06-13 |
 | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/track/3m4vB0q02q4xvBenENEkLw) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/album/0o5FMj2LepZb7fZ6CNAxe3) | 4:05 | 2022-06-30 |  |
 | [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:11 | 2022-06-30 |  |
 | [Noches de Soledad](https://open.spotify.com/track/5WZ3BKEXk7EB86m6MdEpn6) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/6tdpKYdRS2OJy3bQWE9q6q) | 3:34 | 2022-06-30 |  |

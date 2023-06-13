@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from The Drums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,500 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,494 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 |
 | 100 | [Boy](https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Boy](https://open.spotify.com/album/2qBJLDN7ESadifGtdEUsY9) | 3:11 |
 
-Snapshot ID: `MCw4ODczYTBjM2RkN2UzZDViYjRhZTYyYzVjMDYxNmIzZTllYzU2Zjky`
+Snapshot ID: `MCwzNWIzZGUyMzgyMTBkZWEzNjQwMGZjYmNhZDYyNjkwMTYyMjVhYTg1`

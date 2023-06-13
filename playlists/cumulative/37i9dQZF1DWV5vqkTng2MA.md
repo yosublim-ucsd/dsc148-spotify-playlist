@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-233 songs - 13 hr 52 min
+234 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Oh Dear Louis](https://open.spotify.com/track/7ENAaurcGdJwtfPGmjKFxJ) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Oh Dear Louis](https://open.spotify.com/album/1b8fRSign63MoArqZrziLs) | 2:20 | 2021-10-01 | 2022-07-29 |
 | [Oh, Blue](https://open.spotify.com/track/66BIwshV6d27bNI8vNr3A0) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Oh, Blue](https://open.spotify.com/album/25Kd1IHNxO6npxkPrXaNqM) | 3:41 | 2021-10-01 | 2022-07-25 |
 | [Only Fifteen](https://open.spotify.com/track/4xQXui9oJLVyUCNOrAeOuy) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [Hidden Truths](https://open.spotify.com/album/74bSQMt9OnJ6yYIZ871xrA) | 3:40 | 2021-10-01 | 2021-12-25 |
-| [Only Songs](https://open.spotify.com/track/1tbQJsvQzT5KBx3sqgz51u) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:36 | 2022-06-01 |  |
+| [Only Songs](https://open.spotify.com/track/1tbQJsvQzT5KBx3sqgz51u) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:36 | 2022-06-01 | 2023-06-13 |
 | [Only Songs](https://open.spotify.com/track/4GbAYlr0NadVOs7yyVOaxu) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Only Songs](https://open.spotify.com/album/44xYDztQBOoXeX01Fn0JUx) | 4:36 | 2021-10-01 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 | 2021-10-01 |  |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 | 2023-04-28 |  |
@@ -164,6 +164,7 @@
 | [Pain and Misery](https://open.spotify.com/track/74MhYN5UyyDx0W2cbTUZYo) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:00 | 2022-06-01 | 2022-09-15 |
 | [Pain and Misery](https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 4:01 | 2021-10-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-11-13 |
+| [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 | 2023-05-19 |  |
 | [Persistence](https://open.spotify.com/track/4lgnsoBDruL2TzW00kI9xP) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Persistence](https://open.spotify.com/album/3qLAGo8JfSOc7nAUjO9QLW) | 2:51 | 2021-10-01 | 2022-07-28 |
 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 | 2021-10-01 |  |
 | [Place Names](https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 3:53 | 2023-05-19 |  |

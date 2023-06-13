@@ -9668,7 +9668,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT"
@@ -11464,6 +11464,24 @@
       "duration_ms": 192540,
       "name": "My Innocence",
       "url": "https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO"
+    },
+    {
+      "album": {
+        "name": "Jinji Kikko",
+        "url": "https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400560,
+      "name": "My Jinji",
+      "url": "https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW"
     },
     {
       "album": {
@@ -22626,7 +22644,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 241152,
       "name": "\u6708\u306e\u82b1",
       "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"
@@ -22890,7 +22908,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 241875,
       "name": "\u6f6e\u98a8",
       "url": "https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT"

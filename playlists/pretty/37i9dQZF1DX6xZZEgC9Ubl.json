@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1482353,
+  "num_followers": 1482456,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjMwZTdkMTk5NmM4ODc0YTc3MWJlMGE2ZWYxOWJhOGE4YTE3Mjdl",
+  "snapshot_id": "MCw1ZmNmMDFkY2Q2NjNmZjI5NjE0MmVlNTQxNmQ2NmZmZDVmM2NkOWFi",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -55,6 +55,34 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "added_at": "2023-06-12 19:08:04",
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/2qacgpQ0n3auIenJgT5yVA"
+      },
+      "artists": [
+        {
+          "name": "Horse Head",
+          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        },
+        {
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+        },
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Floorboards",
+      "url": "https://open.spotify.com/track/5ozjeOUHnkmrdBqsDzeTkt"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -123,6 +151,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
       },
@@ -147,38 +191,6 @@
       "duration_ms": 120546,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
-    },
-    {
-      "added_at": "2023-05-24 19:35:11",
-      "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 245338,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -229,20 +241,20 @@
       "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
     },
     {
-      "added_at": "2023-04-25 17:32:56",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
+        "name": "nothings ever good enough",
+        "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
+      "duration_ms": 131213,
+      "name": "emotions",
+      "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -261,52 +273,20 @@
       "url": "https://open.spotify.com/track/5Shuabm4PbfAe9k57iU8ZB"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-04-25 17:32:56",
       "album": {
-        "name": "nothings ever good enough",
-        "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 131213,
-      "name": "emotions",
-      "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
-      },
-      "artists": [
-        {
-          "name": "Josh A",
-          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
-    },
-    {
-      "added_at": "2023-05-24 19:38:07",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -327,34 +307,34 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Josh A",
+          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
         }
       ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
+      "duration_ms": 188041,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
     },
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "your eyes",
-        "url": "https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 133026,
-      "name": "your eyes",
-      "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -375,18 +355,34 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "your eyes",
+        "url": "https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 133026,
+      "name": "your eyes",
+      "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -569,6 +565,38 @@
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
     },
     {
+      "added_at": "2023-05-24 19:38:07",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Memory",
@@ -591,22 +619,6 @@
       "duration_ms": 134608,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -739,6 +751,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -799,22 +827,6 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -935,6 +947,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "Not a Home",
+        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Not a Home",
+      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "when we were 16",
         "url": "https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M"
       },
@@ -955,22 +983,6 @@
       "duration_ms": 195745,
       "name": "when we were 16",
       "url": "https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Not a Home",
-        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Not a Home",
-      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1045,20 +1057,20 @@
       "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "leave me where you found me",
-        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 171428,
-      "name": "start again",
-      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
+      "duration_ms": 122880,
+      "name": "Life Is but a Stream~",
+      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1077,20 +1089,20 @@
       "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 122880,
-      "name": "Life Is but a Stream~",
-      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
+      "duration_ms": 171428,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1215,22 +1227,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "LONEWOLF",
         "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
       },
@@ -1247,6 +1243,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "WELCOME HOME",
         "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
       },
@@ -1259,6 +1271,22 @@
       "duration_ms": 164154,
       "name": "BAD NEWS",
       "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
+    },
+    {
+      "added_at": "2023-05-24 19:35:11",
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 245338,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1375,6 +1403,26 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "You Broke My Heart Again",
+        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "You Broke My Heart Again",
+      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
       },
@@ -1463,26 +1511,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "You Broke My Heart Again",
-        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
-      },
-      "artists": [
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "You Broke My Heart Again",
-      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "It Was Fun While It Lasted (Deluxe)",
         "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
@@ -1567,6 +1595,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "PRIMADONA",
+        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 114200,
+      "name": "PRIMADONA",
+      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Sunset Visionary, Vol. 2",
         "url": "https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t"
       },
@@ -1599,22 +1643,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "PRIMADONA",
-        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 114200,
-      "name": "PRIMADONA",
-      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Too High To the Clouds",
         "url": "https://open.spotify.com/album/5KAQILGo8VxtosukwEIoKs"
       },
@@ -1627,22 +1655,6 @@
       "duration_ms": 167487,
       "name": "Too High To the Clouds",
       "url": "https://open.spotify.com/track/5ntEGsiJZY4SaBHbJPJEwj"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "I Know You Well",
-        "url": "https://open.spotify.com/album/17oX3YBKy2BE3OHjM4PEMH"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "I Know You Well",
-      "url": "https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1663,6 +1675,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "I Know You Well",
+        "url": "https://open.spotify.com/album/17oX3YBKy2BE3OHjM4PEMH"
+      },
+      "artists": [
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "I Know You Well",
+      "url": "https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "i'm sorry",
         "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
       },
@@ -1675,22 +1703,6 @@
       "duration_ms": 192901,
       "name": "i'm sorry",
       "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1711,22 +1723,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Felt Like Heaven",
-        "url": "https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh"
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },
       "artists": [
         {
-          "name": "Phazzze",
-          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
-        },
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
         }
       ],
-      "duration_ms": 146526,
-      "name": "Felt Like Heaven",
-      "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     }
   ],
   "unique_name": "tear drop",

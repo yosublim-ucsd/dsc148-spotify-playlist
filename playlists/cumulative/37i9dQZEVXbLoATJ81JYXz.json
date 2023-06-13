@@ -7743,6 +7743,28 @@
     },
     {
       "album": {
+        "name": "Flightmode",
+        "url": "https://open.spotify.com/album/0BjUemCMxVOTFZooI93nXf"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        },
+        {
+          "name": "Prod.sixten",
+          "url": "https://open.spotify.com/artist/5FiJLLEcD7CFPhCpSqIx5n"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "Flightmode",
+      "url": "https://open.spotify.com/track/52maqeiMa8oOV6Nmr3nCMC"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -18588,7 +18610,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -19546,7 +19568,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/0K6aHb68850FoOuFfxAsre"
@@ -22034,7 +22056,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 145283,
       "name": "Starkare",
       "url": "https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX"

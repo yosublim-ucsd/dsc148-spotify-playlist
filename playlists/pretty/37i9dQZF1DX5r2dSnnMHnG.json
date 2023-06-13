@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 4200,
+  "num_followers": 4204,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmRjYjdiZjU4ZjA2ZjA3ZmJjMmJkYzIzMWFiOWIzYmIwZTcyOGI0",
+  "snapshot_id": "MCwxYzBjY2Y2YmQ4ZmI5ZTY0MzQ5NDA0NThkNjk0YzE1NDVhZTNlZWI1",
   "tracks": [
     {
       "added_at": "2023-05-05 08:11:36",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "You(=I)",
+      "url": "https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -323,38 +339,6 @@
       "duration_ms": 168492,
       "name": "Your Shampoo Scent In The Flowers",
       "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "You(=I)",
-      "url": "https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -443,22 +427,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Reason (Vocal by Kim Seonho)",
-        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
-      },
-      "artists": [
-        {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Reason (Vocal by Kim Seonho)",
-      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Full Album RED PLANET",
         "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
@@ -475,22 +443,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -503,6 +455,38 @@
       "duration_ms": 324280,
       "name": "Hi spring Bye",
       "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Reason (Vocal by Kim Seonho)",
+        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Reason (Vocal by Kim Seonho)",
+      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Mean \uc2ec\uc220",
-      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -775,22 +759,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "I'LL BE YOUR SPRING",
-        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
-      },
-      "artists": [
-        {
-          "name": "Olivia Hye",
-          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
-        }
-      ],
-      "duration_ms": 189664,
-      "name": "I'LL BE YOUR SPRING",
-      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "re:",
         "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 226817,
       "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
       "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "I'LL BE YOUR SPRING",
+        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
+      },
+      "artists": [
+        {
+          "name": "Olivia Hye",
+          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
+        }
+      ],
+      "duration_ms": 189664,
+      "name": "I'LL BE YOUR SPRING",
+      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -843,22 +827,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Spring Is Gone by chance (2021)",
         "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
       },
@@ -871,6 +839,22 @@
       "duration_ms": 210386,
       "name": "Spring Is Gone by chance (2021)",
       "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1071,26 +1055,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Thinking of you",
-        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
-      },
-      "artists": [
-        {
-          "name": "Brunch recipe",
-          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
-        },
-        {
-          "name": "Lee Yu Bin",
-          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
-        }
-      ],
-      "duration_ms": 193514,
-      "name": "Thinking of you (Feat. Lee Yu Bin)",
-      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -1107,6 +1071,26 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "Lee Yu Bin",
+          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
+        }
+      ],
+      "duration_ms": 193514,
+      "name": "Thinking of you (Feat. Lee Yu Bin)",
+      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1307,6 +1291,22 @@
       "duration_ms": 247666,
       "name": "Green Tea",
       "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
+        "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
+      },
+      "artists": [
+        {
+          "name": "HAN SEUNG YUN",
+          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Marry ME",
+      "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

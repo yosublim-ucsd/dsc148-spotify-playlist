@@ -1,12 +1,12 @@
 {
-  "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 106501,
+  "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Refused",
+  "num_followers": 106664,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi",
+  "snapshot_id": "MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "The World Has Turned And Left Me Here",
+      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "The World Has Turned And Left Me Here",
-      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "American Football",
         "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 370506,
       "name": "Honestly?",
       "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Relationship Of Command",
-        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "One Armed Scissor",
-      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -235,18 +219,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Pleasant Living",
-        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
+        "name": "Relationship Of Command",
+        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
       "artists": [
         {
-          "name": "Tiny Moving Parts",
-          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 160613,
-      "name": "Always Focused",
-      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
+      "duration_ms": 260306,
+      "name": "One Armed Scissor",
+      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -267,6 +251,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Pleasant Living",
+        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
+      },
+      "artists": [
+        {
+          "name": "Tiny Moving Parts",
+          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Always Focused",
+      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Standing On The Edge Of Summer",
-      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 172600,
       "name": "Getchoo",
       "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Standing On The Edge Of Summer",
+      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
-      "added_at": "2023-06-12 02:10:17",
+      "added_at": "2023-06-13 01:12:24",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -375,6 +375,22 @@
       "duration_ms": 209266,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0DHbBvRnc9SaiUJVYj6g48"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "War All The Time",
-      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Progression Through Unlearning",
         "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 184613,
       "name": "Cut Your Ribbon",
       "url": "https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
-      },
-      "artists": [
-        {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+      },
+      "artists": [
+        {
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Rites of Spring",
         "url": "https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+        "name": "Relationship Of Command",
+        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
+      "duration_ms": 174772,
+      "name": "Arcarsenal",
+      "url": "https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Relationship Of Command",
-        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 174772,
-      "name": "Arcarsenal",
-      "url": "https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M"
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Emergency & I",
         "url": "https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 274720,
       "name": "A Life of Possibilities",
       "url": "https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     },
     {
       "added_at": "2023-03-14 22:36:58",

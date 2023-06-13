@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,661 likes - 80 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,798 likes - 80 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 79 | [Vukani MaAfrica](https://open.spotify.com/track/7hFEPCCECUKN7dQ2SFFV7a) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1) | [Song Is Queen](https://open.spotify.com/album/1vZ0ul3flyhSZlhp1ve7Tm) | 7:22 |
 | 80 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 
-Snapshot ID: `MCw1NjgyYzdhMzdjNGVkMmY3OGQyMTM0OGY2ZTY5N2EzODQ5YjAwNWY4`
+Snapshot ID: `MCxhMTM5MzMzNmJkN2U5ZjQ3MjQ2ZDhjNDljNzI0MWYxZTFiZmIyNmNh`

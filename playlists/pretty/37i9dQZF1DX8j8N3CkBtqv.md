@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,244 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,280 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Bekhabar](https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Bekhabar](https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0) | 3:04 |
 | 50 | [Dil Ho Tum](https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dil Ho Tum](https://open.spotify.com/album/30ArQwlmCra7hvdeQR5FsF) | 2:38 |
 
-Snapshot ID: `MCw0MWJlODhjNDVjNzc5ODdkZjBmY2E0YTRhNDM2OGRlMzczZWM1M2M2`
+Snapshot ID: `MCwwMGQzZTYyZWU3ZGFkNDg0NmFmNzhjZDkyYmNhMWI5MWM5ZDgxOGE5`

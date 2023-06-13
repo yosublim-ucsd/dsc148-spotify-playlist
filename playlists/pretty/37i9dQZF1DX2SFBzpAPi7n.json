@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KyoungSeo(\uacbd\uc11c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 213554,
+  "num_followers": 213574,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQ4NDczZGMwMDBiNzE3ZGYxODllMjEyZGJkMTQ2ODExNmRlZTQ5",
+  "snapshot_id": "MCwzMTdlY2U5NTM0ZjhhNDhkODYzYTc5ZmEzNDgxMGJkNTIzZWVjOGYy",
   "tracks": [
     {
       "added_at": "2023-06-01 15:03:19",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "NAN CHUN \ub09c\ucd98",
-        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "NAN CHUN \ub09c\ucd98",
-      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
@@ -427,38 +411,6 @@
       "duration_ms": 204293,
       "name": "Scream",
       "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -479,18 +431,50 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
+        "name": "NAN CHUN \ub09c\ucd98",
+        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "NAN CHUN \ub09c\ucd98",
+      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -591,34 +575,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "Verse 2",
-        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
-      },
-      "artists": [
-        {
-          "name": "JJ Project",
-          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
-      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -639,6 +607,22 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "Self-Portrait - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
       },
@@ -655,6 +639,38 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
       "artists": [
         {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 268453,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+      "duration_ms": 222021,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
         }
       ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
     },
     {
       "added_at": "2023-06-01 15:03:19",

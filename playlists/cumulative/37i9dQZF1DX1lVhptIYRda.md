@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Brothers Osborne
+> Today's top country hits of the week, worldwide! Cover: Corey Kent
 
 644 songs - 1 day 10 hr 44 min
 

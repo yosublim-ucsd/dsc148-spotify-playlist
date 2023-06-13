@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Rodell Duff, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,087 likes - 106 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,109 likes - 106 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 105 | [Part Of Your World](https://open.spotify.com/track/058QphKAxFk1QWtzwHlMv3) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Part Of Your World](https://open.spotify.com/album/6rDlUApirith0ge6BuBiSN) | 3:27 |
 | 106 | [Ain't For Me](https://open.spotify.com/track/0nl6comjSULrsfHy2XohMI) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Southerland](https://open.spotify.com/album/7bx1O8YDqym7lJpHgXlaIK) | 3:08 |
 
-Snapshot ID: `MCxmMTkzZTQyYTE2YzdlMTMzODZkMWIyMDNkZGZiYmMzNDM2MGEyZGVi`
+Snapshot ID: `MCwzY2I1MjlkZTQzNGIzMTZjYTA0MmQyMGJlYmI4N2JlZDI2OTgyMzNj`

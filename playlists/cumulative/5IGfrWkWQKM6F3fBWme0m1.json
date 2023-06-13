@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Rosebud / Black Dove",
+        "url": "https://open.spotify.com/album/0GqxOSETsidoCMzXvjLN3o"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388497,
+      "name": "Black Dove",
+      "url": "https://open.spotify.com/track/6okbnQZIX3CAh9MaMF6wIk"
+    },
+    {
+      "album": {
         "name": "Blanked / Blue Eyes",
         "url": "https://open.spotify.com/album/2Xo3CYThFQDGCMwctxSMpT"
       },
@@ -2237,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Tracey Denim",
+        "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208912,
+      "name": "changer",
+      "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
+    },
+    {
+      "album": {
         "name": "Chaos Energy",
         "url": "https://open.spotify.com/album/7cNZnFUMk3PSgW7ljGszFV"
       },
@@ -2498,6 +2534,24 @@
       "duration_ms": 166434,
       "name": "CITY",
       "url": "https://open.spotify.com/track/1Bu2L6uSVayCN9SEaewqd5"
+    },
+    {
+      "album": {
+        "name": "Clearly Rushing",
+        "url": "https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Clearly Rushing",
+      "url": "https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC"
     },
     {
       "album": {
@@ -3770,6 +3824,24 @@
       "duration_ms": 624346,
       "name": "Evencycle",
       "url": "https://open.spotify.com/track/1syc506aHpwGbkU7dlPVeN"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Be",
+        "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Every Single Time",
+      "url": "https://open.spotify.com/track/2vTDzBoSYaYDnGgN8HbcpQ"
     },
     {
       "album": {
@@ -5753,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Skinned",
+        "url": "https://open.spotify.com/album/5ZrwHSdgcX7sgHpc373KEn"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158799,
+      "name": "I'm A Girl You Can Hold IRL",
+      "url": "https://open.spotify.com/track/4AdqGV9WJmIKybuqZWCzhi"
+    },
+    {
+      "album": {
         "name": "I'm Lost (Remixes)",
         "url": "https://open.spotify.com/album/06TLORXYif1ddw1WKyo0hz"
       },
@@ -7125,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "LLTB",
+        "url": "https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "LLTB",
+      "url": "https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO"
+    },
+    {
+      "album": {
         "name": "Lock&Key",
         "url": "https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo"
       },
@@ -7957,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "A Part of You in Everything",
+        "url": "https://open.spotify.com/album/2dYQk5VDGP3ej703JnIaIp"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302769,
+      "name": "My Brother (is a Star)",
+      "url": "https://open.spotify.com/track/7e4AMTsRM0VB0dpQYRqIKo"
+    },
+    {
+      "album": {
         "name": "Heart Ego",
         "url": "https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC"
       },
@@ -8437,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "Obsession 2",
+        "url": "https://open.spotify.com/album/0WOeBuwdqDqlMqrSwOzCUJ"
+      },
+      "artists": [
+        {
+          "name": "Inga Copeland",
+          "url": "https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237331,
+      "name": "Obsession 2",
+      "url": "https://open.spotify.com/track/0nLh1u0zmIEBdQs8fGa3Ai"
+    },
+    {
+      "album": {
         "name": "ANCIENT RAIN",
         "url": "https://open.spotify.com/album/64dhVWCPpQXxIrwTCY9Q4w"
       },
@@ -8710,6 +8858,24 @@
       "duration_ms": 271187,
       "name": "Open Air - Portara0000 Remix",
       "url": "https://open.spotify.com/track/1zd9jR5ruhxlBXDTLkSg2s"
+    },
+    {
+      "album": {
+        "name": "Open Your Mind / Murder Most Foul / Dub in U (Remix) / Survival (Remix)",
+        "url": "https://open.spotify.com/album/5ju27TKkhKkEGXVvPtG7NI"
+      },
+      "artists": [
+        {
+          "name": "Foul Play",
+          "url": "https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381258,
+      "name": "Open Your Mind",
+      "url": "https://open.spotify.com/track/47Apmyz1H3IuO7jm7lm45q"
     },
     {
       "album": {
@@ -11967,6 +12133,24 @@
     },
     {
       "album": {
+        "name": "The Head Hurts but the Heart Knows the Truth",
+        "url": "https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x"
+      },
+      "artists": [
+        {
+          "name": "Headache",
+          "url": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "The Beginning of the End",
+      "url": "https://open.spotify.com/track/1MPtLlyuB1X78TeammWxy9"
+    },
+    {
+      "album": {
         "name": "Heart & Earth",
         "url": "https://open.spotify.com/album/4z6l1hnrwl1UlYcSMKu0mS"
       },
@@ -12387,6 +12571,32 @@
     },
     {
       "album": {
+        "name": "Ti Chuong (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/198OOyrK12wZp6mYT5NYuJ"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Nyaruach",
+          "url": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177318,
+      "name": "Ti Chuong - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/2jtwb4nOd2iGP5fmMsIfR9"
+    },
+    {
+      "album": {
         "name": "Time Of The G's / Clone Heart",
         "url": "https://open.spotify.com/album/2yFf4HwN1VoHERDRyCqooN"
       },
@@ -12579,6 +12789,28 @@
     },
     {
       "album": {
+        "name": "Transitions / Retransitions",
+        "url": "https://open.spotify.com/album/2aOaDqjXVDTLfkBczW5tRc"
+      },
+      "artists": [
+        {
+          "name": "Deep blue",
+          "url": "https://open.spotify.com/artist/0N1AChd9JXrtoczyW8PzZM"
+        },
+        {
+          "name": "Blame",
+          "url": "https://open.spotify.com/artist/55Of1EYV7uMJ7VDBG2TpxA"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465399,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/5uDegUCglWYGmYjjg0JUwy"
+    },
+    {
+      "album": {
         "name": "Poison Ivy",
         "url": "https://open.spotify.com/album/3pa5gld04OzSqSr34TDW7J"
       },
@@ -12728,6 +12960,28 @@
       "duration_ms": 271008,
       "name": "Twangle Frent (Special Request Rework) - Mixed",
       "url": "https://open.spotify.com/track/2VWgLCQH3vODAwzwTikguD"
+    },
+    {
+      "album": {
+        "name": "Last Thing You",
+        "url": "https://open.spotify.com/album/0X3gPUrFmtUVlwAZfyWzjM"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Scandinavian Star",
+          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Two Autumns",
+      "url": "https://open.spotify.com/track/5hvAJESooOieTSDSOXBgUi"
     },
     {
       "album": {
@@ -13762,6 +14016,28 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
+    },
+    {
+      "album": {
+        "name": "Dismantled Into Juice",
+        "url": "https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        },
+        {
+          "name": "Monstera Black",
+          "url": "https://open.spotify.com/artist/4McIq91y9cJCNL6TaIbe6W"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209247,
+      "name": "You Can Build Me",
+      "url": "https://open.spotify.com/track/5oDvyftFW854n3gTtwBosS"
     },
     {
       "album": {

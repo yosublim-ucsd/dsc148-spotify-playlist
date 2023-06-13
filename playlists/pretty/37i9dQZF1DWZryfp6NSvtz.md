@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,367 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,508 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 |
 | 50 | [Wet Like Summer](https://open.spotify.com/track/505RZEFoZAJvbpQIDsSxEq) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [Wet Like Summer](https://open.spotify.com/album/1DhiNOli1JsvZ6ZcPpI9Rv) | 3:28 |
 
-Snapshot ID: `MCw3Y2Q0MzJlMTIyMTU4NzFiZDBkZTIyYTQ5MThiYmUzNGIzNjI0NjI4`
+Snapshot ID: `MCxhYzk5MTJlOTFiODQ1NjRhYTEyZGRlMmU3NDc0NThkMjJiYWM2NzE0`

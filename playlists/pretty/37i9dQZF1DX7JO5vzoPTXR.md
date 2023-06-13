@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:63yrD80RY3RNEM2YDpUpO8">Melanie Martinez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,409 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,448 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 |
 | 40 | [by now \(stripped\)](https://open.spotify.com/track/6LKV2gxEJe3au9CHJ8RNGB) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [by now \(stripped\)](https://open.spotify.com/album/3BftCzF7UsLbiSybzliInD) | 2:56 |
 
-Snapshot ID: `MCxjZjVlNGIxYzhmMTc0ZDQ3MDA5YjkxNTEwODFmZGM5YjkwYTBkNjNi`
+Snapshot ID: `MCwwYTYyMWJkOGFkYjRkYTJmYzJiZGE5MmFhYWM3ODBiYTgyM2RiNDgw`

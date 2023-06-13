@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 981 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 59 | [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 |
 | 60 | [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [is this Cam?](https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 |
 | 61 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
-| 62 | [swerve](https://open.spotify.com/track/5bzOuMKNSQkZ06rr0ubaNF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:45 |
-| 63 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
+| 62 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
+| 63 | [swerve](https://open.spotify.com/track/5bzOuMKNSQkZ06rr0ubaNF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:45 |
 | 64 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
 | 65 | [love notes and hate mail](https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 3:18 |
 | 66 | [body](https://open.spotify.com/track/1AOyWQleFNAagx0LPJQPUF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2fvjwp4UBq2wsvU8sDsZZR) | 3:12 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgxMDg5MzUsMDAwMDAwMDBlNmJlMjhmOTAwMGNhOGY4MWMzZTZmMjlmYTkzYjA4Yw==`
+Snapshot ID: `MjgxMTAzNzAsMDAwMDAwMDAyYTU5OWZiNWMwODZiZTNlMGZmNDJkMTRmNjVkYWVhYQ==`

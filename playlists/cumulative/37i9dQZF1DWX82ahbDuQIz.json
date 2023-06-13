@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Shucked",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Kimberley Akimbo",
   "name": "Best of Broadway",
   "tracks": [
     {
@@ -394,6 +394,56 @@
       "duration_ms": 306760,
       "name": "Being Alive",
       "url": "https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB"
+    },
+    {
+      "album": {
+        "name": "Kimberly Akimbo (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1X4panrbiKDmwkRQ2hfos8"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Milligan",
+          "url": "https://open.spotify.com/artist/2dWTkKrPGvkwSTSuRSwJNc"
+        },
+        {
+          "name": "Victoria Clark",
+          "url": "https://open.spotify.com/artist/2KSCnFEc7wBSpCZJsmZvhV"
+        },
+        {
+          "name": "Michael Iskander",
+          "url": "https://open.spotify.com/artist/2QEGsMPujjxa7w7HVobklx"
+        },
+        {
+          "name": "Olivia Elease Hardy",
+          "url": "https://open.spotify.com/artist/7nbZFbSW5TbrlDTDK5Cv9C"
+        },
+        {
+          "name": "Fernell Hogan",
+          "url": "https://open.spotify.com/artist/2PXBN7Uc4HVcndCcBW5RvS"
+        },
+        {
+          "name": "Nina White",
+          "url": "https://open.spotify.com/artist/68F6Fim18yqlXgPsG4sEle"
+        },
+        {
+          "name": "Kimberly Akimbo Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/0PAzSjYA0uRlEyXjWg0GOQ"
+        },
+        {
+          "name": "Jeanine Tesori",
+          "url": "https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z"
+        },
+        {
+          "name": "David Lindsay-Abaire",
+          "url": "https://open.spotify.com/artist/7xiEb9WVfHiJntK8CErwna"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245759,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5l4Uhz4UZ2OLtPOyGeyr7M"
     },
     {
       "album": {
@@ -3846,6 +3896,28 @@
       "duration_ms": 349400,
       "name": "You Can't Stop the Beat - Medley",
       "url": "https://open.spotify.com/track/4WETOI0rRKTLF1NqJ8E5Xf"
+    },
+    {
+      "album": {
+        "name": "Some Like It Hot (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0D4rHSdwa7yTUI6hH3P733"
+      },
+      "artists": [
+        {
+          "name": "J. Harrison Ghee",
+          "url": "https://open.spotify.com/artist/0Sgs5uMAFG5PoMhBYz2S94"
+        },
+        {
+          "name": "'Some Like It Hot' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/1qaoI60KR6A1egoYzkEeOm"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233209,
+      "name": "You Coulda Knocked Me Over With A Feather",
+      "url": "https://open.spotify.com/track/3Q6MFmutoKCc69hEVvX61k"
     },
     {
       "album": {

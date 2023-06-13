@@ -2,7 +2,7 @@
 
 ### [Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone)
 
-> It's like rock, but softer\. Cover: Fleetwood Mac
+> It's like rock, but softer\. Cover: Billy Joel
 
 399 songs - 1 day 5 hr 14 min
 

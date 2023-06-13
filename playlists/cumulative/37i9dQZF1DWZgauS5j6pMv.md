@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Cory Wong
 
-325 songs - 19 hr 10 min
+326 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Recipe](https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E) | [Recipe](https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz) | 3:02 | 2022-03-11 |  |
 | [Remember](https://open.spotify.com/track/2m0fbba1YFzmXebHImHaNy) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs) | [Sgt Culpepper](https://open.spotify.com/album/43mTFLfF5mNMhuA7MtDcSi) | 4:17 | 2021-07-23 | 2022-01-29 |
 | [Rock With Me \- Jafunk Remix](https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Rock With Me \(Jafunk Remix\)](https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm) | 2:05 | 2022-10-28 |  |
-| [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP) | 4:50 | 2023-03-10 |  |
+| [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/3baccsZBLbwyt13He6xLgf) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:50 | 2023-03-10 |  |
+| [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP) | 4:50 | 2023-03-10 | 2023-06-13 |
 | [Running For Cover](https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Running For Cover](https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX) | 2:39 | 2023-01-27 | 2023-02-25 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2023-01-24 |
 | [Sales Pitch](https://open.spotify.com/track/7IEjQqBJsvp4U48FyLJkxG) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Sales Pitch](https://open.spotify.com/album/2nXYMagjpvyG1cbDw8z668) | 3:54 | 2023-02-24 |  |

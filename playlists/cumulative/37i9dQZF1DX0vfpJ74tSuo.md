@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-179 songs - 10 hr 52 min
+180 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 | 2023-01-20 | 2023-04-12 |
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 | 2022-07-08 |  |
+| [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 | 2023-06-09 |  |
 | [I Remember You](https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 4:55 | 2022-05-25 |  |
 | [I Want to Hear You Sing](https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Rain](https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE) | 2:43 | 2023-04-14 | 2023-04-15 |
 | [I'm Gonna Find Another You \- Live](https://open.spotify.com/track/2vjhG0Cd33rlbXkq7D0ThC) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj), [NEKOMURA](https://open.spotify.com/artist/3OaVBqxlWy8vHIHsBV8nN2) | [I'm Gonna Find Another You \(Live\)](https://open.spotify.com/album/7zMaRH93VljgYVf7XGSW93) | 3:46 | 2023-03-24 | 2023-04-14 |
@@ -116,7 +117,7 @@
 | [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 | 2022-12-01 | 2023-03-16 |
 | [Make it Talk](https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0) | [Danny Garrett](https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu) | [Make it Talk](https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9) | 3:17 | 2023-01-20 | 2023-06-12 |
 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 | 2022-09-20 |  |
-| [Mashing Rain](https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI) | [Honky Fish](https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96) | [Mashing Rain](https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu) | 2:14 | 2022-12-21 |  |
+| [Mashing Rain](https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI) | [Honky Fish](https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96) | [Mashing Rain](https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu) | 2:14 | 2022-12-21 | 2023-06-13 |
 | [Mean Old 'Frisco Blues](https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:35 | 2023-03-03 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-05-25 |  |
 | [Mean Ole Frisco](https://open.spotify.com/track/4RIBKdcr6jX0PLEDC7Tp5a) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:36 | 2023-01-20 | 2023-02-01 |

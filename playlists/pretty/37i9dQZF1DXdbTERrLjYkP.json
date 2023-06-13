@@ -1,13 +1,65 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: corook",
-  "num_followers": 83450,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Hunter Daily",
+  "num_followers": 83520,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDE2ZTNiMzA1OWQ5YmIwZmEzZTZkMmUyYWMwNDU2ZjQyMWQ0ODBl",
+  "snapshot_id": "MCw5ODIzNDA0OTkzMmJmMzQzZDQ3NDI3NzIyNDI1MGRmOTVkYmU4NDhl",
   "tracks": [
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "Die in LA",
+        "url": "https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        },
+        {
+          "name": "Tyson",
+          "url": "https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7"
+        }
+      ],
+      "duration_ms": 172712,
+      "name": "Age Of Depression",
+      "url": "https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg"
+    },
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
+    },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
@@ -27,6 +79,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Big Dumb Heart, Chapter 1",
+        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "She's There",
+      "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
+    },
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "Dear Ella,",
+        "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "How Do I Love Again",
+      "url": "https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK"
       },
@@ -39,6 +123,22 @@
       "duration_ms": 206597,
       "name": "Potential",
       "url": "https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy"
+    },
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "New Name to Heartbreak",
+        "url": "https://open.spotify.com/album/5WK6X2lUucPMPm6IfIGM0i"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "New Name to Heartbreak",
+      "url": "https://open.spotify.com/track/65AxjXcLId94KrLHXAU0Kb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -71,6 +171,22 @@
       "duration_ms": 182452,
       "name": "A Little Older",
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
+    },
+    {
+      "added_at": "2023-06-12 16:15:12",
+      "album": {
+        "name": "Twenty Nothing",
+        "url": "https://open.spotify.com/album/5cg7Ma4c3H9WEFQythH6XM"
+      },
+      "artists": [
+        {
+          "name": "Frankie Bird",
+          "url": "https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Twenty Nothing",
+      "url": "https://open.spotify.com/track/35MVdVBcADS8oEOBY6IKOX"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -119,22 +235,6 @@
       "duration_ms": 148888,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Big Dumb Heart, Chapter 1",
-        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "She's There",
-      "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -767,22 +867,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Lovely Enough",
-        "url": "https://open.spotify.com/album/5PAfZ5O815kDOBwpnkuNJE"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Lovely Enough",
-      "url": "https://open.spotify.com/track/60wz1rhDNtKo8RjNB6GxbR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Until Now",
         "url": "https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF"
       },
@@ -943,22 +1027,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 161210,
-      "name": "Elephant In The Room",
-      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Love Fools",
         "url": "https://open.spotify.com/album/4G6BxhKzRTYG7ftX48BY9f"
       },
@@ -1071,22 +1139,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I H8 EVERYONE",
-        "url": "https://open.spotify.com/album/5xeQy6IHThwOo4yOMdBYz5"
-      },
-      "artists": [
-        {
-          "name": "KILLBOY",
-          "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "AS IT SEEMS",
-      "url": "https://open.spotify.com/track/51by1PCmtPWgKmeznbDkIj"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cautiously Optimistic",
         "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
       },
@@ -1115,22 +1167,6 @@
       "duration_ms": 189671,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "Don't Tell My Mom",
-      "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

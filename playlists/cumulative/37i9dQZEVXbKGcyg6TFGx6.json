@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/0XGBe8T2n2XTdesQgjQQIY"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 189064,
       "name": "Des Gat\u00e9s",
       "url": "https://open.spotify.com/track/09zGqQ1SxcVOYhIU6st444"
@@ -5888,7 +5888,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -6040,7 +6040,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -6414,6 +6414,28 @@
       "duration_ms": 113423,
       "name": "Don't Talk To The Police",
       "url": "https://open.spotify.com/track/1viBNZAhqGj6VXG2lSLwAm"
+    },
+    {
+      "album": {
+        "name": "Don't Waste My Time",
+        "url": "https://open.spotify.com/album/02AtdiQzH5cWqhaueCa90N"
+      },
+      "artists": [
+        {
+          "name": "Rick Bars",
+          "url": "https://open.spotify.com/artist/5dzOTh1QVepd2JcXq53F2E"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120839,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/6fDzDF8E9PTbztAfZkZoJO"
     },
     {
       "album": {
@@ -7614,7 +7636,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 184799,
       "name": "Fade",
       "url": "https://open.spotify.com/track/78ueoywWrImrfLMt3MUhui"
@@ -9536,7 +9558,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -10163,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "I Can Do It",
+        "url": "https://open.spotify.com/album/1fCIK9ZCgIK7EcYlksAayI"
+      },
+      "artists": [
+        {
+          "name": "Meeko Kolledi",
+          "url": "https://open.spotify.com/artist/3C990sVCyj5sXGZHy1eZtI"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170780,
+      "name": "I Can Do It",
+      "url": "https://open.spotify.com/track/32mM2BaKUquEwpyqNoxm5V"
+    },
+    {
+      "album": {
         "name": "I Cant Lose",
         "url": "https://open.spotify.com/album/7gD1r0QmxVDktmFByIVX21"
       },
@@ -10762,7 +10802,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 151216,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/28no7gwdF7PBCQQMuwHmXL"
@@ -11244,7 +11284,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
@@ -11886,7 +11926,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -13842,7 +13882,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 227807,
       "name": "Maria Joana",
       "url": "https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4"
@@ -14298,7 +14338,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -14440,7 +14480,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 259127,
       "name": "Minha Terra",
       "url": "https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6"
@@ -14630,7 +14670,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -17238,7 +17278,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -17700,7 +17740,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -19721,6 +19761,28 @@
     },
     {
       "album": {
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/4F1nBpjyXiVBH7Z62Xz3Rt"
+      },
+      "artists": [
+        {
+          "name": "RAFFEAL",
+          "url": "https://open.spotify.com/artist/2gZKJ3bLxzw0rjNKkBj4l9"
+        },
+        {
+          "name": "Teeza Bane",
+          "url": "https://open.spotify.com/artist/70f3GNyvajXuvFHcw01HJ8"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141538,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/0NfwbGetneplv71YArQEfI"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -20976,7 +21038,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
@@ -21500,6 +21562,24 @@
       "duration_ms": 239142,
       "name": "The Star That I Want",
       "url": "https://open.spotify.com/track/0l9WgOg68r5Mcl91EnJMCP"
+    },
+    {
+      "album": {
+        "name": "The Statement",
+        "url": "https://open.spotify.com/album/3PdzkOq0jL2YxBCh6EAOOQ"
+      },
+      "artists": [
+        {
+          "name": "Jake Shaw",
+          "url": "https://open.spotify.com/artist/5zQpdhahVpa6PM8J3hA7ps"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140178,
+      "name": "The Statement",
+      "url": "https://open.spotify.com/track/5cciKz7lOSsYygtOCMPz6D"
     },
     {
       "album": {

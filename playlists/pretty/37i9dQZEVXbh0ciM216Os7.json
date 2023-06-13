@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDBkOTAyNmNmMWY3MWRlOWUzNDdjMjA2MWM3NzNiYzYxMg==",
+  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDA1NmM3ZGU1MTM0MzVmYzAxZWRmMmM2MWRhZTZjNDQ1Mg==",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -55,46 +55,6 @@
       "duration_ms": 268767,
       "name": "Farewell For Now",
       "url": "https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Dirty Paradise",
-        "url": "https://open.spotify.com/album/21ixTW6BjtdgZGC9ECVXgD"
-      },
-      "artists": [
-        {
-          "name": "Cultcha Shoc",
-          "url": "https://open.spotify.com/artist/4xi7MNQn3EK1UhaOT16tyc"
-        },
-        {
-          "name": "Johnny Blaze",
-          "url": "https://open.spotify.com/artist/5I7OEO1NFYJSJ3CAnN0bgY"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kaiju-X",
-          "url": "https://open.spotify.com/artist/6BNNb7zJt6jHO9N5Y7FUBC"
-        },
-        {
-          "name": "Ali Starr",
-          "url": "https://open.spotify.com/artist/6FGllikOBPwFDpglYBkPbK"
-        },
-        {
-          "name": "Beretta 9",
-          "url": "https://open.spotify.com/artist/3w9su6Q6Zqfg8vbuEv4d6z"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        }
-      ],
-      "duration_ms": 467346,
-      "name": "Dirty Paradise",
-      "url": "https://open.spotify.com/track/0nIa2Yx9MsnVfVFcEbTKA8"
     },
     {
       "added_at": "2023-06-09 04:00:00",

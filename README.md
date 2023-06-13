@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6179\)
+## Playlists \(6182\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2154,6 +2154,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Heavy Gamers](/playlists/pretty/37i9dQZF1DXcOYQJYGaYjk.md)
 - [Heavy Metal](/playlists/pretty/37i9dQZF1DX9qNs32fujYe.md)
 - [Heavy Queens](/playlists/pretty/37i9dQZF1DWXDJDWnzE39E.md)
+- [Hecho en Puerto Rico](/playlists/pretty/37i9dQZF1DX3rgIhQ2x809.md)
 - [Here Comes The Sun](/playlists/pretty/37i9dQZF1DXdwF9DytRe8w.md)
 - [High Rollers](/playlists/pretty/37i9dQZF1DX74NVX09eJB3.md)
 - [Higher](/playlists/pretty/37i9dQZF1DWT8bff1BCeZx.md)
@@ -3214,6 +3215,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Nostalgia + Rock](/playlists/pretty/37i9dQZF1DWUE25YmPdDOO.md)
 - [Not Quite Classical](/playlists/pretty/37i9dQZF1DWSw8liJZcPOI.md)
 - [Nouveautés francophones](/playlists/pretty/37i9dQZF1DX9SvXmR7wQty.md)
+- [Nouvelle École](/playlists/pretty/37i9dQZF1DX9dN9aE5QRR4.md)
 - [Novedades Cristianas](/playlists/pretty/37i9dQZF1DXceimpD9pJou.md)
 - [Novedades Indie](/playlists/pretty/37i9dQZF1DXaaU1AaHpZeu.md)
 - [Novedades Música Mexicana](/playlists/pretty/37i9dQZF1DWXvaphaClKD3.md)
@@ -6039,6 +6041,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [primavera chill](/playlists/pretty/37i9dQZF1DX5tzVwq5dYaq.md)
 - [pulp](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md)
 - [pumpkin spice](/playlists/pretty/37i9dQZF1DX6cFbK8tUIPC.md)
+- [qué agusticidad](/playlists/pretty/37i9dQZF1DX3s5RJAUX1SI.md)
 - [ragazzo triste](/playlists/pretty/37i9dQZF1DX7JWqNxz28IX.md)
 - [rave](/playlists/pretty/37i9dQZF1DWSXMERUaiq9M.md)
 - [reblog](/playlists/pretty/37i9dQZF1DWSMyFeHM3son.md)
@@ -6095,7 +6098,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [theremin](/playlists/pretty/37i9dQZF1DX9FavclD4O50.md)
 - [toybox](/playlists/pretty/37i9dQZF1DX6r25lY14UGk.md)
 - [tqm](/playlists/pretty/37i9dQZF1DX68lbF0lqCZV.md)
-- [tranquilito](/playlists/pretty/37i9dQZF1DX3s5RJAUX1SI.md)
 - [tropic.alt](/playlists/pretty/37i9dQZF1DX8HSZzYIDgBB.md)
 - [twerk](/playlists/pretty/37i9dQZF1DWTOPE5PGBHDN.md)
 - [una playlist felice](/playlists/pretty/37i9dQZF1DWT888el8RDPq.md)
@@ -6135,6 +6137,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Éxitos Colombia](/playlists/pretty/37i9dQZF1DXbvPjXfc8G9S.md)
 - [Éxitos Cristianos](/playlists/pretty/37i9dQZF1DWUjxqgjSiQ9K.md)
 - [Éxitos México](/playlists/pretty/37i9dQZF1DX5BAPG29mHS8.md)
+- [Éxitos Puerto Rico](/playlists/pretty/37i9dQZF1DX1Zs6DCeRyof.md)
 - [Éxitos USA](/playlists/pretty/37i9dQZF1DX4oUPBOaEkL6.md)
 - [Éxitos de Balneario](/playlists/pretty/37i9dQZF1DWVpZt0hgkZZM.md)
 - [Éxitos del Ayer](/playlists/pretty/37i9dQZF1DX4Ma23gvJILl.md)

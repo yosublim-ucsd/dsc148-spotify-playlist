@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,838 likes - 172 songs - 11 hr 6 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,850 likes - 173 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 170 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 171 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/7w9bgPAmPTtrkt2v16QWvQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call \(Deluxe\)](https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA) | 5:26 |
 | 172 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
+| 173 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
 
-Snapshot ID: `NDYxLGU2M2VjMGE2YmViYTI4NWM3OTExMjVlNjc1MzBiNTJiZGUzZDRhYjA=`
+Snapshot ID: `NDYyLDc2ZWE5MmU2NjU1NjZiNGU2YTlhNWE0OWUzYTE1OWMwODFmZTdiYmY=`

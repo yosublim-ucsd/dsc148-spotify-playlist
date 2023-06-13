@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,130 likes - 71 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,146 likes - 71 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 70 | [Direction](https://open.spotify.com/track/1Ey4xZ7DQywyL5LshrK9e4) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [KEYTO](https://open.spotify.com/artist/5PsU7pGqDwfuI7RWNblSGz) | [Direction](https://open.spotify.com/album/4tmUzN1n52w8S8kl76VelO) | 2:23 |
 | 71 | [Nothing Is Impossible](https://open.spotify.com/track/2i1E64sU5T7b3BN6PKPQJV) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [Nothing Is Impossible](https://open.spotify.com/album/5qJrFWDXOrjgvhV2zMpdge) | 2:53 |
 
-Snapshot ID: `MCw1NWVhNjZkZmNjYzJjZmJlYjllYTE3NWJmNDFmYzVkOGM0ZTNmNWFj`
+Snapshot ID: `MCxmODk0YWUwNmYyOGQ0ODEyMTdlNjI1MDE5ZjYwODMzZWNmMGNhYTg0`

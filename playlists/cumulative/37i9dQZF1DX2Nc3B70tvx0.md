@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Albums from King Krule, Youth Lagoon, and Christine & The Queens plus much more.
 
-1,620 songs - 4 day 1 hr 13 min
+1,621 songs - 4 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 | 2022-11-25 | 2023-01-21 |
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-10 | 2022-05-13 |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2021-10-13 | 2021-10-16 |
-| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-19 | 2023-06-10 |
+| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-19 |  |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-05-05 |  |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-03-10 | 2021-09-03 |
 | [50 Souls and a Discobowl \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4HL64eE6Tg7DOHRLZ1Wgd3) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Spotify Singles](https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF) | 3:14 | 2019-05-31 | 2019-06-21 |
@@ -949,6 +949,7 @@
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-07-08 | 2022-07-29 |
 | [name & place](https://open.spotify.com/track/45hAnZZq08IMAZZM3GOgMT) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [name & place](https://open.spotify.com/album/5iElagbLcBoeHkFmvY2AeV) | 4:19 | 2020-06-12 | 2021-03-10 |
 | [Natural Affair \(Single Edit\)](https://open.spotify.com/track/651sHsLdF05cX2TM51dSiS) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Natural Affair \(Single Edit\)](https://open.spotify.com/album/61zjlhXpT2We8dRbZGC1eC) | 3:39 | 2019-08-16 | 2020-03-21 |
+| [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-12 |  |
 | [Neither/Nor](https://open.spotify.com/track/1V4b8vPkhl4JxRPqn67qQH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 5:26 | 2020-06-02 | 2020-10-13 |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-08-02 | 2019-08-30 |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-02-10 | 2023-02-18 |
@@ -1062,7 +1063,7 @@
 | [Palomino](https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:17 | 2022-11-11 | 2023-01-14 |
 | [Panic Attacks](https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Panic Attacks](https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic) | 3:46 | 2022-07-29 | 2022-08-12 |
 | [Paper Cup \- Edit](https://open.spotify.com/track/5cRNCNodxRiQlLXL5UcKq1) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Paper Cup](https://open.spotify.com/album/552VOjS8GTfey0c1Dy0GIR) | 3:47 | 2020-01-24 | 2020-06-12 |
-| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-05-05 |  |
+| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-05-05 | 2023-06-13 |
 | [Paper Mache World](https://open.spotify.com/track/7ai2SCMNgZQOSdxh5Oq9Ke) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You To Know](https://open.spotify.com/album/5zFw70dBof3n5bva2TcWQH) | 2:59 | 2020-12-04 | 2021-10-05 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-15 | 2021-04-15 |
 | [Paper Vows](https://open.spotify.com/track/7204dHwAw9v32ys7VCyWP5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Paper Vows](https://open.spotify.com/album/1ZcOfxocy488paPa5HcE7h) | 3:42 | 2022-01-07 | 2022-04-09 |
@@ -1349,7 +1350,7 @@
 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 | 2023-05-19 |  |
 | [Teeth](https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj) | 3:09 | 2022-03-10 | 2022-07-11 |
 | [Telepatía \- Spotify Singles](https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 2:53 | 2021-10-12 | 2021-10-16 |
-| [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-19 |  |
+| [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-19 | 2023-06-13 |
 | [Tell Me Why](https://open.spotify.com/track/1ixKcVNlk70V6wnZQ0i1OP) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Tell Me Why](https://open.spotify.com/album/2io4TvmIG7m9FklDo6WTMN) | 3:28 | 2022-05-19 | 2022-07-29 |
 | [Temple](https://open.spotify.com/track/1Go4afSwKNJCZta8ieXEkt) | [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [Temple](https://open.spotify.com/album/27AOjrLiIb2utxVmPJK1nU) | 4:10 | 2020-03-21 | 2020-09-25 |
 | [Tenderness](https://open.spotify.com/track/0l4cR2AZ18MktMd0BU3zwh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/7zNsEEBdQImuX9pFfDMblw) | 4:01 | 2019-08-23 | 2019-12-07 |

@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-216 songs - 12 hr 46 min
+217 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-03-23 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2022-03-23 | 2023-02-24 |
 | [All Alone](https://open.spotify.com/track/4fTjzZ3IkS5tYw1VlgJs4Q) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All Alone](https://open.spotify.com/album/2gtSZRxZMNsxXhBphBdhPO) | 2:52 | 2022-03-23 | 2022-07-29 |
-| [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 | 2023-03-31 |  |
+| [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 | 2023-03-31 | 2023-06-13 |
 | [All I Need](https://open.spotify.com/track/2mPOJSHkjAbUxnOcbLI6oK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 3:44 | 2022-03-23 | 2022-07-27 |
 | [All The Time](https://open.spotify.com/track/521A5RngWc34nHMDR7oFGq) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/7h8RxiFul6fOlooCGfLFwv) | 2:56 | 2022-03-23 | 2022-07-29 |
 | [Already Gone](https://open.spotify.com/track/1Smn50EpTK7SQgQrb8msPt) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Already Gone](https://open.spotify.com/album/1Xo0VJzbpi2lbGywKOPfDs) | 2:53 | 2022-03-23 | 2022-04-20 |
@@ -48,7 +48,7 @@
 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 | 2022-03-23 | 2022-04-21 |
 | [Don't Let Me Get Me](https://open.spotify.com/track/2ZYVlxenokw8vF5Mnf4B7K) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Don't Let Me Get Me](https://open.spotify.com/album/2SMwfICFrkBcqcwZZTwUsi) | 3:20 | 2022-03-23 | 2022-04-19 |
 | [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/1Z5onEoRrlZuj53i7F6klF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Don't Matter Now \(Acoustic Version\)](https://open.spotify.com/album/4R4UPnVma96OwnKBqGDwXu) | 2:47 | 2022-03-23 | 2022-07-22 |
-| [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 | 2023-05-05 |  |
+| [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 | 2023-05-05 | 2023-06-13 |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2022-03-23 | 2022-07-29 |
 | [Dyan](https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Dyan](https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv) | 2:38 | 2022-03-23 |  |
 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 | 2022-03-23 |  |
@@ -132,6 +132,7 @@
 | [My My My \- Acoustic](https://open.spotify.com/track/3pJ1oeWyPOhX1RPnN2Ugus) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My My My \(Acoustic\)](https://open.spotify.com/album/15WcyRhRhcWqSLLDQ3JcSB) | 2:45 | 2022-03-23 | 2022-05-23 |
 | [My Soul I](https://open.spotify.com/track/5hXKcrDdpi0rpgWW9jnoRv) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [My Soul I](https://open.spotify.com/album/2ZOW7IdQffohK7sRi1loLJ) | 4:14 | 2022-03-23 | 2022-04-20 |
 | [My Soul I](https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 4:15 | 2022-03-23 |  |
+| [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-12 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 | 2022-03-23 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2022-03-23 | 2022-04-21 |
 | [Neighbors](https://open.spotify.com/track/2MLOncjh8xeA06oP7ELsRi) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Neighbors](https://open.spotify.com/album/6eoHFcflaBFzkbtL75MMhM) | 3:25 | 2022-03-23 | 2022-04-21 |
@@ -143,7 +144,7 @@
 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 | 2022-03-23 |  |
 | [No Place In Mind](https://open.spotify.com/track/6BYb8RVAVC8bAOx6H74CtK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 4:44 | 2022-03-23 | 2022-07-29 |
 | [Nobody Opened The Door](https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes \(PT\. 1\)](https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP) | 4:42 | 2022-03-23 | 2022-07-20 |
-| [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2022-03-23 | 2023-06-10 |
+| [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2022-03-23 |  |
 | [O Me O My](https://open.spotify.com/track/1rTdlRuVou2Bb1SRPzIShJ) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [O Me O My](https://open.spotify.com/album/6CWVXl49SWXE5e2YKMgcy7) | 2:52 | 2022-03-23 | 2022-04-15 |
 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2022-03-23 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 | 2022-03-23 |  |

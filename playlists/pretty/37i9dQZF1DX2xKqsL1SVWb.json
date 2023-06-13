@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. El David en portada.",
-  "num_followers": 96482,
+  "num_followers": 96500,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
+  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
   "tracks": [
     {
       "added_at": "2023-05-23 00:04:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Amapolas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Terraformar",
         "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 140929,
       "name": "Terraformar",
       "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Amapolas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -331,38 +331,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "TE EXTRA\u00d1O Y LO SIENTO...",
-        "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 229060,
-      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
-      "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -415,6 +383,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+        "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 229060,
+      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+      "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/0HYUyOcBGQhtdhC1woSkCt"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 153746,
       "name": "Algo Mejor",
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 207457,
-      "name": "De Verdad",
-      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -539,6 +523,22 @@
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 207457,
+      "name": "De Verdad",
+      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Af\u00e9rrate a la Vida",
         "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "contigo va a estar bien",
         "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
       },
@@ -719,38 +719,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "No Soy Yo",
-        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "No Soy Yo",
-      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -767,6 +735,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Me Cuesta",
         "url": "https://open.spotify.com/album/0lt18zAo6dCHIhpCJtkbtD"
       },
@@ -923,6 +907,26 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Sobre el Mar",
+        "url": "https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 227070,
+      "name": "Sobre el Mar",
+      "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -935,6 +939,22 @@
       "duration_ms": 160001,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -955,26 +975,6 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Sobre el Mar",
-        "url": "https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Sobre el Mar",
-      "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Corrido Ser\u00e1",
-        "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Bandera",
-          "url": "https://open.spotify.com/artist/7oLM8EDFTJsCWDWJE7jlrm"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Corrido Ser\u00e1",
-      "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Hoy Es Hoy",
         "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211456,
       "name": "Antes de Partir - Cap.1",
       "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Corrido Ser\u00e1",
+        "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bandera",
+          "url": "https://open.spotify.com/artist/7oLM8EDFTJsCWDWJE7jlrm"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Corrido Ser\u00e1",
+      "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
     },
     {
       "added_at": "2023-05-23 00:04:32",

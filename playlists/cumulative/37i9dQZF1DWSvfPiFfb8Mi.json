@@ -2193,6 +2193,32 @@
     },
     {
       "album": {
+        "name": "Monkey / Up + Down",
+        "url": "https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "LAWSON",
+          "url": "https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164948,
+      "name": "Monkey",
+      "url": "https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/33wjBCraAX8QGqV40iVWvI"
       },
@@ -3340,7 +3366,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 258663,
       "name": "Tokyo Flower",
       "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"

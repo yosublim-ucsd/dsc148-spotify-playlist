@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Los Aptos x Cuco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,498 likes - 105 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,538 likes - 105 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 104 | [Laurence](https://open.spotify.com/track/4ittp8FlfefXuOMx8sWofb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Laurence](https://open.spotify.com/album/5xHe1D6FTdMmgnmxCO4UbS) | 2:23 |
 | 105 | [Embracing Livia](https://open.spotify.com/track/087Xm1eUU72tbjkb6LtbLv) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Clarissa Rustico](https://open.spotify.com/artist/0nfo2MYWzWr6CmhiSqV1EK) | [We Love Gilberto](https://open.spotify.com/album/2WNoQngQlSzR16UEMxSP9Q) | 2:50 |
 
-Snapshot ID: `MCxlMjVkYjI3MjljZTgxMTYyYzFiZDEwMDkzZWYyOGZjZTBkMmM3Y2E1`
+Snapshot ID: `MCw1MzZmZDQ5ZjQwNjZjZmFlZmIyMzIyNTE2ZWZiMTFiZTkxNzM0YmQ5`

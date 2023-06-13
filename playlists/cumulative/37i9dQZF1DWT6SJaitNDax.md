@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: Asake &
 
-365 songs - 19 hr 55 min
+366 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bounce](https://open.spotify.com/track/3pwgx6CSGvffcY3w2WYLjm) | [HOD](https://open.spotify.com/artist/0SnEjhcJE3z3Xtbcq4EOgP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Bounce](https://open.spotify.com/album/6QzioXN0GaTLErxIYnxfnf) | 3:06 | 2022-03-25 | 2022-04-21 |
 | [Bounce](https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2) | 3:07 | 2022-07-25 |  |
 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 | 2021-09-10 | 2022-07-28 |
+| [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-06-05 |  |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-06-17 |  |
 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 | 2021-09-10 | 2022-08-06 |
 | [Can't Let You Go \- Remix](https://open.spotify.com/track/1jpWdlkRzrWWSg3tESHf34) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Can't Let You Go \(Remix\)](https://open.spotify.com/album/5uB7MTykLx39PBynOcJIKC) | 3:14 | 2021-09-10 | 2022-07-26 |
@@ -282,7 +283,7 @@
 | [Repeat \(feat\. Koffee\)](https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 2:33 | 2022-07-25 |  |
 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 | 2021-09-10 | 2022-07-29 |
 | [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 | 2021-09-10 | 2023-01-27 |
-| [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-05-06 |  |
+| [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-05-06 | 2023-06-13 |
 | [Roll It](https://open.spotify.com/track/0L8HgGwvChw7Ftmn9AXhWd) | [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Roll It](https://open.spotify.com/album/5jtqQMGNyrbDCcH2HgmpH8) | 3:22 | 2021-09-10 | 2022-06-02 |
 | [Rollin'](https://open.spotify.com/track/6CqXPacVmbCC4JeKBX3Yzb) | [Trifecta](https://open.spotify.com/artist/4eU1y1C4Jxr7eFA56Aivwf), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Rollin'](https://open.spotify.com/album/6Qz5tfMQildFmdwjBT9YEA) | 3:23 | 2022-03-25 | 2022-04-20 |
 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-03-25 |  |

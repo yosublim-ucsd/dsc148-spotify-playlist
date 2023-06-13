@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Saiko, Quevedo, Feid & Mora
 
-640 songs - 1 day 10 hr 29 min
+641 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Patio de la Cárcel \- Tangos](https://open.spotify.com/track/6dCJdn6puMU4OFbIqTzLDy) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Patio de la Cárcel \(Tangos\)](https://open.spotify.com/album/3a7J9AYQxcUpC5RaFJw59c) | 3:22 | 2022-12-18 | 2023-03-04 |
 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 | 2022-07-01 | 2022-07-30 |
 | [Peli\-Culeo \- Remix](https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Peli\-Culeo \(Remix\)](https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME) | 3:41 | 2023-03-25 | 2023-05-20 |
-| [PELIGROSA](https://open.spotify.com/track/5kcjAzyK4Iax6LXBKaio8M) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [PELIGROSA](https://open.spotify.com/album/1RFerxY91OYscmhptGI6DS) | 3:11 | 2023-06-02 |  |
+| [PELIGROSA](https://open.spotify.com/track/5kcjAzyK4Iax6LXBKaio8M) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [PELIGROSA](https://open.spotify.com/album/1RFerxY91OYscmhptGI6DS) | 3:11 | 2023-06-02 | 2023-06-13 |
 | [Peligrosa](https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Peligrosa](https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU) | 2:11 | 2023-04-09 |  |
 | [Peligrosa](https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Peligrosa](https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f) | 2:24 | 2022-12-02 | 2023-02-18 |
 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 | 2023-04-21 |  |
@@ -473,6 +473,7 @@
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2022-11-11 | 2023-02-11 |
 | [Puntos Débiles](https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Puntos Débiles](https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ) | 3:36 | 2022-11-11 | 2023-02-11 |
 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 | 2022-07-22 | 2022-10-08 |
+| [QLQ](https://open.spotify.com/track/4AIohYuFOuGlck4a4WPwer) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [QLQ](https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2) | 2:29 | 2023-06-12 |  |
 | [QSDM \(Que Sabe De Mi\)](https://open.spotify.com/track/1RhqD2ub2ITrvb0zvhwPDz) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [QSDM \(Que Sabe De Mi\)](https://open.spotify.com/album/78WAv6Zix8et0vKdyKiGSL) | 2:51 | 2023-03-31 | 2023-04-22 |
 | [Que casualidad](https://open.spotify.com/track/2GWajVt726TYAys6k4KZAU) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Que casualidad](https://open.spotify.com/album/0fPJBmML3bER3OWEQMNymg) | 3:06 | 2023-01-20 | 2023-03-18 |
 | [Que Duro](https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:24 | 2022-11-11 | 2023-02-11 |

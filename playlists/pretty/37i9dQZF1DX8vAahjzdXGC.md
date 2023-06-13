@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,041 likes - 112 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,074 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 55 | [Berdamai Dengannya](https://open.spotify.com/track/4bDQSPOi9ynto7RUhSweV9) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90), [Febry Lillah](https://open.spotify.com/artist/5GgosSyBOLoltW3Ye0gIO6) | [Berdamai Dengannya](https://open.spotify.com/album/1vhCKC5BuY51zfpBwuI1yq) | 3:30 |
 | 56 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 |
 | 57 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
-| 58 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 58 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 59 | [Luka Lukaku](https://open.spotify.com/track/4nDVkb0Pwx1GzgiXwy5KLL) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Luka Lukaku](https://open.spotify.com/album/1reEZQL2omhqbV6ADLguQw) | 3:17 |
 | 60 | [Haha Dulu Huhu Kemudian](https://open.spotify.com/track/46Daw5irDSTqPO8WfunL3X) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 0:53 |
 | 61 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [Omen](https://open.spotify.com/track/1WeErPhDZRDRc8z8cAVew5) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Omen](https://open.spotify.com/album/7JsP0V6yoKluv7xmA4S8Gi) | 3:26 |
 | 112 | [Everybody Knows](https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Everybody Knows](https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf) | 2:49 |
 
-Snapshot ID: `MCw5OWU3YmQyZGRjODBkOTljMjY0YTI2MDBkM2IxMDA5OGY4NmRkZDQ2`
+Snapshot ID: `MCxlZjFmNjdhOGFhZTI0MmVhZjE0NmZkNWFiYzRkMGM1ZWEyNjhjYTcw`

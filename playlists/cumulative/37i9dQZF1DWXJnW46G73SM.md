@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مسار إجباري ودياب
 
-461 songs - 1 day 2 hr 35 min
+462 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 | 2021-12-23 | 2022-01-27 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2021-12-23 | 2022-02-04 |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2022-05-11 | 2022-08-21 |
-| [Loon Bahet](https://open.spotify.com/track/2UfG1hvNf8xxe6mFpH2mnE) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Loon Bahet](https://open.spotify.com/album/392dQFqCmvxjxO9bP02YD9) | 4:02 | 2023-05-04 |  |
+| [Loon Bahet](https://open.spotify.com/track/2UfG1hvNf8xxe6mFpH2mnE) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Loon Bahet](https://open.spotify.com/album/392dQFqCmvxjxO9bP02YD9) | 4:02 | 2023-05-04 | 2023-06-13 |
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-10 | 2023-05-19 |
 | [M3a Nafsi](https://open.spotify.com/track/4U5UIEpRVxQWEoq1KqOZ18) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [M3a Nafsi](https://open.spotify.com/album/0rvj679AbMEqIjU1fwq4G2) | 3:32 | 2022-02-25 | 2022-06-10 |
 | [Ma A7lak](https://open.spotify.com/track/2v3jkteY4K6X3zqvij2aI3) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j), [Dalia Farid](https://open.spotify.com/artist/2wXTaB5Y0W3bn7h2ATpc3p) | [Ma A7lak](https://open.spotify.com/album/2dsx8wJMoIeh8TNObnyYrC) | 3:44 | 2023-04-20 | 2023-05-26 |
@@ -305,6 +305,7 @@
 | [Shakshaka](https://open.spotify.com/track/5Eq09G3fJGaKeWDPq1CeH9) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Shakshaka](https://open.spotify.com/album/5hdm0gJYmtCnQYd0gzOu4G) | 2:33 | 2021-12-23 | 2022-03-10 |
 | [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 | 2023-02-23 | 2023-02-26 |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-03-31 | 2022-07-20 |
+| [Sugar Daddy](https://open.spotify.com/track/3ji7EbcEE3P4wwOnblhKd9) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Sugar Daddy](https://open.spotify.com/album/1eMEdhUWmYo4J5i6bC5oEk) | 2:20 | 2023-06-12 |  |
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2021-12-29 | 2022-03-12 |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-07 | 2022-09-02 |
 | [Taaraf](https://open.spotify.com/track/7BpjCnc8AWUZtU3daxbPhS) | [Lama Shreif](https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ), [Yehia Alaa](https://open.spotify.com/artist/3A7o3y5EcWChblXEPCBQmK) | [Taaraf](https://open.spotify.com/album/4w44lokjXCl7yTb1ClRxl3) | 2:58 | 2023-05-11 |  |

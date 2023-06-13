@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "BEN 10",
+        "url": "https://open.spotify.com/album/5gzPzPhL8QgtjTM1P5ZptL"
+      },
+      "artists": [
+        {
+          "name": "MoneyPrinter G",
+          "url": "https://open.spotify.com/artist/7IwhfPG4odhVlv8a7LtFBJ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "BEN 10",
+      "url": "https://open.spotify.com/track/2kdB6KuOVBe5NpqgIP0IEE"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3682,6 +3700,28 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/3HDsASmioHLDOexVlsP0xA"
+      },
+      "artists": [
+        {
+          "name": "Cele Cortez",
+          "url": "https://open.spotify.com/artist/7shzBWOcCafe8QdRnab2s2"
+        },
+        {
+          "name": "J-Fizz",
+          "url": "https://open.spotify.com/artist/6StJSssH1aFpS8CQBh7zUq"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201514,
+      "name": "Come Over (feat. J-Fizz)",
+      "url": "https://open.spotify.com/track/3MFqzC7BgAd3EIR6aXjz89"
     },
     {
       "album": {
@@ -6414,7 +6454,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 141360,
       "name": "Everything Hit",
       "url": "https://open.spotify.com/track/3unMLNT5wyJaQL8v8jktQb"
@@ -11608,7 +11648,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 166635,
       "name": "Jump",
       "url": "https://open.spotify.com/track/287wLomHWpbllx9eIcVIWz"
@@ -13338,6 +13378,24 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
+        "name": "Linkin",
+        "url": "https://open.spotify.com/album/3UfyqlrgrCAd7pDqc109KM"
+      },
+      "artists": [
+        {
+          "name": "Jake Shaw",
+          "url": "https://open.spotify.com/artist/5zQpdhahVpa6PM8J3hA7ps"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104724,
+      "name": "Linkin",
+      "url": "https://open.spotify.com/track/1j1G78h1PCj14DvXUxVxZG"
     },
     {
       "album": {
@@ -15631,6 +15689,28 @@
     },
     {
       "album": {
+        "name": "Need Some More",
+        "url": "https://open.spotify.com/album/41dacYLl1UEc7PAuFEWp4t"
+      },
+      "artists": [
+        {
+          "name": "I10slim",
+          "url": "https://open.spotify.com/artist/5f6ofOaOH8HSxadtDvfrTb"
+        },
+        {
+          "name": "Yung Redd",
+          "url": "https://open.spotify.com/artist/0jslZSHX4gukh5miuzDJPj"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144020,
+      "name": "Need Some More",
+      "url": "https://open.spotify.com/track/0PGvTwEbSmza3sXs9QOltQ"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -17636,7 +17716,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -25840,7 +25920,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-13",
       "duration_ms": 200454,
       "name": "\u00c9g er",
       "url": "https://open.spotify.com/track/2V3gHXcnmbHJcRHR2H6GRT"

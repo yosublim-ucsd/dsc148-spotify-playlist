@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. OMINI in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,139 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 55 | [La Nebbia](https://open.spotify.com/track/4LMP98OkdEMSaKnBqeNFps) | [No Good](https://open.spotify.com/artist/3vxvA2XRiEQ3pSYO274jRB) | [La Nebbia](https://open.spotify.com/album/1hs9EjBUQEiSvuVK33goLl) | 3:28 |
 | 56 | [Che benessere !? \(con NASKA\)](https://open.spotify.com/track/29wow7ReefY8giiopcBNGc) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Che benessere !? \(con NASKA\)](https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx) | 3:51 |
 
-Snapshot ID: `MCxkMWE5ZDI5Y2FjMDFhMzg1NzRkMWY2MmVjNzU1ZTU1YzNmODJlYjAx`
+Snapshot ID: `MCw5YWY3OGVlYTRlZDkwZWQ2ZDkzMWVlYjg1MDAyOGQ1Yjg5MmFlMzE4`

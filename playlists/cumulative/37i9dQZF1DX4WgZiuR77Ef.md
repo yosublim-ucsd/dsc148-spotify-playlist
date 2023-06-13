@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-201 songs - 14 hr 4 min
+202 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-03-11 | 2023-05-12 |
 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 | 2020-10-30 |  |
 | [Satisfaction](https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Satisfaction](https://open.spotify.com/album/5pZAsx99H0eSljRriWU5QS) | 5:14 | 2020-10-30 |  |
-| [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 | 2022-07-15 |  |
+| [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 | 2022-07-15 | 2023-06-13 |
+| [Scream!](https://open.spotify.com/track/35PUAa9vqiMdVhhzakNdaZ) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:34 | 2022-07-15 |  |
 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 | 2020-10-30 | 2022-04-09 |
 | [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 | 2020-10-30 |  |
 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 | 2021-05-21 |  |

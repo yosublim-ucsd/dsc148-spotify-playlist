@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,426 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,467 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 37 | [Recess \(with Kill The Noise, Fatman Scoop, and Michael Angelakos\)](https://open.spotify.com/track/1RJZLVGpBG9nNZiHRQSWTp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:57 |
 | 38 | [Aferrado](https://open.spotify.com/track/4ZemwkxPJB7CSWLe4WuuU0) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nico Parga](https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Aferrado](https://open.spotify.com/album/3IcHEAMGDDh4lSvd32z8rH) | 6:52 |
 | 39 | [Seguiré Vivo](https://open.spotify.com/track/2Pcl0rkwrHDR72EEDNAvif) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Seguiré Vivo](https://open.spotify.com/album/5MZKFK86eeePrGps5ljMPp) | 3:59 |
-| 40 | [Multiples Efectos](https://open.spotify.com/track/62RKkuMYjFQSPlXstcCn9s) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/2Lg7enLjJNY4yJSBv9wWbU) | 3:30 |
+| 40 | [Multiples Efectos](https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD) | 3:30 |
 | 41 | [305](https://open.spotify.com/track/4L5ExFknSOS7ZN3RFUUy2p) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Happy Face](https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [305](https://open.spotify.com/album/2XE2njGTtT5lOXuwMhmRgT) | 4:03 |
 | 42 | [Qué Chimba](https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Qué Chimba](https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6) | 2:49 |
 | 43 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCxhYTc1ZGIzMmQ4N2I0M2VkYWUyMDNhYmJlMDc4ODU3NmUwODJmYzFi`
+Snapshot ID: `MCxmNzI1N2M3Nzk4NjU2OGY3ZGU3MmIzZWQ3YzdkYTk5MGJjNTY2ZjUy`

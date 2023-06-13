@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212225,
+  "num_followers": 212245,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI1NzEzODdiOTZkNjk3MmRjNmRiMGRmMTBlNWRkYTNkNDViZjMz",
+  "snapshot_id": "MCw1Y2VmMDRhODVlNWM2NzRlOTZiMDIzMzFlOGFkY2FiM2Y1MDk2MjNh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Mundo Guanaco",
         "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 259733,
       "name": "Los Rockeros Van al Infierno",
       "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "El Mar De Las Almas",
-        "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Acido",
-      "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -235,18 +219,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+        "name": "El Mar De Las Almas",
+        "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
         }
       ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
+      "duration_ms": 223440,
+      "name": "Acido",
+      "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -315,6 +299,22 @@
       "duration_ms": 267746,
       "name": "R\u00edo Extra\u00f1o",
       "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2023-04-28 03:00:00",

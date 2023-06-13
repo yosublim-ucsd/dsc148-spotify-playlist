@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 30382,
+  "num_followers": 30519,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
+  "snapshot_id": "MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Blues for Allah (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 274942,
-      "name": "Franklin's Tower - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Garcia",
         "url": "https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U"
       },
@@ -183,6 +167,38 @@
       "duration_ms": 301400,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Blues for Allah (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 274942,
+      "name": "Franklin's Tower - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Hoist",
+        "url": "https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Sample in a Jar",
+      "url": "https://open.spotify.com/track/6MCUdqOifrEomDtrgZlJ8O"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -219,18 +235,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Hoist",
-        "url": "https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf"
+        "name": "TD Garden, Boston, MA 11/17/17 (Live)",
+        "url": "https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Dead & Company",
+          "url": "https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Sample in a Jar",
-      "url": "https://open.spotify.com/track/6MCUdqOifrEomDtrgZlJ8O"
+      "duration_ms": 838157,
+      "name": "Sugaree - Live at TD Garden, Boston, MA 11/17/17",
+      "url": "https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "TD Garden, Boston, MA 11/17/17 (Live)",
-        "url": "https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ"
-      },
-      "artists": [
-        {
-          "name": "Dead & Company",
-          "url": "https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn"
-        }
-      ],
-      "duration_ms": 838157,
-      "name": "Sugaree - Live at TD Garden, Boston, MA 11/17/17",
-      "url": "https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00",
         "url": "https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
-      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Sweet Oblivious Antidote",
         "url": "https://open.spotify.com/album/5iXbVRBasAzAaEUxR8dAef"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Shack-man",
         "url": "https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 379426,
       "name": "West L.A. Fade Away",
       "url": "https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 430626,
-      "name": "Tennessee Jed - 2001 Remaster",
-      "url": "https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -527,22 +511,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "A Picture of Nectar",
-        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 431333,
-      "name": "Stash",
-      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Ace",
         "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 740520,
       "name": "Gilbert's Groove (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 430626,
+      "name": "Tennessee Jed - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "A Picture of Nectar",
+        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 431333,
+      "name": "Stash",
+      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
     },
     {
       "added_at": "2023-04-06 15:04:32",

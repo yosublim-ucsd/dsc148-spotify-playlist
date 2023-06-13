@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: shazza",
-  "num_followers": 11893,
+  "num_followers": 11907,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2E4NjlmYTVjMGNkODhkZjc4NTU1YTM1NjIyZWJhOWJmNTFiZTY5",
+  "snapshot_id": "MCw3OThjNDAyYmRjMTllZjU2ZmJmYzhjOTg2ZDVlMmNhNDY4NmU4NWZh",
   "tracks": [
     {
       "added_at": "2023-06-08 17:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-08 17:00:00",
       "album": {
-        "name": "Levronka",
-        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Better On My Own",
-      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
-    },
-    {
-      "added_at": "2023-06-08 17:00:00",
-      "album": {
         "name": "Tega",
         "url": "https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
+    },
+    {
+      "added_at": "2023-06-08 17:00:00",
+      "album": {
+        "name": "Levronka",
+        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
     },
     {
       "added_at": "2023-06-08 17:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-06-08 17:00:00",
       "album": {
+        "name": "Jalan Pulang",
+        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 216835,
+      "name": "Jalan Pulang",
+      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
+    },
+    {
+      "added_at": "2023-06-08 17:00:00",
+      "album": {
         "name": "Langit Yang Sama",
         "url": "https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ"
       },
@@ -503,6 +519,22 @@
       "duration_ms": 245454,
       "name": "Langit Yang Sama",
       "url": "https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6"
+    },
+    {
+      "added_at": "2023-06-08 17:00:00",
+      "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
     },
     {
       "added_at": "2023-06-08 17:00:00",
@@ -523,18 +555,22 @@
     {
       "added_at": "2023-06-08 17:00:00",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+        "name": "Mengejar Matahari",
+        "url": "https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
+      "duration_ms": 247721,
+      "name": "Mengejar Matahari",
+      "url": "https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v"
     },
     {
       "added_at": "2023-06-08 17:00:00",
@@ -567,42 +603,6 @@
       "duration_ms": 248471,
       "name": "Untukmu Aku Bertahan",
       "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
-    },
-    {
-      "added_at": "2023-06-08 17:00:00",
-      "album": {
-        "name": "Jalan Pulang",
-        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 216835,
-      "name": "Jalan Pulang",
-      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
-    },
-    {
-      "added_at": "2023-06-08 17:00:00",
-      "album": {
-        "name": "Mengejar Matahari",
-        "url": "https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 247721,
-      "name": "Mengejar Matahari",
-      "url": "https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v"
     },
     {
       "added_at": "2023-06-08 17:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-08 17:00:00",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2023-06-08 17:00:00",
-      "album": {
         "name": "Ada Apa Dengan Cinta (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179693,
       "name": "Kubahagia",
       "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
+    },
+    {
+      "added_at": "2023-06-08 17:00:00",
+      "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2023-06-08 17:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-08 17:00:00",
       "album": {
-        "name": "Bulan Yang Baik",
-        "url": "https://open.spotify.com/album/7E0mCwP1eQ0zIfmz7MWlWj"
+        "name": "BEAUTiFUL",
+        "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
       "artists": [
         {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
         }
       ],
-      "duration_ms": 265756,
-      "name": "Bulan Yang Baik",
-      "url": "https://open.spotify.com/track/5IgZ9Y4B9Dsi3VtIJSB75e"
+      "duration_ms": 212224,
+      "name": "BEAUTiFUL",
+      "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
     }
   ],
   "unique_name": "OTW ",
