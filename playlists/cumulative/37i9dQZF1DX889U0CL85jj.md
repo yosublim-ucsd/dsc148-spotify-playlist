@@ -4,7 +4,7 @@
 
 > Just chill.
 
-521 songs - 1 day 6 hr 0 min
+523 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2022-11-25 |  |
 | [I'll Wait for You](https://open.spotify.com/track/7aubsiy3BNL0umbXaHtPro) | [Tsuwavii](https://open.spotify.com/artist/0D9qyJ0MxZf1QhrtbK0By7), [Abi Bernadoth](https://open.spotify.com/artist/0kqNd43r9g26Rn23EsSxCW), [rayo](https://open.spotify.com/artist/0tf8gcppeW1Essa4WXbMsX) | [I'll Wait for You](https://open.spotify.com/album/1NBQeDOqJ1TushojX4Jw4A) | 3:00 | 2023-06-02 |  |
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2020-12-11 | 2022-01-22 |
-| [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 |  |
+| [Idaho Alien](https://open.spotify.com/track/5tXmLuTtEotbR4uImDHhho) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:23 | 2023-04-28 |  |
+| [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 | 2023-06-14 |
 | [idc](https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/21BTuOsSFi3Rrhl13jHuxA) | 2:23 | 2021-10-15 | 2022-11-19 |
 | [idc](https://open.spotify.com/track/1wjoepBCP3UGg8iOVic3nn) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/5blZ7qGfVOC8yglUn3A9Lg) | 2:23 | 2022-08-19 | 2023-04-22 |
 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 | 2019-10-25 | 2023-05-23 |
@@ -350,7 +351,8 @@
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-25 |  |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 |  |
 | [PPL](https://open.spotify.com/track/0u9Y12SZAZkasLZikMyzpQ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 3:14 | 2023-04-28 |  |
-| [Prizefighter](https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Prizefighter](https://open.spotify.com/album/4apxsM5k0P357bjJptoiNx) | 2:41 | 2023-04-07 |  |
+| [Prizefighter](https://open.spotify.com/track/3bXZ7OC22m5hqYNv6gR8cd) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:41 | 2023-04-28 |  |
+| [Prizefighter](https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Prizefighter](https://open.spotify.com/album/4apxsM5k0P357bjJptoiNx) | 2:41 | 2023-04-07 | 2023-06-14 |
 | [Promise](https://open.spotify.com/track/42sMyIVgpVv9zFFQ2rdZ0P) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Promise](https://open.spotify.com/album/1vt3ZOyY1VodhBDoPZSlIi) | 3:23 | 2022-07-15 | 2023-04-22 |
 | [Queen of Paisley](https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [Queen of Paisley](https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF) | 4:04 | 2021-08-27 | 2023-04-01 |
 | [Quick Stop By](https://open.spotify.com/track/40pECTjUhc3WgzF5Lj7SXg) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Choking For A Year](https://open.spotify.com/album/24iwH7UIVd1TncjuFLSegC) | 3:15 | 2022-11-11 | 2022-12-24 |

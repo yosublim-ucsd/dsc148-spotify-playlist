@@ -4,7 +4,7 @@
 
 > Aperitivo, lounge, chill: musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-254 songs - 16 hr 24 min
+255 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |
 | [I Love Video](https://open.spotify.com/track/7yKGeGDjtxmfp4jlMvPUyE) | [New Paradise](https://open.spotify.com/artist/7ybbaTETR9aq05M6ud64ru) | [I Love Video](https://open.spotify.com/album/4vFB185QRgDTR4R6vY6Xms) | 4:01 | 2023-05-14 | 2023-05-30 |
 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 | 2021-08-05 | 2023-03-07 |
+| [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/4td48QeJ7pss1XiMEOPLHn) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 | 2023-06-09 |  |
 | [If I Were Your Woman \- Lovemental Mix](https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS) | [Neapolitan Soul](https://open.spotify.com/artist/5oWP10ZSEw5Hf14xpTg0ct), [Luciano Gioia](https://open.spotify.com/artist/0dUg6YiF9oFg1XQsUsUis4) | [If I Were Your Woman](https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu) | 7:52 | 2021-08-05 | 2022-07-29 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-05-14 | 2023-05-30 |
 | [Il fait chaud](https://open.spotify.com/track/1Rbs9bGBcx5AkcGYNqXhoO) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 2:45 | 2023-05-14 | 2023-05-30 |
@@ -139,7 +140,7 @@
 | [Malentendido](https://open.spotify.com/track/56OUtDzPjwuGGytCtM2nX7) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:10 | 2023-05-14 | 2023-05-30 |
 | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/track/09jTPmbrPueZItnMez0zTx) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr), [Parula](https://open.spotify.com/artist/1sFfjHfX74mGrZpgt7ErQL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/album/0XvmvBlX3WkQGeXZmYBUiL) | 2:51 | 2021-08-05 | 2022-07-29 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-05-30 |  |
-| [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-30 |  |
+| [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-30 | 2023-06-14 |
 | [Midnight](https://open.spotify.com/track/4cUJTkMh4JVO5hpZqW6Ywx) | [Koero](https://open.spotify.com/artist/6VZEf3IWsYZBUsDJOkU7Qe) | [Midnight](https://open.spotify.com/album/11AjG2WoyYYrH76ZQoRgkx) | 4:08 | 2021-08-05 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 | 2021-08-05 | 2023-01-08 |
 | [Milo's Breeze](https://open.spotify.com/track/2Iad2uYF42TsNJyPHRDAOJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milo's Journey](https://open.spotify.com/album/2HCniE0c6Gggdy1eW4DNdw) | 4:22 | 2021-08-05 | 2022-06-23 |

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-153 songs - 10 hr 3 min
+154 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [لو ناوي تهجرني](https://open.spotify.com/track/3HvMVyE8AZ8EuPwS1GWikp) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لو ناوي تهجرني](https://open.spotify.com/album/2j1oWFqzP1F8AQw5IGTVPH) | 3:07 | 2022-03-30 | 2022-11-03 |
 | [لو ناوي تهجرني](https://open.spotify.com/track/3mmmTQYSWVkPKW6vDOnczU) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لو ناوي تهجرني](https://open.spotify.com/album/6Gg45Odg9uvMO0ZK9VBaAY) | 3:07 | 2022-08-31 | 2023-02-23 |
 | [لو نرجع بالايام](https://open.spotify.com/track/4QhkbArD7J0OZETlZV5um5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [لو نرجع بالايام](https://open.spotify.com/album/20yDKbGep9zeF1A80vu9Dj) | 3:45 | 2022-03-30 | 2022-06-14 |
+| [ماذوقه](https://open.spotify.com/track/2K9C0NLFxP5OTIb2BzSld1) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماذوقه](https://open.spotify.com/album/56Lytoq3jlvwoIbCcLDR3P) | 3:26 | 2023-06-13 |  |
 | [مامنك اثنين](https://open.spotify.com/track/35EGTBHsIEIfGhxLyAriZy) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [مامنك اثنين](https://open.spotify.com/album/0IhhAgrgoiOeSHDJwokJzZ) | 3:43 | 2022-08-31 |  |
 | [مامنك اثنين](https://open.spotify.com/track/0upDZETLFHS16pqa9KMZ6d) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6), [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [مامنك اثنين](https://open.spotify.com/album/4c55MWVBBlqljEwmvJyNNh) | 3:43 | 2022-07-19 | 2022-11-02 |
 | [ماني مصدقها](https://open.spotify.com/track/0fIKhy4BBJJ5flq3GwySkD) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماني مصدقها](https://open.spotify.com/album/5dP4DRjie6bVwsxXyqeQw5) | 4:35 | 2023-02-22 |  |

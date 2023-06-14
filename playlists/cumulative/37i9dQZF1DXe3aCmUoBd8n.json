@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aal Morra",
+        "url": "https://open.spotify.com/album/2hfjuBJXE3NJgiHBKdXYiz"
+      },
+      "artists": [
+        {
+          "name": "Fares Karam",
+          "url": "https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185870,
+      "name": "Aal Morra",
+      "url": "https://open.spotify.com/track/6DbC4WjeVh5SHo2l86eyis"
+    },
+    {
+      "album": {
         "name": "Aal Sarii",
         "url": "https://open.spotify.com/album/60TwM5Q2pT4ZQTn4SXrM1a"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 232857,
       "name": "Ana Wein",
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
@@ -391,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Baadni Bhebak",
+        "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178562,
+      "name": "Baadni Bhebak",
+      "url": "https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK"
+    },
+    {
+      "album": {
         "name": "Bahebek Lelsama",
         "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
       },
@@ -464,6 +500,24 @@
       "duration_ms": 185196,
       "name": "Bala Ma Nhess - Always April Remix",
       "url": "https://open.spotify.com/track/6keIGjWMM4J9sO6uZjF6GN"
+    },
+    {
+      "album": {
+        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
+        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188207,
+      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
     },
     {
       "album": {
@@ -568,7 +622,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 205960,
       "name": "Bhebik Men Albi",
       "url": "https://open.spotify.com/track/6yFd2IpEob9kFyv8kVLdDx"
@@ -698,6 +752,24 @@
       "duration_ms": 193859,
       "name": "Eftahli Albak",
       "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
+    },
+    {
+      "album": {
+        "name": "Ehtirami",
+        "url": "https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW"
+      },
+      "artists": [
+        {
+          "name": "Hussein Al Deek",
+          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "Ehtirami",
+      "url": "https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8"
     },
     {
       "album": {
@@ -1716,7 +1788,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 213693,
       "name": "Trend Al Awal",
       "url": "https://open.spotify.com/track/7r2xInKFlLc3gLfY66CZGL"
@@ -1770,7 +1842,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 258880,
       "name": "Waldane",
       "url": "https://open.spotify.com/track/0s6FNOFMwaEL1tQSOwSMUz"

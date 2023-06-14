@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,155 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,158 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Máscara de miel](https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Máscara de miel](https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA) | 3:02 |
 | 30 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 |
 | 31 | [Tengo Ganas](https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 4:00 |
-| 32 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
-| 33 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
+| 32 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
+| 33 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 34 | [Papaia](https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Papaia](https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny) | 2:40 |
 | 35 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 |
 | 36 | [Plaza de Mayo](https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd) | [Plaza de Mayo](https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ) | 3:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
 | 41 | [Indefinido](https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO) | [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Transparente](https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc) | 2:23 |
 | 42 | [Camino](https://open.spotify.com/track/7yGV8rGE3cme3t6RVnrEIj) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Camino](https://open.spotify.com/album/3ZiNjuZj0pj5EEUpr5jCDL) | 2:14 |
-| 43 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
-| 44 | [A Cara de Perr4](https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB) | [Rebelión en la Zanja](https://open.spotify.com/artist/2jzPsfoptoYtn0QO20peft), [DJ DEMON10](https://open.spotify.com/artist/4900tzL324zNZXrc9Nl2EH) | [A cara de Perr4](https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch) | 2:08 |
+| 43 | [A Cara de Perr4](https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB) | [Rebelión en la Zanja](https://open.spotify.com/artist/2jzPsfoptoYtn0QO20peft), [DJ DEMON10](https://open.spotify.com/artist/4900tzL324zNZXrc9Nl2EH) | [A cara de Perr4](https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch) | 2:08 |
+| 44 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
 | 45 | [Ego](https://open.spotify.com/track/5Iku361RKkGY4j2Bs0fpcg) | [Nube de magallanes](https://open.spotify.com/artist/5ZvzaUuX9L4BzMUvmMhFul) | [Ego](https://open.spotify.com/album/0RdnnfVy7EYNJpJw4iknOY) | 3:01 |
 | 46 | [Tuluz](https://open.spotify.com/track/7DMZkhNsMnkLzgo0dZ6xE9) | [Natasha Doe](https://open.spotify.com/artist/5bsh3uuCDjvGE44fabHaZC) | [Tuluz](https://open.spotify.com/album/29oDtLN4ah2hzy32FVVXP7) | 3:09 |
 | 47 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 | 50 | [Manantyal](https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx) | [La Fresca](https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E) | [Manantyal](https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK) | 3:15 |
 
-Snapshot ID: `MCxkNWNjMmEyMjA0OGZmMjFlODkzZmQ0NDVlYjE3Nzk2OTFmNzViNWIz`
+Snapshot ID: `MCw5Y2VjMzQ3ZjIyOTUwYjNjMzFiZWNkYWE2Mzc5NzQ4Njc2YjQ1YmI2`

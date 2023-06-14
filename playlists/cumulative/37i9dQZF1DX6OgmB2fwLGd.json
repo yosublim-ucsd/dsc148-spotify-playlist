@@ -13393,6 +13393,28 @@
     },
     {
       "album": {
+        "name": "XTAYALIVE",
+        "url": "https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126897,
+      "name": "XTAYALIVE",
+      "url": "https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O"
+    },
+    {
+      "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
       },

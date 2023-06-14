@@ -439,6 +439,32 @@
     },
     {
       "album": {
+        "name": "Bonk'abantu",
+        "url": "https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        },
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        },
+        {
+          "name": "Mussie Fisseha",
+          "url": "https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Bonk'abantu",
+      "url": "https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/31D9UKo3DlYyfkwLF8g5js"
       },

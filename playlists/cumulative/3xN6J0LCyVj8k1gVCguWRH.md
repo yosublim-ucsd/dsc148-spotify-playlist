@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,297 songs - 5 day 11 hr 43 min
+2,299 songs - 5 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1118,6 +1118,7 @@
 | [Lady Lady Lady \- Acoustic](https://open.spotify.com/track/630MyFOvn0Ik3LpyLZyyTE) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Lady Lady Lady \(Acoustic\)](https://open.spotify.com/album/2smTy9OWQjLXJsZt3MjY5K) | 5:04 | 2022-03-11 | 2022-03-31 |
 | [Lady Luck](https://open.spotify.com/track/3fVcdqx80sdILBkrgHTjmV) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Lady Luck](https://open.spotify.com/album/3FuNUW8290xWKBrmnXEwyq) | 4:41 | 2021-02-06 | 2021-02-20 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
+| [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-26 |  |
 | [Last Request \- Acoustic](https://open.spotify.com/track/7MziBtXRy18Gd60mMUzABw) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Last Request \(Acoustic\)](https://open.spotify.com/album/1tHLCygd0QCUflohX2bsGE) | 3:10 | 2021-06-11 | 2021-06-27 |
 | [Last Time](https://open.spotify.com/track/1CdLBMtqP3zlGkDu7hmVKs) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q), [Emersxn](https://open.spotify.com/artist/7ltyovKOFS2tIunfnJCNr9), [Kiture](https://open.spotify.com/artist/3BOIvtsfXWcmOATwIO3OIS) | [Last Time](https://open.spotify.com/album/58vygHnpC3jBxuLHRX3phx) | 3:16 | 2021-01-29 | 2021-02-13 |
@@ -1284,6 +1285,7 @@
 | [Mean't For Something More](https://open.spotify.com/track/5mq6GzYKpbZ1z16EQXmYGC) | [Hannah Whitmore Foxx](https://open.spotify.com/artist/3zC0qowBvz5QXwnrbndaEQ) | [Mean't For Something More](https://open.spotify.com/album/4ZMfDFMyi9WAfXQu7z5vhL) | 3:53 | 2023-01-21 | 2023-02-24 |
 | [Meaningless](https://open.spotify.com/track/4XdDQHEbOJxHAejxcakgnb) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T) | [Meaningless](https://open.spotify.com/album/3dmzCusx3P5VNSSkurop94) | 2:58 | 2020-11-06 | 2020-12-19 |
 | [Meant](https://open.spotify.com/track/0MRsTLHZv9zDEbYhAnWuvq) | [Aaries](https://open.spotify.com/artist/2hfPo38uVGaKcxfOpqJwf8) | [Meant](https://open.spotify.com/album/4Ve0b9jAMM3Rj5SJAlw9NF) | 4:38 | 2023-03-22 | 2023-04-13 |
+| [Meant To Be](https://open.spotify.com/track/3DnMvc5dGvO6Pph4ArKLII) | [zaj](https://open.spotify.com/artist/1kHxRr01RsYGArfE6nH88h) | [Meant To Be](https://open.spotify.com/album/1VwwC8EF8R3KOcRBqXjjc7) | 3:13 | 2023-06-13 |  |
 | [Mecca \(with JID & EARTHGANG\)](https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:50 | 2021-07-12 | 2021-11-19 |
 | [MEDICINE](https://open.spotify.com/track/0eTqMjkxXspn1gyoLVOGSi) | [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [MEDICINE](https://open.spotify.com/album/2kEDPvGnlddZvs8dSoMSN0) | 2:05 | 2023-06-02 |  |
 | [Medusa](https://open.spotify.com/track/40334O22mvniSDekH599Sr) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Medusa](https://open.spotify.com/album/4CeQ61y2vtka97tJAlJs0g) | 3:00 | 2022-05-13 | 2022-06-03 |

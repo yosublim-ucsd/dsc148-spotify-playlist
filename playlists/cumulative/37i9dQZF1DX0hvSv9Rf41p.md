@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-501 songs - 1 day 5 hr 1 min
+502 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 | 2023-04-14 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 | 2022-09-03 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-12-17 | 2022-05-07 |
-| [Demon Time](https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Demie The Destroyer](https://open.spotify.com/artist/4jzlfzZoyLAxn8kfQit9Ee) | [Demon Time](https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx) | 3:13 | 2023-05-19 |  |
+| [Demon Time](https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Demie The Destroyer](https://open.spotify.com/artist/4jzlfzZoyLAxn8kfQit9Ee) | [Demon Time](https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx) | 3:13 | 2023-05-19 | 2023-06-14 |
 | [Desecrate](https://open.spotify.com/track/570FKlNY5Rw3oBYObR90je) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Desecrate EP](https://open.spotify.com/album/3SGeq0w2IngcxPkj7adHVD) | 2:30 | 2021-12-17 | 2022-02-10 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-12-03 |
@@ -199,6 +199,7 @@
 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 | 2022-05-20 |  |
 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-01-13 |  |
 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 | 2022-07-08 | 2023-04-01 |
+| [Hammer Time](https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Hammer Time](https://open.spotify.com/album/5KtTHlM5BH0d0eMANZS39s) | 3:13 | 2023-06-09 |  |
 | [Hannya](https://open.spotify.com/track/6B3ofLCXEF92rcrOcSYaaN) | [Cyberself](https://open.spotify.com/artist/3zQcsM5htv6b5bvEJUkmvv) | [Hannya](https://open.spotify.com/album/1YlcBbT6v0aPSihJGPq2K7) | 4:05 | 2022-12-16 | 2023-02-11 |
 | [Happy Where We Are](https://open.spotify.com/track/1pq2CUdMBkl5MX7aDm5Twj) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Happy Where We Are](https://open.spotify.com/album/5o2HQx2gn126dQ0RCYQUsF) | 5:20 | 2021-12-17 | 2022-02-19 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-01-13 |  |

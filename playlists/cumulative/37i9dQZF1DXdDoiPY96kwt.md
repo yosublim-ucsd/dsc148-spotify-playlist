@@ -4,7 +4,7 @@
 
 > Revenge is best served raw...Watch Ali Wong and Steven Yeun in Beef, now streaming on Netflix.
 
-25 songs - 1 hr 30 min
+28 songs - 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 | 2023-04-06 |  |
 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 | 2023-04-06 |  |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2023-04-13 |  |
+| [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 | 2023-06-13 |  |
 | [Figures of Light](https://open.spotify.com/track/3d6TRxA3f7sOZ4oRjW8Nmh) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 3:24 | 2023-04-13 |  |
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2023-04-06 |  |
 | [Hibachi Suicide](https://open.spotify.com/track/6xGcJ2HaHeFJY3YvohOVCc) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 1:14 | 2023-04-13 |  |
@@ -32,6 +33,8 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-04-06 |  |
 | [Stealing for Church](https://open.spotify.com/track/4Ixsn3jrJedgDkEltFPUQx) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 2:00 | 2023-04-13 |  |
 | [The Beef](https://open.spotify.com/track/4crNEFCXTTeNawMD0s9sqa) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 2:28 | 2023-04-13 |  |
+| [The Birds Don't Sing, They Screech in Pain](https://open.spotify.com/track/2VeV0h40xsSK74CL0e9yE4) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:13 | 2023-06-13 |  |
+| [The Drama of Original Choice](https://open.spotify.com/track/6zTNkNW9DzQy5D5kivid1D) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:54 | 2023-06-13 |  |
 | [The Reason](https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Best Of](https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU) | 3:52 | 2023-04-06 |  |
 
 \*This playlist was first scraped on 2023-04-09. Prior content cannot be recovered.

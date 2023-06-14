@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+    },
+    {
+      "album": {
         "name": "BEEF (Original Score)",
         "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
       },
@@ -434,6 +452,42 @@
       "duration_ms": 148445,
       "name": "The Beef",
       "url": "https://open.spotify.com/track/4crNEFCXTTeNawMD0s9sqa"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13027,
+      "name": "The Birds Don't Sing, They Screech in Pain",
+      "url": "https://open.spotify.com/track/2VeV0h40xsSK74CL0e9yE4"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54299,
+      "name": "The Drama of Original Choice",
+      "url": "https://open.spotify.com/track/6zTNkNW9DzQy5D5kivid1D"
     },
     {
       "album": {

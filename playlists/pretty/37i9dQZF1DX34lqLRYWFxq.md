@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: The Glorious Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,135 likes - 107 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,139 likes - 107 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 106 | [Qaigi](https://open.spotify.com/track/7nEu161pDcPeVCtl7K4Tab) | [Terry Uyarak](https://open.spotify.com/artist/3KEdNe4qRXyOjwxjnxkIkh), [Avery Keenainak](https://open.spotify.com/artist/4NTHtl1zps3k7OE6ufRzrx) | [Qaigi](https://open.spotify.com/album/1KQCDnSRfwIQ1jv5ZaBfmT) | 3:36 |
 | 107 | [Constant Weekend](https://open.spotify.com/track/5P1Kc5r3Hi56ZqjKxdPOiP) | [Chris Koster](https://open.spotify.com/artist/0jGicjq2ARnSTnXmldMqR2) | [Constant Weekend](https://open.spotify.com/album/4eiPOwiImeFrgviqGN8qMp) | 3:14 |
 
-Snapshot ID: `MCw3MmVmN2U5NWNlMWU4YWE4YWExN2Q5MzM3ZjBjODIzM2EwMmMxNTc1`
+Snapshot ID: `MCw1NjY4MjU3Zjg4NGQ0YTZhYjQ3YjY0YTc0OTIxNzFlN2ZhMzdhNTNk`

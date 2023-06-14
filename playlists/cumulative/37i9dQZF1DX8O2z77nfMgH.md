@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Rosalía
 
-4,647 songs - 10 day 11 hr 17 min
+4,648 songs - 10 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,8 @@
 | [Coração de Gelo](https://open.spotify.com/track/5tx0bbEsMwk7luBItngfrX) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Coração de Gelo](https://open.spotify.com/album/6QUWmfP8I7IF2PRhKvDuKS) | 2:34 | 2022-02-04 | 2022-02-12 |
 | [Corea](https://open.spotify.com/track/0X7dRd52FYkkxxFHejvo4H) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5Vs6wNU9FRqtCxiJ2wd3Ta) | 2:20 | 2022-11-04 | 2022-11-12 |
 | [Corea del Sur](https://open.spotify.com/track/26vGKQVUUup38vXuSpCKFX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Corea del Sur](https://open.spotify.com/album/6QJlitTlLwbIORTKUr17Kp) | 2:47 | 2022-01-21 | 2022-01-29 |
-| [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-09 |  |
+| [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-09 | 2023-06-14 |
+| [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 |  |
 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-03-24 | 2023-04-01 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-03-24 | 2023-04-01 |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2022-10-28 | 2022-11-05 |
@@ -1183,7 +1184,7 @@
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-03-25 | 2022-04-02 |
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2022-10-21 | 2022-10-29 |
 | [DRAKARYS](https://open.spotify.com/track/3kRqd5ikgb7sL1ZjvJtaIi) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [DRAKARYS](https://open.spotify.com/album/6YAelLXIJe47NJv4uhqAGz) | 3:48 | 2022-11-04 | 2022-11-12 |
-| [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Renan Mesquita Silva Kyan](https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8), [Gregory](https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 | 2023-06-09 |  |
+| [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 | 2023-06-09 |  |
 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 | 2022-12-23 | 2023-01-06 |
 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 | 2023-04-09 |
 | [Drill Argentino](https://open.spotify.com/track/424OLLBTgsAAVFdMxVI08A) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Drill Argentino](https://open.spotify.com/album/2rAHAmE7ayYV3fJzpyZE6w) | 2:33 | 2022-12-23 | 2023-01-06 |

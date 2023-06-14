@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago",
-  "num_followers": 1526085,
+  "num_followers": 1526070,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjM2YzJlNGZlMTE4MjY3ZmJkYzg4MDRiOTUyNDNmZGU5NWMyZDhk",
+  "snapshot_id": "MCw4ODBiZWU4Mzk3OGM2M2Q0NmZiMWNmNjU2Yjc5MjE2YjNmYzY4NzE3",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Miko",
         "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
       },
@@ -1415,26 +1435,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "en guerra",
-        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "en guerra",
-      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Tu Favorito",
         "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -1499,6 +1483,42 @@
       "duration_ms": 177600,
       "name": "Billetes de 100",
       "url": "https://open.spotify.com/track/1yBg48PZwiER3mXSRJFEhe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Demonios",
+        "url": "https://open.spotify.com/album/58HrGj3dXT14WOWWBAtcnm"
+      },
+      "artists": [
+        {
+          "name": "Wolf MIA",
+          "url": "https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb"
+        },
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Demonios",
+      "url": "https://open.spotify.com/track/5iIYO6gCVZOAdne3pYbooN"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1527,26 +1547,6 @@
       "duration_ms": 301744,
       "name": "X Ley (feat. Dei V) - Remix",
       "url": "https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Demonios",
-        "url": "https://open.spotify.com/album/58HrGj3dXT14WOWWBAtcnm"
-      },
-      "artists": [
-        {
-          "name": "Wolf MIA",
-          "url": "https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb"
-        },
-        {
-          "name": "D2OS",
-          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Demonios",
-      "url": "https://open.spotify.com/track/5iIYO6gCVZOAdne3pYbooN"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "No Hitter",
+        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 164062,
+      "name": "No Hitter",
+      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Calent\u00f3n",
         "url": "https://open.spotify.com/album/6M6USkTvFofNR1Opfp7ukq"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "No Hitter",
-        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "No Hitter",
-      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Pa To' Los Combos",
         "url": "https://open.spotify.com/album/7yinu5ZWVI3S3qYBETiHbb"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Un Cuarto",
         "url": "https://open.spotify.com/album/1FFuDe1T15U91jWt1jsWSO"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 188800,
       "name": "Un Cuarto",
       "url": "https://open.spotify.com/track/3TRD0e7pUswSES6Ptua3WS"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"
     },
     {
       "added_at": "2023-06-09 04:00:00",

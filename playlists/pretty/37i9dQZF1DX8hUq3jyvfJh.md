@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,247 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,369 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [EXquecEU \- Ao Vivo](https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo\)](https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX) | 3:05 |
 | 26 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
 | 27 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
-| 28 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
-| 29 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 |
+| 28 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 |
+| 29 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 30 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
 | 31 | [Namoro De Merd4 \- Ao Vivo](https://open.spotify.com/track/7AziDpL8ZyoLZbYbQ4xHNo) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:41 |
 | 32 | [Se Tu Gostava de Mim](https://open.spotify.com/track/5lG2ItSw3J8CfL7fqyrO9W) | [Barbara D'Lux](https://open.spotify.com/artist/3Akce1qlZLbGxzqAHgQLrk), [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Se Tu Gostava de Mim](https://open.spotify.com/album/7i9K8MPPdmKTC52LeYdshA) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 | 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCw4Njk1ZGI2ZDVmNzgwZDRlMzRiYmMwM2M2ZTQzNWMyZTJlNmZhZDgw`
+Snapshot ID: `MCwwMjBiMGU4YjM1ZDIwMTY4ZDY2NmFjYzg3OWYwOTdiZmQ4OTYzZjYx`

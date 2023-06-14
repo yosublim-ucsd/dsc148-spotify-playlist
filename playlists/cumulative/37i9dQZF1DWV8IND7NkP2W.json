@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "A moving scenery",
+        "url": "https://open.spotify.com/album/0otxDrqWUcgfEOCz5UInSJ"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343133,
+      "name": "A moving scenery",
+      "url": "https://open.spotify.com/track/6oi7kSSHFeZakUH8kn117V"
+    },
+    {
+      "album": {
         "name": "A Tribute to First Love",
         "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 171785,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 113846,
       "name": "Game Master",
       "url": "https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0"
@@ -3972,6 +3990,24 @@
       "duration_ms": 153600,
       "name": "harukaze",
       "url": "https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK"
+    },
+    {
+      "album": {
+        "name": "\u5f69\u96f2",
+        "url": "https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5"
+      },
+      "artists": [
+        {
+          "name": "Sorto & Nodo",
+          "url": "https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364693,
+      "name": "Harukaze",
+      "url": "https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez"
     },
     {
       "album": {
@@ -9867,6 +9903,24 @@
     },
     {
       "album": {
+        "name": "SUNSHOWER",
+        "url": "https://open.spotify.com/album/0aaYXHwj0CoNUuRgJ223Zn"
+      },
+      "artists": [
+        {
+          "name": "Leo Iwamura",
+          "url": "https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "SUNSHOWER",
+      "url": "https://open.spotify.com/track/2Hzc0G0PGKvBeNkA0TBlDb"
+    },
+    {
+      "album": {
         "name": "SWEET SMOKE",
         "url": "https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97"
       },
@@ -11106,7 +11160,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 181490,
       "name": "Whispers in the Night",
       "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,262 likes - 24 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,273 likes - 24 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 3:08 |
 | 2 | [Asli Action Chaalu \(Theme Song\) \[From "An Action Hero"\]](https://open.spotify.com/track/7wTaexlHXGPcx3ORPLzRvv) | [Parag Chhabra](https://open.spotify.com/artist/6Yf6U4iCrJta8g2dX1Al2v), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [Asli Action Chaalu \(Theme Song\) \[From "An Action Hero"\]](https://open.spotify.com/album/6prkYvbRtR03unSG5w15EP) | 3:05 |
-| 3 | [Real Talk](https://open.spotify.com/track/1IuZ1WioES1D3ep0j3ahhr) | [GD47](https://open.spotify.com/artist/6GoLWfS71I2gXBtCiKCceD) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl) | 2:55 |
+| 3 | [Real Talk](https://open.spotify.com/track/1IuZ1WioES1D3ep0j3ahhr) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl) | 2:55 |
 | 4 | [Right Here Right Now](https://open.spotify.com/track/4pVnxSz312uhq2hM3b8CAO) | [Abhishek Bachchan](https://open.spotify.com/artist/7e6AfoPhtlBJGQ9iNMAckD), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Bluff Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ) | 3:02 |
 | 5 | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF) | 2:27 |
 | 6 | [High Heels Te Nachche](https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY) | [Ki & Ka](https://open.spotify.com/album/3sKetZJ9cmRj54AIWXOWSv) | 3:32 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 23 | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/track/7Ck2si1vtgdPXdKGtWGGXr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl) | 2:59 |
 | 24 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 |
 
-Snapshot ID: `MCw3Njk2OTdkYmQ1MzM5ZTZiYWViNjlmMzU0OTNjMDVmN2Q0MDU2OWRm`
+Snapshot ID: `MCxlNWZkMzM0OGQ2ZjkxYmZmZTYyNmI2ZjBmYzZkMzBjZTNhMDhiZTE5`

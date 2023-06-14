@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NAM23; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Linh Ka; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -1829,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "Bi\u1ebft Nh\u01b0ng C\u1ed1 V\u1ea5n",
+        "url": "https://open.spotify.com/album/2rRHQmu7MBZ69h6985xN8J"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        },
+        {
+          "name": "HUUBUI",
+          "url": "https://open.spotify.com/artist/1VA4Q9uW2yxcWzV9dx5D2o"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Bi\u1ebft Nh\u01b0ng C\u1ed1 V\u1ea5n",
+      "url": "https://open.spotify.com/track/2T0yWjduUHKmBpYanW9ByV"
+    },
+    {
+      "album": {
         "name": "Bi\u1ebft Th\u1ebf Th\u00ec",
         "url": "https://open.spotify.com/album/7mwoCRf0kaDuePIvCG4UOs"
       },
@@ -2946,7 +2968,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 245778,
       "name": "Chuy\u1ec7n Ch\u00fang Ta Sau N\u00e0y",
       "url": "https://open.spotify.com/track/0QIBqBajZLLcWfL6mpVsN3"
@@ -4976,7 +4998,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 202842,
       "name": "C\u1eadu B\u00e9 M\u1ed9ng M\u01a1",
       "url": "https://open.spotify.com/track/1wEwCi4H573BUthmo0LSSw"
@@ -6934,7 +6956,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 277894,
       "name": "Gi\u00f3 - Official",
       "url": "https://open.spotify.com/track/4YrI4tUJTzqi1hfvICCJPD"
@@ -7482,6 +7504,24 @@
       "duration_ms": 269316,
       "name": "Hoa Thi\u00ean \u0110i\u1ec3u",
       "url": "https://open.spotify.com/track/3enkSEBRtQyAsMWBRthyhh"
+    },
+    {
+      "album": {
+        "name": "HOA V\u00d4 LO\u00c0I",
+        "url": "https://open.spotify.com/album/4GyajfeKeq1PucsTS4yhcR"
+      },
+      "artists": [
+        {
+          "name": "MINIONN",
+          "url": "https://open.spotify.com/artist/4vIjgglquxgSD6SfrBl6NI"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "HOA V\u00d4 LO\u00c0I",
+      "url": "https://open.spotify.com/track/7lEJMPiaxNaxItLZQ58T9b"
     },
     {
       "album": {
@@ -8196,7 +8236,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 195169,
       "name": "IF U KNOW U KNOW",
       "url": "https://open.spotify.com/track/54XTf6nKvuxoL1xp6xxywl"
@@ -11615,6 +11655,24 @@
     },
     {
       "album": {
+        "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+        "url": "https://open.spotify.com/album/7wOolBP1mfgb26u9YqC5Y9"
+      },
+      "artists": [
+        {
+          "name": "Em Ellata",
+          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+      "url": "https://open.spotify.com/track/1vshOAKaZpnnrJF9QvcKd1"
+    },
+    {
+      "album": {
         "name": "Ng\u00e2y Ng\u00f4 T\u00ecnh Y\u00eau \u0110\u1ea7u \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2aoS50dVrBzYcfnSrYkG1L"
       },
@@ -13766,6 +13824,28 @@
       "duration_ms": 190434,
       "name": "Promises",
       "url": "https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e1 Th\u00edch Anh R\u1ed3i",
+        "url": "https://open.spotify.com/album/2xXTb3nWpSDoOLpgDD2lUq"
+      },
+      "artists": [
+        {
+          "name": "Naly",
+          "url": "https://open.spotify.com/artist/3TlLMqnd5iIx8wVLJJVErP"
+        },
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217362,
+      "name": "Qu\u00e1 Th\u00edch Anh R\u1ed3i",
+      "url": "https://open.spotify.com/track/5Rz7qtwwck377ABbqmRWzN"
     },
     {
       "album": {
@@ -16991,6 +17071,28 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh c\u1edd y\u00eau em",
+        "url": "https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo"
+      },
+      "artists": [
+        {
+          "name": "Kuun \u0110\u1ee9c Nam",
+          "url": "https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh"
+        },
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258471,
+      "name": "T\u00ecnh c\u1edd y\u00eau em",
+      "url": "https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh iu m\u00e0u h\u01b0\u1eddng",
         "url": "https://open.spotify.com/album/1UVUEZLRaahTEipsgxxfKT"
       },
@@ -17438,7 +17540,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 196000,
       "name": "T\u1eeb Nay Kh\u00f4ng Phi\u1ec1n Anh N\u1eefa",
       "url": "https://open.spotify.com/track/37ZiMHAFkCe9UFHeGyzZbq"
@@ -17850,6 +17952,24 @@
       "duration_ms": 242002,
       "name": "Vi\u1ec7c G\u00ec Kh\u00f3 C\u00f3 Anh Lo",
       "url": "https://open.spotify.com/track/2DONHzBVPVxHnxc9OhbdqX"
+    },
+    {
+      "album": {
+        "name": "Voicemail 2: phone calls.",
+        "url": "https://open.spotify.com/album/0qucLTCfkUxDUpyYCgPrGT"
+      },
+      "artists": [
+        {
+          "name": "Han Kim",
+          "url": "https://open.spotify.com/artist/3XUFhqBCW0ak4jrLosr3Wk"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188708,
+      "name": "Voicemail 2: phone calls.",
+      "url": "https://open.spotify.com/track/10SYupbJ8acoR1EnCyRn5b"
     },
     {
       "album": {
@@ -19560,7 +19680,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 213018,
       "name": "\u0110inh \u0110\u1ebf",
       "url": "https://open.spotify.com/track/1XZ1tQkG5XguJSsoyoANFt"
@@ -19608,6 +19728,28 @@
       "duration_ms": 205286,
       "name": "\u0110i\u1ec1u Ch\u01b0a N\u00f3i",
       "url": "https://open.spotify.com/track/5pkhVHF0CJDORwSRVHLupv"
+    },
+    {
+      "album": {
+        "name": "\u0110i\u1ec1u Em Kh\u00f4ng Mu\u1ed1n Nghe",
+        "url": "https://open.spotify.com/album/7MzA26h6anYI8Mr8pc8vMV"
+      },
+      "artists": [
+        {
+          "name": "QNT",
+          "url": "https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ"
+        },
+        {
+          "name": "Dick",
+          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "\u0110i\u1ec1u Em Kh\u00f4ng Mu\u1ed1n Nghe",
+      "url": "https://open.spotify.com/track/7yvvZbAEKJl47we9pxOYPv"
     },
     {
       "album": {

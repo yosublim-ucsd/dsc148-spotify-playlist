@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "C'est Si Bon",
+        "url": "https://open.spotify.com/album/0AEFddRVF4a6FGqylkszVk"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "C'est Si Bon",
+      "url": "https://open.spotify.com/track/0jIZXQPRhbQ6FFSNcLKaaU"
+    },
+    {
+      "album": {
         "name": "Can't Hide It",
         "url": "https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6"
       },

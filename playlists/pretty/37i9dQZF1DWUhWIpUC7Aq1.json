@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 102834,
+  "num_followers": 102980,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
+  "snapshot_id": "MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
-      "added_at": "2023-06-13 01:12:29",
+      "added_at": "2023-06-14 00:59:05",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
         "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 209386,
       "name": "Every Single Night",
       "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
-      },
-      "artists": [
-        {
-          "name": "Punch-Drunk Love",
-          "url": "https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "If You're Feeling Sinister",
         "url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 205360,
       "name": "Get Me Away From Here, I'm Dying",
       "url": "https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
+      },
+      "artists": [
+        {
+          "name": "Punch-Drunk Love",
+          "url": "https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "I Was Never Young",
-      "url": "https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Just Another Diamond Day",
         "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 136306,
       "name": "Glow Worms",
       "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "I Was Never Young",
+      "url": "https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG"
     },
     {
       "added_at": "2023-03-14 21:50:42",

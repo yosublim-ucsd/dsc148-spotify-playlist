@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mike11.",
-  "num_followers": 34296,
+  "num_followers": 34378,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzFiOTg0N2Y2YmYzZjkyZWM2ODM1Yzk1YTBmMWRkYzQ1ODE4YzRh",
+  "snapshot_id": "MCxmMGMwYzgxNjk2MGE3MmY3YjA5NjNkOThkM2ViNTI1OTZjOTU3N2M2",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -413,7 +413,7 @@
       "artists": [
         {
           "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/0YfMzQvsaVC4QP557FFH5r"
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
       "duration_ms": 241565,
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Salto Alto",
-        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
+      },
+      "artists": [
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "Tu Reclamas",
         "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 230658,
       "name": "Tu Reclamas",
       "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
-      },
-      "artists": [
-        {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "FALA COMIGO",
-        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
+        "name": "CHRISTIAN DIOR",
+        "url": "https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
         },
         {
-          "name": "Codie",
-          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
         }
       ],
-      "duration_ms": 164848,
-      "name": "FALA COMIGO",
-      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
+      "duration_ms": 194782,
+      "name": "CHRISTIAN DIOR",
+      "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1071,34 +1071,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "EU SEI",
-        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
+        "name": "FALA COMIGO",
+        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
       },
       "artists": [
         {
           "name": "Wayn Dior",
           "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "EU SEI",
-      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
-      },
-      "artists": [
+        },
         {
-          "name": "J.Yen",
-          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
         }
       ],
-      "duration_ms": 208163,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
+      "duration_ms": 164848,
+      "name": "FALA COMIGO",
+      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1119,6 +1107,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
+      },
+      "artists": [
+        {
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "Compensa",
         "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
       },
@@ -1131,42 +1135,6 @@
       "duration_ms": 191250,
       "name": "Compensa",
       "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
-      },
-      "artists": [
-        {
-          "name": "Curl",
-          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
-        }
-      ],
-      "duration_ms": 216831,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "CHRISTIAN DIOR",
-        "url": "https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU"
-      },
-      "artists": [
-        {
-          "name": "Wayn Dior",
-          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        },
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "CHRISTIAN DIOR",
-      "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1195,18 +1163,34 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
+        "name": "EU SEI",
+        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
       },
       "artists": [
         {
-          "name": "Pipa",
-          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
         }
       ],
-      "duration_ms": 231428,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
+      "duration_ms": 223961,
+      "name": "EU SEI",
+      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
+      },
+      "artists": [
+        {
+          "name": "Curl",
+          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
+        }
+      ],
+      "duration_ms": 216831,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
+      },
+      "artists": [
+        {
+          "name": "Pipa",
+          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "T\u00e1 Doce",
         "url": "https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc"
       },
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "Faltou Mais Amor",
         "url": "https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY"
       },
@@ -1271,6 +1287,22 @@
       "duration_ms": 184505,
       "name": "Faltou Mais Amor",
       "url": "https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "ELEVEM",
+        "url": "https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Own This",
+      "url": "https://open.spotify.com/track/4s4ap06sE6JjOcXupz8qWg"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1311,38 +1343,6 @@
       "duration_ms": 184000,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
-      },
-      "artists": [
-        {
-          "name": "TT",
-          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "ELEVEM",
-        "url": "https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw"
-      },
-      "artists": [
-        {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "I Own This",
-      "url": "https://open.spotify.com/track/4s4ap06sE6JjOcXupz8qWg"
     },
     {
       "added_at": "2023-06-08 23:00:00",

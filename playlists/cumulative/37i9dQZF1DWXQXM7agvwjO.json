@@ -5073,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Have A Nice Dream",
+        "url": "https://open.spotify.com/album/1rMO9zw1kCbPn93sfKpsPL"
+      },
+      "artists": [
+        {
+          "name": "Wicked Lights",
+          "url": "https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Have A Nice Dream",
+      "url": "https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK"
+    },
+    {
+      "album": {
         "name": "Headrush",
         "url": "https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce"
       },
@@ -10202,7 +10220,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 223461,
       "name": "Rockstar - TELEx TELEXs Remix",
       "url": "https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J"

@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12447,
+  "num_followers": 12448,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZmMDJlZmFhZWQwYzMyM2U5N2M1OWM1MTg2YzNjMGZlNzM4ODdk",
+  "snapshot_id": "MCwzMTk5NDEzMDc3MmJlNDBjZTc0NDA2OGJjZTgwNmM3ZDM4MDMxM2Yx",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Everyday Life, Everyday People",
-        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 261006,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Everyday Life, Everyday People",
+        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Angels Above Me",
         "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 266746,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Heroin and Helicopters",
-        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Caribbean Skies",
-      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
     }
   ],
   "unique_name": "Peace Of Mind",

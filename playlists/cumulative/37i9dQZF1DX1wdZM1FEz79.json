@@ -3515,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "joe",
+        "url": "https://open.spotify.com/album/0zNgEt5hOx9QdyteuMjw7G"
+      },
+      "artists": [
+        {
+          "name": "kimujoo",
+          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191699,
+      "name": "joe",
+      "url": "https://open.spotify.com/track/5xK6rTa5KDTIbmWDnat1O9"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/35yc9Ib7M8Gy0KrFI67SdO"
       },
@@ -4404,7 +4422,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 233195,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS"
@@ -7586,7 +7604,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -7886,7 +7904,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
@@ -8024,6 +8042,24 @@
       "duration_ms": 259255,
       "name": "You're My Spring",
       "url": "https://open.spotify.com/track/2tbeDFuG6El0xAAXF82i7O"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/2sugn3G1j8pM001aTlCkXh"
+      },
+      "artists": [
+        {
+          "name": "Cho Hyung Woo",
+          "url": "https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161626,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/7ktr6eDv82BxdKjrN8a3YX"
     },
     {
       "album": {
@@ -8278,6 +8314,24 @@
       "duration_ms": 221492,
       "name": "\ub5a0\ub09c\ub2e4",
       "url": "https://open.spotify.com/track/6YepaCG8cUabGz3lyCgCxv"
+    },
+    {
+      "album": {
+        "name": "\ub9c8\uce20\ucf54",
+        "url": "https://open.spotify.com/album/2iSmqb7me7SvrzLTZSOWq2"
+      },
+      "artists": [
+        {
+          "name": "Kim Bom",
+          "url": "https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142171,
+      "name": "\ub9c8\uce20\ucf54",
+      "url": "https://open.spotify.com/track/53wNebjYiIX30rb8mmwIsP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"> Theresa Phondo </a>
 
-121 songs - 11 hr 2 min
+122 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Better Days](https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Better Days](https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9) | 3:03 | 2023-05-19 | 2023-06-02 |
 | [Better Days](https://open.spotify.com/track/2ZhoDVBLb60uEEIl11YStC) | [Xpected](https://open.spotify.com/artist/0XpBhywbPNnwXvmbTui6zI) | [Better Days](https://open.spotify.com/album/6odchTQEqdTWTHchUB4kkl) | 4:26 | 2023-05-26 | 2023-06-02 |
 | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 | 2023-06-09 |  |
+| [Bonk'abantu](https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Mussie Fisseha](https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw) | [Bonk'abantu](https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui) | 4:05 | 2023-06-13 |  |
 | [Burning](https://open.spotify.com/track/4ITUTzhfMIirHE7V5GRdim) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Burning](https://open.spotify.com/album/31D9UKo3DlYyfkwLF8g5js) | 2:33 | 2023-06-09 |  |
 | [Calling you](https://open.spotify.com/track/6B7GADwWCK1yPvZCz8fCAY) | [Peter Ifeanyi](https://open.spotify.com/artist/3CPXdR36B6K5gpdLCuil8g) | [Calling you](https://open.spotify.com/album/6TDAZ11fcm7CiIDnwfHRDZ) | 4:07 | 2023-06-09 |  |
 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 | 2023-06-09 |  |

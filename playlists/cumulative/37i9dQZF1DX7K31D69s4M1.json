@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Along Came You",
+        "url": "https://open.spotify.com/album/4W1QLtlQHhRDMlsIlANNf9"
+      },
+      "artists": [
+        {
+          "name": "Michael Lavigne",
+          "url": "https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "Along Came You",
+      "url": "https://open.spotify.com/track/6S89pQkAuxmU1MFUHIWuzE"
+    },
+    {
+      "album": {
         "name": "Along dammed rivers",
         "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
       },
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 146000,
       "name": "Das Versprechen",
       "url": "https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ"
@@ -5758,6 +5776,24 @@
     {
       "album": {
         "name": "Echoes",
+        "url": "https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM"
+    },
+    {
+      "album": {
+        "name": "Echoes",
         "url": "https://open.spotify.com/album/6davSrv4DvlDFXrZF0CtwD"
       },
       "artists": [
@@ -6733,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "Feeling for the next",
+        "url": "https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124723,
+      "name": "Feeling for the next",
+      "url": "https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw"
+    },
+    {
+      "album": {
         "name": "Feels like home",
         "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
       },
@@ -6978,7 +7032,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 162352,
       "name": "Finito",
       "url": "https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN"
@@ -7428,7 +7482,7 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 179250,
       "name": "Foreigners",
       "url": "https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr"
@@ -7698,7 +7752,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 127500,
       "name": "Fratelli",
       "url": "https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs"
@@ -9372,7 +9426,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 135000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp"
@@ -10708,7 +10762,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 135325,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/0diC07Eo4mC897aC81dXhL"
@@ -11054,6 +11108,24 @@
       "duration_ms": 164364,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z"
+    },
+    {
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5f0Nwusj5eiz92QhCatBtu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "June",
+      "url": "https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC"
     },
     {
       "album": {
@@ -13167,6 +13239,24 @@
     },
     {
       "album": {
+        "name": "Lover's knot",
+        "url": "https://open.spotify.com/album/5IjIkQPURNABBxB6gEoMlu"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121206,
+      "name": "Lover's knot",
+      "url": "https://open.spotify.com/track/0vBYnKBqsZzHJdUEGjH9Ot"
+    },
+    {
+      "album": {
         "name": "Keeping Score",
         "url": "https://open.spotify.com/album/4TMVA7oifhJUjeOKKJSKa4"
       },
@@ -13232,7 +13322,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 180201,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/1L2wX9MdaYsLbTH65YdFkV"
@@ -15220,7 +15310,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 191354,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT"
@@ -15530,6 +15620,24 @@
       "duration_ms": 149118,
       "name": "No More",
       "url": "https://open.spotify.com/track/45cLs8T0cgOn6ZEd4ionkG"
+    },
+    {
+      "album": {
+        "name": "No One Can Tell",
+        "url": "https://open.spotify.com/album/7mCXlOYcgDy2G7MUOthADC"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162534,
+      "name": "No One Can Tell",
+      "url": "https://open.spotify.com/track/2MJoNW4Ek6QnyPLWpuOT25"
     },
     {
       "album": {
@@ -16052,7 +16160,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 165903,
       "name": "Older",
       "url": "https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl"
@@ -17546,7 +17654,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 133000,
       "name": "Portraits Of Jane",
       "url": "https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX"
@@ -18500,7 +18608,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 156000,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/5muqwZES8Lyh1v9KrPB5QN"
@@ -19336,7 +19444,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 156500,
       "name": "Sanpo",
       "url": "https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW"
@@ -20114,7 +20222,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 170208,
       "name": "Shoreland",
       "url": "https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR"
@@ -20204,7 +20312,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 139750,
       "name": "Silent Rain",
       "url": "https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ"
@@ -20612,6 +20720,24 @@
     {
       "album": {
         "name": "Softly",
+        "url": "https://open.spotify.com/album/3Z3QDtX7ZxOqfatvwgN10s"
+      },
+      "artists": [
+        {
+          "name": "Cove Hollis",
+          "url": "https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130789,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/6vSt93jODVqGGrdKonFqYx"
+    },
+    {
+      "album": {
+        "name": "Softly",
         "url": "https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr"
       },
       "artists": [
@@ -20928,7 +21054,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 185400,
       "name": "Song For Emma",
       "url": "https://open.spotify.com/track/7n2BGk7qfHK5RhToFH65Dw"
@@ -23049,6 +23175,24 @@
     },
     {
       "album": {
+        "name": "The Stars And The Sea",
+        "url": "https://open.spotify.com/album/0cqCFH41n3f5RllKGazO8u"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144775,
+      "name": "The Stars And The Sea",
+      "url": "https://open.spotify.com/track/3qKxRzPbXwEG3AFnpOFCVq"
+    },
+    {
+      "album": {
         "name": "The Thing With Feathers",
         "url": "https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK"
       },
@@ -24666,7 +24810,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 142323,
       "name": "Vale of Tears",
       "url": "https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG"

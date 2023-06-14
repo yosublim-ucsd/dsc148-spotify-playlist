@@ -1,30 +1,30 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain](/playlists/plain/37i9dQZF1DWW4igXXl2Qkp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW4igXXl2Qkp)
 
-### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
+### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,063 likes - 76 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,157 likes - 76 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 | 2 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 |
-| 3 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
-| 4 | [Makin It Sound](https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Makin It Sound](https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj) | 2:17 |
+| 3 | [Makin It Sound](https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Makin It Sound](https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj) | 2:17 |
+| 4 | [Dynasty](https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1) | [Coach Tev](https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx) | [Dynasty](https://open.spotify.com/album/2hwRTHtYc3ZtGVl2yEUNQG) | 3:19 |
 | 5 | [Trimmer](https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE) | 2:30 |
 | 6 | [The Last Dance](https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [The Last Dance](https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr) | 3:09 |
-| 7 | [First Day In \(Cheatcode\)](https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [First Day In \(Cheatcode\)](https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l) | 2:07 |
-| 8 | [Dynasty](https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1) | [Coach Tev](https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx) | [Dynasty](https://open.spotify.com/album/2hwRTHtYc3ZtGVl2yEUNQG) | 3:19 |
+| 7 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
+| 8 | [First Day In \(Cheatcode\)](https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [First Day In \(Cheatcode\)](https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l) | 2:07 |
 | 9 | [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 |
-| 10 | [FOR MY PEOPLE](https://open.spotify.com/track/26kzaZRG99XSmjGxNQu4SC) | [CNN Mikey](https://open.spotify.com/artist/5T41qdCf8LNxshaBPYWwnF) | [FOR MY PEOPLE](https://open.spotify.com/album/5gmAqjpakk1u1oYPEDVI8Z) | 3:16 |
-| 11 | [Edna \(Capes\)](https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Edna \(Capes\)](https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP) | 3:12 |
-| 12 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
-| 13 | [Mr Brash](https://open.spotify.com/track/1jWjinqN5I8g9lv7ayD4dM) | [8SZN](https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD) | [Mr Brash](https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv) | 3:05 |
-| 14 | [Feel Myself](https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Feel Myself](https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f) | 2:04 |
-| 15 | [S3 X](https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:38 |
-| 16 | [Well Aware](https://open.spotify.com/track/05mULOCr08nOY9eqNaaAOH) | [JayRock Jax](https://open.spotify.com/artist/6k635rX8nRndwDBkU38gk1), [Tay Rose](https://open.spotify.com/artist/68xKQQU8pn172y1W2qElaW) | [Well Aware](https://open.spotify.com/album/4YYgsS6Ww5UYi5Fzu2EfFy) | 3:09 |
-| 17 | [U ME N' EARTH](https://open.spotify.com/track/04KtHGmuHHyP9UjB6qid1n) | [Ron Obasi](https://open.spotify.com/artist/29KfYICTuOD697jzZVqTEs) | [WHYSOSIRIUS](https://open.spotify.com/album/0fZAeI5kqwYpJei6BBcrhX) | 3:12 |
+| 10 | [U ME N' EARTH](https://open.spotify.com/track/04KtHGmuHHyP9UjB6qid1n) | [Ron Obasi](https://open.spotify.com/artist/29KfYICTuOD697jzZVqTEs) | [WHYSOSIRIUS](https://open.spotify.com/album/0fZAeI5kqwYpJei6BBcrhX) | 3:12 |
+| 11 | [FOR MY PEOPLE](https://open.spotify.com/track/26kzaZRG99XSmjGxNQu4SC) | [CNN Mikey](https://open.spotify.com/artist/5T41qdCf8LNxshaBPYWwnF) | [FOR MY PEOPLE](https://open.spotify.com/album/5gmAqjpakk1u1oYPEDVI8Z) | 3:16 |
+| 12 | [Edna \(Capes\)](https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Edna \(Capes\)](https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP) | 3:12 |
+| 13 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
+| 14 | [Mr Brash](https://open.spotify.com/track/1jWjinqN5I8g9lv7ayD4dM) | [8SZN](https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD) | [Mr Brash](https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv) | 3:05 |
+| 15 | [Feel Myself](https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Feel Myself](https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f) | 2:04 |
+| 16 | [S3 X](https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:38 |
+| 17 | [Well Aware](https://open.spotify.com/track/05mULOCr08nOY9eqNaaAOH) | [JayRock Jax](https://open.spotify.com/artist/6k635rX8nRndwDBkU38gk1), [Tay Rose](https://open.spotify.com/artist/68xKQQU8pn172y1W2qElaW) | [Well Aware](https://open.spotify.com/album/4YYgsS6Ww5UYi5Fzu2EfFy) | 3:09 |
 | 18 | [lost n' found](https://open.spotify.com/track/6thIPyL7yMjyQ9Qs0ollBt) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/1S8zojkGxW4G6xqRUAD5sW) | 1:44 |
 | 19 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 |
 | 20 | [Choosin Me](https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Choosin Me](https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb) | 2:15 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Trust Pt\. 2](https://open.spotify.com/track/3XnXKm3BJIJ4JMS1zGsiiP) | [Gic0e](https://open.spotify.com/artist/7CkRwvPIIL5cDRgpPPLkvF) | [Trust Pt\. 2](https://open.spotify.com/album/6p9CTSrA3Q0QRupycIYTqj) | 3:52 |
 | 76 | [No Discussion](https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [No Discussion](https://open.spotify.com/album/6x7ImIkrwJQlukgX4TwioK) | 2:49 |
 
-Snapshot ID: `MCwwN2U2N2UxMzk5NzA3MWY5NTFmOGRkYzcxNzkwOTk4OTA0ZGM2Zjk4`
+Snapshot ID: `MCw5MWY0OGRhZmMwNWE2YTQ0NDkwYmYyNGM0N2Y0ZDc4MmU4YzA5Njgx`

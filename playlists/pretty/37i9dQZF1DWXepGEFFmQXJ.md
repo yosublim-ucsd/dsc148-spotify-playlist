@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,851 likes - 77 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,978 likes - 77 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 77 | [Blue Eyes](https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21) | [Brook Chivell](https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ) | [Blue Eyes](https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL) | 4:06 |
 
-Snapshot ID: `MCxkZDc5NGY2ZWE0NTE2ZDc0OTcwY2Q5NTYxMjY1MWE0OWMxY2ExM2Rk`
+Snapshot ID: `MCxjNmQ3ZDlhYzQ0MGU4MjliNTZhNjkzYjhmMmI3ZDRjZTM0YjhiOTUy`

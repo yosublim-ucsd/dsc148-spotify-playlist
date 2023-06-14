@@ -3516,10 +3516,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 123428,
       "name": "PARADE",
       "url": "https://open.spotify.com/track/1uk8saGAlmhALejph5BAvR"
+    },
+    {
+      "album": {
+        "name": "BACKSTAB",
+        "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "PARADE",
+      "url": "https://open.spotify.com/track/476tBI8BW8t0y3vvAfjB6r"
     },
     {
       "album": {

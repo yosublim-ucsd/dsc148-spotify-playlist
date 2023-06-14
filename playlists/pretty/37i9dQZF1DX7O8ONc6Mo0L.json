@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Igor Roque",
-  "num_followers": 250734,
+  "num_followers": 250938,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTk1MjQ1MDc3NWRlZjk1NjU4NjIyMjhkMWJjN2VhMTJmZWI3OWFm",
+  "snapshot_id": "MCw2MGViNGMyMDFiYzJhNWQwZWM3OGI0OWQwNTc3YjcyN2U1NDEwODY0",
   "tracks": [
     {
       "added_at": "2023-05-26 18:24:56",
@@ -939,34 +939,6 @@
     {
       "added_at": "2023-05-26 18:24:56",
       "album": {
-        "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 299008,
-      "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
-      "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
-    },
-    {
-      "added_at": "2023-05-26 18:24:56",
-      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -999,6 +971,34 @@
       "duration_ms": 219625,
       "name": "Intimidade - Ao Vivo",
       "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
+    },
+    {
+      "added_at": "2023-05-26 18:24:56",
+      "album": {
+        "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 299008,
+      "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
+      "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
     },
     {
       "added_at": "2023-05-26 18:24:56",

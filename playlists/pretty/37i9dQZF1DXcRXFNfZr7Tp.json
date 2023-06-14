@@ -1,12 +1,12 @@
 {
   "description": "Current favorites and exciting new music. Cover: BTS",
-  "num_followers": 2796929,
+  "num_followers": 2797153,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDNiMGFhMTE4ZGQ4ZDUzZjdjNzRjMWM2YWNkMGY5OTMyYTdjYzQ3",
+  "snapshot_id": "MCxmOWZhOTlhNmFmZjczY2RmZGRmMmM4ODIxMDdhNmJlNjk5MmY3ZjZm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -999,7 +999,7 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK"
       },
       "artists": [
@@ -1016,20 +1016,20 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         },
         {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        },
-        {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
           "name": "Muni Long",
           "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "duration_ms": 175802,
-      "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e"
     },
     {

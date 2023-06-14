@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Malcolm VL",
-  "num_followers": 112601,
+  "num_followers": 112744,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTMwMjAzYzZhY2E5ZWU5Zjk3MDhiNjcyNmU3YzI1Mjg5YWQ1Njcz",
+  "snapshot_id": "MCwyNGUwMjcwNmE4NmYxYmMzZDJhZjU0ZGQ3NDcwMTZkNjRiNTM0OTE1",
   "tracks": [
     {
       "added_at": "2023-06-09 03:03:00",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-06-09 03:03:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Droga e Festa",
-      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
-    },
-    {
-      "added_at": "2023-06-09 03:03:00",
-      "album": {
         "name": "Turista",
         "url": "https://open.spotify.com/album/2vYVeLDr48qREuBxam5IYI"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 177322,
       "name": "Turista",
       "url": "https://open.spotify.com/track/78OWuPL27aLMkDKdFNNnuH"
+    },
+    {
+      "added_at": "2023-06-09 03:03:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Droga e Festa",
+      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
     },
     {
       "added_at": "2023-06-09 03:03:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-06-09 03:03:00",
       "album": {
-        "name": "Bicho Solto",
-        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Bicho Solto",
-      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
-    },
-    {
-      "added_at": "2023-06-09 03:03:00",
-      "album": {
         "name": "Pixad\u00e3o",
         "url": "https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 310344,
       "name": "Pixad\u00e3o",
       "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
+    },
+    {
+      "added_at": "2023-06-09 03:03:00",
+      "album": {
+        "name": "Bicho Solto",
+        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Bicho Solto",
+      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
     },
     {
       "added_at": "2023-06-09 03:03:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-686 songs - 1 day 10 hr 32 min
+687 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Mercedes\-Benz](https://open.spotify.com/track/6KXCI6kj8Pj5zaJWcpXzKd) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Mercedes\-Benz](https://open.spotify.com/album/0xiWift9upRyhr0Yu8YZtO) | 2:37 | 2021-05-29 | 2021-08-21 |
 | [Merhamet Yok](https://open.spotify.com/track/4uygtPMHsP9DBlJUb7um4s) | [Orkundk](https://open.spotify.com/artist/6D4pFxSoZkmJJnFUtSkWum), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Merhamet Yok](https://open.spotify.com/album/72iWjIqFHLOdSwWOucXKWk) | 3:14 | 2021-04-05 | 2021-04-11 |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z) | 2:39 | 2023-03-10 | 2023-03-23 |
-| [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 | 2023-03-22 |  |
+| [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 | 2023-03-22 | 2023-06-14 |
 | [Mesafe](https://open.spotify.com/track/68DrWFjKkrn2W3mkIRP3bc) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Mesafe](https://open.spotify.com/album/1bp7hCG7HxaJ0kUjD3eykN) | 5:01 | 2021-03-27\* | 2021-05-23 |
 | [METEOR](https://open.spotify.com/track/4LsPjyty35CPGnvgy4aybJ) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [METEOR](https://open.spotify.com/album/7zzqGk0dc86AYRtcLE532V) | 2:10 | 2021-04-18 | 2021-04-19 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
@@ -551,7 +551,7 @@
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 |  |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Senden Yoksun](https://open.spotify.com/track/1wkZE2BMcfLOajVp5eifgN) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Senden Yoksun](https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST) | 3:20 | 2022-11-26 | 2022-11-29 |
-| [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* |  |
+| [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* | 2023-06-14 |
 | [Seni Kalbimden Kovdum](https://open.spotify.com/track/34pNakIoVQSuTccHUj1m1q) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 5:19 | 2022-03-14 | 2022-03-18 |
 | [Seni Kendime Sakladım](https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Seni Kendime Sakladım](https://open.spotify.com/album/2gvskYWFqq1fW8scp1kdsj) | 4:02 | 2021-10-31 | 2021-11-03 |
 | [Seni Kırmışlar](https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Sen Böyle Değildin](https://open.spotify.com/album/14KTTy0gQAGWcOLTGkw9hy) | 2:53 | 2022-06-05 | 2022-10-09 |
@@ -621,7 +621,7 @@
 | [Uzaklara Savrulalım](https://open.spotify.com/track/7LGuxwQ3PzCxtinavcMlew) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Uzaklara Savrulalım](https://open.spotify.com/album/2AtLcEL3VMjW75OSUMDUGK) | 3:33 | 2021-03-27\* | 2021-03-27 |
 | [Uzunlar \- V1](https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Uzunlar](https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo) | 4:42 | 2021-03-27\* | 2022-08-07 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-11 | 2023-03-21 |
-| [Veda Saati](https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Veda Saati](https://open.spotify.com/album/6VTcJDaRCRSgvOKlewDU9d) | 2:27 | 2023-03-25 | 2023-06-13 |
+| [Veda Saati](https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Veda Saati](https://open.spotify.com/album/6VTcJDaRCRSgvOKlewDU9d) | 2:27 | 2023-03-25 |  |
 | [Ver O Zaman Gömleklerimi](https://open.spotify.com/track/2SNvFw3DuQxfeReepENclp) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0), [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ver O Zaman Gömleklerimi](https://open.spotify.com/album/5seaQjemArLZNtrNQptJF9) | 3:26 | 2021-03-27\* | 2021-03-27 |
 | [Vida Loca](https://open.spotify.com/track/6ygkYEkpCrYKOVNSTXVmpb) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Vida Loca](https://open.spotify.com/album/3hEzzDqOXk9lYLyPhKuylx) | 2:33 | 2021-11-07 | 2021-11-08 |
 | [VODKA FONDIP](https://open.spotify.com/track/0C2rVFW9WdSmrVYWg3L1sW) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [VODKA FONDIP](https://open.spotify.com/album/3WH5psQkne6BRJB99r1hDx) | 2:13 | 2023-05-20 |  |
@@ -668,6 +668,7 @@
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-07 | 2023-01-22 |
 | [Yıldızlara Bak](https://open.spotify.com/track/5jSjin6KJMH6WT68YnE7bW) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Yaşlı Amca](https://open.spotify.com/album/5UkfRBKjeHnppOGTHX7uJ4) | 4:00 | 2021-03-27\* | 2021-05-19 |
 | [Yıldızların Altında](https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf) | [Kargo](https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R) | [Yıldızların Altında](https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg) | 2:57 | 2021-10-18 | 2022-02-03 |
+| [Zalim](https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Düş Bahçeleri](https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ) | 4:38 | 2023-06-13 |  |
 | [Zeki Müren](https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Zeki Müren](https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg) | 2:15 | 2022-06-11 | 2022-06-19 |
 | [Zemin](https://open.spotify.com/track/5WT3ohLdg04eUy9Bz2sRsi) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Zemin](https://open.spotify.com/album/3GhtXj3VtpblJcDThh0m49) | 2:56 | 2021-03-27\* | 2021-03-27 |
 | [Zenti](https://open.spotify.com/track/1LuaqpbhicGeIYCptQf7cO) | [EX](https://open.spotify.com/artist/2RL1fxftHZRkaF1JQ62gaV) | [Zenti](https://open.spotify.com/album/4hSqLGHsRgNuUMGQNBp7lb) | 1:24 | 2022-05-11 | 2022-05-15 |

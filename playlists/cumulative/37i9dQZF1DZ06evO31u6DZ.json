@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 230120,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/56JVFa5GAqagFTTDxOT38M"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 195826,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf"
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Sick or Sane (Fifty for a Twenty)",
+      "url": "https://open.spotify.com/track/3WuIISjdS4O9yYqohz8Tmf"
+    },
+    {
+      "album": {
         "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 165760,
       "name": "Sick or Sane (Fifty for a Twenty)",
       "url": "https://open.spotify.com/track/7uIDaASKT50rID0fzRitMz"

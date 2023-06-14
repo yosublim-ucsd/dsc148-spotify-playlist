@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 26631,
+  "num_followers": 26796,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0",
+  "snapshot_id": "MCw1MWUxYzUyN2U5ODM3NDEwYmY3YjU5NGE1MmM3MDUzZDFlYzgxYjZi",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Chardonnay",
-        "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
-      },
-      "artists": [
-        {
-          "name": "Paula Douglas",
-          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
-        }
-      ],
-      "duration_ms": 140597,
-      "name": "Chardonnay",
-      "url": "https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 154000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Chardonnay",
+        "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
+      },
+      "artists": [
+        {
+          "name": "Paula Douglas",
+          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
+        }
+      ],
+      "duration_ms": 140597,
+      "name": "Chardonnay",
+      "url": "https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "lovin myself",
-        "url": "https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 167188,
-      "name": "lovin myself",
-      "url": "https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Feuer",
         "url": "https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 174995,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "lovin myself",
+        "url": "https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 167188,
+      "name": "lovin myself",
+      "url": "https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Direct Flight To Seattle",
-        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
-      },
-      "artists": [
-        {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
-        }
-      ],
-      "duration_ms": 245234,
-      "name": "Direct Flight To Seattle",
-      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lauf",
-        "url": "https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE"
+        "name": "Direct Flight To Seattle",
+        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
       },
       "artists": [
         {
-          "name": "CARY",
-          "url": "https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv"
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
         }
       ],
-      "duration_ms": 143800,
-      "name": "Lauf",
-      "url": "https://open.spotify.com/track/7d8mo4A255IToerZNguieR"
+      "duration_ms": 245234,
+      "name": "Direct Flight To Seattle",
+      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 147406,
       "name": "Sie reden so laut",
       "url": "https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Lauf",
+        "url": "https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE"
+      },
+      "artists": [
+        {
+          "name": "CARY",
+          "url": "https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Lauf",
+      "url": "https://open.spotify.com/track/7d8mo4A255IToerZNguieR"
     },
     {
       "added_at": "2023-06-06 22:00:00",

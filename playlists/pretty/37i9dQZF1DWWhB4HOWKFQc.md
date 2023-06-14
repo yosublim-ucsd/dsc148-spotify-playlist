@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,903 likes - 83 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,317 likes - 83 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 82 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 |
 | 83 | [HEAVEN AND BACK](https://open.spotify.com/track/5dewQ7ojISR32NAYNHFYWC) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [PHASES](https://open.spotify.com/album/22DL6IRGNYNenKej7aw8pO) | 4:08 |
 
-Snapshot ID: `MCw1MTQ4YWIzNmMwNjQ2ODhkMjhkNjdlM2Q3ODcxZGViYWM3OWU2Njk3`
+Snapshot ID: `MCwyNGM4MmUzZmUzYjQzZDExMzNiMGYwYWFlNmJkMjc3MTY1NTM4NWI3`

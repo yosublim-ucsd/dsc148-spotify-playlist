@@ -1,12 +1,12 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Peso Pluma y El Alfa",
-  "num_followers": 341141,
+  "num_followers": 341400,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhkZjAwMWRlODRhYTg2MWY0YzRmZmFmYjBhMzgwNzBkMDg4MmYw",
+  "snapshot_id": "MCxhM2UyOWVhZGY5MTgyYzE2Njc1ODIyMzk1MzU5ZTYyNmFiMDJjNTQz",
   "tracks": [
     {
       "added_at": "2023-06-12 16:00:29",
@@ -819,30 +819,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Me la Subi\u00f3",
-        "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
-      },
-      "artists": [
-        {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
-        },
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 100704,
-      "name": "Me la Subi\u00f3",
-      "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Subete",
         "url": "https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm"
       },
@@ -887,26 +863,26 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+        "name": "Me la Subi\u00f3",
+        "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
-      "duration_ms": 201000,
-      "name": "PAM",
-      "url": "https://open.spotify.com/track/7uF2XRp2srFB1mvTMEChoh"
+      "duration_ms": 100704,
+      "name": "Me la Subi\u00f3",
+      "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -927,6 +903,30 @@
       "duration_ms": 111280,
       "name": "Un Malo y Medio",
       "url": "https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/7uF2XRp2srFB1mvTMEChoh"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Bilibob",
+        "url": "https://open.spotify.com/album/7C5NNwStjZCHPLSLoiz6eu"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Bilibob",
+      "url": "https://open.spotify.com/track/0wCINtcvrzwjJjrTJPmnSt"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Un Chin",
+        "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Un Chin",
+      "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Ruleteo",
         "url": "https://open.spotify.com/album/5bu1OiPYRGb1gAsTWkY334"
       },
@@ -1355,38 +1387,6 @@
       "duration_ms": 207931,
       "name": "Ruleteo",
       "url": "https://open.spotify.com/track/5lmddNNeMNBkPQlYtfnz6p"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Un Chin",
-        "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Un Chin",
-      "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Bilibob",
-        "url": "https://open.spotify.com/album/7C5NNwStjZCHPLSLoiz6eu"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Bilibob",
-      "url": "https://open.spotify.com/track/0wCINtcvrzwjJjrTJPmnSt"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Bobote",
-        "url": "https://open.spotify.com/album/68ihFK8T2v5Y2RcCAOFA1s"
+        "name": "Ay Si \u00d1i\u00f1o (Remix)",
+        "url": "https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3"
       },
       "artists": [
         {
@@ -1584,37 +1584,17 @@
           "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         },
         {
-          "name": "El Experimento (Macgyver)",
-          "url": "https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv"
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
         },
         {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "El Bloonel",
-          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
-        },
-        {
-          "name": "Gatillero 23",
-          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
-        },
-        {
-          "name": "El Boke",
-          "url": "https://open.spotify.com/artist/4CeU1RMEIalbzrjqbp3UyZ"
-        },
-        {
-          "name": "La Sabiduria",
-          "url": "https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC"
-        },
-        {
-          "name": "Jc La Nevula",
-          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 247741,
-      "name": "Bobote",
-      "url": "https://open.spotify.com/track/5NuZrK1wFI9iOgCbFyECfa"
+      "duration_ms": 142372,
+      "name": "Ay Si \u00d1i\u00f1o (Remix)",
+      "url": "https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1675,26 +1655,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Despu\u00e9s De Mi",
-        "url": "https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 145850,
-      "name": "Despu\u00e9s De Mi",
-      "url": "https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Knock Out",
         "url": "https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n"
       },
@@ -1719,6 +1679,26 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Despu\u00e9s De Mi",
+        "url": "https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 145850,
+      "name": "Despu\u00e9s De Mi",
+      "url": "https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Perrita",
         "url": "https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd"
       },
@@ -1735,54 +1715,6 @@
       "duration_ms": 151764,
       "name": "Perrita",
       "url": "https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Malianteo Y Tiro",
-        "url": "https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Malianteo Y Tiro",
-      "url": "https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Ay Si \u00d1i\u00f1o (Remix)",
-        "url": "https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3"
-      },
-      "artists": [
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        },
-        {
-          "name": "Mafeo 13",
-          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "Ay Si \u00d1i\u00f1o (Remix)",
-      "url": "https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1807,6 +1739,74 @@
       "duration_ms": 147543,
       "name": "Yo Lo Da\u00f1o",
       "url": "https://open.spotify.com/track/0KzcNyuqxT7DoKBOMplUzc"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Bobote",
+        "url": "https://open.spotify.com/album/68ihFK8T2v5Y2RcCAOFA1s"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "El Experimento (Macgyver)",
+          "url": "https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "El Bloonel",
+          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
+        },
+        {
+          "name": "Gatillero 23",
+          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
+        },
+        {
+          "name": "El Boke",
+          "url": "https://open.spotify.com/artist/4CeU1RMEIalbzrjqbp3UyZ"
+        },
+        {
+          "name": "La Sabiduria",
+          "url": "https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC"
+        },
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Bobote",
+      "url": "https://open.spotify.com/track/5NuZrK1wFI9iOgCbFyECfa"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Malianteo Y Tiro",
+        "url": "https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Malianteo Y Tiro",
+      "url": "https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1919,6 +1919,30 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/6CFO0LOMt8KK9xKI6N8AF7"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Paulus Music",
+          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
+        }
+      ],
+      "duration_ms": 207394,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/3XrAOTkJU0fnNwld8maKC5"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Baje Con Trenza (Remix)",
         "url": "https://open.spotify.com/album/76q0xgvBOP2O2MZnHy28Vm"
       },
@@ -1943,30 +1967,6 @@
       "duration_ms": 207804,
       "name": "Baje Con Trenza - Remix",
       "url": "https://open.spotify.com/track/16mjWUaQ4MjErG3LiD4jlD"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "No Me Importa",
-        "url": "https://open.spotify.com/album/6CFO0LOMt8KK9xKI6N8AF7"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Paulus Music",
-          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
-        }
-      ],
-      "duration_ms": 207394,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/3XrAOTkJU0fnNwld8maKC5"
     },
     {
       "added_at": "2023-05-26 20:56:02",

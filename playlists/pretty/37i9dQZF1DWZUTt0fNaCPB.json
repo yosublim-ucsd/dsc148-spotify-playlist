@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1003083,
+  "num_followers": 1003396,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQ4N2ViMTU5ZGEzNWI2MDk0Nzk4NjdiZWMyNjVmNmRkZWNmMzMy",
+  "snapshot_id": "MCxlN2M3YTE3N2I1YWEzYzVmYzMyMmRhYWRmY2RmZDRkMzIwYzZhZDdm",
   "tracks": [
     {
       "added_at": "2023-04-28 09:18:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "La Sexorcisto: Devil Music Volume 1",
-        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Thunder Kiss '65",
-      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
-    },
-    {
-      "added_at": "2023-04-28 09:18:43",
-      "album": {
         "name": "Black Rain (Expanded Edition)",
         "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 239826,
       "name": "I Don't Wanna Stop",
       "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
+    },
+    {
+      "added_at": "2023-04-28 09:18:43",
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Thunder Kiss '65",
+      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
     },
     {
       "added_at": "2023-04-28 09:18:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "Demon Speeding",
-      "url": "https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6"
-    },
-    {
-      "added_at": "2023-04-28 09:18:43",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231161,
       "name": "Black Lungs",
       "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+    },
+    {
+      "added_at": "2023-04-28 09:18:43",
+      "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": "Demon Speeding",
+      "url": "https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6"
     },
     {
       "added_at": "2023-04-28 09:18:43",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+        "name": "The Revelry",
+        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Bullets And Octane",
+          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
         }
       ],
-      "duration_ms": 267360,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
+      "duration_ms": 139640,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
     },
     {
       "added_at": "2023-04-28 09:18:43",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "The Revelry",
-        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
       "artists": [
         {
-          "name": "Bullets And Octane",
-          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 139640,
-      "name": "Pirates",
-      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
+      "duration_ms": 267360,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
     },
     {
       "added_at": "2023-04-28 09:18:43",

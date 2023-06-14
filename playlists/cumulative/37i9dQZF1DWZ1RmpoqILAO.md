@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation Cover: boygenius
+> \*pinegrove shuffle intensifies\* Cover: boygenius
 
 107 songs - 7 hr 20 min
 

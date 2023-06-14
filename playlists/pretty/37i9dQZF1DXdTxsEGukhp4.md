@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,648 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,667 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [With You on This Planet](https://open.spotify.com/track/1DxgPJ57x2s8nmeKMHOwGl) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [Boku](https://open.spotify.com/album/59W6AyzntW2vjcElppqce8) | 3:10 |
 | 50 | [Custom Lovedool](https://open.spotify.com/track/3s0ZWBG9l85BqTi6aJzjXt) | [akuma no kiss \(senritsu kanano & katy\)](https://open.spotify.com/artist/5TqcSYdrNJtfgnr7W37JcA) | [Custom Lovedool](https://open.spotify.com/album/6ZN7SpS7A16lYFQwAE0qZO) | 3:25 |
 
-Snapshot ID: `MCwyMTE3MjFkZjhlNjFkMDQ0MmZjZmJhZDQ4YjYxNWQ5NTc0YzI1YzMw`
+Snapshot ID: `MCxjYzljNmIxNThmYWM3YmE4YmRjYjVkMzJlYWMwNTAyZWU1YWFjOGUz`

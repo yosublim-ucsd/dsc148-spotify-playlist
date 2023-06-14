@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,612 likes - 231 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,677 likes - 231 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 80 | [Paycheck Down](https://open.spotify.com/track/2kHwwYrX36KHtgBeMIUVWD) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [Paycheck Down](https://open.spotify.com/album/3vcOyMvntzFgpXVcstoCK8) | 3:07 |
 | 81 | [Town Left Me](https://open.spotify.com/track/4uQewsAKPuM7AJkCpKJyjY) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Before the Record](https://open.spotify.com/album/7xBhOOo1DHoz6scABUlTKI) | 3:25 |
 | 82 | [Hangovers](https://open.spotify.com/track/4Hy0SkphtfJqKowDwInbka) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Hangovers](https://open.spotify.com/album/31KAizNHLmGjaGTuS9Uvp3) | 2:54 |
-| 83 | [You Don't Think About That](https://open.spotify.com/track/3PJHe7Hm5iZmqFDGIEboOS) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [You Don't Think About That](https://open.spotify.com/album/27wl7YGYb6edFSESxbdk3L) | 3:23 |
+| 83 | [You Don't Think About That](https://open.spotify.com/track/2gAoR2HsZ2nV0YWcR38gHa) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out...Again \- EP](https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz) | 3:23 |
 | 84 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 85 | [Someday](https://open.spotify.com/track/3ow3pCMyHtc88B2uxRzHbr) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Someday](https://open.spotify.com/album/0qWQ9iFeXdyJvcItsMmt0w) | 2:41 |
 | 86 | [Needed The Rain](https://open.spotify.com/track/2YPgBZVNqvBprMbJ23UPUk) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Needed The Rain](https://open.spotify.com/album/3XawUgdBEJuVzoLKV1RTM4) | 3:50 |
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 230 | [Hold On To Me](https://open.spotify.com/track/3dALeQZ6Uwp9vuVaCMB51b) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Hold On To Me](https://open.spotify.com/album/4aDGgNHOR5Fyb11UhQEJ5t) | 3:19 |
 | 231 | [End Up In a Song](https://open.spotify.com/track/6YhEPsP4m6k22kN4kFXcWK) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [End Up In a Song](https://open.spotify.com/album/1Qbs78GmL4ZGFCVY7JWrM6) | 2:28 |
 
-Snapshot ID: `MCxmNDk4MzA0ODFhMjkzZmM4YWYwNTZiYWI2ZTQwODc2ZTA5ZGI3OTk0`
+Snapshot ID: `MCwyOWEyOTU2NzQxNTY3MDkyY2ZlMTQ5ZWY4ZGNmZGE0YWIwZjMwYTZm`

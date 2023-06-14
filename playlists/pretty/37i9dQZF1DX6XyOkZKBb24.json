@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 108775,
+  "num_followers": 108859,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzRhZmM5NTJhZTJmYzFmODUyZDQ2YjQ5NjRjNDEzZWZmNTY2ZmQz",
+  "snapshot_id": "MCwxZjdkYjA0ODZmZWVlNDJjODk3MjVkY2Q2MzRmZmU5ZDA5ZjA5OTI2",
   "tracks": [
     {
       "added_at": "2023-06-10 03:49:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-10 03:49:52",
       "album": {
-        "name": "What More Can I Say",
-        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "What More Can I Say",
-      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
-    },
-    {
-      "added_at": "2023-06-10 03:49:52",
-      "album": {
         "name": "Dangerous Levels of Introspection",
         "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-06-10 03:49:52",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD"
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
       },
       "artists": [
         {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 248069,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D"
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
     },
     {
       "added_at": "2023-06-10 03:49:52",
@@ -1091,6 +1075,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2023-06-10 03:49:52",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 248069,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D"
     },
     {
       "added_at": "2023-06-10 03:49:52",

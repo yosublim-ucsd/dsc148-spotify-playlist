@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Baarish Aayi Hai",
+        "url": "https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197010,
+      "name": "Baarish Aayi Hai",
+      "url": "https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF"
+    },
+    {
+      "album": {
         "name": "Baarish Ka Asar",
         "url": "https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj"
       },

@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-309 songs - 16 hr 59 min
+310 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Back Up](https://open.spotify.com/track/3u2CXK1wTlyxRaY1WaxvVA) | [No Tourists](https://open.spotify.com/artist/0uBsS9dLSDqjW04F66Q6uI) | [Ultraviolet](https://open.spotify.com/album/4tkll1d7e1iMpgRzOmfFrQ) | 3:40 | 2021-07-26 | 2022-07-24 |
 | [Bag](https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 1:52 | 2021-10-01 | 2023-02-13 |
 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/632PCenoAviq31MsIh9eBM) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 2:43 | 2021-11-29 |  |
+| [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2023-05-26 |  |
 | [bedroom floor \- Moods Remix](https://open.spotify.com/track/5i5LHbxQdOylqIx3Nxb17x) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [bedroom floor \(Moods Remix\)](https://open.spotify.com/album/6yxueMxDDOFGGARZeivkSj) | 2:55 | 2021-07-26 | 2022-07-29 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-01-27 | 2023-04-20 |
 | [belladonna](https://open.spotify.com/track/6qYC4QgcI1IBeq2yNh1sA9) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [midsummer](https://open.spotify.com/album/5aFCqQv9tYrUjst01NiSFq) | 3:10 | 2021-11-12 | 2022-07-22 |
@@ -293,7 +294,7 @@
 | [Violin](https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 1:49 | 2022-07-30 |  |
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2021-07-26 | 2022-07-27 |
 | [Wake Up](https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:42 | 2022-11-11 | 2023-05-27 |
-| [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 | 2021-07-26 |  |
+| [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 | 2021-07-26 | 2023-06-14 |
 | [Walk The Beat](https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Walk The Beat](https://open.spotify.com/album/1ygm7W37eAOhhGvvSDdE2a) | 2:55 | 2021-08-20 | 2022-07-31 |
 | [warmest winter.](https://open.spotify.com/track/4g6by7LB72YVpIP2RDmWiH) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 3:49 | 2022-11-18 | 2023-04-22 |
 | [Water \- FKJ Remix](https://open.spotify.com/track/04bAqpyuPCsgZAfnbsGDXx) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/3Y5zUsDwVrbVM408CAKXiz) | 3:19 | 2021-07-26 | 2022-07-17 |

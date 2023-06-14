@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 186870,
+  "num_followers": 186884,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh",
+  "snapshot_id": "MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
+      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 200133,
       "name": "Calaverita",
       "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
-        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
-      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Quema Quema Quema",
-        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 232386,
-      "name": "Si Te Mueres Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Basalto",
         "url": "https://open.spotify.com/album/6fz2cMoIVavyBSaREORH27"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 329329,
       "name": "Barrag\u00e1n",
       "url": "https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
-      },
-      "artists": [
-        {
-          "name": "Susana Harp",
-          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "La Catrina",
-      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Chicavasco",
         "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
       },
       "artists": [
         {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
-      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
+      "duration_ms": 207280,
+      "name": "La Catrina",
+      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1667,6 +1651,22 @@
       "duration_ms": 190106,
       "name": "La Reyna Del Inframundo",
       "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
+      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

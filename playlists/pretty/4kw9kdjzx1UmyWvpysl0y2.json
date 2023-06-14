@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127195,
+  "num_followers": 127209,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI1MyxhNjQ0ZmUzMjY2MTQ2ODE5Yzg0ZjJkNTM5MjA0NmE0NTk2ODcxZTAx",
+  "snapshot_id": "NDI1NCwxZjQ2ZTZlMGY4MDhkZjA2YWIzNjFhZDAxZjUyMTBjYTE3ZTYyOTdh",
   "tracks": [
     {
       "added_at": "2023-06-12 18:13:24",
@@ -1107,22 +1107,6 @@
       "duration_ms": 192400,
       "name": "New Worlds",
       "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"
-    },
-    {
-      "added_at": "2023-03-21 17:31:29",
-      "album": {
-        "name": "Foggy Morning",
-        "url": "https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 256374,
-      "name": "Foggy Morning",
-      "url": "https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

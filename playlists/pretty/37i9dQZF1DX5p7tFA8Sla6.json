@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 48786,
+  "num_followers": 48814,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
+  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -75,22 +75,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Meters",
         "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 186853,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -471,18 +471,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4"
+        "name": "Graham Central Station",
+        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
       },
       "artists": [
         {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+          "name": "Graham Central Station",
+          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
         }
       ],
-      "duration_ms": 211066,
-      "name": "I Don't Believe You Want To Get Up And Dance (Oops, Up Side Your Head)",
-      "url": "https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G"
+      "duration_ms": 295146,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -519,18 +519,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Graham Central Station",
-        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4"
       },
       "artists": [
         {
-          "name": "Graham Central Station",
-          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
         }
       ],
-      "duration_ms": 295146,
-      "name": "Hair",
-      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
+      "duration_ms": 211066,
+      "name": "I Don't Believe You Want To Get Up And Dance (Oops, Up Side Your Head)",
+      "url": "https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Birth Day",
-        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
-      },
-      "artists": [
-        {
-          "name": "The New Birth",
-          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
-        }
-      ],
-      "duration_ms": 383746,
-      "name": "I Can Understand It",
-      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Breaks from the Border",
         "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 191160,
       "name": "Take What You Need",
       "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Birth Day",
+        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
+      },
+      "artists": [
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "duration_ms": 383746,
+      "name": "I Can Understand It",
+      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1245,42 +1245,6 @@
       "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "One of These Days",
-        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
-      },
-      "artists": [
-        {
-          "name": "The Haggis Horns",
-          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
-        },
-        {
-          "name": "Doc Brown",
-          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
-        }
-      ],
-      "duration_ms": 211988,
-      "name": "Take It Back (feat. Doc Brown)",
-      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Shake Your Money",
-        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 200190,
-      "name": "Shake Your Money",
-      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1303,6 +1267,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
+      },
+      "artists": [
+        {
+          "name": "The Haggis Horns",
+          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
+        },
+        {
+          "name": "Doc Brown",
+          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
+        }
+      ],
+      "duration_ms": 211988,
+      "name": "Take It Back (feat. Doc Brown)",
+      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Confident (feat. The MB's)",
         "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Shake Your Money",
+        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 200190,
+      "name": "Shake Your Money",
+      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Mindblastin'",
+        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
+      },
+      "artists": [
+        {
+          "name": "The Soul Motivators",
+          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
+        }
+      ],
+      "duration_ms": 261184,
+      "name": "Mindblastin'",
+      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 165450,
       "name": "F.y.g",
       "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Mindblastin'",
-        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
-      },
-      "artists": [
-        {
-          "name": "The Soul Motivators",
-          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
-        }
-      ],
-      "duration_ms": 261184,
-      "name": "Mindblastin'",
-      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
     },
     {
       "added_at": "2019-08-22 14:26:16",

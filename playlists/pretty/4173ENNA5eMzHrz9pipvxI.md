@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Vessbroz
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,184 likes - 29 songs - 1 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,192 likes - 30 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,14 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 19 | [5th Symphony phonk](https://open.spotify.com/track/7Ie4OaaUqbUTWh4EHz9hQQ) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [5th Symphony phonk](https://open.spotify.com/album/7lBBGOJdkwEHEHNbBCh1Rf) | 1:52 |
 | 20 | [Overdose](https://open.spotify.com/track/1vfuTsXHo4IjThgs4CtOwa) | [JayJay](https://open.spotify.com/artist/0Er9HtStu9pbSThPMRjOEC) | [Overdose](https://open.spotify.com/album/49EemIWqDMa3KdtOmFVQ6V) | 2:49 |
 | 21 | [Flush It \(feat\. STRIO\) \[Club Mix\]](https://open.spotify.com/track/0obNtI60tvfDD5dL5TFRS3) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [STRIO](https://open.spotify.com/artist/52RIKNLQfoH4VPBQR6RJKd) | [Flush It \(feat\. STRIO\) \[Club Mix\]](https://open.spotify.com/album/7rabZ2Gc3qNXkQGm1yuPwW) | 3:00 |
-| 22 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 |
-| 23 | [Café Del Mar](https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Café Del Mar](https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut) | 2:38 |
-| 24 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 |
-| 25 | [Ill Behavior](https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Ill Behavior](https://open.spotify.com/album/3KlaD2BwnsqyEBZfa7pd8m) | 2:36 |
-| 26 | [Live Is Life](https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [ATIØPE](https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF) | [Live Is Life](https://open.spotify.com/album/02xGsQl2qAGOqXYTyW1lZC) | 2:43 |
-| 27 | [On The Floor](https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [On The Floor](https://open.spotify.com/album/18ZbDpZU7YUMgBCMokC4uL) | 2:49 |
-| 28 | [Closer](https://open.spotify.com/track/0HIPQfEKpjURE7zH0hpnTY) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Never Sleep](https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT) | [Closer](https://open.spotify.com/album/6VVAKHegwAI6j3N3AViHxu) | 2:20 |
-| 29 | [Ravers & Parties](https://open.spotify.com/track/6xl0GYsdMjT07BibzDmbSV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [Ravers & Parties](https://open.spotify.com/album/0HUJlmVoC9mSrucvjWNY1X) | 2:41 |
+| 22 | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 |
+| 23 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 |
+| 24 | [Café Del Mar](https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Café Del Mar](https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut) | 2:38 |
+| 25 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 |
+| 26 | [Ill Behavior](https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Ill Behavior](https://open.spotify.com/album/3KlaD2BwnsqyEBZfa7pd8m) | 2:36 |
+| 27 | [Live Is Life](https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [ATIØPE](https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF) | [Live Is Life](https://open.spotify.com/album/02xGsQl2qAGOqXYTyW1lZC) | 2:43 |
+| 28 | [On The Floor](https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [On The Floor](https://open.spotify.com/album/18ZbDpZU7YUMgBCMokC4uL) | 2:49 |
+| 29 | [Closer](https://open.spotify.com/track/0HIPQfEKpjURE7zH0hpnTY) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Never Sleep](https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT) | [Closer](https://open.spotify.com/album/6VVAKHegwAI6j3N3AViHxu) | 2:20 |
+| 30 | [Ravers & Parties](https://open.spotify.com/track/6xl0GYsdMjT07BibzDmbSV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [Ravers & Parties](https://open.spotify.com/album/0HUJlmVoC9mSrucvjWNY1X) | 2:41 |
 
-Snapshot ID: `NjU1Niw2NDJlZWU4MTA0OTY5NGViNDNmNmQ5NWY1NjI4M2Y0M2UwMWIxZTRk`
+Snapshot ID: `NjU1Nyw4MjliYzBhOTk2OTY1ZmJiOTQzMjY5NzE5NzE4MmNkZDQyNjRhZjkz`

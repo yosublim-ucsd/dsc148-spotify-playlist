@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-73 songs - 6 hr 7 min
+74 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,5 +81,6 @@
 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 | 2022-12-22 |  |
 | [What You Say](https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [DJ Patife Presents Viva Brazil: Sunandbass Sessions](https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui) | 6:31 | 2022-12-22 |  |
 | [Worlds Collide](https://open.spotify.com/track/11Alc9FJ2wKiQZTLRaGAUo) | [Majestim](https://open.spotify.com/artist/7HrLNnTdr56RZtL9F0nXiN) | [Worlds Collide](https://open.spotify.com/album/7zhgsvgi540XOnWLExWttb) | 4:55 | 2022-11-30 |  |
+| [You Are Everything](https://open.spotify.com/track/1QMcZoJxMGvX7dv06wiiXn) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Freedom II](https://open.spotify.com/album/019A0dE0Oox1t0swxjFaoF) | 5:45 | 2023-06-13 |  |
 
 \*This playlist was first scraped on 2023-02-08. Prior content cannot be recovered.

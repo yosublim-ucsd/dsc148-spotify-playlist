@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/44yYxVlcLb3lp9EokUElUn"
+    },
+    {
+      "album": {
         "name": "Pipopapipo",
         "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"

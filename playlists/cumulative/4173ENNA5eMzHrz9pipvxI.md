@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Vessbroz
 
-850 songs - 1 day 16 hr 39 min
+851 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,6 +789,7 @@
 | [Trujillana](https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA) | [Maxx Lyon](https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW), [Andrew Hansel](https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V) | [Trujillana](https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66) | 2:00 | 2023-02-24 | 2023-03-04 |
 | [Trumpz](https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Trumpz](https://open.spotify.com/album/4YN8jzTKellfwWAcjdTDXC) | 2:07 | 2023-01-12 | 2023-01-27 |
 | [Turn It Up](https://open.spotify.com/track/4LoyuGoDxqkX31xsJQm7BF) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Turn It Up](https://open.spotify.com/album/1ihjgWKPIAUdfux52SEpld) | 2:26 | 2022-12-15 | 2023-01-06 |
+| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-13 |  |
 | [U Got My Body](https://open.spotify.com/track/2Jt3iFtEuN1fTfg1FNvMxu) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [U Got My Body](https://open.spotify.com/album/2meD7HrbvMUsdSq0N6cNGC) | 4:44 | 2022-06-03 | 2022-06-20 |
 | [Ultra Flava](https://open.spotify.com/track/79PxfW8gaw3Blr39KOps8k) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mark Ursa](https://open.spotify.com/artist/4wb3aKFHHtYG98ldzA0Col) | [Ultra Flava](https://open.spotify.com/album/4y7JPeu7iIt99VAKrTqI8X) | 2:41 | 2022-07-08 | 2022-07-23 |
 | [UNDRGRND](https://open.spotify.com/track/11OAHwNw3RtSEuWS5ez4ru) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [UNDRGRND](https://open.spotify.com/album/1IEotoJ1Z3lmWdzDoCIsRV) | 2:40 | 2023-06-08 |  |

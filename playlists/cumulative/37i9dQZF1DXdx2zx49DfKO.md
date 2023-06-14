@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-56 songs - 2 hr 11 min
+57 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-11-30 |  |
 | [GO!](https://open.spotify.com/track/3Fmzn4AgdZ0owwgmomtY9l) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [GO!](https://open.spotify.com/album/28UownfAgB0Q9mH85Rp8ll) | 2:30 | 2022-11-30 |  |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2022-11-30 |  |
-| [HELL DRIFT 2](https://open.spotify.com/track/0Ol5GwjRyQg1UrhWHFgPNW) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [HELL DRIFT 2](https://open.spotify.com/album/4m61NvWJFXbQGnpbvkv43j) | 2:51 | 2022-11-30 |  |
+| [HELL DRIFT 2](https://open.spotify.com/track/0Ol5GwjRyQg1UrhWHFgPNW) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [HELL DRIFT 2](https://open.spotify.com/album/4m61NvWJFXbQGnpbvkv43j) | 2:51 | 2022-11-30 | 2023-06-14 |
+| [HELL DRIFT 2](https://open.spotify.com/track/2pXz6Lc3KhTifUsO91ykvx) | [trxmbolona](https://open.spotify.com/artist/2xHJwz7ybXbFiG6X8seXi5) | [HELL DRIFT 2](https://open.spotify.com/album/5baNyrf7DzcEvwOJrzPVDM) | 2:51 | 2022-11-30 |  |
 | [HELLDRIFT 2](https://open.spotify.com/track/2fA6syjvdiDZmXk8qyH8uM) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/4f3ZmtNorRUs1mB30FSVOs) | 2:51 | 2022-11-30 | 2023-05-13 |
 | [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-11-30 | 2023-06-12 |
 | [HELLDRIFT 2](https://open.spotify.com/track/78jwadUWHHsIXYoZtL9kpK) | [Randee Campers](https://open.spotify.com/artist/3XrwocEZ2D4EkmynAMtw5y) | [HELLDRIFT 2](https://open.spotify.com/album/6AFcMCYJfdAI9vO3YJ6wn8) | 2:51 | 2022-11-30 | 2023-06-11 |

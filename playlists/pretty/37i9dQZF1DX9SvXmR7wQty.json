@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Miro",
-  "num_followers": 36922,
+  "num_followers": 36927,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODgwYjVlMDQ1YWIwMDUyMjg5M2Y4YTI1NzdjMzZiYjY1OWU2YzBk",
+  "snapshot_id": "MCwzYjY0ZmMyMTcxMzBjYjE4NzRiZTc0YjM2ZmExNWU0ZWU0OTRjYjQy",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "C'est quand qu'il s'\u00e9teint ?",
+        "url": "https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Entra\u00eenement",
+      "url": "https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "London Fever",
         "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 202106,
       "name": "London Fever",
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 148717,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "C'est quand qu'il s'\u00e9teint ?",
-        "url": "https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW"
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Entra\u00eenement",
-      "url": "https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz"
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Eyes contact (feat. Franglish)",
-        "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
-      },
-      "artists": [
-        {
-          "name": "Gambino La MG",
-          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 189708,
-      "name": "Eyes contact (feat. Franglish)",
-      "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Salement",
         "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
       },
@@ -355,22 +335,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+        "name": "Eyes contact (feat. Franglish)",
+        "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
       },
       "artists": [
         {
-          "name": "Mig",
-          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
         },
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 193381,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
+      "duration_ms": 189708,
+      "name": "Eyes contact (feat. Franglish)",
+      "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -395,6 +375,26 @@
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -519,18 +519,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
+        "name": "La Centrale",
+        "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "SLK",
+          "url": "https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 179902,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
+      "duration_ms": 166385,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "La Centrale",
-        "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
       },
       "artists": [
         {
-          "name": "SLK",
-          "url": "https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 166385,
-      "name": "\u00c9ternel",
-      "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
+      "duration_ms": 179902,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "On arrive demain (Extrait de la BO du film 'Pour l'honneur')",
-        "url": "https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 232830,
-      "name": "On arrive demain - Edit Single",
-      "url": "https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Make It Alright",
         "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Amn\u00e9sia",
-        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+        "name": "On arrive demain (Extrait de la BO du film 'Pour l'honneur')",
+        "url": "https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Amn\u00e9sia",
-      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
+      "duration_ms": 232830,
+      "name": "On arrive demain - Edit Single",
+      "url": "https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Amn\u00e9sia",
+        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Amn\u00e9sia",
+      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

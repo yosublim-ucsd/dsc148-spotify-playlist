@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-421 songs - 1 day 1 hr 2 min
+422 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2020-12-31 |  |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2022-05-31 |  |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2023-03-17 |  |
-| [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-06-25 |  |
+| [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-06-25 | 2023-06-14 |
 | [EARFQUAKE \- Channel Tres Remix](https://open.spotify.com/track/6tgknDU0VMbXILuWixFKKn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [EARFQUAKE \(Channel Tres Remix\)](https://open.spotify.com/album/2gIJO0RLORaeRCT9G1E52V) | 3:48 | 2020-12-31 | 2022-06-03 |
 | [Ecstasy](https://open.spotify.com/track/4N42Ta28mOYeiyMlypgCTK) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Ecstasy](https://open.spotify.com/album/5Hrkn1HmX82KNlTbsUUweN) | 2:27 | 2020-12-31 | 2022-07-29 |
 | [Ecstasy](https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:27 | 2022-09-26 |  |
@@ -222,6 +222,7 @@
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-11-12 | 2022-07-29 |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2022-07-22 | 2022-08-12 |
 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2020-12-31 | 2023-03-07 |
+| [Leave It Alone](https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Leave It Alone](https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2) | 2:51 | 2023-05-04 |  |
 | [LEMON SWAYZE \- Miami Horror Lemonade Remix](https://open.spotify.com/track/0ZqvqklMVDxbyaIsNIdO4c) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [LEMON SWAYZE \(Miami Horror Lemonade Remix\)](https://open.spotify.com/album/6Zxd8PJUYva6YRvDxrmo4z) | 4:29 | 2021-11-19 | 2022-07-29 |
 | [Let It Happen \- Soulwax Remix](https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 9:16 | 2020-12-31 | 2022-10-22 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-25 | 2022-07-29 |

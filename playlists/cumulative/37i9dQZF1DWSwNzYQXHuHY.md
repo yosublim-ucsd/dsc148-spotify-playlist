@@ -4,11 +4,12 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-178 songs - 10 hr 4 min
+179 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Thing](https://open.spotify.com/track/5ZUO1VRpF1VlMVjPotm1WB) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [KILLA \- MIRAE 1st Mini Album](https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V) | 3:03 | 2022-05-11 | 2022-06-02 |
+| [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-13 |  |
 | [2U](https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [CYAN](https://open.spotify.com/album/54mKbSh20yke318bPZMsjb) | 3:15 | 2022-05-11 |  |
 | [A Fairy Tale](https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Start Dating \(Original Drama Soundtrack, Pt\. 2\)](https://open.spotify.com/album/0xr15tO4uvjXlrNTxCFLIP) | 3:44 | 2022-05-11 | 2022-07-28 |
 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 | 2022-05-11 |  |
@@ -23,7 +24,7 @@
 | [Blossom](https://open.spotify.com/track/3lJNiQ0brN72WzIovnx5Ed) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Seoul Vibes Pt.19](https://open.spotify.com/album/69pBAUK07wgu9anA6MKBQ5) | 3:16 | 2022-05-11 | 2022-06-09 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-10-04 |  |
 | [bunny\-401](https://open.spotify.com/track/3dmOvkHWMP2rSGFd6L5e2j) | [19 \(NANA\)](https://open.spotify.com/artist/78jvgJzB3suwIRLJTuRrX7) | [bunny\-401](https://open.spotify.com/album/48X684tziz7ATO8xzPDTSa) | 3:18 | 2022-07-08 | 2022-07-26 |
-| [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 | 2022-07-08 |  |
+| [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 | 2022-07-08 | 2023-06-14 |
 | [busy guy](https://open.spotify.com/track/3OifMsSbPyon2tgApzijMH) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/3pILaXxI4YxGQm3ZfGJyjb) | 3:45 | 2022-05-11 | 2022-07-29 |
 | [Call you mine](https://open.spotify.com/track/3mdYZDdSHtqAn8BRyPoV9S) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Choi Hope](https://open.spotify.com/artist/6FWcUggZthGZx0HKGwN4UK), [MALPH](https://open.spotify.com/artist/0QKuBpHft2jm6uTjxyYmII) | [Merry Merry Seoul Pt.2](https://open.spotify.com/album/1iTheWZlBIwF3RoyG13xUP) | 2:52 | 2022-07-04 | 2022-07-12 |
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2022-05-11 |  |

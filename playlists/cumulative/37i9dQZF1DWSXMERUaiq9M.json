@@ -823,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Irre (KomaCasper Remix)",
+        "url": "https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4"
+      },
+      "artists": [
+        {
+          "name": "Alfred Heinrichs",
+          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+        },
+        {
+          "name": "Haexxa",
+          "url": "https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC"
+        },
+        {
+          "name": "KomaCasper",
+          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200687,
+      "name": "Irre - KomaCasper Remix",
+      "url": "https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3"
+    },
+    {
+      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv"
       },
@@ -928,7 +954,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 260250,
       "name": "Keine Liebe, Kein Rave",
       "url": "https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX"

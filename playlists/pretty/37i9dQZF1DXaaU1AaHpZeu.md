@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Elsa y Elmar, Conociendo Rusia
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,745 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,775 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Estrella Solitaria](https://open.spotify.com/track/4KS0GF9f89v5DR3jzTHp8T) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Estrella Solitaria](https://open.spotify.com/album/2FhLmcDaiz4Mvsbxfi3dWm) | 4:38 |
 | 50 | [Regresar](https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 3:31 |
 
-Snapshot ID: `MCw0YmI3Mzk1ZmNjYmZlMzI0N2Y0NDBhMzkyOTJiM2VmMzlhYzc1Mzc0`
+Snapshot ID: `MCwxMzFmMTUyNzNjNGFjMDdjZGZhMTYxNWU4MmRmOWEzNWNlMGE0MjEy`

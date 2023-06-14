@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 47800,
+  "num_followers": 47813,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzc5MzJmY2U1YjE5MDE1OGRjMDYzNWY0OTA2ZWRjNTJkMDI3ZDJk",
+  "snapshot_id": "MCwzMDliYTM4MDY2OTUwY2FjOTM4Y2IwZDhlYjdlNTRjNmY3NDgyMDY1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
         }
       ],
-      "duration_ms": 227836,
-      "name": "Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
+      "duration_ms": 259000,
+      "name": "La Vida Vale la Pena",
+      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Bonito que Canta",
-        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
       "artists": [
         {
-          "name": "Petrona Martinez",
-          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 259000,
-      "name": "La Vida Vale la Pena",
-      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
+      "duration_ms": 227836,
+      "name": "Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Estyland EP",
-        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
-      },
-      "artists": [
-        {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
-        }
-      ],
-      "duration_ms": 173904,
-      "name": "7heaven",
-      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "EnVy",
         "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 169412,
       "name": "EnVy",
       "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Estyland EP",
+        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "duration_ms": 173904,
+      "name": "7heaven",
+      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
     },
     {
       "added_at": "2023-05-12 04:01:00",

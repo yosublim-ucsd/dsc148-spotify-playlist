@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,374 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,383 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 19 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 20 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 |
 | 21 | [Erotic City \- Make Love Not War Erotic City Come Alive; Extended Version; 2017 Remaster](https://open.spotify.com/track/14TRnDQpggU8mpAzQ4Y3GL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 7:23 |
-| 22 | [Do It \(Let Me See You Shake\)](https://open.spotify.com/track/5QIPJPkYq0QwhDSD0hA4of) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Best Of The Bar\-Kays \(Vol\. 2\)](https://open.spotify.com/album/59ZStF17nEWBFrbfGH2gOI) | 4:11 |
-| 23 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
+| 22 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
+| 23 | [Do It \(Let Me See You Shake\)](https://open.spotify.com/track/5QIPJPkYq0QwhDSD0hA4of) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Best Of The Bar\-Kays \(Vol\. 2\)](https://open.spotify.com/album/59ZStF17nEWBFrbfGH2gOI) | 4:11 |
 | 24 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
 | 25 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
 | 26 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 33 | [Space is the Place](https://open.spotify.com/track/4bXCEav8yrgwAaHZzGXeUK) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:28 |
 | 34 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
 | 35 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
-| 36 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
-| 37 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
+| 36 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
+| 37 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
 | 38 | [Sticky Situation](https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu) | [Tyrone Brunson](https://open.spotify.com/artist/2iOW6LuBHr1Qzb9gtu6ZMn) | [Sticky Situation \(Expanded\)](https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts) | 6:32 |
 | 39 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
 | 40 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCwwMzM5YmU0MzJlZDJiMTMzMGM1M2Q2NWQ2NjM5ZDI4NGQ3NDNlZTI2`
+Snapshot ID: `MCw1YWQ1ZDhlMTEzYjFiZWEyMzY1MjYwODNjNDA4NTYzMTJkNmM3NzYx`

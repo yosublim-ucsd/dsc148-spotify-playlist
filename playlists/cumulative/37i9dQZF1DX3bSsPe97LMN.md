@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz & Tania Dominguez en portada.
 
-324 songs - 16 hr 47 min
+325 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Después De Ella](https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [2023](https://open.spotify.com/album/15IMqHJ9SDCObrchMwqUPY) | 2:58 | 2023-05-05 | 2023-06-04 |
 | [DIABLA](https://open.spotify.com/track/1mFFYvQ5IjizHXSYq3CwQZ) | [$liing](https://open.spotify.com/artist/7ElYZvzQYUqyUxVM6WSdnK), [Los Del Valle](https://open.spotify.com/artist/3vgaEjQkDUcl1hemMls6u4) | [DIABLA](https://open.spotify.com/album/00fIZWWQ6smH3RXgpCVoUw) | 2:47 | 2023-05-05 | 2023-05-09 |
 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 | 2022-09-02 | 2023-04-15 |
+| [Diré](https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Diré](https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe) | 3:17 | 2023-06-09 |  |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 | 2022-10-08 |
 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2023-02-24 | 2023-05-06 |
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-05-13 | 2022-09-03 |
@@ -225,7 +226,7 @@
 | [No Sé Que Tengas](https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Luis Mexía](https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3) | [No Sé Que Tengas](https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF) | 3:07 | 2022-10-07 | 2022-11-19 |
 | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU) | 4:00 | 2022-06-07 | 2022-11-19 |
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 | 2022-10-15 |
-| [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 | 2023-01-27 |  |
+| [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 | 2023-01-27 | 2023-06-14 |
 | [Nuestras Noches](https://open.spotify.com/track/05np5qqF0I9dukvYweal2A) | [Shia Aldair](https://open.spotify.com/artist/07Fa79I3tdHSTFwNQhi0uX) | [Desventura](https://open.spotify.com/album/1Fp1Oy7agN1VYfy4clJiDi) | 3:32 | 2022-10-07 | 2022-11-12 |
 | [nuestro amor](https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [nuestro amor sacrificado](https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY) | 1:22 | 2022-09-23 | 2023-02-12 |
 | [Odio](https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 2:33 | 2023-01-13 | 2023-06-13 |

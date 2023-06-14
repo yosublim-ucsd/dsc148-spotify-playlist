@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 3775,
+  "num_followers": 3781,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjc0MWZhODU4M2IxMWNlOTI3NjgzOGZjMThhNzVlM2QzNjkwNDcy",
+  "snapshot_id": "MCwxZDE3MTkzYWZmMjAyMDI2Yjk3MzI3YTQzNDhmNTMxZjM0YjZkOGM1",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI"
     },
     {
-      "added_at": "2023-06-13 01:13:33",
+      "added_at": "2023-06-14 01:14:31",
       "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK"
     },
     {
-      "added_at": "2023-06-13 01:13:33",
+      "added_at": "2023-06-14 01:14:31",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -359,22 +359,6 @@
       "duration_ms": 104389,
       "name": "Spring Approaches",
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 175373,
-      "name": "Birds at the Cemetery",
-      "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -393,7 +377,23 @@
       "url": "https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv"
     },
     {
-      "added_at": "2023-06-13 01:13:33",
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 175373,
+      "name": "Birds at the Cemetery",
+      "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
+    },
+    {
+      "added_at": "2023-06-14 01:14:31",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle"
     },
     {
-      "added_at": "2023-03-01 15:55:04",
+      "added_at": "2023-06-14 01:14:31",
       "album": {
-        "name": "Early Bird Sound",
-        "url": "https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv"
+        "name": "Swedish Forest Birds",
+        "url": "https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4"
       },
       "artists": [
         {
-          "name": "Sweet Sounds of Nature",
-          "url": "https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl"
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
         }
       ],
-      "duration_ms": 141954,
-      "name": "Early Bird Sound",
-      "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
+      "duration_ms": 179000,
+      "name": "Crows In The Forest",
+      "url": "https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -585,23 +585,23 @@
       "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
     },
     {
-      "added_at": "2023-06-13 01:13:33",
+      "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Swedish Forest Birds",
-        "url": "https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4"
+        "name": "Early Bird Sound",
+        "url": "https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv"
       },
       "artists": [
         {
-          "name": "Winding Down",
-          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+          "name": "Sweet Sounds of Nature",
+          "url": "https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Crows In The Forest",
-      "url": "https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8"
+      "duration_ms": 141954,
+      "name": "Early Bird Sound",
+      "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
     },
     {
-      "added_at": "2023-06-13 01:13:33",
+      "added_at": "2023-06-14 01:14:31",
       "album": {
         "name": "Black Birds in the park",
         "url": "https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr"

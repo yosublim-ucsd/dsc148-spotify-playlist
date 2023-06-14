@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 
 > スクウェア・エニックスの多彩な楽曲から、お出かけのお供にぴったりなアップテンポチューンをお届け。A variety/selection of up\-tempo tracks from SQUARE ENX to hit the town\. © 2022 SQUARE ENIX CO., LTD\. All Rights Reserved\. Illustration: TOSHIYUKI ITAHANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,439 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,475 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 | 27 | [FFVII REMAKE: RUN RUN RUN \- Instrumental Ver.](https://open.spotify.com/track/5S5oKA4IIdQ2oPaIDF2NB1) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack \(Plus\)](https://open.spotify.com/album/4plMGSQK9DMXUecQfxpYrB) | 2:31 |
 | 28 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 
-Snapshot ID: `MCwzY2U0ODAwZTU5YTgxMTQ0NDA1NGUwZjE2ZmRmYTdkYjVjZGRjZDMz`
+Snapshot ID: `MCw1ODJjOWQzOWUzMzY4ZTgxYmVmMTBjNDBmMmVhZjNiYzM0NGQyNTEw`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acrobat 곡예사](https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Acrobat 곡예사](https://open.spotify.com/album/2THm7JvUSSTK4wutej90Rx) | 3:06 | 2022-02-17 |  |
+| [Acrobat](https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Acrobat](https://open.spotify.com/album/2THm7JvUSSTK4wutej90Rx) | 3:06 | 2022-02-17 |  |
 | [Actually.\. I miss you \(Feat.Gunho\)](https://open.spotify.com/track/6GI5AwV6rXiAItDCA822NS) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Gunho](https://open.spotify.com/artist/0d9sFHl0tJfMsvOWPjEiDR) | [Actually.\. I miss you](https://open.spotify.com/album/6q71hAOiLmRq1s0t8rvbnF) | 4:14 | 2022-02-17 |  |
 | [Actually.\. I miss you \(Male Ver.\)](https://open.spotify.com/track/4EeG3g4OxU6LJRhxWSxc4s) | [Gunho](https://open.spotify.com/artist/0d9sFHl0tJfMsvOWPjEiDR) | [Actually.\. I miss you](https://open.spotify.com/album/6ksqcwxQKuGRquAqwskFQG) | 4:14 | 2022-02-17 |  |
 | [Again](https://open.spotify.com/track/607muQQkKQGweEVD6hAgwM) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Again](https://open.spotify.com/album/27ht7C1ABq36tw7Z6wMlkE) | 3:32 | 2022-02-17 |  |

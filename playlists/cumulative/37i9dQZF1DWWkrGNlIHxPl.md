@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Llunr
 
-281 songs - 15 hr 48 min
+282 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Busy Body](https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [Busy Body](https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O) | 2:32 | 2021-12-16 | 2022-07-29 |
 | [Busy Body](https://open.spotify.com/track/3jpDQxRLXSMFLcYqGWdSP2) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 2:32 | 2022-07-28 | 2022-10-09 |
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
+| [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 | 2023-06-13 |  |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-04-09 |
 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 | 2023-05-26 | 2023-06-08 |
 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 | 2022-12-07 |  |

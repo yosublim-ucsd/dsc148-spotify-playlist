@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 27671,
+  "num_followers": 27699,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzFjZmE0ZGRlMGQ0MjNhZTc0YjU0YzVhNjc1YWVkMTFiZGNmYmRh",
+  "snapshot_id": "MCw5YWM1M2M1NmRjMGExZTA4YzgwMmY4M2E4MGQ2NGY0ZTRiOTExM2Mz",
   "tracks": [
     {
       "added_at": "2023-06-09 08:58:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-09 08:58:49",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 119426,
-      "name": "Ace In The Hole",
-      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
-    },
-    {
-      "added_at": "2023-06-09 08:58:49",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 163933,
       "name": "Paris Loves Lovers",
       "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
+    },
+    {
+      "added_at": "2023-06-09 08:58:49",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
     },
     {
       "added_at": "2023-06-09 08:58:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-09 08:58:49",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 131173,
-      "name": "Where Oh Where",
-      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
-    },
-    {
-      "added_at": "2023-06-09 08:58:49",
-      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 281733,
       "name": "Blue Swing",
       "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
+    },
+    {
+      "added_at": "2023-06-09 08:58:49",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
     },
     {
       "added_at": "2023-06-09 08:58:49",
@@ -1131,18 +1131,34 @@
     {
       "added_at": "2023-06-09 08:58:49",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
       "artists": [
         {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
     },
     {
       "added_at": "2023-06-09 08:58:49",
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2023-06-09 08:58:49",
       "album": {
-        "name": "Night and Day With Cole Porter",
-        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
-      },
-      "artists": [
-        {
-          "name": "Behia Jazz Band",
-          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Achat",
-          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
-        },
-        {
-          "name": "Manu Carr\u00e9",
-          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
-        },
-        {
-          "name": "Philippe Brassoud",
-          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
-        },
-        {
-          "name": "Philippe Cocogne",
-          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Conversation Blues",
-      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2023-06-09 08:58:49",
-      "album": {
         "name": "The Columbia Years (1943-1952) The Complete Recordings",
         "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168440,
       "name": "You Don't Remind Me",
       "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
+    },
+    {
+      "added_at": "2023-06-09 08:58:49",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     },
     {
       "added_at": "2023-06-09 08:58:49",

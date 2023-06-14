@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,246 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,280 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 40 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
 | 41 | [Morning Song](https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3) | 4:09 |
 | 42 | [Gilimanuk](https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Buoyancy](https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv) | 3:48 |
-| 43 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 |
-| 44 | [Rios Negroes](https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4) | [Lester Bowie](https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf) | [The Great Pretender](https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q) | 7:15 |
+| 43 | [Rios Negroes](https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4) | [Lester Bowie](https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf) | [The Great Pretender](https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q) | 7:15 |
+| 44 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 |
 | 45 | [Autumn Leaves](https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 6:25 |
 | 46 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
 | 47 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 79 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
 | 80 | [Gemini II](https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w) | [Marcus Belgrave](https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX) | [Gemini II](https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm) | 5:37 |
 | 81 | [The Baggae](https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Ada Rovatti](https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW) | [Brecker Plays Rovatti \- Sacred Bond](https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT) | 10:32 |
-| 82 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
-| 83 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
+| 82 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
+| 83 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
 | 84 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
 | 85 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
 | 86 | [I'll Remember April](https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 8:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MCw5MmYxOTc0NjQ2MDZlY2ZkZGIxY2RmODU1MjI4MjRhNzdhNzBiZTEz`
+Snapshot ID: `MCxkOWY3NzI1YjRmMzgyN2Y2ZDI2Mzg1MmNlNjBmZjk3MTVhZTI5NzJl`

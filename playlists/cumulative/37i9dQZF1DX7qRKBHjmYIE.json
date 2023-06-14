@@ -7109,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Underbelly",
+        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358217,
+      "name": "Softy",
+      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
+    },
+    {
+      "album": {
         "name": "Softy",
         "url": "https://open.spotify.com/album/3s9R0yhIMRjegsIJahxPZL"
       },
@@ -7120,7 +7138,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 358217,
       "name": "Softy",
       "url": "https://open.spotify.com/track/6p23mXE5kvaF2fMBdjvcQz"

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-984 songs - 2 day 4 hr 6 min
+985 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Deadweight](https://open.spotify.com/track/57783MWmkGv5gJf3Dc4rBQ) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Deadweight](https://open.spotify.com/album/4EVcampJuzfgkHCg6TTaTG) | 2:53 | 2021-12-10 | 2022-01-08 |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2023-04-10 | 2023-04-12 |
 | [Dear Future Self \(Hands Up\) \[feat\. Wyclef Jean\]](https://open.spotify.com/track/3Fm4KEBiLmj4e3x4Qqv7W0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Dear Future Self \(Hands Up\)](https://open.spotify.com/album/7u4VcQQ0tr36gfYmwdtF9K) | 2:51 | 2022-02-04 | 2022-04-17 |
-| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 | 2023-05-12 |  |
+| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 | 2023-05-12 | 2023-06-14 |
 | [Death Valley Super Bloom](https://open.spotify.com/track/3HBTYhRcV2y29a3Ud8GGpy) | [Thief Club](https://open.spotify.com/artist/3XYxmWiWzgBzEeS3332VfR) | [Death Valley Super Bloom](https://open.spotify.com/album/7Kph0V5yLqh00LVfYMTnqG) | 4:19 | 2021-12-10 | 2022-07-27 |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2021-12-10 |  |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2023-05-13 |
@@ -486,6 +486,7 @@
 | [Kites](https://open.spotify.com/track/6gebyKHq3WuHra8gMvaGzG) | [Sorry Ghost](https://open.spotify.com/artist/01kWaiwBGtk1gsVcMv2m1e) | [Kites](https://open.spotify.com/album/32fSNDE3wM3pCmBnFF8QzV) | 2:39 | 2021-12-10 | 2022-07-03 |
 | [Know It All](https://open.spotify.com/track/0a2q9yM5c6KjVbj3QFxBMD) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Know It All](https://open.spotify.com/album/0G6fuSQGZCqVwSPz1niLwY) | 2:52 | 2023-04-10 | 2023-04-12 |
 | [Know You Too Well](https://open.spotify.com/track/1w1NiyET8kbJ4Po73YO6Er) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Know You Too Well](https://open.spotify.com/album/5WAUYAKKJrVjXx0bsYo2Ze) | 3:30 | 2021-12-10 | 2022-05-27 |
+| [Lacerate](https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Lacerate](https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX) | 3:30 | 2023-06-09 |  |
 | [LAST BREATH](https://open.spotify.com/track/7Cs57jsBlXB0caJJf4uqP3) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [LAST BREATH](https://open.spotify.com/album/5d7HYXAIqT4XgJl9KlVOmj) | 2:12 | 2021-12-10 | 2022-05-14 |
 | [Last Resort \(Reloaded\)](https://open.spotify.com/track/52KlXDEkCkgZxuMjSqzY4L) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Last Resort \(Reloaded\)](https://open.spotify.com/album/3VXjXfZCtUllbqHKAYLSzC) | 2:17 | 2022-02-04 | 2022-12-03 |
 | [Lavender Bones](https://open.spotify.com/track/27wvnSTpsyS9k06aDtXvt8) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Lavender Bones](https://open.spotify.com/album/6CvGI6E8zQzbHLXPEsWnnt) | 3:24 | 2021-12-10 | 2022-05-20 |

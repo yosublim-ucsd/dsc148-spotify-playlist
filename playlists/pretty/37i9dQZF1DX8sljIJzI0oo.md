@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Nicki Nicole & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,894,754 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,906 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [CREAM CARAMEL](https://open.spotify.com/track/4la3LtvfpDLQcS0DXLONEy) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:27 |
 | 25 | [Fatal](https://open.spotify.com/track/73n6qiGIOCKW8eImS71oP7) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [Fatal](https://open.spotify.com/album/25IcGnmcCrXqygh2A3YzYn) | 2:33 |
 
-Snapshot ID: `MCw0NzBjMTk1Y2ZhZDIxYWJkOGM2MDU4ODVkMWViMWU0N2MwN2Q3ZDI3`
+Snapshot ID: `MCwzZmViMjE0M2EzMWY5NzUzMjNmZmY5NzNmN2VkZGVkZDY3YjA4NTgw`

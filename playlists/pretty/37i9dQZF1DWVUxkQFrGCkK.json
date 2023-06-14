@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 172265,
+  "num_followers": 172413,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjJkNTlhNWNiZjg0Yzg2MmMwYzVlMjZmMjdiNzExYTNmNTVjMDJh",
+  "snapshot_id": "MCxlNjFhNDY4NDA1ZWMzZjVhYjUzMTQ3YTI5MmQzZDY3ZGQ1YWI3ZWNl",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Nothing - Original Mix",
-      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Just Can't Get Enough",
         "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 303124,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Nothing - Original Mix",
+      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1111,6 +1111,22 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Black Moses",
+        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 223102,
+      "name": "Sexy Black Timberlake",
+      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 240004,
       "name": "Are U Down - Remix",
       "url": "https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Black Moses",
-        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 223102,
-      "name": "Sexy Black Timberlake",
-      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Violet Drive",
+        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 341088,
+      "name": "Moonbeam, Midnight, Howl",
+      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Fashion Week (with Channel Tres)",
         "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 214575,
       "name": "Fashion Week (with Channel Tres)",
       "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Violet Drive",
-        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 341088,
-      "name": "Moonbeam, Midnight, Howl",
-      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "JOY (Easy To Improve)",
+        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 206892,
+      "name": "JOY (Easy To Improve)",
+      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Care Less (feat. Mafro)",
         "url": "https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 185000,
       "name": "Care Less (feat. Mafro)",
       "url": "https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "JOY (Easy To Improve)",
-        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 206892,
-      "name": "JOY (Easy To Improve)",
-      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "All Over My Body",
         "url": "https://open.spotify.com/album/2W2gJkyxsEOYbmaWXkucQx"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 348387,
       "name": "The Girl Next Door",
       "url": "https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-06-01 22:00:00",

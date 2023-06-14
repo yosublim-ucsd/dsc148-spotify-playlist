@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Vk Mac, Duzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,164 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,184 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 42 | [Amanhã](https://open.spotify.com/track/5yyE3yW8tHIC2A5CQkiRwc) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Amanhã](https://open.spotify.com/album/4nv7vxWqgAI8Qi3Kg801qX) | 2:27 |
 | 43 | [Lúcido](https://open.spotify.com/track/7bXXiyO5hF7wpFDIyxxtxX) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Lúcido](https://open.spotify.com/album/2Kkfd3zaKndUr6SjN41mi5) | 2:37 |
 | 44 | [Alta Renda](https://open.spotify.com/track/2sE9rDEVI9oL1D5WTEdePC) | [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Alta Renda](https://open.spotify.com/album/6bMgOFiFEKI6z9G9nsgq9F) | 1:55 |
-| 45 | [7CostaKent](https://open.spotify.com/track/4du1RlRnKlACvHxqyN8ytL) | [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Bivolt](https://open.spotify.com/artist/5XOJZxLsdUWz78pUpE665i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [7CostaKent](https://open.spotify.com/album/5PjxaQdBJ0Ui3Pi1YWyDl3) | 4:47 |
+| 45 | [7CostaKent](https://open.spotify.com/track/4du1RlRnKlACvHxqyN8ytL) | [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Bivolt](https://open.spotify.com/artist/5XOJZxLsdUWz78pUpE665i) | [7CostaKent](https://open.spotify.com/album/5PjxaQdBJ0Ui3Pi1YWyDl3) | 4:47 |
 | 46 | [Vivendo](https://open.spotify.com/track/3ZPjKXcNmCrA3oxQFfXDCk) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Vivendo](https://open.spotify.com/album/4fMPpIQaJhfWMZmZWiNGMo) | 2:24 |
 | 47 | [Deus é Bom](https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Deus é Bom](https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW) | 3:40 |
 | 48 | [Vodka e Decepções](https://open.spotify.com/track/0PjQdx4p5QwR39ebFWgikS) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Vodka e Decepções](https://open.spotify.com/album/6rhQHAxpCnbe2BPgdR3uHF) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 75 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCw5NWU4ODY3MDYzMWIxNzk4ZjkxZWU3NGRmYzI4MDUwNzMwN2IzYmM1`
+Snapshot ID: `MCxlOTZmNjU4YjJkMDMzMGI0ZThmZDZkODA2NjczZDlhMzg5ZTlhN2Nl`

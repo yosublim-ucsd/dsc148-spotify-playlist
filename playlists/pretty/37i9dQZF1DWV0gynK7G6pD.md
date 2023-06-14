@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Pablo Sáinz\-Villegas
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,433 likes - 73 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,473 likes - 73 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 32 | [In The Stars](https://open.spotify.com/track/7i2o2B7usE58XN14YY7ATR) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [In The Stars](https://open.spotify.com/album/5ITtikez8qEWjd6r2YsEhh) | 3:38 |
 | 33 | [Die Schöne Müllerin, D\. 795: Die Schöne Müllerin, D\. 795: No\. 1, Das Wandern](https://open.spotify.com/track/6XW7Em5TbNdsiIxiHwtMJI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Konstantin Krimmel](https://open.spotify.com/artist/7haZXfmXSoc2UAo4bfSxKo), [Daniel Heide](https://open.spotify.com/artist/6nVQW0e4LsHTKvmelk75fc) | [Die Schöne Müllerin, D\. 795: No\. 1, Das Wandern](https://open.spotify.com/album/7Cnv0Euxd3tnLEIdoBOarm) | 2:48 |
 | 34 | [Piano Concerto in A Minor, Op\. 22: III\. Polonaise\. Allegro moderato](https://open.spotify.com/track/4FjZzlJQDIXUydDAUtYA1u) | [Ricardo Castro](https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057), [Orquesta Sinfónica de Minería](https://open.spotify.com/artist/7fm7jENCAx6n3hPKmswvAL), [Carlos Miguel Prieto](https://open.spotify.com/artist/2CB2wXFPjoehJON13esAaV) | [Conciertos románticos](https://open.spotify.com/album/29YqS7r9AirIjIt2snW5QO) | 7:27 |
-| 35 | [Sally Gardens](https://open.spotify.com/track/15cXvyzZAWMq20USLMoMgz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Viviane Chassot](https://open.spotify.com/artist/4rYXzokxHhpdJ7ubk3Zv78) | [Sally Gardens \(Arr\. for accordion by Martina Schumeckers\)](https://open.spotify.com/album/04f3vSqcKNO8hS2uovf8dP) | 1:39 |
+| 35 | [Sally Gardens \- Arr\. for accordion by Martina Schumeckers](https://open.spotify.com/track/15cXvyzZAWMq20USLMoMgz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Viviane Chassot](https://open.spotify.com/artist/4rYXzokxHhpdJ7ubk3Zv78) | [Sally Gardens \(Arr\. for accordion by Martina Schumeckers\)](https://open.spotify.com/album/04f3vSqcKNO8hS2uovf8dP) | 1:39 |
 | 36 | [String Quartet No\. 2 in G Major: II\. Largo](https://open.spotify.com/track/1aIhxYUFTcM6pRdtTInrCj) | [Peter Arnold Heise](https://open.spotify.com/artist/4jEj03gjhfnKRdTBCrJ0Ex), [Nordic String Quartet](https://open.spotify.com/artist/2JvNhy3OMHR6sQHcyo7ZRy) | [Peter Heise: String Quartets Vol\. 1](https://open.spotify.com/album/1Dc8CAmvRlVU8LyKPCc8Xy) | 6:34 |
 | 37 | [La Minerva \- II\. Polka Taconeada](https://open.spotify.com/track/5UrqarDpWaqGTZuVNC3US5) | [Juan Pablo Contreras](https://open.spotify.com/artist/34y3hToaaj8cIOf1bx18Hb), [Angélica Olivo](https://open.spotify.com/artist/761WF3fUaVqw1IIruHiOaj) | [La Minerva \- II\. Polka Taconeada](https://open.spotify.com/album/2GkNiJqErdVKmI7fc09Y4p) | 3:58 |
 | 38 | [Dies Irae](https://open.spotify.com/track/6iLf1StORLsFEpn8hhndsn) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Dies Irae](https://open.spotify.com/album/0Hi8v1HBS2tM9dio0CcFv4) | 1:44 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 72 | [Violin Concerto No\. 1 "Patientia": Patientia](https://open.spotify.com/track/6kcDNJDYxsaZT5qqUeeJM6) | [Kjetil Bjerkestrand](https://open.spotify.com/artist/4sN0cvmzEz8vzY6G0010Nd), [Sara Övinge](https://open.spotify.com/artist/0hoKJio1ECgY1ZvNEj55VH), [Anja Lauvdal](https://open.spotify.com/artist/2uxb12NuFW8uJAHt6CxcGk), [Norwegian Chamber Orchestra](https://open.spotify.com/artist/0d9lUpaO0F9TJH1mEJ3Ec5) | [Violin Concerto No\. 1 "Patientia": Patientia](https://open.spotify.com/album/0svHPVpEPGuGcLx7imou0H) | 4:51 |
 | 73 | [Capriccio sopra La Battaglia, F 2.31](https://open.spotify.com/track/5Se3s0wbqCEbEH7VhEAojy) | [Girolamo Frescobaldi](https://open.spotify.com/artist/3t1716FlIhsjG7C26XkR2F), [Francesco Corti](https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2) | [Capriccio sopra La Battaglia, F 2.31](https://open.spotify.com/album/55vRFhrMb04S6vdRQUbOdN) | 2:05 |
 
-Snapshot ID: `MCwwYmZiYzExNGIzZWIxMzhlZGU2MzZkOTVmNzc2NWE1ZTQ5NmQxMTkw`
+Snapshot ID: `MCxlYzRhNzY5ZGFmZmVmZmZmODE1NTFkYjI2N2U1MzdhNmMxNzkyOTdh`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-289 songs - 14 hr 32 min
+290 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Drop In The Ocean](https://open.spotify.com/track/2sPGbO0TWLwBCL2Q1i1e6H) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Harry Taylor](https://open.spotify.com/artist/290yQM2xoSurRtxeDSMUmC), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Drop In The Ocean](https://open.spotify.com/album/2T53UGJPnAa9kjl28eOLU1) | 2:43 | 2023-01-19 |  |
 | [Drowning](https://open.spotify.com/track/1a7FNZoBkQIFYWFWCocB7w) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Drowning](https://open.spotify.com/album/1wEBa3YidIypzvGDLJ9Vvo) | 3:06 | 2023-05-11 |  |
 | [Dum Dum](https://open.spotify.com/track/42UU54WpkAm5aLfGucwY6F) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Dum Dum](https://open.spotify.com/album/5QjP2SGYlzyRuM32Wtx8ck) | 2:47 | 2023-02-03 |  |
+| [Dust](https://open.spotify.com/track/30cXoicUeZ5X4Q815gurvY) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dust](https://open.spotify.com/album/6x7Rprgje00vQm6MfFhp6a) | 3:52 | 2023-06-13 |  |
 | [Dynamiser](https://open.spotify.com/track/0OCkTNAy4sPrfvszddvt1k) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Dynamiser](https://open.spotify.com/album/1aiS0GZCYo6b5JwnQQP1fD) | 4:10 | 2023-02-15 |  |
 | [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 | 2023-04-28 |
 | [Ego](https://open.spotify.com/track/5p6r0N9T6Z9dhjKYklLLqY) | [Syntact](https://open.spotify.com/artist/07Wf444cHLc9Qju8MhHD2f) | [Ego](https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z) | 4:07 | 2022-11-17 | 2023-04-28 |

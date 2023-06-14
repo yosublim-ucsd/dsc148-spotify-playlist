@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 149052,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3hIJhEVAMGNKArewusKklB"
@@ -5136,7 +5136,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 174045,
       "name": "D\u017eanum",
       "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 223216,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
@@ -8080,7 +8080,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 233881,
       "name": "Krasiv geroy",
       "url": "https://open.spotify.com/track/6UyMkM4523bYKwHIIrfuJu"
@@ -9796,7 +9796,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11056,6 +11056,28 @@
       "duration_ms": 174560,
       "name": "Metro Spider (with Young Thug)",
       "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
+    },
+    {
+      "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/64NxNJu8CtmgiM5cfrLwpR"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137440,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/1IVB2M6ztwMMV0JSmtNDAh"
     },
     {
       "album": {
@@ -12404,7 +12426,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Nqma Kak",
       "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
@@ -17018,7 +17040,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 186772,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7yKsEFa4qLc9unbFWZWXKt"
@@ -17710,7 +17732,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 127245,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/3c6Xqcu053Y8vPG1Yw1VCW"
@@ -20780,7 +20802,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 193043,
       "name": "\u0417\u0434\u0440\u0430\u0432. \u042f\u043a. \u0421\u0438\u043b\u0435\u043d. \u0421\u0442\u0430\u0431\u0438\u043b\u0435\u043d.",
       "url": "https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rondodasosa, Shiva, Medy, Villabanks e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,882 likes - 95 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,922 likes - 95 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [Ti dispiace](https://open.spotify.com/track/53bYfaRF34j3nXQ40TdpDF) | [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq) | [Ti dispiace](https://open.spotify.com/album/6LM493lAe1fqPW23VbmmUe) | 3:05 |
 | 32 | [Dopo i 30](https://open.spotify.com/track/2z8Xrz73G5AlR2G1FolNxL) | [Warez](https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s) | [Dopo i 30](https://open.spotify.com/album/0adchD3h2rOdBM2SGWg4A3) | 1:28 |
 | 33 | [Bando Lover](https://open.spotify.com/track/4tgTfdc2nOX5xW0ASACkJY) | [RICOTB](https://open.spotify.com/artist/1zAEGdUpEdsETp4374uJog), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [Bando Lover](https://open.spotify.com/album/23kbDS4CvK4wHmQHjTqFyQ) | 2:58 |
-| 34 | [Muri](https://open.spotify.com/track/63zno3PXOCGvfzlmDA8rxa) | [Leobuten](https://open.spotify.com/artist/7fjXoaHemic6BXwjhAKkFa), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Muri](https://open.spotify.com/album/02TzeTcGaI7hz1HPkQn5Ag) | 2:31 |
+| 34 | [Muri](https://open.spotify.com/track/63zno3PXOCGvfzlmDA8rxa) | [Leobuten](https://open.spotify.com/artist/7fjXoaHemic6BXwjhAKkFa), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg), [Il Tre Beats](https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19) | [Muri](https://open.spotify.com/album/02TzeTcGaI7hz1HPkQn5Ag) | 2:31 |
 | 35 | [Giuro](https://open.spotify.com/track/0ok5Hnc5JESapAr4CMrpz8) | [FLOW NASA](https://open.spotify.com/artist/7q9IqBZ3tqqLAVcD7c6eMY) | [Giuro](https://open.spotify.com/album/72MmUX9IhuN0RJWYlGabNm) | 3:06 |
 | 36 | [Malamente](https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:01 |
 | 37 | [Tagli come Sorrisi](https://open.spotify.com/track/7JqVRBuz30XoBlmg1eY8SI) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [BRAVA GENTE](https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g) | 2:37 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Gotham](https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP), [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Gotham](https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ) | 2:46 |
 | 95 | [SeVilla](https://open.spotify.com/track/0jUKFgZqtTyqGONRe6Ysm3) | [PACOSKI](https://open.spotify.com/artist/6JYRBnw3eN2qidujSRnuN6) | [SeVilla](https://open.spotify.com/album/0Qb4Lk69KfWRSpEmFzmugT) | 3:15 |
 
-Snapshot ID: `MCwwYzYwMzNkZWRmOTk5ZDE3YjFjZDE2NjBjNjE2ZjQ5OTBiZTlhNmI2`
+Snapshot ID: `MCxlNjQ0NWI4YjI2MmFiZTQ2MjdmMTNjNmQyNWE2MWQzZmU0OTQ0NjE3`

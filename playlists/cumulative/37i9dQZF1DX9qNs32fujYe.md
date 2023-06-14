@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-730 songs - 2 day 6 hr 18 min
+731 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Dream Evil](https://open.spotify.com/track/46pYb7E4gTw26dV5l45Mbv) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [SIX](https://open.spotify.com/album/3f9F7whVHMY4PyW7vWpLxi) | 5:19 | 2022-02-11 | 2022-04-20 |
 | [Drilled to Kill](https://open.spotify.com/track/16jJ0Od4C5K6IiOT0fVdxe) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Drilled to Kill](https://open.spotify.com/album/4jRqlkUhnjE7Dr9aVNXfMg) | 4:31 | 2021-12-17 | 2022-06-05 |
 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 | 2022-08-19 | 2023-06-12 |
+| [Du hast](https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:55 | 2023-05-26 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-07-13 | 2022-12-16 |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
@@ -201,7 +202,7 @@
 | [Eye of the Storm](https://open.spotify.com/track/5GKkwG5vl13DHxcUxFBSTm) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 4:26 | 2022-07-08 | 2023-03-11 |
 | [Eye to Eye](https://open.spotify.com/track/3ojlZUEkinb7XA4tZuvx3y) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Eye to Eye](https://open.spotify.com/album/1qzFtzzRawXfGTKHCgaCBG) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [Face of a Stranger](https://open.spotify.com/track/5YAsSHVStxtvvwV00I5YS1) | [Dirkschneider & The Old Gang](https://open.spotify.com/artist/73DIu6RIaKNp8t620RoMmX), [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Face of a Stranger](https://open.spotify.com/album/2dCDKEr7baSxy6M8ougCDx) | 4:57 | 2021-12-17 | 2022-07-27 |
-| [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 | 2023-03-03 |  |
+| [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 | 2023-03-03 | 2023-06-14 |
 | [Fall to Ascend](https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4) | [Sons Of Apollo](https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f) | [Fall to Ascend](https://open.spotify.com/album/4mQXlEaXmCJ7o3Tlyv644R) | 5:06 | 2022-03-22 | 2022-04-21 |
 | [Fantastic Fanatic](https://open.spotify.com/track/4CS2xmBlMUkofGLnxxkjZQ) | [Anette Olzon](https://open.spotify.com/artist/37561fPR6pVMtyLd3eOFys) | [Fantastic Fanatic](https://open.spotify.com/album/4nentsXrhiiAntPbgAYy0c) | 5:06 | 2021-12-17 | 2022-07-20 |
 | [Far from the Sanctuary](https://open.spotify.com/track/5pnHwLdIvwp1IPXmQJmaBc) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Far from the Sanctuary](https://open.spotify.com/album/6AyVramQtU4y5r3s5R3Org) | 4:17 | 2021-12-29 | 2022-04-14 |

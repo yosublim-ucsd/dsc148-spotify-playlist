@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 72557,
+  "num_followers": 72626,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE1MjFkMjUxNmFhMjY4YTUwMDllYmQwNjQxYTM0NjQwZDAzZDY3",
+  "snapshot_id": "MCw3ZmFjNWU4NmUxMjViZDc2YjllNWZlNzNhZGMwNGY4OTdjNTc4NGMw",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/0Rz64BMaXSXvcKhCAArE0N"
-      },
-      "artists": [
-        {
-          "name": "D'Moov",
-          "url": "https://open.spotify.com/artist/0WwhZixKFdbA82jqpKWaKO"
-        },
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        },
-        {
-          "name": "Frankie Feliciano",
-          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
-        }
-      ],
-      "duration_ms": 433729,
-      "name": "For The Love Of You - Frankie Feliciano Ricanstruction Vocal Mix",
-      "url": "https://open.spotify.com/track/1AYiU9FfDyGcYcQ7237fuN"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Come Into My Room (feat. LT Brown)",
         "url": "https://open.spotify.com/album/5WrmnglLTGjjsLvI1Sn0pa"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 468613,
       "name": "Come Into My Room (feat. LT Brown) - Take It Back Mix",
       "url": "https://open.spotify.com/track/2jinUjEUJEkE7g8MMHy2jp"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/0Rz64BMaXSXvcKhCAArE0N"
+      },
+      "artists": [
+        {
+          "name": "D'Moov",
+          "url": "https://open.spotify.com/artist/0WwhZixKFdbA82jqpKWaKO"
+        },
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        },
+        {
+          "name": "Frankie Feliciano",
+          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
+        }
+      ],
+      "duration_ms": 433729,
+      "name": "For The Love Of You - Frankie Feliciano Ricanstruction Vocal Mix",
+      "url": "https://open.spotify.com/track/1AYiU9FfDyGcYcQ7237fuN"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
         "url": "https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 569724,
       "name": "Dance - Louie Vega Dance Ritual Mix",
       "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
-      },
-      "artists": [
-        {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
-        }
-      ],
-      "duration_ms": 463320,
-      "name": "Poor People - Big Room Mix",
-      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Future Retro",
-        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
       },
       "artists": [
         {
-          "name": "The Layabouts",
-          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
-        },
-        {
-          "name": "Portia Monique",
-          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
         }
       ],
-      "duration_ms": 266273,
-      "name": "Bring Me Joy",
-      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
+      "duration_ms": 463320,
+      "name": "Poor People - Big Room Mix",
+      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1215,6 +1195,26 @@
       "duration_ms": 389066,
       "name": "Pride - Main Mix",
       "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Future Retro",
+        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
+      },
+      "artists": [
+        {
+          "name": "The Layabouts",
+          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+        }
+      ],
+      "duration_ms": 266273,
+      "name": "Bring Me Joy",
+      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Never Saw You Coming",
-        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Tsepo",
-          "url": "https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt"
-        },
-        {
-          "name": "DJ Spinna",
-          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
-        }
-      ],
-      "duration_ms": 508266,
-      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
-      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Free Pt. I",
         "url": "https://open.spotify.com/album/5mWpWGOgxSZ1obP7ZrXi5h"
       },
@@ -1479,6 +1455,30 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Never Saw You Coming",
+        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tsepo",
+          "url": "https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt"
+        },
+        {
+          "name": "DJ Spinna",
+          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
+        }
+      ],
+      "duration_ms": 508266,
+      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
+      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
         "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Je Ka Jo - Demo Mix",
+      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Joey Negro presents 30 Years of Z Records",
         "url": "https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 271680,
       "name": "Change for Me - Joey Negro Radio Edit",
       "url": "https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
-      },
-      "artists": [
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "Je Ka Jo - Demo Mix",
-      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
-        "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
       "artists": [
         {
-          "name": "4hero",
-          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
         }
       ],
-      "duration_ms": 439346,
-      "name": "Hold It Down - Bugz In The Attic's Co-Operative Mix",
-      "url": "https://open.spotify.com/track/32c0Uo9hITRnFqrfrmiQ4f"
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
+        "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
+      },
+      "artists": [
+        {
+          "name": "4hero",
+          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+        }
+      ],
+      "duration_ms": 439346,
+      "name": "Hold It Down - Bugz In The Attic's Co-Operative Mix",
+      "url": "https://open.spotify.com/track/32c0Uo9hITRnFqrfrmiQ4f"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2511,6 +2511,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Tkumah Sadeek",
+          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+        }
+      ],
+      "duration_ms": 530459,
+      "name": "Crossroads - Vocal Mix",
+      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Sermon One EP (feat. Ron Carroll)",
         "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
       },
@@ -2535,22 +2555,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+        "name": "Deep Creations EP",
+        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
       },
       "artists": [
         {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Tkumah Sadeek",
-          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+          "name": "Jon Cutler",
+          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
         }
       ],
-      "duration_ms": 530459,
-      "name": "Crossroads - Vocal Mix",
-      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+      "duration_ms": 421935,
+      "name": "Headz",
+      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2567,22 +2583,6 @@
       "duration_ms": 313893,
       "name": "Love and Devotion-Porgy and Bess Mix",
       "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Deep Creations EP",
-        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
-      },
-      "artists": [
-        {
-          "name": "Jon Cutler",
-          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
-        }
-      ],
-      "duration_ms": 421935,
-      "name": "Headz",
-      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
     },
     {
       "added_at": "2023-03-07 17:49:21",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Extreme
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,344 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,414 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THICKER THAN BLOOD](https://open.spotify.com/track/7byjjkcXgZWd18JIdcKfUo) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [SIX](https://open.spotify.com/album/2aC2YH2ZxdTGgni85OcNu5) | 3:46 |
 | 2 | [Adderall \- No Intro](https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Adderall](https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH) | 4:36 |
-| 3 | [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 |
+| 3 | [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 |
 | 4 | [Victorious \(feat\. Dorothy\)](https://open.spotify.com/track/4uhAS5113m2lWYl9bfkUi0) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Victorious \(feat\. Dorothy\)](https://open.spotify.com/album/5yYkMlfXP7lsaFL4dPBh48) | 3:41 |
 | 5 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 |
 | 6 | [Lost Without You](https://open.spotify.com/track/7LZQjkqciUCjK13rCQhGkR) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Lost Without You](https://open.spotify.com/album/1NNnYIKsTFqmIQNicmPbLF) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [The Art of Dispute](https://open.spotify.com/track/5VTfmdBb9QJEej7FBcfkon) | [The Silenced](https://open.spotify.com/artist/0DZCezScbs2rnECvw7PEdY) | [The Art of Dispute](https://open.spotify.com/album/3CvEbevV6wmfqF74RE7NZl) | 4:15 |
 | 50 | [Street Trash](https://open.spotify.com/track/1qP2OWFLbP3CHJo5Se0kXB) | [Eight Sins](https://open.spotify.com/artist/5M7auDu0v1IOATDBxQVfIM) | [Street Trash](https://open.spotify.com/album/0MuYBRehP3E7fu9fDLjMdS) | 3:05 |
 
-Snapshot ID: `MCxlZWZiNTk4NGM3MWRjNjRiMjZkZjU2ZmJjNzhjNjM1ZGJlZjQ5NTg2`
+Snapshot ID: `MCw1YzMzNTYxYWMzMDk5OTYxMjgzNTUyOGQzZTY1MWRmY2EwY2ExMmNm`

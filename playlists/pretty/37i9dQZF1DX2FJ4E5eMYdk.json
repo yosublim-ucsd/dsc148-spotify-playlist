@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 142145,
+  "num_followers": 142253,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzIyOWY1MTRiZmE2ZmUwOTk4OTJkMWVjOTgxYjBjOWFmN2JhYTJi",
+  "snapshot_id": "MCxiNjA4ZWJmNTZmZTUwM2I4NTZhYzc2ZGMxYWJjNTA5ZWY5NjhhZTli",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
+      "duration_ms": 447998,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 447998,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+        "name": "Panther in the Dollhouse",
+        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
       "artists": [
         {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
         }
       ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+      "duration_ms": 203319,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Panther in the Dollhouse",
-        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-641 songs - 1 day 23 hr 1 min
+642 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [6th Avenue Heartache \- Radio Edit](https://open.spotify.com/track/5zJbd4m9rRJxmCTClWMadL) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [6th Avenue Heartache](https://open.spotify.com/album/6inGN7xb6EAodDj0TDKDF5) | 4:26 | 2022-04-28 | 2022-07-28 |
 | [A Change Would Do You Good](https://open.spotify.com/track/7e76lQ3YBwyO4LgaUabYrG) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 3:50 | 2022-04-28 | 2022-07-26 |
 | [A Cloak Of Elvenkind](https://open.spotify.com/track/6f65alTsp8H5BBd7MKh2Ya) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:59 | 2022-04-28 | 2022-07-22 |
-| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 |  |
+| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 | 2023-06-14 |
 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 | 2022-04-28 |  |
 | [A Murder Of One](https://open.spotify.com/track/7ye3N9FfQLnLNH6VxBlZA0) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 5:43 | 2022-04-28 | 2022-07-29 |
 | [Acrobat](https://open.spotify.com/track/7AGGClp7SmBnepuiua7DPG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:30 | 2022-04-28 | 2022-07-29 |
@@ -126,7 +126,7 @@
 | [Debra](https://open.spotify.com/track/6aLmvz0CPeCNHCXK2H5QIC) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Midnite Vultures](https://open.spotify.com/album/5Mk8LGoWoPg0igqQXprzfR) | 5:43 | 2022-04-28 | 2022-05-25 |
 | [Decadence Dance](https://open.spotify.com/track/2idPUsZmnCxV9j6AR10ohC) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 6:49 | 2022-04-28 | 2022-07-01 |
 | [Deep Inside of You \- 2008 Remaster](https://open.spotify.com/track/06iQLLK93Dlv7RcvzmZo2g) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Blue](https://open.spotify.com/album/7z6LqzGLGd6tnWvsH9iojB) | 4:10 | 2022-04-28 | 2022-07-28 |
-| [Denial](https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Home](https://open.spotify.com/album/0oSbjRKcORa1iN2wTcQYqf) | 4:17 | 2022-04-28 | 2023-05-19 |
+| [Denial](https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Home](https://open.spotify.com/album/0oSbjRKcORa1iN2wTcQYqf) | 4:17 | 2022-04-28 |  |
 | [Desperate Andy](https://open.spotify.com/track/5uF13htfgQxdBpNtpaqUBT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:44 | 2022-04-28 | 2022-07-18 |
 | [Desperately Wanting](https://open.spotify.com/track/7GuLQiPvQbfzP0kqcvgIQQ) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Friction Baby](https://open.spotify.com/album/7aVHqEFKpPIKmrniwwViom) | 4:37 | 2022-04-28 |  |
 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 | 2022-04-28 | 2022-07-29 |
@@ -192,7 +192,7 @@
 | [Galapogos \- Remastered 2012](https://open.spotify.com/track/2yKrGPtIwsiwv5tGTDgpNd) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:46 | 2022-04-28 | 2022-07-01 |
 | [Get The Funk Out](https://open.spotify.com/track/5nDY2KxY4o4kiBxO1tGDGe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 4:23 | 2022-04-28 | 2022-07-29 |
 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 | 2022-04-28 |  |
-| [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 | 2022-04-28 |  |
+| [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 | 2022-04-28 | 2023-06-14 |
 | [Give In to Me](https://open.spotify.com/track/1euDTbMNRPNfKd8zZz4zTT) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 5:28 | 2022-04-28 |  |
 | [Given to Fly](https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:58 | 2022-04-28 |  |
 | [Goddamn Devil](https://open.spotify.com/track/4ZOEkqyV2HJLP6g5ObIHej) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:54 | 2022-04-28 | 2022-06-30 |
@@ -405,6 +405,7 @@
 | [Pumping On Your Stereo](https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz) | 3:20 | 2022-04-28 | 2022-07-29 |
 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 | 2022-04-28 | 2022-09-06 |
 | [Punk Rock Song](https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:27 | 2022-04-28 |  |
+| [Pure](https://open.spotify.com/track/0a82sKc2ZEDcvvl8aekakp) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/0p9UOhjPADXDVJUzk4bZv0) | 3:47 | 2023-01-18 |  |
 | [Pure](https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/7gjtAtqpEZhYLCUnJvbzOn) | 3:47 | 2022-04-28 | 2022-06-12 |
 | [Pure Massacre](https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:58 | 2022-04-28 | 2022-07-28 |
 | [Pure Morning](https://open.spotify.com/track/1TqmZVIyeD4aN4Wa0wbnfy) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 4:14 | 2022-04-28 | 2022-10-13 |

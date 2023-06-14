@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "happy ending",
+        "url": "https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229847,
+      "name": "happy ending",
+      "url": "https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt"
+    },
+    {
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -526,6 +544,24 @@
       "duration_ms": 201973,
       "name": "Hontowane,",
       "url": "https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "how many times",
+      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
     },
     {
       "album": {
@@ -616,7 +652,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 168705,
       "name": "KOINODHISUMAXTUCHIN",
       "url": "https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl"
@@ -750,6 +786,28 @@
       "duration_ms": 236466,
       "name": "Negau Yoru",
       "url": "https://open.spotify.com/track/0EkZthPot9kiQ1roxjD80n"
+    },
+    {
+      "album": {
+        "name": "Never Ever Forever (She said)",
+        "url": "https://open.spotify.com/album/6nKOoOaYjbDmmheG7aeHML"
+      },
+      "artists": [
+        {
+          "name": "He & She",
+          "url": "https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U"
+        },
+        {
+          "name": "Asako",
+          "url": "https://open.spotify.com/artist/5W5T6gpAEddvLwKsjgBhhO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217166,
+      "name": "Never Ever Forever (She said)",
+      "url": "https://open.spotify.com/track/5dADNNtKoEGs0nr6GgMDoR"
     },
     {
       "album": {
@@ -890,7 +948,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 193012,
       "name": "Stand by me, Stand by you.",
       "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
@@ -1070,7 +1128,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 223186,
       "name": "Walking with you",
       "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
@@ -1088,7 +1146,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 251797,
       "name": "Yearning after You",
       "url": "https://open.spotify.com/track/3RDOCf6cQBNSRO1t9CglUl"
@@ -1239,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "\u604b\u611b\u81f3\u4e0a\u4e3b\u7fa9",
+        "url": "https://open.spotify.com/album/3wd2Js2vgvDwTRgDVWtrgr"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "\u305f\u3060\u305d\u308c\u3060\u3051",
+      "url": "https://open.spotify.com/track/36SIW9lTd7Aa4oStAC9y1E"
+    },
+    {
+      "album": {
         "name": "\u305f\u3060\u305d\u308c\u3060\u3051\u306e\u3053\u3068\u304c\u3055",
         "url": "https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK"
       },
@@ -1250,7 +1326,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 253640,
       "name": "\u305f\u3060\u305d\u308c\u3060\u3051\u306e\u3053\u3068\u304c\u3055",
       "url": "https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze"
@@ -1410,7 +1486,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 164750,
       "name": "\u30a2\u30d5\u30ed\u30c7\u30a3\u30b8\u30a2\u30c3\u30af",
       "url": "https://open.spotify.com/track/2TVvsrZVirk6zXluLvSAE9"
@@ -1526,6 +1602,24 @@
       "duration_ms": 177357,
       "name": "\u30d4\u30f3\u30af\u306e\u9aea",
       "url": "https://open.spotify.com/track/56V7casJFyKngwOksqwWD0"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
     },
     {
       "album": {
@@ -1929,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u3092\u3084\u3081\u306a\u3044",
+        "url": "https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206312,
+      "name": "\u611b\u3092\u3084\u3081\u306a\u3044",
+      "url": "https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx"
+    },
+    {
+      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -1994,7 +2106,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 261546,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"

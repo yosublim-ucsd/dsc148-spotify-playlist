@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,195 likes - 61 songs - 3 hr 28 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,209 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 |
 | 59 | [Gotta Let Go](https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Adriano](https://open.spotify.com/artist/16rL3ixuAl02NLL6uTCt54) | [Gotta Let Go](https://open.spotify.com/album/0JA4OsVQ4nNNmN4gCzLW09) | 2:51 |
 | 60 | [New Worlds](https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [New Worlds](https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw) | 3:12 |
-| 61 | [Foggy Morning](https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Foggy Morning](https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0) | 4:16 |
 
-Snapshot ID: `NDI1MyxhNjQ0ZmUzMjY2MTQ2ODE5Yzg0ZjJkNTM5MjA0NmE0NTk2ODcxZTAx`
+Snapshot ID: `NDI1NCwxZjQ2ZTZlMGY4MDhkZjA2YWIzNjFhZDAxZjUyMTBjYTE3ZTYyOTdh`

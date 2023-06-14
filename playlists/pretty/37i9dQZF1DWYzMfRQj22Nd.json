@@ -1,12 +1,12 @@
 {
   "description": "Taking the big steps with Drum & Bass.",
-  "num_followers": 310232,
+  "num_followers": 310288,
   "original_name": "Stepping Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2VkNzkwNWRiNWUyZGQxMjQ0Y2NiNmRjNDIyMGRjMDhhZDdiNzU4",
+  "snapshot_id": "MCwyNTAzMTY1OGQ4NmJjNmZkMDE5NGIyNjk4NmM2NmJlMDFjODA2YWE2",
   "tracks": [
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
+        "name": "Mac 19",
+        "url": "https://open.spotify.com/album/3o5z18YGRU28DOYMRlmQyK"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Mac 19",
+      "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
         "name": "Musket (feat. Flowdan)",
         "url": "https://open.spotify.com/album/1OakoC3ZL4UKFe1ymOPsqF"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 183409,
       "name": "Musket (feat. Flowdan)",
       "url": "https://open.spotify.com/track/5m071hCqm8urehS1fSn2FN"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
-        "name": "Mac 19",
-        "url": "https://open.spotify.com/album/3o5z18YGRU28DOYMRlmQyK"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Mac 19",
-      "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
+        "name": "Sequel",
+        "url": "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 202068,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/4p6xkRMKsCVfM4vDpMDyOI"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
         "name": "Gangrene",
         "url": "https://open.spotify.com/album/4JoNOm2KEFlr3x43Jrrebi"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 179310,
       "name": "Gangrene",
       "url": "https://open.spotify.com/track/51c2NaSZt7w7I6lqdTJNr0"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
-        "name": "Sequel",
-        "url": "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 202068,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/4p6xkRMKsCVfM4vDpMDyOI"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
-        "name": "Butterfly Effect (Deluxe)",
-        "url": "https://open.spotify.com/album/15YbZYNxPlJDPXrkIrkwjZ"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n"
       },
       "artists": [
         {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
         }
       ],
-      "duration_ms": 237241,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/3NLr3Lsc9DnhJd9ObpoY3x"
+      "duration_ms": 224827,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1367,62 +1371,18 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/6suMQNC0sVUeqetUXbR6Dc"
+        "name": "Butterfly Effect (Deluxe)",
+        "url": "https://open.spotify.com/album/15YbZYNxPlJDPXrkIrkwjZ"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Sophon",
-          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         }
       ],
-      "duration_ms": 243448,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/6CUXW04kU5ZgdIeMqt0xQv"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n"
-      },
-      "artists": [
-        {
-          "name": "Feint",
-          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
-        },
-        {
-          "name": "Josh Rubin",
-          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
-        }
-      ],
-      "duration_ms": 224827,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
-        "name": "I Need To Feel",
-        "url": "https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "I Need To Feel",
-      "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
+      "duration_ms": 237241,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3NLr3Lsc9DnhJd9ObpoY3x"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1447,6 +1407,46 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
+        "name": "I Need To Feel",
+        "url": "https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "I Need To Feel",
+      "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6suMQNC0sVUeqetUXbR6Dc"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Sophon",
+          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+        }
+      ],
+      "duration_ms": 243448,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6CUXW04kU5ZgdIeMqt0xQv"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra"
       },
@@ -1459,30 +1459,6 @@
       "duration_ms": 288095,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        },
-        {
-          "name": "Amber Coffman",
-          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Hold On - Sub Focus Remix",
-      "url": "https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1507,6 +1483,30 @@
       "duration_ms": 331733,
       "name": "Ray Of Sun - Sub Focus & Wilkinson",
       "url": "https://open.spotify.com/track/4D6bJk8Ljhrcns6SOyg4kT"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Hold On - Sub Focus Remix",
+      "url": "https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP"
     },
     {
       "added_at": "2023-06-02 17:16:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-02 17:16:20",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 248965,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
-    },
-    {
-      "added_at": "2023-06-02 17:16:20",
-      "album": {
         "name": "Leaving Now",
         "url": "https://open.spotify.com/album/5stUlN0v1nytmQCT0LJIFu"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 237176,
       "name": "Leaving Now",
       "url": "https://open.spotify.com/track/7ihkvdMXVPA1Lro3zAxWm2"
+    },
+    {
+      "added_at": "2023-06-02 17:16:20",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 248965,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
     },
     {
       "added_at": "2023-06-02 17:16:20",

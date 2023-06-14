@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Dr\. Romantic\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 낭만닥터 김사부\)
 
-640 songs - 1 day 14 hr 49 min
+643 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-06-09 | 2022-08-13 |
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-11 | 2022-08-03 |
 | [Did \- Thirty\-nine Version](https://open.spotify.com/track/54LmAfM47Qn5ZgH16XV1lY) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 | 2022-03-29 | 2022-06-19 |
+| [Did It Myself](https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7tvF6pG0ePx0GFwmNPKpqX) | 2:51 | 2023-06-13 |  |
 | [Dive in](https://open.spotify.com/track/4yHhwyXtVCanRjza5jEqiN) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Military Prosecutor Doberman, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/04Dn00xOPxUV3LPVmMaSDd) | 3:59 | 2022-04-21 | 2022-06-29 |
 | [Dive into you](https://open.spotify.com/track/4EIYGehF9auPB6JL2BEt8e) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Crazy Love \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0SmnPJBxSu3uQbLlOVVLBw) | 3:26 | 2022-03-29 | 2022-06-19 |
 | [Do you know](https://open.spotify.com/track/33hPRJMBSC13G0gkD0lJw4) | [Kim Min Wool](https://open.spotify.com/artist/1tr7Tbjy9BYFpSG9bbyhrt) | [Bravo, My Life OST Part.11](https://open.spotify.com/album/1qRy1qk7PpUb1FV1frmkI6) | 3:54 | 2022-06-09 | 2022-08-13 |
@@ -241,6 +242,7 @@
 | [I loved you](https://open.spotify.com/track/4IlBUBDdw9V9In4OCjeQFj) | [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [Red Shoes OST Part.12](https://open.spotify.com/album/3PjGZ3MWQB8gWDvuLCmbux) | 3:19 | 2021-12-19 | 2021-12-25 |
 | [I Miss You](https://open.spotify.com/track/3jthSHYaQFSh1sVNWozoxM) | [Ju Daegeon](https://open.spotify.com/artist/6j0G3lePpk58Xr0EULDB8e) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4Fy1PunmcyahCan6BpljxR) | 3:36 | 2023-02-09 | 2023-06-03 |
 | [I Miss You](https://open.spotify.com/track/6AXqsbRU3snGXnibiW0WOw) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/2dlACO4DLIYaJJzCheVRq0) | 4:12 | 2021-12-19 | 2022-03-10 |
+| [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 | 2023-06-13 |  |
 | [I Remember You](https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Mental Coach Jegal, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2TX54rHWegMmVQOiP4JYQ3) | 3:11 | 2022-10-01 | 2023-01-14 |
 | [I See You Like I See the Sun](https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2023-01-03 | 2023-03-28 |
 | [I want to know](https://open.spotify.com/track/1WZ3KuYwOsnS0kG7biDQo2) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Time of Memory OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/6tN37nhCKW9GCQ2D3XyaA5) | 4:38 | 2023-01-13 | 2023-04-19 |
@@ -571,6 +573,7 @@
 | [Watch Me](https://open.spotify.com/track/2xpDd1NqdYAtG2TtP0QLH9) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Inspector Koo \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1DAkuE9I931sRb2ceMqBl4) | 2:52 | 2021-12-19 | 2022-03-04 |
 | [Watcha Original <Inside Lyrics> \`It rains\`](https://open.spotify.com/track/0Jvt4cDEmOPUKWSV1z2bUG) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Watcha Original <Inside Lyrics> \`It rains\`](https://open.spotify.com/album/2dKLGsdKHhl0JpYD7tzgAM) | 4:06 | 2022-09-19 | 2023-01-14 |
 | [Watcha Original <Inside Lyrics> \`Ung\`](https://open.spotify.com/track/18cweIkN6EieyrdieCnSOv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Watcha Original <Inside Lyrics> \`Ung\`](https://open.spotify.com/album/6XtvjhgO7LbHNL6yynVbVY) | 2:56 | 2022-09-19 | 2023-01-14 |
+| [Waterfall](https://open.spotify.com/track/5n9VpeMnT7qQfsWg8J2WM0) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [RACE \(Original Television Soundtrack\)](https://open.spotify.com/album/4ezmaeMbq8srJ52piAYy1m) | 3:35 | 2023-06-13 |  |
 | [Way Back then](https://open.spotify.com/track/1QZlW9PmwtZtHKraGG1JdB) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:31 | 2021-12-19 | 2022-01-04 |
 | [We have to meet again](https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8) | 4:30 | 2023-01-26 | 2023-06-03 |
 | [We Rise](https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:29 | 2021-12-19 | 2022-03-23 |

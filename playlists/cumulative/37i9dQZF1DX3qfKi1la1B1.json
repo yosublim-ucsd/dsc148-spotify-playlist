@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Hibi no Tezawari",
+      "url": "https://open.spotify.com/track/2v3rsHbdetpFdLn3s4Sko9"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
@@ -2104,6 +2122,24 @@
       "duration_ms": 100747,
       "name": "NEIGHBORHOOD",
       "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
+    },
+    {
+      "album": {
+        "name": "NEON FISH",
+        "url": "https://open.spotify.com/album/0dNF4MF3e7Dc62C1k46KeV"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196801,
+      "name": "NEON FISH",
+      "url": "https://open.spotify.com/track/3LathHufeesTzT7y02tS2Y"
     },
     {
       "album": {
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 200653,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
@@ -4007,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "\u30e0\u30b9\u30d2",
+        "url": "https://open.spotify.com/album/0MvWp84fGgQhRUUMCkXE9u"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "\u304a\u5bb6\u3078\u5e30\u308d\u3046",
+      "url": "https://open.spotify.com/track/4iQrfpgyQGOxpJsNS48I1Q"
+    },
+    {
+      "album": {
         "name": "\u3053\u3093\u306a\u591c\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/6cI5c2QvIDJhLVtbdUgsEA"
       },
@@ -4044,6 +4098,24 @@
       "duration_ms": 327098,
       "name": "\u307e\u305f\u306d",
       "url": "https://open.spotify.com/track/1nGRhES32vNvNMoLHSCY1m"
+    },
+    {
+      "album": {
+        "name": "3 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2yeVYXTtQdifRF7f28CkkW"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364803,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Andry Bett\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,412 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,410 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [OKAY](https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE) | [Nicolás De Sanctis](https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [OKAY](https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q) | 3:46 |
 | 26 | [Decídete Ya](https://open.spotify.com/track/4iedbwRE826EbNbduXeODX) | [Nalo Neptuno](https://open.spotify.com/artist/0B8lDxfcYHwAvhgYivcLE9) | [Decídete Ya](https://open.spotify.com/album/4UB4sHxB0jKNHXbrHGNUii) | 2:14 |
 | 27 | [Vámonos](https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Vámonos](https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz) | 2:01 |
-| 28 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 |
-| 29 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 |
-| 30 | [music to walk away to](https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [music to walk away to](https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF) | 3:01 |
-| 31 | [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 |
+| 28 | [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 |
+| 29 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 |
+| 30 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 |
+| 31 | [music to walk away to](https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [music to walk away to](https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF) | 3:01 |
 | 32 | [Relax](https://open.spotify.com/track/50nOege5wZgsARHydcDt9w) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Relax](https://open.spotify.com/album/6Wa5Mv3MDKXO2SDcNT0U8z) | 2:59 |
 | 33 | [Puto Dolor](https://open.spotify.com/track/70NDK3N6tL7wc9isewlF6i) | [Kid Dolce](https://open.spotify.com/artist/2uftEzqvPp8ujxV1Xh1T1R), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [lschico](https://open.spotify.com/artist/2WBOQn0db0Zo2Ww73OS8DN) | [Puto Dolor](https://open.spotify.com/album/6KFc5WZfbluWAqFrfelZsd) | 2:09 |
 | 34 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 37 | [3AM](https://open.spotify.com/track/1MVrKXLWYdb3Rh9a1gO0hP) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [3AM](https://open.spotify.com/album/0kDyskiqquXNWitMK7n2lX) | 3:24 |
 | 38 | [PAPELON](https://open.spotify.com/track/7n1wgE7FO0ofqR6Br8LCfr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [MELAZA](https://open.spotify.com/album/7qKnIpW3o9o9tMjqu39NUR) | 2:19 |
 | 39 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
-| 40 | [De Verdad](https://open.spotify.com/track/4GmWPSMwsKcUh8izKSquJ5) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [De Verdad](https://open.spotify.com/album/3Kpznn7Pu7R5Yulj7yepJx) | 2:09 |
-| 41 | [Los Quietos](https://open.spotify.com/track/6giN2giobpr3EBaGpXr2jp) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Los Quietos](https://open.spotify.com/album/64GjFvBaZbuazhtB653Qri) | 3:16 |
+| 40 | [Los Quietos](https://open.spotify.com/track/6giN2giobpr3EBaGpXr2jp) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Los Quietos](https://open.spotify.com/album/64GjFvBaZbuazhtB653Qri) | 3:16 |
+| 41 | [De Verdad](https://open.spotify.com/track/4GmWPSMwsKcUh8izKSquJ5) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [De Verdad](https://open.spotify.com/album/3Kpznn7Pu7R5Yulj7yepJx) | 2:09 |
 | 42 | [Todo Importa Nada](https://open.spotify.com/track/46dnk96UPttgMfJgSemqfT) | [Proyecto Soledad](https://open.spotify.com/artist/4FLNlCkbEFjiEEAMu4lGjN) | [Todo Importa Nada](https://open.spotify.com/album/3TqRMzifS8xJv6B5ti9mjb) | 4:43 |
 | 43 | [Tormenta](https://open.spotify.com/track/0qn59rMBlBDiGqYRGTQ9Ad) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Tormenta](https://open.spotify.com/album/0rmIJRIgJh2o3pEXeTRFpM) | 3:23 |
 | 44 | [QUE ME AMES MÁS](https://open.spotify.com/track/0vLqcjWHLFysQbTwGLmPD3) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [QUE ME AMES MÁS](https://open.spotify.com/album/02qeWYaKjDSztR8J0gLXJ9) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Mirror Mirror](https://open.spotify.com/track/1UkfHQTU3fFxWiodNnaENa) | [The Mañanas](https://open.spotify.com/artist/0FGyNRcUfWjBuMFvJ6WaN2) | [3000](https://open.spotify.com/album/0JI1U3nwaRZdvx77KpSqUA) | 2:48 |
 | 50 | [Sonic Gray](https://open.spotify.com/track/2wbO380nfaCOd8OQbpOowF) | [Moss Giant](https://open.spotify.com/artist/55RNZgmS2WYwPsRs3Ll4MC) | [Sonic Gray](https://open.spotify.com/album/6xoZCJwba62k1uZDXBsvkU) | 2:45 |
 
-Snapshot ID: `MCw3NDg3MzZmODI5YTljZjFmZTMxNjgxNzJlNDJkMTA2ZDdkN2I2YTI4`
+Snapshot ID: `MCwxNmQ3Y2Q4YmUzNTBjYjMwZDk2OTY4NzQ5NDk5NDQyYjA5ZDFmN2Y4`

@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-245 songs - 15 hr 40 min
+246 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [just like heaven](https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 3:24 | 2022-06-03 |  |
 | [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 | 2022-05-13 | 2022-07-29 |
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 3:54 | 2022-06-03 | 2023-04-29 |
+| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-12-13 | 2022-07-29 |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 | 2022-10-14 | 2023-06-04 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute To John Denver](https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5) | 3:56 | 2021-12-13 | 2022-07-29 |
@@ -215,7 +216,7 @@
 | [The Circle Game \- 2008 Remaster](https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:17 | 2021-12-13 | 2022-11-14 |
 | [The Magdalene Laundries \- Live](https://open.spotify.com/track/4qsIbaQwO21YkUMmJk37cW) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Joni 75: A Joni Mitchell Birthday Celebration \(Live\)](https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY) | 4:25 | 2021-12-13 | 2022-07-27 |
 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 | 2021-12-13 |  |
-| [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2021-12-13 |  |
+| [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2021-12-13 | 2023-06-14 |
 | [The Safety Dance](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:26 | 2021-12-13 |  |
 | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP) | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP) | 3:42 | 2021-12-13 |  |
 | [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-10-14 | 2023-02-03 |

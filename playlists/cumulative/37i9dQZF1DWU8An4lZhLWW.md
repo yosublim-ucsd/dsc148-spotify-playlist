@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/track/3fTolElkOdrYaWnlc71qJK) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/album/5o6SN2mbbA8c2xsLjT6Zhq) | 1:33 | 2019-10-29 |  |
+| [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/track/3fTolElkOdrYaWnlc71qJK) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/album/5o6SN2mbbA8c2xsLjT6Zhq) | 1:32 | 2019-10-29 |  |
 | [Batman \- The Animated Series \- Main Title](https://open.spotify.com/track/78MThQLsm0DxEZ6ogSZ14v) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Batman: The Animated Series \(Original Soundtrack from the Warner Bros\. Television Series\), Vol\. 1](https://open.spotify.com/album/4jRzlJKnTfKxGvg5vGiDBt) | 1:01 | 2019-10-29 | 2022-07-29 |
 | [Batman Beyond \(Main Title\)](https://open.spotify.com/track/6VjQlKm1RgWB7ofR4xMe8R) | [Kristopher Carter](https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V) | [The Music of DC Comics \(75th Anniversary Collection\)](https://open.spotify.com/album/6g9VtJbdPo9o1UjfIAJ1kE) | 1:00 | 2019-10-29 |  |
 | [BATMAN BEYOND \(MAIN TITLE\)](https://open.spotify.com/track/6w6eZVTEp3YGfjgJ1AyqlH) | [Kristopher Carter](https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V) | [The Music of DC Comics: 75th AnniversaryCollection](https://open.spotify.com/album/3tDHDh6PDYzCVX5dFogAvo) | 1:00 | 2019-10-29 | 2022-07-29 |

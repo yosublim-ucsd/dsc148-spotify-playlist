@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 306826,
       "name": "Aster Wish",
       "url": "https://open.spotify.com/track/4zKg6FKoZWIIHN3kWeFeYV"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 255966,
       "name": "Dash and Go!",
       "url": "https://open.spotify.com/track/0YRzOA8SIKZqBosnlxVeaF"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 220266,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 262333,
       "name": "Only",
       "url": "https://open.spotify.com/track/5kFMZ6Gp58RSxlKpiJ0s58"
@@ -5270,6 +5270,24 @@
       "duration_ms": 226837,
       "name": "Real Dawn",
       "url": "https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES"
+    },
+    {
+      "album": {
+        "name": "REALiZE",
+        "url": "https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190481,
+      "name": "REALiZE",
+      "url": "https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8"
     },
     {
       "album": {
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 263613,
       "name": "Senko - From CrosSing",
       "url": "https://open.spotify.com/track/2ua31MC3Ke9ZTD4aS1WfGL"
@@ -5980,7 +5998,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 242053,
       "name": "Starry Garden",
       "url": "https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk"
@@ -7062,6 +7080,24 @@
       "duration_ms": 233466,
       "name": "Welcome to RAINBOW WONDERLAND!",
       "url": "https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN"
+    },
+    {
+      "album": {
+        "name": "Whatever Comes(Opening Edit)",
+        "url": "https://open.spotify.com/album/164t7qgPOhrJ31rR6p3x6O"
+      },
+      "artists": [
+        {
+          "name": "TM NETWORK",
+          "url": "https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95434,
+      "name": "Whatever Comes(Opening Edit)",
+      "url": "https://open.spotify.com/track/68JznVdudTCLyC7sUf2XB2"
     },
     {
       "album": {
@@ -9473,6 +9509,24 @@
     },
     {
       "album": {
+        "name": "\u30d2\u30c8\u30b3\u30ad\u30e5\u30a6\u30ce",
+        "url": "https://open.spotify.com/album/0j93DKTBbnkbeaypHQirLR"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e0b\u5927\u8f1d",
+          "url": "https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230136,
+      "name": "\u30d2\u30c8\u30b3\u30ad\u30e5\u30a6\u30ce",
+      "url": "https://open.spotify.com/track/243gRzaTKOgWb9dtqY0vfG"
+    },
+    {
+      "album": {
         "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
         "url": "https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m"
       },
@@ -11090,7 +11144,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 210947,
       "name": "\u5bc4\u82b1-Yosuga-",
       "url": "https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1"
@@ -11441,6 +11495,28 @@
     },
     {
       "album": {
+        "name": "\u65b0\u6642\u4ee3 - from CrosSing",
+        "url": "https://open.spotify.com/album/17N3YZzGjy4LWrM9NhPmut"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5409\u3086\u3046\u3053",
+          "url": "https://open.spotify.com/artist/3gEhlBxOMT0wSTJ2noou7B"
+        },
+        {
+          "name": "\u677e\u5ca1\u7f8e\u91cc",
+          "url": "https://open.spotify.com/artist/27esoqFTkcU7B0wpLyrocy"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227080,
+      "name": "\u65b0\u6642\u4ee3 - from CrosSing",
+      "url": "https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq"
+    },
+    {
+      "album": {
         "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
@@ -11580,6 +11656,32 @@
       "duration_ms": 209468,
       "name": "\u6681\u5149",
       "url": "https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk"
+    },
+    {
+      "album": {
+        "name": "Everything Happens for a reason/\u66b4\u8d70\u5c11\u5973\u611b\u4f1d\u8336\u8336",
+        "url": "https://open.spotify.com/album/3JG61MSMf01PKs2rLv1GZn"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ca\u30fc\u30ad\u30fc(CV.\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044)",
+          "url": "https://open.spotify.com/artist/3DmiPSqkarORlgPVa62WJQ"
+        },
+        {
+          "name": "\u30d6\u30eb\u30fc(CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/7qVo7mbyWJKhs5yTB1c8LM"
+        },
+        {
+          "name": "\u30d4\u30f3\u30af(CV.\u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/512onuaY0Mgx2C1JKf0AFG"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93680,
+      "name": "\u66b4\u8d70\u5c11\u5973\u611b\u4f1d\u8336\u8336",
+      "url": "https://open.spotify.com/track/5XNm0oqvg9Fh9NHBWojXlx"
     },
     {
       "album": {
@@ -12680,6 +12782,42 @@
       "duration_ms": 231230,
       "name": "\u904b\u547d\u5171\u540c\u4f53!",
       "url": "https://open.spotify.com/track/68UvIpHBuWCJop41Paz9ON"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242467,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln"
+    },
+    {
+      "album": {
+        "name": "\u91d1\u525b\u77f3\u30d2\u30e5\u30fc\u30de\u30f3",
+        "url": "https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30b9\u30c6\u30ea\u30fc\u30ad\u30c3\u30b9",
+          "url": "https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "\u91d1\u525b\u77f3\u30d2\u30e5\u30fc\u30de\u30f3",
+      "url": "https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L"
     },
     {
       "album": {

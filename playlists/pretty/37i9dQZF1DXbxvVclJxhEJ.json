@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 35584,
+  "num_followers": 35615,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2VlN2M3MjYzY2NlYmY3NTFmMDE4ZjQwYjM5ZjBlYWM1ODJlZDIx",
+  "snapshot_id": "MCw5ZTg2OGFlMDIzM2I2NTJiNjljMmI5NWRiODhhZjM2ZDQwMDRiNWRm",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "As Long as I'm Moving",
-      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "The Complete Recordings, Vol. 4",
         "url": "https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 190026,
       "name": "Devil's Gonna Git You",
       "url": "https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "As Long as I'm Moving",
+      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
       "artists": [
         {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 180946,
-      "name": "I Want To Know",
-      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
+      "duration_ms": 173266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw"
+      "duration_ms": 180946,
+      "name": "I Want To Know",
+      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Rock Me - Remastered",
-      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "The Complete Okeh Sessions 1952-1955",
         "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 214293,
       "name": "I'm Getting 'Long Alright",
       "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Rock Me - Remastered",
+      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
-        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
       },
       "artists": [
         {
-          "name": "Perline Ellison",
-          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
         }
       ],
-      "duration_ms": 179644,
-      "name": "New That Ain't Right",
-      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1035,6 +1019,22 @@
       "duration_ms": 180560,
       "name": "Don't Worry 'Bout Strangers",
       "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
+        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
+      },
+      "artists": [
+        {
+          "name": "Perline Ellison",
+          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "New That Ain't Right",
+      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
     },
     {
       "added_at": "2023-03-03 18:11:20",

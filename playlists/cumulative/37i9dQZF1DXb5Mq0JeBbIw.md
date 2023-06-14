@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-213 songs - 12 hr 18 min
+214 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Leave a Light On](https://open.spotify.com/track/1oMUzCv0tKfrm2CK3DmMTi) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Leave a Light On](https://open.spotify.com/album/3pr3n0FMxhgOBQE3JycU3E) | 3:33 | 2022-06-24 | 2022-11-13 |
 | [Leave a Light On](https://open.spotify.com/track/6TdQeYKGJSaM2rL4No2EBP) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Leave a Light On](https://open.spotify.com/album/6hJPKPpICYiBeaGt7iaTbU) | 3:33 | 2022-05-30 | 2022-07-29 |
 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 | 2022-06-24 | 2023-06-11 |
+| [Let It Be](https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0) | 2:28 | 2023-02-10 |  |
 | [Let It Be](https://open.spotify.com/track/3KJ93VZJvSvIdlMa4eyKdX) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/2TcbCzhl0ksRRjOZ1yVqFs) | 2:28 | 2022-05-30 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2022-05-30 |  |
 | [Let Me Down Slow \- Acoustic](https://open.spotify.com/track/67EbNY9iDrlwQ7h33jVb5E) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Let Me Down Slow \(Acoustic\)](https://open.spotify.com/album/46eyWTzXNAdBkt1JzUIOVz) | 3:10 | 2022-05-30 | 2022-07-29 |
@@ -210,7 +211,7 @@
 | [We Are the Love We Give \- Acoustic](https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [We Are the Love We Give \(Acoustic\)](https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ) | 3:06 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:52 | 2022-06-24 | 2022-11-21 |
-| [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 | 2022-06-24 |  |
+| [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 | 2022-06-24 | 2023-06-14 |
 | [When The Party's Over](https://open.spotify.com/track/6JZJ6ovrC4UNQMvkzKZmgZ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When The Party's Over](https://open.spotify.com/album/7zsulBsG4hw2ZuQEFkztQF) | 2:34 | 2022-05-30 | 2022-07-29 |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2022-05-30 |  |
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2022-05-30 | 2022-07-29 |

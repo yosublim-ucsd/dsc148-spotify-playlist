@@ -1,15 +1,15 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1388089,
+  "num_followers": 1388415,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDk1MzQsMDAwMDAwMDBlMzFiMThhYTI5MGExOTkzMTMwM2U2NzgyYWUzOGVhMg==",
+  "snapshot_id": "MjgxMTEwMTEsMDAwMDAwMDAzZjA1NGMzMGM3NjM2YjJhYzJlNzRkM2Q1NGQ2MmRlZQ==",
   "tracks": [
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "You Could Be Mine",
+      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 462093,
-      "name": "Civil War",
-      "url": "https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 462093,
+      "name": "Civil War",
+      "url": "https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "The Spaghetti Incident?",
         "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/7CBFRsUz1pz1cS12soVhih"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Hard Skool",
         "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -281,23 +281,7 @@
       "url": "https://open.spotify.com/track/65G4Ib3w7tgLjUkO5GseN0"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 563893,
-      "name": "Estranged",
-      "url": "https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -313,7 +297,23 @@
       "url": "https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 563893,
+      "name": "Estranged",
+      "url": "https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -345,23 +345,7 @@
       "url": "https://open.spotify.com/track/58YL9Jo1T0wyijCOZWRmyL"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 261372,
-      "name": "14 Years",
-      "url": "https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -377,10 +361,10 @@
       "url": "https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
       "artists": [
         {
@@ -388,12 +372,12 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 305800,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
+      "duration_ms": 261372,
+      "name": "14 Years",
+      "url": "https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -409,10 +393,10 @@
       "url": "https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
-        "name": "G N' R Lies",
-        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -420,12 +404,12 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 368600,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3"
+      "duration_ms": 305800,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -441,10 +425,10 @@
       "url": "https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
       },
       "artists": [
         {
@@ -452,12 +436,12 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 87000,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc"
+      "duration_ms": 368600,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Live Era '87-'93",
         "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
@@ -473,10 +457,10 @@
       "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
-        "name": "Shadow Of Your Love",
-        "url": "https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -484,12 +468,12 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Shadow Of Your Love",
-      "url": "https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1"
+      "duration_ms": 87000,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -505,10 +489,10 @@
       "url": "https://open.spotify.com/track/3YnJJhSe1cZJtOmhW7bYX1"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Shadow Of Your Love",
+        "url": "https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm"
       },
       "artists": [
         {
@@ -516,12 +500,12 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 234906,
-      "name": "Hair Of The Dog",
-      "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
+      "duration_ms": 185573,
+      "name": "Shadow Of Your Love",
+      "url": "https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
@@ -537,7 +521,23 @@
       "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "Hair Of The Dog",
+      "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -569,23 +569,7 @@
       "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
@@ -601,7 +585,23 @@
       "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2PrmCyoClC4ulLJR42z74O"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -633,23 +633,7 @@
       "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Raw Power",
-      "url": "https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
@@ -665,7 +649,23 @@
       "url": "https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Raw Power",
+      "url": "https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/0S9eOzGwLHUwmjYvB5jG4x"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -697,23 +697,7 @@
       "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
-      "album": {
-        "name": "ABSU\u042fD",
-        "url": "https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 203138,
-      "name": "ABSU\u042fD",
-      "url": "https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N"
-    },
-    {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
@@ -729,7 +713,23 @@
       "url": "https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7"
     },
     {
-      "added_at": "2023-06-12 12:14:21",
+      "added_at": "2023-06-13 12:51:30",
+      "album": {
+        "name": "ABSU\u042fD",
+        "url": "https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 203138,
+      "name": "ABSU\u042fD",
+      "url": "https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N"
+    },
+    {
+      "added_at": "2023-06-13 12:51:30",
       "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"

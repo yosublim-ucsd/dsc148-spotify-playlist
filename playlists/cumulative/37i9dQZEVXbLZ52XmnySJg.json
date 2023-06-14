@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Aankhon Mein Teri",
+        "url": "https://open.spotify.com/album/1n7PjfzT12WccczvTCcgfz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60547,
+      "name": "Aankhon Mein Teri",
+      "url": "https://open.spotify.com/track/4q7IHxJrYFuo499bNJpZ2D"
+    },
+    {
+      "album": {
         "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
       },
@@ -12816,7 +12834,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"

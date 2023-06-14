@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Abiha Mn Allah",
+        "url": "https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251062,
+      "name": "Abiha Mn Allah",
+      "url": "https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx"
+    },
+    {
+      "album": {
         "name": "Aezerouni",
         "url": "https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 221150,
       "name": "Aezerouni",
       "url": "https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4"
@@ -561,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Ana Adhak",
+        "url": "https://open.spotify.com/album/1vOqDeqDhPK59GAWeSJgeN"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280589,
+      "name": "Ana Adhak",
+      "url": "https://open.spotify.com/track/7lLSXSxCmZmwqtaSq0pkZ2"
+    },
+    {
+      "album": {
         "name": "Ana Al Sadeq",
         "url": "https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN"
       },
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 226022,
       "name": "Dayem As2al",
       "url": "https://open.spotify.com/track/4P5CkS0Omk3weM19g82WXb"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 234319,
       "name": "Taraf Thaleth",
       "url": "https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb"
@@ -3332,6 +3368,24 @@
       "duration_ms": 243867,
       "name": "Ya Hob",
       "url": "https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto"
+    },
+    {
+      "album": {
+        "name": "Ya Labba Soutak",
+        "url": "https://open.spotify.com/album/6tlwjwtnF7WqRFDx6lc2n4"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303020,
+      "name": "Ya Labba Soutak",
+      "url": "https://open.spotify.com/track/7pqCy96fz2S4QM4v2lsNme"
     },
     {
       "album": {

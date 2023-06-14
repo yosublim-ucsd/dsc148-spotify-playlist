@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,854 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,893 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 9 | [Para Ti \(feat\. Maikel Delacalle & Omar Varela\)](https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Para Ti \(feat\. Maikel Delacalle & Omar Varela\)](https://open.spotify.com/album/3RIXKogj9l5XAGQcqQYc7U) | 3:47 |
 | 10 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 |
 | 11 | [De Adentro Pa Afuera \- En Vivo Desde La Puerta de Alcalá](https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera \(Deluxe Edition\)](https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI) | 3:13 |
-| 12 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 |
+| 12 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 |
 | 13 | [Eternamente](https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Eternamente](https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG) | 4:03 |
 | 14 | [DIVA](https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DIVA](https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD) | 2:17 |
 | 15 | [Gusty Dj \| Jordan23 \- Session en el Barrio \#9](https://open.spotify.com/track/2wBHsMud9cSITaoY32oeDo) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Gusty Dj \| Jordan23 \- Session en el Barrio \#9](https://open.spotify.com/album/3RIE0lF9l4iYuwqd9aUw9W) | 2:38 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 53 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \- FASE 1](https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM) | 2:55 |
 | 54 | [Cuntelectual](https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:11 |
 | 55 | [Anti Ex \- Ao Vivo Em Brasília](https://open.spotify.com/track/7eh6MWpBzKgWr9eoL2dbkl) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Ao Vivo Em Brasília](https://open.spotify.com/album/43YesJ0TzNufVJWX6CobGx) | 3:01 |
-| 56 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Renan Mesquita Silva Kyan](https://open.spotify.com/artist/3uw93tFE6K3dFcBUfWmuG8), [Gregory](https://open.spotify.com/artist/33cjcBrZOeGInZrDzTfcer) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
+| 56 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
 | 57 | [Wanna\-B \(feat\. Julianno Sosa\)](https://open.spotify.com/track/7kNGGapZ80IaUSX7lgyfbU) | [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Siempre en el Aire](https://open.spotify.com/album/0fW1wfTLAoUksxQYP6fq6a) | 2:40 |
 | 58 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 |
 
-Snapshot ID: `MCxmODVjOTQ1MzI2MGExOGVkYTczZDkzNWYzMDdhYzgyZmQwYTdjYTM4`
+Snapshot ID: `MCw2NGRiMGUyZmFiODFlOWY0NjVhMzk1YmUxNGU3ZDk4OTcwYjQ3NmI4`

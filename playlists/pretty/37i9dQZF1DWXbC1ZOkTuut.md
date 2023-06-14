@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 119 | [Amor Especial](https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:20 |
 | 120 | [Ya No Me Llames](https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:21 |
 
-Snapshot ID: `MCxhMGRmYmYwYzg3YzgxMTkzMjFkNmNhZmE4Zjc4NDI3NTFiZDFjMmMw`
+Snapshot ID: `MCwzMjBjMDFlOWM4ZmZiMWU0YzI4NWFiNDBjNjY5NzVlZjM4ZGU5N2Iz`

@@ -1,13 +1,61 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 40238,
+  "num_followers": 40492,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDIzY2NiZWU2NDg3ZjJlNDc4ZjMwMmE1MzE2ODMwNjJhYWUxMGEz",
+  "snapshot_id": "MCxkM2E0MjY2ZmFmZWZkYTk4ZjFjMDRjYTE1ZjkzMzllNjNjMzE3NjYy",
   "tracks": [
+    {
+      "added_at": "2023-06-13 18:34:22",
+      "album": {
+        "name": "favorite team",
+        "url": "https://open.spotify.com/album/228jni392cGj2AFtzMh99u"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 154887,
+      "name": "favorite team",
+      "url": "https://open.spotify.com/track/2XVeDs8s7TRzo57wNJ57CA"
+    },
+    {
+      "added_at": "2023-06-13 18:31:55",
+      "album": {
+        "name": "it'll pass",
+        "url": "https://open.spotify.com/album/3CAGbSE3Xgq0PI6SlwCiRC"
+      },
+      "artists": [
+        {
+          "name": "hold",
+          "url": "https://open.spotify.com/artist/4v1gmWIv1bjj1LTVnCeoCO"
+        }
+      ],
+      "duration_ms": 117500,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1fckVDRsaql38b9GfMjZ6x"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Juvenilia",
+        "url": "https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk"
+      },
+      "artists": [
+        {
+          "name": "postcard nowhere",
+          "url": "https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI"
+        }
+      ],
+      "duration_ms": 125419,
+      "name": "miss",
+      "url": "https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF"
+    },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 156000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp"
+    },
+    {
+      "added_at": "2023-06-13 18:31:55",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -73,20 +137,20 @@
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
-      "added_at": "2023-06-05 16:50:13",
+      "added_at": "2023-06-13 18:31:55",
       "album": {
-        "name": "D>E>A>T>H>M>E>T>A>L",
-        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+        "name": "old songs",
+        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "mage tears",
+          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
         }
       ],
-      "duration_ms": 163544,
-      "name": "Laputa",
-      "url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7"
+      "duration_ms": 63934,
+      "name": "i'm going to fail my class",
+      "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -105,6 +169,22 @@
       "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
+      "added_at": "2023-06-13 18:31:55",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 241186,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP"
+    },
+    {
       "added_at": "2023-05-19 12:25:14",
       "album": {
         "name": "Petals to Thorns",
@@ -121,20 +201,20 @@
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
     },
     {
-      "added_at": "2023-04-11 14:48:39",
+      "added_at": "2023-06-13 18:31:55",
       "album": {
-        "name": "Chamber of Reflection (Remixes)",
-        "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
+        "name": "fairies in our house",
+        "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
       },
       "artists": [
         {
-          "name": "Your Anxiety Buddy",
-          "url": "https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0"
+          "name": "fairies in our house",
+          "url": "https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM"
         }
       ],
-      "duration_ms": 150836,
-      "name": "Chamber of Reflection (Live Cover)",
-      "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
+      "duration_ms": 93482,
+      "name": "out",
+      "url": "https://open.spotify.com/track/7fZkcPKxlkGkxyc1tbOt0g"
     },
     {
       "added_at": "2023-05-19 12:25:14",
@@ -199,6 +279,22 @@
       "duration_ms": 213290,
       "name": "The Sling",
       "url": "https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ"
+    },
+    {
+      "added_at": "2023-06-05 16:50:13",
+      "album": {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Laputa",
+      "url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -283,22 +379,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "New Ways To Die",
-        "url": "https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "Fall With Me",
-      "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -343,38 +423,6 @@
       "duration_ms": 212288,
       "name": "Jealous of a Kid",
       "url": "https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "There Is No Empty Space",
-        "url": "https://open.spotify.com/album/5jvip1TnDykAUQy8ZYILGv"
-      },
-      "artists": [
-        {
-          "name": "Hysterla",
-          "url": "https://open.spotify.com/artist/0G3bBeMDThPyX9dvj3Zy0X"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "get out",
-      "url": "https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1055,22 +1103,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "old songs",
-        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
-      },
-      "artists": [
-        {
-          "name": "mage tears",
-          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
-        }
-      ],
-      "duration_ms": 73598,
-      "name": "town",
-      "url": "https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "Luxury Beverage",
         "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
       },
@@ -1179,22 +1211,6 @@
       "duration_ms": 174914,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Juvenilia",
-        "url": "https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk"
-      },
-      "artists": [
-        {
-          "name": "postcard nowhere",
-          "url": "https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI"
-        }
-      ],
-      "duration_ms": 125419,
-      "name": "miss",
-      "url": "https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1631,22 +1647,6 @@
       "duration_ms": 180230,
       "name": "time and space",
       "url": "https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Paradise Is Mine",
-        "url": "https://open.spotify.com/album/2o8zkys1fG1bnev4a3qW1T"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 563740,
-      "name": "Paradise Is Mine",
-      "url": "https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8"
     }
   ],
   "unique_name": "side effects",

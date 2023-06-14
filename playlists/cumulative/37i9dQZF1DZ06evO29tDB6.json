@@ -676,10 +676,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 183797,
       "name": "Que Hueva",
       "url": "https://open.spotify.com/track/2RTWNCT0xSoHjOLBY6UT0c"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "Que Hueva",
+      "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
     },
     {
       "album": {

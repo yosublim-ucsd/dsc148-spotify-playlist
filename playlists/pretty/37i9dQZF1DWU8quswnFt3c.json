@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917416,
+  "num_followers": 917421,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2",
+  "snapshot_id": "MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "El Sabr Gamel -\u0627\u0644\u0635\u0628\u0631 \u062c\u0645\u064a\u0644",
         "url": "https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 299431,
       "name": "El Sabr Gamel -\u0627\u0644\u0635\u0628\u0631 \u062c\u0645\u064a\u0644",
       "url": "https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Lw",
         "url": "https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 201951,
       "name": "Lw",
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Me He Pillao x Ti",
-        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Me He Pillao x Ti",
-      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "I'm Not OK",
         "url": "https://open.spotify.com/album/3Gt8n9ReeUCP3X8WfWyqZw"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 183400,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/0Ke17Xm0lk1flqdkFW3bqs"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Me He Pillao x Ti",
+        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Me He Pillao x Ti",
+      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
         "url": "https://open.spotify.com/album/5sPJWFOx3rH3SXr7KCnQ8A"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 201133,
       "name": "like everyone else",
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Momentary Sweetheart",
-        "url": "https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Momentary Sweetheart",
-      "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Masa Sepi",
         "url": "https://open.spotify.com/album/264G53YN0qa679J5JEDtkg"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 213750,
       "name": "Masa Sepi",
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Momentary Sweetheart",
+        "url": "https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Momentary Sweetheart",
+      "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Ge\u00e7miyor Zaman",
+        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
+      },
+      "artists": [
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        }
+      ],
+      "duration_ms": 283718,
+      "name": "Ge\u00e7miyor Zaman",
+      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Ge\u00e7miyor Zaman",
-        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
-      },
-      "artists": [
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 283718,
-      "name": "Ge\u00e7miyor Zaman",
-      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Flash Flood",
+        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 159014,
+      "name": "Flash Flood",
+      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Porque Yo",
         "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
       },
@@ -1031,38 +1047,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Flash Flood",
-        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
       "artists": [
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 159014,
-      "name": "Flash Flood",
-      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
-        }
-      ],
-      "duration_ms": 201724,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Sombrilla",
-        "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Sombrilla",
-      "url": "https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Jordan 1s",
         "url": "https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 189115,
       "name": "Jordan 1s",
       "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Sombrilla",
+        "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Sombrilla",
+      "url": "https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Numaani",
-        "url": "https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1"
-      },
-      "artists": [
-        {
-          "name": "Faridkot",
-          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Rajarshi Sanyal",
-          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
-        }
-      ],
-      "duration_ms": 308117,
-      "name": "Numaani",
-      "url": "https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/6YRsZur2KmT2HbrCbVHBd6"
       },
@@ -1291,6 +1267,30 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Numaani",
+        "url": "https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "duration_ms": 308117,
+      "name": "Numaani",
+      "url": "https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Eternal Lover",
         "url": "https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 222973,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "V\u1ec1 V\u1edbi Em",
-        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
-      },
-      "artists": [
-        {
-          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
-          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "V\u1ec1 V\u1edbi Em",
-      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
+        "name": "V\u1ec1 V\u1edbi Em",
+        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc"
+      "duration_ms": 269333,
+      "name": "V\u1ec1 V\u1edbi Em",
+      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 159000,
       "name": "\u0412\u0441\u0456 \u0434\u0456\u0432\u0447\u0430\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0456",
       "url": "https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc"
     },
     {
       "added_at": "2023-06-07 04:00:00",

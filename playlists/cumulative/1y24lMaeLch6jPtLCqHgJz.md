@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-147 songs - 7 hr 40 min
+148 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 | 2022-07-29 |  |
 | [Recount the Stars](https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5) | [TAKEOFFANDFLY](https://open.spotify.com/artist/38cnnPZnUjRbSEcvvnZNlW) | [Recount the Stars](https://open.spotify.com/album/4ztlaCtCCYQ1QYlZbTI0MU) | 3:16 | 2023-01-09 | 2023-02-07 |
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 | 2023-05-13 |
+| [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 | 2023-06-13 |  |
 | [River](https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ) | [ATSY x Taner](https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB), [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [River](https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK) | 3:35 | 2023-04-13 |  |
 | [Run With Me](https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Run With Me](https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL) | 3:14 | 2023-04-28 |  |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 | 2023-02-11 |

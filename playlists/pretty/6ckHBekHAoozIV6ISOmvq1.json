@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTc1MSw4MDY5YWRmNjJlMzgyZDE5MDczZjEzNTRhNDM0Y2Y2NmQ1MWVmMTk3",
+  "snapshot_id": "NTc1MiwyMDFiNjkyZmJkYjQ2ZGZlY2YyOTA0MmFlYmE3MzY3MjJjOTU5ZDFm",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -641,30 +641,6 @@
       "url": "https://open.spotify.com/track/4vGVFkUHbFCQCTBnkI4lo4"
     },
     {
-      "added_at": "2018-02-09 19:10:59",
-      "album": {
-        "name": "Monastic Song - 12th Century Monophonic Chant",
-        "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
-      },
-      "artists": [
-        {
-          "name": "Peter Abelard",
-          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
-        },
-        {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
-        },
-        {
-          "name": "Theatre Of Voices",
-          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
-        }
-      ],
-      "duration_ms": 372333,
-      "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: O quanta qualia",
-      "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
-    },
-    {
       "added_at": "2020-09-04 11:13:08",
       "album": {
         "name": "Troubadours",
@@ -687,6 +663,30 @@
       "duration_ms": 488546,
       "name": "Vida et Razos",
       "url": "https://open.spotify.com/track/2DOKaNO36Wvq2aEI7qle3j"
+    },
+    {
+      "added_at": "2018-02-09 19:10:59",
+      "album": {
+        "name": "Monastic Song - 12th Century Monophonic Chant",
+        "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
+      },
+      "artists": [
+        {
+          "name": "Peter Abelard",
+          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        }
+      ],
+      "duration_ms": 372333,
+      "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: O quanta qualia",
+      "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -881,30 +881,6 @@
       "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Gesualdo: Responsoria 1611",
-        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gesualdo",
-          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
-        },
-        {
-          "name": "Philippe Herreweghe",
-          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
-        },
-        {
-          "name": "Collegium Vocale Gent",
-          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
-        }
-      ],
-      "duration_ms": 274978,
-      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
-      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
-    },
-    {
       "added_at": "2022-09-03 07:37:51",
       "album": {
         "name": "Paolo da Firenze: Narcisso speculando",
@@ -943,6 +919,30 @@
       "duration_ms": 393600,
       "name": "Istampita instrumentale \"Isabella\"",
       "url": "https://open.spotify.com/track/2BxgCzuSywAJ7rNWFoXPiA"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Gesualdo: Responsoria 1611",
+        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        },
+        {
+          "name": "Collegium Vocale Gent",
+          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+        }
+      ],
+      "duration_ms": 274978,
+      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
+      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
     },
     {
       "added_at": "2021-08-06 13:10:05",
@@ -2825,26 +2825,6 @@
       "url": "https://open.spotify.com/track/2pZ1Eu55vufyl6OGVjuP92"
     },
     {
-      "added_at": "2022-09-03 07:37:51",
-      "album": {
-        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
-        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
-      },
-      "artists": [
-        {
-          "name": "Peter Abelard",
-          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
-        },
-        {
-          "name": "Augsburg Early Music Ensemble",
-          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
-        }
-      ],
-      "duration_ms": 575773,
-      "name": "Dolorum solatium, \"Planctus David super Saul et Jonatha\"",
-      "url": "https://open.spotify.com/track/1hwLtifSNEpG9wMMoBQBsy"
-    },
-    {
       "added_at": "2023-06-09 17:34:15",
       "album": {
         "name": "L'Orient des troubadours",
@@ -2867,6 +2847,26 @@
       "duration_ms": 355080,
       "name": "Pois tornatz",
       "url": "https://open.spotify.com/track/1Vl68qItQdA4gVjIot67vT"
+    },
+    {
+      "added_at": "2022-09-03 07:37:51",
+      "album": {
+        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
+        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
+      },
+      "artists": [
+        {
+          "name": "Peter Abelard",
+          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
+        },
+        {
+          "name": "Augsburg Early Music Ensemble",
+          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
+        }
+      ],
+      "duration_ms": 575773,
+      "name": "Dolorum solatium, \"Planctus David super Saul et Jonatha\"",
+      "url": "https://open.spotify.com/track/1hwLtifSNEpG9wMMoBQBsy"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -3125,30 +3125,6 @@
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
-      "added_at": "2023-05-05 20:01:26",
-      "album": {
-        "name": "Gesualdo: Sacred Music for Five Voices (Complete)",
-        "url": "https://open.spotify.com/album/0k0LIrjspIz8qDpF0dMfTA"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gesualdo",
-          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
-        },
-        {
-          "name": "Oxford Camerata",
-          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Illumina faciem tuam",
-      "url": "https://open.spotify.com/track/1zyhUOh2S5IL1BuXQ0QZUY"
-    },
-    {
       "added_at": "2023-04-21 18:01:00",
       "album": {
         "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
@@ -3171,6 +3147,30 @@
       "duration_ms": 356440,
       "name": "Missa cantilena: Credo II (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/23SE386AcVZRnRjdr8C9o3"
+    },
+    {
+      "added_at": "2023-05-05 20:01:26",
+      "album": {
+        "name": "Gesualdo: Sacred Music for Five Voices (Complete)",
+        "url": "https://open.spotify.com/album/0k0LIrjspIz8qDpF0dMfTA"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Illumina faciem tuam",
+      "url": "https://open.spotify.com/track/1zyhUOh2S5IL1BuXQ0QZUY"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -4281,30 +4281,6 @@
       "url": "https://open.spotify.com/track/1NRNotWsC0CamMM66h0OtZ"
     },
     {
-      "added_at": "2023-02-24 14:00:08",
-      "album": {
-        "name": "Monastic Song - 12th Century Monophonic Chant",
-        "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
-      },
-      "artists": [
-        {
-          "name": "Peter Abelard",
-          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
-        },
-        {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
-        },
-        {
-          "name": "Theatre Of Voices",
-          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
-        }
-      ],
-      "duration_ms": 502666,
-      "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
-      "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
-    },
-    {
       "added_at": "2023-06-09 17:34:15",
       "album": {
         "name": "L'Orient des troubadours",
@@ -4327,6 +4303,30 @@
       "duration_ms": 344786,
       "name": "Pois vezem",
       "url": "https://open.spotify.com/track/5urZmYiASkybmyBwLpXV9R"
+    },
+    {
+      "added_at": "2023-02-24 14:00:08",
+      "album": {
+        "name": "Monastic Song - 12th Century Monophonic Chant",
+        "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
+      },
+      "artists": [
+        {
+          "name": "Peter Abelard",
+          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        }
+      ],
+      "duration_ms": 502666,
+      "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
+      "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
     },
     {
       "added_at": "2023-04-14 20:51:40",

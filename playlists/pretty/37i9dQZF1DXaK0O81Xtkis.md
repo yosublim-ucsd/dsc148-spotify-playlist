@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Lany
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,089 likes - 87 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,111 likes - 87 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 86 | [Call It Like It Is](https://open.spotify.com/track/1KtpAFiSZ9WO5RYI7F752Y) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Call It Like It Is](https://open.spotify.com/album/1G9K6xgvZvhVJ1vRVnzDLA) | 3:24 |
 | 87 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 |
 
-Snapshot ID: `MCxkNjhiODg1OGFiOTY2MDkzNTY4NjdmZTFiZmFlYjA4NDBlN2I1ODYw`
+Snapshot ID: `MCw0MTI0NmFjZjgzNzJlN2ZkMzhiMjdlMTRjZGY1ODM1YjZjNzlmNjE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,867 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,886 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 38 | [SAPPHIRE \(Safír English Version\)](https://open.spotify.com/track/4uZSk035hS86fQ2yYLhSZQ) | [Call Dominika](https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT), [DANDA](https://open.spotify.com/artist/05UvzEPCth4pjCsQiFXmb8) | [SAPPHIRE \(Safír English Version\)](https://open.spotify.com/album/48z9fJaMsNMGtD9a20YFpd) | 2:00 |
 | 39 | [Rastaman](https://open.spotify.com/track/2XifwpmdpWiIezZhHZol9X) | [Fejbs](https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm) | [Rastaman](https://open.spotify.com/album/6pTcKT3Poa32qBW0OROeH1) | 2:22 |
 | 40 | [This City](https://open.spotify.com/track/1CwdAkDuBfUM9oJNAxfVck) | [Lily Juls](https://open.spotify.com/artist/7v7vdWSbc7lDT3HAyNKByF) | [This City](https://open.spotify.com/album/4fjYlYsUGQsaoehUYAWBAc) | 3:06 |
-| 41 | [I NEED TO STOP](https://open.spotify.com/track/2Ax6yhrAsgt23jxmAvQ1TK) | [Natalia Hulejova](https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5) | [I NEED TO STOP](https://open.spotify.com/album/3HvbztgvewI5ehPhjpbCgZ) | 4:15 |
+| 41 | [I NEED TO STOP](https://open.spotify.com/track/2Ax6yhrAsgt23jxmAvQ1TK) | [Natalia Hulejova](https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5), [biobulin](https://open.spotify.com/artist/4Htina4UpivxfjxllyOToq) | [I NEED TO STOP](https://open.spotify.com/album/3HvbztgvewI5ehPhjpbCgZ) | 4:15 |
 | 42 | [Cold](https://open.spotify.com/track/0c0KcMiDbPUhGsbEbrxngP) | [Terra](https://open.spotify.com/artist/1HCRMgwVECDvvNTDcgu1Df) | [Cold](https://open.spotify.com/album/5XaZPpMevTsSl2bxUvqPJT) | 3:30 |
 | 43 | [Snow](https://open.spotify.com/track/1dhVkXyqcuTqhTv3PnkK8K) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Snow](https://open.spotify.com/album/4AYqaMj8j8DEMViUZYzx3w) | 2:52 |
 | 44 | [Flood](https://open.spotify.com/track/25fmgvpvBZj9wF6cJ5BxvK) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Flood](https://open.spotify.com/album/34z57wAuo6RouNF2c1r12l) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natally](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
 | 50 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
 
-Snapshot ID: `MCw4ZWQ5NDRmMDQ3MTE0ODY2ZDQ0ZGZjZGNlNWJlN2IwMTllYzFmZmZi`
+Snapshot ID: `MCwzMjAyZDZkMzc5NDZhNjUzYjUxMjI0OWE1NDM1MmVjZTk1MDMxMjQ4`

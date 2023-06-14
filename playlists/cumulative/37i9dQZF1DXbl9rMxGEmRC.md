@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-412 songs - 1 day 11 hr 32 min
+414 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 | 2021-12-17 | 2022-05-28 |
 | [Blashyrkh \- Mighty Ravendark](https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:34 | 2022-07-13 | 2023-04-09 |
 | [Blood Eagle](https://open.spotify.com/track/25wHcwSxLDqX5OsmJOnAj5) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Blood Eagle](https://open.spotify.com/album/3LKKK7bNdiP4Exush7RRvY) | 4:43 | 2023-04-07 | 2023-05-11 |
-| [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 |  |
+| [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 | 2023-06-14 |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq) | 4:25 | 2022-07-13 | 2022-07-29 |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 4:25 | 2022-07-13 |  |
 | [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 | 2023-02-15 | 2023-05-19 |
@@ -179,7 +179,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
-| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
+| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 | 2023-06-14 |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 | 2023-05-10 |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
@@ -274,6 +274,7 @@
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |
 | [Pale Blue Light](https://open.spotify.com/track/1U4fzMisR2YDKFauXInKKq) | [Wounds of Recollection](https://open.spotify.com/artist/1eHqHZFn7vwegBeNRAD2fq) | [Warm Glow of the End of Everything](https://open.spotify.com/album/7IXjjRZv6QwaNbtWg2Ea91) | 9:00 | 2023-02-15 | 2023-03-09 |
 | [Panzer Division Marduk](https://open.spotify.com/track/0jpsXRJG4654VySxM3UyB6) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/6UNeZrw9jjm52S4pZ7cXgB) | 2:39 | 2022-07-13 | 2022-07-28 |
+| [Paranoid Android](https://open.spotify.com/track/5ZpvNguxZA6HLK9aPjlKDh) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Paranoid Android](https://open.spotify.com/album/3Lvm7gcrmOwmGViBTjgQYH) | 6:04 | 2023-06-09 |  |
 | [Part of the End](https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Part of the End](https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV) | 5:46 | 2021-12-17 | 2022-07-25 |
 | [Path Of Fierce Resistance](https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Path Of Fierce Resistance](https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5) | 3:39 | 2023-05-19 |  |
 | [Path to Paradise](https://open.spotify.com/track/6d1Hee07EoLcPAVkswj2i2) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Path to Paradise](https://open.spotify.com/album/086hwE3ZkLpf3CjhrVWPuf) | 3:16 | 2022-04-08 | 2022-07-23 |
@@ -293,6 +294,7 @@
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 | 2022-07-28 |
 | [Reign Of Fate](https://open.spotify.com/track/3wFqj9dM7GptoByndbI121) | [Miseration](https://open.spotify.com/artist/625deL9i1oococeGlHdSQe) | [Reign Of Fate](https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI) | 6:13 | 2022-04-01 | 2022-07-18 |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
+| [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 |  |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-05-26 |  |
 | [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 | 2022-07-23 |
 | [Ring of Gold](https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Nordland I](https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog) | 5:34 | 2022-07-13 |  |

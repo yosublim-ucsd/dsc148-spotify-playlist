@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Glock",
+        "url": "https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146112,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe"
       },
@@ -1455,6 +1473,32 @@
     },
     {
       "album": {
+        "name": "Jeona Maurh Te Saathi (From \"Maurh\")",
+        "url": "https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Jashan Inder",
+          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Jeona Maurh Te Saathi (From \"Maurh\")",
+      "url": "https://open.spotify.com/track/1KmyApvwFh2hlka9tRtOAQ"
+    },
+    {
+      "album": {
         "name": "Jhoonte",
         "url": "https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT"
       },
@@ -1474,6 +1518,28 @@
       "duration_ms": 150909,
       "name": "Jhoonte",
       "url": "https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1"
+    },
+    {
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle"
+      },
+      "artists": [
+        {
+          "name": "Romey Maan",
+          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
+        },
+        {
+          "name": "Sulfa",
+          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263999,
+      "name": "Jithon Marji Puchli",
+      "url": "https://open.spotify.com/track/3CUCtrH1gxtvdlHVBoS2A2"
     },
     {
       "album": {
@@ -1550,7 +1616,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 116210,
       "name": "Loaded Freestyle",
       "url": "https://open.spotify.com/track/0dyHsSc5TAK2COrNxSiIUH"
@@ -1666,7 +1732,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 130434,
       "name": "Mehange Mull",
       "url": "https://open.spotify.com/track/3eKHyxRecroxupHyA9qHmf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9?si=vrQCaeC\_Rpub8xqwfSkARA">Christine D'Clario</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,465 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,624 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 91 | [Mi Sanador \(The Healing\)](https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Mi Sanador \(The Healing\)](https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt) | 3:17 |
 | 92 | [Lámpara Encendida \- En Vivo](https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Lámpara Encendida \(En Vivo\)](https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH) | 11:26 |
 | 93 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
-| 94 | [Estaré Seguro](https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3) | [Visión Juvenil](https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz) | [Visión Juvenil \- EP \(En Vivo\)](https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA) | 4:21 |
+| 94 | [Estaré Seguro](https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3) | [Visión Juvenil](https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz) | [Visión Juvenil \(En Vivo\)](https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA) | 4:21 |
 | 95 | [Nada](https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Nada](https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI) | 3:00 |
 | 96 | [Simple Adoración \(feat\. Laila Olivera & Johnny Peña\)](https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:44 |
 | 97 | [Corro Ante Ti](https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [Corro Ante Ti](https://open.spotify.com/album/3GM0rKIyYeIizZ06WBsaHZ) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCwzMWMwZjFhMzc5MTlhMjA2YWYwZTQ5MmRhODJlNTU3N2UyNGQ3MjVm`
+Snapshot ID: `MCwxNTJhMTlkN2NhZWNiMjBhYjU2NjZmODlmYjA2ZjliZDk0MTYyM2U2`

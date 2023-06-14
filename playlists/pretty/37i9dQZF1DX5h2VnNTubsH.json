@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 153105,
+  "num_followers": 153155,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGE4YmFkOGI3NDc2MDAyMWJiNzFiOWU0MTEwNzRlODlmN2Y2Njhl",
+  "snapshot_id": "MCw3N2IxNzMxN2Y3MTkxOTM1YzkwMmIyZWI2Yzk1NTU3ZWJiYmQxNzE2",
   "tracks": [
     {
       "added_at": "2023-05-30 15:38:25",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-30 15:38:25",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2023-05-30 15:38:25",
+      "album": {
         "name": "TQG",
         "url": "https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 198360,
       "name": "TQG",
       "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"
-    },
-    {
-      "added_at": "2023-05-30 15:38:25",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2023-05-30 15:38:25",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-30 15:38:25",
       "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
+    },
+    {
+      "added_at": "2023-05-30 15:38:25",
+      "album": {
         "name": "Special (feat. SZA)",
         "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
-    },
-    {
-      "added_at": "2023-05-30 15:38:25",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
     },
     {
       "added_at": "2023-05-30 15:38:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-30 15:38:25",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
-    },
-    {
-      "added_at": "2023-05-30 15:38:25",
-      "album": {
         "name": "Drama King",
         "url": "https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 157350,
       "name": "Drama King",
       "url": "https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa"
+    },
+    {
+      "added_at": "2023-05-30 15:38:25",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2023-05-30 15:38:25",

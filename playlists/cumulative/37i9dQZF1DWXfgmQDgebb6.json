@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 162666,
       "name": "3M",
       "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
@@ -484,6 +484,28 @@
       "duration_ms": 127000,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0xOBqBL9Gy68Dc8ZA3fAIE"
+    },
+    {
+      "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244536,
+      "name": "BLEACHING (feat. Crush)",
+      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
     },
     {
       "album": {
@@ -4374,7 +4396,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 277106,
       "name": "Royal Blue",
       "url": "https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt"
@@ -4508,6 +4530,32 @@
       "duration_ms": 275210,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/5niSEAzP4pRaCBmzJ2slZd"
+    },
+    {
+      "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Choi Junheui",
+          "url": "https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5"
+        },
+        {
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "SEA SPARKLE (feat. HUNJIYA & Choi Junheui)",
+      "url": "https://open.spotify.com/track/6p1BkJW9GZpiOBOFIHb1pX"
     },
     {
       "album": {

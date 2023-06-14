@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. yungblud
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,632 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,693 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [MY HEAD](https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [ARRIVED](https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa) | 2:35 |
 | 80 | [Skeleton](https://open.spotify.com/track/6OBDJYuAucuCcBLhMmf1m9) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Elsewhere](https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD) | 3:23 |
 
-Snapshot ID: `MCw3ZGFhNDIxYTM1ZWQ5M2Q4YzM1MDk3ZjU3MTYzNjE5NzljNWM0YzEw`
+Snapshot ID: `MCwzZmFiMGE5NzczM2IwYmZhOWIxZDIwOWVkZmI2NmNiZjNjYWU0YjJh`

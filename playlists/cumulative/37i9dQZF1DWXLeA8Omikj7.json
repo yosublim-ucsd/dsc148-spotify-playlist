@@ -10091,6 +10091,28 @@
     },
     {
       "album": {
+        "name": "Peg",
+        "url": "https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        },
+        {
+          "name": "David Bergm\u00fcller",
+          "url": "https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251338,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
+    },
+    {
+      "album": {
         "name": "Pietre Roventi",
         "url": "https://open.spotify.com/album/1VzyjS6GiQMkdFcMetztnq"
       },
@@ -10976,7 +10998,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 306315,
       "name": "Rising Urge (Lost Tapes) - Original",
       "url": "https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5"

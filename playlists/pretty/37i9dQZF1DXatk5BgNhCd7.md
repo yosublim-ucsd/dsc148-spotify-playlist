@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,652 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,707 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 7 | [Tu Despertador](https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Tu Despertador](https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS) | 2:30 |
 | 8 | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/track/3GJtk3noiskSGHCc9EcxAm) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/album/3pByc8VZkttOs8mq3Lw2Kd) | 3:55 |
 | 9 | [No Me Vuelvo a Enamorar \- Remix](https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [No Me Vuelvo a Enamorar \(Remix\)](https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9) | 3:13 |
-| 10 | [A Dormir Juntitos \- Version Bachata](https://open.spotify.com/track/720uZrm3uNPepPDiYpLmSI) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [A Dormir Juntitos \(Version Bachata\)](https://open.spotify.com/album/5g6P0nXdmWVEJa1SMklHYk) | 4:17 |
+| 10 | [A Dormir Juntitos \- Version Bachata](https://open.spotify.com/track/720uZrm3uNPepPDiYpLmSI) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [A Dormir Juntitos \- Version Bachata](https://open.spotify.com/album/5g6P0nXdmWVEJa1SMklHYk) | 4:17 |
 | 11 | [Fragil](https://open.spotify.com/track/5q3uopiV2F4E93vpUO4CAZ) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Fragil](https://open.spotify.com/album/40qpqPIJEhj0WKOhmowPOX) | 3:03 |
 | 12 | [La Primera Piedra](https://open.spotify.com/track/3b5YIzRdvpiOtuTL7wEpoL) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [La Primera Piedra](https://open.spotify.com/album/3wNF6Kd6saEGT5iKxpjrYQ) | 2:57 |
 | 13 | [Si Quieres \- Live](https://open.spotify.com/track/7dcyKs5HbVftMufmyAty8D) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [10 AÑOS \(Concierto En Vivo\)](https://open.spotify.com/album/4yCXldpCK7Df2AsYRmHb8n) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Échame A Mí La Culpa](https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Échame A Mí La Culpa](https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50) | 3:13 |
 | 50 | [Que me quedes tú](https://open.spotify.com/track/6Kqch3OTIVRkqZyfRs7urU) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe) | [Que me quedes tú](https://open.spotify.com/album/44fjxKiYoTyRS5G9MdAvtv) | 3:44 |
 
-Snapshot ID: `MCwzNzdjNWNiOTJkNDk3YWE2YTFlOGZiMzM0MDllNWQ0NWYzM2EyZjk1`
+Snapshot ID: `MCwxNTA5ZjlhYjk0YmY1ZGVhMWQxMGU5OWRlNWNjZDA4ZTY3YTYxNjhi`

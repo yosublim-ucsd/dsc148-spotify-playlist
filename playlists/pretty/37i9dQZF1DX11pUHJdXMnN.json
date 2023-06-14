@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58713,
+  "num_followers": 58727,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0",
+  "snapshot_id": "MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
-      },
-      "artists": [
-        {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
-        }
-      ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
         "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 527986,
       "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212903,
       "name": "Ardore",
       "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -659,6 +659,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Faccia a faccia (Remixes)",
+        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Italoconnection",
+          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Faccia a faccia - Italoconnection Remix Radio",
+      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Eyes Wide Strut (feat. Wooze) [Tunnelvisions Remix]",
         "url": "https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 350000,
       "name": "Eyes Wide Strut (feat. Wooze) - Tunnelvisions Remix",
       "url": "https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Faccia a faccia (Remixes)",
-        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Italoconnection",
-          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Faccia a faccia - Italoconnection Remix Radio",
-      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -763,26 +763,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
-        }
-      ],
-      "duration_ms": 409961,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "duration_ms": 409961,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
     },
     {
       "added_at": "2021-08-27 15:45:01",

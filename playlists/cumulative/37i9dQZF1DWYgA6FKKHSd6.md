@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-201 songs - 14 hr 28 min
+202 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Before I Let Go](https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summer Horns II From A To Z](https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT) | 4:54 | 2021-07-12 |  |
 | [Break the Ice](https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Silver Lining](https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ) | 4:09 | 2021-07-12 |  |
 | [Breakin' Thru](https://open.spotify.com/track/0In4huETTZX9XmkZHPGATo) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/37OBARgecVcRJ385LQO7Je) | 4:30 | 2021-07-12 | 2023-05-13 |
+| [Breakin' thru](https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 4:30 | 2021-07-12 |  |
 | [Breakin' Thru](https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 4:30 | 2021-07-12 | 2023-04-09 |
 | [Bring It Back \[Feat\. Dontae Winslow\]](https://open.spotify.com/track/7sKn66UsPHo0zFnZbYwr2K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Bring It Back](https://open.spotify.com/album/5ehU6ep0HbBgBD0tWVysYu) | 3:36 | 2022-07-15 | 2022-08-09 |
 | [Butter](https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2021-07-12 |  |
@@ -208,6 +209,6 @@
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 | 2022-07-28 |
 | [Wrapped up in Your Smile](https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:39 | 2022-09-23 |  |
-| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 |  |
+| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 | 2023-06-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

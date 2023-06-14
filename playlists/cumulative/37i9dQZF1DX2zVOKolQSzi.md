@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-82 songs - 5 hr 44 min
+83 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Snakebite](https://open.spotify.com/track/0TizI46LdlghrEW0xroB71) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [The Soul Motivators](https://open.spotify.com/album/3juhQXR16EQiw2Xt6lIrag) | 3:46 | 2021-05-05 |  |
 | [Stare Into The Sun](https://open.spotify.com/track/0vXdd32H6j8ggGapOHfan1) | [Graffiti6](https://open.spotify.com/artist/45q5PZHs50HeLBDRgio4GQ) | [Colours](https://open.spotify.com/album/3D6lGMj6kw3tFzXpj4Yhwv) | 3:56 | 2021-05-05 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2021-05-05 |  |
-| [The Real](https://open.spotify.com/track/30IC8IrryMmUW660TmvzYM) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [GLAM](https://open.spotify.com/album/5nNn2MGCpzQCzZaOkLcZWG) | 4:51 | 2021-05-05 |  |
+| [The Real](https://open.spotify.com/track/30IC8IrryMmUW660TmvzYM) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [GLAM](https://open.spotify.com/album/5nNn2MGCpzQCzZaOkLcZWG) | 4:51 | 2021-05-05 | 2023-06-14 |
+| [The Real](https://open.spotify.com/track/4zKYvJ7otMr3j9GtfLPm4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [GLAM](https://open.spotify.com/album/20O85bLFb2c1B6EEoEiWlG) | 4:51 | 2021-05-05 |  |
 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/3HpBC2ECGBxWOviA8CyLhb) | 4:28 | 2021-05-05 | 2023-04-29 |
 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL) | 4:28 | 2021-05-05 |  |
 | [Time For Love](https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 3:34 | 2021-05-05 |  |

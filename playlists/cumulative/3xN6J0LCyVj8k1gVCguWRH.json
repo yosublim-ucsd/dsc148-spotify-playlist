@@ -21241,6 +21241,28 @@
     },
     {
       "album": {
+        "name": "Las Vegas Will You Marry Me",
+        "url": "https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B"
+      },
+      "artists": [
+        {
+          "name": "Dennis Bono",
+          "url": "https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9"
+        },
+        {
+          "name": "Dan Slider & The Vegas Headliner Big Band",
+          "url": "https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178480,
+      "name": "Las Vegas Will You Marry Me",
+      "url": "https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -24422,6 +24444,24 @@
       "duration_ms": 278840,
       "name": "Meant",
       "url": "https://open.spotify.com/track/0MRsTLHZv9zDEbYhAnWuvq"
+    },
+    {
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1VwwC8EF8R3KOcRBqXjjc7"
+      },
+      "artists": [
+        {
+          "name": "zaj",
+          "url": "https://open.spotify.com/artist/1kHxRr01RsYGArfE6nH88h"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193717,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3DnMvc5dGvO6Pph4ArKLII"
     },
     {
       "album": {

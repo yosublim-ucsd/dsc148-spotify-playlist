@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nathan Dawe, Joel Corry + Ella Henderson \(pictured\), J Hus + Drake, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,814 likes - 142 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,829 likes - 142 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 141 | [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 |
 | 142 | [All I Need](https://open.spotify.com/track/0KioBKSzWP7lwXOwH6iJF2) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Brad McDermott](https://open.spotify.com/artist/00wJpBsiDvhEGM3M6cnVgI) | [All I Need](https://open.spotify.com/album/1yJFSMd3lTEkhkEuSp8rHC) | 2:00 |
 
-Snapshot ID: `MCwyMjQ5YzljYzkxMmZiNmNlNmVmY2RkYTU3NmQzMjU5NzI2NmIyYzI5`
+Snapshot ID: `MCwyODgwZmUzNGQ5NDhlMTVkMmRkM2ViOGZiYmY1NjBjNDJhYTI0NmJj`

@@ -8378,7 +8378,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P"
@@ -10646,7 +10646,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
@@ -12058,7 +12058,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Veda Saati",
       "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"
@@ -12982,6 +12982,24 @@
       "duration_ms": 177580,
       "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
       "url": "https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf"
+    },
+    {
+      "album": {
+        "name": "D\u00fc\u015f Bah\u00e7eleri",
+        "url": "https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278133,
+      "name": "Zalim",
+      "url": "https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO"
     },
     {
       "album": {

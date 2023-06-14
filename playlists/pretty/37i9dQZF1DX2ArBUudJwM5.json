@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30155,
+  "num_followers": 30158,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWNjMmEyMjA0OGZmMjFlODkzZmQ0NDVlYjE3Nzk2OTFmNzViNWIz",
+  "snapshot_id": "MCw5Y2VjMzQ3ZjIyOTUwYjNjMzFiZWNkYWE2Mzc5NzQ4Njc2YjQ1YmI2",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "Atada",
         "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 171605,
       "name": "Atada",
       "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
-      },
-      "artists": [
-        {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Regi\u00f3n Central",
-        "url": "https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Bl\u00e9fari",
-          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
-        }
-      ],
-      "duration_ms": 247439,
-      "name": "Regi\u00f3n Central",
-      "url": "https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "A cara de Perr4",
         "url": "https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 128798,
       "name": "A Cara de Perr4",
       "url": "https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Regi\u00f3n Central",
+        "url": "https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Bl\u00e9fari",
+          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
+        }
+      ],
+      "duration_ms": 247439,
+      "name": "Regi\u00f3n Central",
+      "url": "https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND"
     },
     {
       "added_at": "2023-06-05 03:00:00",

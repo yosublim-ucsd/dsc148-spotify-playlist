@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Katha Pauer",
-  "num_followers": 377520,
+  "num_followers": 377688,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmY2MTEyMzk4YTNkMmUyNWMzZTM1ZDI3ODgzZThhYTY0ODYzYTY5",
+  "snapshot_id": "MCw4MTI5ZjM1Y2RkZGU0MDA2N2FjZDk2OWQwMGExMzVkOWE0YzEyNmZk",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -27,18 +27,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Mut",
-        "url": "https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R"
+        "name": "sommernacht",
+        "url": "https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP"
       },
       "artists": [
         {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Mut",
-      "url": "https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8"
+      "duration_ms": 135320,
+      "name": "sommernacht",
+      "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -59,6 +63,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "Mut",
+        "url": "https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mut",
+      "url": "https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Die Sterne",
         "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 88000,
       "name": "Die Sterne",
       "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "sommernacht",
-        "url": "https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 135320,
-      "name": "sommernacht",
-      "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "so wie du",
+        "url": "https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "so wie du",
+      "url": "https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "rimini tape",
         "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "PRiNZESSiN",
-        "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
+        "name": "Ein Anruf entfernt",
+        "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
       },
       "artists": [
         {
-          "name": "Luzine",
-          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
         }
       ],
-      "duration_ms": 154394,
-      "name": "PRiNZESSiN",
-      "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
+      "duration_ms": 155773,
+      "name": "Ein Anruf entfernt",
+      "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -211,6 +227,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "PRiNZESSiN",
+        "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "duration_ms": 154394,
+      "name": "PRiNZESSiN",
+      "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Kaviar in Dubai",
         "url": "https://open.spotify.com/album/06nM50CXpNgEMxqYUsXEjO"
       },
@@ -223,38 +255,6 @@
       "duration_ms": 191632,
       "name": "Kaviar in Dubai",
       "url": "https://open.spotify.com/track/4aDiJIDqubp3vguy9sIEz3"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "so wie du",
-        "url": "https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE"
-      },
-      "artists": [
-        {
-          "name": "Alli Neumann",
-          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "so wie du",
-      "url": "https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Ein Anruf entfernt",
-        "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Ein Anruf entfernt",
-      "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "Bleib doch noch",
+        "url": "https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "duration_ms": 161562,
+      "name": "Bleib doch noch",
+      "url": "https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "rimini tape",
         "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
       },
@@ -375,6 +391,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "vielleicht in einem jahr",
+        "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "vielleicht in einem jahr",
+      "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Autohaus (feat. Dilla)",
         "url": "https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We"
       },
@@ -391,38 +423,6 @@
       "duration_ms": 136760,
       "name": "Autohaus (feat. Dilla)",
       "url": "https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Bleib doch noch",
-        "url": "https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS"
-      },
-      "artists": [
-        {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
-        }
-      ],
-      "duration_ms": 161562,
-      "name": "Bleib doch noch",
-      "url": "https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "vielleicht in einem jahr",
-        "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "vielleicht in einem jahr",
-      "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
     },
     {
       "added_at": "2023-06-08 22:00:00",

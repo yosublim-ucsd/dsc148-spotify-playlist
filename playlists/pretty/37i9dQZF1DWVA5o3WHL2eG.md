@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,631 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,796 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 12 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 |
 | 13 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Weil mein Herz ein Lügner ist](https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P) | 3:25 |
 | 14 | [FEMINEM](https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj) | [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq), [TACKA77](https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb) | [FEMINEM](https://open.spotify.com/album/6enWLI4qjGpJek4Q2HBtcN) | 3:42 |
-| 15 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
-| 16 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 15 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 16 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
 | 17 | [Aló](https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q) | [Aló](https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7) | 2:17 |
 | 18 | [Die frühen Jahre](https://open.spotify.com/track/0ZQVtF9HsJXfpWX3P8Ba9C) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga), [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Die frühen Jahre](https://open.spotify.com/album/250anWITcrgT8EeUOudi2A) | 3:43 |
 | 19 | [snooze](https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [snooze](https://open.spotify.com/album/7bBMH6oTsYRZkL1pr2HwEy) | 1:37 |
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 |
 | 31 | [Wenn ich mal Kinder hab](https://open.spotify.com/track/2uPQKiYAGy5th6mnJYjI26) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Wenn ich mal Kinder hab](https://open.spotify.com/album/2PaaxZrYkVSKbyqrpuKhPO) | 3:18 |
 | 32 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
-| 33 | [lovin myself](https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [lovin myself](https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun) | 2:47 |
-| 34 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
+| 33 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
+| 34 | [lovin myself](https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [lovin myself](https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun) | 2:47 |
 | 35 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
 | 36 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
 | 37 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 |
 | 38 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
-| 39 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
-| 40 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
-| 41 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
-| 42 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
-| 43 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
+| 39 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
+| 40 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
+| 41 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
+| 42 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
+| 43 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 44 | [Lichter](https://open.spotify.com/track/3j59l8ANGh5Ze7DJodeWuP) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Rauschgift](https://open.spotify.com/album/22E0iIjFU6XHJYtxg3ztFV) | 3:15 |
 | 45 | [Downtown](https://open.spotify.com/track/5f4UxtW0BHmIXXgZfART7J) | [LUNYA](https://open.spotify.com/artist/42NbfguO5qr3hJSahHb8kL) | [if everything could stay this way](https://open.spotify.com/album/6SdpW7UBLOh6NsukshgM4h) | 2:42 |
 | 46 | [Made For This](https://open.spotify.com/track/6QH11lJR1WmF7fcsNehgm9) | [Maria Basel](https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR) | [Made For This](https://open.spotify.com/album/0NaoFudz9gsW1T2zrbOTSe) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Eyelash](https://open.spotify.com/track/2GRgFq6vsynTtzLkIl4fE5) | [Zylva](https://open.spotify.com/artist/0qLyc7ekSn9O9tQviQObWM) | [Poems from the Dark](https://open.spotify.com/album/4k5x5VzL0ubLA5emMHUtib) | 2:59 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0`
+Snapshot ID: `MCw1MWUxYzUyN2U5ODM3NDEwYmY3YjU5NGE1MmM3MDUzZDFlYzgxYjZi`

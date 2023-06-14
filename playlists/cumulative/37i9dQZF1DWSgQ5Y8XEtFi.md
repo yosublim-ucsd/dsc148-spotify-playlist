@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-255 songs - 11 hr 24 min
+256 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 | 2022-12-02 | 2022-12-17 |
 | [PANIC!!!](https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [PANIC!!!](https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p) | 2:20 | 2023-03-31 |  |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-28 |
-| [PARADE](https://open.spotify.com/track/1uk8saGAlmhALejph5BAvR) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 2:03 | 2023-03-27 |  |
+| [PARADE](https://open.spotify.com/track/1uk8saGAlmhALejph5BAvR) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 2:03 | 2023-03-27 | 2023-06-14 |
+| [PARADE](https://open.spotify.com/track/476tBI8BW8t0y3vvAfjB6r) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:03 | 2023-03-27 |  |
 | [Pipe Down](https://open.spotify.com/track/0YhKoHiIU97nKXKz04WIKc) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Essentials](https://open.spotify.com/album/6T1lITB6vPXpU2Wp3q7k4l) | 2:09 | 2022-06-17 | 2022-06-20 |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 | 2022-05-19 |
 | [Pose \(Bonus Track\) \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/30YtmOd4KaKObRrLgSp54P) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Untrapped](https://open.spotify.com/album/25o1u6zcmIp31q6CPwOaTe) | 2:50 | 2022-04-28 | 2022-07-15 |

@@ -2291,6 +2291,32 @@
     },
     {
       "album": {
+        "name": "Rising Tides",
+        "url": "https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA"
+      },
+      "artists": [
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        },
+        {
+          "name": "G.U.O.L.",
+          "url": "https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16"
+        },
+        {
+          "name": "Protocol Lab",
+          "url": "https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196992,
+      "name": "Rising Tides",
+      "url": "https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK"
       },

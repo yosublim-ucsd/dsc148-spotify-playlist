@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-100 songs - 5 hr 24 min
+101 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [BRUJULA](https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [BRUJULA](https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti) | 2:45 | 2023-06-09 |  |
 | [Buscame](https://open.spotify.com/track/3uvYlMpEH4SIjEdq9quRtS) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Buscame](https://open.spotify.com/album/50Uh3yIx2cTQE5bqXymKF1) | 3:10 | 2023-06-09 |  |
 | [CANDY "4:00 PG"](https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [EL FAVORITO DE LAS NENAS](https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S) | 2:30 | 2023-06-09 |  |
-| [Cenizas](https://open.spotify.com/track/6ESAAoYM3hNHZiZpO5D5QW) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Cenizas](https://open.spotify.com/album/39Y9JiyprWyT3zkVXr8pek) | 2:34 | 2023-06-09 |  |
+| [Cenizas](https://open.spotify.com/track/6ESAAoYM3hNHZiZpO5D5QW) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Cenizas](https://open.spotify.com/album/39Y9JiyprWyT3zkVXr8pek) | 2:34 | 2023-06-09 | 2023-06-14 |
 | [Champions Under The Sun](https://open.spotify.com/track/33wKSyYa3Nt99oDF9j504r) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Champions Under The Sun](https://open.spotify.com/album/4mwDMi0vhKjGxEJbThDmtY) | 3:14 | 2023-06-09 |  |
 | [Chica Basic](https://open.spotify.com/track/7LtUnhtRiywni5SgHfk138) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875) | [Chica Basic](https://open.spotify.com/album/1mw0Jqro40KIMytPQHjU1s) | 3:30 | 2023-06-09 |  |
 | [Como Agua](https://open.spotify.com/track/2D11UPugNp782PwAfHO5QW) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Como Agua](https://open.spotify.com/album/5RClmowbgbMxeV7UKuw1uU) | 3:02 | 2023-06-09 |  |
@@ -39,6 +39,7 @@
 | [Dime Algo](https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [Dime Algo](https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU) | 2:23 | 2023-06-09 |  |
 | [Donde CRJ \- Remix](https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Donde CRJ \(Remix\)](https://open.spotify.com/album/4m0EGRYRzekBkg9pVRNrKN) | 4:16 | 2023-06-09 |  |
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-06-09 |  |
+| [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 | 2023-06-09 |  |
 | [Encerra' en Casa](https://open.spotify.com/track/5L0VzdSpg5XMy3Kwiucloe) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Encerra' en Casa](https://open.spotify.com/album/303Ck6MDpcTYGHFqMCENo5) | 2:44 | 2023-06-09 |  |
 | [Fantasma](https://open.spotify.com/track/2wr5r6QMp2Ps7SZ5og1L9q) | [Dynell](https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO) | [Fantasma](https://open.spotify.com/album/2R2kli8pXAeuGsfSd0HeTv) | 3:02 | 2023-06-09 |  |
 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 | 2023-06-09 |  |

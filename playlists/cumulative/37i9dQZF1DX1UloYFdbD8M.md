@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-62 songs - 4 hr 5 min
+63 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 |  |
 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 | 2022-12-22 |  |
 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 | 2022-12-22 |  |
+| [Shubha Mangalyam](https://open.spotify.com/track/7mSSBrlzOJDALdFjgbpwy9) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Shubha Mangalyam](https://open.spotify.com/album/1n0LIIlZryTZjICC2Jn5ar) | 3:25 | 2023-06-13 |  |
 | [South Side](https://open.spotify.com/track/6ylnJLtaw2V8zSvzyMZRB5) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [South Side](https://open.spotify.com/album/5BvTKsX41gRcYIzkY8AmUg) | 2:32 | 2023-05-26 |  |
 | [Subrahmanyena Rakshitoham \(Onwards & Upwards\)](https://open.spotify.com/track/7JNYHEL3kmsjC0pet07dZl) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Subrahmanyena Rakshitoham \(Onwards & Upwards\) \- Single](https://open.spotify.com/album/2M1qEeEmU1W7YDctJqJiw8) | 7:05 | 2022-12-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/1TVyR9DMy3TWx5pR2aish4) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 2:32 | 2022-10-17 |  |

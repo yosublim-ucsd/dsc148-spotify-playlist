@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from J Hus & Drake, Sam Smith & Madonna, Shawn Mendes, and Jayda G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,730 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,736 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 |
 | 100 | [BLANK THEORY](https://open.spotify.com/track/6zatInfujFU47Xy80BR71I) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [BLANK THEORY](https://open.spotify.com/album/1OUS1oS2ryvAG6l7klwUci) | 3:15 |
 
-Snapshot ID: `MCxiMDUzZWQ0YjE4ZWRiMzQwMWI5MDgzMmE1ODJmOGJjZGZkMjA3ZjJl`
+Snapshot ID: `MCw2OTFjMWY0ZDQ2MmUzNDY4YjlhMmE5YTk3NzU3OTBlYzU5MGQzODYw`

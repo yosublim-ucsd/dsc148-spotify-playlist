@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Give It Up For Love",
+        "url": "https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Give It Up For Love",
+      "url": "https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da"
+    },
+    {
+      "album": {
         "name": "Glasgow",
         "url": "https://open.spotify.com/album/1t2DMbdSiAKi75cbTTqKDz"
       },

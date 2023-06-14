@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1482456,
+  "num_followers": 1482567,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmNmMDFkY2Q2NjNmZjI5NjE0MmVlNTQxNmQ2NmZmZDVmM2NkOWFi",
+  "snapshot_id": "MCxlMTI0YmM3NjY1NjM2NGE3ODE5OTM2OTJjOTk0N2VmMGU5NjIyNDFh",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -339,18 +339,26 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
+        "name": "Love Is the Same as Sadness",
+        "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
       },
       "artists": [
         {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
+        {
+          "name": "itssvd",
+          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
         }
       ],
-      "duration_ms": 138311,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
+      "duration_ms": 87411,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -387,26 +395,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Love Is the Same as Sadness",
-        "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
       },
       "artists": [
         {
-          "name": "CORBAL",
-          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        },
-        {
-          "name": "itssvd",
-          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
         }
       ],
-      "duration_ms": 87411,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
+      "duration_ms": 138311,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
     },
     {
       "added_at": "2023-05-24 19:35:11",
@@ -641,38 +641,6 @@
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
     },
     {
-      "added_at": "2023-05-24 21:11:21",
-      "album": {
-        "name": "under the weather",
-        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "under the weather",
-      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Never Be Alright",
-        "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
-      },
-      "artists": [
-        {
-          "name": "Seon",
-          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
-        }
-      ],
-      "duration_ms": 168308,
-      "name": "Never Be Alright",
-      "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
-    },
-    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Can't Love Myself",
@@ -691,6 +659,38 @@
       "duration_ms": 122723,
       "name": "Can't Love Myself",
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Never Be Alright",
+        "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
+      },
+      "artists": [
+        {
+          "name": "Seon",
+          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+        }
+      ],
+      "duration_ms": 168308,
+      "name": "Never Be Alright",
+      "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
+    },
+    {
+      "added_at": "2023-05-24 21:11:21",
+      "album": {
+        "name": "under the weather",
+        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "under the weather",
+      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -747,22 +747,6 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -827,6 +811,22 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Kids Are Growing Up (Part 1)",
-        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 121369,
-      "name": "Kids Are Growing Up (Part 1)",
-      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "leave me where you found me",
-        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "start again",
-      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Childhood Dreams",
         "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "A SERIES OF UNFORTUNATE EVENTS",
         "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 215647,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "LONEWOLF",
         "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 159149,
       "name": "I fucked up",
       "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "You Broke My Heart Again",
+        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "You Broke My Heart Again",
+      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "She Likes My Tattoos",
         "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 197316,
       "name": "wallflower (feat. Ouse & Sn\u00f8w)",
       "url": "https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "You Broke My Heart Again",
-        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
-      },
-      "artists": [
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "You Broke My Heart Again",
-      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "I Know You Well",
-        "url": "https://open.spotify.com/album/17oX3YBKy2BE3OHjM4PEMH"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "I Know You Well",
-      "url": "https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "i'm sorry",
         "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
       },
@@ -1735,6 +1719,26 @@
       "duration_ms": 138133,
       "name": "cherry cigarettes",
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Felt Like Heaven",
+        "url": "https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh"
+      },
+      "artists": [
+        {
+          "name": "Phazzze",
+          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
+        },
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Felt Like Heaven",
+      "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
     }
   ],
   "unique_name": "tear drop",

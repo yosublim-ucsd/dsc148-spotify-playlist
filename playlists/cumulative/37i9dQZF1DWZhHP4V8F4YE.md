@@ -2,7 +2,7 @@
 
 ### [Viral Hits Africa](https://open.spotify.com/playlist/37i9dQZF1DWZhHP4V8F4YE)
 
-> 
+> All the vibes, enjoyment and future hits here
 
 414 songs - 1 day 0 hr 59 min
 

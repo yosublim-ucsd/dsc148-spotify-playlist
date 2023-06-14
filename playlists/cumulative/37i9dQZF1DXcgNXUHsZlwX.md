@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-402 songs - 23 hr 48 min
+403 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-22 | 2022-09-03 |
 | [Je n'en savais rien](https://open.spotify.com/track/2QheSTpkGUzxTlwPB9Uc37) | [David Couture](https://open.spotify.com/artist/31m4mGXZtpZIwYMaW7tlbM) | [Sortir](https://open.spotify.com/album/7vZkyFnmzhgvoDTVOlqe1B) | 4:09 | 2021-09-20 | 2021-11-02 |
 | [Je ne te dirai pas mon nom](https://open.spotify.com/track/3qW14HtcQf4f4g2q6V0R85) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Les Oiseaux](https://open.spotify.com/album/0MUeuoEadQSPwnsLmlFYnZ) | 4:16 | 2021-01-03\* | 2021-01-25 |
+| [Je retourne à la maison](https://open.spotify.com/track/1w0stJagOZUvxjsP5lEvSF) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:20 | 2023-06-02 |  |
 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 | 2022-11-11 | 2023-05-05 |
 | [Je reviens chez nous](https://open.spotify.com/track/172zakucirQMrMR8t0rFci) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3), [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Je n'veux pas dormir ce soir](https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX) | 3:24 | 2021-04-03 | 2021-10-02 |
 | [Je rêve](https://open.spotify.com/track/399nIYTpN4745fwu3mTUzP) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:32 | 2021-01-07 | 2021-04-30 |
@@ -314,7 +315,7 @@
 | [Pour elle](https://open.spotify.com/track/1EXBuLna0G1M3Eum4mHJfa) | [Alex Richard](https://open.spotify.com/artist/1Q9g6aHFRvJXqNOdpglIbT) | [Pour elle](https://open.spotify.com/album/2ZNVeWHcqRngMISjIkUrbV) | 3:06 | 2021-02-25 | 2021-05-08 |
 | [Pousse Pousse](https://open.spotify.com/track/4R2RjRNPvXNLonRYuybrzq) | [Jonathan Painchaud](https://open.spotify.com/artist/1eTRTFyUNxGHlG9heF6YUF) | [Pousse Pousse \- Single](https://open.spotify.com/album/0wmyFTusdzmf1HQheJojP7) | 5:23 | 2021-01-03\* | 2021-10-09 |
 | [Poussières](https://open.spotify.com/track/58cckTmXztUJhNpHkM44bI) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6), [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Poussières](https://open.spotify.com/album/1Rr1kAIkATCsKd4YjGxgVI) | 3:29 | 2022-03-11 | 2022-07-25 |
-| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2022-07-08 |  |
+| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2022-07-08 | 2023-06-14 |
 | [Prendre soin du beau](https://open.spotify.com/track/5x1VyIiwZSY1yTj82IrFQf) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/1Zag6vMrmoYYqHuGsmyRoy) | 3:15 | 2021-01-03\* | 2022-07-29 |
 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 | 2021-02-15 | 2022-07-28 |
 | [Provincetown](https://open.spotify.com/track/73c2Iy7Nw9Xho5HUifdWbW) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Provincetown](https://open.spotify.com/album/0cRpTtG3Ev6Y4cZeOMJUj5) | 4:10 | 2022-02-28 | 2022-03-05 |

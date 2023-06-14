@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KyoungSeo(\uacbd\uc11c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MILLIC(\ubc00\ub9ad)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 198986,
       "name": "120BPM",
       "url": "https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1"
@@ -926,6 +926,28 @@
       "duration_ms": 189656,
       "name": "Bichulae (feat. Luli Lee)",
       "url": "https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY"
+    },
+    {
+      "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244536,
+      "name": "BLEACHING (feat. Crush)",
+      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
     },
     {
       "album": {
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 241663,
       "name": "Golden Mask",
       "url": "https://open.spotify.com/track/4g7Up38eOByMRnGX6SiHw5"
@@ -3380,6 +3402,24 @@
       "duration_ms": 185773,
       "name": "In your time",
       "url": "https://open.spotify.com/track/2ZhVUSHsj08XhWsPmewal1"
+    },
+    {
+      "album": {
+        "name": "INFP",
+        "url": "https://open.spotify.com/album/6VvIurbhKuSuhOVVFY4iXd"
+      },
+      "artists": [
+        {
+          "name": "Crackshot",
+          "url": "https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276253,
+      "name": "INFP",
+      "url": "https://open.spotify.com/track/53TbTPtP4Dw0zkTevQC4pZ"
     },
     {
       "album": {
@@ -4502,7 +4542,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 180213,
       "name": "Moonshot",
       "url": "https://open.spotify.com/track/17wECh3CzqeHm48pqm544P"
@@ -4628,7 +4668,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 193880,
       "name": "Natural History Museum",
       "url": "https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG"
@@ -4712,6 +4752,24 @@
       "duration_ms": 192276,
       "name": "Next episode (with Choi Jung Hoon of JANNABI)",
       "url": "https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV"
+    },
+    {
+      "album": {
+        "name": "Night overtime",
+        "url": "https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW"
+      },
+      "artists": [
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Night overtime",
+      "url": "https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1"
     },
     {
       "album": {
@@ -5394,6 +5452,24 @@
       "duration_ms": 234758,
       "name": "PLAYLIST",
       "url": "https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9"
+    },
+    {
+      "album": {
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
     },
     {
       "album": {

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s"
+    },
+    {
+      "album": {
         "name": "Burns Effect",
         "url": "https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 150836,
       "name": "Chamber of Reflection (Live Cover)",
       "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
@@ -542,6 +560,24 @@
       "duration_ms": 170217,
       "name": "could be nice",
       "url": "https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda"
+    },
+    {
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241186,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP"
     },
     {
       "album": {
@@ -744,7 +780,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 242160,
       "name": "Fall With Me",
       "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
@@ -820,6 +856,24 @@
       "duration_ms": 174914,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
+    },
+    {
+      "album": {
+        "name": "favorite team",
+        "url": "https://open.spotify.com/album/228jni392cGj2AFtzMh99u"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154887,
+      "name": "favorite team",
+      "url": "https://open.spotify.com/track/2XVeDs8s7TRzo57wNJ57CA"
     },
     {
       "album": {
@@ -924,7 +978,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 199183,
       "name": "get out",
       "url": "https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys"
@@ -1090,6 +1144,24 @@
       "duration_ms": 218181,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "album": {
+        "name": "old songs",
+        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
+      },
+      "artists": [
+        {
+          "name": "mage tears",
+          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63934,
+      "name": "i'm going to fail my class",
+      "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
     },
     {
       "album": {
@@ -1745,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "fairies in our house",
+        "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
+      },
+      "artists": [
+        {
+          "name": "fairies in our house",
+          "url": "https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93482,
+      "name": "out",
+      "url": "https://open.spotify.com/track/7fZkcPKxlkGkxyc1tbOt0g"
+    },
+    {
+      "album": {
         "name": "Let Them In",
         "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
       },
@@ -1774,7 +1864,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 563740,
       "name": "Paradise Is Mine",
       "url": "https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8"
@@ -1828,7 +1918,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
@@ -2544,7 +2634,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-14",
       "duration_ms": 73598,
       "name": "town",
       "url": "https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm"
@@ -2674,6 +2764,24 @@
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+    },
+    {
+      "album": {
+        "name": "it'll pass",
+        "url": "https://open.spotify.com/album/3CAGbSE3Xgq0PI6SlwCiRC"
+      },
+      "artists": [
+        {
+          "name": "hold",
+          "url": "https://open.spotify.com/artist/4v1gmWIv1bjj1LTVnCeoCO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1fckVDRsaql38b9GfMjZ6x"
     },
     {
       "album": {

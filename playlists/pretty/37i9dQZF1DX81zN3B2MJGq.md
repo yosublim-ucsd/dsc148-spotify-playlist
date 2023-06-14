@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 
 > Come on a wild ride through <a href="spotify:artist:4Ws2otunReOa6BbwxxpCt6">Benny Benassi</a>'s hits and selections!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,531 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,549 likes - 15 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 | 14 | [Sinner \- Mixed](https://open.spotify.com/track/4BU3lzv2Pf64wSCKRPUXUK) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Sinner \(Mixed\)](https://open.spotify.com/album/0yCSB8ISxFGDqT0aT4Xvp7) | 5:01 |
 | 15 | [My Paradise \- Mixed](https://open.spotify.com/track/6BhmPMXeGxuHzC01cpuozC) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise \(Mixed\)](https://open.spotify.com/album/42B9prasHTb18UosuK4J6x) | 7:07 |
 
-Snapshot ID: `MCwwNzkxMGMwOTI4MzFiN2M2ZGVjMzcxM2VhMTNjMTA1YTMxOTljYTBh`
+Snapshot ID: `MCw4MzlmNGFjYzM2OTg2OTFkNGE4NzZkZmZiZDAxZWY5NzVjZTFiMzE3`

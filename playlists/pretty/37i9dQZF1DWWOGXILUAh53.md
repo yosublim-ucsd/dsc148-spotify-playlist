@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Joel Corry, Nathan Dawe and Ella Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,566 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,714 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 74 | [Truth](https://open.spotify.com/track/3zw4rp64FbAAN1vb1mcJdr) | [Daria](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Truth](https://open.spotify.com/album/430cf7aU829wxNT823Fl0z) | 2:56 |
 | 75 | [Dancing All Alone](https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Dancing All Alone](https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF) | 3:06 |
 
-Snapshot ID: `MCxiMDE3ZTRjYjVjYzVhMjcwZTQwYzJiZDU5ZjI4MjI3ZGMwOWJjM2Ri`
+Snapshot ID: `MCw2ZGE5Y2ZlZTU2ZjBmMGY5MTVkNjY3OGY2ZTZjNWRhNGY2MjVmOWM0`

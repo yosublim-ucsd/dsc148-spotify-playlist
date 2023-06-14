@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: brb., KIRE
 
-818 songs - 2 day 1 hr 1 min
+819 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Has it all](https://open.spotify.com/track/0r7ldyewgd6Rv3pF0L8rSL) | [Sugar Club](https://open.spotify.com/artist/2SYNq4ziATc0sU8qeiAirU) | [Has it all](https://open.spotify.com/album/5N9A9SdqSNstzmUfln9BU2) | 3:19 | 2022-11-17 | 2023-01-27 |
 | [HATSUDAI](https://open.spotify.com/track/0tmBHngPORavXL8PNt0yxI) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [HATSUDAI](https://open.spotify.com/album/4NkjZyInIja9q5mmcM3wK8) | 3:50 | 2023-02-02 | 2023-02-24 |
 | [Have A Break!](https://open.spotify.com/track/3tbq7cimDQYHvfV8LQIgEX) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Have A Break!](https://open.spotify.com/album/3rjU1R2gOxdIf4TiGudtJV) | 3:05 | 2022-09-29 | 2022-12-09 |
+| [Have A Nice Dream](https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1rMO9zw1kCbPn93sfKpsPL) | 4:08 | 2023-06-09 |  |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-22 | 2022-10-29 |
 | [Healing House](https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Healing House](https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk) | 3:47 | 2022-07-14 | 2023-06-09 |
 | [healthy](https://open.spotify.com/track/1imOkV6736s6g2BPIt1SIW) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [healthy](https://open.spotify.com/album/7gd8HhSvXGfJ6jVdPbCcRo) | 3:09 | 2023-02-16 | 2023-04-21 |
@@ -543,7 +544,7 @@
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2023-02-17 |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Rockstar](https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Rockstar](https://open.spotify.com/album/6p6WyOh5Bd57KZiGNoY9Lx) | 3:02 | 2022-10-20 | 2022-12-09 |
-| [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 |  |
+| [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 | 2023-06-14 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-11 | 2023-05-05 |
 | [Rule The World](https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Rule The World](https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe) | 2:27 | 2023-03-09 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 | 2023-03-23 | 2023-04-21 |

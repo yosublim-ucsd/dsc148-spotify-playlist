@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 877557,
+  "num_followers": 878355,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Y3MGRhOGY0MGVmNGVhNzA2MjQ4MDkxN2M5NWMwYzdlNDQyYjE1",
+  "snapshot_id": "MCw0OTgzZWUyYTdhOWY4MWMxMTBhYjIxNDkyMzhiYWExMDAzM2Q3MjRl",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "dirty laundry (slowed)",
-        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
+        "name": "Tard le soir..",
+        "url": "https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
         }
       ],
-      "duration_ms": 167369,
-      "name": "dirty laundry - slowed",
-      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
+      "duration_ms": 145738,
+      "name": "Tard le soir..",
+      "url": "https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
+        "name": "dirty laundry (slowed)",
+        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 167369,
+      "name": "dirty laundry - slowed",
+      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
         "name": "Ease Off (Slowed & Reverbed)",
         "url": "https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 161750,
       "name": "Ease Off - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
-        "name": "Use Me (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT"
-      },
-      "artists": [
-        {
-          "name": "PLAZA",
-          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
-        }
-      ],
-      "duration_ms": 279750,
-      "name": "Use Me (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
     }
   ],
   "unique_name": "slowed and reverbed",
