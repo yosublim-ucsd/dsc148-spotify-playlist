@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,517 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,068 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
 | 150 | [Into You \- 3LAU Remix](https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Into You \(3LAU Remix\)](https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl) | 3:17 |
 
-Snapshot ID: `MCw3MGNjOGE5MGUwNzc0MGQwMzM3ZGUxOWMwNGYwOWQxZWExNzI5ZjUw`
+Snapshot ID: `MCxiNzQxNDc0NzdmYTQ4MmExMjg1YTVmM2M5NzY3ZGYwNjg1NzVhYzRl`

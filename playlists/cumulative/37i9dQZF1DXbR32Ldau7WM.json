@@ -1116,10 +1116,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 233533,
       "name": "Days",
       "url": "https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE"
+    },
+    {
+      "album": {
+        "name": "REARRANGE THE BACK HORN",
+        "url": "https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ"
     },
     {
       "album": {
@@ -5402,10 +5420,32 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 274480,
       "name": "SPF(STUTS remix)",
       "url": "https://open.spotify.com/track/6ooDGvsCrAJf5gNv9xhvX8"
+    },
+    {
+      "album": {
+        "name": "SPF(STUTS remix)",
+        "url": "https://open.spotify.com/album/00a84YdUoHDhBuyHKmUpeS"
+      },
+      "artists": [
+        {
+          "name": "GRAPEVINE",
+          "url": "https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274480,
+      "name": "SPF(STUTS remix)",
+      "url": "https://open.spotify.com/track/7bWIEAjOB94ZQ6gvP0RZdq"
     },
     {
       "album": {

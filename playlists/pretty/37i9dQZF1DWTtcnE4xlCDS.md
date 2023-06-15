@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,700 likes - 123 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,741 likes - 123 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Full Moon](https://open.spotify.com/track/0WBAox6gdVhMnUEWlezo5V) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Full Moon](https://open.spotify.com/album/5IHxIxWGScsplt5lSdf6q3) | 4:40 |
+| 1 | [Full Moon](https://open.spotify.com/track/1GkZJywPhRPBYYaHz1eV5H) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Full Moon](https://open.spotify.com/album/6SxKwXRzM0xlJTPezsncRy) | 4:40 |
 | 2 | [Bright](https://open.spotify.com/track/3dUeEq0FPwS07H37UBlRnm) | [ASOBINOTES](https://open.spotify.com/artist/4IYzJWak1qpMeitj4milSo), [DEN\-CHAN](https://open.spotify.com/artist/7JbRsEpHRHefg0LuPBtVVM), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [SYO](https://open.spotify.com/artist/0tCRCsOhEyiu1oSEE0XfJh) | [DEN\-CHAN COLLECTION \(vol.3\)](https://open.spotify.com/album/2QnhtFId96y6DELldDoKSi) | 2:26 |
 | 3 | [Our Home](https://open.spotify.com/track/5gZnMALqVjdKlZCE0GjokI) | [ASOBINOTES](https://open.spotify.com/artist/4IYzJWak1qpMeitj4milSo), [DEN\-CHAN](https://open.spotify.com/artist/7JbRsEpHRHefg0LuPBtVVM), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Fugenn & The White Elephants](https://open.spotify.com/artist/1hoI4UH9YcvetPkYlMIZiH) | [DEN\-CHAN COLLECTION \(vol.3\)](https://open.spotify.com/album/2QnhtFId96y6DELldDoKSi) | 2:35 |
 | 4 | [Out of My Mind](https://open.spotify.com/track/4IJGQFK6BJTeDvVhiDEIDa) | [ASOBINOTES](https://open.spotify.com/artist/4IYzJWak1qpMeitj4milSo), [DEN\-CHAN](https://open.spotify.com/artist/7JbRsEpHRHefg0LuPBtVVM), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [DEN\-CHAN COLLECTION \(vol.2\)](https://open.spotify.com/album/00z7ysUXN4QnogIyM0ctQD) | 2:34 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 122 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 123 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCxmZmUyOGIyMzUyOWMzNzY3N2IxNTQ4ODI1MGIwNzQ5N2FmMTc2OTk3`
+Snapshot ID: `MCw3MjFmMTEyMjY1ZWVmYjkyMTI5OWU3ODNlYmE4MmNmY2MwYzQ2OThi`

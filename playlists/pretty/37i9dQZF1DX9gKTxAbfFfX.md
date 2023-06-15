@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,645 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,548 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 99 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
 | 100 | [Rayos de Sol](https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw) | [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1) | [Rayos de Sol](https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA) | 3:51 |
 
-Snapshot ID: `MCxjZWJjMGU4MTE0OTg2ZWJkOTZlM2M5YjM2YTQ1MmFiNzM1YTlhYzU3`
+Snapshot ID: `MCwxNWNmNzRkMmRkNDNlOTIyYzQyNzU5YjQ5NWM3ZTExNDgwZDQ4NGEy`

@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 162786,
       "name": "Allergy",
       "url": "https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 179299,
       "name": "Ando Buscandote",
       "url": "https://open.spotify.com/track/2PUn4BlFdKj1sFDJ5vwsVA"
@@ -4336,6 +4336,24 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
+        "name": "De la vida como pel\u00edcula y su tragedia comedia y ficci\u00f3n",
+        "url": "https://open.spotify.com/album/5evnnefbaMtsLE6NtjYzNv"
+      },
+      "artists": [
+        {
+          "name": "denenlen",
+          "url": "https://open.spotify.com/artist/26xlurQ9nXeHNmG2LverDr"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445200,
+      "name": "De la vida como pel\u00edcula y su tragedia comedia y ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6iG2g7dVQ9u7xTGscDNMZz"
     },
     {
       "album": {
@@ -16184,7 +16202,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 138006,
       "name": "Retumba la Bocina",
       "url": "https://open.spotify.com/track/0ecw9wkjdPrW2hwOOP50F0"
@@ -16832,6 +16850,10 @@
         {
           "name": "TRASHXRL",
           "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
       "date_added": "2023-06-05",
@@ -17902,7 +17924,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 279272,
       "name": "Soy Un Simple Bandolero",
       "url": "https://open.spotify.com/track/6Xr4ES6o2plxpLm8cjuUmy"
@@ -22096,7 +22118,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"

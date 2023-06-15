@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,111 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,112 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 65 | [kein du und ich](https://open.spotify.com/track/7jNOf1wfIWK6EdHr9bNMGu) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [kein du und ich](https://open.spotify.com/album/7IuPgwAbK0RLJ4EHV9olgm) | 2:51 |
 | 66 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 |
 | 67 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
-| 68 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 68 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 69 | [SchwippSchwapp](https://open.spotify.com/track/2BfeKcPnZaqA1KRR0kgejS) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [SchwippSchwapp](https://open.spotify.com/album/63vum5eeRhs9EDkyVEH9kg) | 3:10 |
 | 70 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 |
 | 71 | [Besser du gehst](https://open.spotify.com/track/1ygtXrZ2IOV0hrmtkCTqYh) | [Joshua47](https://open.spotify.com/artist/4Qc6lgBWj6kK0hqa0csMTY) | [Besser du gehst](https://open.spotify.com/album/6HncoYhb29YeLl9ILVEvAb) | 2:26 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Kein Künstler](https://open.spotify.com/track/0l3j8q0jYIMDsOHt2eG7QG) | [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [Kein Künstler](https://open.spotify.com/album/5CMnOMRzAjqTE0KYCCr8S2) | 3:39 |
 | 106 | [PLOMO](https://open.spotify.com/track/3t9UdRTNyegLcFdDaUD3QJ) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [PLOMO](https://open.spotify.com/album/14jXb1MegQ8z6W1bYjPDhR) | 2:41 |
 
-Snapshot ID: `MCwwNGJlOWYyNzgwODcwODEwYTljYmFiYTg2NzhiMjk5OGIyZGY1NDZh`
+Snapshot ID: `MCw1Zjc2NzEyMmRlMWFiNGE4MzViMTYxOGNjY2M3Njg4OTMzNGEyNjE5`

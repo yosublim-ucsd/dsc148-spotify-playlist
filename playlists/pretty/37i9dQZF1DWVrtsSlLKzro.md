@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,264 likes - 143 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,343 likes - 143 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 142 | [Once You Love Someone](https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Once You Love Someone](https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS) | 3:25 |
 | 143 | [Lonely Dulcimer](https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lonely Dulcimer / In Effect](https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM) | 3:13 |
 
-Snapshot ID: `MCxjZmVlMTU5Mzc2MmYyNzhlMzhjZTJlM2YyN2I1Y2I2OWZkODAwZjg2`
+Snapshot ID: `MCw1YjhjZGE4NzUyNmYzZGU0OWIzYTZkMDg3YjY5MDQzMTMwYzhmYTll`

@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Baby Chou",
+        "url": "https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars"
+      },
+      "artists": [
+        {
+          "name": "YNS",
+          "url": "https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Baby Chou",
+      "url": "https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n"
+    },
+    {
+      "album": {
         "name": "Ik Zie Je",
         "url": "https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 192648,
       "name": "Likkle Waist",
       "url": "https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO"

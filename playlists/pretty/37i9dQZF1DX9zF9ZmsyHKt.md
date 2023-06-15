@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,177 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,228 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Oração](https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Urias](https://open.spotify.com/artist/1bxOepRISGRGZoYUZdaJlq), [Alice Guél](https://open.spotify.com/artist/64voDtcB8UgIPjcHeR37xN), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Danna Lisboa](https://open.spotify.com/artist/4eAT912SEh1ne4GB6j6R4b), [Ventura Profana](https://open.spotify.com/artist/5OtKmdYx2SsAzr6RjrwAip), [Verónica Decide Morrer](https://open.spotify.com/artist/2j7BDoavQE8LmMPxZsLcvF) | [Oração](https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb) | 3:59 |
 | 100 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
 
-Snapshot ID: `MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm`
+Snapshot ID: `MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl`

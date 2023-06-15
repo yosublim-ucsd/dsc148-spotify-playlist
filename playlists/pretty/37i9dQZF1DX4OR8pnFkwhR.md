@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: TOMOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,862 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,925 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [夜明けの君へ](https://open.spotify.com/track/09bITqmWyV9rIKcT6VHAey) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夜明けの君へ](https://open.spotify.com/album/47NSlsVJJByZSEvpimH9DY) | 3:59 |
+| 1 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 |
 | 2 | [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 |
 | 3 | [Dance like a monkey feat\. 森](https://open.spotify.com/track/3661hmTa7nvZVDAwMDXrps) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [Dance like a monkey feat\. 森](https://open.spotify.com/album/6o0QkzbPh2a7UsmOuEm7EP) | 3:00 |
 | 4 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 33 | [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 |
 | 34 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 |
 | 35 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 |
-| 36 | [わたし達のジャーニー](https://open.spotify.com/track/7jBZEvYiDd1P44XrHROHfq) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたし達のジャーニー](https://open.spotify.com/album/209qMKGCRlobYowrmvIRgo) | 4:07 |
+| 36 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 |
 | 37 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 |
 | 38 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 |
 | 39 | [とりとめもなく](https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs) | [SPRINGMAN](https://open.spotify.com/artist/4LZ9A4yEqrFENhEVdzyPi8) | [とりとめもなく](https://open.spotify.com/album/7ol3aw2wOOL9hAXbQVOcRc) | 3:58 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [僕らじゃなきゃだめになって](https://open.spotify.com/track/6KIYsdABQFGyNOjYBLNvfJ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃだめになって](https://open.spotify.com/album/2CGM51cwVTnhPPtbgkr97p) | 4:50 |
 | 57 | [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 |
 | 58 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
-| 59 | [日曜前夜](https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [日曜前夜](https://open.spotify.com/album/4aVcSbbEmsjUlDeCAD8y5N) | 4:24 |
-| 60 | [かなしくないよ](https://open.spotify.com/track/2dUXOw1GlBevR3vZ3QdnqJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [かなしくないよ](https://open.spotify.com/album/2pizEOmMIDYbyw3v1Aeo4A) | 3:51 |
+| 59 | [Sunday Eve](https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Sunday Eve](https://open.spotify.com/album/72uKl7a6PC95Fnu6Ew35sX) | 4:24 |
+| 60 | [Kanashikunaiyo](https://open.spotify.com/track/1hhY0jN3PjVSKFluT0APp5) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Kanashikunaiyo](https://open.spotify.com/album/4cBwOU9R10k9wlYJRmoMBY) | 3:51 |
 | 61 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 |
 | 62 | [ビッグバンに乗って](https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV) | [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB), [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh) | [ビッグバンに乗って](https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt) | 5:17 |
 | 63 | [大事なお知らせ。](https://open.spotify.com/track/1Ei3DGdcshetCXZGpIxoQ7) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [大事なお知らせ。](https://open.spotify.com/album/4DgRT6tykvY6VypjXKXDvw) | 4:33 |
 | 64 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 |
 | 65 | [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 |
 | 66 | [花も咲かない束の間に](https://open.spotify.com/track/4ddWp9Fwhl1lUpnjWF6e4f) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [花も咲かない束の間に](https://open.spotify.com/album/0WOkn4kM1h2Cc0o5EaulNa) | 5:12 |
-| 67 | [勘違い](https://open.spotify.com/track/6hGlfFoZXR43aIeLfdQq77) | [野澤です。](https://open.spotify.com/artist/1tQ5zb61T7YXbgIo3yzPrv) | [勘違い](https://open.spotify.com/album/3FiIUCLa8EscIuT1x4VDYD) | 4:54 |
+| 67 | [misunderstanding](https://open.spotify.com/track/1L83QqUdy4uf6dwLuFPh8D) | [nozawadesu](https://open.spotify.com/artist/0RqNNlbG3uSGy2rFz4RO7F) | [misunderstanding](https://open.spotify.com/album/23k2d1ZEOCTJUCQQrPGlhM) | 4:54 |
 | 68 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
 | 69 | [Run](https://open.spotify.com/track/5o0vdr7UZ941BPZDwfZuaD) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season 1.5](https://open.spotify.com/album/3FM7BOJPcakm3tJr3UVTJs) | 3:20 |
 | 70 | [遮二無二アイキャッチ](https://open.spotify.com/track/1Yq9CgUpZ4453lF89q4miA) | [Viewtrade](https://open.spotify.com/artist/5t0IQMpDwk0CQ0B1vmJxbi) | [遮二無二アイキャッチ](https://open.spotify.com/album/12diPhxY1KgE0NAxVP1a2W) | 3:40 |
 
-Snapshot ID: `MCwxZThjYzUwYjgzNjlhNjMxNDUwZmU0MmNlYmE0ODEwYTkyNGZlMjMz`
+Snapshot ID: `MCw3MmNmZDdhYTE3M2ZjNDk5ZTVmM2RkMGM0ZDk5MjU4Yjc1NjQ3MGJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,905 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,072 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Whenever I Want](https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Whenever I Want](https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA) | 4:29 |
 | 100 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 |
 
-Snapshot ID: `MCw4Yjk5ZTZkYjQwZDY3NTkwYzk4YWE4YmYyMmFlOWQ4OTk3YWQzZWI3`
+Snapshot ID: `MCw0YmQwMTM4ZGNjYTgxMDlhYzRiYmQ4NTUyNjFjNTg2MDhiY2IxZTY2`

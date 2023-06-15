@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,318 songs - 3 day 0 hr 55 min
+1,319 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Dile a Tu Orgullo \- En Vivo](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 | 2022-02-22 | 2022-03-04 |
 | [Dile al Amor](https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Olvidar](https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3) | 3:19 | 2023-02-09 | 2023-02-22 |
 | [DISCRETA](https://open.spotify.com/track/0OXtFvUypfYoJOBXh9h5Lx) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [DISCRETA](https://open.spotify.com/album/4q4JxBCUJBJ5LMOcaK6Ewd) | 3:54 | 2023-01-17 | 2023-02-20 |
+| [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2023-06-14 |  |
 | [Distancia \- Remix](https://open.spotify.com/track/7K3MP841Z0yq9mcKWL0sNB) | [Jean Kala](https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9), [Pranz](https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [Estradda](https://open.spotify.com/artist/6ZpJOi9O7SxsmQjMe7vhoZ), [Alejandro Luna](https://open.spotify.com/artist/7BQztWKKXfsayOCFxt4LxV), [Bogaa](https://open.spotify.com/artist/0ECnuHpIHvNfbpOdR7pIOY) | [Distancia \(Remix\)](https://open.spotify.com/album/3cXQsuHQYfSTfr4HgI3v74) | 4:23 | 2022-02-15 | 2022-03-09 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-10 | 2023-02-16 |
 | [DIVE IN!](https://open.spotify.com/track/0oEAm7huOvXiq7mre8Nual) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/6BsXBd1w8C4Eh3xSrUCUmQ) | 1:40 | 2022-04-27 | 2022-05-04 |
@@ -957,7 +958,7 @@
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-03-07 | 2023-05-27 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-12 | 2022-06-15 |
 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 | 2022-05-02 | 2022-05-08 |
-| [Reflejo](https://open.spotify.com/track/6PPpY9V45uggKf6iL2OZl4) | [Janaimar](https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV) | [Reflejo](https://open.spotify.com/album/304IVBSzDUlxO71PlPdwNm) | 4:12 | 2023-03-09 |  |
+| [Reflejo](https://open.spotify.com/track/6PPpY9V45uggKf6iL2OZl4) | [Janaimar](https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV) | [Reflejo](https://open.spotify.com/album/304IVBSzDUlxO71PlPdwNm) | 4:12 | 2023-03-09 | 2023-06-15 |
 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-04-11 | 2023-04-20 |
 | [Respuesta Cero](https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM) | 3:23 | 2022-03-01 | 2022-04-13 |
 | [REZAS](https://open.spotify.com/track/1Vj0a0Ox501tSjxMFq7FtO) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [REZAS](https://open.spotify.com/album/0cFHZfT43EQHck5pa9s1A1) | 3:05 | 2022-01-18 | 2022-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,144 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,618,183 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Get A Ticket](https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB) | [Chase Fetti](https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Get A Ticket](https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw) | 2:52 |
 | 50 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 |
 
-Snapshot ID: `MCxiZmRkYzVkZTczMWJjOWViN2MwNTNhOTRlYjM4YTQ2NDAzZTQxNDI2`
+Snapshot ID: `MCxkNWNmNDM4MjAxZjVmMDgwYjUwNTkzNjI3OTgyMmM3ZjdlZDU1ODhk`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-290 songs - 14 hr 36 min
+291 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 |  |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 |  |
+| [me](https://open.spotify.com/track/52EybjwbR5hO0mnq2CGoKe) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [me](https://open.spotify.com/album/2pThbGBFk8yPRNtlirmSG1) | 2:51 | 2023-06-14 |  |
 | [Me Times Two](https://open.spotify.com/track/5TrA3Iopc6I2PbwGTKv9m8) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Me Times Two](https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ) | 2:52 | 2022-07-14 | 2023-04-28 |
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 | 2023-04-28 |
 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 | 2022-12-26 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- AvoidRafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,031 likes - 81 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,155 likes - 81 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181,675 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,182,708 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [When I'm Alone](https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [When I'm Alone](https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva) | 3:20 |
 | 150 | [You Got The Love](https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [You Got The Love](https://open.spotify.com/album/2kNfpqN1fT9lRc1cYuAhWt) | 3:16 |
 
-Snapshot ID: `MCw3NWZjODA0NWZkMDUzYzk1ODZjYTJiNmY0YzdlMjNiNjAxNzA0NDE2`
+Snapshot ID: `MCw2ZDA2Y2M3MTg3NjhjZjI2ZTJiMTgzM2U3NTMzMTczMjZhZGIwOWQ1`

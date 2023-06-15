@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,548 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,556 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 7 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 |
 | 8 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
 | 9 | [Bring Me Back Home Again](https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Bring Me Back Home Again](https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe) | 3:43 |
-| 10 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 |
-| 11 | [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 |
+| 10 | [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 |
+| 11 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 |
 | 12 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 |
 | 13 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 |
 | 14 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 17 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 |
 | 18 | [Counting Colors](https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 6:08 |
 | 19 | [Chrysomallousa](https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq) | [Demetris Mesimeris](https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A) | [Chrysomallousa](https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m) | 3:39 |
-| 20 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
-| 21 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
+| 20 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
+| 21 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
 | 22 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
 | 23 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
 | 24 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 43 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
 | 44 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 |
 | 45 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
-| 46 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 |
-| 47 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
+| 46 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
+| 47 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 |
 | 48 | [Got till it's gone](https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR) | [Atomic stooges](https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL), [好口博章](https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA) | [Got till it's gone](https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA) | 3:48 |
 | 49 | [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 |
 | 50 | [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 |

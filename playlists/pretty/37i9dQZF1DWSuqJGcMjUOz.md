@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,332 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,374 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 131 | [Pénélope](https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [la fin n’arrive jamais](https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d) | 4:15 |
 | 132 | [Moshpit à St\-Dilon](https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe) | [Margaret Tracteur](https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz) | [L'heure du thé avec Margaret Tracteur](https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP) | 3:48 |
 
-Snapshot ID: `MCw0ZjQ1Njk1YjExYjcyNTdlOWFmNTFjN2Y0NzA0MjY4N2UwMDQwZGZj`
+Snapshot ID: `MCwyZGZmNmE3Mjc1MDk0MTM4MDQyY2E4MzViYTg2YTlkZjljMzZmZmQ0`

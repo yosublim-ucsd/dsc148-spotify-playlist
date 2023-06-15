@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,189 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,551 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 42 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |
 | 43 | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 |
 | 44 | [Vodka \(feat\. ANNA\)](https://open.spotify.com/track/5PenP8v9fJ3ccElGKOKT9s) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Facendo Faccende](https://open.spotify.com/album/3VmtySjQrfflccXajzDArW) | 2:49 |
-| 45 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
+| 45 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
 | 46 | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk) | 3:31 |
 | 47 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
 | 48 | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/track/3qlDeIWsa8ihI0iqiUPE52) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/album/4IqPSH11Jo214e7QycL678) | 2:45 |
 | 49 | [Stylist \(feat\. Guè\)](https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Stylist \(feat\. Guè\)](https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5) | 2:19 |
 | 50 | [PLAYA](https://open.spotify.com/track/4cRafb32DQSDpvIxe5awk5) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 2:17 |
 
-Snapshot ID: `MCxkZDVkMGE3MDBkOWZjYzVkMTJkNWMyNWU1NTMwZjAzNjgyMDFkNTI5`
+Snapshot ID: `MCxhMjgxMmFkMGQ2ZjM0Y2FjOTUwZmVhOTE0N2Y2NzllOGRmZTg0ZDI4`

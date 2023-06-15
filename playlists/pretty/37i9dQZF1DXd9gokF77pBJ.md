@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,718 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 59 | [Until Dawn \- Original Mix](https://open.spotify.com/track/0K613P27zJ2GcJ4fM5Q2J4) | [Doildoshi](https://open.spotify.com/artist/286xMU6guFcghkncOEDcJH) | [Invisible Threat](https://open.spotify.com/album/6LWwyEmPZfHR5hh0qZVMKL) | 4:42 |
 | 60 | [Funk The Tribe](https://open.spotify.com/track/6hjgXS8zDeaonIMlmtqZDj) | [Ash Dargan](https://open.spotify.com/artist/7uMdXW4knlRBzxIvzpyJby) | [Breath Of A Man](https://open.spotify.com/album/3nmqsQR4920MF39cgHx4ns) | 5:13 |
 
-Snapshot ID: `MCw3Yjc5MjI5ZDM4MDBkOTA1OTg3NDdmMWViYWJkNmRiOThjNDIxNWM2`
+Snapshot ID: `MCw1OWFlYTY0Mzc4NzE2ZDQwMGNmZTg4YzQxZDFkOGY4MmNkYzM1N2E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,221 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,496 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [STILL HUMBLE](https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [STILL HUMBLE](https://open.spotify.com/album/6wO8JOuEelcIK5XVju4hm2) | 3:25 |
 | 50 | [Monster](https://open.spotify.com/track/48SOSe8sqpQuQqDdzQ56iB) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Monster](https://open.spotify.com/album/05xL551uw7yJyDWjM0LAF9) | 2:36 |
 
-Snapshot ID: `MCxjODNhZjQ2Zjg3MGRlOGU2ODNlZjMyNTdiNmJmMzQ5OTYzYmJlNzNm`
+Snapshot ID: `MCxkOWMzMmRmOWRjYzVmYWMwYmM2YTk5MjBmYjFlN2U3YzcyMTRmNGFk`

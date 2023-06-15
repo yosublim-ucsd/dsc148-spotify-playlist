@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-313 songs - 23 hr 20 min
+314 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Heartbeat](https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Heartbeat](https://open.spotify.com/album/7gRArqRwOK3uXvcJXm3EO0) | 4:00 | 2023-04-27 |  |
 | [Hi Haze](https://open.spotify.com/track/3R7JjLIkCy6AYt6HYZxvn9) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Hi Haze](https://open.spotify.com/album/3TgP8J8amWfuL6pIzhONGw) | 6:57 | 2023-04-06 | 2023-06-09 |
 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 | 2023-01-19 | 2023-03-28 |
-| [Hockey](https://open.spotify.com/track/7ueBZjEJqv7Yg8oaBfSzee) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Hockey](https://open.spotify.com/album/4dqlCIVBfGg0XNS5chiEe2) | 6:01 | 2023-05-18 |  |
+| [Hockey](https://open.spotify.com/track/7dT1lPm8lHghEY1qYdO8a1) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 6:01 | 2023-06-09 |  |
+| [Hockey](https://open.spotify.com/track/7ueBZjEJqv7Yg8oaBfSzee) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Hockey](https://open.spotify.com/album/4dqlCIVBfGg0XNS5chiEe2) | 6:01 | 2023-05-18 | 2023-06-15 |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-03-23 |  |
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2022-12-22 | 2023-02-17 |
 | [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 | 2022-12-08 | 2023-01-06 |

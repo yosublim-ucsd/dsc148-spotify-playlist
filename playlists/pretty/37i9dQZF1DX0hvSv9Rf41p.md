@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,138 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,191 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [HEAVENS DOOR](https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:44 |
 | 150 | [Hammer Time](https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Hammer Time](https://open.spotify.com/album/5KtTHlM5BH0d0eMANZS39s) | 3:13 |
 
-Snapshot ID: `MCw4YTUxMWJlMjYwZTZkMTQxOGRmYTI4YzBlMzllZDY0MjFlZDk0N2Jk`
+Snapshot ID: `MCwzZDljMjA1NzNhMzVlNjU0NTc2MmJkMzQ0MTE4Njc0YmY1ZWM5MTZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Tyga & YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,701 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Trip](https://open.spotify.com/track/5CSd0o0EHwbtusUgq4FzLm) | [Kayo](https://open.spotify.com/artist/6OOvjtNBVM1FYpNAaOzm9s) | [Trip](https://open.spotify.com/album/4VIdTKMNgFn5PoatXao1XP) | 3:00 |
 | 49 | [Trill](https://open.spotify.com/track/1zjJ99JgAqkLhwfQp6TFtx) | [Lu\-Kusa G2$](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Trill](https://open.spotify.com/album/4eqpe6eHvGsUbCHSxjLW4y) | 2:06 |
 
-Snapshot ID: `MCxlM2NjYWZkODkwZDA2MTVhOTNhM2Y2MTE0YWY3M2JiNmI5MGFlY2E3`
+Snapshot ID: `MCwwYmE3MmIxNTM3YTQ5MTg1ZmZhMTYzNWY5OWEyY2RiMDdlMTExYzcx`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,291 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,303 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sorry](https://open.spotify.com/track/0TQNEKRbFh6EYQYiKQie4T) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Sorry](https://open.spotify.com/album/3z38q3lhXlar2XE9vUsxok) | 1:45 |
+| 1 | [Sorry](https://open.spotify.com/track/0TQNEKRbFh6EYQYiKQie4T) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Sorry](https://open.spotify.com/album/3z38q3lhXlar2XE9vUsxok) | 1:45 |
 | 2 | [Little People](https://open.spotify.com/track/1GJf1WBBmDLbGphcw0mlkN) | [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [Little People](https://open.spotify.com/album/7sYlZaPWr5Ud6QsCgaOyOi) | 2:02 |
 | 3 | [Stay the Same](https://open.spotify.com/track/2NsNSA5Vpa6mzqNzehjup0) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/5gaCTvnjcK8yVFhZHnG7N2) | 2:04 |
 | 4 | [a lifetime](https://open.spotify.com/track/5mcZF1kLzh4i182pDvp2RJ) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 2:16 |

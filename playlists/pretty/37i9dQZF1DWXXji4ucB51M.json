@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104914,
+  "num_followers": 104913,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQyYWExNWNkM2ZmOTU2NzA0MDkzYjBlNGY0ZGIzNzQ4OGQzOWE1",
+  "snapshot_id": "MCxlMjFkMjAyZjZmMDJkZGY5NWVlNjYwMmRkZWQ2ZGY0MTFhZTNkZWRm",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "SHE IS COMING",
-        "url": "https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Mother's Daughter",
-      "url": "https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 171160,
       "name": "Oh Yeah!",
       "url": "https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/7nUJ4h6X0vPXDPB8NYHuFr"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/4sDMiX1n4kfXgJd9nOXGpt"
     }
   ],
   "unique_name": "MTV VMAs",

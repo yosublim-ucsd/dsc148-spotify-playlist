@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,624 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,628 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Margaritena \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 13:28 |
 | 100 | [Abertura em Ré](https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX) | [José Maurício Nunes Garcia](https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8), [Vox Brasiliensis](https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB), [Ricardo Kanji](https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk) | [Música Sacra do Brasil](https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr) | 4:32 |
 
-Snapshot ID: `MCxhOGE4OWYwY2EzOGUzMGYyM2VjYjlhZWNjNTFiZGM4Yzc1MzdmZGQ1`
+Snapshot ID: `MCxkZTIwNDQxMzliNjNiNDNkMjc5YzI1Yzc3Mzg2YTAwYWNjYjEzNTAw`

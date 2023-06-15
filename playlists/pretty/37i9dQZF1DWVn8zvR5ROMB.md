@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Gabby Barrett, Carrie Underwood, Chase Matthew and More
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,197 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,374 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [Beach House](https://open.spotify.com/track/1FdxQcvXYni1jdeR4ynDN7) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Beach House](https://open.spotify.com/album/06ev3c3sMQge3GwXr07Ilk) | 3:46 |
 | 59 | [Sucker For Blonde](https://open.spotify.com/track/5TMRjIXrsRte8e5SFx8qef) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Sucker For Blonde](https://open.spotify.com/album/4ooirIG8FfYBtUeVLQTseR) | 3:00 |
 
-Snapshot ID: `MCw4MjBhMWNjODViYmI3NTIzZDU1MGMzNDZlNTIzNDhlZjE5ODUwMzFm`
+Snapshot ID: `MCxkMjMxNGU2YTM2YWE2ZjlkNWYzZWZlMTkzM2UyNWY1ODMyYWVhYWIx`

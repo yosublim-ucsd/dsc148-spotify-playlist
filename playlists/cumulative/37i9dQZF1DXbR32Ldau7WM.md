@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: TM NETWORK
 
-627 songs - 1 day 17 hr 40 min
+629 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Crap Shit](https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Crap Shit](https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv) | 2:30 | 2022-08-16 | 2022-08-24 |
 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 | 2022-11-22 | 2022-12-14 |
 | [Dani](https://open.spotify.com/track/5ykMYNZv2E8iPKZFkuxJC6) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/22V3Kxi5wlfh6V2jt39Q2I) | 4:29 | 2023-02-07 | 2023-02-15 |
-| [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 |  |
+| [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 | 2023-06-15 |
+| [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 |  |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
 | [Destruction Baby \- LIVE](https://open.spotify.com/track/4hHsq2OToBt2HVWRGBqcwS) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:33 | 2023-05-30 | 2023-06-07 |
 | [DEVOTION](https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [DEVOTION](https://open.spotify.com/album/05tsVA1WtUbwYII1wdyero) | 4:33 | 2023-06-13 |  |
@@ -299,7 +300,8 @@
 | [Special Women](https://open.spotify.com/track/7F4gwp9sUBPpWS8WeBRznU) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:34 | 2023-03-21 | 2023-03-29 |
 | [SPECTACLE](https://open.spotify.com/track/3PUFqCowPUzt6IEm1DxSaD) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/5uNowPNQdaWPKCHwV4dU64) | 3:32 | 2022-10-05 | 2022-10-06 |
 | [SPECTACLE](https://open.spotify.com/track/5ohAH1bZNRujINvE5zrDfC) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/1taPkLBMsmuofrmi3VSbPx) | 3:32 | 2022-10-06 | 2022-10-12 |
-| [SPF\(STUTS remix\)](https://open.spotify.com/track/6ooDGvsCrAJf5gNv9xhvX8) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPF\(STUTS remix\)](https://open.spotify.com/album/4dOMwj326uIHUJfo0WCRfp) | 4:34 | 2023-06-13 |  |
+| [SPF\(STUTS remix\)](https://open.spotify.com/track/6ooDGvsCrAJf5gNv9xhvX8) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPF\(STUTS remix\)](https://open.spotify.com/album/4dOMwj326uIHUJfo0WCRfp) | 4:34 | 2023-06-13 | 2023-06-15 |
+| [SPF\(STUTS remix\)](https://open.spotify.com/track/7bWIEAjOB94ZQ6gvP0RZdq) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPF\(STUTS remix\)](https://open.spotify.com/album/00a84YdUoHDhBuyHKmUpeS) | 4:34 | 2023-06-13 |  |
 | [Spread City](https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Midnight Chocolate \- EP](https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y) | 3:52 | 2023-04-25 | 2023-05-24 |
 | [STAND!](https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [STAND!](https://open.spotify.com/album/3s5s6siW3yev2bVIZV4HU9) | 3:32 | 2022-05-17 | 2022-05-25 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-01-01 |

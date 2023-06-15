@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,652,399 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,652,491 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 |
 | 100 | [Peg](https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Peg](https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg) | 4:11 |
 
-Snapshot ID: `MCw1Yjc0OGE1NWJlMmMyY2ZmNTE1M2JhMzI0ZDFmN2U5MTMwMDdlZGNl`
+Snapshot ID: `MCwzMjliYjdiODMwMjRlYmIxNjQ4MTUxOWFiZDRkNzU3NjkzNjEzNjJk`

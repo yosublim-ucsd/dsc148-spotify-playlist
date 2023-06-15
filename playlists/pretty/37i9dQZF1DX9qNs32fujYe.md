@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,188 likes - 150 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,555 likes - 150 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 |
 | 150 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 |
 
-Snapshot ID: `MCw2NDRhODFkNDRhODE5YjAxYjAzNTNmMmM4NjI1N2YwMzI3ZjQ1NjU4`
+Snapshot ID: `MCwyOTM5NmFiOWQ1MjIxMzliYzMzNzhmNDQ1NThkYTZiNDdjZDg1NDgw`

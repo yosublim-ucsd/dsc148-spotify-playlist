@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,160 likes - 105 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,677 likes - 105 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 104 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 |
 | 105 | [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 |
 
-Snapshot ID: `MCw2NDUwMTFkYjFiYjQ5MDMwNTc3OTY2ZDEyNmJlMTFhYjJjMjM1NTIw`
+Snapshot ID: `MCxjYWZkYTM1YmU4MDc2MzliODYwOGRkNGNlMGE3MGJmMjBmOTQxZmZj`

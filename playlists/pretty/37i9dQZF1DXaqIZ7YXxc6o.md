@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: FISHER & Aatig
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,115 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,124 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 |
 | 101 | [Come Back](https://open.spotify.com/track/1wQZemciaEPFXshcgEUA2s) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Come Back](https://open.spotify.com/album/2QOvhxWmXDC3SopJHqKaVF) | 2:27 |
 
-Snapshot ID: `MCxiZTAzZTY4OGY4M2YwMjExYzQ1OGU1MmI2ZmY2OTVmYmNiZjhhMjFk`
+Snapshot ID: `MCxjMzdkYWJkMTlkMGI0ZWIxN2IyNDM5ODhjOTk4NTY4NmNhNmU1MGJj`

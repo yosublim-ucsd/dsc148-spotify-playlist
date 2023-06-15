@@ -1,12 +1,12 @@
 {
   "description": "Get into the flow and stay focused while writing code, with music curated by the JetBrains team. www.jetbrains.com",
-  "num_followers": 3744,
+  "num_followers": 3747,
   "original_name": "Pure Flow Coding",
   "owner": {
     "name": "JetBrains",
     "url": "https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm"
   },
-  "snapshot_id": "MTkyLDU0YzI2N2EwZjczMTFhZDc1YTM0ZDg0Y2I3Y2EwYzMwODE0YTI0NjQ=",
+  "snapshot_id": "MTk3LDI5NTFmNTljNzQ1NzJjYzZkNDhiODNkOGFmNjFlMDE0YzYyMTNkZWM=",
   "tracks": [
     {
       "added_at": "2022-10-18 11:46:15",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/2d58FzVzUULJSy1YRQWB09"
     },
     {
+      "added_at": "2022-11-16 11:29:05",
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe"
+      },
+      "artists": [
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "duration_ms": 221071,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV"
+    },
+    {
       "added_at": "2022-10-18 11:53:56",
       "album": {
         "name": "Original Motion Picture Soundtrack",
@@ -347,22 +363,6 @@
       "duration_ms": 245333,
       "name": "Agony's Embrace",
       "url": "https://open.spotify.com/track/1znQv3sLeR1aCSWbjgCwKN"
-    },
-    {
-      "added_at": "2022-11-16 11:29:05",
-      "album": {
-        "name": "Tell Me Something",
-        "url": "https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe"
-      },
-      "artists": [
-        {
-          "name": "Might Delete Later",
-          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
-        }
-      ],
-      "duration_ms": 221071,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV"
     },
     {
       "added_at": "2022-10-18 11:56:41",
@@ -907,6 +907,26 @@
       "duration_ms": 282600,
       "name": "Helicopter Mack",
       "url": "https://open.spotify.com/track/3dqu2lbvPdawMaEA9uCnkA"
+    },
+    {
+      "added_at": "2023-06-14 08:59:34",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/6G4s262wagFeaSzQCyvbqP"
+      },
+      "artists": [
+        {
+          "name": "Broken Holiday",
+          "url": "https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI"
+        },
+        {
+          "name": "Swilled",
+          "url": "https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3"
+        }
+      ],
+      "duration_ms": 115889,
+      "name": "Growth",
+      "url": "https://open.spotify.com/track/5Pp97IOkeb1MPA9H251uUp"
     },
     {
       "added_at": "2022-10-18 12:10:34",

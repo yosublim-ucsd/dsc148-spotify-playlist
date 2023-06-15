@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. ANNA on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,856 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,959 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Life Lived in the Echoes of Emptiness](https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [Mysterious Shapes and Remembered Rhythms](https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP) | 2:48 |
 | 100 | [Nocturne 4 \- Alva Noto Remodel](https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Nocturne 4 \(Alva Noto Remodel\)](https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO) | 6:40 |
 
-Snapshot ID: `MCxiZDcyMDAxM2VjN2M0MTdkYmU5OGY1ZTY4ZWFiMWVmMmJlMTgxOTFm`
+Snapshot ID: `MCwzMWFiMDUzNGNiMDg1Y2I2NGQ2ZWIyMzM3MjI4ODMxN2JhYTc2MGNm`

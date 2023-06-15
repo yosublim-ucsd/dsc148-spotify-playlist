@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVu3lAQuOIjU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVu3lAQuOIjU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVu3lAQuOIjU)
 
-### [Heard You: The Wellness Wave](https://open.spotify.com/playlist/37i9dQZF1DWVu3lAQuOIjU)
+### [Heard You: Black Music Month](https://open.spotify.com/playlist/37i9dQZF1DWVu3lAQuOIjU)
 
-> Introducing the Frequency Wellness Wave.
+> In honor of Black Music Month, Heard You is diving into the historical impact of our culture on American music.
 
 5 songs - 3 hr 57 min
 

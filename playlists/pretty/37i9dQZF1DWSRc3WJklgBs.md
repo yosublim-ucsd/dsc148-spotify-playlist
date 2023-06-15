@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,667 likes - 230 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,953 likes - 230 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Satellites](https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Satellites](https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo) | 2:34 |
 | 230 | [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 |
 
-Snapshot ID: `MCwwMWE4NDJhOTFjNjMxZDk3ZjgwNDVjNDNhODg0MWVkNDJkYjAyNDE3`
+Snapshot ID: `MCxlNGZhNzc1NzdmMDM4MGYyMTQ5ZDYzOGRlYWFkNGUwOGUwMWRjNzM4`

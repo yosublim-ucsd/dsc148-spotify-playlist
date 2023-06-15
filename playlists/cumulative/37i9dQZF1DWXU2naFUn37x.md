@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-307 songs - 14 hr 14 min
+308 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [aka DOLCE&GABBANA](https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [aka DOLCE&GABBANA](https://open.spotify.com/album/0OTeSPwWYq1Bw9jLcxAsKZ) | 1:53 | 2022-08-12 | 2022-09-23 |
 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-03-30 |  |
 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 | 2022-11-24 | 2023-04-28 |
-| [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 | 2023-05-04 |  |
+| [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 | 2023-05-04 | 2023-06-15 |
+| [Alo \(feat\. Hani\)](https://open.spotify.com/track/2PiN4K8PKGBZa0xFYRPMY6) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo \(feat\. Hani\)](https://open.spotify.com/album/0OQFz1TDv4CHxGKbXrjEyd) | 3:04 | 2023-06-12 |  |
 | [AMMÒ \(feat\. Mikush\)](https://open.spotify.com/track/3XlqB2sJGExXgkA0RSRy1R) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 2:33 | 2023-03-24 | 2023-04-07 |
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-05-04 |  |
 | [Antipatico](https://open.spotify.com/track/2ie4n6tymDnMjYkN32WWLV) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Antipatico](https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv) | 2:31 | 2022-05-11 | 2022-05-27 |

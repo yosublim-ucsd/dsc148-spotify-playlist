@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 179136,
       "name": "BAHZ",
       "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 196206,
       "name": "Dawly",
       "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
@@ -8952,7 +8952,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 211451,
       "name": "Ta3ala Adalla3ak",
       "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
@@ -11302,6 +11302,44 @@
       "duration_ms": 197124,
       "name": "\u0633\u062d\u0645\u062f",
       "url": "https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt"
+    },
+    {
+      "album": {
+        "name": "\u0633\u0637\u0644\u0627\u0646\u0629",
+        "url": "https://open.spotify.com/album/3dSwt8D25ST0ROdebYf7Op"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        },
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        },
+        {
+          "name": "Hamdy Batshan",
+          "url": "https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX"
+        },
+        {
+          "name": "Ali Rabee",
+          "url": "https://open.spotify.com/artist/77ufaOxJWPj1CKr6nn1BR3"
+        },
+        {
+          "name": "Osos",
+          "url": "https://open.spotify.com/artist/28TcrGiufmVrUAbMKUIkWf"
+        },
+        {
+          "name": "Hassan El Kholaey",
+          "url": "https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195238,
+      "name": "\u0633\u0637\u0644\u0627\u0646\u0629",
+      "url": "https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,725 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,142 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Ram Pam](https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Ram Pam](https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D) | 2:21 |
 | 150 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 |
 
-Snapshot ID: `MCxiNWMzZGFkODA5MWExOTRiY2E3ZjkwZWIzYWVjMTkxYWYyZjZhNmJi`
+Snapshot ID: `MCw0MjU4YWViNDZhMzg2MzljYWQyNzc3YzUyMDg0MTM3NDhhNThjOWZk`

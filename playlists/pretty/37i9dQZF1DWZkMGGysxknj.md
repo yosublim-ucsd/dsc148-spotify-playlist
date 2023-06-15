@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,644 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,666 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Detalles](https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Detalles](https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA) | 3:24 |
 | 150 | [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 |
 
-Snapshot ID: `MCxiMjI1OGIxODE1YTUxYzNlNmEzNjc5ZmY5MDA5YTE4MjE5NTQzMTY0`
+Snapshot ID: `MCwxYWE3MGEzZTY3NTgzNzU1MDIzOTQ4YjRkNGJkYWNjZjg4NTBhNTQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,940 likes - 150 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943,302 likes - 150 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Unwind](https://open.spotify.com/track/10qar57dEiw0arPhQ3NTU5) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [All Talk!](https://open.spotify.com/album/6u8tMQFTEZxoTO5wvIagWF) | 3:21 |
 | 150 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 |
 
-Snapshot ID: `MCwwZTMxYTRhMjJhZjU0NjMyNWZjODkzZWE1ZjA4ZTgzMzEwMWRmYWYz`
+Snapshot ID: `MCxmMjQ5NjNkNmIyM2ZmNmFlMWUxNzRjNmM1MGFhYWYzZTFhNjUxN2U5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,940 likes - 200 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,641 likes - 200 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [I Will Remember](https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Tambu](https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw) | 6:06 |
 | 200 | [Release Me](https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:55 |
 
-Snapshot ID: `MCxlZDQwYTg5YmM3OTU2Mjc4YjI2YzZkNmI0OTFiYmZkMzAzOTFiNmZl`
+Snapshot ID: `MCxiYzgzZDIzOTg3YjNkZDUxNmRmNTBlNjlmZDY5NTBjZTI3YzM1ZjBm`

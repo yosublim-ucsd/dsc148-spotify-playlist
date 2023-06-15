@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Parrotfish | Artwork: Jim Klok",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Godly the Ruler | Artwork: Jim Klok",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -510,10 +510,28 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 195666,
       "name": "airplane",
       "url": "https://open.spotify.com/track/6CCi6b23HctIsVkdoIq7Is"
+    },
+    {
+      "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/1gCCC9hHa0Dh0P5y29U0VF"
+      },
+      "artists": [
+        {
+          "name": "Lifeguard",
+          "url": "https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/5fkT52XT0Hh2byKCuNhHeS"
     },
     {
       "album": {
@@ -2567,6 +2585,32 @@
     },
     {
       "album": {
+        "name": "call and i'll answer",
+        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        },
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166605,
+      "name": "call and i'll answer",
+      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
+    },
+    {
+      "album": {
         "name": "Can Someone Take Me Home?",
         "url": "https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ"
       },
@@ -2596,10 +2640,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 150634,
       "name": "Can We Forget",
       "url": "https://open.spotify.com/track/07yilZPUJuVK5HpqObUhWG"
+    },
+    {
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150634,
+      "name": "Can We Forget",
+      "url": "https://open.spotify.com/track/1oH8SrmWayqhqeubuovQcp"
     },
     {
       "album": {
@@ -3084,7 +3146,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 186392,
       "name": "cherry",
       "url": "https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o"
@@ -3340,6 +3402,24 @@
       "duration_ms": 197533,
       "name": "Con-Man",
       "url": "https://open.spotify.com/track/5blHqJsmceW6G9guDvVp4L"
+    },
+    {
+      "album": {
+        "name": "Conciousness",
+        "url": "https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP"
+      },
+      "artists": [
+        {
+          "name": "JonoJono",
+          "url": "https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Conciousness",
+      "url": "https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS"
     },
     {
       "album": {
@@ -3887,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Dance Now",
+        "url": "https://open.spotify.com/album/1KLhPXH6kqwzKYHgU2KpOY"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290662,
+      "name": "Dance Now",
+      "url": "https://open.spotify.com/track/1LReLcAXOIo745DgUNrcvg"
+    },
+    {
+      "album": {
         "name": "A Slave To The Waves",
         "url": "https://open.spotify.com/album/1cXdqTdXtDPAkKxgBF8Q0w"
       },
@@ -4042,7 +4140,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 129964,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq"
@@ -4500,6 +4598,24 @@
       "duration_ms": 143638,
       "name": "Dinner For One",
       "url": "https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v"
+    },
+    {
+      "album": {
+        "name": "dissolve",
+        "url": "https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9"
+      },
+      "artists": [
+        {
+          "name": "sunshy",
+          "url": "https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145078,
+      "name": "dissolve",
+      "url": "https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb"
     },
     {
       "album": {
@@ -7677,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/28oAiKL48h1YjpdeJY7Kz2"
+      },
+      "artists": [
+        {
+          "name": "Seaside",
+          "url": "https://open.spotify.com/artist/12A9HO7R8JCU46t4HiVQqH"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181594,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/73j0KXIaFxcbmnsjk3X2bm"
+    },
+    {
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/4782LqFlhYGsAyQo0nucMt"
       },
@@ -9160,6 +9294,24 @@
       "duration_ms": 77466,
       "name": "Kiss the Ladder",
       "url": "https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj"
+    },
+    {
+      "album": {
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/7omqBm5pxVQT0kl7a9wwUQ"
+      },
+      "artists": [
+        {
+          "name": "hex gf",
+          "url": "https://open.spotify.com/artist/26sgSBpgBCSlyQxB8lf6tf"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210263,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0jVYwnMGOXoUByM1hi9h88"
     },
     {
       "album": {
@@ -10981,6 +11133,24 @@
     },
     {
       "album": {
+        "name": "Never Saw It Coming",
+        "url": "https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188745,
+      "name": "Never Saw It Coming",
+      "url": "https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96"
+    },
+    {
+      "album": {
         "name": "Excess",
         "url": "https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J"
       },
@@ -11490,7 +11660,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 170876,
       "name": "OFF THE BONE",
       "url": "https://open.spotify.com/track/0tbsauAvlTJdoyiU6GB50L"
@@ -12686,7 +12856,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 229242,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/1LjLaddTN7NJggnyZ6ZOMr"
@@ -12938,7 +13108,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 166346,
       "name": "Revenge Dress",
       "url": "https://open.spotify.com/track/7w3lHpePhApQkuTcFceZHb"
@@ -13108,6 +13278,24 @@
       "duration_ms": 178972,
       "name": "Ronnie",
       "url": "https://open.spotify.com/track/1kjzryHxVcE8vnCUwLW8yL"
+    },
+    {
+      "album": {
+        "name": "Rorschach",
+        "url": "https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N"
+      },
+      "artists": [
+        {
+          "name": "Secondhand Sound",
+          "url": "https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235348,
+      "name": "Rorschach",
+      "url": "https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf"
     },
     {
       "album": {
@@ -13432,6 +13620,24 @@
       "duration_ms": 207680,
       "name": "Scared To Lose",
       "url": "https://open.spotify.com/track/7i1eif8nLw1fc64MILgd6U"
+    },
+    {
+      "album": {
+        "name": "Scream Queen",
+        "url": "https://open.spotify.com/album/2lEyMWJR49WXz3O9hF5RwB"
+      },
+      "artists": [
+        {
+          "name": "The Dumes",
+          "url": "https://open.spotify.com/artist/1sDeMYlZRiudJljM1BKMWb"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176970,
+      "name": "Scream Queen",
+      "url": "https://open.spotify.com/track/7MQyVPZtNRyIFY49WCMIll"
     },
     {
       "album": {
@@ -14192,7 +14398,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 180655,
       "name": "So Mad",
       "url": "https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY"
@@ -14650,7 +14856,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 192648,
       "name": "SPYD4 K1NG",
       "url": "https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh"
@@ -14902,7 +15108,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 165186,
       "name": "Sudocream Queen (2023)",
       "url": "https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi"
@@ -16278,7 +16484,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 93882,
       "name": "To the Slaughter",
       "url": "https://open.spotify.com/track/5S3bAaXKpNIIg7WuBhobr9"
@@ -16520,7 +16726,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 254546,
       "name": "try again",
       "url": "https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1"
@@ -17206,6 +17412,24 @@
       "duration_ms": 200706,
       "name": "Well, You Disappoint Me Boy",
       "url": "https://open.spotify.com/track/62PTpDhQenSlWQsfxN9fdy"
+    },
+    {
+      "album": {
+        "name": "Wet Like Summer",
+        "url": "https://open.spotify.com/album/1DhiNOli1JsvZ6ZcPpI9Rv"
+      },
+      "artists": [
+        {
+          "name": "Wet World",
+          "url": "https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Wet Like Summer",
+      "url": "https://open.spotify.com/track/505RZEFoZAJvbpQIDsSxEq"
     },
     {
       "album": {

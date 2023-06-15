@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/0aBgqFsQmUQGw8emDAjNt4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "I Can See Clearly Now",
+      "url": "https://open.spotify.com/track/30SCXVFyQGOFMdKnbgJS18"
+    },
+    {
+      "album": {
         "name": "The Cost of Living - EP",
         "url": "https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u"
       },

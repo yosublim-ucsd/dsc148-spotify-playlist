@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,112 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,129 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Nightmare 5](https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Similes](https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD) | 3:29 |
 | 100 | [Search Party](https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP) | [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 1:46 |
 
-Snapshot ID: `MCw1ZTBjYmQ3OTg0ZjMwZDVhZDVkYjhjNDdkYTBlNGYxZDJjMmE0Mzli`
+Snapshot ID: `MCxiMDgyYTk1YTFiNWFiOWZiZWMyMzExMTE4NTNkNmM4ZWMwN2FmMDY3`

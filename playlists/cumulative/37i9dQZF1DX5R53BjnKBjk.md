@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-270 songs - 13 hr 58 min
+271 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [TARA](https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt) | [Malu Rizzo](https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH) | [TARA](https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX) | 2:16 | 2022-08-19 | 2022-12-17 |
 | [Te Amar](https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Baficca](https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C) | [Te Amar](https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26) | 2:46 | 2022-01-07 | 2022-04-16 |
 | [Te Decorei](https://open.spotify.com/track/0mC2afYA8l4T2aDX90WOhe) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Te Decorei](https://open.spotify.com/album/5M0hr8TN3mFgzXmELh4fWr) | 2:46 | 2022-01-07 | 2022-09-24 |
-| [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2022-12-02 |  |
+| [te vi dançando](https://open.spotify.com/track/0hbq06tcjbkgyd9d8VAVF8) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/1P6D17mWvF91GTPlQDCdEP) | 1:18 | 2023-05-12 |  |
+| [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2022-12-02 | 2023-06-15 |
 | [Tempero](https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Tempero](https://open.spotify.com/album/0DHNsUcFFnOd9Zz12mSNNZ) | 3:12 | 2022-01-07 | 2022-09-24 |
 | [Terra](https://open.spotify.com/track/2vGZLRXOYIUJn89wKqLeon) | [Virgem](https://open.spotify.com/artist/79ZwEJ4yVmHY3KMpkf2QRh) | [Terra](https://open.spotify.com/album/5ecbXccsJwRfTgv0H53bGP) | 3:26 | 2022-04-15 | 2022-05-28 |
 | [Toda Rabadinha](https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl) | [Maria Ma](https://open.spotify.com/artist/5j7SMH5FMSDxpcw29nJRvZ) | [Toda Rabadinha](https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb) | 2:52 | 2022-01-14 | 2022-09-24 |

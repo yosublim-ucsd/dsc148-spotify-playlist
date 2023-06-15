@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: KennyHoopla
 
-207 songs - 10 hr 24 min
+210 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Metal In Me](https://open.spotify.com/track/5YHWa4a7MX7ogGuCgmHou8) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [The Metal In Me](https://open.spotify.com/album/0DEh8au4ajDFEIUuMBrUOD) | 2:31 | 2022-02-12 | 2022-09-03 |
 | [Metal, Whips, & Chains](https://open.spotify.com/track/3TJUzoLxR1ElH5ZTPh0BYS) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Metal, Whips, & Chains](https://open.spotify.com/album/1wRdbvhfZfvdQXkqtliAJS) | 4:57 | 2022-08-26 | 2023-02-02 |
 | [Misfits](https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:58 | 2023-02-01 | 2023-06-03 |
+| [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-14 |  |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-09-03 | 2023-04-09 |
 | [My Rules](https://open.spotify.com/track/4xgO0AFVemVCeykCtnMclo) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Buggin Out](https://open.spotify.com/album/1O5No0llscbBeLTjdirKZd) | 1:40 | 2022-12-02 |  |
 | [Nine Inch Nail](https://open.spotify.com/track/0aAfcurVtjspu4S7SLNy4B) | [Chief Cleopatra](https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK) | [Luna](https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs) | 3:54 | 2022-03-04 | 2022-12-03 |
@@ -203,10 +204,12 @@
 | [Virus](https://open.spotify.com/track/1Yqx7WwyNUuZ96GqpxL2J8) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [Shayley Bourget](https://open.spotify.com/artist/3yb7c2d4ksZZSdIPbK7Rd3) | [GlitchGang](https://open.spotify.com/album/3aCmgbuJABpDD03b4ixC5B) | 3:04 | 2022-02-12 | 2022-06-04 |
 | [Voodoo Child](https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Comandante](https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA) | 5:12 | 2022-02-12 | 2022-06-04 |
 | [Wait](https://open.spotify.com/track/1YUKuWqXXMDoIWMxeTHPDf) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Wait](https://open.spotify.com/album/3THLOqXhxu22JUfr78jGPn) | 3:57 | 2022-06-03 |  |
+| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-14 |  |
 | [Wasting Around](https://open.spotify.com/track/6WlVkldZfL0wdA7RLppJ1J) | [Jupiter's Sick](https://open.spotify.com/artist/601nRr3Sk6NGacKjasgk23) | [Adult Swim](https://open.spotify.com/album/2QP884iYno470puXnvKhFY) | 2:09 | 2022-07-22 | 2022-08-27 |
 | [Watch Your Man \(feat\. Marshmello\)](https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 1:56 | 2022-07-22 | 2022-08-27 |
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2022-02-12 | 2022-04-16 |
 | [White parents](https://open.spotify.com/track/5uixFA3xg4j7fUmwllKFrm) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [White parents](https://open.spotify.com/album/49CMIVxY031J5eNiqvbeg8) | 2:12 | 2022-02-12 | 2022-03-18 |
+| [Window Shopper \- Spotify Singles](https://open.spotify.com/track/6gJxzkUOyC30TxOkWw2LDH) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:16 | 2023-06-14 |  |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-09-03 | 2023-02-02 |
 | [WITHOUT YOU](https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 3:09 | 2022-02-12 | 2022-07-23 |
 | [Wretched](https://open.spotify.com/track/1wmx1Icz0XuAfyU8Dgio74) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 3:49 | 2023-02-01 |  |

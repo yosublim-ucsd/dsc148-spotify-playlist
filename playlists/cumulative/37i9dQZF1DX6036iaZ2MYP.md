@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-157 songs - 7 hr 57 min
+158 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-02 |  |
 | [B.I.L \(Body in love\)](https://open.spotify.com/track/1KSwUiF1A9sTFLVQtcIY9d) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [B.I.L \(Body in love\)](https://open.spotify.com/album/60FRPT9oqCukPEIpVBP32W) | 2:55 | 2023-03-02 | 2023-03-16 |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-12 | 2023-06-09 |
+| [Baby Chou](https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n) | [YNS](https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6) | [Baby Chou](https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars) | 3:04 | 2023-06-14 |  |
 | [Babyjet](https://open.spotify.com/track/6GNugjWdqd1eZQYDTyE5ch) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Ik Zie Je](https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP) | 3:40 | 2023-04-05 |  |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-07-13 | 2022-08-26 |
 | [Bambelela](https://open.spotify.com/track/0NfP1YJUifJKXMSx0AyIup) | [TuksinSA](https://open.spotify.com/artist/3F8IEuHCZhhYDmTU9VSGka), [Vyn](https://open.spotify.com/artist/4Ffs8qFMeghZQXDs5x2RvX), [Tonic Jazz](https://open.spotify.com/artist/7DYAFo4uF3zsAIm0ii03zQ) | [Bambelela](https://open.spotify.com/album/1fvHP8sh8dW9eUnt7YxRYi) | 3:49 | 2022-12-01 | 2023-05-12 |
@@ -86,7 +87,7 @@
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-01-13 |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-08-25 | 2023-04-06 |
 | [Likkle Bit](https://open.spotify.com/track/15zO55hNovkg2mjCW2AiD9) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Likkle Bit](https://open.spotify.com/album/3UuoJvhfAud6cN8mbVCUC3) | 3:37 | 2022-08-29 | 2023-03-25 |
-| [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 |  |
+| [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 | 2023-06-15 |
 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 | 2023-02-02 |  |
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2022-11-10 | 2023-05-12 |
 | [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 | 2022-09-01 | 2022-09-15 |

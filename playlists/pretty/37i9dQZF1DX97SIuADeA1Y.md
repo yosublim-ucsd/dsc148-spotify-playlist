@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,283 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,380 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Princess](https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH) | [Princess](https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK) | 2:23 |
 | 60 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 
-Snapshot ID: `MCw1ZDU2NjZmNzVmYWE3YWNlM2U0NzA4ZmViNzNiOWY0MTRiZTExN2Yz`
+Snapshot ID: `MCw3MmEzNWJmYjc4ZWFhMWI4ZTYwYWY2ZTJjY2U0NTY4MGUzYjM3Y2Mx`

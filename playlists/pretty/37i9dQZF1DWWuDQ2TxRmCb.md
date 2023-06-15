@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,411 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,464 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Kasiyoli](https://open.spotify.com/track/6dMX9Ky6PCqtNZ6uSarXqU) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Jutimala](https://open.spotify.com/artist/2vO1IbLmGJkYK9LXFQipqP) | [Kasiyoli](https://open.spotify.com/album/3hkQpICrJkdU3eglPS2qkf) | 3:46 |
 | 50 | [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 |
 
-Snapshot ID: `MCxhZTc5NTEzOTk3MzYxOWMyYTA2MGYwOTk3Y2I4MTI4ZGQ3MTVjNjE1`
+Snapshot ID: `MCwyM2Y4MzhmY2M0MTJhMzlhZmRmM2M5OWViM2ZlMjJkNDM0MWQ0YzQz`

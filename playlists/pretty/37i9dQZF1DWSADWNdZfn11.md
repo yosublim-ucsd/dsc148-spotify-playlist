@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,450 likes - 209 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,570 likes - 209 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 208 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 |
 | 209 | [Boulevard Of Broken Dreams](https://open.spotify.com/track/0KAX3XkWpgXOiBoR6vRxzO) | [Peter Matkowski](https://open.spotify.com/artist/5t58w6mjJMYtJhjXnGx5nQ) | [Classics](https://open.spotify.com/album/6KJBRFVGqJYL09Qk0nYKWc) | 2:59 |
 
-Snapshot ID: `MCwyMzg2MDkyZGU3MjlhMmU5MjRkODE5ODJmNjg1ZWMzMWJmYzdjMTZk`
+Snapshot ID: `MCxmMjljM2I1ZmE5NWNlNDFkMGM4ZmI5MGQxZjc1MWY5ODdlN2JhMDgz`

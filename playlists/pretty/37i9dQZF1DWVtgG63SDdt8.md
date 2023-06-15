@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g?si=8a0f7b38ba0e44ef">Semler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,926 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,100 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

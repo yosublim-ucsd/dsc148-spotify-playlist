@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,909 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,890 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 100 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb) | 2:56 |
 
-Snapshot ID: `MCxjOWQwMzc5Nzk2ZmVkYmY2YzU2ZjkyYTI5YzdkZGYwMmY4NjhhODg3`
+Snapshot ID: `MCw5YjA2ODAwMzVjYjFjYTA0OWYwM2UyMjEzNTVjOTNhMjQ5ZDcwNjVm`

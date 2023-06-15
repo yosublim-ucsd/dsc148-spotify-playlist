@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,409,419 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,409,602 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Beautiful \- Benny Benassi Remix](https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Stripped \- 20th Anniversary Edition](https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw) | 3:35 |
 | 100 | [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa) | 3:07 |
 
-Snapshot ID: `MCw0MjliMWQwY2M5YzFmZWNmZmM0ZDZhNDdkNjc0OTRjMmY1YzNhYjky`
+Snapshot ID: `MCwwYWE4NmQxNjMwYTNiMmVjMWMwYjU1M2NiYjg4Yzg2YTVkMzkyNGI1`

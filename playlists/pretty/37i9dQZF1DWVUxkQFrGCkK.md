@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,413 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,530 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Follow the Loop](https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 3:52 |
 | 100 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 |
 
-Snapshot ID: `MCxlNjFhNDY4NDA1ZWMzZjVhYjUzMTQ3YTI5MmQzZDY3ZGQ1YWI3ZWNl`
+Snapshot ID: `MCwyMjJkNTlhNWNiZjg0Yzg2MmMwYzVlMjZmMjdiNzExYTNmNTVjMDJh`

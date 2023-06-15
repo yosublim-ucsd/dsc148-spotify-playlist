@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: ThxSoMch
 
-173 songs - 7 hr 46 min
+175 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Punksong](https://open.spotify.com/track/190XbsoF6JNbXk1K3ltQWk) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland](https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF) | 1:33 | 2022-12-04 | 2022-12-10 |
 | [Radio Cuts](https://open.spotify.com/track/4z8Np65HXuFFsikXFLPLfR) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Radio Cuts](https://open.spotify.com/album/1AgoVr8MNQkwPR4z5dohPq) | 1:46 | 2022-12-04 | 2023-02-18 |
 | [random song](https://open.spotify.com/track/3mAypVO7bbdCHgJo5PlpKb) | [2504](https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr), [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [random song](https://open.spotify.com/album/2u9P72xEjnCMDgGfqP676g) | 2:39 | 2023-03-17 |  |
-| [ready set go](https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [ready set go](https://open.spotify.com/album/2s9HTzvrStFC5yGsg75slb) | 2:46 | 2023-03-24 |  |
+| [ready set go](https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 2:46 | 2023-03-24 |  |
+| [ready set go](https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [ready set go](https://open.spotify.com/album/2s9HTzvrStFC5yGsg75slb) | 2:46 | 2023-03-24 | 2023-06-15 |
 | [red](https://open.spotify.com/track/5xjCG1XNmz5eWkYMLrGFZl) | [KAI](https://open.spotify.com/artist/2ED7MMsMWd8NUHtTY0ywgi), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [red](https://open.spotify.com/album/0iagP7baVunZbTqg0ike7I) | 6:28 | 2023-04-21 |  |
 | [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 | 2023-02-10 |  |
 | [repeat](https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [repeat](https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f) | 2:42 | 2023-01-26 |  |
@@ -175,7 +176,8 @@
 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 | 2023-03-17 |  |
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 | 2023-03-02 |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-12-04 |  |
-| [wow!](https://open.spotify.com/track/361sWSauyBs8sGn4h2kOrN) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [wow!](https://open.spotify.com/album/5rTM0GN3KMDrK7y91rMRH3) | 3:03 | 2023-04-21 |  |
+| [wow!](https://open.spotify.com/track/361sWSauyBs8sGn4h2kOrN) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [wow!](https://open.spotify.com/album/5rTM0GN3KMDrK7y91rMRH3) | 3:03 | 2023-04-21 | 2023-06-15 |
+| [wow!](https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 3:03 | 2023-04-21 |  |
 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 | 2022-12-04 | 2023-04-09 |
 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-02-10 | 2023-04-09 |
 | [yu can do better, yu deserve it](https://open.spotify.com/track/3yBG98uAE6hdRQF8tZhdJP) | [problemchild](https://open.spotify.com/artist/2qBJ2KSP3IxiyrufZ2HZJM) | [yu can do better, yu deserve it](https://open.spotify.com/album/0Ey9F2JnL36FAQdV1KxOax) | 2:32 | 2023-03-17 |  |

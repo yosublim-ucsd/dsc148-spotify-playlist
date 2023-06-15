@@ -1,12 +1,12 @@
 {
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Paola Navarrete en portada.",
-  "num_followers": 51580,
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada por Paola Navarrete. #EQUALDOR",
+  "num_followers": 51593,
   "original_name": "EQUAL Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjEzMmJmOGZjZWQ5YTBhM2Y0N2E5Y2Y5YjBjOThkNzMyNDk4NWM0",
+  "snapshot_id": "MCxhYTNhNGZkNmM2ZTgyZmEyOWI2N2E3MDdjMzA1N2IwOGYzNjA2MGQ0",
   "tracks": [
     {
       "added_at": "2023-06-07 06:19:00",
@@ -23,6 +23,38 @@
       "duration_ms": 208749,
       "name": "Eres (Como El Mar)",
       "url": "https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh"
+    },
+    {
+      "added_at": "2023-06-14 15:28:43",
+      "album": {
+        "name": "I Like It, I Like It",
+        "url": "https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "duration_ms": 246318,
+      "name": "I Like It, I Like It",
+      "url": "https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR"
+    },
+    {
+      "added_at": "2023-06-14 15:31:23",
+      "album": {
+        "name": "Tu Fuego",
+        "url": "https://open.spotify.com/album/6h3u0pReE0S6kjzvzJ4zgh"
+      },
+      "artists": [
+        {
+          "name": "Michelle Espinosa",
+          "url": "https://open.spotify.com/artist/2dQ3Ury51FHqdpSWIKKar4"
+        }
+      ],
+      "duration_ms": 184934,
+      "name": "Tu Fuego",
+      "url": "https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -263,22 +295,6 @@
       "duration_ms": 172837,
       "name": "FANTASMAS",
       "url": "https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "Lo Que Nos Hizo Gigantes",
-        "url": "https://open.spotify.com/album/5UEfpCW3J8iw4AXYv1E4mv"
-      },
-      "artists": [
-        {
-          "name": "Sabi Satiz\u00e1bal",
-          "url": "https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Lo Que Nos Hizo Gigantes",
-      "url": "https://open.spotify.com/track/0oop3vyfemDoSFYMAbUg34"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -703,22 +719,6 @@
       "duration_ms": 246746,
       "name": "Raices del Festejo - Le Dije a Papa",
       "url": "https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "Bienvenidos al tren",
-        "url": "https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 303135,
-      "name": "Bienvenidos al tren",
-      "url": "https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM"
     },
     {
       "added_at": "2023-06-07 06:19:00",

@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Darah",
+        "url": "https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO"
+      },
+      "artists": [
+        {
+          "name": "Marsha Milan",
+          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "Darah",
+      "url": "https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj"
+    },
+    {
+      "album": {
         "name": "Debu (Strings Version)",
         "url": "https://open.spotify.com/album/1EuSXRl5N6AQ2P03FnU5Kq"
       },
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 265846,
       "name": "Lemak Manis",
       "url": "https://open.spotify.com/track/6baSCJVaZheBa1F9fUuP8E"
@@ -2962,6 +2980,24 @@
       "duration_ms": 240672,
       "name": "PEREMPUAN",
       "url": "https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3"
+    },
+    {
+      "album": {
+        "name": "Pergilah Cinta",
+        "url": "https://open.spotify.com/album/5S531uFkP9huwujuoiif1D"
+      },
+      "artists": [
+        {
+          "name": "Danial Kifli",
+          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238473,
+      "name": "Pergilah Cinta",
+      "url": "https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q"
     },
     {
       "album": {
@@ -4216,7 +4252,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 223717,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,475 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,538 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 3:10 |
 | 150 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
 
-Snapshot ID: `MCxjZGEzODQ3OWIxZDk5YzE5MTgzZmJkZmQxNmMxNjA0MTMwMTkxYTNm`
+Snapshot ID: `MCxlZjRjZDQ2ZDQ4YjNmZWJjNjA4ZWZkMTI2Yzg2M2ViZmNiZmUyOTU4`

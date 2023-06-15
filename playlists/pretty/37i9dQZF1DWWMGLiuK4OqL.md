@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,450 likes - 200 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,539 likes - 200 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Day Dream](https://open.spotify.com/track/5aokUx48X4jweV7dMf5tFS) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 4:44 |
 | 200 | [Empty Hearts](https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 3:59 |
 
-Snapshot ID: `MCwzNzY5OTAyZmE1NjU3ZGRjZjQ2OGY4ZGNkZGRjYzA4ODc0MTEzNzU4`
+Snapshot ID: `MCxhNmNlY2Y4Nzg1NDk3OWFlZjIxZTI0MWU5ZjIwMmE5MzlkYjU0ZDVj`

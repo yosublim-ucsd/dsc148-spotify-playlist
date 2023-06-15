@@ -4185,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "LOWGUYS",
+        "url": "https://open.spotify.com/album/52EbSy9SGomsFj5CsvsWSA"
+      },
+      "artists": [
+        {
+          "name": "Charisma.com",
+          "url": "https://open.spotify.com/artist/5plo5UwgrFliohBttLzqRr"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "LOWGUYS",
+      "url": "https://open.spotify.com/track/0dUDLvyj4ziYpTn9IceO0E"
+    },
+    {
+      "album": {
         "name": "LUCKY",
         "url": "https://open.spotify.com/album/4i8xlhMFCJMb9xUC3splBG"
       },
@@ -5476,10 +5494,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 262590,
       "name": "Plastic L",
       "url": "https://open.spotify.com/track/4V2fsrP4ArXgLZAlDRCXcI"
+    },
+    {
+      "album": {
+        "name": "PLASTIC POP",
+        "url": "https://open.spotify.com/album/461TGoCjAQ5tlk59t3Duzw"
+      },
+      "artists": [
+        {
+          "name": "um-hum",
+          "url": "https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262590,
+      "name": "Plastic L",
+      "url": "https://open.spotify.com/track/6wxxnPasBQyqQZzYmfG4jj"
     },
     {
       "album": {
@@ -5646,6 +5682,24 @@
     {
       "album": {
         "name": "Question",
+        "url": "https://open.spotify.com/album/7y2iNv09K6i5WMdL5rgBZJ"
+      },
+      "artists": [
+        {
+          "name": "Kibayashi",
+          "url": "https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295423,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/5ZwvCU9T0NrNcuQpLjty0H"
+    },
+    {
+      "album": {
+        "name": "Question",
         "url": "https://open.spotify.com/album/72PAIIpthGMXerE6TeDj5p"
       },
       "artists": [
@@ -5656,7 +5710,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 295423,
       "name": "Question",
       "url": "https://open.spotify.com/track/4M3vB5ifmGTZv3YW4SGlda"
@@ -6985,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "Sunday Eve",
+        "url": "https://open.spotify.com/album/72uKl7a6PC95Fnu6Ew35sX"
+      },
+      "artists": [
+        {
+          "name": "Nagakumo",
+          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264456,
+      "name": "Sunday Eve",
+      "url": "https://open.spotify.com/track/0sY5dIMKpHGlF4uXmJQqMv"
+    },
+    {
+      "album": {
         "name": "Super Hero",
         "url": "https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq"
       },
@@ -7854,6 +7926,24 @@
       "duration_ms": 213692,
       "name": "WATASHIHA WATASHINARINO KOTOBADESIKA AISHITERUTO TUTAERUKOTOGADEKINAI",
       "url": "https://open.spotify.com/track/3sRnw37zxEhfl2zevR6npx"
+    },
+    {
+      "album": {
+        "name": "Watashitachi no Journey",
+        "url": "https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "Watashitachi no Journey",
+      "url": "https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c"
     },
     {
       "album": {
@@ -9778,7 +9868,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 247333,
       "name": "\u308f\u305f\u3057\u9054\u306e\u30b8\u30e3\u30fc\u30cb\u30fc",
       "url": "https://open.spotify.com/track/7jBZEvYiDd1P44XrHROHfq"
@@ -12806,7 +12896,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 227893,
       "name": "\u30ed\u30fc\u30ac\u30a4\u30ba",
       "url": "https://open.spotify.com/track/4uOZCZrJsqi7wWeyklhD9i"
@@ -14910,7 +15000,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 264456,
       "name": "\u65e5\u66dc\u524d\u591c",
       "url": "https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh"

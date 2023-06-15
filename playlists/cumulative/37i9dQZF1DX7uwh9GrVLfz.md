@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-567 songs - 1 day 6 hr 47 min
+568 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
 | [Colorful Hip](https://open.spotify.com/track/4FCYSyFoltl1F5pZIozd1B) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [PSIKAZUKIYAMAMORI](https://open.spotify.com/album/3vglzqT2CU1OMIypbkZB3R) | 2:25 | 2023-01-10 | 2023-04-28 |
-| [Come Back](https://open.spotify.com/track/0wG9n3hwompSznMM9LDgGC) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [Come Back](https://open.spotify.com/album/6kRyNwORgBIo1tfFwhN1QR) | 2:48 | 2023-06-13 |  |
+| [Come Back](https://open.spotify.com/track/0wG9n3hwompSznMM9LDgGC) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [Come Back](https://open.spotify.com/album/6kRyNwORgBIo1tfFwhN1QR) | 2:48 | 2023-06-13 | 2023-06-15 |
+| [Come Back](https://open.spotify.com/track/4ACf77BPNKsjz1dWbpRcSC) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [Come Back](https://open.spotify.com/album/1IXoCCZcyrdk2urmVanNrZ) | 2:48 | 2023-06-13 |  |
 | [Come On,Let's Do The Pogo](https://open.spotify.com/track/4glSDAuqHUmUZzidvMhdP9) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Ken Yokoyama VS NAMBA69](https://open.spotify.com/album/2PG2LrM2OO1F68bz5xx0li) | 2:19 | 2022-05-17 | 2022-07-16 |
 | [count](https://open.spotify.com/track/2pUrr0QCUnDn09xfiDSOs6) | [Fated Lyeno](https://open.spotify.com/artist/7o0LH2g7bxIJez5DQiZQav) | [get over trials](https://open.spotify.com/album/5cacCmIKiq9p9L77lCjNFC) | 3:37 | 2022-05-12 | 2022-07-08 |
 | [Crap! Crap! Crap!](https://open.spotify.com/track/0uVkElZjeS9ujWnMALt6T7) | [NUBO](https://open.spotify.com/artist/7slpt682HvHguesqFJjqit) | [Crap! Crap! Crap!](https://open.spotify.com/album/5Hlisacn7iiNRJmtsy422T) | 2:22 | 2022-05-12 | 2022-07-27 |

@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Biar Menjadi Kenangan",
+        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313382,
+      "name": "Biar Menjadi Kenangan",
+      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
+    },
+    {
+      "album": {
         "name": "2+2+1=",
         "url": "https://open.spotify.com/album/0h9QJZLoc9UmlVRGd8qbh3"
       },

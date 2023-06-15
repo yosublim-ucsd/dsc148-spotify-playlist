@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO?si=FOQ53ziBQ06THOe95rVvxQ">Farruko</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,993 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,110 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Como Vuelvo A Ti](https://open.spotify.com/track/7A3gGBSNIYZi6SWibd4dPW) | [Dkaminos](https://open.spotify.com/artist/3ioX00qu4x1x7Dp1I1rrS1), [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j) | [Como Vuelvo A Ti](https://open.spotify.com/album/1ETRRgXJe3AUvYyERdi3Vy) | 3:36 |
 | 100 | [Amor Eterno](https://open.spotify.com/track/699QJTLdLlnYRHkhwmZJgk) | [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v), [Fernando Durso](https://open.spotify.com/artist/6YVjcjeMD6ljmqBfo6L6vC), [Elí Abella](https://open.spotify.com/artist/6KU2DLkQkyLfzK7Ht2fP2x) | [Amor Eterno](https://open.spotify.com/album/2dUETBpgfSy45LBbRA4sis) | 3:21 |
 
-Snapshot ID: `MCw1OTliYzRiYjcxYTc2MDFjNjk5NzIxM2Q1Y2I1NDBmNjUwZTg2YmNl`
+Snapshot ID: `MCw3Y2YzNjJhODEyM2IwOTczYjJkYzFhMzQyMGJjYmNhMTM2MDU5NjE2`

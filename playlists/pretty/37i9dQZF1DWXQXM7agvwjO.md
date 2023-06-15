@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: brb., KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,469 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,525 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [joke!](https://open.spotify.com/track/4EBrCFj4IJh2Zz9Bvk5erJ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [joke!](https://open.spotify.com/album/3WRyYbjli1QoGAhWwyH6IQ) | 3:23 |
 | 100 | [Have A Nice Dream](https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1rMO9zw1kCbPn93sfKpsPL) | 4:08 |
 
-Snapshot ID: `MCxlNDg2OTlhNWVhZjVhNDkwZDcxNTZiYzI1NmZmMTVhNmFiNGM3NDQz`
+Snapshot ID: `MCwwNDBkMWI3ZjcxMjY4MzUwMTBmNTZkNzE2ZWVkZGM2MWRmNzg1OTUy`

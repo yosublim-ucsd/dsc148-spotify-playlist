@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Alright / Out Of The Blue",
+        "url": "https://open.spotify.com/album/6DYWDPWTriEvCmW4eTIEBq"
+      },
+      "artists": [
+        {
+          "name": "Conor Kenahan",
+          "url": "https://open.spotify.com/artist/1l1xhd3meqLKqYtokdwSHc"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208836,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/21kja1h9ayN4AkETnVYHsz"
+    },
+    {
+      "album": {
         "name": "Always Been",
         "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
       },
@@ -746,6 +764,24 @@
       "duration_ms": 208691,
       "name": "Ash to Soil",
       "url": "https://open.spotify.com/track/1GESIVjI0p0HRsy9E8tj1Z"
+    },
+    {
+      "album": {
+        "name": "Audhumla Thaw",
+        "url": "https://open.spotify.com/album/1xA0LlYgFcGbF2oXWbnLSa"
+      },
+      "artists": [
+        {
+          "name": "Dustin Wong",
+          "url": "https://open.spotify.com/artist/484ZnYb0Vh2fHtYD0bEQuF"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "Audhumla Thaw",
+      "url": "https://open.spotify.com/track/0jqwZXh6rd2bLQa7jRT3xf"
     },
     {
       "album": {
@@ -1512,7 +1548,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 241994,
       "name": "Chum",
       "url": "https://open.spotify.com/track/5NdPS3yAClcmbsj9UwH5Hf"
@@ -2249,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "O Monolith",
+        "url": "https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185124,
+      "name": "Devil\u2019s Den",
+      "url": "https://open.spotify.com/track/6QLTumcZQ3dHN8pUj9T9C7"
+    },
+    {
+      "album": {
         "name": "seven songs",
         "url": "https://open.spotify.com/album/6EdNh4gZ8wWePCXwmQXnP8"
       },
@@ -2740,7 +2794,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 217136,
       "name": "Elimination Dances",
       "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
@@ -2824,6 +2878,24 @@
       "duration_ms": 333853,
       "name": "Eternal September",
       "url": "https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh"
+    },
+    {
+      "album": {
+        "name": "Evening Star Supercharger",
+        "url": "https://open.spotify.com/album/6181JseEP3RrM53y0UASM8"
+      },
+      "artists": [
+        {
+          "name": "Sparklehorse",
+          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Evening Star Supercharger",
+      "url": "https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s"
     },
     {
       "album": {
@@ -5188,7 +5260,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 241946,
       "name": "Lilac Twilight",
       "url": "https://open.spotify.com/track/0qohNUSvGCeBHP4ho0Rzje"
@@ -5626,7 +5698,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
@@ -7628,7 +7700,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 135434,
       "name": "Smile Please",
       "url": "https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l"
@@ -9406,7 +9478,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 154900,
       "name": "Waiting In The Car",
       "url": "https://open.spotify.com/track/7twbKxmUCa7CJClSytrD2I"

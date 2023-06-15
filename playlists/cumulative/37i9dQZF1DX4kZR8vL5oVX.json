@@ -6044,10 +6044,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 195026,
       "name": "Je partirai",
       "url": "https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa"
+    },
+    {
+      "album": {
+        "name": "Je partirai",
+        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
     },
     {
       "album": {

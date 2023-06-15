@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,424 likes - 500 songs - 1 day 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,528 likes - 500 songs - 1 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Barrytown](https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:20 |
 | 500 | [Before You Accuse Me](https://open.spotify.com/track/5vDImXyLguoCbkYASPf4xQ) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 3:26 |
 
-Snapshot ID: `MCw5Njg2MjUxMWM4MDczZDFmZjk1MjdkOTU5YmI1OGQ0M2FjOTMxM2Ux`
+Snapshot ID: `MCxlODhjMDdmMjQ5ZjI4ODJlY2FmODQyYzJkYTViMzc1YThmNzVlYTQ3`

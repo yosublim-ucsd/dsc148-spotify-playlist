@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,436 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,511 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 70 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 |
 | 71 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 |
 | 72 | [Indestructibles](https://open.spotify.com/track/1mRbGtScYckQQFBV787DxE) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Fue Eléctrico \(Edición Deluxe\)](https://open.spotify.com/album/38X0FvPYfXUnwQOWN8paq4) | 3:54 |
-| 73 | [Pa Tra](https://open.spotify.com/track/7i5zxFusd0L1w229nZWOR8) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/3YpxnsL6cZD7eOkW36ECbO) | 2:33 |
+| 73 | [Pa Tra](https://open.spotify.com/track/7i5zxFusd0L1w229nZWOR8) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Luiyitox](https://open.spotify.com/artist/5WvieVIoHClsy28GslSkOZ) | [Pa Tra](https://open.spotify.com/album/3YpxnsL6cZD7eOkW36ECbO) | 2:33 |
 | 74 | [Hoy No Me Puedo Levantar](https://open.spotify.com/track/5afJQLK9s5W8LmhjWtcBfk) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Hoy No Me Puedo Levantar](https://open.spotify.com/album/6QTQI32uInC7dOUnY6VQzw) | 2:23 |
 | 75 | [Do That](https://open.spotify.com/track/6Uwx3rTu2joE2bVyxUCgU2) | [Octopvs To The Party](https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8), [Lasai](https://open.spotify.com/artist/4jm1fGGclMs7yvK3BgFDsN) | [Do That](https://open.spotify.com/album/5tRdDiBlya1zt47CdmJ6p9) | 2:41 |
 | 76 | [Bills](https://open.spotify.com/track/7rlCeTnjn0plPZkVAcctPZ) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills](https://open.spotify.com/album/6ItEjseW8RWuVTDLd1vcnp) | 3:24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
+  "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Braulio Fog\u00f3n",
   "name": "Rep\u00fablica Dembow",
   "tracks": [
     {
@@ -5481,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "Perrita",
+        "url": "https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Perrita",
+      "url": "https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw"
+    },
+    {
+      "album": {
         "name": "PERRO",
         "url": "https://open.spotify.com/album/6umFNw6BRGDgECCNJQDxpj"
       },
@@ -7936,7 +7958,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 150471,
       "name": "Una Movie",
       "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"

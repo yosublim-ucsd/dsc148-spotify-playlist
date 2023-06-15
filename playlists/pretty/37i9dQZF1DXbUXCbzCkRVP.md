@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,675 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,725 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X) | 3:13 |
 | 80 | [Hot and Heavy](https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 1:56 |
 
-Snapshot ID: `MCwyYzY3NzlhY2M1NTBlYzQyMDc5NjUyMGI1Yzg2Zjk2ZWQyNjE0OWE0`
+Snapshot ID: `MCxiMGJjYWIyN2FiNDZkODIzMTQ2YTUwMjZlMTNhMzUwNmU2NDJiODJk`

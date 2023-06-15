@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,585 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,611 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 99 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 100 | [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 |
 
-Snapshot ID: `MCwyNzU0NGFhMTVkZGY4ZmI0Y2Y5MzE5NTk2NjUwMTdlYjRlODk0MjAw`
+Snapshot ID: `MCxlOWIzZjJlYjA1OWJiMmZlMzBhNTFkZWNmM2M5YzgxYjM2OWEzYWY0`

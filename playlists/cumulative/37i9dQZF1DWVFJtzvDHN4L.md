@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-76 songs - 3 hr 38 min
+77 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 | 2021-11-19 |  |
 | [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 | 2021-11-19 |  |
 | [The Globe Newsroom](https://open.spotify.com/track/5b5f2QcUDRvwj7Pz9HPlEr) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Spotlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u04rTgOYkILUtXzreNszQ) | 2:02 | 2021-11-19 |  |
-| [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2021-11-19 |  |
+| [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2021-11-19 | 2023-06-15 |
+| [The Last Dinner](https://open.spotify.com/track/7csZBSybyqxBWgsmsD0eLM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Score\)](https://open.spotify.com/album/7GqxefFfYUkModqa3muudO) | 1:50 | 2023-05-12 |  |
 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 | 2021-11-19 |  |
 | [The Only Way is Down](https://open.spotify.com/track/2NRClj4jFGy35kmAooFcTN) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Victoria & Abdul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vOVohJVa82DGdzk3uVW8g) | 1:13 | 2022-07-22 |  |
 | [The Only Way Is Down](https://open.spotify.com/track/4vHg75DPSyMvXGfcF2RTNF) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Victoria & Abdul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uw4UD12sYODj80ppjpP8G) | 1:13 | 2021-11-19 | 2022-07-29 |

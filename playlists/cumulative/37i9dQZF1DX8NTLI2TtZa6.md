@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-386 songs - 16 hr 44 min
+387 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Knowing](https://open.spotify.com/track/5ZCVigQ6yH25D61oA2fE4T) | [Jacob Higgins](https://open.spotify.com/artist/4BIgXu3VhBUcX6Y0TOHpoi) | [Knowing](https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w) | 2:32 | 2021-12-07 | 2023-05-10 |
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 |  |
 | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/album/6vrXwzmTmZ7aH9rRjt5bd8) | 1:47 | 2021-12-07 | 2022-03-18 |
-| [La Prima](https://open.spotify.com/track/38QeLGAQSSPuoWsz9bbZUw) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Terza](https://open.spotify.com/album/11dkaUx47vfnGS2CvEHdlX) | 1:38 | 2023-05-09 |  |
+| [La Prima](https://open.spotify.com/track/004dZYROPXhYMdBHqc12h3) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Quarta](https://open.spotify.com/album/5W1Cs3s2EGlxCzh1ndEJfX) | 1:38 | 2023-05-09 |  |
+| [La Prima](https://open.spotify.com/track/38QeLGAQSSPuoWsz9bbZUw) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Terza](https://open.spotify.com/album/11dkaUx47vfnGS2CvEHdlX) | 1:38 | 2023-05-09 | 2023-06-15 |
 | [La Prima](https://open.spotify.com/track/6FJMJ4MXRv43TkyYBdgeV3) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Prima](https://open.spotify.com/album/10uA5fNO7Wyv0Q4lHvm1Bl) | 1:38 | 2023-05-03 | 2023-06-01 |
 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 | 2021-12-07 | 2022-09-21 |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2021-12-07 | 2023-03-22 |

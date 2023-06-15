@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,374 likes - 61 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,419 likes - 61 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 | 60 | [Die Meistersinger von Nürnberg, Act 1, Scene 2: Der Meister Tön' und Weisen](https://open.spotify.com/track/4opFhqVqx53vQnVgK3oIic) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Bernd Weikl](https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8), [Cheryl Studer](https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68), [Wolfgang Sawallisch](https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF), [Bavarian State Orchestra](https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf) | [Wagner: Die Meistersinger](https://open.spotify.com/album/4GG15POfzCComI77zzBMax) | 7:15 |
 | 61 | [Die Meistersinger von Nürnberg, Act 3, Scene 2: "Abendlich glühend in himmlischer Pracht"](https://open.spotify.com/track/0zzSE9MvMGhrA8xsy8nYJR) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Bernd Weikl](https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8), [Cheryl Studer](https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68), [Wolfgang Sawallisch](https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF), [Bavarian State Orchestra](https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf) | [Wagner: Die Meistersinger](https://open.spotify.com/album/4GG15POfzCComI77zzBMax) | 5:22 |
 
-Snapshot ID: `MCxmMDU3YTkzZDA1NmMxMzhhMGQ3Yzc3ZjgxYmZhNDJlMzAxYzRhYmFj`
+Snapshot ID: `MCw4NmY5ZjVlY2M0N2FmMjAzNzMzMzNlYTllMmEwYTA1M2QyMTE2YTg1`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the internet.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 25,197 likes - 50 songs - 2 hr 14 min
+[Digster](https://open.spotify.com/user/digster.fm) - 25,203 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Thousand Miles \- Sped Up](https://open.spotify.com/track/2d0XzqH8Y30R1dsQuVA1T0) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [A Thousand Miles \(Sped Up\)](https://open.spotify.com/album/1glg1S0IGAMisCS4BIpkkD) | 3:26 |
-| 2 | [Alone \- Sped Up](https://open.spotify.com/track/0bP2gcYVzCX0vMClaiugnO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Kuyamagik](https://open.spotify.com/artist/5vMjcKweHaRq40T2J8gCBB) | [Alone \(Remixes\)](https://open.spotify.com/album/6Q8RITdKQdxrTnyQk5o36v) | 2:34 |
+| 2 | [Alone \- Sped Up](https://open.spotify.com/track/0bP2gcYVzCX0vMClaiugnO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Alone \(Remixes\)](https://open.spotify.com/album/6Q8RITdKQdxrTnyQk5o36v) | 2:34 |
 | 3 | [Say Yes To Heaven \- Sped Up](https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 2:36 |
-| 4 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
+| 4 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
 | 5 | [goingoutsad \(Sped Up\)](https://open.spotify.com/track/0mcWCh3DHsU2aGVul9yaw1) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu) | [goingoutsad \(Sped Up\)](https://open.spotify.com/album/2Ot0Mbydr4jvpSazFjonkM) | 1:41 |
 | 6 | [GOOD LOYAL THOTS \- Sped Up](https://open.spotify.com/track/278XivBXH8reixUeHJKl5p) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS \(WORLD DON’T REVOLVE AROUND YOU\)](https://open.spotify.com/album/4Q4HMUR4ZHmGhX4G0xtwYK) | 1:27 |
 | 7 | [Make Your Own Kind Of Music \- Sped Up](https://open.spotify.com/track/07cI1xbCgrynXsXb6MIg7R) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Make Your Own Kind Of Music \(Sped Up\)](https://open.spotify.com/album/1gCLPuA568YBJk5wcuPyfn) | 2:06 |

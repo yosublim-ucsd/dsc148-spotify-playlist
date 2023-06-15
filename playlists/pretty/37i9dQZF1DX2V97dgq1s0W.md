@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Mahalia & Jojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,685 likes - 78 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,918 likes - 78 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

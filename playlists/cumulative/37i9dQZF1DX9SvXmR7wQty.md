@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Miro
 
-1,891 songs - 4 day 5 hr 18 min
+1,892 songs - 4 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,7 +805,7 @@
 | [Je ne suis qu'une chanson](https://open.spotify.com/track/2pQYG51M7vpODwl5kgTyH2) | [Geneviève Leclerc](https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd) | [Je ne suis qu'une chanson](https://open.spotify.com/album/0Sw0PUbfeQ0K5bvqMmMexg) | 5:19 | 2023-01-13 | 2023-01-21 |
 | [Je ne t'aime plus](https://open.spotify.com/track/0TqRzzwgt0v4HtgsNVA0qT) | [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Je ne t'aime plus](https://open.spotify.com/album/1DF4c87TapnUkR0kZt1bwd) | 3:02 | 2022-03-11 | 2022-03-16 |
 | [Je ne te dirai pas](https://open.spotify.com/track/7EJQIs8SgCykgdn3XehEmC) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG), [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Je ne te dirai pas](https://open.spotify.com/album/1TytBbySQO4t1sLbaAdpLP) | 3:09 | 2022-01-21 | 2022-02-05 |
-| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-05-26 |  |
+| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-05-26 | 2023-06-15 |
 | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 | 2022-05-06 | 2022-05-20 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2022-06-18 |
 | [Je resterai tout près \(Ton nom est un rivage\)](https://open.spotify.com/track/70EQSOKYqozg8DRVNKNyWs) | [Sylvie Paquette](https://open.spotify.com/artist/7lf5jug92e3K5mWcAzxlrB) | [Je resterai tout près](https://open.spotify.com/album/4d8TpxTY6tCucamqn2tmoQ) | 2:45 | 2022-05-06 | 2022-05-14 |
@@ -838,6 +838,7 @@
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [ZKR](https://open.spotify.com/artist/138yPQEMrqpyDeDHPdQ97G) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2021-12-31 | 2022-01-22 |
 | [Kanye Mode](https://open.spotify.com/track/5h3SXf29h53Zeg4ijBXPG5) | [Chris Kai](https://open.spotify.com/artist/68F3LEVxh5Xr7V2P3K0vHt), [YY](https://open.spotify.com/artist/55I2KOtPAtxkwQVvgX6eWC) | [Kanye Mode](https://open.spotify.com/album/6vFIWqZBNCfI0mOzzwkuXA) | 2:27 | 2022-11-11 | 2022-11-26 |
 | [Karma](https://open.spotify.com/track/57o2dAk85nAlhf6QvUttLh) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Karma](https://open.spotify.com/album/5oy3WDkdnPUWtUvcBEOtOX) | 2:55 | 2021-12-31 | 2022-01-22 |
+| [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-09 |  |
 | [Kawasaki](https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Kawasaki](https://open.spotify.com/album/1bStyqkV25EHm5QHf8Jk2w) | 2:44 | 2022-03-18 | 2022-03-26 |
 | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/track/1D5609drY3JVyf48LhBDoh) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/album/1YlQ7XZ6tLxjQ8LVVcVp46) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-11 | 2022-03-26 |

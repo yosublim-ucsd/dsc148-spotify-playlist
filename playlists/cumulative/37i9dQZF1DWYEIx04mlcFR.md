@@ -2,7 +2,7 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Bruses en portada\. 🌊✨
+> ¡La Gen 23 está aquí! La nueva ola de artistas con Bruses en portada\. 🌊✨
 
 345 songs - 17 hr 51 min
 

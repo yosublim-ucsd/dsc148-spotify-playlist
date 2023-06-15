@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Aperitivo, lounge, chill: musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,826 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,917 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 74 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 75 | [Landing](https://open.spotify.com/track/6C66qQfUEBj9dplR1a3Sar) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Inhale, Exhale, Repeat.](https://open.spotify.com/album/36grzVXLi4E3uGkydMO9Z8) | 2:24 |
 
-Snapshot ID: `MCxiMDI4ODg3NmJjOWUzMWEzYjRhMDViZDk2Y2E0OGNkZjljNjhlYzU5`
+Snapshot ID: `MCw5NjUzMzZiZWFkMjM2OWYxZTNhNzcyOGUyN2Q4ZmMwMWRkN2VmYjIz`

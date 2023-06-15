@@ -6384,10 +6384,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 173167,
       "name": "stroll",
       "url": "https://open.spotify.com/track/4cFiCccBG5fSDC7yqxtsKW"
+    },
+    {
+      "album": {
+        "name": "stroll",
+        "url": "https://open.spotify.com/album/3NYFZtTXEzWoPgp3FZ9BmE"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173167,
+      "name": "stroll",
+      "url": "https://open.spotify.com/track/6vuuRxPKfb9TqXlXagatrR"
     },
     {
       "album": {

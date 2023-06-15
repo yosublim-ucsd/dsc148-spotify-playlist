@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:5lsC3H1vh9YSRQckyGv0Up\">Ellen Allien</a>'s favorite tracks. Updated regularly. Curated by Ellen Allien. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 39935,
+  "num_followers": 39954,
   "original_name": "Ellen Allien's track IDs",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,22 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Grown From The Ashes",
-        "url": "https://open.spotify.com/album/1IJUFZflT1joyAjlRYwU1g"
+        "name": "A\u00f1o V-I",
+        "url": "https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Oaks",
           "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Cadency",
+          "url": "https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD"
         }
       ],
       "duration_ms": 379480,
       "name": "Bringing Down Their System",
-      "url": "https://open.spotify.com/track/1Wk3Q3IewiqDddOHMsxdgK"
+      "url": "https://open.spotify.com/track/3fipVtOcZ3huMxAhBTWR1P"
     },
     {
       "added_at": "2023-05-25 22:01:00",

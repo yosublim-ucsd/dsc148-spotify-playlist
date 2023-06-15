@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Trixie Mattel
 
-789 songs - 1 day 19 hr 7 min
+790 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-22 | 2022-12-01 |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2023-03-31 | 2023-04-14 |
 | [It's Okay to Cry](https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs) | [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [It's Okay to Cry](https://open.spotify.com/album/2gcwXOGiD2el0GMxjIXl3K) | 4:10 | 2022-01-05 | 2022-07-19 |
-| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-06-01 |  |
+| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-06-01 | 2023-06-15 |
+| [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-09 |  |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-06-24 | 2022-12-01 |
 | [jealous of my brother](https://open.spotify.com/track/0dAzBYUOIrgAxkjJMsXl1u) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [jealous of my brother](https://open.spotify.com/album/74fhU0QGKQ3ejHUQ3dVCb0) | 3:11 | 2023-03-31 | 2023-05-10 |
 | [jenny](https://open.spotify.com/track/4c8vbW5fv8fIFdt7thpKRp) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [jenny](https://open.spotify.com/album/6TjzioridJQ6VztjqLkjP7) | 2:39 | 2022-03-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,753 likes - 207 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 207 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

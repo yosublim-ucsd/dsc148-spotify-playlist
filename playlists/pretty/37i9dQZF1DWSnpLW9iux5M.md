@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,724 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,722 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 |
 | 100 | [All About Christ](https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu) | [Jevon Brock and Restoration](https://open.spotify.com/artist/1HUj4pDexJbZLp2D8s9zBr) | [All About Christ](https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t) | 3:21 |
 
-Snapshot ID: `MCxiZDgzZTgxMjA5ZmRlMjk3YjM3YzJiMDQ0YzJiNWFlY2JmYmMwYjMz`
+Snapshot ID: `MCwxODQ0ZTA4NDIwOTA2MjQyNmVlZDZmYTFhOTA2YzQ5ODM2YjBhMGE2`

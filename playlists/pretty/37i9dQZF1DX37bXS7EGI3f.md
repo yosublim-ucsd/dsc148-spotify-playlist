@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,980 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,110 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m) | 5:30 |
 | 80 | [A Cloak Woven of Stars](https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [A Cloak Woven of Stars](https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm) | 3:37 |
 
-Snapshot ID: `MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm`
+Snapshot ID: `MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,125 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,141 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Culo](https://open.spotify.com/track/76z00avJmFVkjRcnufMEou) | [Jamhaitian](https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq) | [Culo](https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES) | 3:12 |
 | 100 | [Stupid Love](https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [BlecksFlex](https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal) | [Stupid Love](https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0) | 2:44 |
 
-Snapshot ID: `MCxlZDkwNjk0YWU3ZTQyYWQ4NzBjNGZlNGYzNzAyYmI0ZWQwOTk5ZTkw`
+Snapshot ID: `MCw3NzA1OWU2MjNkMjcwZjhmYjdhMWQ1MTIzODVkY2FmODBhODA0ZWMz`

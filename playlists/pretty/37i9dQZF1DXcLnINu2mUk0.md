@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mike11.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,477 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 |
 | 75 | [Envelope](https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [Prince do Pânico](https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI) | [Envelope](https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5) | 2:59 |
 
-Snapshot ID: `MCxmMGMwYzgxNjk2MGE3MmY3YjA5NjNkOThkM2ViNTI1OTZjOTU3N2M2`
+Snapshot ID: `MCxhYzFiOTg0N2Y2YmYzZjkyZWM2ODM1Yzk1YTBmMWRkYzQ1ODE4YzRh`

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 21331,
+  "num_followers": 21378,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDIzMDc2MjNjOTIzOTA2YjljMDZmZmUwOTAzY2E3Y2Y1NjNmNGJi",
+  "snapshot_id": "MCw4NzRhYmY2ZTE3YzUwYWM4ZjJhNzZkYjEyZjhhNzMwY2U2NDY1NDdk",
   "tracks": [
     {
       "added_at": "2023-06-08 06:08:18",
@@ -67,6 +67,26 @@
       "duration_ms": 251911,
       "name": "Nangansiddu - 2 (All Not Ok)",
       "url": "https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL"
+    },
+    {
+      "added_at": "2023-06-13 09:33:41",
+      "album": {
+        "name": "Nannee Hradayava",
+        "url": "https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo"
+      },
+      "artists": [
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        },
+        {
+          "name": "Raveendra Muddi",
+          "url": "https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Nannee Hradayava",
+      "url": "https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr"
     },
     {
       "added_at": "2022-09-09 05:23:48",
@@ -255,22 +275,6 @@
       "duration_ms": 178635,
       "name": "Chitte",
       "url": "https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2"
-    },
-    {
-      "added_at": "2023-02-13 11:05:49",
-      "album": {
-        "name": "Namma Rasthe",
-        "url": "https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7"
-      },
-      "artists": [
-        {
-          "name": "Sagar Shastri",
-          "url": "https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Namma Rasthe",
-      "url": "https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA"
     },
     {
       "added_at": "2023-01-31 09:49:10",

@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "BAMBINO",
+        "url": "https://open.spotify.com/album/4jOmmG04lICQCmUWelhrMK"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ"
+        },
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145679,
+      "name": "BAMBINO",
+      "url": "https://open.spotify.com/track/1m9KqPPmCjTXl7ia87Cs4B"
+    },
+    {
+      "album": {
         "name": "BCN",
         "url": "https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5"
       },
@@ -774,7 +796,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 157093,
       "name": "CREATUR",
       "url": "https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 194197,
       "name": "Genny e Mattia",
       "url": "https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA"

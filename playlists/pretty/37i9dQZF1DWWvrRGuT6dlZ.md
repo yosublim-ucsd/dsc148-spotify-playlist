@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Aini Mazalan\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,038 likes - 126 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,037 likes - 126 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 125 | [4FREE](https://open.spotify.com/track/79OyP5Q7m8pC8Js1Eybpgw) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [4FREE](https://open.spotify.com/album/72lp4Ez6x7GO7mZVTRrca3) | 3:06 |
 | 126 | [BREAK OUT](https://open.spotify.com/track/097H2uNtcKIgggGHmaRTAj) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [BREAK OUT](https://open.spotify.com/album/0zhMDV36ReMbwonYKZFgFZ) | 3:06 |
 
-Snapshot ID: `MCw4YjBlYzBhNTNjODI3NGYwN2IyM2RjN2MwYTk5YTFhMTA0MzkwMDM4`
+Snapshot ID: `MCwzOGZiZTI5MTE5ZjNjOWJmOTAxNDA5YzE1YzlkN2FjYzlkMDg4YjBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: The Maine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,715 likes - 126 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,600 likes - 126 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

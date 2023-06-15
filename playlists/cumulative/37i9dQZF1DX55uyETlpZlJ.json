@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 218181,
       "name": "Namma Rasthe",
       "url": "https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA"
@@ -1314,6 +1314,28 @@
       "duration_ms": 181565,
       "name": "Nanne Marethe",
       "url": "https://open.spotify.com/track/3RbxYSwVXgxn4nifFQxWIP"
+    },
+    {
+      "album": {
+        "name": "Nannee Hradayava",
+        "url": "https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo"
+      },
+      "artists": [
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        },
+        {
+          "name": "Raveendra Muddi",
+          "url": "https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192522,
+      "name": "Nannee Hradayava",
+      "url": "https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=R5F2Z7QUQLCahiHPgAoBXw">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,841 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,927 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 59 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 |
 | 60 | [Ewallet](https://open.spotify.com/track/3dnalT0K3cynUUcxLGT6gZ) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [AB Crazy](https://open.spotify.com/artist/2AV7bayWSUDsA3Iwb7b7UN), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Ewallet](https://open.spotify.com/album/5waXBwSbwwRqd4s0eJZmPy) | 2:55 |
 
-Snapshot ID: `MCwzN2I3MjU2MWNiNGRkYzI2ZDA4NGIwOTcxODczOGNlODI2YTU2MGQ4`
+Snapshot ID: `MCwwMWRlNTZiYTY0OTY0MzE0ZGQyNTk5ZGFmMDk0OGEyN2JiNmQwZDYw`

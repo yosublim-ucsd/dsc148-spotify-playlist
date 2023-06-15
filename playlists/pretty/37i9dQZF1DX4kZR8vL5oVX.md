@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,106 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,098 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 4 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 5 | [thelma & louise](https://open.spotify.com/track/3SHo8R3i90ctwIA63ZZ1UV) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 3:28 |
 | 6 | [Les sunlights des tropiques](https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les sunlights des tropiques](https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6) | 3:40 |
-| 7 | [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 |
+| 7 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 |
 | 8 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
 | 9 | [L' Emprise \- Radio Edit \- Bande originale "Donjons & Dragons: L'honneur des voleurs"](https://open.spotify.com/track/0BJTDQCtldYPks4ItKdfB4) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L' Emprise \(Radio Edit \- Bande originale "Donjons & Dragons: L'honneur des voleurs"\)](https://open.spotify.com/album/18YSr6GhLNZRAFvfUecR89) | 3:25 |
 | 10 | [Dormir debout](https://open.spotify.com/track/4AKhnlPFlznenlPgWzSfBw) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Dormir debout](https://open.spotify.com/album/6TsNsHp2zPycXn1lpvM6jg) | 2:54 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 48 | [Remède](https://open.spotify.com/track/5qTYTsLD40ERvWHH2UFCbo) | [Rina DG](https://open.spotify.com/artist/6qdPhiETWhn1Jhx4AyIUZ4) | [Remède](https://open.spotify.com/album/45E7z2XT0Y4dbwQK6TJAHC) | 2:41 |
 | 49 | [des lettres d'amour \- eurodance remix](https://open.spotify.com/track/38unUuDM10dFpz8Iuc7K3V) | [Philibert](https://open.spotify.com/artist/3gYwdg1OQ68TAXUWJMw8Pb) | [des lettres d'amour \(remixes\)](https://open.spotify.com/album/65koI7a4dUzw8ANSEp454I) | 3:18 |
 
-Snapshot ID: `MCxmOWRlMmQ3YTY4NGFmNmNmYWY0M2Q3ZGZhYmVlNWY3ZmQ0NDlkNGYw`
+Snapshot ID: `MCw1Y2U2NTlkODY3M2RmN2YzZjA0NDU5MzM2MTFjZGMyOTk4ZDQ4ZmNl`

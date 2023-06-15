@@ -4,7 +4,7 @@
 
 > d min bratkooooo
 
-1,042 songs - 1 day 21 hr 58 min
+1,043 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv) | 2:50 | 2022-09-15 | 2022-11-04 |
 | [BNY & CLD](https://open.spotify.com/track/1eTXGyw9q6mMl3MUjNRDHU) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [BNY & CLD](https://open.spotify.com/album/6zPuULnz6YcgB3a3pbSz2c) | 2:43 | 2022-05-26 | 2022-08-05 |
 | [BOLT](https://open.spotify.com/track/0RflCR9n5gkkW34IINLQbq) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH) | [BOLT](https://open.spotify.com/album/6Big0eVQiuD0IcMZDc5Oio) | 2:27 | 2022-09-22 | 2022-10-14 |
+| [BON APPETIT \(DRILL REMIX\)](https://open.spotify.com/track/2zHfCMxLdfAsomeVfTqpxC) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:33 | 2023-06-14 |  |
 | [Born Broke](https://open.spotify.com/track/2ObcrH042x3Hen1H5BABrK) | [Aj B](https://open.spotify.com/artist/7HNexSRBLdVWgYldSK1EN4) | [Born Broke](https://open.spotify.com/album/0ZKUeRXG5KsGEASNvXj1tO) | 1:57 | 2023-03-23 | 2023-04-28 |
 | [BORZ](https://open.spotify.com/track/7m5yy8LF2su0nvw9xrYzkz) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [BORZ](https://open.spotify.com/album/2TSw6JdtrxZRGKR9i4LHaQ) | 2:30 | 2022-11-17 | 2023-01-27 |
 | [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 | 2023-02-25 | 2023-05-26 |
@@ -466,7 +467,7 @@
 | [In My Zone](https://open.spotify.com/track/3P2SnfyzKO2wIfH4GMTL5V) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [In My Zone](https://open.spotify.com/album/0MQ7E5EP5LqsftGfQyQPLd) | 2:24 | 2022-06-02 | 2022-06-10 |
 | [inatt](https://open.spotify.com/track/2YTZ3XiOHUUnwqJH9suznv) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [inatt](https://open.spotify.com/album/469eJsNRUcOVu5pN0edEvy) | 2:37 | 2022-12-01 | 2023-01-06 |
 | [Inga feelings](https://open.spotify.com/track/6T9g3YYyxfxu3Htr8P5wnd) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Älskar dig hatar dig](https://open.spotify.com/album/5txxX7l49EJTKjndxt4VGs) | 1:41 | 2023-03-16 | 2023-04-28 |
-| [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 | 2023-03-02 |  |
+| [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 | 2023-03-02 | 2023-06-15 |
 | [Ingen hook](https://open.spotify.com/track/55ZJOO09x37tfayFaGyDqq) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj) | [Ingen hook](https://open.spotify.com/album/6XNAJ5NdwMuHzwRZGNJkRb) | 2:15 | 2022-09-29 | 2022-10-21 |
 | [INGEN IDÉ](https://open.spotify.com/track/6cl1cSwehprTTZZu8TVBBK) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [INGEN IDÉ](https://open.spotify.com/album/3p7EmFMYPD3z6nTdcYpYPf) | 3:00 | 2021-12-16 | 2022-02-25 |
 | [Ingen Teater](https://open.spotify.com/track/18An1CthuXJyG7RKc9gY3r) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Ingen Teater](https://open.spotify.com/album/6r8edTdq03L31UMZVwHtde) | 3:05 | 2023-01-26 | 2023-02-17 |
@@ -758,7 +759,7 @@
 | [Politrix 3](https://open.spotify.com/track/6dR9JEZAKwKlCQ4ilCDveT) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [PUSH3R](https://open.spotify.com/album/6Md0f1UAENAmSFkcaIVp9p) | 2:32 | 2021-12-16 | 2022-01-14 |
 | [Pompeji](https://open.spotify.com/track/34s3YjW9iYYAxlSjGYLD2x) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [POMPEJI / BEKVÄM \(B.C.D DELUXE\)](https://open.spotify.com/album/2RiDrpDQhhzg2DUyDenxNH) | 2:06 | 2022-02-25 | 2022-03-25 |
 | [Pon me](https://open.spotify.com/track/4mVTcZKPiJhxfTII8rnSM5) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t) | [Pon me](https://open.spotify.com/album/4PcZ0vlvOr1fYOp8iaEPwp) | 3:19 | 2022-05-20 | 2022-06-10 |
-| [PONDUS](https://open.spotify.com/track/2SwZWiSUf4k1fvbJGxWj8b) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [PONDUS](https://open.spotify.com/album/4KGjExWCw6y5Geugyc5Fuy) | 2:33 | 2023-05-18 | 2023-06-02 |
+| [PONDUS](https://open.spotify.com/track/2SwZWiSUf4k1fvbJGxWj8b) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [PONDUS](https://open.spotify.com/album/4KGjExWCw6y5Geugyc5Fuy) | 2:33 | 2023-05-18 |  |
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-19 | 2023-02-10 |
 | [Poppis](https://open.spotify.com/track/0YdaLD97uhero6WpO4HfMe) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Poppis](https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp) | 2:07 | 2022-02-10 | 2022-04-29 |
 | [POW POW](https://open.spotify.com/track/7bEG8w5O4P2zDBirLYqBkc) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F), [DJ BAZE](https://open.spotify.com/artist/4XqqwU47yfpLcUR3EfmTR7) | [POW POW](https://open.spotify.com/album/18d7OCTsQZrqExaFzfC8sh) | 3:07 | 2021-12-16 | 2022-01-07 |

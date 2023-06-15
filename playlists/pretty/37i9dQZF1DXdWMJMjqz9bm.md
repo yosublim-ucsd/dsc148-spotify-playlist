@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,893 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,939 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 35 | [tangled cables](https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [tangled cables](https://open.spotify.com/album/61RjORGnbFzvIOE1m7sCtC) | 3:19 |
 | 36 | [DRUGS](https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:39 |
 | 37 | [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 |
-| 38 | [Fruits of My Labor](https://open.spotify.com/track/51dZW9RmHyIXrdpEdFu1Xm) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/3g3hptzipUo3UpdGixh6Vn) | 3:18 |
+| 38 | [Fruits of My Labor](https://open.spotify.com/track/3nif7UigG93eWI29DHG8G4) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/2KNW2FurKlJh9gSt268xcx) | 3:18 |
 | 39 | [five year plan](https://open.spotify.com/track/7906VnRknBNK6Eb8ABcUgq) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [five year plan](https://open.spotify.com/album/4saAmbd9zLQIETX9UkkntL) | 2:27 |
 | 40 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 |
 | 41 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 |
 | 100 | [deep end](https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [deep end](https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w) | 2:24 |
 
-Snapshot ID: `MCwwMmI4MDQ1M2Y3NDIzNGJhYmZlMzYzMjY4MDk5NmE4ZTIxZWIxZjZh`
+Snapshot ID: `MCw4ZTI1ODdlNzYwMmIxZjllMzMwOGM5OTBjODQyZDQwNWRmNjgwOWVl`

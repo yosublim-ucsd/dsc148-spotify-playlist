@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,399 likes - 100 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,497 likes - 100 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [John S\. \- Remastered](https://open.spotify.com/track/461pkT8SLkwYk5r5FexNiy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:46 |
 | 100 | [Oleo](https://open.spotify.com/track/1kSoWg2hMVklqtngOba5sK) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Oleo](https://open.spotify.com/album/1vrL33aprfuGToazTDUeie) | 3:14 |
 
-Snapshot ID: `MCxlZjQzYTAxNjIwMjA2OTc0YWVlZTlmMzgyOTUzNTE5MjhjZDEzZGMz`
+Snapshot ID: `MCxlZTc4ZGM3MTM0NTNhN2ZmOWJjYzk2OGZmZDM4OWQ0YzEwN2M1MjRk`

@@ -4781,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "PARA PARA",
+        "url": "https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170595,
+      "name": "PARA PARA",
+      "url": "https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN"
+    },
+    {
+      "album": {
         "name": "Paradise (feat. Kan Sano)",
         "url": "https://open.spotify.com/album/6isB4u1HezmW9K8dMxr4Sw"
       },
@@ -7748,7 +7766,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 247941,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"

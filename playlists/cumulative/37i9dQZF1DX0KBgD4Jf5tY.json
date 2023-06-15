@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:1HVA7XWQZ5OZgJLhSaTDXA\">Il Mago Del Gelato</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:637853CZ5FohFDeBONa2D7\">Maura</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 156053,
       "name": "(Tocco La) Ruggine",
       "url": "https://open.spotify.com/track/0zNFH1uK1ziif3Kg0CRO0u"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 187851,
       "name": "a me va bene",
       "url": "https://open.spotify.com/track/4vZhyOMWGhnh6YQkOyt7ms"
@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "BILENU",
+        "url": "https://open.spotify.com/album/29wuss6Dzeuh7laHHEXEhF"
+      },
+      "artists": [
+        {
+          "name": "IDDA",
+          "url": "https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "BILENU",
+      "url": "https://open.spotify.com/track/05gByOn7JH2W8CAY25UJMb"
+    },
+    {
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi"
       },
@@ -2906,6 +2924,24 @@
       "duration_ms": 153230,
       "name": "Chiamami",
       "url": "https://open.spotify.com/track/06sdKGHzyXWyN73Dd6vZK7"
+    },
+    {
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/7mqjgz9vcp6atDJZaKWIKf"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/7tEEqmmsZvUEGupDfsh54X"
     },
     {
       "album": {
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 120500,
       "name": "Falcon",
       "url": "https://open.spotify.com/track/0JPKecNKt1bqpupwW6Y5sv"
@@ -5524,7 +5560,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 152470,
       "name": "Haribo",
       "url": "https://open.spotify.com/track/1qkOYFTHPLOstClyd32y00"
@@ -5912,6 +5948,28 @@
       "duration_ms": 125624,
       "name": "Il suono che ho dentro alla testa",
       "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
+    },
+    {
+      "album": {
+        "name": "Il tuo nome",
+        "url": "https://open.spotify.com/album/0xmkTJhWG3ClWTaMAGHPKG"
+      },
+      "artists": [
+        {
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
+        },
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162310,
+      "name": "Il tuo nome",
+      "url": "https://open.spotify.com/track/668OpnQUUI0zGPjshTKTIa"
     },
     {
       "album": {
@@ -7776,7 +7834,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 183652,
       "name": "Meteore",
       "url": "https://open.spotify.com/track/1CuyyopZyD37nrFxxG3tpv"
@@ -7870,7 +7928,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 149371,
       "name": "Mi Scivoli Addosso",
       "url": "https://open.spotify.com/track/5rAXBt0QeQpB90hvkOv6OI"
@@ -8659,6 +8717,24 @@
     },
     {
       "album": {
+        "name": "Never Need You",
+        "url": "https://open.spotify.com/album/0I8t7ydYrZp0QOZHQKYjel"
+      },
+      "artists": [
+        {
+          "name": "Feliciana",
+          "url": "https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Never Need You",
+      "url": "https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2"
+    },
+    {
+      "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/3401AVbriMGB3NlScDU6kw"
       },
@@ -9291,6 +9367,28 @@
     },
     {
       "album": {
+        "name": "Not Here to Please",
+        "url": "https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl"
+      },
+      "artists": [
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726"
+        },
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148050,
+      "name": "Not Here to Please",
+      "url": "https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI"
+    },
+    {
+      "album": {
         "name": "Not Like You",
         "url": "https://open.spotify.com/album/37BjWgH8KlnSrlLOSi7nPb"
       },
@@ -9686,6 +9784,24 @@
       "duration_ms": 193343,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/23evdm6fcRLNCuv4AQTIYn"
+    },
+    {
+      "album": {
+        "name": "Ops",
+        "url": "https://open.spotify.com/album/6XY2SuIBpPb83UiQaKlSHY"
+      },
+      "artists": [
+        {
+          "name": "Yna",
+          "url": "https://open.spotify.com/artist/2c6DcIhUo15Ry8pZ7PPfau"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184202,
+      "name": "Ops",
+      "url": "https://open.spotify.com/track/2wFMJS2u55NMgtQp11c0ca"
     },
     {
       "album": {
@@ -10985,6 +11101,24 @@
     },
     {
       "album": {
+        "name": "storie di arcieri e altri animali",
+        "url": "https://open.spotify.com/album/0chcpZo5oBoXe7AaV9QBrz"
+      },
+      "artists": [
+        {
+          "name": "Maura",
+          "url": "https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227280,
+      "name": "Quando ho visto te",
+      "url": "https://open.spotify.com/track/5JDUb4nkjuy2uWHneS18fo"
+    },
+    {
+      "album": {
         "name": "Quando me ne sono andato",
         "url": "https://open.spotify.com/album/7u5QxpKwR4g6AKpAULCxkv"
       },
@@ -11112,6 +11246,36 @@
       "duration_ms": 154923,
       "name": "QUEEN SIZE",
       "url": "https://open.spotify.com/track/0nMCR75q4zfsEvkhIZxwbx"
+    },
+    {
+      "album": {
+        "name": "Questo Disco",
+        "url": "https://open.spotify.com/album/6JSVuzS7iXWFSSR3xC9Zbg"
+      },
+      "artists": [
+        {
+          "name": "Better Call Savnko",
+          "url": "https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62"
+        },
+        {
+          "name": "Savnko",
+          "url": "https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck"
+        },
+        {
+          "name": "Ricky Borsieri",
+          "url": "https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL"
+        },
+        {
+          "name": "Ursula Casadei",
+          "url": "https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198568,
+      "name": "Questo Disco",
+      "url": "https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN"
     },
     {
       "album": {
@@ -12013,6 +12177,28 @@
     },
     {
       "album": {
+        "name": "Semafori arancioni",
+        "url": "https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R"
+      },
+      "artists": [
+        {
+          "name": "Luca Notaro",
+          "url": "https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154169,
+      "name": "Semafori arancioni",
+      "url": "https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB"
+    },
+    {
+      "album": {
         "name": "Senti",
         "url": "https://open.spotify.com/album/5oyLe4c1prFyOBc3PQAKYZ"
       },
@@ -12324,7 +12510,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 158452,
       "name": "Sleep Baby",
       "url": "https://open.spotify.com/track/0CNqOVBbNDAcWlyTaFgonI"
@@ -13871,6 +14057,24 @@
     },
     {
       "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
+      },
+      "artists": [
+        {
+          "name": "NARA",
+          "url": "https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
+    },
+    {
+      "album": {
         "name": "Tutto quello che ho",
         "url": "https://open.spotify.com/album/0gcytUGfqlLfqjvbLJG7w7"
       },
@@ -14074,7 +14278,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 202138,
       "name": "un uomo",
       "url": "https://open.spotify.com/track/5NvmabH0xeosa4Oi3QTCBD"
@@ -14150,6 +14354,24 @@
       "duration_ms": 179478,
       "name": "Una via d'uscita",
       "url": "https://open.spotify.com/track/6gxLlVRuJdN8jNczpPur3p"
+    },
+    {
+      "album": {
+        "name": "unica",
+        "url": "https://open.spotify.com/album/6np3lAFb6bzD7vvam47JFV"
+      },
+      "artists": [
+        {
+          "name": "Gio Libe",
+          "url": "https://open.spotify.com/artist/6No9HmuzuNEvZhG5rYg2eV"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "unica",
+      "url": "https://open.spotify.com/track/2oBFNcAyWiQ2v8aEitmdzG"
     },
     {
       "album": {

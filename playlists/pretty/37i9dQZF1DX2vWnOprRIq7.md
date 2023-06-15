@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Julais.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,796 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,807 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 |
 | 100 | [MICROFRACTURAS](https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE) | [Vicu Villanueva](https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy) | [Victoria y las Máquinas](https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog) | 6:09 |
 
-Snapshot ID: `MCwxMDgzZTg2NDBlMjIzMWEwMmI1MGI3NWYwZDZkN2Q5ZWYzMzVkMzM3`
+Snapshot ID: `MCxhNDRlYzFjOTVjM2EzMzJlMjQxOWQ4MDBjODc3NDIyZWM0YzM4YTAw`

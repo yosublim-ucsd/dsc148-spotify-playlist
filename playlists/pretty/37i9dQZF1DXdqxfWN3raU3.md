@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Latin Mafia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,628 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,687 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [Duele Tanto](https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo) | [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Duele Tanto](https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor) | 3:12 |
 | 100 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
 
-Snapshot ID: `MCxiNzg4MDliNzY3ZDExM2MzMjk2NWQ2MzZlODA2NzBiZTc5MDlmMGEw`
+Snapshot ID: `MCwxM2RmNzRmMjlkMzcwZDc1NGFlMmFmZDYwZjEzMWE2MTJkOWUyY2M0`

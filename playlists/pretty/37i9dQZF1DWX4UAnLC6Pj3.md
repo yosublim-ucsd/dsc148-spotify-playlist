@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Macías en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,342 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,563 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Necesito Una Compañera](https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Necesito Una Compañera](https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1) | 3:33 |
 | 125 | [El Borracho \(En Vivo\)](https://open.spotify.com/track/1evaAZr2Y7AB8tMwVnPuVO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Su Majestad Mi Banda el Mexicano de Casimiro Zamudio](https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u) | [El Borracho \(En Vivo\)](https://open.spotify.com/album/1aBYwSTMQCW5LXLbFHF0m9) | 3:52 |
 
-Snapshot ID: `MCw2M2UwNThmNDkzY2U4NjU1YzhkNWQyZjc4MGRmZDY0NmM4YmUyNmYz`
+Snapshot ID: `MCw3Yjc3ODQ2YThiYWNlZmI0NDE5ZGZiYzFjODYzNjk5ZWE4YTVmYWVh`

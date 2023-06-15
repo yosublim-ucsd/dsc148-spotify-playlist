@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2O0o2ujw8dn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2O0o2ujw8dn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2O0o2ujw8dn)
 
-### [청담국제고등학교 \(B\_\_ch x Rich\)](https://open.spotify.com/playlist/37i9dQZF1DX2O0o2ujw8dn)
+### [청담국제고등학교 \(BXXCH x RICH\)](https://open.spotify.com/playlist/37i9dQZF1DX2O0o2ujw8dn)
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-25 songs - 1 hr 14 min
+26 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2023-06-07 |  |
 | [BUFFALO \(Feat\. DAMI, Song Eun I, Yu Seung Woo, Yoon Ji Young, Jeong Se Woon, 15 Oxen\)](https://open.spotify.com/track/7w6PnTRHb7U6qF9mEBM3v5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Dami](https://open.spotify.com/artist/5oam7DRB4O6uWGcXSgA53F), [Song Eun I](https://open.spotify.com/artist/2I4kHQ0qQKXmgDzOG6UbSs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836), [15 Oxen](https://open.spotify.com/artist/7a2foQUb1DQpF1Zs4SvhJu) | [BUFFALO \(Feat\. DAMI, Song Eun I, Yu Seung Woo, Yoon Ji Young, Jeong Se Woon, 15 Oxen\)](https://open.spotify.com/album/4oqGODmjLNwV2QauigiFLP) | 3:00 | 2023-06-07 |  |
 | [Can't Lie](https://open.spotify.com/track/3qWZuhWi4lsHa7jUwhqfMr) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Lie](https://open.spotify.com/album/5ZKqZ7cUWUx17GsOBVN0BZ) | 3:15 | 2023-06-07 |  |
+| [CRYSTAL](https://open.spotify.com/track/6VXPpUHYoUB0AKqaCfGDab) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4LpNKe2zsutC6fGGEMf6fj) | 3:52 | 2023-06-14 |  |
 | [Curated by Kim Ye\-rim](https://open.spotify.com/track/5qwjdJopyK2pbEBMy6ySau) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:40 | 2023-06-07 |  |
 | [Curated by Lee Eun\-saem](https://open.spotify.com/track/52WonQ7eSPuQaLLxUDUqq4) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:42 | 2023-06-07 |  |
 | [Curated by Lee Jong\-hyuk](https://open.spotify.com/track/7g4gqpPKrTkvpQtfWz3SV5) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:28 | 2023-06-07 |  |

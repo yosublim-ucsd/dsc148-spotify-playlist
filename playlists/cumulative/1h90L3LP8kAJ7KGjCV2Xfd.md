@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1h90L3LP8kAJ7KGjCV2Xfd.md) - cumulative - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
-### [Happy Songs](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
+### [HAPPY SONGS 🤩 FEEL GOOD VIBES](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 

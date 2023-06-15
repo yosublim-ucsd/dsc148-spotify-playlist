@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,777 songs - 4 day 0 hr 19 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,778 songs - 4 day 0 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1785,5 +1785,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1775 | [Until It Doesn’t Hurt](https://open.spotify.com/track/7grksluOJE8yFzxmrh7u2U) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:55 |
 | 1776 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
 | 1777 | [The Razor's Apple](https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:11 |
+| 1778 | [Woohoo](https://open.spotify.com/track/10nd0tq8g3fFpCM4hkgHFR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:44 |
 
-Snapshot ID: `NjE1LGJiYWNiYTBiNTdkOTgyY2E5NjM1YmExNTAyZDQwN2ZiMTNiYTNhMGY=`
+Snapshot ID: `NjE2LDVkNTZhZmY1MjZiZmNmZmU4ZTFiNTJjMzU3NGE1YTcxZTkxYzAwN2E=`

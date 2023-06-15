@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,326 likes - 150 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,355 likes - 150 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [2223](https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT) | [Andreas Toftemark](https://open.spotify.com/artist/1zGWQ3MEHXStCIbMsuSELF), [Felix Moseholm](https://open.spotify.com/artist/21v1ySgDH8XgKk1CekQHtv), [Calle Brickman](https://open.spotify.com/artist/4VoIE7LsD8ktzFFD5UED8m), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [2223](https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE) | 7:14 |
 | 150 | [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 |
 
-Snapshot ID: `MCwxZTI0MDJiYmRmOTk2ZWJiNmE2Y2MzMWY1OGE2N2NmNGMxYjExZWQ5`
+Snapshot ID: `MCw1Zjc0OTE1YzJlNmQ0MmI0OGQ3YjdjZWEyZTRmYzFmZTZiNThkYzk5`

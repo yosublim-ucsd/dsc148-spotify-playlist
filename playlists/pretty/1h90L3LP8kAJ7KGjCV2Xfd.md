@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
-### [Happy Songs](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
+### [HAPPY SONGS 🤩 FEEL GOOD VIBES](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 307,751 likes - 174 songs - 9 hr 54 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 307,735 likes - 174 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 173 | [COLLEGE](https://open.spotify.com/track/6hsI1ar1EIyXU28ZHWlNW6) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [COLLEGE](https://open.spotify.com/album/2iKyerlQ2TbGMUhMUuaH2D) | 2:36 |
 | 174 | [Paycheck](https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Paycheck](https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0) | 2:28 |
 
-Snapshot ID: `MzQ5Miw3NzUzNjhjNTlkZDFmMTcwOWFjMTRkMDRjNDNmZjc1ODk3MThhMTQz`
+Snapshot ID: `MzQ5NCwzYzk0ODZkODUyN2ViOTFjOGYyN2UyNjE4ZjYyODRlZTdlYWM5M2Qz`

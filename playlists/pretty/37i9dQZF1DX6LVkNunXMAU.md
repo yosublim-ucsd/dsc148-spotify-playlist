@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Elsa y Elmar & Conociendo Rusia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,299 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,312 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 |
 | 100 | [Atajo](https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc) | [Pupa](https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Atajo](https://open.spotify.com/album/114IoHxDs2zmo1imnM3MHA) | 3:36 |
 
-Snapshot ID: `MCwyNjRmYmIyYTRhNDBjYzg0NDNhZWQ5NDM1NjM0Y2QxMWQ3MTk5ZWFm`
+Snapshot ID: `MCwyNWUzMmJhNWNlZmE2ZjVkNTgzOGU3NDE3NmZkNjU4ZjAxZTQ5Y2Q2`

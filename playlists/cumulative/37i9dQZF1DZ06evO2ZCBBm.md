@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 35 min
+85 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,14 @@
 | [Cut up Angels](https://open.spotify.com/track/7akKg3nBKORcCNCd7Hwzek) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:47 | 2022-02-23 | 2022-10-11 |
 | [Dancing With A Brick Wall](https://open.spotify.com/track/40ZattjYiApbUORccYQ9XP) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:39 | 2023-05-20 | 2023-06-12 |
 | [Devil Beside You](https://open.spotify.com/track/3lv9uDBvn4H2hePDrtgG0K) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:45 | 2022-03-02 | 2022-06-15 |
-| [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 | 2023-05-20 |  |
+| [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 | 2023-05-20 | 2023-06-15 |
 | [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 | 2022-01-17 |  |
 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 | 2022-01-17 |  |
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-10-22 |  |
 | [Generation Throwaway](https://open.spotify.com/track/3h7413CpAUx1ZhrI1zQizA) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:05 | 2022-03-01 | 2022-10-07 |
 | [Give Me Love](https://open.spotify.com/track/6taJ6bkT6aiy0cEO3bSfSd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:18 | 2022-01-17 | 2023-05-21 |
-| [Giving Up](https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Giving Up](https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr) | 3:10 | 2023-05-18 |  |
+| [Giving Up](https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Giving Up](https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr) | 3:10 | 2023-05-18 | 2023-06-15 |
+| [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-06-14 |  |
 | [Gravity's Rainbow](https://open.spotify.com/track/7Cva9HwdG6d7zEnqrCHfSJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 4:14 | 2022-01-17 | 2023-05-21 |
 | [Hands and Faces](https://open.spotify.com/track/08ekG1d4iNye5Zpwb6s9fV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:25 | 2022-01-17 | 2022-10-23 |
 | [Headspace](https://open.spotify.com/track/0YZ2K1bacl9wXyoCMSJH35) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:35 | 2023-05-20 |  |

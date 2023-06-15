@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Tanner Adell
 
-1,391 songs - 3 day 2 hr 33 min
+1,392 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,7 +1382,8 @@
 | [You Being You](https://open.spotify.com/track/0kqhph13kXuT8sY0g7cC4q) | [Steve Moakler](https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd) | [You Being You](https://open.spotify.com/album/25U5I9iFVue5WtnVgojdTu) | 2:57 | 2022-08-05 | 2022-08-27 |
 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 | 2022-06-10 | 2022-09-03 |
 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 | 2022-07-22 | 2022-11-05 |
-| [You Don't Think About That](https://open.spotify.com/track/2gAoR2HsZ2nV0YWcR38gHa) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out...Again \- EP](https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz) | 3:23 | 2023-06-09 |  |
+| [You Don't Think About That](https://open.spotify.com/track/0C3gJc8asV8o0sgZtmXLCA) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [You Don't Think About That](https://open.spotify.com/album/2PVvvh1EzO5n100VaLssxV) | 3:23 | 2023-06-09 |  |
+| [You Don't Think About That](https://open.spotify.com/track/2gAoR2HsZ2nV0YWcR38gHa) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out...Again \- EP](https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz) | 3:23 | 2023-06-09 | 2023-06-15 |
 | [You Don't Think About That](https://open.spotify.com/track/3PJHe7Hm5iZmqFDGIEboOS) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [You Don't Think About That](https://open.spotify.com/album/27wl7YGYb6edFSESxbdk3L) | 3:23 | 2023-05-26 | 2023-06-14 |
 | [You Don't Want to Go There](https://open.spotify.com/track/5qn76nHtyrYg0LCrVEmO8K) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You Don't Want to Go There](https://open.spotify.com/album/1aY7DBkOCG06uXw8BXA9RL) | 3:24 | 2021-12-31 | 2022-02-12 |
 | [You Got It](https://open.spotify.com/track/7jydBWPQZZEioR4dSbntvP) | [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu) | [You Got It](https://open.spotify.com/album/233d1wJqpwcKTOY3ZqO5fo) | 3:02 | 2021-12-31 | 2022-04-29 |

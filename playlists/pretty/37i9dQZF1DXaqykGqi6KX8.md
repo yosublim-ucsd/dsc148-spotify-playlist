@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,369 likes - 30 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,432 likes - 30 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 4 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
 | 5 | [Adnan W Lena](https://open.spotify.com/track/0hXlkVEHz1bUyr6atAjRnB) | [Tanjaret Daghet](https://open.spotify.com/artist/1I8UKAHejNxA0icktSmnTT) | [Adnan W Lena](https://open.spotify.com/album/2ZjrqIQrdGa5caXqBnH87z) | 4:56 |
 | 6 | [Ladders To Sumeria](https://open.spotify.com/track/0MHj9bCzoNtKVIuEGnUeH6) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Emissaries](https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu) | 4:01 |
-| 7 | [Sidi Arbi](https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 3:35 |
-| 8 | [Atba'a Al\-Namrood](https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh) | [Al\-Namrood](https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E) | [Jaish Al\-Namrood](https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6) | 5:07 |
+| 7 | [Atba'a Al\-Namrood](https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh) | [Al\-Namrood](https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E) | [Jaish Al\-Namrood](https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6) | 5:07 |
+| 8 | [Sidi Arbi](https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 3:35 |
 | 9 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
 | 10 | [Jasmin](https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH) | 1:48 |
 | 11 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |

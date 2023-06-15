@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ci pensiamo domani",
+        "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180184,
+      "name": "Ci pensiamo domani",
+      "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
+    },
+    {
+      "album": {
         "name": "Con(torta)",
         "url": "https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd"
       },
@@ -631,6 +649,24 @@
     },
     {
       "album": {
+        "name": "SBAGLIATA ASCENDENTE LEONE (OFFICIAL SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206020,
+      "name": "Sbagliata Ascendente Leone - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB"
+    },
+    {
+      "album": {
         "name": "CADERE VOLARE",
         "url": "https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT"
       },
@@ -664,6 +700,24 @@
       "duration_ms": 204233,
       "name": "Stupidi lovers",
       "url": "https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8"
+    },
+    {
+      "album": {
+        "name": "Tasche",
+        "url": "https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "Tasche",
+      "url": "https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc"
     },
     {
       "album": {

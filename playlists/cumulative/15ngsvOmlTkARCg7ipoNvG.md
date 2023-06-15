@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-988 songs - 22 hr 18 min
+989 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Countdown](https://open.spotify.com/track/30jh7BcA4IUEwdsuuzEpdL) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Countdown](https://open.spotify.com/album/4HnRPWI62z2HvXOysbUWmb) | 2:04 | 2022-01-12 | 2022-10-20 |
 | [Courageous](https://open.spotify.com/track/2cbxThYXxh9FRdS67TSWay) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:42 | 2022-01-20 |  |
 | [Creation](https://open.spotify.com/track/0tWfXnWhRUwh8bPd8ZuM8o) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:15 | 2022-01-12 |  |
+| [Daffodil](https://open.spotify.com/track/0GgfLU0g6DJZ2tI91xmJ5y) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-06-14 |  |
 | [Daisies In The Light Rain](https://open.spotify.com/track/5c6hRtjCMtdVHc792ok0kG) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [Daisies In The Rain](https://open.spotify.com/track/2YEyj2OqT973gLW3cJ1Xu5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:03 | 2022-01-12 |  |
 | [Daisies In The Rain \- Cello Version](https://open.spotify.com/track/5QjPDqexXBTaovIXliE0g1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:02 | 2022-02-24 |  |

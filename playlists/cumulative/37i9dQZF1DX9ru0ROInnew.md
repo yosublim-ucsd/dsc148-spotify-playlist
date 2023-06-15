@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Arcangel
 
-192 songs - 13 hr 6 min
+193 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Enemigos Ocultos](https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Enemigos Ocultos](https://open.spotify.com/album/3iH46vXV6xBilANZ2NBsFC) | 7:25 | 2022-05-03 |  |
 | [Es Mejor](https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Flakk Daniel's Lp](https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX) | 2:59 | 2021-12-09 | 2022-05-04 |
 | [Esclava](https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y) | [Esclava](https://open.spotify.com/album/5fm0bhtqgb3rxstGsSc62a) | 4:41 | 2023-01-09 | 2023-05-24 |
-| [Esclava \(Remix\) \[feat\. Bryant Myers, Anonimus & Almighty\]](https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Real Hasta La Muerte Mixtape](https://open.spotify.com/album/4B45YXF6QPhVVln3nKPsOA) | 4:41 | 2022-05-03 |  |
+| [Esclava](https://open.spotify.com/track/13rfwqRZuzcIbej6KrJhbY) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/6B61A7qAAdNXtJ82Vl1t6x) | 4:41 | 2023-05-25 |  |
+| [Esclava \(Remix\) \[feat\. Bryant Myers, Anonimus & Almighty\]](https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Real Hasta La Muerte Mixtape](https://open.spotify.com/album/4B45YXF6QPhVVln3nKPsOA) | 4:41 | 2022-05-03 | 2023-06-15 |
 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 | 2022-05-03 |  |
 | [Estamos Bien](https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:28 | 2021-12-09 | 2022-05-02 |
 | [Estamos Bien](https://open.spotify.com/track/7glCSQqV5o6NU88Cn4zPZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Bien](https://open.spotify.com/album/4BTzqI5BYJZscSgm1TUncT) | 3:28 | 2021-12-09 | 2022-04-29 |

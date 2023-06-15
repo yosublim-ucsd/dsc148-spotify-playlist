@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "La Quarta",
+        "url": "https://open.spotify.com/album/5W1Cs3s2EGlxCzh1ndEJfX"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98625,
+      "name": "La Prima",
+      "url": "https://open.spotify.com/track/004dZYROPXhYMdBHqc12h3"
+    },
+    {
+      "album": {
         "name": "La Terza",
         "url": "https://open.spotify.com/album/11dkaUx47vfnGS2CvEHdlX"
       },
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 98625,
       "name": "La Prima",
       "url": "https://open.spotify.com/track/38QeLGAQSSPuoWsz9bbZUw"

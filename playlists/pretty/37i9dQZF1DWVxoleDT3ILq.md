@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Simón Campusano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,004 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,011 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
 | 100 | [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 |
 
-Snapshot ID: `MCxkYTEzYjg0ODRiMDJmMjMwNGEyZWM3Y2RkOGJlYTllMDgyZDNjMjJm`
+Snapshot ID: `MCwzYjMyZmQxMTY0NzBlNzVjMDZiYTFmMzIyZmEwZTczZjExMzliZWMy`

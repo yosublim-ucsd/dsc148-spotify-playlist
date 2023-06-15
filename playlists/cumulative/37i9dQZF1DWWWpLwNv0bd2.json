@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Rudhran",
+  "description": "Check out the Latest Romance Tracks.\nCover : Maaveeran",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 233383,
       "name": "Aagoozhilae",
       "url": "https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 201875,
       "name": "Kannaatti - From \"Nooru Kodi Vaanavil\"",
       "url": "https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd"
@@ -1677,6 +1677,32 @@
     },
     {
       "album": {
+        "name": "Bommai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karky",
+          "url": "https://open.spotify.com/artist/3npIkDUoOAACx2aSBDFnwT"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Mudhal Muththam",
+      "url": "https://open.spotify.com/track/55m1HjFrEWyHnEfc7XmL6I"
+    },
+    {
+      "album": {
         "name": "Mudhal Nee Mudivum Nee (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y"
       },
@@ -1845,6 +1871,32 @@
     },
     {
       "album": {
+        "name": "Maamannan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410115,
+      "name": "Nenjame Nenjame",
+      "url": "https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG"
+    },
+    {
+      "album": {
         "name": "Sinam",
         "url": "https://open.spotify.com/album/5sTpKsNdkLDYkrO6fUD5QA"
       },
@@ -1882,7 +1934,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 166942,
       "name": "Nenjil Oru Minnal",
       "url": "https://open.spotify.com/track/19NHHjnMN52OXPUMjo5XfB"
@@ -3144,6 +3196,32 @@
       "duration_ms": 224991,
       "name": "Vaadi Vaadi - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky"
+    },
+    {
+      "album": {
+        "name": "Vannarapettayila (From \"Maaveeran\")",
+        "url": "https://open.spotify.com/album/3mKCbP8HJl2cDGb1TcjvvI"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        },
+        {
+          "name": "Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+        },
+        {
+          "name": "Aditi Shankar",
+          "url": "https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208099,
+      "name": "Vannarapettayila (From \"Maaveeran\")",
+      "url": "https://open.spotify.com/track/7ALvmqFkZIZ5lChU2P22zu"
     },
     {
       "album": {

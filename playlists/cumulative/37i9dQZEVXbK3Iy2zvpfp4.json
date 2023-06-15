@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 145200,
       "name": "Cupid \u2013 Twin Ver. (FIFTY FIFTY) \u2013 Sped Up Version",
       "url": "https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps"
@@ -6490,6 +6490,24 @@
       "duration_ms": 194000,
       "name": "FREKVENCIA",
       "url": "https://open.spotify.com/track/0oaYDITh6PTG3xB68Fedfc"
+    },
+    {
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
     },
     {
       "album": {
@@ -16552,6 +16570,10 @@
         {
           "name": "TRASHXRL",
           "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
       "date_added": "2023-06-07",
@@ -18978,7 +19000,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 241111,
       "name": "The Lost Soul Down - Slowed & Reverb",
       "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
@@ -22012,7 +22034,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 159349,
       "name": "\u013dadov\u00e1",
       "url": "https://open.spotify.com/track/5OuGQrf4kd0EJILg4O4n4r"

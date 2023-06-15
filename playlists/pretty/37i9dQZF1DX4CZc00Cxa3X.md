@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,348 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,378 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 |
 | 100 | [Grassland](https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Neospecies](https://open.spotify.com/album/4fPYfMsPOTS4eXPXXY69t8) | 3:25 |
 
-Snapshot ID: `MCxiYWI0YmJmMTdiMzhiN2FlZDc5YTc0MDA4NTk0YmM3ZWE4YTZiY2Iw`
+Snapshot ID: `MCw0MTkwMmM1MWI3NWJjZDZhZDFlMzMxNTJkMzcxYjdiMzE5M2RjMjMz`

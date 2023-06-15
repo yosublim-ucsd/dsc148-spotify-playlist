@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,745 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,318 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 12 | [Do Baatein Ho Sakti Hai](https://open.spotify.com/track/16f5MWMvnkMK3fxTql2t1m) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Imtihan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uNaeleKgw6CBTU1m4zQgs) | 7:57 |
 | 13 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/2rEKnx0JgrhwiWanoYdw5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 6:59 |
 | 14 | [Dil Mera Churaya Kyun](https://open.spotify.com/track/4OvdhTOjq75CvPO6O7AWRw) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Akele Hum Akele Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F) | 4:42 |
-| 15 | [Tu Hi Re \- Bombay / Soundtrack Version](https://open.spotify.com/track/6nwRC0UkS1MdOOMjcJsrbX) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 7:15 |
+| 15 | [Tu Hi Re \- From "Bombay"](https://open.spotify.com/track/6nwRC0UkS1MdOOMjcJsrbX) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 7:15 |
 | 16 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 17 | [Nahin Saamne Tu](https://open.spotify.com/track/2VbJADm28rn89sdn2QwzuZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 6:03 |
 | 18 | [Hum Dil De Chuke Sanam](https://open.spotify.com/track/3oGL4HTmIpiD3J0f80Viqt) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Mohammad Salamat](https://open.spotify.com/artist/3mxHOkL6ulqrmBYXqSTGLw), [Dominique](https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u) | [Hum Dil De Chuke Sanam](https://open.spotify.com/album/1QUfdAyckA0M14z0kpOBts) | 6:46 |

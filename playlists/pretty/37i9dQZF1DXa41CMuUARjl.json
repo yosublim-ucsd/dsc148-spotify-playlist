@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Nia Archives.",
-  "num_followers": 439683,
+  "num_followers": 439896,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 148285,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
         "url": "https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 289171,
       "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
       "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 148285,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 269360,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -883,22 +883,6 @@
       "duration_ms": 172904,
       "name": "Better (feat. Jena)",
       "url": "https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Jig Saw",
-        "url": "https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4"
-      },
-      "artists": [
-        {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
-        }
-      ],
-      "duration_ms": 397223,
-      "name": "Jig Saw",
-      "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -927,6 +911,22 @@
       "duration_ms": 290248,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Jig Saw",
+        "url": "https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4"
+      },
+      "artists": [
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "duration_ms": 397223,
+      "name": "Jig Saw",
+      "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "6am (Remixes)",
-        "url": "https://open.spotify.com/album/6BC8XFfI3Kmm5mCiFvX1zR"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "6am - DJ_Dave Edit",
-      "url": "https://open.spotify.com/track/1MeYPXGfxZLjX2ZApzaJMn"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Sentir Saudade (feat. Bia Caboz)",
         "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "6am (Remixes)",
+        "url": "https://open.spotify.com/album/6BC8XFfI3Kmm5mCiFvX1zR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "6am - DJ_Dave Edit",
+      "url": "https://open.spotify.com/track/1MeYPXGfxZLjX2ZApzaJMn"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/0W6w0Jn1usEd9lmrZF7EXm"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 151976,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/7sB2EPGwyIzQjoXthl01hT"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
-      },
-      "artists": [
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1127,6 +1111,38 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "We Run The Area",
         "url": "https://open.spotify.com/album/4LVqTm9o7Yj6JV2cItgb9W"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc"
+        "name": "Infinita",
+        "url": "https://open.spotify.com/album/45k4FEw7KqxxLbdfZjwavv"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
         }
       ],
-      "duration_ms": 190874,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP"
+      "duration_ms": 257424,
+      "name": "Seven Six Four",
+      "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 380689,
       "name": "The Landing",
       "url": "https://open.spotify.com/track/36W1soqGRXbQrpUtLSSc9u"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Infinita",
-        "url": "https://open.spotify.com/album/45k4FEw7KqxxLbdfZjwavv"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 257424,
-      "name": "Seven Six Four",
-      "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Blooming",
+        "url": "https://open.spotify.com/album/0B8uraCrsNiMvlbFCtZCvK"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        },
+        {
+          "name": "Martron",
+          "url": "https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx"
+        }
+      ],
+      "duration_ms": 234720,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/1elYcP79l3nmmajOjwztZ3"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "In2u",
         "url": "https://open.spotify.com/album/2HchqvKKMQXQP2O54SIy92"
       },
@@ -1323,6 +1343,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Y_U",
+        "url": "https://open.spotify.com/album/33JTJWAJwJQwMi5z4q3Lic"
+      },
+      "artists": [
+        {
+          "name": "Village",
+          "url": "https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Y_U",
+      "url": "https://open.spotify.com/track/0qng2IwS743cHZTHeRx035"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Heart's Still Beating",
         "url": "https://open.spotify.com/album/6OmBfAKsFhSIgtUaWiAIk9"
       },
@@ -1343,38 +1379,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Blooming",
-        "url": "https://open.spotify.com/album/0B8uraCrsNiMvlbFCtZCvK"
+        "name": "Not As I",
+        "url": "https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr"
       },
       "artists": [
         {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        },
-        {
-          "name": "Martron",
-          "url": "https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 234720,
-      "name": "Blooming",
-      "url": "https://open.spotify.com/track/1elYcP79l3nmmajOjwztZ3"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Y_U",
-        "url": "https://open.spotify.com/album/33JTJWAJwJQwMi5z4q3Lic"
-      },
-      "artists": [
-        {
-          "name": "Village",
-          "url": "https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Y_U",
-      "url": "https://open.spotify.com/track/0qng2IwS743cHZTHeRx035"
+      "duration_ms": 218213,
+      "name": "Not As I",
+      "url": "https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Not As I",
-        "url": "https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Not As I",
-      "url": "https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2zSOS3aYUI3nmmSuZdXGV9"
       },
@@ -1431,26 +1431,6 @@
       "duration_ms": 202204,
       "name": "Free",
       "url": "https://open.spotify.com/track/6vpwCDfTjqbhg11YrDG7w3"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "No Fate (Adam Beyer Remix)",
-        "url": "https://open.spotify.com/album/1lKPyys6QL2UZPifssfkms"
-      },
-      "artists": [
-        {
-          "name": "Zyon",
-          "url": "https://open.spotify.com/artist/6lkRnXKjPXeRQjYr8WJaSj"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 235615,
-      "name": "No Fate - Adam Beyer Remix",
-      "url": "https://open.spotify.com/track/4JDTPXcQphHjel3b9ggDrH"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "R\u00caVES (Remixes)",
-        "url": "https://open.spotify.com/album/0dmFeQdpP0f983tmXLOWvK"
+        "name": "No Fate (Adam Beyer Remix)",
+        "url": "https://open.spotify.com/album/1lKPyys6QL2UZPifssfkms"
       },
       "artists": [
         {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+          "name": "Zyon",
+          "url": "https://open.spotify.com/artist/6lkRnXKjPXeRQjYr8WJaSj"
         },
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 206616,
-      "name": "R\u00caVES - Laxcity Remix",
-      "url": "https://open.spotify.com/track/0CQPbDTmnGnbiKklshNxYm"
+      "duration_ms": 235615,
+      "name": "No Fate - Adam Beyer Remix",
+      "url": "https://open.spotify.com/track/4JDTPXcQphHjel3b9ggDrH"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "dr34m3r",
-        "url": "https://open.spotify.com/album/4HhUofefLyV0WO4Aa9gh9Y"
+        "name": "R\u00caVES (Remixes)",
+        "url": "https://open.spotify.com/album/0dmFeQdpP0f983tmXLOWvK"
       },
       "artists": [
         {
-          "name": "In Explosions",
-          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 158117,
-      "name": "dr34m3r",
-      "url": "https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL"
+      "duration_ms": 206616,
+      "name": "R\u00caVES - Laxcity Remix",
+      "url": "https://open.spotify.com/track/0CQPbDTmnGnbiKklshNxYm"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "dr34m3r",
+        "url": "https://open.spotify.com/album/4HhUofefLyV0WO4Aa9gh9Y"
+      },
+      "artists": [
+        {
+          "name": "In Explosions",
+          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "dr34m3r",
+      "url": "https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "be so sad",
         "url": "https://open.spotify.com/album/4XLNctgpkOvaozm4OqtaA8"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 219375,
       "name": "be so sad",
       "url": "https://open.spotify.com/track/3jLOWcSNJEztTMIRQQZoPg"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Walk In (Club Mix)",
-        "url": "https://open.spotify.com/album/02XABikToFv6kKtJbAR3YS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Lee",
-          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 163143,
-      "name": "Walk In - Club Mix",
-      "url": "https://open.spotify.com/track/5KpySAdVFkuyQQzd4Oqz5t"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1659,6 +1639,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Walk In (Club Mix)",
+        "url": "https://open.spotify.com/album/02XABikToFv6kKtJbAR3YS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Lee",
+          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 163143,
+      "name": "Walk In - Club Mix",
+      "url": "https://open.spotify.com/track/5KpySAdVFkuyQQzd4Oqz5t"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/28YDQOSz4NJsukYQVPTas0"
       },
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/20NtnSIuyGh9W3ywaAWuyy"
-      },
-      "artists": [
-        {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        }
-      ],
-      "duration_ms": 382776,
-      "name": "Moja",
-      "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Rave To The Grave",
         "url": "https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 170103,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/20NtnSIuyGh9W3ywaAWuyy"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "duration_ms": 382776,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "PROMISE YOU'LL WAIT",
-        "url": "https://open.spotify.com/album/68RIKiUQNjN68uHJd613ve"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Krash",
-          "url": "https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "PROMISE YOU'LL WAIT",
-      "url": "https://open.spotify.com/track/0t1xpsymnktKXSVV3ebA4i"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/5p5rAlNhTBqlzFlEXpZhMT"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 209600,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/0c1QPcTjrMdNwRZb62wyY5"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "PROMISE YOU'LL WAIT",
+        "url": "https://open.spotify.com/album/68RIKiUQNjN68uHJd613ve"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Krash",
+          "url": "https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "PROMISE YOU'LL WAIT",
+      "url": "https://open.spotify.com/track/0t1xpsymnktKXSVV3ebA4i"
     },
     {
       "added_at": "2023-06-09 14:34:55",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "DNB DRIPP",
+        "url": "https://open.spotify.com/album/5YIb5XHQBqOsWwED8Eo4G3"
+      },
+      "artists": [
+        {
+          "name": "UFO!",
+          "url": "https://open.spotify.com/artist/3LO5lYlkKhoCMaW1vJFbbq"
+        }
+      ],
+      "duration_ms": 110345,
+      "name": "DISS GENERATION",
+      "url": "https://open.spotify.com/track/46DyLk4YAz23f2fhTM43hX"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Help Me!",
         "url": "https://open.spotify.com/album/2XEkRJKrXBE6MqOv6U43di"
       },
@@ -1899,18 +1915,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "DNB DRIPP",
-        "url": "https://open.spotify.com/album/5YIb5XHQBqOsWwED8Eo4G3"
+        "name": "Lichtamendedestunnels",
+        "url": "https://open.spotify.com/album/6fW6YSLpDn0rJmCaFJc3hG"
       },
       "artists": [
         {
-          "name": "UFO!",
-          "url": "https://open.spotify.com/artist/3LO5lYlkKhoCMaW1vJFbbq"
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
         }
       ],
-      "duration_ms": 110345,
-      "name": "DISS GENERATION",
-      "url": "https://open.spotify.com/track/46DyLk4YAz23f2fhTM43hX"
+      "duration_ms": 457226,
+      "name": "Lichtamendedestunnels",
+      "url": "https://open.spotify.com/track/0514cQMS1kXzKXeBPVnEvp"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1943,22 +1959,6 @@
       "duration_ms": 219428,
       "name": "E",
       "url": "https://open.spotify.com/track/25xcQ4dBjcgUObLesbER3R"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Lichtamendedestunnels",
-        "url": "https://open.spotify.com/album/6fW6YSLpDn0rJmCaFJc3hG"
-      },
-      "artists": [
-        {
-          "name": "Jonas Schilling",
-          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
-        }
-      ],
-      "duration_ms": 457226,
-      "name": "Lichtamendedestunnels",
-      "url": "https://open.spotify.com/track/0514cQMS1kXzKXeBPVnEvp"
     },
     {
       "added_at": "2023-06-09 04:01:00",

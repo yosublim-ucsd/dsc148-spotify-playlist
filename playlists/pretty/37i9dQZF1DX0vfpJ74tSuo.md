@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,002 likes - 120 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,033 likes - 120 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 |
 | 120 | [Shake It Up \- Acoustic](https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Shake It Up](https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox) | 4:01 |
 
-Snapshot ID: `MCw1MDI0ZjkzNTVkNTJhNTkyOTUzNzc0Yzc1Yzg3ZWM0YWZkOWFlMGI3`
+Snapshot ID: `MCxhZWUzZDMyZTc2MWFkZTE4YjUyZTZiNWFhNzc1ODk0ZDZlZmNjNzdj`

@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Josef, Evra, Kaput, MyDrama, BluePhelix
+> Il meglio dell'R&B italiano\. Cover: NARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,801 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
-| 2 | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/track/4ZavEIlFvl74MIBuepDXja) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/album/1J07jhxsPvd1z1kCAWYIGL) | 3:16 |
-| 3 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 |
-| 4 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 |
-| 5 | [PUGNI](https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [GIOVANE CUORE](https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ) | 2:37 |
-| 6 | [Tracce amare](https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II\)](https://open.spotify.com/album/1sKRYlgEJNyLWHp2mcZwlL) | 5:27 |
-| 7 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 |
-| 8 | [Tutto Ok](https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Tutto Ok](https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB) | 2:40 |
+| 1 | [Tutto Ok](https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Tutto Ok](https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB) | 2:40 |
+| 2 | [PUGNI](https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [GIOVANE CUORE](https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ) | 2:37 |
+| 3 | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/track/4ZavEIlFvl74MIBuepDXja) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/album/1J07jhxsPvd1z1kCAWYIGL) | 3:16 |
+| 4 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 |
+| 5 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
+| 6 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 |
+| 7 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 |
+| 8 | [Fiori Stanchi](https://open.spotify.com/track/3aVujWlpVrqvuMZvfUpRQu) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Fiori Stanchi](https://open.spotify.com/album/19GhCKWuXND7hHB2Jdgecq) | 2:30 |
 | 9 | [Cambio di scena](https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cambio di scena](https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj) | 2:49 |
 | 10 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 |
 | 11 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 |
 | 12 | [Paura](https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Raffaele Sperati](https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW) | [Paura](https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp) | 3:14 |
-| 13 | [Fiori Stanchi](https://open.spotify.com/track/3aVujWlpVrqvuMZvfUpRQu) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Fiori Stanchi](https://open.spotify.com/album/19GhCKWuXND7hHB2Jdgecq) | 2:30 |
+| 13 | [Tracce amare](https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II\)](https://open.spotify.com/album/1sKRYlgEJNyLWHp2mcZwlL) | 5:27 |
 | 14 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 15 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 |
 | 16 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Da lei](https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7) | [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [Da Lei](https://open.spotify.com/album/5Bvf20lnuAlnynMnQibDaT) | 2:40 |
 | 70 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |
 
-Snapshot ID: `MCxiNzJmMDA5MjM1YzlhMGJmN2VjMmVjODQyOGQ0ODk1MTJiZmFlM2Q5`
+Snapshot ID: `MCxiNDNmNmY5Njk2Y2RjYzQzMjk0NzM4MTRmMjA4MzlmNmM4NTdkOWEy`

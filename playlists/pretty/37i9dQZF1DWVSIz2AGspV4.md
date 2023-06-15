@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف : ستار سعد
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,254 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,297 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Baatrk Atnfas](https://open.spotify.com/track/2vKRNP5PHsHTa8deqEVLTe) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Baatrk Atnfas](https://open.spotify.com/album/0q5kruQKz4fQDyXp1rqyHm) | 3:12 |
 | 50 | [Enta Tfooz](https://open.spotify.com/track/1C25BZZEYagX26ImIPWnGV) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q), [DJ Dvlz](https://open.spotify.com/artist/5J0Es2qO9wTUsTmgLeeQZg) | [Enta Tfooz](https://open.spotify.com/album/7uW1QLJXNbraTZc8cz22XY) | 3:31 |
 
-Snapshot ID: `MCw4ZDU3MGE2ZDU2NmJkYzU1NzIyMmU0YTI1NzJmODU4ODQ2NzhlYTZm`
+Snapshot ID: `MCw5NzczNmJjNTc5ZmJhMDliMjI5MmFmYTkwNjZhM2U1ODExYWFkZTA3`

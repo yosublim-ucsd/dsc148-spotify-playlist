@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,299 songs - 5 day 11 hr 50 min
+2,300 songs - 5 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1120,6 +1120,7 @@
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-26 |  |
+| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-06-14 |  |
 | [Last Request \- Acoustic](https://open.spotify.com/track/7MziBtXRy18Gd60mMUzABw) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Last Request \(Acoustic\)](https://open.spotify.com/album/1tHLCygd0QCUflohX2bsGE) | 3:10 | 2021-06-11 | 2021-06-27 |
 | [Last Time](https://open.spotify.com/track/1CdLBMtqP3zlGkDu7hmVKs) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q), [Emersxn](https://open.spotify.com/artist/7ltyovKOFS2tIunfnJCNr9), [Kiture](https://open.spotify.com/artist/3BOIvtsfXWcmOATwIO3OIS) | [Last Time](https://open.spotify.com/album/58vygHnpC3jBxuLHRX3phx) | 3:16 | 2021-01-29 | 2021-02-13 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-09 | 2022-08-11 |
@@ -1355,7 +1356,7 @@
 | [Ms Blue](https://open.spotify.com/track/4KpHPvvItXgb34KnBO4z27) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Ms Blue](https://open.spotify.com/album/5f2JMc95WTQqwViFu2bAle) | 3:12 | 2023-06-09 |  |
 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 | 2022-10-28 | 2022-11-19 |
 | [Mundieo](https://open.spotify.com/track/77rlDhZm5eRYMLIXSfySlR) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Mundieo](https://open.spotify.com/album/7Jnebi6eFAJSZFOnWAT49n) | 3:33 | 2023-01-21 | 2023-02-24 |
-| [Murdered By Words](https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu) | [Jack Knox](https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3) | [Murdered By Words](https://open.spotify.com/album/3CKdKkCtaltyEQBqeQ5lTx) | 3:07 | 2023-05-24 |  |
+| [Murdered By Words](https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu) | [Jack Knox](https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3) | [Murdered By Words](https://open.spotify.com/album/3CKdKkCtaltyEQBqeQ5lTx) | 3:07 | 2023-05-24 | 2023-06-15 |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2020-08-10 | 2020-08-24 |
 | [Mushrooms](https://open.spotify.com/track/1j8KRfQKhY7OukytcAipiC) | [Ruth and Emilia](https://open.spotify.com/artist/6YdZN8VEkerAGuOtQkuFGR) | [I Had a Dream: Songs of an Immigrant](https://open.spotify.com/album/6dKgsRZcpQ6rAbSEH7QoBr) | 3:09 | 2022-06-10 | 2022-06-26 |
 | [Music \(feat\. Marvin Gaye\)](https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Music](https://open.spotify.com/album/7mUzxkBleB7QiVUw6wJsXU) | 3:43 | 2019-09-29\* | 2021-11-19 |

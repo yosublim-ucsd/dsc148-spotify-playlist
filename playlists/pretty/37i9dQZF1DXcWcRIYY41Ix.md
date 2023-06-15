@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,228 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,291 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Ahora](https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Emilia Siede](https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 3:56 |
 | 100 | [Visiones Doradas](https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS) | 2:46 |
 
-Snapshot ID: `MCwwYWFiYjQzNjFhNjBmNzg5OTU2OGRmMDYwZmFmMjdkYTNjYjY4ZTUy`
+Snapshot ID: `MCw0YWIxZmM5YmFjN2RlZDU0MzAyNDA1MjAxODAwOWJlOTNkOGYzMmQ3`

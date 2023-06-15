@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,060,178 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060,329 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 |
 | 300 | [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/6mz7nudr70riksmajdpGMS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Covers](https://open.spotify.com/album/5clX8eIQwBUCIuueIUU5XP) | 4:07 |
 
-Snapshot ID: `MCw4Y2UyYzUxNTE3Y2QwNTk4ODNmNzUxYTU2MDdlMzA3MzNlODE0YjQy`
+Snapshot ID: `MCw2OTVjZjg0ZjU4ZmM1ZTQwMzhlOTcxNWMxZGE5MzVmYTBiNTliYzgy`

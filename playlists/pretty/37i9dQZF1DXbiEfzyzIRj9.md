@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,625 likes - 120 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,648 likes - 120 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 65 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 |
 | 66 | [Merchants \- Sofia Kourtesis Remix](https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Merchants \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj) | 4:40 |
 | 67 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
-| 68 | [Step By Step \- Amtrac Remix](https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Step By Step Remixes](https://open.spotify.com/album/5H8qhibkvbDxg9YzM4SjFS) | 5:21 |
+| 68 | [Step By Step \- Amtrac Remix](https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Step By Step Remixes](https://open.spotify.com/album/5H8qhibkvbDxg9YzM4SjFS) | 5:21 |
 | 69 | [Dark Energy](https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO) | [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [Dark Energy](https://open.spotify.com/album/4OmjTbUvRXLA5KJmklQhdb) | 6:14 |
 | 70 | [Dance'O'Drome](https://open.spotify.com/track/4TPokp2tvny5wp2oWik0Uc) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Dance'O'Drome](https://open.spotify.com/album/0M1QfyYRE8TapbMATV7nEA) | 3:42 |
 | 71 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-125 songs - 12 hr 18 min
+126 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Don't Stop](https://open.spotify.com/track/0PoHUQuChlCLQI8epiHdlF) | [Analect](https://open.spotify.com/artist/5oMo0oEwNSokwvVOrX2FTk) | [Don't Stop](https://open.spotify.com/album/4tXN0g862ozdO3GMnIF9vz) | 5:26 | 2023-01-27 |  |
 | [Doom Tune](https://open.spotify.com/track/1P9EG3vg1s8bw6glgCIyTz) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Hard to the Power of Core](https://open.spotify.com/album/4szZbYdqgqkfQWjb6GKmRA) | 6:14 | 2023-01-27 |  |
 | [Drifty Squad \- Original Mix](https://open.spotify.com/track/3YeHUZbTA7NjweFjasrYgG) | [Koszmar](https://open.spotify.com/artist/25DQ0fSSLPdF5sVsyVvyxN) | [Drifty Squad](https://open.spotify.com/album/3CQgL6IRzz11jsTDlRLAJ8) | 6:09 | 2022-12-02 | 2023-01-28 |
-| [Drumshock](https://open.spotify.com/track/79Re0uC1ZSCLlDCOCGOaSh) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Tribal Science](https://open.spotify.com/album/7CJ0gTC8VQPWtaTbzB9kUI) | 4:29 | 2022-12-02 |  |
+| [Drumshock](https://open.spotify.com/track/3ePv9S76ZE95Eb73oRlOzb) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Tribal Science](https://open.spotify.com/album/4oSjLY1czZGNkz2RCSxccE) | 4:29 | 2023-06-02 |  |
+| [Drumshock](https://open.spotify.com/track/79Re0uC1ZSCLlDCOCGOaSh) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Tribal Science](https://open.spotify.com/album/7CJ0gTC8VQPWtaTbzB9kUI) | 4:29 | 2022-12-02 | 2023-06-15 |
 | [Eat Sleep Rave Repeat](https://open.spotify.com/track/38BqBwAMyFZjrBpvPHfaex) | [ACOR](https://open.spotify.com/artist/41OompGt7NZ866pUv4E8BK) | [Exhale VA004](https://open.spotify.com/album/4b7AGHZR78yuwwmaYGFjs8) | 5:55 | 2023-06-02 |  |
 | [Emersion](https://open.spotify.com/track/4GidJXQIXfTkghQ1H9ge5b) | [WAST](https://open.spotify.com/artist/5mOP8q01PNGLhkkwHmxae7) | [Emersion](https://open.spotify.com/album/7hN1hSXc8TboEFVq1q2Lac) | 5:44 | 2022-12-02 | 2023-01-28 |
 | [Every Night](https://open.spotify.com/track/6aSdY2mKtkquVwPbotUnky) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Intimacy](https://open.spotify.com/album/0mt67Q3HEy0q0mI4j7GmRr) | 5:34 | 2023-01-27 |  |

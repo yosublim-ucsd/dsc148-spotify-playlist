@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,723 likes - 58 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,734 likes - 58 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [Sinfonia Domestica, Op\. 53, TrV 209: Bewegt \- Sehr lebhaft \- Ruhig \- Live](https://open.spotify.com/track/5tZsipNneBbz32UhPdastj) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Lorin Maazel](https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve) | [Strauss, R.: Sinfonia Domestica; Macbeth \(The Originals / Live\)](https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo) | 5:14 |
 | 58 | [Strauss, R: An Alpine Symphony, Op\. 64: XV\. Mists Rise Up](https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Rudolf Kempe](https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg), [Staatskapelle Dresden](https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7) | [Strauss: Metamorphosis & An Alpine Symphony, Op\. 64](https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN) | 0:17 |
 
-Snapshot ID: `MCw3ZTE0OThmMjZjNzNlYzNmNWUzM2YyMjA5OWY5NzYxZTVjMmNiNmVi`
+Snapshot ID: `MCwwYThlNzBmMDdmMWFiMzM5NjUxMzljMWM3NGQ0MWE3NmIzZjE0MjMx`

@@ -4,13 +4,14 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=teqXkrAlT8aQUdbJL1KbeA">HONEYMOAN</a>
 
-342 songs - 19 hr 56 min
+343 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Old Dogs](https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh) | [Lenoy Barkai](https://open.spotify.com/artist/5QFw3kKvmR91Rki5sRRmPP) | [Paper Crown](https://open.spotify.com/album/2wF8bjc8BojLDiuWm3DNKN) | 3:50 | 2023-02-09 | 2023-03-18 |
 | [85](https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [On the way to Beatenberg](https://open.spotify.com/album/414CQfkaibycxv5kLfxsGe) | 3:14 | 2022-11-10 | 2023-01-13 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 |  |
 | [A Long Time](https://open.spotify.com/track/08izD5yyI6TPJCzmABexZc) | [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5), [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND) | [A Long Time](https://open.spotify.com/album/239HTIeLn41odDoMwLsb8N) | 3:52 | 2022-09-29 | 2022-12-16 |
 | [Above Water](https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Above Water](https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT) | 2:20 | 2023-01-19 | 2023-04-15 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-02 | 2023-03-03 |

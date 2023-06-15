@@ -735,6 +735,28 @@
     },
     {
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/6G4s262wagFeaSzQCyvbqP"
+      },
+      "artists": [
+        {
+          "name": "Broken Holiday",
+          "url": "https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI"
+        },
+        {
+          "name": "Swilled",
+          "url": "https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115889,
+      "name": "Growth",
+      "url": "https://open.spotify.com/track/5Pp97IOkeb1MPA9H251uUp"
+    },
+    {
+      "album": {
         "name": "The Last Days Of Gravity",
         "url": "https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd"
       },

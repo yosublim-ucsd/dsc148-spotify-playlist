@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。6月12日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,445 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,503 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [誰の声?](https://open.spotify.com/track/1ois44uc6QzRJVO5Q95W4n) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [誰の声?](https://open.spotify.com/album/5jSzzizVsJipiK7ButA5cu) | 3:05 |
 | 50 | [コイコガレ \-TV ver.\-](https://open.spotify.com/track/71vKuFncQn2Djqjkg7JAtj) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [絆ノ奇跡 / コイコガレ](https://open.spotify.com/album/3WPVxhhSA0VrMk50vtpXNr) | 1:30 |
 
-Snapshot ID: `MCw2Y2FlY2I1MjIyMjAxODc0Nzk0OTg0YTc3Nzk1YjFlY2E3NGY0NWJh`
+Snapshot ID: `MCxhZGZmZjA4ZjIyM2YzNWE0MzZjZTNhNjJmMzQ2MTlhNjEwOWZiZWE4`

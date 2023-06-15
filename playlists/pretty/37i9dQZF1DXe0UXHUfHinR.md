@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,921 likes - 500 songs - 1 day 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,076 likes - 500 songs - 1 day 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 |
 | 500 | [Yams](https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:00 |
 
-Snapshot ID: `MCw2MjA2YTM0YzVmMDYzYTA1NjA4ZTA5MDE1M2EyMjk5MThmNTk1YjA4`
+Snapshot ID: `MCxmZWExYzFjMjlhNGNlNzU5NTM3NDM1NzllZWM0NDNlNDE3OWQwZmFh`

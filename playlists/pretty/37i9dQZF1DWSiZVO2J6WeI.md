@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,783 likes - 170 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,864 likes - 170 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Celestial Orbit](https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:00 |
 | 170 | [Martins Ferry](https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu) | [Henry Woods](https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz) | [Martins Ferry](https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj) | 3:16 |
 
-Snapshot ID: `MCxmNWQ2NWNlNjJjNTcwZDc5OTdjZjhkMzhlNjdlNDI1OTk4ZGQxYjA5`
+Snapshot ID: `MCxmMzkwOThkOWJiNzMzMWMzN2JjNGQ0ZjJkYTNjNmZkZGJiMjFlZTA4`

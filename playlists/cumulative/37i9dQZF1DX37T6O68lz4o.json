@@ -3714,7 +3714,7 @@
     {
       "album": {
         "name": "Made A Decision",
-        "url": "https://open.spotify.com/album/64jze3lvKUlNf2sFWWneBJ"
+        "url": "https://open.spotify.com/album/7yAB3eF3vpVgCO4VxXjTes"
       },
       "artists": [
         {
@@ -3725,6 +3725,24 @@
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151340,
+      "name": "Made A Decision",
+      "url": "https://open.spotify.com/track/1CEr4L8GKfefYkEOsT8CsT"
+    },
+    {
+      "album": {
+        "name": "Made A Decision",
+        "url": "https://open.spotify.com/album/64jze3lvKUlNf2sFWWneBJ"
+      },
+      "artists": [
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
       "duration_ms": 151340,
       "name": "Made A Decision",
       "url": "https://open.spotify.com/track/6JmdKCVq2g7y0Nah0KYxxe"
@@ -3970,10 +3988,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 165067,
       "name": "MMM",
       "url": "https://open.spotify.com/track/7CDkBYPgUXIArjTHbhWh5v"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/3gmC4DRiPxDLbwHWFpLcAE"
+      },
+      "artists": [
+        {
+          "name": "Meech",
+          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165069,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/5x9yr0CuJ8vehs8MTeWCsI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Deepika Seth , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Nidhi Rawat , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 184620,
       "name": "Bekhabar",
       "url": "https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 203967,
       "name": "Chal Pada",
       "url": "https://open.spotify.com/track/3oyzb1Hn3x202SwPUZO7lf"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 221395,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6OQpymPIXmfIhPDDV2gDks"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 183846,
       "name": "daydream",
       "url": "https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V"
@@ -4880,6 +4880,24 @@
     {
       "album": {
         "name": "Home",
+        "url": "https://open.spotify.com/album/0uqZ4OOIBXaenXsG45tvYc"
+      },
+      "artists": [
+        {
+          "name": "Nidhi Rawat",
+          "url": "https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/421Ebj7i0EJ3zq05nYCmqZ"
+    },
+    {
+      "album": {
+        "name": "Home",
         "url": "https://open.spotify.com/album/0Tl1XKSajBfPFMlgKcvVWf"
       },
       "artists": [
@@ -5310,6 +5328,24 @@
       "duration_ms": 270947,
       "name": "i'll find you",
       "url": "https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34"
+    },
+    {
+      "album": {
+        "name": "I'm Bad At Love",
+        "url": "https://open.spotify.com/album/6pBH271tRXuuWCwWJoNSnV"
+      },
+      "artists": [
+        {
+          "name": "XooFa",
+          "url": "https://open.spotify.com/artist/7jBi5RIIa9LBwZ1n4LhWR5"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "I'm Bad At Love",
+      "url": "https://open.spotify.com/track/3Ki3nqQVZaj1djhNSUmsxJ"
     },
     {
       "album": {
@@ -6251,6 +6287,24 @@
     },
     {
       "album": {
+        "name": "Jindadi",
+        "url": "https://open.spotify.com/album/3ef3QjoU4QO2AA6xxPsPoS"
+      },
+      "artists": [
+        {
+          "name": "Sayuj Jain",
+          "url": "https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Jindadi",
+      "url": "https://open.spotify.com/track/38yaZoKHKzYgn1dL4Sd58F"
+    },
+    {
+      "album": {
         "name": "Jitne Apne The",
         "url": "https://open.spotify.com/album/6Jtw6mwqJsayMxfq3HKbiB"
       },
@@ -6740,7 +6794,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 199333,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6I2s9QNUzGqokQPszHzve5"
@@ -7728,7 +7782,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 260163,
       "name": "Kyu Hi Hum Mile",
       "url": "https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R"
@@ -9005,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Meri Raaton Mein",
+        "url": "https://open.spotify.com/album/77KmspJtA1IeBNa3vX4Dp1"
+      },
+      "artists": [
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228658,
+      "name": "Meri Raaton Mein",
+      "url": "https://open.spotify.com/track/1xvwt7jwUoW2J2lQpoFMtZ"
+    },
+    {
+      "album": {
         "name": "Meri Zameen",
         "url": "https://open.spotify.com/album/773xkahhSThZ4vrhhTEtfC"
       },
@@ -9631,6 +9703,24 @@
     },
     {
       "album": {
+        "name": "Nargis",
+        "url": "https://open.spotify.com/album/2eP2Yv4L3mtb3mdmPFbp9B"
+      },
+      "artists": [
+        {
+          "name": "Saroj Kashyap",
+          "url": "https://open.spotify.com/artist/2B9uyvPOGRnNfmprPhMADk"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168948,
+      "name": "Nargis",
+      "url": "https://open.spotify.com/track/24ZHu2tphIiAxsoSv2RpUN"
+    },
+    {
+      "album": {
         "name": "Nasamajh O Dil",
         "url": "https://open.spotify.com/album/4Lbcsulw70lIpAa3nYBdny"
       },
@@ -9672,6 +9762,24 @@
       "duration_ms": 278633,
       "name": "Naya Ehsaas",
       "url": "https://open.spotify.com/track/13LdfKO8w4cTpcyrAhUu0C"
+    },
+    {
+      "album": {
+        "name": "Naya Jahaan",
+        "url": "https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143961,
+      "name": "Naya Jahaan",
+      "url": "https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx"
     },
     {
       "album": {
@@ -10763,6 +10871,24 @@
     },
     {
       "album": {
+        "name": "Put On Feet Again",
+        "url": "https://open.spotify.com/album/4VGKFgHatinsExbmOAboOg"
+      },
+      "artists": [
+        {
+          "name": "Sachin Shankor Mannath",
+          "url": "https://open.spotify.com/artist/4t2w7PqkyaiJEOpsyKFSVL"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200062,
+      "name": "Put On Feet Again",
+      "url": "https://open.spotify.com/track/7tz5nNlARU26NIFmmCUcAk"
+    },
+    {
+      "album": {
         "name": "Pyar Karte Hai",
         "url": "https://open.spotify.com/album/684I8GXuNmlBgtZXg2m5XB"
       },
@@ -11511,6 +11637,28 @@
     },
     {
       "album": {
+        "name": "Saadgi (feat. Varsha Gaur)",
+        "url": "https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F"
+      },
+      "artists": [
+        {
+          "name": "SUKOON",
+          "url": "https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe"
+        },
+        {
+          "name": "Varsha Gaur",
+          "url": "https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215363,
+      "name": "Saadgi (feat. Varsha Gaur)",
+      "url": "https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA"
+    },
+    {
+      "album": {
         "name": "Saajan More (Secret Sessions X Collab Stories)",
         "url": "https://open.spotify.com/album/3JjXXx7QML49r6T0WOUToC"
       },
@@ -12140,7 +12288,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 203555,
       "name": "Screaming on the Fly",
       "url": "https://open.spotify.com/track/4Uzg86UU1j9o77ZzxK3ZR5"
@@ -13688,7 +13836,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 293374,
       "name": "Thehra",
       "url": "https://open.spotify.com/track/4dO5binmRiHTpbLDgpjaEn"
@@ -13746,7 +13894,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 163333,
       "name": "Third Degree Burns",
       "url": "https://open.spotify.com/track/1mqnmmh46GYzTkJrKl4NJE"
@@ -15622,6 +15770,24 @@
       "duration_ms": 176744,
       "name": "You Were Never Innocent",
       "url": "https://open.spotify.com/track/1wF8umKi8tgGreZ7LHTF6W"
+    },
+    {
+      "album": {
+        "name": "You're Alright",
+        "url": "https://open.spotify.com/album/3UDzwTqfQSL6l4QD6Q18DO"
+      },
+      "artists": [
+        {
+          "name": "Dev Mehta",
+          "url": "https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258571,
+      "name": "You're Alright",
+      "url": "https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi"
     },
     {
       "album": {

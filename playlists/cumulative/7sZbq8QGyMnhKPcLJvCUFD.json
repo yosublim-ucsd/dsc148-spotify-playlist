@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "me",
+        "url": "https://open.spotify.com/album/2pThbGBFk8yPRNtlirmSG1"
+      },
+      "artists": [
+        {
+          "name": "joegarratt",
+          "url": "https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "me",
+      "url": "https://open.spotify.com/track/52EybjwbR5hO0mnq2CGoKe"
+    },
+    {
+      "album": {
         "name": "Me Times Two",
         "url": "https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ"
       },

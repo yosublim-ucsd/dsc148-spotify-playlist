@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-607 songs - 1 day 3 hr 21 min
+608 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [a different view](https://open.spotify.com/track/76nkb2MgYQ3ZOho3N1tEL2) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [a different view](https://open.spotify.com/album/0kLwohPxP72g47Jwm3e2Hw) | 2:17 | 2023-03-23 | 2023-04-18 |
 | [A Dream About Ice Skating](https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS) | [Kid on Ice](https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [A Dream About Ice Skating](https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40) | 1:36 | 2022-03-24 |  |
 | [A garden of peace](https://open.spotify.com/track/5I2NOzAxyo8PQDm0sc3Tv6) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [A garden of peace](https://open.spotify.com/album/6dVU2RB6JtGy6jGThOpQmX) | 2:51 | 2022-04-14 | 2022-07-25 |
-| [A moving scenery](https://open.spotify.com/track/6oi7kSSHFeZakUH8kn117V) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/0otxDrqWUcgfEOCz5UInSJ) | 5:43 | 2023-06-13 |  |
+| [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-06-13 |  |
+| [A moving scenery](https://open.spotify.com/track/6oi7kSSHFeZakUH8kn117V) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/0otxDrqWUcgfEOCz5UInSJ) | 5:43 | 2023-06-13 | 2023-06-15 |
 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 | 2023-04-27 |  |
 | [Above the horizon](https://open.spotify.com/track/5wI2gifR40G8xSipSS6Y0b) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:39 | 2021-12-23 | 2022-07-14 |
 | [Adrift](https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Adrift](https://open.spotify.com/album/4nVIT4fPofwAVw7GmJWQPV) | 3:41 | 2021-12-23 | 2023-01-26 |

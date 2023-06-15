@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,303 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,585 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Just for the Night \- Jean Tonique Remix](https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Just for the Night \(Jean Tonique Remix\)](https://open.spotify.com/album/5aeZJVEbJ8vpSv17brEa1n) | 3:25 |
 | 100 | [I Want You](https://open.spotify.com/track/3qZ5l212uLlZ2rRSa44K1h) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/0WvHI2AeQ1CXfVeUYKRXj4) | 2:54 |
 
-Snapshot ID: `MCwxZDY1OTg0NmQ5MDg2OGU4MTM0NmJkMjAzYWIwZjJiOTQ3ODEwYWI1`
+Snapshot ID: `MCwwYWQyODFhMjU0YjIwNDQ4OWEwZWNjZmRlY2E2NjFkZjNiOTViMmY2`

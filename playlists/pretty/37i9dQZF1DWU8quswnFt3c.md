@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,421 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,416 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 80 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 |
 | 81 | [Hej mami](https://open.spotify.com/track/79Ii6G6QE6wuntxR6OaIZI) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [Hej mami](https://open.spotify.com/album/3zbG30jxcuAUfocMYC5FhH) | 2:48 |
 
-Snapshot ID: `MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy`
+Snapshot ID: `MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2`

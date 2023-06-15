@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href="https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA">Pastor Steven Furtick</a> and <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,612 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,697 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [Leaning \- Live](https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(Live\)](https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ) | 7:56 |
 | 100 | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [A Little Fire \(Burn Brighter\)](https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o) | 7:09 |
 
-Snapshot ID: `MCw5ZTYxN2ZkM2EwZWEwMmY1YmM1ZDI0ZWVjZTJlMDcxYTI1ZDQ5YzQ5`
+Snapshot ID: `MCw2MmMzOTcwMjZhYzdhMjI4OTY2NDFiZmE4ZjY3Yzk2ZTJlM2ZkMDMy`

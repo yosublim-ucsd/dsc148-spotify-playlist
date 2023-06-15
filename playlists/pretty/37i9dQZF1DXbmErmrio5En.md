@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,282 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,356 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 38 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 39 | [HOLD](https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n) | [Caleb Peters](https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3) | [HOLD](https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp) | 2:47 |
 | 40 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 |
-| 41 | [wow!](https://open.spotify.com/track/361sWSauyBs8sGn4h2kOrN) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [wow!](https://open.spotify.com/album/5rTM0GN3KMDrK7y91rMRH3) | 3:03 |
+| 41 | [wow!](https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 3:03 |
 | 42 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/4DKZwMaxlfZv4APVu0i8eM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 2:03 |
 | 43 | [lately](https://open.spotify.com/track/416u9bDidTqJMQV4JOwQvW) | [jayya](https://open.spotify.com/artist/3bhTwTlnBeTx2Ks3kMT8FR) | [lately](https://open.spotify.com/album/2PY3AOtQqHjcITTHtoN75K) | 2:17 |
 | 44 | [patience is hard to come across](https://open.spotify.com/track/6HqvUPI21BOzeIUCoNjgco) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [patience is hard to come across](https://open.spotify.com/album/7qzkAqQreDkp6VNZLJJXoa) | 2:39 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 76 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 |
 | 77 | [know how it felt](https://open.spotify.com/track/4AXFBdy4wYLI4pwP1p9kqJ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [coward](https://open.spotify.com/album/1vo8d9FSCr5UfDxHTL3IHc) | 3:20 |
 | 78 | [It's Goin Bad](https://open.spotify.com/track/1weAJG8eNS4Bbk0vYn7vV4) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [It's Goin Bad / Lacerate](https://open.spotify.com/album/5kxj9JXn7XW5b4B82e5MUw) | 2:50 |
-| 79 | [ready set go](https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [ready set go](https://open.spotify.com/album/2s9HTzvrStFC5yGsg75slb) | 2:46 |
+| 79 | [ready set go](https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 2:46 |
 | 80 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 |
 | 81 | [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 |
 | 82 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [everytime](https://open.spotify.com/track/4HMQp19mWui3vE5gDH7jfN) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Re:](https://open.spotify.com/artist/5iJsfIio4vyL728J480yI6), [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Arkaeo](https://open.spotify.com/artist/1SG0vFYTVCYgxsz5KEa1di), [ulovely](https://open.spotify.com/artist/4zJaCXVkNpQwndNzkbcKHk), [Kbackwood$](https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj) | [everytime](https://open.spotify.com/album/3zcWnBTtiPeA7jklSGw3RH) | 2:10 |
 | 100 | [nerve gas](https://open.spotify.com/track/5lZL7EafDdjRsPNLTRLqwU) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL) | [nerve gas](https://open.spotify.com/album/2xETxfVzBG4ss5f7c2ByHE) | 2:45 |
 
-Snapshot ID: `MCwwZmJmMmVjZDE0Zjc1MDU1YTVjZDU2YTFiODAyZDRlMjliNzNiNmNl`
+Snapshot ID: `MCxhYjFhZDZlMGQ2MWUyYTljODY0MzMwMTBkM2NhZjQzOGY4NTYyNzc5`

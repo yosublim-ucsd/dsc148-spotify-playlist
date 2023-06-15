@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,858 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,920 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 |
 | 100 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 |
 
-Snapshot ID: `MCw4YzkyYjEwMmVjNDJkYzMwN2U5NjlkMzBjY2FhYjQ1NGM0MWU4MmQ3`
+Snapshot ID: `MCwxMTQ2MjMxMGViODkwMGNkYTM2ZmMzZDNjNjM4NDMwNjc1MTE5MGFm`

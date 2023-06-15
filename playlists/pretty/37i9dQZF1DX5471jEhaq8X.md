@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,437 likes - 200 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,483 likes - 200 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 | 199 | [Traigo Un Equipón](https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Traigo Un Equipón](https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5) | 2:43 |
 | 200 | [Nos Tumbaron](https://open.spotify.com/track/1tdQ3IdHzc2N565vOKR6zT) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Thomas Perez](https://open.spotify.com/artist/2EdC50BoBfEMqEFUncN9F4) | [Nos Tumbaron](https://open.spotify.com/album/6Z2IZlzf3lNx9Kw6XDDWVN) | 1:41 |
 
-Snapshot ID: `MCw3NmU1NDMxMTBiYTdiZGQ4ZDdkNmUzMTg1MWUwYjlkMTU3NWJiMWYy`
+Snapshot ID: `MCwxNGRkNWFmOTc0YWJhMjIwMTA2YWMyZDg1Yzk4MjYwMDRkMWNlZmU4`

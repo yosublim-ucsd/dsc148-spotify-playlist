@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Aimzillow\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,050 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,054 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 69 | [แฟนทิพย์](https://open.spotify.com/track/78LSxaAIJSpz5xoN39ioG2) | [DSKBOY](https://open.spotify.com/artist/4kgC1ugQtVoalkCn9ifBBD) | [แฟนทิพย์](https://open.spotify.com/album/1IN51Muv6BbBJ4EuuEZpT5) | 3:12 |
 | 70 | [ฟื้น](https://open.spotify.com/track/7nOW5tquxNIbIDohHtwn0v) | [feelsday](https://open.spotify.com/artist/6HQlOaeEDVXzGWDhrkpADG) | [ฟื้น](https://open.spotify.com/album/79zypLKwy6RaMXBD64MgY6) | 4:42 |
 
-Snapshot ID: `MCwxZjgxMjg4M2ViMWFhMjJmNGE4MTAwMWQ3NjhjM2FmYzE4YmI2MzEw`
+Snapshot ID: `MCxmMzgxNDQ1NDgyODA4ZjE1YjIwYjQ4MmFlOWUxMzJlNGRhOTA0MjIw`

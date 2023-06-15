@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,638 likes - 200 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,931 likes - 200 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [モラトリアム](https://open.spotify.com/track/1a1wB12w5qTXLvz6et9ohH) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [モラトリアム](https://open.spotify.com/album/3wWqdbRezIHgiR8Ze2mURQ) | 4:47 |
 | 200 | [めざせポケモンマスター \-with my friends \- from THE FIRST TAKE](https://open.spotify.com/track/0iuwg67YGJihSZlqbUMG4L) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [めざせポケモンマスター \-with my friends \- from THE FIRST TAKE](https://open.spotify.com/album/17NXHPufEpCJGK8ueDtvf4) | 4:08 |
 
-Snapshot ID: `MCw4ZGFkMjRlNzQ2Y2RhYmQ0ZTllMGMxMGEzZWMyZjZmM2Y0NTQ1ZDhk`
+Snapshot ID: `MCw4MmNlNTVjOGYxMjZjMDRlY2IwMTEzMDRiMTMxZDNkNTEwM2NjZjA0`

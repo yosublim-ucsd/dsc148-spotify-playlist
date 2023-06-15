@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,893 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,948 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 57 | [Wanna\-B \(feat\. Julianno Sosa\)](https://open.spotify.com/track/7kNGGapZ80IaUSX7lgyfbU) | [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Siempre en el Aire](https://open.spotify.com/album/0fW1wfTLAoUksxQYP6fq6a) | 2:40 |
 | 58 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 |
 
-Snapshot ID: `MCw2NGRiMGUyZmFiODFlOWY0NjVhMzk1YmUxNGU3ZDk4OTcwYjQ3NmI4`
+Snapshot ID: `MCxmODVjOTQ1MzI2MGExOGVkYTczZDkzNWYzMDdhYzgyZmQwYTdjYTM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover KayCyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,246 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,261 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
 | 60 | [tha feelin](https://open.spotify.com/track/3GM4jz8GuMkVUvCODSZ1i0) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [tha feelin](https://open.spotify.com/album/2pQ8DLVKqm5YYIseTwjnhZ) | 1:54 |
 
-Snapshot ID: `MCw0NmE4NmE1YTQwNjllNjBjMjQ0ZTQ5NGVmMGE0ZmY0MGE5OTMyNDRi`
+Snapshot ID: `MCxkODdlYWEwMWFjY2Y2NjE2YjI2OWI2OTgwN2IwMTZiMjgzZjFkYjFl`

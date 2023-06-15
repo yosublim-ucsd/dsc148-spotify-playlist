@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Frontera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,122 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,361 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 99 | [Un Suspiro](https://open.spotify.com/track/7DY9QpHxhzbU4JX0Z1WYL0) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM) | [Lo Mejor de Rancho Humilde 2020, Vol\. 1](https://open.spotify.com/album/0IGFlOVKhaqkZIzIwogwoD) | 3:04 |
 | 100 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
 
-Snapshot ID: `MCw1ZTExNDI2Yjk4Y2IzNGEzNDEwNzU3MjhmNmMzNmFmZjljY2QwNjk1`
+Snapshot ID: `MCwyZjUxY2E0NmNmNGRjODIyZDJiOWYyMDA0MjljYzA1OTQzNTE5YjU0`

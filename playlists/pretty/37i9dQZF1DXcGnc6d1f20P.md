@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGnc6d1f20P.md) - [plain]
 
 > Cole World\. The very best of Jermaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,612 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,211 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Gera MX está en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,126 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,379 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 6 | [Cypher](https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Cypher](https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc) | 2:22 |
 | 7 | [Nací Para Ganar](https://open.spotify.com/track/40bSwqRfI4nR1kYLSfFmNz) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Nací Para Ganar](https://open.spotify.com/album/5PGB1jY5bnxqyHzLcA0oMf) | 3:56 |
 | 8 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
-| 9 | [El Profesor](https://open.spotify.com/track/1yMEWcVXwCXRH2rgtL3ZQs) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [El Profesor](https://open.spotify.com/album/6069UytwCGPyx80oyoVlFU) | 2:42 |
+| 9 | [El Profesor](https://open.spotify.com/track/1yMEWcVXwCXRH2rgtL3ZQs) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [El Profesor](https://open.spotify.com/album/6069UytwCGPyx80oyoVlFU) | 2:42 |
 | 10 | [Rolando Hits Vol\. 3](https://open.spotify.com/track/1HOePouytVeIMcP33YIaTy) | [Rolando Hits](https://open.spotify.com/artist/0D7jzM1bFHm8PZacEOUDyR), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Vandalic](https://open.spotify.com/artist/6JAxeQXL5JSyAbTcFPWny0), [Kallpa RH](https://open.spotify.com/artist/3EBoQE8ME7XdtduNxFHNqF), [Ñengo El Quetzal](https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6), [Dank SA](https://open.spotify.com/artist/7tpPh8KSOzd5l9m3hDelKl), [The Seler](https://open.spotify.com/artist/07H7kklAEFGHh0VxZNJ9bD), [Weros LCK](https://open.spotify.com/artist/6VTeKyMKg8vi6aC6jprwzL), [Saiko Hem](https://open.spotify.com/artist/3Bny8lzlRGbiUbbXxu2PQh), [Little Smoking](https://open.spotify.com/artist/5mFSaUUW9ZwqpWN39fmbuZ) | [Rolando Hits Vol\. 3](https://open.spotify.com/album/0CDQr3ndjAc0X7fShcQt6h) | 10:58 |
 | 11 | [Te Dejé Volar](https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 3:41 |
 | 12 | [Toda la Semana](https://open.spotify.com/track/0zMgUj4oEj6VTImz3rrbKQ) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Ñengo El Quetzal](https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6) | [Toda la Semana](https://open.spotify.com/album/7xlx25gpSbPocaRsD6voWi) | 5:20 |

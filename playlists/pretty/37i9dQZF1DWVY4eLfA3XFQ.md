@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Odd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,129 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,248 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Magic City \- Vip Mix](https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Magic City \(Vip Mix\)](https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q) | 2:51 |
 | 125 | [Think It's Just Enough](https://open.spotify.com/track/5lia1eBt1OvZRFngvsga6g) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Think It's Just Enough](https://open.spotify.com/album/0EttXqOKkbEkhKwKXmUTxv) | 4:24 |
 
-Snapshot ID: `MCw0NGEyOTJkZTFkMGMxZGQzYmI2Y2U2ZjlmYzhmOGU1YWZjY2UzYzBh`
+Snapshot ID: `MCw4ZDQ0NTY0YTdkMzMzYTYxZDQ5NzMwOTZjZDllMWVjNmIzNzk2Y2Ji`

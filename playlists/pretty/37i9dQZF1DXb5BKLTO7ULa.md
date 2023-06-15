@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,893 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,903 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 20 | [Simpel Geluk](https://open.spotify.com/track/7673y4rykqgauB3fQ4uT3q) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Mooie Tijden](https://open.spotify.com/album/3pITXsF4pz5nAVWQQSYHSg) | 4:15 |
 | 21 | [Dancefloor](https://open.spotify.com/track/2NFbkKJEiibdgjgzxay01f) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Dancefloor](https://open.spotify.com/album/7wSh70BVmuy7h3sa8CPaSW) | 3:15 |
 | 22 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
-| 23 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 23 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 24 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 |
 | 25 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/508RuTQvww9wrlncZsd7Cd), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 |
 | 26 | [When You're Here](https://open.spotify.com/track/6dLuEkW3rWLXbLeYBWoT7N) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [When You're Here](https://open.spotify.com/album/3OyXog4wg8Zb6nW6QjndBl) | 3:02 |

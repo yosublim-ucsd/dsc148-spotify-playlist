@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-453 songs - 1 day 6 hr 21 min
+454 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Starting Again](https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31) | [Timaeus](https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT) | [Starting Again](https://open.spotify.com/album/6f2umrRIEGBL3e5JcPoaT3) | 3:52 | 2023-03-23 | 2023-04-19 |
 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 | 2023-02-16 |  |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-02-17 |
-| [stroll](https://open.spotify.com/track/4cFiCccBG5fSDC7yqxtsKW) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [stroll](https://open.spotify.com/album/3nytpuSr8cJmcI48MUhrOx) | 2:53 | 2023-06-13 |  |
+| [stroll](https://open.spotify.com/track/4cFiCccBG5fSDC7yqxtsKW) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [stroll](https://open.spotify.com/album/3nytpuSr8cJmcI48MUhrOx) | 2:53 | 2023-06-13 | 2023-06-15 |
+| [stroll](https://open.spotify.com/track/6vuuRxPKfb9TqXlXagatrR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [stroll](https://open.spotify.com/album/3NYFZtTXEzWoPgp3FZ9BmE) | 2:53 | 2023-06-13 |  |
 | [Stupid Fingertips](https://open.spotify.com/track/3aVSj1tFJt75uhAs3qJ7dD) | [michel ko](https://open.spotify.com/artist/55brV6SE3YnJWlU9MRrNlE) | [Stupid Fingertips](https://open.spotify.com/album/0zJ2qCkglCpzMkk3Mov7aB) | 2:51 | 2023-01-10 | 2023-03-01 |
 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 | 2022-10-20 | 2023-06-14 |
 | [Suite No\. 7 in B\-Flat Major, HWV 440: III\. Sarabande](https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 2:36 | 2023-02-02 | 2023-03-01 |

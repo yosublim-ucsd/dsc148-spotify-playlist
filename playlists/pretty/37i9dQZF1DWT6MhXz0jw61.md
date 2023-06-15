@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,163 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,433 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Let It Breathe](https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Let It Breathe](https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia) | 3:24 |
 | 100 | [Smoke With Me](https://open.spotify.com/track/0lnzQfYP1jdfkEeP47FJb0) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO) | [Smoke With Me](https://open.spotify.com/album/74YOfhzsCMqjqs9hOpZoTk) | 3:16 |
 
-Snapshot ID: `MCwwMTY1N2QwMTQ3MTkyMTc1MmI2NDUwZGRiMWZhYWRkZGRjNzRhYzE1`
+Snapshot ID: `MCxlMjQyMzVkYTI2Njk4MGM2NGUwODYzYWU0YjZlYmFiOTc3NzU5YjRi`

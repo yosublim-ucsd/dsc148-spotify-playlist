@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Yunes Lagrintaa in cover.
 
-597 songs - 1 day 2 hr 1 min
+598 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Al ladro](https://open.spotify.com/track/03MnE7T7IGkL6f7K7lQj2L) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Al ladro](https://open.spotify.com/album/2cA3xbw2V831gZOsFtWATb) | 2:51 | 2022-07-01 | 2022-08-19 |
 | [Alaska](https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Alaska](https://open.spotify.com/album/4fMG0tZOJ4VqA1nbx8WJy6) | 1:53 | 2022-10-06 | 2022-10-28 |
 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-03-23 | 2023-05-05 |
-| [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 | 2023-04-14 |  |
+| [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 | 2023-04-14 | 2023-06-15 |
+| [Alo \(feat\. Hani\)](https://open.spotify.com/track/2PiN4K8PKGBZa0xFYRPMY6) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo \(feat\. Hani\)](https://open.spotify.com/album/0OQFz1TDv4CHxGKbXrjEyd) | 3:04 | 2023-06-12 |  |
 | [Ancora Viva](https://open.spotify.com/track/0Ysx8NHwcjmeciv4tvCa3i) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Ancora Viva](https://open.spotify.com/album/4DpiEp8oZpigUeBa9hbSgz) | 2:43 | 2022-11-17 | 2022-11-25 |
 | [Angel Gabriel](https://open.spotify.com/track/4OEligpS2COR14Plpw8c8f) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Angel Gabriel](https://open.spotify.com/album/5WKGbIZm9JTJCUqmRgl9Wc) | 2:15 | 2022-10-13 | 2022-10-28 |
 | [Ansia](https://open.spotify.com/track/6CV7yapL2bhEaWKE4p7IoB) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3) | [Ansia](https://open.spotify.com/album/5bQsB7DQ6eRVHsEuGxeSjn) | 2:40 | 2023-01-26 | 2023-03-03 |

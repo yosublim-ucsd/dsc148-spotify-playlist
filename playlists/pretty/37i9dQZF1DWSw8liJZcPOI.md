@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,492 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,689 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Footsteps](https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Footsteps](https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ) | 3:09 |
 | 100 | [Starwood Choker](https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:16 |
 
-Snapshot ID: `MCwyYmNjMjQwMzc4OWU4MGEwMTZmNjViNmQwZjU2MTNmZjk0ZGIxZTgz`
+Snapshot ID: `MCxiMTg1Mjc5OTk1M2Y0ODhlYTFlMzE3ZjE3ODhlNmU1ZDYzYWY5YTM0`

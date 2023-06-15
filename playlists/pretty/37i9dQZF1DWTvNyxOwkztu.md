@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,876 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,768,449 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
 | 100 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
 
-Snapshot ID: `MCwwNGI5ZmMwZGUyYzA0Y2JlOTJkMDU3NDUwMmMxMTVkNmExMzNhNGQ0`
+Snapshot ID: `MCw3ZDA0MGIxYTlhMjdhMjRhYmM5YWMzMzhjOTMzZmVjYjBiOTQwMzA3`

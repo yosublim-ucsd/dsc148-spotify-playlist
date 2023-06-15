@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,278 likes - 86 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,398 likes - 86 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 73 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 |
 | 74 | [Off With Their Heads](https://open.spotify.com/track/20vvxC2w3GiRvts2slu2p0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/4BIBmd8fwsIA7yuBPhz8dU) | 3:49 |
 | 75 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
-| 76 | [NETHERTOXIN](https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD) | [sxdboy](https://open.spotify.com/artist/03ovoqlxlJGOrsP537cZpX) | [NETHERTOXIN](https://open.spotify.com/album/1ogzj6cjWlE9nm2IO7DJ0b) | 2:48 |
+| 76 | [nethertoxin](https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD) | [sxdboy](https://open.spotify.com/artist/03ovoqlxlJGOrsP537cZpX) | [nethertoxin](https://open.spotify.com/album/1ogzj6cjWlE9nm2IO7DJ0b) | 2:48 |
 | 77 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
 | 78 | [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 |
 | 79 | [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 85 | [Lacrimosa](https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Lacrimosa](https://open.spotify.com/album/2rezRedcnS60CY419b5HAR) | 4:17 |
 | 86 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 
-Snapshot ID: `MCwxMDRhZGM2NWMzNGE4OTMyMzkyZDQxZjdiNDVmYTMyNGYyY2I2NjFi`
+Snapshot ID: `MCxiMTk5ZTQ2ZjA4MTc0NWRlMjAxODQzMGNjYTZlMzc1NDAxYmUzOTJk`

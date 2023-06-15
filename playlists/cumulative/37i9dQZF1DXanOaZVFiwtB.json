@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL WIND~Hohoemi wa Hikaru-Kaze no Naka~",
+        "url": "https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Moriguchi",
+          "url": "https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "ETERNAL WIND~Hohoemi wa Hikaru-Kaze no Naka~",
+      "url": "https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD"
+    },
+    {
+      "album": {
         "name": "ETERNAL WIND~\u307b\u307b\u3048\u307f\u306f\u5149\u308b\u98a8\u306e\u4e2d~",
         "url": "https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 285333,
       "name": "ETERNAL WIND~\u307b\u307b\u3048\u307f\u306f\u5149\u308b\u98a8\u306e\u4e2d~",
       "url": "https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5"

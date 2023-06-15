@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+    },
+    {
+      "album": {
         "name": "Spazio",
         "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
       },
@@ -500,6 +518,24 @@
       "duration_ms": 173270,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E"
+    },
+    {
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
+      },
+      "artists": [
+        {
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
     },
     {
       "album": {
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 167000,
       "name": "Fragili",
       "url": "https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K"
@@ -1614,7 +1650,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 156378,
       "name": "Io non voglio pi\u00f9 soffrire",
       "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 198370,
       "name": "Le Tue Insicurezze",
       "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
@@ -1981,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
+    },
+    {
+      "album": {
         "name": "Mancati",
         "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 164000,
       "name": "Mille Gatti",
       "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
@@ -2482,7 +2536,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 132231,
       "name": "oggi ho pianto",
       "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
@@ -3181,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "SBAGLI",
+        "url": "https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "SBAGLI",
+      "url": "https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm"
+    },
+    {
+      "album": {
         "name": "Scusa ma",
         "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
       },
@@ -3561,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "MELA MARCIA",
+        "url": "https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186383,
+      "name": "Sparire",
+      "url": "https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1"
+    },
+    {
+      "album": {
         "name": "Specchi",
         "url": "https://open.spotify.com/album/3awT0joWawF2xycVuA37un"
       },
@@ -3757,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe"
       },
@@ -3902,7 +4010,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 180937,
       "name": "Vita Di Plastica",
       "url": "https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,676 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,711 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [Abranda \(feat\. Regula\)](https://open.spotify.com/track/2hnrAClQrOeR4ULNjmSysb) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP) | [Abranda \(feat\. Regula\)](https://open.spotify.com/album/6TpLHdnEVcCFdLUDdLri2M) | 3:05 |
 | 75 | [FEELING](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [FEELING](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 |
 
-Snapshot ID: `MCwxMmQ1YTg1ZjU2Yjg1YzFmY2JkMTliYmI4MGU5MDFkODI1YWU4NjNh`
+Snapshot ID: `MCw0NGVjNWQ5ZmU3YzllY2FjODQ1NTVhNzA4MDUzYjMxOTA4M2MxNThj`

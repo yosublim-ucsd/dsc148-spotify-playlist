@@ -1590,12 +1590,12 @@
       },
       "artists": [
         {
-          "name": "peeta",
-          "url": "https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI"
-        },
-        {
           "name": "sanyu!",
           "url": "https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE"
+        },
+        {
+          "name": "peeta",
+          "url": "https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI"
         }
       ],
       "date_added": "2023-06-09",

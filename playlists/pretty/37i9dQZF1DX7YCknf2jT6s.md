@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Aja Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,008 likes - 101 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,072 likes - 101 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 100 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 101 | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Salomão Soares](https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL) | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/album/4RqK5murOrvju4Lel65EzG) | 4:33 |
 
-Snapshot ID: `MCxlZTkxNzM3ZmE1ZTdiMjY0MTBjNTQzYjI1ODg5ZGQyOTg1Y2ZkYTVl`
+Snapshot ID: `MCwwNzAxZjVhZjRiYWRlOWE0MDkyODZjZjI5YWIyMGVhNTRkYjZjOTRh`

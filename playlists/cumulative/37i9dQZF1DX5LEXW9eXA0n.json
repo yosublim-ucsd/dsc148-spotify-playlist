@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bLim Young Woong(\uc784\uc601\uc6c5)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bTophyun(\ud0d1\ud604)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1210,6 +1210,24 @@
       "duration_ms": 226080,
       "name": "Be there",
       "url": "https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz"
+    },
+    {
+      "album": {
+        "name": "Beast",
+        "url": "https://open.spotify.com/album/07ZDkIgrj5kNFOBIG5q3qK"
+      },
+      "artists": [
+        {
+          "name": "Kim Pil Sun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/7JKQa9Nq8tK0Ug6JK7kk6c"
     },
     {
       "album": {
@@ -2784,6 +2802,24 @@
       "duration_ms": 210026,
       "name": "December. 24",
       "url": "https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i"
+    },
+    {
+      "album": {
+        "name": "Decision to leave",
+        "url": "https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188342,
+      "name": "Decision to leave",
+      "url": "https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6"
     },
     {
       "album": {
@@ -4503,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "Forget Me Not",
+        "url": "https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf"
+    },
+    {
+      "album": {
         "name": "Red Moon: Full Bloom",
         "url": "https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r"
       },
@@ -6104,6 +6158,24 @@
       "duration_ms": 207866,
       "name": "I Missed You",
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.6",
+        "url": "https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292635,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn"
     },
     {
       "album": {
@@ -8117,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Like the first time",
+        "url": "https://open.spotify.com/album/1YR7unkgTcmEhNvLPBWhMk"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243626,
+      "name": "Like the first time",
+      "url": "https://open.spotify.com/track/7Hvn6ZXQc87sWq33OhpcPH"
+    },
+    {
+      "album": {
         "name": "like wind",
         "url": "https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x"
       },
@@ -8478,6 +8568,24 @@
       "duration_ms": 251333,
       "name": "Love Contact",
       "url": "https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8"
+    },
+    {
+      "album": {
+        "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "Love from a Real Heart(2023)",
+      "url": "https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz"
     },
     {
       "album": {
@@ -11124,6 +11232,24 @@
       "duration_ms": 255013,
       "name": "Regret",
       "url": "https://open.spotify.com/track/6FAVrqY03qByQMzBhjdT8B"
+    },
+    {
+      "album": {
+        "name": "Relation",
+        "url": "https://open.spotify.com/album/60oZgX19LcbvXtos065y5I"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/3JE3FeEDmCs0UYnG9oZ5mk"
     },
     {
       "album": {
@@ -15055,6 +15181,24 @@
     },
     {
       "album": {
+        "name": "Where To Go",
+        "url": "https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s"
+      },
+      "artists": [
+        {
+          "name": "LEENU",
+          "url": "https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227897,
+      "name": "Where To Go",
+      "url": "https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ"
+    },
+    {
+      "album": {
         "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF"
       },
@@ -15070,6 +15214,24 @@
       "duration_ms": 266373,
       "name": "While The Memory Fall A Sleep",
       "url": "https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2"
+    },
+    {
+      "album": {
+        "name": "Impasto",
+        "url": "https://open.spotify.com/album/4MOc9NJNFjG8c8WB8UVNwN"
+      },
+      "artists": [
+        {
+          "name": "You Chae Hoon",
+          "url": "https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308573,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/0HV7dTKl8VPOO3NL5BbIZB"
     },
     {
       "album": {
@@ -15124,6 +15286,24 @@
       "duration_ms": 194493,
       "name": "Why",
       "url": "https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC"
+    },
+    {
+      "album": {
+        "name": "Why break up? (My love X Jeon Sang Keun)",
+        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "Why break up? (My love X Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
     },
     {
       "album": {
@@ -15690,6 +15870,24 @@
       "duration_ms": 220497,
       "name": "YOU",
       "url": "https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu"
+    },
+    {
+      "album": {
+        "name": "GIFT",
+        "url": "https://open.spotify.com/album/6Jrqbo6KDDK12VMQL76pWH"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "You Are My Spring",
+      "url": "https://open.spotify.com/track/3npCSfjXu3Ud4TYsAFbjxp"
     },
     {
       "album": {

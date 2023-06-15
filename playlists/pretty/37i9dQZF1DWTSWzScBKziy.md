@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,886 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,915 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 |
 | 100 | [Free at Last](https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free at Last](https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or) | 3:46 |
 
-Snapshot ID: `MCwzNWE0Mzc1MTRkNTBmODg0NjYyMDBlNmI1ZWI3MDc0NDQ1ZGNlNjMx`
+Snapshot ID: `MCw0MTI0OTVkZDRmMTI1M2NhMDJiOTIxYzBlYjUxOTI1NzYwYzkzMDgz`

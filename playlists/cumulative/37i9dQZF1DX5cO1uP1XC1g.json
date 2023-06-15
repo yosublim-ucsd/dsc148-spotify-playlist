@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Arabic hits all in one place. Cover: Mohamed Ramadan",
+  "description": "The biggest Arabic hits all in one place. Cover: Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
   "name": "Yalla ",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 254617,
       "name": "Akher Esdar",
       "url": "https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 232515,
       "name": "Caramella",
       "url": "https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S"
@@ -2218,6 +2218,24 @@
       "duration_ms": 220724,
       "name": "Han AlAn",
       "url": "https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq"
+    },
+    {
+      "album": {
+        "name": "Hanetabel",
+        "url": "https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hanetabel",
+      "url": "https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p"
     },
     {
       "album": {
@@ -3888,7 +3906,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 310208,
       "name": "Sabok Fel Beit",
       "url": "https://open.spotify.com/track/31VMiaHcvuaO3Hz2bWb0Qw"
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 240937,
       "name": "Seebk Enta",
       "url": "https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu"
@@ -5314,6 +5332,24 @@
       "duration_ms": 245818,
       "name": "\u0638\u0631\u0648\u0641 \u0645\u0639\u0646\u062f\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0627\u0644\u0645\u0631\u0629",
+        "url": "https://open.spotify.com/album/49KKjzKioWbHFY0m3I8Qqm"
+      },
+      "artists": [
+        {
+          "name": "Fares Karam",
+          "url": "https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185870,
+      "name": "\u0639\u0627\u0644\u0645\u0631\u0629",
+      "url": "https://open.spotify.com/track/0QorN3PSTD80rrWbZy9VOJ"
     },
     {
       "album": {

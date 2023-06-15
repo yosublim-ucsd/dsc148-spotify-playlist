@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
 
-### [90s Alternative Rock](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
+### [90s ALTERNATIVE ROCK \| TOP 100 SONGS](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
 > The ultimate 90s alt rock playlist featuring Foo Fighters, Pearl Jam, Rage Against the Machine &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 762,609 likes - 100 songs - 6 hr 35 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 762,598 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 | 99 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 100 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
 
-Snapshot ID: `NTMxLDYzZWIzNDI3MzI2YzVkMDMwOTgyOTdhZDg3NGE4NWZlMmE1OTc0ZDk=`
+Snapshot ID: `NTMyLDE1ZDI5NWFhMDViNmY2ZDJiYTJmZWJmZThlZTFiZmE1MTQyNzdkMjI=`

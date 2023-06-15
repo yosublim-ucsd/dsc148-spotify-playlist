@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,133 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,137 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Dr](https://open.spotify.com/track/4EzylQTDbvvBb0eTC2QYyn) | [KEYTOTHECITY](https://open.spotify.com/artist/50jQk3uTNzSzv4Ep4xA174) | [Dr](https://open.spotify.com/album/1CYMBEbBXdBA8S7uL9mYQu) | 2:02 |
 | 60 | [Anybody](https://open.spotify.com/track/6vvNif6RkzudsCeeGBuV2E) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 2:40 |
 
-Snapshot ID: `MCwxMjA3OWFlMmM3Zjk5NDEwMmMyMGIwYTdlNDVkNWVhZDQxOWM1ZjBk`
+Snapshot ID: `MCwxZTZkYWM4ODA3NzA4MmI5NTYxZjQ5Zjg1OWUzNGM2YjBlNGU3NDg2`

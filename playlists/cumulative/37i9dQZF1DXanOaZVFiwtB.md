@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-81 songs - 5 hr 41 min
+82 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Driver's High](https://open.spotify.com/track/6AFFRH3IXCHfAjBDmx8ifo) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [Clicked Singles Best 13](https://open.spotify.com/album/45IByWn7b2KKHpBQ38KRFl) | 4:10 | 2022-04-10 | 2022-07-29 |
 | [Driver's High](https://open.spotify.com/track/2XxGIjMXytCreUYzv50FvX) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [TWENITY 1997\-1999](https://open.spotify.com/album/0A9yJLwIypxNbbjGtnag3Y) | 4:13 | 2022-08-30 | 2022-11-13 |
 | [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 | 2022-05-27 |  |
-| [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 | 2022-04-10 |  |
+| [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2022-12-24 |  |
+| [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 | 2022-04-10 | 2023-06-15 |
 | [Get along <ALBUM VERSION>](https://open.spotify.com/track/5rPF3lhPX8Vvkf7gTgheyF) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p), [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [スレイヤーズMEGUMIXXX](https://open.spotify.com/album/55RelAMhqC3ubteVrbIY8I) | 4:09 | 2022-04-10 |  |
 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 | 2022-05-27 |  |
 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 | 2022-04-10 |  |

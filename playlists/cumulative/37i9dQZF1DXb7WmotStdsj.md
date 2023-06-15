@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-157 songs - 12 hr 43 min
+158 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-10-19 | 2023-02-01 |
 | [Eddouh Alia](https://open.spotify.com/track/7MVxzkvw2pc56XIhfMQyT6) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Eddouh Alia](https://open.spotify.com/album/52YxT7QJoDzjXiJw2DulBh) | 4:06 | 2022-09-20 | 2022-12-01 |
 | [Edini B3ida](https://open.spotify.com/track/6DU9DquhwAQMQJ0Pkud1ea) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt), [Moh Casanova](https://open.spotify.com/artist/2Gp9AQhiBIp0LI25z2QMm3) | [Edini B3ida](https://open.spotify.com/album/5gxEFRpmHjoGxWvGd7AiBZ) | 3:56 | 2022-09-20 | 2022-10-26 |
-| [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-01-25 |  |
+| [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-01-25 | 2023-06-15 |
 | [El 3achk S3ib](https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [El 3achk S3ib](https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5) | 3:56 | 2023-03-16 |  |
 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 | 2023-03-29 |  |
 | [EL KHAYNA](https://open.spotify.com/track/3vAhuFK6NTHS2VzHGmyxLV) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj), [Mohamed Polyphene](https://open.spotify.com/artist/3tOjDEjeBvPyQ1atjrEcLl) | [EL KHAYNA](https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x) | 3:40 | 2023-01-25 | 2023-03-31 |
@@ -137,6 +137,7 @@
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 |  |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 |  |
+| [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 | 2023-06-14 |  |
 | [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 | 2022-09-20 | 2023-03-11 |
 | [Tmanit El Mout](https://open.spotify.com/track/5NCwmr04Im459JN0IoODsP) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Tmanit El Mout](https://open.spotify.com/album/2wheBBSz3XuLejwMRXRU70) | 5:23 | 2021-10-19 |  |
 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 | 2022-09-20 | 2022-12-01 |

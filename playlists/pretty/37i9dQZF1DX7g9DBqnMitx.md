@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,901 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,929 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 54 | [End Credits \- Soundtrack Reissue \(2002\)](https://open.spotify.com/track/5NHDsqd1YrYqTJxaLddelw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [E.T\. The Extra Terrestrial](https://open.spotify.com/album/3Pood3AEXTNuRqXlEvLLUf) | 3:49 |
 | 55 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4lUquPSQVHZv1eKuswOLsG) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl) | 3:46 |
 | 56 | [Calling You \- Bagdad Cafe/Soundtrack Version](https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To) | [Jevetta Steele](https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR) | [Bagdad Cafe](https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK) | 5:22 |
-| 57 | [L'aile ou la cuisse](https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY) | [L'aile ou la cuisse \(Bande originale du film de Claude Zidi\)](https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp) | 2:29 |
+| 57 | [Happy Meal \- Concerto pour l’Aile ou la cuisse](https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY) | [L'aile ou la cuisse \(Bande originale du film de Claude Zidi\)](https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp) | 2:29 |
 | 58 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
 | 59 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 |
 | 60 | [Vois sur ton chemin](https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [Les Choristes \(Bande originale du film\)](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky) | 2:19 |

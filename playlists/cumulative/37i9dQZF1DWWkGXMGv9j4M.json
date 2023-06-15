@@ -2250,7 +2250,7 @@
     {
       "album": {
         "name": "Synthetic Soul",
-        "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
+        "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
       },
       "artists": [
         {
@@ -2261,6 +2261,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/2sz6BchGGyA7QsUW2Gw8eb"
+    },
+    {
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
       "duration_ms": 177226,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1"

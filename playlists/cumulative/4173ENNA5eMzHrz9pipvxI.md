@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Vessbroz
 
-851 songs - 1 day 16 hr 42 min
+852 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [Somewhere \(with Syn Cole\)](https://open.spotify.com/track/53i9DQqHwjPFzHBIR5T4Q3) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Somewhere \(with Syn Cole\)](https://open.spotify.com/album/0YGKv9rWbJQGcZyU6l4mCS) | 2:44 | 2022-09-23 | 2022-10-07 |
 | [Sonata](https://open.spotify.com/track/5fhIk6wCPr0NSR0rwMVQGF) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Sonata](https://open.spotify.com/album/7zW592Ud9i3jRKBMvzxDie) | 2:30 | 2023-02-02 | 2023-02-18 |
 | [Soul Power](https://open.spotify.com/track/2kCTL8MvQirdDltXqzBuv5) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Soul Power](https://open.spotify.com/album/1s6eMcMkqCnqgPa9CnVzmm) | 2:20 | 2022-10-21 | 2022-11-04 |
+| [Sound of Vondel](https://open.spotify.com/track/68JkVLJ3KC2sGvWe4cud1G) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Sound of Vondel](https://open.spotify.com/album/06lNrvNMoitW60zkzXPWPy) | 3:17 | 2023-06-14 |  |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-23 | 2023-04-07 |
 | [Spanish Vibe \(feat\. Erez Netz\)](https://open.spotify.com/track/7o1hVcPJT3V3mWaq4rnLHr) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [VINO](https://open.spotify.com/artist/6bTyu2orY0Gs9dvEcTqmxZ), [Erez Netz](https://open.spotify.com/artist/5hYWiQQPRuTktbEfEMxpLi) | [Spanish Vibe \(feat\. Erez Netz\)](https://open.spotify.com/album/4TSTYgmnQlXmBgUmILRzVq) | 4:09 | 2023-04-21 | 2023-05-06 |
 | [Spark Of Light](https://open.spotify.com/track/4Iy0bmPLIOglTSz47y6x0s) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb) | [Spark Of Light](https://open.spotify.com/album/1X45OgcaviF1Scc3U7ht6p) | 4:44 | 2022-11-10 | 2022-11-25 |

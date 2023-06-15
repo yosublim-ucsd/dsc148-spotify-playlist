@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,855 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,005 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
 | 75 | [The Edge](https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [The Edge](https://open.spotify.com/album/2cooPo4EPTTifPKXr2Buid) | 3:46 |
 
-Snapshot ID: `MCxmNzQ4OWU1MzM3NWQ0OTEwZjUwMGE2MGQ5ODlhMmQ5MmViOGYzZjI4`
+Snapshot ID: `MCxlMDdhMjJhNGUzZDY4NzkwMTZkN2IzODViYTEzOWMzN2EwY2Q1MmE4`

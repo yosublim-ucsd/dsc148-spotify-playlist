@@ -2,9 +2,9 @@
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Angel Dior & Flow 28
+> Prendete con tu lista favorita de Dembow\. Foto: Angel Dior & Braulio Fogón
 
-381 songs - 20 hr 54 min
+382 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Pepe \- Original](https://open.spotify.com/track/1uv33oIeP72uccwM5dJJQS) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW) | [Otro Formato](https://open.spotify.com/album/42WCssqmsUOGtodLiwCv3R) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [Perra](https://open.spotify.com/track/3xD6kwkNjCTEKvMT5zgHAx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Perra](https://open.spotify.com/album/1CXKTe16rgSx0qBxdbtRlh) | 2:38 | 2021-12-10 | 2022-03-12 |
 | [Perreo En Medellín](https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Perreo En Medellín](https://open.spotify.com/album/220vEwP3o6nsBPUMQVaA8d) | 2:28 | 2022-04-20 | 2022-05-20 |
+| [Perrita](https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Perrita](https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd) | 2:31 | 2023-06-13 |  |
 | [PERRO](https://open.spotify.com/track/4awqf3n2Wv26V2qxYV1H2s) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [PERRO](https://open.spotify.com/album/6umFNw6BRGDgECCNJQDxpj) | 2:13 | 2023-03-10 |  |
 | [Picante](https://open.spotify.com/track/3wwDLHfOsBdUvndgAr1VPt) | [Highfull](https://open.spotify.com/artist/7wwLJxYnO2WBUspK7zENuC) | [Picante](https://open.spotify.com/album/3yPndewQSHAMPOW7OOikp2) | 2:48 | 2021-12-10 | 2022-07-28 |
 | [Piki Molly](https://open.spotify.com/track/3RjggM9vb1y4dT5UXwUJ48) | [Jmaury](https://open.spotify.com/artist/0nS8oNUR7HY21ztB11S3G1) | [Piki Molly](https://open.spotify.com/album/1JEcSyxFY4DsSm5N0ec3Yq) | 2:58 | 2022-01-04 | 2022-04-18 |
@@ -372,7 +373,7 @@
 | [Tusi Quiere Vol 2](https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN) | [Jay Flow Music](https://open.spotify.com/artist/64NcK3T6wfdOI9yQp7UiKq), [Amara Ignacia](https://open.spotify.com/artist/7MYzfaerN2x9e6UGRkUQLM), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Shelo](https://open.spotify.com/artist/3yVK2HqNKKReejFoMLfXYw), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Carlitos Klein](https://open.spotify.com/artist/4GTtu4oc6mDQWN9QhBSWhQ), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [Tusi Quiere Vol 2](https://open.spotify.com/album/6VIBheP2VlG1SnHNsioLRa) | 8:21 | 2021-12-10 | 2023-02-18 |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 |  |
 | [Un Tumbao](https://open.spotify.com/track/2kZrvewTmL8XAxvoMxvSQj) | [Eleven One](https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR) | [Un Tumbao](https://open.spotify.com/album/4jJBcVDLVfnqqrUnuTTHh9) | 2:31 | 2022-11-21 | 2023-02-25 |
-| [Una Movie](https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA) | [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Una Movie](https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4) | 2:30 | 2022-08-05 |  |
+| [Una Movie](https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA) | [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Una Movie](https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4) | 2:30 | 2022-08-05 | 2023-06-15 |
 | [Vaina Bakana](https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Vaina Bakana](https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8) | 3:17 | 2022-11-21 |  |
 | [Vaina Bakana](https://open.spotify.com/track/7M93tQMCcFKmmxp9S6kMNa) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Vaina Bakana](https://open.spotify.com/album/5qEp3A94vVaurVbqAFVxWl) | 3:17 | 2022-01-04 | 2022-07-07 |
 | [Ven](https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Ven \(Remix\)](https://open.spotify.com/album/4actwcUR95D4zwhLQtEuJu) | 3:04 | 2022-05-28 |  |

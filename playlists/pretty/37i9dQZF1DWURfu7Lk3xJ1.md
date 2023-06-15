@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,028 likes - 283 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,314 likes - 283 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 28 | [Cloudy Nights](https://open.spotify.com/track/4AlvhJMmJYi8ppDW7bGDqy) | [Asokiah](https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5) | [Cloudy Nights](https://open.spotify.com/album/44SfWeleJe2QWCbngSSImJ) | 2:11 |
 | 29 | [Underground Sound](https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Underground Sound](https://open.spotify.com/album/4em4imooU76fZnibhNhuB8) | 2:17 |
 | 30 | [In Bloom](https://open.spotify.com/track/1vzHRyMtuVR5ydmNH0VBKw) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [In Bloom](https://open.spotify.com/album/0xrsvkW1OYmRa56n7s56Oq) | 2:05 |
-| 31 | [Lora](https://open.spotify.com/track/5zTajaxzwBfFTcq9MKBLM2) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [Lora](https://open.spotify.com/album/4Qy8fKd5QcVKXGaIAE3HGs) | 2:18 |
+| 31 | [Lora](https://open.spotify.com/track/5zTajaxzwBfFTcq9MKBLM2) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Lora](https://open.spotify.com/album/4Qy8fKd5QcVKXGaIAE3HGs) | 2:18 |
 | 32 | [Sing Me Back To Sleep](https://open.spotify.com/track/1bjNagY5UDBS0f1Jvark4A) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0) | [Sing Me Back To Sleep](https://open.spotify.com/album/43GF0R2uzD6X5K1BF6DwsL) | 2:20 |
 | 33 | [midnight melody](https://open.spotify.com/track/5lPvUiyvXEHMsiuOybY1Dc) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [midnight melody](https://open.spotify.com/album/3PpJbBS0404mPEK8Lg6dDA) | 2:19 |
 | 34 | [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 |

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 370439,
+  "num_followers": 370487,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjEzZWNkZDM0ZGY1NjA4Y2MzZjdkZjcwMzlhNDA2MWZiNWQ3Zjky",
+  "snapshot_id": "MCwzNWU5NmJhZWI2ZDExNzc0NjJiYTJiM2UzMzZjMGJmZmQ5ODYzNTZl",
   "tracks": [
     {
       "added_at": "2023-06-13 15:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-06-13 15:00:00",
       "album": {
-        "name": "\u5148\u3078",
-        "url": "https://open.spotify.com/album/1b0VsTDMtv7f0E6rZgltXo"
+        "name": "Saki e",
+        "url": "https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs"
       },
       "artists": [
         {
-          "name": "\u7b20\u539f\u7460\u6597",
-          "url": "https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr"
+          "name": "RYUTO KASAHARA",
+          "url": "https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz"
         }
       ],
       "duration_ms": 250560,
-      "name": "\u5148\u3078",
-      "url": "https://open.spotify.com/track/5qZ8VSgbxIS2lAuUNOwiHP"
+      "name": "Saki e",
+      "url": "https://open.spotify.com/track/77mbaz4zACMQYNxg0suF8h"
     },
     {
       "added_at": "2023-06-13 15:00:00",

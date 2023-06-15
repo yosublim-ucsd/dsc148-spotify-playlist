@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo
 
-352 songs - 17 hr 50 min
+353 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 | 2021-12-17 | 2022-02-26 |
 | [Them Girls Do](https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Them Girls Do](https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ) | 2:52 | 2023-02-03 |  |
 | [This Is It](https://open.spotify.com/track/0AZjGAFciL2GpwoBqDxgg9) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [This Is It](https://open.spotify.com/album/5TiNIgclQD0tKUAGpgkvOT) | 3:15 | 2021-12-10 | 2022-06-04 |
+| [To the Bar](https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [To the Bar](https://open.spotify.com/album/7gychLTprJqJqVoJ3XIDtD) | 2:32 | 2023-06-14 |  |
 | [Tomorrow Night](https://open.spotify.com/track/0TwIDNrEyL8VZLRHhiGuHz) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Tomorrow Night](https://open.spotify.com/album/5kX5ndVvGLENyzn5zKFJCr) | 2:51 | 2021-12-10 | 2022-02-26 |
 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 |  |
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2023-04-21 | 2023-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,369 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,406 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 |
 | 100 | [Blackberry Blossom](https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 2:36 |
 
-Snapshot ID: `MCxkNGYyNWYwMjI5ZjZlYTBmMmEwNDU2YzIzOTMzYWI3MGQwM2VhY2Mz`
+Snapshot ID: `MCw4MTU0OTNkZjg5YTQ5NmM3ODI1MWYyMDNhMmQ1NDUwOGNiZDhlNDUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,930 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,070 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Garra \- Ao vivo](https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Debora Gurgel](https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Garra](https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2) | 3:48 |
 | 100 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 |
 
-Snapshot ID: `MCxmNmY3Yjc4ZDlmM2I3NmE3YzQ2OWUzOTE2OTQzY2RmZWYxZjExMzhi`
+Snapshot ID: `MCw3MTQ1MGIwMWZjNGUyY2Q4NmYwMzZlYjViNjczMjMwOTdlZDA2NDcz`

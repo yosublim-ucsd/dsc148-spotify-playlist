@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,191 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,486 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [I'm Everything \- Chemical Surf Remix](https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [I'm Everything \(Chemical Surf Remix\)](https://open.spotify.com/album/0zjihCPRpi10Q3zcFuzpnq) | 3:36 |
 | 100 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 |
 
-Snapshot ID: `MCxkMDBkOGFkYjEyMWVlMzdlM2EzYmYxNjUzNWI3NDYxMjJlNjI5MDMz`
+Snapshot ID: `MCw1OWFiNTYwOTljZjc4OWZhYjE2OTI2NTY1MmMzM2U4NGE0Y2M3Y2E0`

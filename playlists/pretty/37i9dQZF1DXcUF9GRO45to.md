@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,601 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,623 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Hush Hush](https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Hush Hush](https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw) | 2:56 |
 | 100 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 |
 
-Snapshot ID: `MCxjMGZmOWI3MzI1ZjA3OTQzM2YyZWJlMzJlMTkxMzAwNjQ3ZTQ3NjAx`
+Snapshot ID: `MCxiZTU0NzQ0ZjNjMGEyMDM0OWM5Y2UwZDJmMjE1Mzc4NzYyN2E5YzIz`

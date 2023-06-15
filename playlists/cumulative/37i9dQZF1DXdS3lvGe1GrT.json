@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: tofusmell | Visual Artist: Bailey Elder",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Lutalo | Visual Artist: Bailey Elder",
   "name": "Fresh Finds Folk",
   "tracks": [
+    {
+      "album": {
+        "name": "small town story",
+        "url": "https://open.spotify.com/album/5BXqfI4uM589DboivtSbN1"
+      },
+      "artists": [
+        {
+          "name": "summersets",
+          "url": "https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240919,
+      "name": "(over now)",
+      "url": "https://open.spotify.com/track/6cDD86N1pfP0mB05VHRccs"
+    },
     {
       "album": {
         "name": "Daisy Painted Walls",
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 207371,
       "name": "Beautiful View",
       "url": "https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 190853,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0BORrH9NNUvHOLH4jA9M4r"
@@ -1520,6 +1538,24 @@
       "duration_ms": 239017,
       "name": "Bury Me in the Rain",
       "url": "https://open.spotify.com/track/44gSESjjEamB4BOZ7wQTsS"
+    },
+    {
+      "album": {
+        "name": "Bush",
+        "url": "https://open.spotify.com/album/6x7wYTMcciUQiz08Y52Ybv"
+      },
+      "artists": [
+        {
+          "name": "Straats",
+          "url": "https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113573,
+      "name": "Bush",
+      "url": "https://open.spotify.com/track/4QEhaZQmYvwh3eZV3BAvKN"
     },
     {
       "album": {
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 227680,
       "name": "Chutes & Ladders",
       "url": "https://open.spotify.com/track/4AgbKeOdczajIBLNayi1Gm"
@@ -2629,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "Darkeve Duet",
+        "url": "https://open.spotify.com/album/6WM3Z6CTp6vaLQibDHhvnb"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        },
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197834,
+      "name": "Darkeve Duet",
+      "url": "https://open.spotify.com/track/2zQGLaMQxHFiNtwu2WWeEl"
+    },
+    {
+      "album": {
         "name": "Darling This Isn't",
         "url": "https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0"
       },
@@ -2932,7 +2990,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 264362,
       "name": "Didn't Want to Have to Do It",
       "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
@@ -3649,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0qtEjozoROwlRWWwpi56lc"
+      },
+      "artists": [
+        {
+          "name": "Glass Eyes",
+          "url": "https://open.spotify.com/artist/0jLoWvLMdM9aMF3Jksf4yp"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154350,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/48HCG45WdnOxucUmHhCbIp"
+    },
+    {
+      "album": {
         "name": "Everlasting Snow",
         "url": "https://open.spotify.com/album/6SxuqWQFQfAxq9Ucv6PUaS"
       },
@@ -3862,7 +3938,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 150531,
       "name": "Familiar Face",
       "url": "https://open.spotify.com/track/1tgv5EAivEwdfJiHvC6ZhZ"
@@ -4248,7 +4324,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 312613,
       "name": "Fool Me As Many Times As You Like",
       "url": "https://open.spotify.com/track/5qHKy3c40Ol2N80lEqQdHW"
@@ -4414,10 +4490,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 168890,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/1QdrHmhH2QfiyfqME61MTg"
+    },
+    {
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/6KyB6lDdoq97OmiQkPmXH3"
+      },
+      "artists": [
+        {
+          "name": "Laith",
+          "url": "https://open.spotify.com/artist/7I69Hf2YCyrMgIszyfyhXH"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Found the Time",
+      "url": "https://open.spotify.com/track/61RESMbaaexcSU0hIes4Q3"
     },
     {
       "album": {
@@ -4436,6 +4530,24 @@
       "duration_ms": 193526,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/5us0uyxr3qappFS77afK3n"
+    },
+    {
+      "album": {
+        "name": "Big in the USA",
+        "url": "https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY"
+      },
+      "artists": [
+        {
+          "name": "Kris Ulrich",
+          "url": "https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176141,
+      "name": "Friends on the Internet",
+      "url": "https://open.spotify.com/track/7aYKCCeORfNzrMOzPgPSdi"
     },
     {
       "album": {
@@ -5054,6 +5166,24 @@
       "duration_ms": 212027,
       "name": "Ha Ha",
       "url": "https://open.spotify.com/track/5moiK59CizbbCoVYoqD8ZS"
+    },
+    {
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/1acoc0Uxh9JCJYJ8Y27Ccv"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186091,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/5L73Iygol5SlRNAMZ5rSoy"
     },
     {
       "album": {
@@ -6041,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "Nothing Special",
+        "url": "https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM"
+      },
+      "artists": [
+        {
+          "name": "Will Sheff",
+          "url": "https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366396,
+      "name": "In The Thick Of It",
+      "url": "https://open.spotify.com/track/3jKm53mOmCum509Z0eOKT3"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/370N5kvwlAJ00bFXROxi50"
       },
@@ -6848,7 +6996,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 232027,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/3cObBGHbS7N4NVbzHJlQub"
@@ -7064,7 +7212,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 156000,
       "name": "Love Like A Fool",
       "url": "https://open.spotify.com/track/2cRfcqQsvEgmngPW3W1m8s"
@@ -7194,7 +7342,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 279853,
       "name": "Malina",
       "url": "https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W"
@@ -7688,7 +7836,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 183553,
       "name": "Moroccan Oranges",
       "url": "https://open.spotify.com/track/5RxC3UrqhQ1B3ld7jiOKbF"
@@ -7710,6 +7858,24 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7zFwRc3nSNDRVOPmA9szZD"
+      },
+      "artists": [
+        {
+          "name": "Steven van Betten",
+          "url": "https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv"
     },
     {
       "album": {
@@ -9093,6 +9259,24 @@
     },
     {
       "album": {
+        "name": "The Late Great Gold Dust",
+        "url": "https://open.spotify.com/album/7Cvs3WHr3bCwaV5Mloh6b5"
+      },
+      "artists": [
+        {
+          "name": "Gold Dust",
+          "url": "https://open.spotify.com/artist/2gMFCVbKNRDr7HxnSnWMZ8"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226942,
+      "name": "Proof of Life",
+      "url": "https://open.spotify.com/track/6lZFNwjvb5BXMoajkKn5ql"
+    },
+    {
+      "album": {
         "name": "Quiet Conversation",
         "url": "https://open.spotify.com/album/6WxQslCQx5PxOHeO774ltB"
       },
@@ -9421,6 +9605,24 @@
     },
     {
       "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz"
+      },
+      "artists": [
+        {
+          "name": "Anna St. Louis",
+          "url": "https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/2uvQiHBOvU0WW0eSEOakbl"
+    },
+    {
+      "album": {
         "name": "Sad Song",
         "url": "https://open.spotify.com/album/2rmP3SiGPJb7yyZMKX5O5a"
       },
@@ -9472,6 +9674,24 @@
       "duration_ms": 236826,
       "name": "Sage",
       "url": "https://open.spotify.com/track/5JI37pQfjXSXCk6GbFO8KQ"
+    },
+    {
+      "album": {
+        "name": "Sandy EP",
+        "url": "https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK"
+      },
+      "artists": [
+        {
+          "name": "Teal Peel",
+          "url": "https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235223,
+      "name": "Sandy",
+      "url": "https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU"
     },
     {
       "album": {
@@ -11324,7 +11544,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 258271,
       "name": "Tourist",
       "url": "https://open.spotify.com/track/0kUYoCE78GWDwGb0wT0YN7"
@@ -11382,6 +11602,24 @@
       "duration_ms": 241773,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/2q8zxeRrvQa8ZTnlcamkVO"
+    },
+    {
+      "album": {
+        "name": "Turning 24",
+        "url": "https://open.spotify.com/album/6VpJJdOSofUiQfNLzF2tAF"
+      },
+      "artists": [
+        {
+          "name": "Bella Porter",
+          "url": "https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Turning 24",
+      "url": "https://open.spotify.com/track/49XlmWANTT7MbbE2HTXiMn"
     },
     {
       "album": {
@@ -12012,7 +12250,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 199543,
       "name": "Whistle Blow",
       "url": "https://open.spotify.com/track/4T988JwKYSWEf36AsR2X8D"
@@ -12030,7 +12268,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 220036,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6EkgE3oGO4bLjmt2CFa9QW"
@@ -12322,6 +12560,24 @@
       "duration_ms": 141882,
       "name": "you make life a little better",
       "url": "https://open.spotify.com/track/1aNW9nydMLMKEhTozzZ9pV"
+    },
+    {
+      "album": {
+        "name": "You'd Like Me More",
+        "url": "https://open.spotify.com/album/2SJZIS9MFmKiIKZVNFFOqD"
+      },
+      "artists": [
+        {
+          "name": "Axel & Lolo",
+          "url": "https://open.spotify.com/artist/66uREfgVhvjUiK3RXcTAdq"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224744,
+      "name": "You'd Like Me More",
+      "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT"

@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "To the Bar",
+        "url": "https://open.spotify.com/album/7gychLTprJqJqVoJ3XIDtD"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152017,
+      "name": "To the Bar",
+      "url": "https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK"
+    },
+    {
+      "album": {
         "name": "Tomorrow Night",
         "url": "https://open.spotify.com/album/5kX5ndVvGLENyzn5zKFJCr"
       },

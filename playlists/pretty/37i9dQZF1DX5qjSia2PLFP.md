@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=38d777c33e67427b">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,232 likes - 81 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,248 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 6 | [DISS TRACK MAYBE](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [DISS TRACK MAYBE](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
 | 7 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 |
 | 8 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 |
-| 9 | [Not A Day Goes By](https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lucas Quinn](https://open.spotify.com/artist/3KIXRVWH1NBILtatrHkeTT) | [Not A Day Goes By](https://open.spotify.com/album/5lwFE3fWZrkZnk01civeL4) | 2:25 |
+| 9 | [Not A Day Goes By](https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lucas Quinn](https://open.spotify.com/artist/4p9HbO0IA37MfvZLRdAOWS) | [Not A Day Goes By](https://open.spotify.com/album/5lwFE3fWZrkZnk01civeL4) | 2:25 |
 | 10 | [She Da Baddest](https://open.spotify.com/track/5y8q501o2YAvbK3V54yMc1) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [She Da Baddest](https://open.spotify.com/album/4NIIPHjJ3EJA3XMgtddTAq) | 2:19 |
 | 11 | [Cracchead Chic](https://open.spotify.com/track/2Tur9NvjOAeunBuifKWIjX) | [Yoko Chanel](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Cracchead Chic](https://open.spotify.com/album/6HsAs94REwKiOweSpC6W9n) | 3:16 |
 | 12 | [IFWU](https://open.spotify.com/track/7y78y7yXwVnsw3Dh4oYxUX) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [IFWU](https://open.spotify.com/album/2TjTwZJpkyUR35Z2i0giPS) | 2:32 |

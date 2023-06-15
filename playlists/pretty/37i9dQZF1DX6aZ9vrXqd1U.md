@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,904 likes - 127 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,985 likes - 127 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 57 | [明日へ](https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:18 |
 | 58 | [MAGIC](https://open.spotify.com/track/2mSrfjmPtLLsROCmqzjceV) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/4MPUghtsFa9IEJSoViVL9j) | 4:45 |
 | 59 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 |
-| 60 | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 |
+| 60 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 |
 | 61 | [FIND THE WAY](https://open.spotify.com/track/6mj3XXPRbBXUPG2yynVWO3) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [LOVE](https://open.spotify.com/album/1h4Lf9DpKDdO8gNSmedtht) | 5:26 |
 | 62 | [Evergreen](https://open.spotify.com/track/6CkNrJGdibswnhcEjEyfIJ) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/10S8wzzcriaKK86Ea04XOb) | 4:52 |
 | 63 | [Mr\. Lonely Heart](https://open.spotify.com/track/6L9oh9TvIuNP8v8gO0yVoE) | [Haruna Yokota](https://open.spotify.com/artist/1sP7Vt8N9rAE9KzLXHBsfh) | [Mr\. Lonely Heart](https://open.spotify.com/album/7H3Y2MUkOsvlHZq9AVRX1C) | 4:53 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 67 | [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 |
 | 68 | [BLAZING](https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Linkage Ring](https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE) | 3:55 |
 | 69 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 |
-| 70 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 |
+| 70 | [Kimi wo Mitsumete \-The time I'm seeing you\-](https://open.spotify.com/track/5HadYBJYIzaqxxrIEyPpS3) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Kimi wo Mitsumete \- The time I'm seeing you\-](https://open.spotify.com/album/2wXUyRN798oGDFYvynJxPW) | 4:36 |
 | 71 | [Believe](https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 3:54 |
 | 72 | [BROKEN MIRROR](https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EMBRACE](https://open.spotify.com/album/0hbSoP9XsJKWshAbUH9rKG) | 6:20 |
 | 73 | [Black stars](https://open.spotify.com/track/2gQ60rwqTxbsCmYoB0lFiq) | [東野純直](https://open.spotify.com/artist/4QIC8bQUoHTgJrlEqoBm0W) | [Black stars](https://open.spotify.com/album/65HIXno1RLhm6UOgyu5Pj7) | 4:31 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 82 | [AFTER ALL](https://open.spotify.com/track/1sL49SqeRgfUxvVjP5Bm65) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/7kZY7Et5C6TFM21t9Z4W43) | 4:15 |
 | 83 | [Toi Kioku](https://open.spotify.com/track/7D9OcT1srZnAIW1rI4kAYZ) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Toi Kioku](https://open.spotify.com/album/29VSyq9u2D3j1R1shmlc8V) | 4:14 |
 | 84 | [vestige \-ヴェスティージ\-](https://open.spotify.com/track/3HP9BI6rFPO41uSNVnTnjv) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [CLOUD NINE](https://open.spotify.com/album/6TSLuI1wZYcXkpQcymNWjW) | 5:24 |
-| 85 | [こんなもんじゃない!](https://open.spotify.com/track/2Mu9fQW1cw7Dh9wmLyJV2o) | [Shoichiro Hirata](https://open.spotify.com/artist/6mqQmt5cpLJNo7UD48Gy7E) | [こんなもんじゃない!](https://open.spotify.com/album/2YcXRIHwMNsENqRMbebRGI) | 4:11 |
-| 86 | [WINNERS FOREVER \~勝利者よ\~](https://open.spotify.com/track/04wlalTBq1NVUKShbyNGnw) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER \~勝利者よ\~](https://open.spotify.com/album/73ED2FQiqPDkIl1poyGUCu) | 3:44 |
-| 87 | [STAND UP TO THE VICTORY \~トゥ・ザ・ヴィクトリー\~](https://open.spotify.com/track/4T81RNowuPk5LNXKAYs6fo) | [川添智久](https://open.spotify.com/artist/14yIpuKNGdFM87fiaKd0RT) | [STAND UP TO THE VICTORY \~トゥ・ザ・ヴィクトリー\~](https://open.spotify.com/album/5p87iECgoz6gPa8sicNRNe) | 4:35 |
+| 85 | [Konnamonjanai!](https://open.spotify.com/track/0xS3OLnaXWCkYz2EwMtPXe) | [Shoichiro Hirata](https://open.spotify.com/artist/6mqQmt5cpLJNo7UD48Gy7E) | [Konnamonjanai!](https://open.spotify.com/album/5yUOHFHQryOMNVHzJN33cz) | 4:11 |
+| 86 | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/track/10Ut2frwiawvm9PviuikNi) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/album/0aFfO1ufGHdqu8cLD063lA) | 3:44 |
+| 87 | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/track/4H8Gnxc2UAzw7BVcZPJxR7) | [Tomohisa Kawazoe](https://open.spotify.com/artist/3BO6d3Nf4KuNeolA5f2N6P) | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/album/0HrbtaAUY8zVKupEhY799D) | 4:35 |
 | 88 | [Don't Stop!Carry On!](https://open.spotify.com/track/3cSciHvHIvOVtXGezkRd1M) | [RD](https://open.spotify.com/artist/4g7EG9jvj6IkGitrD2i5uH) | [Don't Stop!Carry On!](https://open.spotify.com/album/7FaNRsZ6CM8TVjQaKlKxCw) | 3:30 |
 | 89 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [結城梨沙](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 |
 | 90 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCxjM2U1OTM1Y2E2NWMyZDRjZjM3Yjg1Njc2NDhlMjYzMTRmMzZhN2I4`
+Snapshot ID: `MCw3NzM3ZGRlZDUyOWM2ZWIwMWFmYzc2MmY5ODkzYjgyMDllZjk2MWM1`

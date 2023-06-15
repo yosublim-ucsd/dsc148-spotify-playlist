@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Gondwana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,067 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,205 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Sunshine](https://open.spotify.com/track/2zkqFq1OCZ8iHvyqY585v8) | [King Magneto](https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Aleix P Macau](https://open.spotify.com/artist/1KKsrzeiDQTtCgWAHfFSiM) | [Sunshine](https://open.spotify.com/album/1luiHxTvu4zHLCrG3VhP1E) | 4:40 |
 | 100 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 
-Snapshot ID: `MCwwZWM3ZjZjNzc1M2FlZGZkODJhM2M4NjM2MWVhZTE0YTM0NzY3OWI0`
+Snapshot ID: `MCw2MDVhYTk4M2IyNWI5ODZhNDU0NGEyMDU4YmM1NTQxMTE5MTc5MjUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,107 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,102 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 |
 | 100 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 |
 
-Snapshot ID: `MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5`
+Snapshot ID: `MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk`

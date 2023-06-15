@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from J Hus & Drake, Sam Smith & Madonna, Shawn Mendes, and Jayda G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,736 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,749 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 55 | [Bathroom Floor](https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Bathroom Floor](https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY) | 2:32 |
 | 56 | [Bombalaya](https://open.spotify.com/track/2OKQztsDJX7b95lwD9b6H4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z) | [Bombalaya](https://open.spotify.com/album/7I8SrpEoby7Z9PsbbA8jep) | 2:44 |
-| 57 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen / Kill Something](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 |
+| 57 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 |
 | 58 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 |
 | 59 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
-| 60 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 60 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 61 | [My Ghost](https://open.spotify.com/track/36I3zoyOK2pbpakqesPj4U) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [My Ghost](https://open.spotify.com/album/29dxQsVeXwOEh5dHzKHfT4) | 3:09 |
 | 62 | [Pagh Naal](https://open.spotify.com/track/6gNkDo7iwR79fl8EG72i74) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Pagh Naal](https://open.spotify.com/album/3VudxbVwS4PbBK2ipAWtzf) | 2:42 |
 | 63 | [Milk & Honey](https://open.spotify.com/track/1SJFHy930Kjk7xuDMQbHB9) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo, Act 1](https://open.spotify.com/album/3HXcAoK3kdP0KkKFf4l9vQ) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 |
 | 100 | [BLANK THEORY](https://open.spotify.com/track/6zatInfujFU47Xy80BR71I) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [BLANK THEORY](https://open.spotify.com/album/1OUS1oS2ryvAG6l7klwUci) | 3:15 |
 
-Snapshot ID: `MCw2OTFjMWY0ZDQ2MmUzNDY4YjlhMmE5YTk3NzU3OTBlYzU5MGQzODYw`
+Snapshot ID: `MCxiMDUzZWQ0YjE4ZWRiMzQwMWI5MDgzMmE1ODJmOGJjZGZkMjA3ZjJl`

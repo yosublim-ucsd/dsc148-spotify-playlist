@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,495 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,589 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 |
 | 100 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 |
 
-Snapshot ID: `MCxmMjdiYWQ2NTkxOWRjYmI0ODNiYzI1NDkyNzliY2U5YmEzNGU5OGFk`
+Snapshot ID: `MCw2MGIzMGU2MDUxZmFhYTQ4MzNjZjIyODIyMTQ1NTJiZWU3Zjk0ZTQ1`

@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Alagbon Close",
+        "url": "https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021840,
+      "name": "Alagbon Close",
+      "url": "https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM"
+    },
+    {
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 50197,
       "name": "Bonito Intro",
       "url": "https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw"
@@ -1518,6 +1536,24 @@
       "duration_ms": 221466,
       "name": "Family Tree (Intro)",
       "url": "https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE"
+    },
+    {
+      "album": {
+        "name": "Fear Not For Man",
+        "url": "https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 854333,
+      "name": "Fear Not For Man",
+      "url": "https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6"
     },
     {
       "album": {
@@ -3643,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "Sorrow Tears and Blood",
+        "url": "https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615906,
+      "name": "Sorrow Tears and Blood",
+      "url": "https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh"
+    },
+    {
+      "album": {
         "name": "Control System",
         "url": "https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW"
       },
@@ -4122,7 +4176,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 295201,
       "name": "The Grants",
       "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
@@ -4672,7 +4726,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

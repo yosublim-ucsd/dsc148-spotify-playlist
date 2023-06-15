@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,312 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,719 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 |
 | 100 | [London Chimes](https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters: The Greatest Hits](https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ) | 4:11 |
 
-Snapshot ID: `MCwxNmI3NTkxZGM3ZGFjOWMzY2UwZWU2YzY3NjkxYmE5YjQ0YTQyZmM2`
+Snapshot ID: `MCwyYTY5NmQzOWU1ZmM5NWRkNzkzZThmM2UzODhhMzYwMWYwNDEyMGQ1`

@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-165 songs - 8 hr 54 min
+166 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 | 2023-04-11 |  |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2023-02-09 |  |
 | [The Moon Song \- Studio Version Duet](https://open.spotify.com/track/6E0YEPzjMvUymYOvmDIgp4) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 3:05 | 2023-04-11 | 2023-05-17 |
-| [The Sling](https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Sling](https://open.spotify.com/album/3a9mlAey1BcxzcQadfuFs6) | 3:33 | 2023-05-12 |  |
+| [The Sling](https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Sling](https://open.spotify.com/album/3a9mlAey1BcxzcQadfuFs6) | 3:33 | 2023-05-12 | 2023-06-15 |
+| [The Sling](https://open.spotify.com/track/6SEHTEHmNtZ7Y1927AVuHv) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:33 | 2023-05-12 |  |
 | [The Structure](https://open.spotify.com/track/6nOKw3Ru2vnDetFnFTqWPH) | [Plas Teg](https://open.spotify.com/artist/7DfLOst9EGAaBbtoyrUxTu) | [Latch Relay](https://open.spotify.com/album/7BVF7TAhJX4bJDG4MjKONr) | 3:26 | 2023-02-09 |  |
 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 | 2023-04-11 |  |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2023-02-09 | 2023-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,473 likes - 133 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,541 likes - 133 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 132 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 |
 | 133 | [Analog Dialog](https://open.spotify.com/track/2qy7njw5MSmj4S8XWaRTFB) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [David Chazam](https://open.spotify.com/artist/49nkdr5SwbOV8xD1tp2SGH) | [Eclektronics](https://open.spotify.com/album/0MKKKbaTDi0jNo5i9hXjko) | 4:43 |
 
-Snapshot ID: `MCw5ZjM5MzQzYTRlZjUzYjkzZGFmOWNmOWU2YjJjOTg0OTg4MWQ5Yzgx`
+Snapshot ID: `MCw5YWE1OWI3MzE2ZWU2YzdmY2I3ZjU0ZGMxZWJiOTc5MjE4MjE0Yzgy`

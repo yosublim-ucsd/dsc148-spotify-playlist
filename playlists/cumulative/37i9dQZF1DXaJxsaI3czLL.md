@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-235 songs - 16 hr 29 min
+236 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-07 | 2023-04-19 |
 | [Hann kemur í kvöld](https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann kemur í kvöld](https://open.spotify.com/album/3bEKyiLUiaG3KUQ4ruMUHz) | 5:44 | 2023-03-07 | 2023-03-09 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-12 | 2023-01-25 |
+| [Hateshinai Koi no Uta](https://open.spotify.com/track/6RJ6OS0pSVgZGJTsOxv64N) | [Masashi Sada](https://open.spotify.com/artist/0hoYZWflKchdSXPXfCRVRO) | [Natsukashii Mirai](https://open.spotify.com/album/2naTYY1GyA23zrTRQaoSEA) | 3:21 | 2023-06-13 |  |
 | [hello](https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w) | 4:00 | 2022-10-20 | 2023-05-24 |
 | [Hello](https://open.spotify.com/track/716pITbP6dlORCMFiuxuF9) | [あんどうえりか](https://open.spotify.com/artist/2kGL5RB3qWLSeEpXGcLk44) | [Hello](https://open.spotify.com/album/4LNuGUcAjcGSHV53NdsyRS) | 4:09 | 2023-05-30 |  |
 | [Hibi no Tezawari](https://open.spotify.com/track/6ViBB1UJ6YTeIAbKR3KPRu) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hibi no Tezawari](https://open.spotify.com/album/2M9nbcQSeIYQbis8zj48Xz) | 4:30 | 2022-10-20 | 2022-11-02 |
@@ -158,7 +159,7 @@
 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 | 2022-10-20 |  |
 | [のうぜんかつら \- リプライズ](https://open.spotify.com/track/1UoH4VvLD0w5UP2rvFnlwY) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [センチメンタルデイズ 〜Limited Collection〜](https://open.spotify.com/album/0T4mCTBql1ROLLNJCFYtoK) | 3:09 | 2023-04-18 | 2023-05-24 |
 | [はだかのゆめ](https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:45 | 2022-11-29 | 2022-12-01 |
-| [はてしない恋の歌](https://open.spotify.com/track/6JjF700glSVpcoZm1mbByd) | [Masashi Sada](https://open.spotify.com/artist/0hoYZWflKchdSXPXfCRVRO) | [なつかしい未来](https://open.spotify.com/album/2tMCuXtJVD22DUrRLBulMl) | 3:21 | 2023-06-13 |  |
+| [はてしない恋の歌](https://open.spotify.com/track/6JjF700glSVpcoZm1mbByd) | [Masashi Sada](https://open.spotify.com/artist/0hoYZWflKchdSXPXfCRVRO) | [なつかしい未来](https://open.spotify.com/album/2tMCuXtJVD22DUrRLBulMl) | 3:21 | 2023-06-13 | 2023-06-15 |
 | [ひかた](https://open.spotify.com/track/6rFg2CDmG8KxHI71s1IDrT) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Views Of Panorama](https://open.spotify.com/album/7LfrUAduV7tTDYLj2Cdrgl) | 4:00 | 2022-10-20 | 2022-10-26 |
 | [ひこうき雲](https://open.spotify.com/track/0gIhgkpl3928E1WftvXXKo) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Sounds From The Den EP vol.3: City Pop Covers](https://open.spotify.com/album/2jRhiaMsbvRa3S4FTLBVZa) | 3:58 | 2022-11-01 | 2022-11-23 |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 |  |

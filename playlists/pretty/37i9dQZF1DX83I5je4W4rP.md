@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,403 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,543 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 |
 | 125 | [Bag of Bones](https://open.spotify.com/track/1FfQK0wO6PTWWSQwHas548) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Surfer Girl](https://open.spotify.com/album/1Slm6YYhhL1HMQh8P4eUDI) | 3:58 |
 
-Snapshot ID: `MCw0OGZjYmFiNTJhY2ZlMDIxYmI1ZWJlYzZjN2RmYzMxOThiNzE5MWI5`
+Snapshot ID: `MCxkYmQ3MzhhYzA3ODQ0YjYyZmI4ZjY2MjM0ZWNmZjQ2OTZmYTkwNzRk`

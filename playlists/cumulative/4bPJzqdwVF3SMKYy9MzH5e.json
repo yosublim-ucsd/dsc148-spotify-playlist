@@ -32611,6 +32611,24 @@
     },
     {
       "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224179,
+      "name": "Woohoo",
+      "url": "https://open.spotify.com/track/10nd0tq8g3fFpCM4hkgHFR"
+    },
+    {
+      "album": {
         "name": "Hi, It's Me",
         "url": "https://open.spotify.com/album/5eKuModdAdZRmc51241r4D"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,555 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,782 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 |
 | 100 | [Leave It Alone](https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Leave It Alone](https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2) | 2:51 |
 
-Snapshot ID: `MCw0ZDU2MzhlNzQ5OWI5MzljYzA1NGFhNTNhYTRiNGUwMzQ2NjcxNzQ5`
+Snapshot ID: `MCwwM2YzNGMwYTAzOWY3YTkxM2ZhZDQwOGVkMjc3YzliNDNhZWYyMTc1`

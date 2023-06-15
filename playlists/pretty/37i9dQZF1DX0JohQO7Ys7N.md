@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,659 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,741 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Ecstasy](https://open.spotify.com/track/14UFNgoMLPrQ9MXA8NrBBo) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 3:25 |
 | 60 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 |
 
-Snapshot ID: `MCwzZDdhMjlhZGZkY2UwMDkwYjZiMjc3YzkwOGYzN2JlZmVkNDdiODc3`
+Snapshot ID: `MCw4OThlNjgwYzY0ZjQzYzA4MGYzNDI0MDYzYTM3ZjhiOTM5ZjcyNjI5`

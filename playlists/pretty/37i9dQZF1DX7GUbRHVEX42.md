@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,328 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,417 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
 | 70 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/3d4915A5zEWBfi1dbDDbWS) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/3TBmA9ViKmFCyfNbDdJqrh) | 4:18 |
 
-Snapshot ID: `MCxhZGJkMTNiMjU4MTM2ODc2NTQxNmNlZThjOGNhZjBlZGM0YjdjMWJh`
+Snapshot ID: `MCxjM2E5Njk4MTM3MTEyZjYzN2E5NWIwYmJhOWI3YmYyNWI1NTQyMDFm`

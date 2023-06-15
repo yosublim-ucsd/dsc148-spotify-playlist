@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosalía e muito mais!
 
-6,612 songs - 14 day 2 hr 51 min
+6,613 songs - 14 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [A Culpada Não Sou Eu](https://open.spotify.com/track/2aPOuAPN1EUIKxt7k1Da2F) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [A Culpada Não Sou Eu](https://open.spotify.com/album/3JN1tPWXfPsXymGp6ucwKe) | 3:33 | 2022-11-18 | 2022-11-26 |
 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 | 2022-11-25 | 2022-12-03 |
 | [A Dança da Favela \(Baila Vini\)](https://open.spotify.com/track/0ZKVnSKyRU4RSFO7bKwqMw) | [Arlindinho](https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [A Dança da Favela \(Baila Vini\)](https://open.spotify.com/album/0OzKLMgsfMjfPGi7xAig4f) | 2:48 | 2022-11-18 | 2022-11-26 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-09 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-09 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-09 |  |
 | [A Divina Comédia 2](https://open.spotify.com/track/6YhXnVP8iOuM35xhYtQsJh) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG) | [A Divina Comédia 2](https://open.spotify.com/album/6ZM4rPGDfHvQIQfoAT681H) | 5:19 | 2022-05-13 | 2022-05-20 |
 | [A Dona Da Minha Raiva \- Ao Vivo](https://open.spotify.com/track/1HTB1j7yR1DhZJTSkyvexw) | [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [A Dona Da Minha Raiva \(Ao Vivo\)](https://open.spotify.com/album/0N9SLo5srIn2ZdWy8AVfos) | 2:40 | 2023-04-21 | 2023-04-29 |
 | [A Farra Vem Até Mim \- Ao Vivo](https://open.spotify.com/track/6xNWGVPWyGq1qkosHphq6d) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [A Farra Vem Até Mim \(Ao Vivo\)](https://open.spotify.com/album/5XTGipvVarq6OZZYPlLIOQ) | 2:35 | 2022-12-02 | 2022-12-10 |

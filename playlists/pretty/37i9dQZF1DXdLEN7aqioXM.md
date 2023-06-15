@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,016 likes - 150 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,276 likes - 150 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [The Last Day \- Remastered](https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV) | [Midnight Danger](https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4) | [The Singles\. Remastered.](https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW) | 4:49 |
 | 150 | [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 |
 
-Snapshot ID: `MCxkM2Y2NmU4NmYyNDU4ZmMxYmEyZjZiM2Q0ZWMwNTc0YWVmY2Q2ZGQy`
+Snapshot ID: `MCwwZjdmNzU3MzM1MWNlYjU5ZmY2OGVhNTNjNGRjZWFjYjNiNzY2ODE4`

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Dr\. Romantic\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 낭만닥터 김사부\)
 
-643 songs - 1 day 15 hr 1 min
+644 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 | 2022-11-03 | 2023-01-27 |
 | [Confession Day](https://open.spotify.com/track/3KZxUY5gGYzZ1W1NPe5Mbm) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/0qVi4BPXJOzdx5Ye9f9dGi) | 3:53 | 2023-06-02 |  |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-03-22 | 2022-06-10 |
+| [CRYSTAL](https://open.spotify.com/track/6VXPpUHYoUB0AKqaCfGDab) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4LpNKe2zsutC6fGGEMf6fj) | 3:52 | 2023-06-14 |  |
 | [Crystal Castle](https://open.spotify.com/track/5xLjJJPy9sNh51Qtkgzakw) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [The Empire \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/7zZSpcmkXXjuDLNyGOlBmo) | 4:07 | 2022-11-03 | 2023-01-27 |
 | [Curious \(Back to You X DAYBREAK, YUKIKA\)](https://open.spotify.com/track/6igvYG3mvEZ41JiOD9bkbg) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Curious \(Back to You X DAYBREAK, YUKIKA\)](https://open.spotify.com/album/6oyMIbahP6DDHppJDJ2uCh) | 2:57 | 2021-12-19 | 2022-02-17 |
 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 | 2023-02-09 |  |

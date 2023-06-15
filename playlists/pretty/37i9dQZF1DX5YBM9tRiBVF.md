@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:4YGchyGbwAekTbhOxczQqM">Noa  Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,078 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 2 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 | 3 | [Kleine Tornado](https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [Kaat Thijs](https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK) | [Kleine Tornado](https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV) | 3:22 |
 | 4 | [l'âge que je n'ai pas](https://open.spotify.com/track/2AkbtbqusECWksUYslkpeq) | [Chérine](https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM) | [l'âge que je n'ai pas](https://open.spotify.com/album/0cEWzsgzixyywaFeCLIZZ0) | 2:41 |
-| 5 | [Better Now](https://open.spotify.com/track/7tHed0Qv8vmgOL86G3CSbw) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Better Now](https://open.spotify.com/album/47sgufDLhmWYgyoOa2pzvx) | 2:35 |
-| 6 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
-| 7 | [Toujours plus](https://open.spotify.com/track/2T6AFVcoW0pEb0ya1y6j9A) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Tôt ou tard](https://open.spotify.com/album/0iOKfkoOs509vC0nI3MBsr) | 3:00 |
-| 8 | [Débranché](https://open.spotify.com/track/49BWwhWk6FNLNqREIjjwUC) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [Débranché](https://open.spotify.com/album/6RpILOVQ7daZkB3BHq7UVz) | 2:53 |
-| 9 | [Feestje In M'n Hoofd](https://open.spotify.com/track/3D1iCpT794LMAn77isXGr0) | [Tinne Oltmans](https://open.spotify.com/artist/0X1OM24THI0h4jXIaSZvGF) | [Feestje In M'n Hoofd](https://open.spotify.com/album/3TdtUd9ITlB7KFmw8Pxtyp) | 2:41 |
-| 10 | [BAD ain't that BAD](https://open.spotify.com/track/7p8NtALa4YVWYp6L4uY8uI) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [BAD ain't that BAD](https://open.spotify.com/album/0Oq26PuMKLWkoK0GdrHDCX) | 2:39 |
+| 5 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
+| 6 | [Toujours plus](https://open.spotify.com/track/2T6AFVcoW0pEb0ya1y6j9A) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Tôt ou tard](https://open.spotify.com/album/0iOKfkoOs509vC0nI3MBsr) | 3:00 |
+| 7 | [Débranché](https://open.spotify.com/track/49BWwhWk6FNLNqREIjjwUC) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [Débranché](https://open.spotify.com/album/6RpILOVQ7daZkB3BHq7UVz) | 2:53 |
+| 8 | [Feestje In M'n Hoofd](https://open.spotify.com/track/3D1iCpT794LMAn77isXGr0) | [Tinne Oltmans](https://open.spotify.com/artist/0X1OM24THI0h4jXIaSZvGF) | [Feestje In M'n Hoofd](https://open.spotify.com/album/3TdtUd9ITlB7KFmw8Pxtyp) | 2:41 |
+| 9 | [BAD ain't that BAD](https://open.spotify.com/track/7p8NtALa4YVWYp6L4uY8uI) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [BAD ain't that BAD](https://open.spotify.com/album/0Oq26PuMKLWkoK0GdrHDCX) | 2:39 |
+| 10 | [Better Now](https://open.spotify.com/track/7tHed0Qv8vmgOL86G3CSbw) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Better Now](https://open.spotify.com/album/47sgufDLhmWYgyoOa2pzvx) | 2:35 |
 | 11 | [Pretty Planet](https://open.spotify.com/track/0jPp4BNVqGPNrQLfdRbSJM) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Pretty Planet](https://open.spotify.com/album/2K4OyekT39ZgR4OOZR14Is) | 3:26 |
 | 12 | [Not my kind of dude](https://open.spotify.com/track/1rV36pEKgGtcvMp99P5qRv) | [Essyla](https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81) | [Not my kind of dude](https://open.spotify.com/album/4a0YNyE3DqmNjMmNZsNMDd) | 2:23 |
 | 13 | [Cider and Aspirins](https://open.spotify.com/track/47S9ckoQqvuE9jJwARkhCe) | [REINES](https://open.spotify.com/artist/06j5Bp2EMwRzu6j9nYdPF2) | [Cider and Aspirins](https://open.spotify.com/album/0nRmFf5VS4dBnBtCz5qCOr) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 49 | [High Anxiety](https://open.spotify.com/track/4tn6jE0Zz45alOjx8UnNJV) | [Annabel Lee](https://open.spotify.com/artist/6wsXRptmqxSeGElfXrlsAn) | [High Anxiety](https://open.spotify.com/album/5nYVmOfcKUAZAaImveZ8b0) | 3:48 |
 | 50 | [Something French](https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:38 |
 
-Snapshot ID: `MCw2YmM0NDRjNDJiOWZiZDgxMTgxMzM2NWZhMTJkODFjMjgxZGRiYjY1`
+Snapshot ID: `MCxmMWVkOGFjMWY1OTMyYzViNWU1NTViYmYyMWVmMjM5N2Q0MTQ3NDFl`

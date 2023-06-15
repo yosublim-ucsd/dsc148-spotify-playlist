@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,745 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,817 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Christmas Time Is Here](https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt) | [U3](https://open.spotify.com/artist/5ovgMXlBdlYdEZ2mQDqOU9), [Cynthia Lin](https://open.spotify.com/artist/4daaUucayZ59b8C4Hea47M), [Ukulenny](https://open.spotify.com/artist/5ZFFIbdDrRvXXgGeRnOANp), [Abe Lagrimas, Jr.](https://open.spotify.com/artist/2YrcT6uG6wP88zpSZd7gwt) | [Christmas Time Is Here](https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr) | 3:29 |
 | 150 | [Begin Again](https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:49 |
 
-Snapshot ID: `MCwyZGZmZGRiZmQyYmQzZjY0YmQ2MDJlYzg3Mzg3MWUzZTkyM2YwYzFh`
+Snapshot ID: `MCwzNzAzNGFkYTAwYWJhMmM4ODg0YjJmMjZhZjAyNDZjMTcxNWJlZTAx`

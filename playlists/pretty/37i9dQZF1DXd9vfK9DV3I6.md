@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,225 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,464 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 |
 | 100 | [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 |
 
-Snapshot ID: `MCw4YjdkZmRjMDkzMmExZTc1OTgxMGVhYTk2OTQyZGU4YTRlZmUxMTc5`
+Snapshot ID: `MCxlYzgzZTRkYjVmOGUxZWFkMmI5M2E5YzY2ZWFmYTUwMGRhNjdjY2M1`

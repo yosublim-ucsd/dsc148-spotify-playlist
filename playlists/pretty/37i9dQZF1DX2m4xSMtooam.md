@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,328 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,574 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 |
 | 150 | [Scintilla](https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Scintilla](https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP) | 2:34 |
 
-Snapshot ID: `MCw2M2JlZjhhYjg1M2EwMjExZjg2ZTA5NzgzODk4ZjNjNTZmMjM1NDEx`
+Snapshot ID: `MCw2NThiMjQzMzdkNTk4ZmZkMzE2NDgxNzY4MWIzZmIzYWIzZTA4MzM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,776 likes - 300 songs - 18 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,772 likes - 300 songs - 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 299 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 |
 | 300 | [The Very Thought Of You](https://open.spotify.com/track/6kFK16v4TcZK6KFfca5aMw) | [Best Jazz Quartet](https://open.spotify.com/artist/4GdQHzIr5TLdjSBeLvSJNz) | [The More I See You](https://open.spotify.com/album/5p4G6qfKL7b5m5dCGbTe7g) | 6:24 |
 
-Snapshot ID: `MCwyNjNjMjJjYTA3OGY2MTM4MGE3ZGFmOGRjMjE3N2Y2NjU5M2QyZWRm`
+Snapshot ID: `MCxkMDJkOTUyYzBhYzg4ZTE0NzFjNzM5ZGEwMTg5YWE1NTIyMTgyNTE2`

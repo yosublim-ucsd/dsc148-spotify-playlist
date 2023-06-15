@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: The Glorious Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,139 likes - 107 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,137 likes - 107 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 5 | [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 |
 | 6 | [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 |
 | 7 | [Rainbows in Gasoline](https://open.spotify.com/track/5D6noDDEoUGX6Pe1Wtneqz) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Heavy Lifting](https://open.spotify.com/album/3MReBaspFGH0BwbFb3yb0w) | 4:23 |
-| 8 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen / Kill Something](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 |
+| 8 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 |
 | 9 | [babyblue](https://open.spotify.com/track/67ztyOudH194R7PeZ5d65W) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [babyblue](https://open.spotify.com/album/6N4ApFi1cWFKm5125UVj06) | 3:05 |
 | 10 | [It Is What It Is](https://open.spotify.com/track/4KHXKEpgVYlc879c3l7Lc8) | [Doghouse Rose](https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa) | [It Is What It Is](https://open.spotify.com/album/0thVe9pmX6KuIIUb6IZWoK) | 2:09 |
 | 11 | [Vasectomia](https://open.spotify.com/track/3OgX2LraomT3dZzYWMQOs0) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Vasectomia](https://open.spotify.com/album/0T57Qcq4quqh1JnxRW9lcR) | 1:50 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 106 | [Qaigi](https://open.spotify.com/track/7nEu161pDcPeVCtl7K4Tab) | [Terry Uyarak](https://open.spotify.com/artist/3KEdNe4qRXyOjwxjnxkIkh), [Avery Keenainak](https://open.spotify.com/artist/4NTHtl1zps3k7OE6ufRzrx) | [Qaigi](https://open.spotify.com/album/1KQCDnSRfwIQ1jv5ZaBfmT) | 3:36 |
 | 107 | [Constant Weekend](https://open.spotify.com/track/5P1Kc5r3Hi56ZqjKxdPOiP) | [Chris Koster](https://open.spotify.com/artist/0jGicjq2ARnSTnXmldMqR2) | [Constant Weekend](https://open.spotify.com/album/4eiPOwiImeFrgviqGN8qMp) | 3:14 |
 
-Snapshot ID: `MCw1NjY4MjU3Zjg4NGQ0YTZhYjQ3YjY0YTc0OTIxNzFlN2ZhMzdhNTNk`
+Snapshot ID: `MCw3MmVmN2U5NWNlMWU4YWE4YWExN2Q5MzM3ZjBjODIzM2EwMmMxNTc1`

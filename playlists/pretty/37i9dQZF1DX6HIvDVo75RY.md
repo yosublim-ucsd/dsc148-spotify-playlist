@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Coming to Nashville for CMA Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,069 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

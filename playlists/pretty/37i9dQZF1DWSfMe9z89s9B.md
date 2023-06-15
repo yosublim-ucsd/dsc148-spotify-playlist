@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: BLK ODYSSY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384,887 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,008 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 |
 | 150 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 |
 
-Snapshot ID: `MCxiN2E4ZmIyZWEwMWJhYjcxMWU2ZjI2ZmYwNDNmZGVkNzNmNjhjOWE0`
+Snapshot ID: `MCwzNjM0YjE4NjMyMWUzMWRmOWQ5ZDc2MmY3ZGIwY2I3NzViYmM1NjVl`

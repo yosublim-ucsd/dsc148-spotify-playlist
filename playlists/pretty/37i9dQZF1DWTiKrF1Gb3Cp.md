@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,705 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,755 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 | 100 | [México Lindo y Bandido \- Remix Dj Migue Soria \(Banda Sonora de la Película: "Los Jefes"\)](https://open.spotify.com/track/5lqxSDQ03I3pUxCVZq50q4) | [E\. Davalos](https://open.spotify.com/artist/12IZ7qlSBXBKqvxE6QYp70), [R\. Rodriguez](https://open.spotify.com/artist/3JNfocZPUOqSkazQBQKFCt), [M\. Soria](https://open.spotify.com/artist/5nZ7iv3dWZVqeRUDP4ty6I) | [Los Jefes \(Banda Sonora de la Película\)](https://open.spotify.com/album/2R4W5sM64HVW2Dqmb9Owck) | 4:07 |
 
-Snapshot ID: `MCxiNDcxNTc4MDI3MzE2YWJhMDc5MmRmMzk1YjY5YWQ2MjVhNGM5MWU1`
+Snapshot ID: `MCxlZjQzMDZjOWIyZDc5ZDZkYjZiOWQ1YWY5NGVhNTY0Yjg5NDFlM2U3`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Bruses en portada\. 🌊✨
+> ¡La Gen 23 está aquí! La nueva ola de artistas con Bruses en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,491 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,733 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 75 | [Loco](https://open.spotify.com/track/0IXqjQvowN9xWG8TKLiLR3) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Loco](https://open.spotify.com/album/7hIQwYkwVkG0gGfi8g8WvF) | 3:01 |
 
-Snapshot ID: `MCwzZTZjNDA1OTRmYjUwOGVmMzQzZWFkM2M4NjE1Y2M4OTg5ZThjZjkz`
+Snapshot ID: `MCwzNWU3ZDI0NjkxYWIwZmE2YTkzNGU2N2JjMjZiZjQ3NWE2MjkzODg1`

@@ -25397,6 +25397,24 @@
     },
     {
       "album": {
+        "name": "You Don't Think About That",
+        "url": "https://open.spotify.com/album/2PVvvh1EzO5n100VaLssxV"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "You Don't Think About That",
+      "url": "https://open.spotify.com/track/0C3gJc8asV8o0sgZtmXLCA"
+    },
+    {
+      "album": {
         "name": "Hope It's Hot Out...Again - EP",
         "url": "https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz"
       },
@@ -25408,7 +25426,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 203333,
       "name": "You Don't Think About That",
       "url": "https://open.spotify.com/track/2gAoR2HsZ2nV0YWcR38gHa"

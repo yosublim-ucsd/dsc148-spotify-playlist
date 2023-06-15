@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: P1Harmony",
+  "description": "Future K-Pop hits! Cover: VAV",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -3380,6 +3380,24 @@
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
+    },
+    {
+      "album": {
+        "name": "Subconscious",
+        "url": "https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ"
+      },
+      "artists": [
+        {
+          "name": "VAV",
+          "url": "https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4j6eC1fspkLNV3Owy24oYA"
     },
     {
       "album": {
@@ -15280,7 +15298,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 154194,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,071 likes - 500 songs - 1 day 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,174 likes - 500 songs - 1 day 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 499 | [Morning Break](https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Morning Break](https://open.spotify.com/album/00e4qwtnnNFvjW6aNurKFa) | 3:23 |
 | 500 | [Bidin My Time](https://open.spotify.com/track/20bB0bptCjNdqQR6tL6knD) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:03 |
 
-Snapshot ID: `MCwyZTAzYzRkODEzOTA1NzJmNDQwNDAzMmI4OWExYTc1MDEzZGExYWNi`
+Snapshot ID: `MCxmNDY1N2M1ZDMyOTVmNDllOTBiYjY0MGI4MjE2MDhjMGUwNTg4N2Ix`

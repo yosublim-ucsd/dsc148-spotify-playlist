@@ -694,10 +694,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 235879,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/0M2eMO26HAl7OS8Ifp6JOz"
+    },
+    {
+      "album": {
+        "name": "CollXtion II",
+        "url": "https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237164,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0XXkQk83TjaGoPndxWLHKr"
     },
     {
       "album": {

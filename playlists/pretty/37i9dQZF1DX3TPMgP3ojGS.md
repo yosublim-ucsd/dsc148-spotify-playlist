@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,281 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,423 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Periferi](https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Periferi](https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca) | 2:24 |
 | 100 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 
-Snapshot ID: `MCxmMDI5N2RlMGRmYmE3ZTViOTQ3MGZkNjIzYzY1MDNmMDEwYmZiN2Fk`
+Snapshot ID: `MCw0ZjUzNDI2MGVjODYxMTgxYzUzOTk5NGNmMzI3MTE2ODc0MTYxMTMy`

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-781 songs - 2 day 0 hr 24 min
+782 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 | 2022-10-25 |  |
 | [rush](https://open.spotify.com/track/0nwExdohc2fbpAyAXr0udo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [衣](https://open.spotify.com/album/4WkdCPzpqwvJWQS5jTTDHR) | 4:32 | 2023-03-09 | 2023-03-15 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-03 | 2022-09-07 |
+| [Saki e](https://open.spotify.com/track/77mbaz4zACMQYNxg0suF8h) | [RYUTO KASAHARA](https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz) | [Saki e](https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs) | 4:10 | 2023-06-13 |  |
 | [Sapphire \- Holy Muscle Remix](https://open.spotify.com/track/4spLZfpGNZERQ4dNqIGdrk) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Holy Muscle](https://open.spotify.com/artist/64cewrunqhi3A76o1pcQMT) | [Outer Ego \(Deluxe Edition\)](https://open.spotify.com/album/5PvZB11e1EfFSVAFHjqESB) | 6:29 | 2022-09-13 | 2022-10-21 |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 | 2022-09-02 |
 | [Save Me Tonight](https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/3obgU7GXmEVH1YzAdHIToZ) | 3:15 | 2022-11-24 | 2022-11-26 |
@@ -692,7 +693,7 @@
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-08-09 | 2022-10-05 |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-21 |
-| [先へ](https://open.spotify.com/track/5qZ8VSgbxIS2lAuUNOwiHP) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [先へ](https://open.spotify.com/album/1b0VsTDMtv7f0E6rZgltXo) | 4:10 | 2023-06-13 |  |
+| [先へ](https://open.spotify.com/track/5qZ8VSgbxIS2lAuUNOwiHP) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [先へ](https://open.spotify.com/album/1b0VsTDMtv7f0E6rZgltXo) | 4:10 | 2023-06-13 | 2023-06-15 |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-02 | 2023-02-01 |
 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 | 2023-01-27 |

@@ -1,12 +1,12 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain](/playlists/plain/37i9dQZF1DWVu3lAQuOIjU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVu3lAQuOIjU)
 
-### [Heard You: The Wellness Wave](https://open.spotify.com/playlist/37i9dQZF1DWVu3lAQuOIjU)
+### [Heard You: Black Music Month](https://open.spotify.com/playlist/37i9dQZF1DWVu3lAQuOIjU)
 
-> Introducing the Frequency Wellness Wave.
+> In honor of Black Music Month, Heard You is diving into the historical impact of our culture on American music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,561 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,560 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxmNDY2MzE4ODRjODI2MDAyNjUyZWIzY2Y5OTg2YWRhYTI2ODMwNjA4`
+Snapshot ID: `MCwwMzEwZDkyZGExYzYyNTIzODg4N2U1ODk4ZDQ5NmZiZDllZDlhNTdm`

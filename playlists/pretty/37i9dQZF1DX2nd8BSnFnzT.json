@@ -1,12 +1,12 @@
 {
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Hevo 84",
-  "num_followers": 350953,
+  "num_followers": 350952,
   "original_name": "P\u00e1tria Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjI5ZTM0NTVmNTM3NWY5MWJjMDg3ZTAzZjlkMGY3MzQ2MTk2M2Nl",
+  "snapshot_id": "MCw3NWU3ZjlhZGQ5ZWMwNzE1YmM3NTIyZjZmMzMwY2Y0OTJiN2YyYTYx",
   "tracks": [
     {
       "added_at": "2023-06-02 03:01:00",
@@ -238,6 +238,10 @@
         {
           "name": "Rog\u00e9rio Skylab",
           "url": "https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
         }
       ],
       "duration_ms": 529751,

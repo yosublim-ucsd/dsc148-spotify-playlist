@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from The Drums.
 
-1,024 songs - 2 day 7 hr 40 min
+1,025 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Bottom of the Ocean](https://open.spotify.com/track/2aZd0oQUnICyk3KYFbBaW1) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 3:41 | 2022-04-29 | 2022-11-17 |
 | [boundary issues](https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the second ep](https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501) | 3:14 | 2021-10-02 | 2022-04-29 |
 | [boxysoxy](https://open.spotify.com/track/6DcALE029s14ahdYNY1u15) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [boxysoxy](https://open.spotify.com/album/3IBhLnG6pQNUdj4mlswWbL) | 3:10 | 2023-04-21 | 2023-05-20 |
-| [Boy](https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Boy](https://open.spotify.com/album/2qBJLDN7ESadifGtdEUsY9) | 3:11 | 2023-04-07 |  |
+| [Boy](https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Boy](https://open.spotify.com/album/2qBJLDN7ESadifGtdEUsY9) | 3:11 | 2023-04-07 | 2023-06-15 |
 | [BOYFRIEND KILLER](https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [BOYFRIEND KILLER](https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM) | 3:14 | 2021-06-14 | 2022-04-29 |
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-19 | 2022-06-11 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-25 | 2022-06-11 |
@@ -341,6 +341,7 @@
 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 | 2022-06-25 | 2022-10-15 |
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-01 | 2022-10-01 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-06-25 |
+| [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-14 |  |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-02 | 2022-01-17 |
 | [FIGHT](https://open.spotify.com/track/5wDk6k9GPgqZ3mpn0JVzHE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [FIGHT](https://open.spotify.com/album/51bglOUVDdHtaQCSwQw9Vg) | 3:32 | 2022-05-20 | 2022-07-23 |
 | [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 | 2022-08-26 | 2022-10-13 |

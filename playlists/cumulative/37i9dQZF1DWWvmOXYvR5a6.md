@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: BLOO\(블루\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-620 songs - 1 day 9 hr 41 min
+621 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 | 2022-04-01 |  |
 | [Black Raspberry](https://open.spotify.com/track/7qCvgdH5SUiPFAEQAEDfYb) | [Holynn](https://open.spotify.com/artist/7A1q1Vwym8cB1eU5PpgOVP) | [NOW YOU SEE ME](https://open.spotify.com/album/2hJn4HmX53DhPMyHUtUOn3) | 3:12 | 2023-02-15 | 2023-02-25 |
 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 | 2022-05-05 | 2022-07-27 |
-| [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-31 |  |
+| [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-31 | 2023-06-15 |
 | [Blink \(Feat\. Reddy\) \(Prod\. PATEKO\)](https://open.spotify.com/track/1OAClVF6RGn4WhLf1dPkBD) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:59 | 2022-04-01 | 2022-07-20 |
 | [BLUE](https://open.spotify.com/track/0IPwPBdilB2M6sdr9MA5BK) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [BLUE](https://open.spotify.com/album/5IMgzDMHVHTihgT5DO8ure) | 2:28 | 2023-01-10 | 2023-01-26 |
 | [Blue Dream \(feat\. jeebanoff\)](https://open.spotify.com/track/1IgbfeNsJ53v3erHCPiVPd) | [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE), [HRDR](https://open.spotify.com/artist/4MnUg5KTHF78ooiHoqT0RQ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Blue Dream \(feat\. jeebanoff\)](https://open.spotify.com/album/1MioSGyZuQ08T6vSQa6dIi) | 4:00 | 2022-04-21 | 2022-07-26 |
@@ -503,6 +503,7 @@
 | [So What](https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9) | [전현재](https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv) | [Beautiful Struggles](https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg) | 3:08 | 2022-12-26 | 2023-01-11 |
 | [SO WHAT \(feat\. Benzamin\)](https://open.spotify.com/track/616namACNtpqiBK29kgaDV) | [plusNONE](https://open.spotify.com/artist/6Rxno1qKhluurvawF1JVtr), [Father Pocket](https://open.spotify.com/artist/1hS88rTVFPwUThhfDXEE4s), [Benzamin](https://open.spotify.com/artist/0MfEPnKo5ZZ1KFyCPe68yJ) | [PREVIEW \- plusNONE](https://open.spotify.com/album/0mv9HXhq7wB0kcNYexp6l2) | 3:49 | 2022-04-21 | 2022-07-26 |
 | [Someday \(Feat\. SOLE\) \(Prod\. Padi\)](https://open.spotify.com/track/6NfUyAbEcC2Le5KSeXRZ7G) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:46 | 2022-05-05 | 2022-07-29 |
+| [Someone On You \(Feat\. Kid Wine\)](https://open.spotify.com/track/5yYpA3IqmJjZqMSwVy5nNU) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 2:56 | 2023-06-13 |  |
 | [Sometimes](https://open.spotify.com/track/7zbSWhM41T0ne9XtKPYoVD) | [Flaiboitrap](https://open.spotify.com/artist/0vNY03hYuSfkX9UVEtZDQ7), [YUMIN](https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i) | [Sometimes](https://open.spotify.com/album/5CKVX8zuu99jVvwgqeMZ24) | 2:42 | 2022-12-13 | 2022-12-20 |
 | [sorrow](https://open.spotify.com/track/1hNBjCXjtrkK4fUoaYFN9T) | [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [sorrow](https://open.spotify.com/album/20m0KAu9a5hHvginzcsg61) | 3:05 | 2022-04-01 | 2022-06-14 |
 | [Spacetime](https://open.spotify.com/track/4QogPJfnO1pZWwJ0cbwFJE) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Spacetime & So What](https://open.spotify.com/album/7vyDXiK6jN41QVSKWTrroQ) | 3:16 | 2022-04-21 | 2022-07-18 |

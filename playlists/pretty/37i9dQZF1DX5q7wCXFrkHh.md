@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,481 likes - 100 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,560 likes - 100 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Blind Man, Blind Man \- Remastered](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 100 | [The Windup](https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Belonging](https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv) | 8:22 |
 
-Snapshot ID: `MCwzNDRlZWFjYWU1MjBhM2JlZGQ4ZDdkMTVlYzI5M2E3OWFkNzFjZjNm`
+Snapshot ID: `MCwyNjA1NzJkYzhhMDI2OGFiYzU0YzI2NGViYjM3ZTM1YmJjYWQ1MGZj`

@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Casuleando",
+        "url": "https://open.spotify.com/album/7khhD5JnWZdfL9EyojuAvJ"
+      },
+      "artists": [
+        {
+          "name": "Bandzoos",
+          "url": "https://open.spotify.com/artist/1YD9AYA0G7uZRKf4d1FR2P"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218801,
+      "name": "Casuleando",
+      "url": "https://open.spotify.com/track/7kcO2IMw2x7c6MuQMLjrJo"
+    },
+    {
+      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/3GkSqAGbkhfOz6Jt4Qg0gT"
       },
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/6GMM7NCrUvlm2HoC1KT6Bz"
@@ -6576,6 +6594,24 @@
       "duration_ms": 171903,
       "name": "Goyard",
       "url": "https://open.spotify.com/track/25ICfOmRvjFnoQuqlDqs8r"
+    },
+    {
+      "album": {
+        "name": "Grotti",
+        "url": "https://open.spotify.com/album/2o9VwiHvAMqR901xeWL1un"
+      },
+      "artists": [
+        {
+          "name": "Bandzoos",
+          "url": "https://open.spotify.com/artist/1YD9AYA0G7uZRKf4d1FR2P"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137258,
+      "name": "Grotti",
+      "url": "https://open.spotify.com/track/67BhbehOwDIda5vsLLalZC"
     },
     {
       "album": {
@@ -16208,7 +16244,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 84804,
       "name": "Sonido de Grillo para dormir - 2",
       "url": "https://open.spotify.com/track/5IEHwWZqTYOjKkyaPY6137"
@@ -17062,7 +17098,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 166112,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/4ttZu0M9IUDvstN9sFPTbs"
@@ -18472,6 +18508,24 @@
       "duration_ms": 210535,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/14uatjtUxCp76wlN5qtWEj"
+    },
+    {
+      "album": {
+        "name": "Walk Up",
+        "url": "https://open.spotify.com/album/3ikDcyr0whpkkyV9DP1aVb"
+      },
+      "artists": [
+        {
+          "name": "Bandzoos",
+          "url": "https://open.spotify.com/artist/1YD9AYA0G7uZRKf4d1FR2P"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137732,
+      "name": "Walk Up",
+      "url": "https://open.spotify.com/track/6EoISisazlpsTBNBITsw3v"
     },
     {
       "album": {

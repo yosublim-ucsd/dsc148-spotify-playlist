@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! DYSTINCT
 
-1,651 songs - 3 day 15 hr 13 min
+1,652 songs - 3 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-06-01 | 2023-06-09 |
 | [A Brand New Day](https://open.spotify.com/track/5LL8Q95glEwoWxkYdJMOaf) | [Ezra Veda](https://open.spotify.com/artist/4flBtK8GbKmqQStO5GbecX) | [A Brand New Day](https://open.spotify.com/album/44WjR8plQVO1L9251xUgMj) | 4:18 | 2023-03-02 | 2023-03-10 |
 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-27 | 2023-05-05 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-09 |  |
 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 | 2023-04-06 | 2023-04-14 |
 | [A Little Something](https://open.spotify.com/track/72l9Gr8CmCYcGNnm9kp985) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF) | [A Little Something](https://open.spotify.com/album/1Le4bnNKNrlBFUAXAM1ItE) | 2:37 | 2023-04-27 | 2023-05-05 |
 | [A man like You](https://open.spotify.com/track/4k1Cvps72QNA2tFBYOF0qu) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [OC34N](https://open.spotify.com/artist/0ssAciYOdqrZjjhohpbSNu) | [A man like You](https://open.spotify.com/album/5slaPuWnLZrdFv0y8iQBKL) | 2:08 | 2023-04-06 | 2023-04-14 |

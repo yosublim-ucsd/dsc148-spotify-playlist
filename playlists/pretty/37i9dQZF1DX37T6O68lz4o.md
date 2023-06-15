@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: Khary
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,654 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Comin For Everything](https://open.spotify.com/track/7to8qOcM0StbJDVigToMsP) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Comin For Everything](https://open.spotify.com/album/6CfKGkjbBJMQUWFcPDEYFV) | 3:25 |
 | 2 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
-| 3 | [Made A Decision](https://open.spotify.com/track/6JmdKCVq2g7y0Nah0KYxxe) | [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Made A Decision](https://open.spotify.com/album/64jze3lvKUlNf2sFWWneBJ) | 2:31 |
+| 3 | [Made A Decision](https://open.spotify.com/track/1CEr4L8GKfefYkEOsT8CsT) | [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Made A Decision](https://open.spotify.com/album/7yAB3eF3vpVgCO4VxXjTes) | 2:31 |
 | 4 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 | 5 | [Dance The Night Away](https://open.spotify.com/track/1uL078ydocn8Qem2NiWFF5) | [Jae Lynx](https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN) | [Dance The Night Away](https://open.spotify.com/album/0o07OaY8nhZrP1rVnyrKwC) | 1:55 |
 | 6 | [Coat Hanger](https://open.spotify.com/track/5uZsVB4E34HdORdxFQ6QS5) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Coat Hanger](https://open.spotify.com/album/1SGR3mh7RFvON6buXUTe7S) | 1:49 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 34 | [Feds Listenin'](https://open.spotify.com/track/2edpmPcnYBD4kpxzYWTJCw) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [Al Divino](https://open.spotify.com/artist/5jyagx5BZME4APq93Q1HwZ), [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 4:04 |
 | 35 | [Nobody Else](https://open.spotify.com/track/42GQNRreA17dEBYxevJtpJ) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE) | [Nobody Else](https://open.spotify.com/album/1TS9pgjqXFmnk5qruolOUi) | 2:17 |
 | 36 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
-| 37 | [MMM](https://open.spotify.com/track/7CDkBYPgUXIArjTHbhWh5v) | [Meech](https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g) | [28](https://open.spotify.com/album/0IDJP7NDfpAjaVvFgK4y0d) | 2:45 |
+| 37 | [MMM](https://open.spotify.com/track/5x9yr0CuJ8vehs8MTeWCsI) | [Meech](https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g) | [28](https://open.spotify.com/album/3gmC4DRiPxDLbwHWFpLcAE) | 2:45 |
 | 38 | [21 \(rushed\)](https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [21 \(rushed\)](https://open.spotify.com/album/4zeD7Bmtq6sCiAhyiYOkop) | 1:46 |
 | 39 | [Find Peace](https://open.spotify.com/track/200WboHOBS14RFJIV0xQ89) | [Krew$](https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz) | [Find Peace](https://open.spotify.com/album/2z7NgbXAthMAeBxVhhDfkb) | 1:52 |
 | 40 | [Temptation](https://open.spotify.com/track/2nPNF9EBN0Lg2GXw7M9Kq2) | [Donald Grunge](https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH) | [Temptation](https://open.spotify.com/album/5rF7sW5ds1ZbV3686lTgvc) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
 | 50 | [think too much \- remix](https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe) | [Oompa](https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU), [Teysin B](https://open.spotify.com/artist/4VYECZYRGjfnopriDWVNvD) | [think too much \- remix](https://open.spotify.com/album/3rsVEe0uRRO8317WtXkIkI) | 3:13 |
 
-Snapshot ID: `MCwzZDJiYjI1ZjAyMjcyODE0MDgxYmVlNjRjOWVmODlhYzA1NzQyOWQx`
+Snapshot ID: `MCwyMWJkMDlhNGFkMGU3ZTg1NjU0NjYwNDhhM2JlYzQ4NjFmNTQyNDM3`

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,585 songs - 2 day 22 hr 37 min
+1,592 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Cadeques](https://open.spotify.com/track/4Be9pGAhN2aR1PTefJJX51) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Cadeques](https://open.spotify.com/album/4mSsoEQzC6aRFjVsjQbC7r) | 2:52 | 2021-03-24 | 2021-09-24 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-01-26 | 2023-01-18 |
 | [Calm At Last](https://open.spotify.com/track/1cpsFVBA63bmSjNIhLGvhF) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Calm At Last](https://open.spotify.com/album/6Zqt1z1JPfVCz3lSC2KrtK) | 2:58 | 2019-05-26\* | 2019-12-04 |
+| [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-06-13 |  |
 | [Can´t Help Smiling](https://open.spotify.com/track/2iVPty0FBstGSURghngIgo) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 2:44 | 2021-01-26 | 2021-03-09 |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-05-06 | 2021-09-24 |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2021-10-01 | 2021-10-27 |
@@ -318,6 +319,7 @@
 | [Decor](https://open.spotify.com/track/21NiRGKct0YHE8wA7XXtmi) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Decor](https://open.spotify.com/album/00JVC2TaTfUyLe43XMxjz0) | 2:39 | 2022-10-03 | 2022-12-21 |
 | [Decor](https://open.spotify.com/track/798dMbomgbBMCgcLHXoHSe) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Night Owl](https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k) | 2:39 | 2022-12-20 | 2023-01-14 |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2021-02-09 | 2021-07-01 |
+| [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 | 2023-06-13 |  |
 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-20 |  |
 | [Deliquescence](https://open.spotify.com/track/26Bz99v8NoOOUXYfkVR4Tw) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Deliquescence](https://open.spotify.com/album/7jXsZmBCvgUe8Dbd6gfbbR) | 2:46 | 2020-11-17 | 2021-06-24 |
 | [Den första snön](https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Den första snön](https://open.spotify.com/album/134iaeUz9GxbTtG272YDkv) | 3:23 | 2019-11-19 | 2020-12-08 |
@@ -553,6 +555,7 @@
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2021-04-22 | 2022-08-27 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2021-11-17 | 2023-03-14 |
 | [Human](https://open.spotify.com/track/3xSMHqImMckctNyDwbc6dy) | [Leyton Stills](https://open.spotify.com/artist/3l92unFN6V13msGRVZZQwE) | [Human](https://open.spotify.com/album/6AaAowUpbHG5fkBpHpAGis) | 1:44 | 2019-07-11 | 2020-10-13 |
+| [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-13 |  |
 | [Hush Now](https://open.spotify.com/track/2sKfTPqN7GLhTybpl8AxFd) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 1:49 | 2019-05-26\* | 2020-06-02 |
 | [Hvaležni](https://open.spotify.com/track/5WMk136o7hpTMaFh1UeLz9) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Hvaležni](https://open.spotify.com/album/4wzC7DTYF8Bw6IqgUsmWVd) | 2:03 | 2019-07-25 | 2021-04-28 |
 | [Hymn](https://open.spotify.com/track/68MFyn8QAEd9DknwOj4E9n) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Hymn](https://open.spotify.com/album/2LMgrkLAH33GhIH5EQd6bq) | 2:05 | 2019-07-25 | 2020-04-07 |
@@ -715,6 +718,7 @@
 | [Les Etudes](https://open.spotify.com/track/57YVVhWcChlS42r0EmA9aT) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Les Etudes](https://open.spotify.com/album/20xAiDerOnti3f8MWMmpg7) | 1:45 | 2019-10-04 | 2020-12-15 |
 | [Les malentendus](https://open.spotify.com/track/4zS5Vlq0AaQTjNpOX9AcaQ) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Soirées sans toi](https://open.spotify.com/album/2jr93PoNSOId5WOYxIJtgJ) | 5:10 | 2020-03-31 | 2020-06-09 |
 | [Les Nouveaux Riches](https://open.spotify.com/track/3FLBEqzjKi91wq2mbrX4VP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Les Nouveaux Riches](https://open.spotify.com/album/4ikvzIFgTJvx0cjXsOhoCP) | 4:49 | 2019-05-26\* | 2019-10-04 |
+| [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-13 |  |
 | [Letting Go](https://open.spotify.com/track/2aLgFG14lYLiV8YYziZI7Q) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Letting Go](https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr) | 3:01 | 2022-05-12 |  |
 | [Liberations \(Scaled Down Version\)](https://open.spotify.com/track/3tBSK5WCWFTa5SZ5uelB4P) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:22 | 2019-05-26\* | 2019-11-12 |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2021-12-08 | 2023-05-10 |
@@ -828,6 +832,7 @@
 | [Mirno](https://open.spotify.com/track/7oEbJXeTbSSWBNVr0RHRgM) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Mirno](https://open.spotify.com/album/2PirqRPTKXiYVOBLgzeZ1m) | 2:01 | 2020-12-01 | 2022-05-13 |
 | [Mirror Song](https://open.spotify.com/track/5Z6pY8kv0bYE72QKBYes0s) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Mirror Song](https://open.spotify.com/album/3L25gHwm471Vec1YrXysmp) | 3:35 | 2021-03-31 | 2022-04-23 |
 | [Misli na tebe](https://open.spotify.com/track/33dahwAOW1V1quRlxh1Ffp) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Misli na tebe](https://open.spotify.com/album/3PEQD0rAwurBJiYIiT1OLx) | 1:53 | 2019-07-17 | 2020-05-19 |
+| [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 | 2023-06-13 |  |
 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 | 2022-09-23 |  |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-06-10 | 2022-09-13 |
 | [Modena](https://open.spotify.com/track/3iEbunxqmwNPKpuleXc3GD) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:19 | 2020-08-04 | 2021-11-11 |
@@ -1134,6 +1139,7 @@
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2019-06-13 | 2020-09-28 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2020-04-28 | 2021-03-31 |
 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-05-04 |  |
+| [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-13 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2021-05-12 | 2022-07-16 |
 | [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-07-28 |  |
 | [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2020-06-02 | 2020-11-10 |
@@ -1245,6 +1251,7 @@
 | [Songe \(Debut\)](https://open.spotify.com/track/4wlotUQTBQRc005LhYpJkN) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK), [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Songe](https://open.spotify.com/album/2Kq7643R4QZ1GN8VVJ5pfE) | 3:11 | 2019-05-26\* | 2020-03-17 |
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-02-09 | 2022-09-24 |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2021-02-24 | 2022-05-13 |
+| [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-13 |  |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2019-05-26\* | 2019-10-04 |
 | [Sous La Surface](https://open.spotify.com/track/2thjkJYDib3bBieR81IkNK) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Sous La Surface](https://open.spotify.com/album/2OomOxIuCWudeJUSjjjysM) | 4:09 | 2020-09-15 | 2020-09-22 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > All your favorite Disney Hits, including songs from The Little Mermaid.
 
-165 songs - 8 hr 18 min
+166 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 | 2022-04-01 |  |
 | [Stand Out](https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 3:00 | 2022-04-01 |  |
 | [Start of Something New \- Nini Version](https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 1:41 | 2022-04-01 |  |
+| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-06-14 |  |
 | [Strangers Like Me](https://open.spotify.com/track/3E99KpWAcYEnj64e86y6u9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan Original Soundtrack](https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM) | 3:00 | 2022-04-01 | 2022-07-29 |
 | [Strangers Like Me \- From "Tarzan"/Soundtrack Version](https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:59 | 2022-07-22 |  |
 | [Supercalifragilisticexpialidocious \- From "Mary Poppins" Soundtrack](https://open.spotify.com/track/5cvzqk8wsmLA9P7LrZCRb2) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [The Pearlie Chorus](https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 2:02 | 2022-07-22 |  |

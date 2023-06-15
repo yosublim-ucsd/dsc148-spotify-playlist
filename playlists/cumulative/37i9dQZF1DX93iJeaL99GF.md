@@ -2,7 +2,7 @@
 
 ### [Legends of Indie India](https://open.spotify.com/playlist/37i9dQZF1DX93iJeaL99GF)
 
-> Prominent Indian independent music creators\. Cover \- Raghu Dixit
+> Prominent Indian independent music creators\. Cover \- Lucky Ali
 
 40 songs - 3 hr 27 min
 

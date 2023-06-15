@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,276 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,359 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 |
 | 100 | [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 |
 
-Snapshot ID: `MCwxMTczMTc0N2QwNDc5ZjI0MjNjYTczMTQ3ZmMyYmUzNzA4ZjY1Njg2`
+Snapshot ID: `MCwxMDE5MjNkYWQyMDE5NzMxM2MyMzgxNWE4YWY1ZjlhMGMyMTkxM2E3`

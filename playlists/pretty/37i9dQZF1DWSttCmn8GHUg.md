@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,239 likes - 104 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,327 likes - 104 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 103 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 104 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MCxjNjYwNGU3M2Y5OTQyNzM1MjgxM2FmOTg0ZTdlMmY2MDA2YmU4NDMy`
+Snapshot ID: `MCwxZjhmZmYzYTVhMDNiYTMzYTQ5NTExZTA3NjFiZTJiZjlhODQxMTM3`

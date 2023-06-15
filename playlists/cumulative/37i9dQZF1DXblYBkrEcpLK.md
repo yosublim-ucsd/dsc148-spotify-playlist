@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 美少女戦士セーラームーン\(Pretty Guardian Sailor Moon\) ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-438 songs - 1 day 5 hr 55 min
+440 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 | 2023-01-10 | 2023-02-15 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-12 | 2023-04-14 |
 | [Destiny Sky](https://open.spotify.com/track/6ZrUo8yKzHwTxFnL1ujuEr) | [若井 友希](https://open.spotify.com/artist/73JD6yDn5gO4yjoeAOmbwV) | [Destiny Sky](https://open.spotify.com/album/5n5KwJPFtcQVdzErwkuiMZ) | 5:13 | 2022-06-12 | 2022-06-15 |
+| [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 |  |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-09 | 2022-07-29 |
 | [DONUT](https://open.spotify.com/track/3wW8vRIGlHd8AEWFGI62bT) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [SHiENA](https://open.spotify.com/album/1Y1WeX2E8wOiCtMidUcFzx) | 4:52 | 2022-06-14 | 2022-07-23 |
 | [Dream hopper](https://open.spotify.com/track/3pQZD8Wry7hk60Z5fiXTFi) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Dream hopper](https://open.spotify.com/album/55dB5EJl6C5S6Ls1K8RmsI) | 4:18 | 2022-06-14 | 2022-07-24 |
@@ -128,6 +129,7 @@
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |
 | [narrow](https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:52 | 2022-06-09 | 2022-07-27 |
+| [New Genesis \- From CrosSing](https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk) | [Natsuyoshi Yuko](https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq), [Matsuoka Misato](https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL) | [New Genesis \- From CrosSing](https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc) | 3:47 | 2023-06-13 |  |
 | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/track/6PshiiQYhJ1CcqNQ9dEml5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/album/1FC23UCOGmieycsP29GrVn) | 4:38 | 2022-06-21 | 2022-07-28 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 | 2022-11-20 |
 | [No Pain, Not to be Strong](https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(勘解由小路無花果\)](https://open.spotify.com/artist/3pKwnUM4f6ufAgOL5nA4PL) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:20 | 2023-04-13 | 2023-06-09 |
@@ -385,7 +387,7 @@
 | [愛・おぼえていますか\(40th Anniversary DeCulture Edition\)](https://open.spotify.com/track/7lIWhGanbPOQrO8eYSMZ2T) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq), [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS), [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [マクロス40周年記念超時空コラボアルバム「デカルチャー!!ミクスチャー!!!!!」](https://open.spotify.com/album/1rNpAX20ZbZqsPQmjZmwCu) | 6:45 | 2022-06-14 | 2022-07-28 |
 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 | 2022-07-28 |  |
 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 | 2023-04-11 | 2023-05-10 |
-| [新時代 \- from CrosSing](https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq) | [夏吉ゆうこ](https://open.spotify.com/artist/3gEhlBxOMT0wSTJ2noou7B), [松岡美里](https://open.spotify.com/artist/27esoqFTkcU7B0wpLyrocy) | [新時代 \- from CrosSing](https://open.spotify.com/album/17N3YZzGjy4LWrM9NhPmut) | 3:47 | 2023-06-13 |  |
+| [新時代 \- from CrosSing](https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq) | [夏吉ゆうこ](https://open.spotify.com/artist/3gEhlBxOMT0wSTJ2noou7B), [松岡美里](https://open.spotify.com/artist/27esoqFTkcU7B0wpLyrocy) | [新時代 \- from CrosSing](https://open.spotify.com/album/17N3YZzGjy4LWrM9NhPmut) | 3:47 | 2023-06-13 | 2023-06-15 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 |  |
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 |  |
@@ -435,7 +437,7 @@
 | [逆転のレジーナ](https://open.spotify.com/track/4yhKU3ArP1N9TXO1O3kEiu) | [Little Black Dress](https://open.spotify.com/artist/0rrUSORQ2b4EReKZhB3U9P) | [逆転のレジーナ](https://open.spotify.com/album/1i0yIkcdoEPhRk2gxpWvT7) | 3:20 | 2022-06-09 | 2022-06-13 |
 | [透明シンガー](https://open.spotify.com/track/4P9DbhVv54fNieI3DJkFw1) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [透明シンガー](https://open.spotify.com/album/73yWqC1fwnccaD2Xw2Wen7) | 2:55 | 2022-06-21 | 2022-06-24 |
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 | 2023-04-12 |
-| [金剛石ヒューマン](https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [金剛石ヒューマン](https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM) | 4:09 | 2023-06-13 |  |
+| [金剛石ヒューマン](https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [金剛石ヒューマン](https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM) | 4:09 | 2023-06-13 | 2023-06-15 |
 | [銀河鉄道999](https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia) | [Photon Maiden](https://open.spotify.com/artist/0CsTVU9j8C5nXwgIWyCjMm) | [D4DJ Groovy Mix カバートラックス \(vol.3\)](https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB) | 3:47 | 2022-06-12 | 2022-07-16 |
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-28 | 2023-03-10 |

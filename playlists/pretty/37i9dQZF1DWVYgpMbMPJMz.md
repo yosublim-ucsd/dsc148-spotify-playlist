@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8?si=rlupnhYqRJSXQ\_BpkEIGYg">Kristene DiMarco</a> and <a href="https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij?si=420690ca01c349f6">Sam McCabe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,303 likes - 100 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,506 likes - 100 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

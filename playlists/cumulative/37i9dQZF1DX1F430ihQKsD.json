@@ -1920,10 +1920,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 213499,
       "name": "Feu int\u00e9rieur",
       "url": "https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY"
+    },
+    {
+      "album": {
+        "name": "Feu int\u00e9rieur",
+        "url": "https://open.spotify.com/album/2dYTTaU4SALFxt6MFOgdZ9"
+      },
+      "artists": [
+        {
+          "name": "Hey Major",
+          "url": "https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213499,
+      "name": "Feu int\u00e9rieur",
+      "url": "https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ"
     },
     {
       "album": {

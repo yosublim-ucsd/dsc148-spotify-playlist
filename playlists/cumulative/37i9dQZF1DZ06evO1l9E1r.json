@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 71706,
       "name": "For Petra - Vocal Version",
       "url": "https://open.spotify.com/track/164WPXzLdWZ1q1D8CzD0gO"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 230719,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
@@ -1110,6 +1110,44 @@
       "duration_ms": 450226,
       "name": "Strokur",
       "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+    },
+    {
+      "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "\u00d3lafur Bj\u00f6rn \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/1jTZpfddWeBOCyzFh3kl6R"
+        },
+        {
+          "name": "Samuli Kosminen",
+          "url": "https://open.spotify.com/artist/4336HEyKCwnRI5JjGV8E00"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116147,
+      "name": "Task No. 1: The Scattering of Seeds",
+      "url": "https://open.spotify.com/track/4bgHaqNOXuZj2E7ZoLT3lA"
     },
     {
       "album": {

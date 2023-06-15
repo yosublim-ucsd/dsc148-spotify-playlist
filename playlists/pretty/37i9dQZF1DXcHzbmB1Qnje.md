@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHzbmB1Qnje.md) - [plain]
 
 > Continuous white noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 273 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 273 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

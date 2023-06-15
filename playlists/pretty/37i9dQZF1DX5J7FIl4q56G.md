@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Extreme
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,414 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,486 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [The Art of Dispute](https://open.spotify.com/track/5VTfmdBb9QJEej7FBcfkon) | [The Silenced](https://open.spotify.com/artist/0DZCezScbs2rnECvw7PEdY) | [The Art of Dispute](https://open.spotify.com/album/3CvEbevV6wmfqF74RE7NZl) | 4:15 |
 | 50 | [Street Trash](https://open.spotify.com/track/1qP2OWFLbP3CHJo5Se0kXB) | [Eight Sins](https://open.spotify.com/artist/5M7auDu0v1IOATDBxQVfIM) | [Street Trash](https://open.spotify.com/album/0MuYBRehP3E7fu9fDLjMdS) | 3:05 |
 
-Snapshot ID: `MCw1YzMzNTYxYWMzMDk5OTYxMjgzNTUyOGQzZTY1MWRmY2EwY2ExMmNm`
+Snapshot ID: `MCxlZWZiNTk4NGM3MWRjNjRiMjZkZjU2ZmJjNzhjNjM1ZGJlZjQ5NTg2`

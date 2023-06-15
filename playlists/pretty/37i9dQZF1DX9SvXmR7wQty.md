@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Miro
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,927 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,933 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 33 | [Halla](https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b) | 3:12 |
 | 34 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 |
 | 35 | [BBM](https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BBM](https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ) | 2:59 |
-| 36 | [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 |
-| 37 | [Sosa](https://open.spotify.com/track/1qCRNHFdp6h3IETdTYE3CG) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:37 |
-| 38 | [Elastiqué](https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5) | [HD La Relève](https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Dieu, mes Frères et le Fer](https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY) | 2:44 |
+| 36 | [Sosa](https://open.spotify.com/track/1qCRNHFdp6h3IETdTYE3CG) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:37 |
+| 37 | [Elastiqué](https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5) | [HD La Relève](https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Dieu, mes Frères et le Fer](https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY) | 2:44 |
+| 38 | [J'avais besoin d'un père \- Bonus Track](https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [J'avais besoin d'un père \(Bonus Track\)](https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN) | 2:54 |
 | 39 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
-| 40 | [J'avais besoin d'un père \- Bonus Track](https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [J'avais besoin d'un père \(Bonus Track\)](https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN) | 2:54 |
-| 41 | [Les braisés](https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5) | [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN) | [Les braisés](https://open.spotify.com/album/3XJVVUPFnEJxb1bhe1nSQA) | 2:52 |
-| 42 | [Avant l'été](https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Années Sauvages](https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW) | 1:59 |
-| 43 | [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 |
-| 44 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
-| 45 | [Leila](https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 5:03 |
-| 46 | [Iggy Pop](https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Iggy Pop](https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF) | 2:48 |
-| 47 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
-| 48 | [On arrive demain \- Edit Single](https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [On arrive demain \(Extrait de la BO du film 'Pour l'honneur'\)](https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7) | 3:52 |
-| 49 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
-| 50 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
+| 40 | [Les braisés](https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5) | [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN) | [Les braisés](https://open.spotify.com/album/3XJVVUPFnEJxb1bhe1nSQA) | 2:52 |
+| 41 | [Avant l'été](https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Années Sauvages](https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW) | 1:59 |
+| 42 | [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 |
+| 43 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
+| 44 | [Leila](https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 5:03 |
+| 45 | [Iggy Pop](https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Iggy Pop](https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF) | 2:48 |
+| 46 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
+| 47 | [On arrive demain \- Edit Single](https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [On arrive demain \(Extrait de la BO du film 'Pour l'honneur'\)](https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7) | 3:52 |
+| 48 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
+| 49 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
+| 50 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 |
 
-Snapshot ID: `MCwzYjY0ZmMyMTcxMzBjYjE4NzRiZTc0YjM2ZmExNWU0ZWU0OTRjYjQy`
+Snapshot ID: `MCxkODgwYjVlMDQ1YWIwMDUyMjg5M2Y4YTI1NzdjMzZiYjY1OWU2YzBk`

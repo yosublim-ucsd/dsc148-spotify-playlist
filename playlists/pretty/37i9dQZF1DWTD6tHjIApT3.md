@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Chara
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,985 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,009 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 2 | [明日晴れるかな](https://open.spotify.com/track/39vwAWSRjy6YrG38a32Hoq) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [THE COVERS EP \(vol.2\)](https://open.spotify.com/album/5TkmleREO95qshHJFSOoe9) | 4:51 |
 | 3 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 4 | [ohhh!](https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [ohhh!](https://open.spotify.com/album/3D4Y8HjCtnKoSBeEhcXshA) | 3:40 |
-| 5 | [夜明けの君へ](https://open.spotify.com/track/09bITqmWyV9rIKcT6VHAey) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夜明けの君へ](https://open.spotify.com/album/47NSlsVJJByZSEvpimH9DY) | 3:59 |
+| 5 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 |
 | 6 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
-| 7 | [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 |
+| 7 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 |
 | 8 | [散る散る満ちる](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [散る散る満ちる](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 |
-| 9 | [PARA PARA](https://open.spotify.com/track/1YzmMIwRPMdg7K6R70xRtk) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/0Hu0UM5fv5YvWpRcFHyNrA) | 2:50 |
+| 9 | [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 |
 | 10 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 |
 | 11 | [Afterglow \- feat\. Nenashi](https://open.spotify.com/track/39I8cLedkfBP8YJp93JOxU) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Afterglow \(feat\. Nenashi\)](https://open.spotify.com/album/613jaD5wJ0ggN19H0ly3QB) | 2:57 |
 | 12 | [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 |
-| 13 | [Sushi](https://open.spotify.com/track/2XRhydIKlZHK4WGEiY5gBc) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Sushi](https://open.spotify.com/album/7IhzrH068HOPknSw8op7J6) | 4:01 |
+| 13 | [Sushi](https://open.spotify.com/track/4KByfOBYTBQDUL2PUYIReX) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Sushi](https://open.spotify.com/album/1lbXSY0grBxkYkO7KE1wHu) | 4:01 |
 | 14 | [回春](https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [回春](https://open.spotify.com/album/5Zr6Oy64wFgC0QbaGe2OPh) | 5:00 |
 | 15 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 |
 | 16 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 |
 | 17 | [Home](https://open.spotify.com/track/0Lcj5nyYX5CMyTTeZHsXjU) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Funtale](https://open.spotify.com/album/7Bm9pJkJp4uiNGBjgRsshB) | 3:45 |
 | 18 | [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 |
-| 19 | [かなしくないよ](https://open.spotify.com/track/2dUXOw1GlBevR3vZ3QdnqJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [かなしくないよ](https://open.spotify.com/album/2pizEOmMIDYbyw3v1Aeo4A) | 3:51 |
+| 19 | [Kanashikunaiyo](https://open.spotify.com/track/1hhY0jN3PjVSKFluT0APp5) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Kanashikunaiyo](https://open.spotify.com/album/4cBwOU9R10k9wlYJRmoMBY) | 3:51 |
 | 20 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
 | 21 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 |
 | 22 | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/album/65rWyGlUaqsWQwYwOLFxIH) | 3:50 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 53 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
 | 54 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
 | 55 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
-| 56 | [朝露](https://open.spotify.com/track/1TmiWBc15wa4G9Bu2Yfn9x) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [朝露](https://open.spotify.com/album/3l1XjOlM47yOGzxdMadmFZ) | 2:58 |
-| 57 | [TAKE MY HAND](https://open.spotify.com/track/0vyNRSWwF5QPBViACMcRiW) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [TAKE MY HAND](https://open.spotify.com/album/3LCZ6b6gS2UCDU7DuwnSHW) | 3:07 |
+| 56 | [Bubble](https://open.spotify.com/track/2z0GNBjMSx3HJLdRKkBg6S) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Bubble](https://open.spotify.com/album/6ns8AeeWp3tOmgPQ9EpIW1) | 2:58 |
+| 57 | [TAKE MY HAND](https://open.spotify.com/track/0ZpBqOj1ZsEXHTmqAiHlt2) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [TAKE MY HAND](https://open.spotify.com/album/5lYJ5JtHSusP1kPRKSOzrC) | 3:07 |
 | 58 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
 | 59 | [素晴らしい人生](https://open.spotify.com/track/6afAPgR7sEBUUYpiqKfMNO) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [素晴らしい人生](https://open.spotify.com/album/61LhRjIvHZjW5XqZX4pJwF) | 3:54 |
 | 60 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
 | 100 | [STAR](https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [STAR](https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL) | 5:12 |
 
-Snapshot ID: `MCxkMjJkMjJiODc4NTRlMzU3MDUzYmFmMDM2NGJmNjY2YjRlODk2ZGUy`
+Snapshot ID: `MCwzZmE2ZmJkZjkxNmMwNTRkMzYzNzJmZWUxMzZkZjcxMDdlY2EwZTMy`

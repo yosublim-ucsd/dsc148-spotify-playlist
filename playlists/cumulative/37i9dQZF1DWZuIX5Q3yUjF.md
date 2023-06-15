@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Josef, Evra, Kaput, MyDrama, BluePhelix
+> Il meglio dell'R&B italiano\. Cover: NARA
 
 347 songs - 17 hr 6 min
 

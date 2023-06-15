@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Chloé Caillet
 
-854 songs - 1 day 20 hr 33 min
+855 songs - 1 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [Jamil](https://open.spotify.com/track/2MvqCQTl07Huom2Pe7q27j) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Jamil](https://open.spotify.com/album/4XiU2LfImF1TJ15LCGH7mq) | 3:05 | 2022-03-07 | 2022-04-06 |
 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 | 2022-09-06 | 2022-10-05 |
 | [Je me laisse tomber](https://open.spotify.com/track/79j7MleSkzvg1jI20h9d74) | [Helena Noguerra](https://open.spotify.com/artist/4nclLyMzRhXUJvQU89sTm6) | [Je me laisse tomber](https://open.spotify.com/album/5XlrP7JmKVpK0MrvFDNRw5) | 3:36 | 2022-10-04 | 2022-11-09 |
-| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-06-06 |  |
+| [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-06-06 | 2023-06-15 |
+| [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-06 |  |
 | [Je Sais](https://open.spotify.com/track/5dxBvpiErOCz31kxdZOApJ) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Je Sais](https://open.spotify.com/album/6zRCEg2nGrba9aN9w3cH7N) | 2:52 | 2022-01-05 | 2022-02-02 |
 | [Je sais qu'il est tard](https://open.spotify.com/track/15ZsveLyDAOTbw1kK7ldsI) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais qu'il est tard](https://open.spotify.com/album/3L9zRjwao0Nag74lX7fdkc) | 3:40 | 2022-05-03 | 2022-06-01 |
 | [Je serai là](https://open.spotify.com/track/0cPsUSupo85xOLSO5o6wLw) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Je serai là](https://open.spotify.com/album/7akvoqd2vEAIFFdss4K4uS) | 3:16 | 2022-01-05 | 2022-02-02 |

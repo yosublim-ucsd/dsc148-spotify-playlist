@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 
 > Staying vibrant is <a href="spotify:artist:0jNDKefhfSbLR9sFvcPLHo">San Holo</a>'s<br/> currency, which can definitively be felt in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 22 songs - 59 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 22 songs - 59 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

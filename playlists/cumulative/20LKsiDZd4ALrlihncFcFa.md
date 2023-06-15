@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md) - cumulative - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
 
-### [90s Alternative Rock](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
+### [90s ALTERNATIVE ROCK \| TOP 100 SONGS](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
 > The ultimate 90s alt rock playlist featuring Foo Fighters, Pearl Jam, Rage Against the Machine &amp; more!
 

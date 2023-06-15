@@ -3282,7 +3282,7 @@
     {
       "album": {
         "name": "Before the Garden 5",
-        "url": "https://open.spotify.com/album/3g3hptzipUo3UpdGixh6Vn"
+        "url": "https://open.spotify.com/album/2KNW2FurKlJh9gSt268xcx"
       },
       "artists": [
         {
@@ -3293,6 +3293,24 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198204,
+      "name": "Fruits of My Labor",
+      "url": "https://open.spotify.com/track/3nif7UigG93eWI29DHG8G4"
+    },
+    {
+      "album": {
+        "name": "Before the Garden 5",
+        "url": "https://open.spotify.com/album/3g3hptzipUo3UpdGixh6Vn"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
       "duration_ms": 198204,
       "name": "Fruits of My Labor",
       "url": "https://open.spotify.com/track/51dZW9RmHyIXrdpEdFu1Xm"

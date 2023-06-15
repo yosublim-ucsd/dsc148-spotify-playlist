@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 85173,
       "name": "George At The Derby",
       "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 87013,
       "name": "Masks And Mirrors",
       "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 119240,
       "name": "The Landscape Medley",
       "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
@@ -940,6 +940,24 @@
       "duration_ms": 83400,
       "name": "Typical Woods Stuff",
       "url": "https://open.spotify.com/track/3s3OYyyWtROYmdfMWVxXw0"
+    },
+    {
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68800,
+      "name": "Who's Your Birth Mother?",
+      "url": "https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka"
     },
     {
       "album": {

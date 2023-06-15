@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,024 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,955 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 45 | [Frank Gehry](https://open.spotify.com/track/7BaosKNwKG6icbPSpNPg2y) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [A Family Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1oMmTmUhk9eAgaU2ls8gjz) | 2:13 |
 | 46 | [The Wife](https://open.spotify.com/track/57WYNt9Vm74UZij6QFj3j5) | [Jocelyn Pook](https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06) | [The Wife \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avMQMR99mpGD37BK9p6OT) | 3:58 |
 | 47 | [Harry and Ginny](https://open.spotify.com/track/25XuCuq4K715NKLOohw7ZM) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:43 |
-| 48 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 |
+| 48 | [The Last Dinner](https://open.spotify.com/track/7csZBSybyqxBWgsmsD0eLM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Score\)](https://open.spotify.com/album/7GqxefFfYUkModqa3muudO) | 1:50 |
 | 49 | [She Remembers](https://open.spotify.com/track/3JggEa7I7tBPQhiOfexL6U) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg) | 3:49 |
 | 50 | [New Queen](https://open.spotify.com/track/0saVGOHWPnGXus321u3c1i) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Three \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2Fo6fhIcRqerCpyYBORZWK) | 3:56 |
 | 51 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 55 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 56 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
 
-Snapshot ID: `MCxiNTE3NDY3YjVjNTU4MTVjNjc4ZTBkMjQ3ZjYyZDgwNWUxN2JhNjgx`
+Snapshot ID: `MCw3OTQwZDkzYmY0OTZlZWI2YzRlMmI0NTZkMmE4ZGI3ZDE2YzY3OTQx`

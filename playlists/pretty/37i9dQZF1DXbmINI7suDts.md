@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,823 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 18 | [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 |
 | 19 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 |
 | 20 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 |
-| 21 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI), [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 |
+| 21 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 |
 | 22 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 |
 | 23 | [Webale](https://open.spotify.com/track/1Vlms9uSRDXErvFGzTbLaj) | [Shifah Musisi](https://open.spotify.com/artist/2z5UFg4Wb5lePi7pKoDyyN) | [Webale](https://open.spotify.com/album/7gD8QBQcLDDsueUb9eN08T) | 4:19 |
 | 24 | [Bounce](https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 |
 | 60 | [Machozi Machoni](https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Speaking Vernacular](https://open.spotify.com/album/08LOeBsrzYZekjfFPoPgpp) | 4:01 |
 
-Snapshot ID: `MCw5ZTVmODhhNmNmNzJjMjUyNTMxNjk3ZGM0Y2IxZWFiZTdlNmM5NWJi`
+Snapshot ID: `MCwyMGEzOGJhNGJlNmI4YmZkMzRlNWFjZGQ0YTE2YjYyMDViMDU5MDZh`

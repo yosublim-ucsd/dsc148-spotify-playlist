@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,884 likes - 87 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,898 likes - 87 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 86 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 |
 | 87 | [The Sin and the Soul](https://open.spotify.com/track/42EGKEpKWWYpfaPVAwMmd9) | [Adani & Wolf](https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh) | [The Sin and the Soul](https://open.spotify.com/album/5gpNg3bQylhPG0za13Z7gz) | 6:38 |
 
-Snapshot ID: `MCxlODMwY2Q3NThlYWQwMmE0YjhlMDliNDk5OWQzYjMzZjE5ZjM1ZjJk`
+Snapshot ID: `MCwzM2NjNGY3OGVlODBhMTRmZmNkOTgxMGQxZGE3ZjlkMTY2MjNlOThk`

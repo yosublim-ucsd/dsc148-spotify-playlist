@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Yunes Lagrintaa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,631 likes - 51 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,676 likes - 51 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 7 | [MAROCCO](https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [MAROCCO](https://open.spotify.com/album/4wMH2tKaGLQCCToJle0B3d) | 2:14 |
 | 8 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 9 | [Metropolitana](https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Mojobeatz](https://open.spotify.com/artist/1Pwd1KP0QpMW7BZq6EdTB0) | [Metropolitana](https://open.spotify.com/album/4VFiQpAxljv9ikIK9QXTEQ) | 2:59 |
-| 10 | [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 |
+| 10 | [Alo \(feat\. Hani\)](https://open.spotify.com/track/2PiN4K8PKGBZa0xFYRPMY6) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo \(feat\. Hani\)](https://open.spotify.com/album/0OQFz1TDv4CHxGKbXrjEyd) | 3:04 |
 | 11 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 |
 | 12 | [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 |
 | 13 | [SACRIFICIO \(feat\. Kid Yugi\)](https://open.spotify.com/track/1ghLr2XLBgkTAInmmyuVnp) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [MxxxVE IT](https://open.spotify.com/track/2EDNuQ1AVzKuXNrRmrgyUj) | [Mando](https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc), [Gemelier](https://open.spotify.com/artist/45r6mQFEI3iQqAvxcDp7zA) | [MxxxVE IT](https://open.spotify.com/album/6K0qxWHEBhbrQP0wxHiOBV) | 2:24 |
 | 51 | [Porto Milano](https://open.spotify.com/track/1vat8RefP5Zr4fFNpWflnV) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Porto Milano](https://open.spotify.com/album/6M2wTpJqAVnWgn5SDRT75v) | 2:40 |
 
-Snapshot ID: `MCxlNjY3NDg5N2VmMDg3YjM0NmQxMDcwODZhZTJhNmRmZmQyYjdhNTEz`
+Snapshot ID: `MCxiOTNiZDNjMjFkNDQ4MWIwNzY2NTYyNGM2MmM1NDQ1NmVhOGEyOGU5`

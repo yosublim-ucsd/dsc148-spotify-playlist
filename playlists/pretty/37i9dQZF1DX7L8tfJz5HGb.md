@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the music of the 2023 Weverse Con Festival line\-up artists! \(2023 위버스콘 페스티벌 아티스트들의 주요 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,579 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,945 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 99 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 |
 | 100 | [The Final Countdown \- &TEAM ver.](https://open.spotify.com/track/3CHuZLVL2ZNCic0qw7KNn6) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:21 |
 
-Snapshot ID: `MCw5MDJiNWM1ZjQ0ZGVlZjBhMWZiZTE4ZTdmMWUyYjgxY2VjMmE4ODZl`
+Snapshot ID: `MCwxNWMyN2JjMzkyOTk1NzkxMjkyNzZiZThlYjE2ZGI0MjIwMjBmMGU0`

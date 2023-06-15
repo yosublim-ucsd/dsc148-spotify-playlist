@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,651 likes - 80 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,694 likes - 80 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [How You Jamming So](https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Soca Anthology: Dr\. Bird \- The Mighty Sparrow](https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX) | 4:41 |
 | 80 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
 
-Snapshot ID: `MCxhZjRmNzA2MTA4ZDc2MzU5MzA3MWVmYjA4Y2FlZDE2YjRjYjdjYzUw`
+Snapshot ID: `MCw5Y2M2YzcwZTJiYTU3YzZiZjY5NWMwNGE1NGQ2NTkyYzE4MzQxZGYy`

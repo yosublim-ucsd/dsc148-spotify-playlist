@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 314083,
       "name": "Effet De L'Amour",
       "url": "https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V"
@@ -2476,6 +2476,24 @@
       "duration_ms": 289852,
       "name": "Sghira Ou Hara",
       "url": "https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE"
+    },
+    {
+      "album": {
+        "name": "Tayer 3la jalha Rouho golouhalh",
+        "url": "https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O"
+      },
+      "artists": [
+        {
+          "name": "Cheb Faycel Chole",
+          "url": "https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 769593,
+      "name": "Tayer 3la jalha Rouho golouhalh",
+      "url": "https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC"
     },
     {
       "album": {

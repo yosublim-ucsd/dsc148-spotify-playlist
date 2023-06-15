@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zouqan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,950 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 54 | [Always into you](https://open.spotify.com/track/38x25A2YUR1ihIpQrb93R1) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [Always into you](https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap) | 3:24 |
 | 55 | [FORTUNE](https://open.spotify.com/track/2wQve4I4edXxq7fEv9HZya) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [FORTUNE](https://open.spotify.com/album/2025oC1Fe6UacGbyItczPA) | 3:33 |
 
-Snapshot ID: `MCw0OGVlZWQ0MDY5OThkM2VkZTIzN2NiYWUxNjIxOTI0MzhjMjZmNGM0`
+Snapshot ID: `MCw1NjYwZThiYjI4ZjE1OGRmODg5NDBmOTljOWFlYjBiNjg4ZWM0NDli`

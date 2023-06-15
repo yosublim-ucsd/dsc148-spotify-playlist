@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,302 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,377 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Bitter Sweet Symphony \(8 Bit Version\)](https://open.spotify.com/track/6mL4dZEv5H94fifSK6t0Sq) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Retro Chip](https://open.spotify.com/album/3tqIIufs000bnkVfj6hKAB) | 4:33 |
 | 100 | [Paper Planes \(8 Bit Version\)](https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Program the Party](https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O) | 3:24 |
 
-Snapshot ID: `MCwyNGRjYTIwZDk1YTg1NjRjNzcwOWUzMzFiZjgzMTIwMzliMjEyYzg3`
+Snapshot ID: `MCw5ZTJjODRhMjIwNDJmMmM1ZGRjY2EyNTI1ZmNmZmE1ODNhYTBkZWQw`

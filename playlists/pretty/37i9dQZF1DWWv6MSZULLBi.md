@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,323 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,324 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [It's Not Enough \- Sunset Version](https://open.spotify.com/track/5FhuV4yWwkrB8koRKJblCZ) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [It's Not Enough \(Sunset Version\)](https://open.spotify.com/album/3TAC5bC9lJxF6gLWJ0Ue9b) | 4:31 |
 | 100 | [Michigan](https://open.spotify.com/track/3aKIwhm12lkuZAp0AjalYy) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Michigan](https://open.spotify.com/album/0gILM2JR7Hx68yyU2SWSGm) | 3:55 |
 
-Snapshot ID: `MCwzOGM0OTRkY2QxYTdkNjJmMzY1NDRhY2NlNzdiZWYxMjBmZTcxNTFk`
+Snapshot ID: `MCw0YWI2M2UzOTAzYzJiZGZjMjY0YjNkNzY1YTllZmMzMGE2NjA3YmZh`

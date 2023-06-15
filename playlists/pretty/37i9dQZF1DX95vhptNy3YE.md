@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Mc Luanna e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,347 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,394 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Bom dia com oxalá](https://open.spotify.com/track/2lleC1M9NfMVyYXkNYtfky) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Bom Dia Com Oxalá](https://open.spotify.com/album/1gJzBSWADdEW41kScdH3nF) | 3:24 |
 | 50 | [Sal e Pimenta](https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Sal e Pimenta](https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf) | 3:26 |
 
-Snapshot ID: `MCxlMzQzY2ZlMjdkZDc2N2E0OTIyNmNkYWNjZTU4Yzg2NDU2YThjM2Iy`
+Snapshot ID: `MCw0YmY2MDc3ZGJiZWQzYTU0NWFmYjMyZTIzZmRlZDIyNDQ0OWUxY2Vk`

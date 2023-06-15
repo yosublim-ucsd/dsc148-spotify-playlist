@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,140 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,194 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 84 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 |
 | 85 | [DOUBTS \(feat\. Ryan Oakes\)](https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7) | [Fran Roz](https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DOUBTS](https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z) | 2:54 |
 
-Snapshot ID: `MCw1OGY2MjZiYTdlMzFhYWJkYjUwOWJiMDlmNTY2YmE5NmI3OTE5Y2Ri`
+Snapshot ID: `MCxjMzcyMTYzYzBjYTI1ZTRjZjljZWM3MmY2ZTMyOTlmMDBkZDM1Yjk5`

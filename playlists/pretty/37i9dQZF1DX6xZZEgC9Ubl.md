@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,567 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,695 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 100 | [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 |
 
-Snapshot ID: `MCxlMTI0YmM3NjY1NjM2NGE3ODE5OTM2OTJjOTk0N2VmMGU5NjIyNDFh`
+Snapshot ID: `MCw1ZmNmMDFkY2Q2NjNmZjI5NjE0MmVlNTQxNmQ2NmZmZDVmM2NkOWFi`

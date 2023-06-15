@@ -1,13 +1,189 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
-  "num_followers": 217037,
+  "num_followers": 217067,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTU0NTRlY2EwZTE5MTY0MmJiYmM0MGIzMTQ5NWIwMTExYmYxMWU0",
+  "snapshot_id": "MCxiMTRlMWFhOTJhMGFlOWQyMjJhMjUxMmFjNTY1ZGUxZjc3ZTAxMGM3",
   "tracks": [
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        },
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 259983,
+      "name": "Shine Eternally - Spotify Singles (feat. King Isis)",
+      "url": "https://open.spotify.com/track/4I7n1aXDCTSD9ioXt1xWOG"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "duration_ms": 155957,
+      "name": "Wait and Bleed - Spotify Singles",
+      "url": "https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "Kool - Spotify Singles",
+      "url": "https://open.spotify.com/track/1E3KNG9OY7KhW5LbQ5sqwe"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "PORN ACTING*[FLIP] - Spotify Singles",
+      "url": "https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 196992,
+      "name": "Window Shopper - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gJxzkUOyC30TxOkWw2LDH"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 139019,
+      "name": "L'amour - Spotify Singles",
+      "url": "https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "QuietMike",
+          "url": "https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu"
+        }
+      ],
+      "duration_ms": 144970,
+      "name": "On & Off - Spotify Singles",
+      "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2iMqeChn3AuGV1DzaMR5Jn"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Bryan-Michael Cox",
+          "url": "https://open.spotify.com/artist/2DQGYZN46cPcNWVRyAMX8l"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Almost Doesn't Count - Spotify Singles",
+      "url": "https://open.spotify.com/track/1tkVsTS1tnMPIBHyWQioLB"
+    },
+    {
+      "added_at": "2023-06-14 15:35:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2iMqeChn3AuGV1DzaMR5Jn"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Bryan-Michael Cox",
+          "url": "https://open.spotify.com/artist/2DQGYZN46cPcNWVRyAMX8l"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Do You Ever - Spotify Singles",
+      "url": "https://open.spotify.com/track/4biV1t1EPavZ40ZiYHGvxo"
+    },
     {
       "added_at": "2023-06-08 16:00:00",
       "album": {

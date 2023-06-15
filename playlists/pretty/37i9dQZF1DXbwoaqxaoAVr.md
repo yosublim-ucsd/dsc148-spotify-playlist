@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,269 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,752 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 |
 | 65 | [Magic Potion \(feat\. Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCxhZTIyODM1MTczZTc4N2NhYzcwYzZlMzJmMWE0YzM1NDY2OGYyNWMy`
+Snapshot ID: `MCw0ZDkzYmI5NmJjZWI5NTRiNDYzMDgyZGIwYmUxNDk2NTVlZDZkMzZj`

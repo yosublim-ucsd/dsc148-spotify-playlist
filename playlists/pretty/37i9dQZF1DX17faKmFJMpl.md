@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,474 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,481 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
 | 100 | [마부](https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo) | [Kebee](https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Poetree Syndrome](https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo) | 3:44 |
 
-Snapshot ID: `MCwxMzU1YWE1YzFkNmZkYmIyOWE3OTQ3MTQwNDRiMTNhN2NhNDg0NTFl`
+Snapshot ID: `MCw5YjAzNDg0YWU2ZDQzNzFmYTljMWZmODViMGI0ODZmMDZmNzM0OWU5`

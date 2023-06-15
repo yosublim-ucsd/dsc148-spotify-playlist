@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-115 songs - 10 hr 34 min
+116 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Funktion \- Remix](https://open.spotify.com/track/2GRfzOL3CP2fkRrZT1GYyF) | [Ed Rush](https://open.spotify.com/artist/6gj4aZLxVGCdFPMThH6q6q) | [Retrospect, Vol\. 1 \(Compiled by DJ Krust & Jumpin Jack Frost\)](https://open.spotify.com/album/64LRkg6YHxFxuyUuC0QOUy) | 6:20 | 2022-10-18 |  |
 | [Further](https://open.spotify.com/track/5SWI7JbAwfTPgs0cuorR7H) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Serena McKinney](https://open.spotify.com/artist/7gKCfXkWzSIIqF28LtrnsV) | [Far Cry 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) | 4:04 | 2022-10-18 |  |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2022-10-18 |  |
+| [Growth](https://open.spotify.com/track/5Pp97IOkeb1MPA9H251uUp) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [Swilled](https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3) | [Growth](https://open.spotify.com/album/6G4s262wagFeaSzQCyvbqP) | 1:55 | 2023-06-14 |  |
 | [Happy Pills](https://open.spotify.com/track/6eJy88W9HCYzw3NJHRNToU) | [Younger Brother](https://open.spotify.com/artist/4ypPM5MAlxN4nbsiiHtBpu) | [The Last Days Of Gravity](https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd) | 8:48 | 2023-02-08 |  |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2022-10-18 |  |
 | [Helicopter Mack](https://open.spotify.com/track/3dqu2lbvPdawMaEA9uCnkA) | [Archnemesis](https://open.spotify.com/artist/0mnxsBXJFbVCocWDZXIhLr) | [People's Radio](https://open.spotify.com/album/1VfnKkj2su211lURrr7Kro) | 4:42 | 2022-10-18 |  |

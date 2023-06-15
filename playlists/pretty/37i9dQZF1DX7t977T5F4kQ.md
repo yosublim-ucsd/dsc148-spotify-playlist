@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8?si=XNRPFm0zROiKSBJM5LJWmw">Darkovibes</a>,  <a href="https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF\_w"> Efya</a>  and <a href="https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI?si=5PQnav\-3QC\-fE1NHfSS8oQ"> Shatta Wale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,483 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 |
 | 80 | [Gree](https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Gree](https://open.spotify.com/album/3lkPvFpWfzn5GskSyYUrBi) | 2:18 |
 
-Snapshot ID: `MCw5YTk1MTdiODRkZDFiNmIzMzk0YzQ0M2FhZmQ1NmU3MDk3NDNhMzVi`
+Snapshot ID: `MCw3M2NhYjNmMjM0MjE3MGYwZjhjNjNlNDk5MGYwZmFlZmJlY2ExMjk3`

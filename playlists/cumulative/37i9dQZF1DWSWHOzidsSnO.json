@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Paola Navarrete en portada.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada por Paola Navarrete. #EQUALDOR",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 303135,
       "name": "Bienvenidos al tren",
       "url": "https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "I Like It, I Like It",
+        "url": "https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246318,
+      "name": "I Like It, I Like It",
+      "url": "https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR"
+    },
+    {
+      "album": {
         "name": "IGUAL",
         "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 188893,
       "name": "Lo Que Nos Hizo Gigantes",
       "url": "https://open.spotify.com/track/0oop3vyfemDoSFYMAbUg34"
@@ -3330,6 +3348,24 @@
       "duration_ms": 225935,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD"
+    },
+    {
+      "album": {
+        "name": "Tu Fuego",
+        "url": "https://open.spotify.com/album/6h3u0pReE0S6kjzvzJ4zgh"
+      },
+      "artists": [
+        {
+          "name": "Michelle Espinosa",
+          "url": "https://open.spotify.com/artist/2dQ3Ury51FHqdpSWIKKar4"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184934,
+      "name": "Tu Fuego",
+      "url": "https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj"
     },
     {
       "album": {

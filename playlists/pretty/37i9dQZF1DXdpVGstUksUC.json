@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 511165,
+  "num_followers": 511622,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 424000,
       "name": "Bury Me in Smoke",
       "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 175580,
+      "name": "Boogeyman Blues",
+      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 175580,
-      "name": "Boogeyman Blues",
-      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 333859,
-      "name": "Noses in Roses, Forever",
-      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 333859,
+      "name": "Noses in Roses, Forever",
+      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 314656,
       "name": "The Last Leaf",
       "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Tales of the Wicked West",
-        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
-      },
-      "artists": [
-        {
-          "name": "MaidaVale",
-          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
-        }
-      ],
-      "duration_ms": 318023,
-      "name": "(If You Want the Smoke) Be the Fire",
-      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 312746,
       "name": "Lust Queen",
       "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Tales of the Wicked West",
+        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
+      },
+      "artists": [
+        {
+          "name": "MaidaVale",
+          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
+        }
+      ],
+      "duration_ms": 318023,
+      "name": "(If You Want the Smoke) Be the Fire",
+      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "CVI",
-        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
-      },
-      "artists": [
-        {
-          "name": "Royal Thunder",
-          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
-        }
-      ],
-      "duration_ms": 417720,
-      "name": "Parsonz Curse",
-      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Beyond the Wasteland",
         "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 266200,
       "name": "Rooster Booster",
       "url": "https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "CVI",
+        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
+      },
+      "artists": [
+        {
+          "name": "Royal Thunder",
+          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
+        }
+      ],
+      "duration_ms": 417720,
+      "name": "Parsonz Curse",
+      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Diablerie",
-        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
-      },
-      "artists": [
-        {
-          "name": "Windhand",
-          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
-        }
-      ],
-      "duration_ms": 320988,
-      "name": "Diablerie",
-      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Superjudge",
         "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 409466,
       "name": "Superjudge",
       "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Diablerie",
+        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+      },
+      "artists": [
+        {
+          "name": "Windhand",
+          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Diablerie",
+      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "There is Nothing New Under the Sun",
-        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "There is Nothing New Under the Sun",
-      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Rattle",
         "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 332120,
       "name": "Rattle",
       "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "There is Nothing New Under the Sun",
+        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
+      },
+      "artists": [
+        {
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+        }
+      ],
+      "duration_ms": 237424,
+      "name": "There is Nothing New Under the Sun",
+      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
       "added_at": "2023-06-02 04:01:00",

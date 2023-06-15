@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Beyonc\u00e9",
-  "num_followers": 803008,
+  "num_followers": 803680,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmU1NWY1Mzk1YjQyOGIwMDg5OTcwZmZlYmI4OGRmNjI2MmU0NDI5",
+  "snapshot_id": "MCw0OGUwODY5OWEyOTE0NGQ1Mjg1OTI3NGE0MDgyYjM5MzM5YTU1Yzcz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -299,6 +283,30 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "One Margarita (Margarita Song)",
+        "url": "https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "duration_ms": 119361,
+      "name": "One Margarita (Margarita Song)",
+      "url": "https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -393,6 +401,22 @@
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
     },
     {
+      "added_at": "2023-06-13 14:54:29",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "Collide (feat. Tyga)",
@@ -411,6 +435,22 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -463,30 +503,6 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "One Margarita (Margarita Song)",
-        "url": "https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G"
-      },
-      "artists": [
-        {
-          "name": "That Chick Angel",
-          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
-        },
-        {
-          "name": "Casa Di",
-          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
-        },
-        {
-          "name": "Steve Terrell",
-          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
-        }
-      ],
-      "duration_ms": 119361,
-      "name": "One Margarita (Margarita Song)",
-      "url": "https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD"
     },
     {
       "added_at": "2023-06-09 04:01:00",

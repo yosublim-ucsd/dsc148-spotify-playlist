@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "OTAzLDI1Mjk1ZTAyNWE3MTE0MWUzMzI4NTNjZTYyMDhmZTdiYzQ0NzQ5MmE=",
+  "snapshot_id": "OTA5LDEwZDUwZmIzNmE2YTc4ZGNiYWJjNzYyNTdmZWJiMjlkMmJjNTZkMDE=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -2257,22 +2257,6 @@
       "url": "https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC"
     },
     {
-      "added_at": "2023-01-15 10:43:22",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
       "added_at": "2023-01-15 10:44:35",
       "album": {
         "name": "Happier Than Ever",
@@ -2805,22 +2789,6 @@
       "url": "https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ"
     },
     {
-      "added_at": "2023-03-24 17:30:11",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295201,
-      "name": "The Grants",
-      "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
-    },
-    {
       "added_at": "2023-03-25 04:08:21",
       "album": {
         "name": "Schvitz",
@@ -3317,22 +3285,6 @@
       "url": "https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr"
     },
     {
-      "added_at": "2023-05-18 07:30:13",
-      "album": {
-        "name": "Intro Bonito",
-        "url": "https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD"
-      },
-      "artists": [
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 50197,
-      "name": "Bonito Intro",
-      "url": "https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw"
-    },
-    {
       "added_at": "2023-05-19 00:18:25",
       "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
@@ -3803,6 +3755,54 @@
       "duration_ms": 242507,
       "name": "Bird's Nest",
       "url": "https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3"
+    },
+    {
+      "added_at": "2023-06-14 14:27:42",
+      "album": {
+        "name": "Alagbon Close",
+        "url": "https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 1021840,
+      "name": "Alagbon Close",
+      "url": "https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM"
+    },
+    {
+      "added_at": "2023-06-14 14:27:52",
+      "album": {
+        "name": "Sorrow Tears and Blood",
+        "url": "https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 615906,
+      "name": "Sorrow Tears and Blood",
+      "url": "https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh"
+    },
+    {
+      "added_at": "2023-06-14 14:28:18",
+      "album": {
+        "name": "Fear Not For Man",
+        "url": "https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 854333,
+      "name": "Fear Not For Man",
+      "url": "https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6"
     }
   ],
   "unique_name": "Zacklog",

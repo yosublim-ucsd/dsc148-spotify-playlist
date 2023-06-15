@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
+    },
+    {
+      "album": {
         "name": "Calvaire",
         "url": "https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB"
       },
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 144250,
       "name": "Fall In Grace",
       "url": "https://open.spotify.com/track/7vMeKpR5hUoPo8nylUFO5x"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 177882,
       "name": "Home full of solipsism",
       "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
@@ -4756,6 +4774,42 @@
       "duration_ms": 151624,
       "name": "Homeward",
       "url": "https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/1ahYvzQFG8ppfKnr9pwnGO"
+      },
+      "artists": [
+        {
+          "name": "Maxence Cyrin",
+          "url": "https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114426,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/4GV0OmL4af8kaYxTC1jqSC"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110086,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4"
     },
     {
       "album": {
@@ -5688,7 +5742,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 143500,
       "name": "L'automne est l\u00e0",
       "url": "https://open.spotify.com/track/7xpf7Qnslkz8n7PH20N4mV"
@@ -6952,7 +7006,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 126434,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF"
@@ -8922,6 +8976,24 @@
       "duration_ms": 175279,
       "name": "sahdana",
       "url": "https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
     },
     {
       "album": {
@@ -10956,7 +11028,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 133719,
       "name": "Tournesol",
       "url": "https://open.spotify.com/track/322iMyBTTUhTCGRttDs6CY"
@@ -12292,7 +12364,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 123250,
       "name": "Zadar",
       "url": "https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O"

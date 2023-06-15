@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Pa' toda la raza pesada\. Los Huracanes del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,269 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,463 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 31 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 |
 | 32 | [Raquenel Villanueva](https://open.spotify.com/track/71rQncW9uGaAg4QplpEbeL) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [El Mero León del Corrido](https://open.spotify.com/album/51xW5j4hSfm3UiqsDy5l7h) | 3:15 |
 | 33 | [El Retén de la Sierra](https://open.spotify.com/track/4jvFdMExvfNtlNAwUn4McE) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Reten de la Sierra](https://open.spotify.com/album/70dZFfCYcbhLuUaslXfdzl) | 3:35 |
-| 34 | [Mi Clavo](https://open.spotify.com/track/3jYDA6ixEpSC0lwOKj18WQ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/2QYFXC2uGxBA72nuoXX0oq) | 2:16 |
+| 34 | [Mi Clavo](https://open.spotify.com/track/2jibTmnltzTASYyhKashO7) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/0izzBbwkHYapDNLCvz357B) | 2:16 |
 | 35 | [Contrabando En Los Huevos](https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Contrabando En Los Huevos](https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM) | 4:31 |
 | 36 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 |
 | 37 | [El Jardinero](https://open.spotify.com/track/6Ije7DlkQW6yWLMSmxxTdW) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Las Retro Chingonas](https://open.spotify.com/album/3TZ7PH4cKHVQDvLxSzB7A8) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 49 | [El Albanil](https://open.spotify.com/track/6Py57WENEDfmxVKw8rrD7J) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Traficantes Michoacanos](https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2) | 3:14 |
 | 50 | [La Merma del Traficante](https://open.spotify.com/track/64UVBttkrFYUK8TlFuayRK) | [Los Pumas Del Norte](https://open.spotify.com/artist/7oDAL6I6hsVHfn0ADFYpmh) | [Lluvia De Corridos](https://open.spotify.com/album/5gLeRe8gSJoDr9eNRBcqg0) | 3:10 |
 
-Snapshot ID: `MCxmOWY5YjEwMDQyYjU4NTQwMDM3MzJlZTE0OGRjZThiNmNhN2MwMjQz`
+Snapshot ID: `MCxmODQ2NmI3NmIyNTY2ODZmNzFiZTMzMzAwY2RmYTdiYzc4ZDhiMjE3`

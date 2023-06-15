@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > resgatei meu cartCOF COF COF caveirinha top 1 esquece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,438 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,470 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Malandrex](https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [Malandrex](https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw) | 4:16 |
 | 60 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCwyODZkMTU0ZDdkMjg1NGE4ODZjNDc4ZmFmZTVmNTI2ZWRhNjgwNGU2`
+Snapshot ID: `MCwzYzNhN2Y5YWM3OGU4M2Q4ZmE4ODNjNjhmNzQwZjlhYjU1NGY1MDMy`

@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Diamond Human",
+        "url": "https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30b9\u30c6\u30ea\u30fc\u30ad\u30c3\u30b9",
+          "url": "https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Diamond Human",
+      "url": "https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng"
+    },
+    {
+      "album": {
         "name": "blossom",
         "url": "https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT"
       },
@@ -2210,6 +2228,28 @@
       "duration_ms": 292120,
       "name": "narrow",
       "url": "https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N"
+    },
+    {
+      "album": {
+        "name": "New Genesis - From CrosSing",
+        "url": "https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc"
+      },
+      "artists": [
+        {
+          "name": "Natsuyoshi Yuko",
+          "url": "https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq"
+        },
+        {
+          "name": "Matsuoka Misato",
+          "url": "https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227080,
+      "name": "New Genesis - From CrosSing",
+      "url": "https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk"
     },
     {
       "album": {
@@ -7054,7 +7094,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 227080,
       "name": "\u65b0\u6642\u4ee3 - from CrosSing",
       "url": "https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq"
@@ -7990,7 +8030,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 249400,
       "name": "\u91d1\u525b\u77f3\u30d2\u30e5\u30fc\u30de\u30f3",
       "url": "https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L"

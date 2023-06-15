@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,344 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,347 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Janela Aberta](https://open.spotify.com/track/2ys6BlpMmwkBUonOwUIRr6) | [BudaFé](https://open.spotify.com/artist/0OMJJOLTBdJBy2MEYnCSX5) | [Janela Aberta](https://open.spotify.com/album/3EctdWL5JTPnjIhq3njjPz) | 2:32 |
 | 99 | [sombrero](https://open.spotify.com/track/5qEw0qCk0aDUqA9vrAMS64) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [sombrero](https://open.spotify.com/album/44741LBbRrfkVo7MxbJY86) | 3:48 |
 
-Snapshot ID: `MCwwNjEyNDZlYjAxZDRiMzE4Yzc1NzkyNzQ0ZGRiZWMyNzUyYWU4NWVk`
+Snapshot ID: `MCwxZjk0NDMwNDg5MzBjZDk2ZmU1NjE0YTYyMzAyOThlZjUxY2M5M2Iy`

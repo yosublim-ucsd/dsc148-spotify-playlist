@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,788 likes - 250 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,931 likes - 250 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 250 | [Down On The Bottom](https://open.spotify.com/track/2zMXaBISwWgCM7zvYmk2h4) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 4:28 |
 
-Snapshot ID: `MCw1NmY0MzYwNjc3Mjk3ZmE1NTA2M2E4ODRhNTJmM2QxZjg0MzVjMWQ2`
+Snapshot ID: `MCwwMmQwNDM5MTllN2EzYTlmNWVhNjk0NzJhYjQ1ZDgzZjA1YWE2NTQ1`

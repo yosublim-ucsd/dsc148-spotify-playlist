@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: SUNGMIN\(성민\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,758 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,778 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [You Have Your Own Scent](https://open.spotify.com/track/3cWedKElHdS1FRqRxotCXG) | [김범룡](https://open.spotify.com/artist/3MZvm7q6VKYUPElvBNeZt5), [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [You Have Your Own Scent](https://open.spotify.com/album/2dR1f7KpW6G8gKgL88pguV) | 3:35 |
 | 100 | [처녀 뱃사공](https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 2:37 |
 
-Snapshot ID: `MCxlOWI4ZWQzNDdkODQwOGQ5MDEwMDAxNWFlZmE4YmJmY2FmZGIyMDQ4`
+Snapshot ID: `MCw0ODQwYTkwYTBkMWFhOGFjY2JiMjQ1ZTcxMmRlMjI5NThhYjc3ZWM3`

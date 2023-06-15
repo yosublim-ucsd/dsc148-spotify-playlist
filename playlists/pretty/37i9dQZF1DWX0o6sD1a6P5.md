@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: DYSTINCT x Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,770 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,277 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [Noche](https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Noche](https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy) | 3:03 |
 | 49 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 |
 
-Snapshot ID: `MCxjMjE2ZGFkMzIzN2FhZTk1MGU2ZjBiZWU1OTY4NGMzNTQ3MDI4ZDgy`
+Snapshot ID: `MCw2Zjc4YmNhMTBkZTUwMjU1MThmMTE4ZmU5YmMzODY5OWU2ODBhNDY3`

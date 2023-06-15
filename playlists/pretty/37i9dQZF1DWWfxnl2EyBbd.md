@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,182 likes - 400 songs - 1 day 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,257 likes - 400 songs - 1 day 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [A Ballad for Pete Candoli](https://open.spotify.com/track/5fsGPtGbnwTQ3ZuotX0Mhl) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 6:42 |
 | 400 | [The Great Belonging](https://open.spotify.com/track/1s14p2tsaJ0Il91PIhBKd4) | [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [Invisible Friends](https://open.spotify.com/album/5o0KuJ17lVyYVIghMPQ8qR) | 5:00 |
 
-Snapshot ID: `MCwyODgwOGU2OTE4YmQ1NGJmODdjM2M1NDIxOWExMTY3Yzc1ZjBiYzcx`
+Snapshot ID: `MCxhOTkyNDdjOTU2NDZjYzNjYmI5MDllYzNmZTgyZTBkZGFmZGE3ZGY3`

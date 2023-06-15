@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,086 likes - 64 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,156 likes - 64 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 2 | [Reverse Psychology](https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Paradox EP](https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA) | 6:58 |
 | 3 | [Creeper x Swamplyfe \- Nene H Remix](https://open.spotify.com/track/3O1ITBiIyA86GVLfSVNf2R) | [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh), [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Swamplyfe](https://open.spotify.com/album/5xD5QYdp2mgQMtl0KDiXjq) | 5:10 |
 | 4 | [Money to Silence You](https://open.spotify.com/track/7o1lqHzZmnAMdTBezJt2ha) | [X\-Alox](https://open.spotify.com/artist/02bXKhV38LfhJraVsQ5qCc) | [Nether Region](https://open.spotify.com/album/0WjHEvhA3F5XfeapAP9vSJ) | 5:08 |
-| 5 | [Drumshock](https://open.spotify.com/track/79Re0uC1ZSCLlDCOCGOaSh) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Tribal Science](https://open.spotify.com/album/7CJ0gTC8VQPWtaTbzB9kUI) | 4:29 |
+| 5 | [Drumshock](https://open.spotify.com/track/3ePv9S76ZE95Eb73oRlOzb) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Tribal Science](https://open.spotify.com/album/4oSjLY1czZGNkz2RCSxccE) | 4:29 |
 | 6 | [Race Against the Time \- MRD Remix](https://open.spotify.com/track/6GLMz67ulk9MjJRBLUxyMU) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [U R TRA$H!](https://open.spotify.com/album/4r874Sg4AEqjcqrRCIiAeq) | 7:56 |
 | 7 | [Valhalla Calling](https://open.spotify.com/track/191oCOOnYfoMrZ9JN2o7f1) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Hope in Darkness](https://open.spotify.com/album/0DiQzmDqvy5fAO76Zu1t69) | 6:03 |
 | 8 | [Lettre de Lacchesi et Mac Declos à Chlär](https://open.spotify.com/track/5hh2Vbq1AqwlZxTUb9WrVF) | [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs), [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Lettre de Lacchesi et Mac Declos à Chlär](https://open.spotify.com/album/6eYKcGcp5aRyDX6q9z6rzO) | 6:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 63 | [NRG](https://open.spotify.com/track/4OCAw0wZ9wDemyYdUIZKFv) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 3:41 |
 | 64 | [Mutant Future](https://open.spotify.com/track/5a5FOSEEq8NKxS9umr8S0q) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Mutant Future](https://open.spotify.com/album/4aCVRkj9c61qEsXlm0yR3o) | 5:36 |
 
-Snapshot ID: `MCxmNGViYjUyYjU2MTJiNDlkZGNjMzkxYTQyMjRhNWM5NjQ5ZGRlZWQ0`
+Snapshot ID: `MCw2NjhmNGZkOTQxNTg1OWU3ZWNlNDgyMjQ2Y2Y1YzUxYzUyOGQzNTMw`

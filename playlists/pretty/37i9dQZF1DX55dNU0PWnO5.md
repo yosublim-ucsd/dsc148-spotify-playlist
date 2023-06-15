@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,302 likes - 190 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,464 likes - 190 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 189 | [She Can't Help It](https://open.spotify.com/track/75P1VfBkzYIzFDFHeqm1fY) | [Marcus Alan Ward](https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2) | [She Can't Help It](https://open.spotify.com/album/2bkqxeMMPaWryaLiBf0dZT) | 3:46 |
 | 190 | [The Great Conjunction](https://open.spotify.com/track/3XE0173HJVx4L34FqdakeK) | [Polyswitch](https://open.spotify.com/artist/2nAiJ5TWbKYMyQ5heeqQEX), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Praise the Sun](https://open.spotify.com/album/7uaWonOY8KMY4ejg4K1ETM) | 5:09 |
 
-Snapshot ID: `MCw3NGM2M2Q5MzM2M2M3NjQxYWM0YTk0OGViNzExNDdmMjAwZGRlZWQ1`
+Snapshot ID: `MCxkNmM1ZGQzNzQwNDYxZjYyYjY3MmRiZmM2NDM4MDQxNWJhMWZmZjZl`

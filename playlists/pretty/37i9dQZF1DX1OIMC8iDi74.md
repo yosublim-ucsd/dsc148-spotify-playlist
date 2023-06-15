@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,524 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,489 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 12 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 |
 | 13 | [GUD VIBRATIONS](https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [GUD VIBRATIONS](https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi) | 3:44 |
 | 14 | [Blame \(Tim Gunter Remix\)](https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO) | [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Tim Gunter](https://open.spotify.com/artist/0FIENxWAWlIBKgjGOoktIo), [LocateEmilio](https://open.spotify.com/artist/4AGZVmwi9IwFZ6y6TlMqLt) | [Blame \(Tim Gunter Remix\)](https://open.spotify.com/album/6NjGSlcPZwXDPRHcS7gVth) | 3:13 |
-| 15 | [MAKE ME DANCE](https://open.spotify.com/track/3at6CHKoGRGh5dzee3jREt) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [CHAOS](https://open.spotify.com/album/7AL5AHfLrkfHJZJwdP8yTx) | 3:22 |
+| 15 | [MAKE ME DANCE](https://open.spotify.com/track/0Kp9qaRwdruRMtwIBQYxRH) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [CHAOS](https://open.spotify.com/album/4qXiqNr5DuZXxkTRGi45LU) | 3:22 |
 | 16 | [Do You?](https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 3](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW) | 3:15 |
 | 17 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
 | 18 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [MINDDD](https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [MINDDD](https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq) | 2:01 |
 | 100 | [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 |
 
-Snapshot ID: `MCxjMjk1ZjM5YjA5OTA3NGE0NDNiNjMwYzA2Yjk1YTFlNGRiZDg4ZmNi`
+Snapshot ID: `MCw5NTE2ZjA0YmE3YTZjZjY4MzZiNDI1NGM0YmRjZTAwM2Y4YzNhZDJh`

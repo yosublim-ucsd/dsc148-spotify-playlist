@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-493 songs - 1 day 2 hr 34 min
+494 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Morning View](https://open.spotify.com/track/7z0ZmNJLTyMKEziFzRTk1l) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Morning View](https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX) | 3:15 | 2022-08-16 |  |
 | [Motel \#27](https://open.spotify.com/track/1Y3ljpiOvGbiXRGo60DMLT) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:48 | 2022-07-08 | 2022-10-01 |
 | [Motel \#27](https://open.spotify.com/track/74e2qzhkn66GvgTLJAicFR) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Motel \#27](https://open.spotify.com/album/5R6iPKAslcZJBhP9r6IqNJ) | 2:48 | 2021-10-07 | 2022-07-29 |
+| [Muriel’s Big Day Off](https://open.spotify.com/track/0HaquMHIt2eWSBsDbgvuLt) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Muriel's Big Day Off](https://open.spotify.com/album/6tcGTqalMaJpbcOlHXfXhX) | 3:21 | 2023-06-14 |  |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-04-14 |  |
 | [My Friends](https://open.spotify.com/track/2itZgYapZydY2kmKoN7xwV) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [I Love To Lie](https://open.spotify.com/album/38qy52coTmsTa90EOWeJLx) | 3:28 | 2022-10-24 | 2023-02-25 |
 | [My Honesty](https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [My Honesty](https://open.spotify.com/album/3LArpsuTipgbv0RQvdcxUF) | 3:55 | 2022-06-10 | 2022-08-17 |

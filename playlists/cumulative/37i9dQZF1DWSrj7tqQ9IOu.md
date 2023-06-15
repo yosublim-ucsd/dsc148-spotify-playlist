@@ -4,14 +4,15 @@
 
 > The best French indie tracks right now\. Cover: Christine and the Queens
 
-356 songs - 19 hr 32 min
+357 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["CEVICHE"...](https://open.spotify.com/track/0Lhz8qMfRXQFoLYivW36cQ) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [THIS LAKE IS SUCCESSFUL](https://open.spotify.com/album/4AgoGCem8ILqsZS63YTmo3) | 2:58 | 2023-03-23 | 2023-04-14 |
 | [1964](https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [1964](https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU) | 4:18 | 2022-04-28 | 2022-07-08 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 | 2022-06-03 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 |  |
 | [a ride](https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [a ride](https://open.spotify.com/album/4KUa7MP6XTWP3qJfh4VPcT) | 2:54 | 2022-08-25 | 2022-09-09 |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-10 | 2022-12-24 |

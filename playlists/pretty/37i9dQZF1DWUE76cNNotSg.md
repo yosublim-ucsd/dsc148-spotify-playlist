@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,864 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,135 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Old Bone \- Jim\-E Stack Remix](https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Old Bone \(Jim\-E Stack Remix\)](https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t) | 3:27 |
 | 80 | [We Belong \- Odesza Remix](https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [We Belong \(Odesza Remix\)](https://open.spotify.com/album/4CXye0cetb3quBfN2PE5nb) | 5:18 |
 
-Snapshot ID: `MCw5ZjM1YTkwOGIyN2Y3YWIyNGU2ZGYyZjA3MzIzNjljNzliZWNlOTEz`
+Snapshot ID: `MCw0NmQzODk0YTJjMjU4YmMzZGQ3MzI3ZTc5YTFhZjQ1ZTRkYzk4ZDc3`

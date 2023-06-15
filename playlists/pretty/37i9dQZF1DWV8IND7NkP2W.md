@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,212 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,265 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 36 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 |
 | 37 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 |
 | 38 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 |
-| 39 | [A moving scenery](https://open.spotify.com/track/6oi7kSSHFeZakUH8kn117V) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/0otxDrqWUcgfEOCz5UInSJ) | 5:43 |
+| 39 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 |
 | 40 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 |
 | 41 | [SUNSHOWER](https://open.spotify.com/track/2Hzc0G0PGKvBeNkA0TBlDb) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/0aaYXHwj0CoNUuRgJ223Zn) | 2:41 |
 | 42 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 |
 | 100 | [UMM](https://open.spotify.com/track/4EFlpLqNYaZQ5dySiioU9i) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [UMM](https://open.spotify.com/album/3OfeK7h6RcovN6GLC1COzq) | 2:12 |
 
-Snapshot ID: `MCw0YmE1N2U1NzVmZWMwNTkyNTRiZTY0NzM4Nzg5ZWExNzdkYzY1MzAx`
+Snapshot ID: `MCwyOTcxYWY2M2FiOTUzOTg1YTFmM2E4YTljOTRkOWZlMjY2NjYwZDFh`

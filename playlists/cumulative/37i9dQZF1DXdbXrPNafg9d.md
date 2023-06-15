@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Christine & The Queens
 
-5,396 songs - 13 day 4 hr 5 min
+5,398 songs - 13 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-28 | 2023-06-03 |
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2020-05-01 | 2020-05-29 |
 | [A Crime \(By Big Red Machine\)](https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [A Crime \(By Big Red Machine\)](https://open.spotify.com/album/2h0Xy3ana4QAheJYjve5er) | 2:50 | 2021-03-06 | 2021-04-24 |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-09 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-09 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-09 |  |
 | [A Different Kind of Life](https://open.spotify.com/track/1FLtlpPi18BEW5HQdY3R1C) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Different Kind of Life](https://open.spotify.com/album/32K1zSCDOngt2sF2cwFgcx) | 3:46 | 2020-11-13 | 2021-01-08 |
 | [A Dream With a Baseball Player](https://open.spotify.com/track/77kcmLEFqsXAeNaOj6orGN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [A Dream With a Baseball Player](https://open.spotify.com/album/0LmeiO3eL76aYTWdzW2QgB) | 3:41 | 2021-06-26 | 2021-08-07 |
 | [A Hopeful Ending](https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [A Hopeful Ending](https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq) | 3:22 | 2023-02-17 | 2023-03-25 |
@@ -4652,7 +4653,8 @@
 | [The Score](https://open.spotify.com/track/40roYs8BS6lmHQ1tLAtan2) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Score](https://open.spotify.com/album/5uYda4PJ9qCKnB6jqizxHi) | 2:41 | 2023-04-28 | 2023-06-03 |
 | [THE SITUATION](https://open.spotify.com/track/6UnG4dal594yzTT9U5OGF9) | [James Supercave](https://open.spotify.com/artist/5Oc8oZUaomLEy1mHOgL5Q6) | [THE SITUATION](https://open.spotify.com/album/153NqIwe8E2q2KI0G92V8p) | 5:07 | 2023-03-24 | 2023-04-29 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-09-04 | 2021-10-16 |
-| [The Sling](https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Sling](https://open.spotify.com/album/3a9mlAey1BcxzcQadfuFs6) | 3:33 | 2023-05-12 |  |
+| [The Sling](https://open.spotify.com/track/5zBy9ktMUUi2tPmDCsibhZ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Sling](https://open.spotify.com/album/3a9mlAey1BcxzcQadfuFs6) | 3:33 | 2023-05-12 | 2023-06-15 |
+| [The Sling](https://open.spotify.com/track/6SEHTEHmNtZ7Y1927AVuHv) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:33 | 2023-05-12 |  |
 | [The Smoke](https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smoke](https://open.spotify.com/album/6NH6Oo9j6WydhAZawVyLRE) | 3:39 | 2022-01-28 | 2022-03-26 |
 | [The Songwriter](https://open.spotify.com/track/170hzXi5kUdPzOOOd2s547) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [The Songwriter](https://open.spotify.com/album/4yPTZgLWH5BegxDyleuvOK) | 3:47 | 2021-04-24 | 2021-06-26 |
 | [the stage](https://open.spotify.com/track/6VRtWVUTmc0PyEoTG8nrOa) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [the stage](https://open.spotify.com/album/1XcLTFFXxykAVTKwQr5NxY) | 4:37 | 2019-07-20 | 2019-09-06 |

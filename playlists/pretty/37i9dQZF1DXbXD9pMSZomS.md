@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,095 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,228 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
 | 60 | [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 |
 
-Snapshot ID: `MCxlMmJkNmJjMDk0NjIzYWFmOWM3YTM5MmZjMzE5YTAxMGEyNWY5Y2Q5`
+Snapshot ID: `MCxkNTg5NmNkMzMyNTUxOTY2MGU1MWE2MDA0YWU3MDNkMDIwMGYzZGZi`

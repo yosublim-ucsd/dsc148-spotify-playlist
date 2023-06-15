@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,665 likes - 18 songs - 40 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 28,751 likes - 18 songs - 40 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 12 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 13 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 |
 | 14 | [Munchies](https://open.spotify.com/track/2b8eTSg00VV8OgaebIYOXV) | [kuuzeboy](https://open.spotify.com/artist/7cvu3WRCIw4yOTShJ2Vsor), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8) | [Munchies \(Remix\)](https://open.spotify.com/album/7dnxgFBRwTpnwjQZfwZ2FO) | 2:52 |
-| 15 | [MICHELIN](https://open.spotify.com/track/5lLpXVtuRXZgEgQJYXakgs) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 1:47 |
+| 15 | [MICHELIN](https://open.spotify.com/track/5lLpXVtuRXZgEgQJYXakgs) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 1:47 |
 | 16 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 |
-| 17 | [HIT EM UP!](https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:28 |
-| 18 | [GENESIS](https://open.spotify.com/track/3sJzVBrASbozclOfsoavP6) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:24 |
+| 17 | [HIT EM UP!](https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:28 |
+| 18 | [GENESIS](https://open.spotify.com/track/3sJzVBrASbozclOfsoavP6) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:24 |
 
-Snapshot ID: `MjgxMTEwMTEsMDAwMDAwMDBmYzBhNTlkN2IyYjhmZDZmODIwMDI2NGU5MzQ3YjNlOA==`
+Snapshot ID: `MjgxMTI1MDYsMDAwMDAwMDA2YTUwYzMxODc4YTc5MjQwNDkwNjczYzQwZmMwOWU1Nw==`

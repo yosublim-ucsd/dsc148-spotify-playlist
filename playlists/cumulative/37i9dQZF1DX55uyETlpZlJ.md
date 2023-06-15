@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-104 songs - 5 hr 50 min
+105 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,11 @@
 | [Mouna](https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI) | [Sanjay Purohit](https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Mouna](https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU) | 3:31 | 2023-03-13 |  |
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
-| [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 |  |
+| [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |
 | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR) | 4:11 | 2023-03-06 |  |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |
 | [Nanne Marethe](https://open.spotify.com/track/3RbxYSwVXgxn4nifFQxWIP) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [M.M.Nadaf](https://open.spotify.com/artist/36D2R8MIVTMDjellXJMSWM), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Nanne Marethe](https://open.spotify.com/album/2fdwYQ6gPqqRkBWmRA3360) | 3:01 | 2022-12-19 |  |
+| [Nannee Hradayava](https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Raveendra Muddi](https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf) | [Nannee Hradayava](https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo) | 3:12 | 2023-06-13 |  |
 | [Nannusire](https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech) | [Subhash Aras](https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ), [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup) | [Nannusire](https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT) | 3:56 | 2023-01-04 |  |
 | [Nee Nanna Jeeva](https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app) | [Naveen Hiremath](https://open.spotify.com/artist/000WyXOWRZlAYSCHOl6vbw) | [Nee Nanna Jeeva](https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU) | 4:38 | 2023-04-17 |  |
 | [Nee Saniha](https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nee Saniha](https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr) | 4:26 | 2023-05-03 |  |

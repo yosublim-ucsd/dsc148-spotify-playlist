@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades do pop que estão explodindo no Spotify\. ✨ Foto: Urias
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,899 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,949 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 79 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 |
 | 80 | [Hope](https://open.spotify.com/track/1fB1m65t28LjFyvEJpBIIf) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:29 |
 
-Snapshot ID: `MCxhMDg0NTYwMGVlNTFiZjc3YmU4ZmIxMDA5MGI2OGQ0MDNiYzZjZmQw`
+Snapshot ID: `MCwwZDJiNTdjNDlkMDY1YWRmZmExZDg3ZmQ3ZDVjMmMxNTY0ZTIwYjU4`

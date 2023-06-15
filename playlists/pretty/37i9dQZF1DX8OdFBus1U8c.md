@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,417 likes - 64 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,548 likes - 64 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 5 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 |
 | 6 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 |
 | 7 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 |
-| 8 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 |
+| 8 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 |
 | 9 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 |
 | 10 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i) | 3:03 |
 | 11 | [Kariveppila Akkiyo](https://open.spotify.com/track/4GCH2g0Nbjx5s0BzaWP4kS) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Kariveppila Akkiyo](https://open.spotify.com/album/0c7LB2klX4ce8oWI33lAbo) | 2:35 |

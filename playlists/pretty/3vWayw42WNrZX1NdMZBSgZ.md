@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Maluma
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,393 likes - 55 songs - 3 hr 2 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,396 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Fly Emirates",
+        "url": "https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "Fly Emirates",
+      "url": "https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91"
+    },
+    {
+      "album": {
         "name": "FORSSA",
         "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records.
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,872 likes - 60 songs - 3 hr 7 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,873 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 | 53 | [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/6GmficOc27L6sOU77yehvW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 2:56 |
 | 54 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 |
 | 55 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |
-| 56 | [Full Throttle](https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa) | [Divide](https://open.spotify.com/artist/44h5r3bvi1Y1hkz8gjQtbr) | [Chi Kidd](https://open.spotify.com/album/5Ozt1AdSyB8KLT3NAMtQJc) | 1:36 |
+| 56 | [Full Throttle](https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa) | [Divide](https://open.spotify.com/artist/7Cm2kCQKXn57TxXdRmIzh1) | [Chi Kidd](https://open.spotify.com/album/5Ozt1AdSyB8KLT3NAMtQJc) | 1:36 |
 | 57 | [Neck of the Woods](https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Neck of the Woods](https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI) | 2:09 |
 | 58 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 |
 | 59 | [Going Places](https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G) | [Going Places](https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv) | 2:51 |

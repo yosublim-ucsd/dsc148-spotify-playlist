@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,366 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,446 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 124 | [Lacerate](https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Lacerate](https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX) | 3:30 |
 | 125 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 |
 
-Snapshot ID: `MCxmNjMwMjkwZWYzZDExYTM2N2FiMzJmMjJjNTRmYTgyYTc5ZDI3ZGY2`
+Snapshot ID: `MCxiNjkwY2U0MDFjMTIwOTg2MjM2ZjYwNjUzMzhlM2EzMTcwNDdhZTA4`

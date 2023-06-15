@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,984 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,019 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 |
 | 100 | [All Good Fun](https://open.spotify.com/track/51Rn2Zin9vYbf3Mfn02RdX) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Mo Lowda & the Humble](https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq) | 3:40 |
 
-Snapshot ID: `MCw5MzZjYWI4NmI1NzlkMTc4OWYyNmFhY2U4ZGMwNWVmNzQxOWU0Mjg0`
+Snapshot ID: `MCw2OTBlNjlkN2U4ZWMwOTM1YmE3ODI5ZTM4OGQyNWQzZTE5NTViNzkw`

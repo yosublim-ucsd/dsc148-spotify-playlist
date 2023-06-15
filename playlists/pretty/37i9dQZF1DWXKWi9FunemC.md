@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,595 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,732 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Like the Dawn](https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC) | [Becky Higg](https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv) | [Maybe Just Maybe](https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8) | 5:19 |
 | 100 | [Love Together](https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH) | 4:14 |
 
-Snapshot ID: `MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz`
+Snapshot ID: `MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5`

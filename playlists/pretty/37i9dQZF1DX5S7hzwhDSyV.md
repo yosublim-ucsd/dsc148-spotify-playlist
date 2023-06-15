@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,118 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,231 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 |
 | 100 | [After You've Gone](https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX) | [Benny Goodman Quintet](https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 3:03 |
 
-Snapshot ID: `MCw0MTU1MWY3MmMxZTNkNjBlMDUwNmJiOTRlNTQyNzE3MzBmMzA4ODYz`
+Snapshot ID: `MCxmYWU3ZjMzNzFlZDllZDg3NGJiZWE1M2M1YTIwY2EwYmIxYjkwYzEz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Benjamin Jephta Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Anthony Hervey Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 153133,
       "name": "1999 - Single Version",
       "url": "https://open.spotify.com/track/3ppYFS7QhJgmHfyxnngMpe"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 174782,
       "name": "All That I Got",
       "url": "https://open.spotify.com/track/4FdjZpYgtvjuxWNWYJp0Jl"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 343753,
       "name": "Bongo Beep",
       "url": "https://open.spotify.com/track/4k45sFZLdhIuLOnTPvtc1w"
@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 192515,
       "name": "Cargo of Oranges",
       "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 468671,
       "name": "Cerca de Mi",
       "url": "https://open.spotify.com/track/4AWvohlzPwO16TkG8QUlKm"
@@ -4231,6 +4231,28 @@
     },
     {
       "album": {
+        "name": "Como El Viento",
+        "url": "https://open.spotify.com/album/5lMi5TqJerVF2VAVQDZ8U9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Ricardo",
+          "url": "https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567"
+        },
+        {
+          "name": "Dami\u00e1n Botigu\u00e9",
+          "url": "https://open.spotify.com/artist/2ymmifhcBMARPeIjZPz3uJ"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255307,
+      "name": "Como El Viento",
+      "url": "https://open.spotify.com/track/1btzPRLIQCbQgni2IZ7T1n"
+    },
+    {
+      "album": {
         "name": "Confirmation",
         "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 410978,
       "name": "Constant Vacillation",
       "url": "https://open.spotify.com/track/3J9RmqaC9QrSbGvUoJLbXU"
@@ -4416,7 +4438,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 192353,
       "name": "Corner of Memories",
       "url": "https://open.spotify.com/track/29gW43okMTzFR6P9g0yi41"
@@ -5658,6 +5680,28 @@
       "duration_ms": 171173,
       "name": "Drumatix",
       "url": "https://open.spotify.com/track/6BmQG71w03i9Aa91EjB6XR"
+    },
+    {
+      "album": {
+        "name": "Words From My Horn",
+        "url": "https://open.spotify.com/album/0kDMFx3T20mc0a8PHpmnwt"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hervey",
+          "url": "https://open.spotify.com/artist/33iivLf5bwxNceM1PUvvk9"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188132,
+      "name": "Du-Rag",
+      "url": "https://open.spotify.com/track/0X9jMXZlMwqTYINyvbezK9"
     },
     {
       "album": {
@@ -8164,7 +8208,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 178500,
       "name": "Helium Three",
       "url": "https://open.spotify.com/track/5M3GMHe1p5kgrba3OSF6gz"
@@ -8186,6 +8230,28 @@
       "duration_ms": 415706,
       "name": "Hendo Mode",
       "url": "https://open.spotify.com/track/6GKZsoNJjwtSObX4fUW3zQ"
+    },
+    {
+      "album": {
+        "name": "Hi Jack!",
+        "url": "https://open.spotify.com/album/44NrqD8iebqWU9ctYfxBHD"
+      },
+      "artists": [
+        {
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        },
+        {
+          "name": "Eric Escanes",
+          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267853,
+      "name": "Hi Jack!",
+      "url": "https://open.spotify.com/track/6hIl0ubhTcYbC2QaeeANgA"
     },
     {
       "album": {
@@ -9478,6 +9544,24 @@
       "duration_ms": 444843,
       "name": "Interstellar Lowways",
       "url": "https://open.spotify.com/track/1A88CCfUoTx1nxWFCEBNUH"
+    },
+    {
+      "album": {
+        "name": "Intertwined",
+        "url": "https://open.spotify.com/album/1MrxDXyXLKjllnKehm1BbD"
+      },
+      "artists": [
+        {
+          "name": "George Bloomfield",
+          "url": "https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249882,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/20F70y7O2HhCFbzicxPV7g"
     },
     {
       "album": {
@@ -10865,6 +10949,24 @@
     },
     {
       "album": {
+        "name": "Last Hour",
+        "url": "https://open.spotify.com/album/2X0bCEIdcJhqK4gpSS3jbW"
+      },
+      "artists": [
+        {
+          "name": "Mama Terra",
+          "url": "https://open.spotify.com/artist/6lQtoDntLVJ1I5naPmQ0L1"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338946,
+      "name": "Last Hour",
+      "url": "https://open.spotify.com/track/1wqkwHmmgjlmrvfLQPPhwg"
+    },
+    {
+      "album": {
         "name": "Last Straw",
         "url": "https://open.spotify.com/album/0MmyZfNVh2KOXqgAHaadvO"
       },
@@ -12127,6 +12229,28 @@
     },
     {
       "album": {
+        "name": "Distance Of The Moon",
+        "url": "https://open.spotify.com/album/13rBE91CvQnT8mwYpCPGMU"
+      },
+      "artists": [
+        {
+          "name": "Nora Stanley",
+          "url": "https://open.spotify.com/artist/5Qapwk8xC4dNfsSeA1KyME"
+        },
+        {
+          "name": "Benny Bock",
+          "url": "https://open.spotify.com/artist/0whJ2FDPMvAL5DQaEox7RD"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243058,
+      "name": "Maurice",
+      "url": "https://open.spotify.com/track/5x3R65K1vpFrdtorg5oD9D"
+    },
+    {
+      "album": {
         "name": "Revenge of the Tritones",
         "url": "https://open.spotify.com/album/1NoMayZYhtrMy7PLcV9nEe"
       },
@@ -12420,6 +12544,24 @@
       "duration_ms": 218254,
       "name": "Midas",
       "url": "https://open.spotify.com/track/5dsCKO6g6lXjnN6y4v9NAC"
+    },
+    {
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/06ax9zTM5EG28UyJHWdcJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma Rawicz",
+          "url": "https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/2O6SDo3uFiZMLt2GLtTvWI"
     },
     {
       "album": {
@@ -13646,7 +13788,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 205000,
       "name": "No Funny (feat. Yoshi T.)",
       "url": "https://open.spotify.com/track/78Uxd4JjEj0Iy5qtEINWfb"
@@ -14066,7 +14208,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 277906,
       "name": "Off Grid",
       "url": "https://open.spotify.com/track/6jjUY3vpy2wyPIThJ4HzsC"
@@ -14084,7 +14226,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 251786,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
@@ -14678,7 +14820,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 430967,
       "name": "Paljas",
       "url": "https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ"
@@ -15086,6 +15228,24 @@
       "duration_ms": 322509,
       "name": "Pinocchio Drift",
       "url": "https://open.spotify.com/track/14ffi9v8ocgYTKnOOuqSYI"
+    },
+    {
+      "album": {
+        "name": "Manso",
+        "url": "https://open.spotify.com/album/2hz5OdsfsPKNnjHJKvbJyC"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza Mayor",
+          "url": "https://open.spotify.com/artist/7aCTabrba5ejvsfMgq9QCV"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279586,
+      "name": "Pira\u00f1a",
+      "url": "https://open.spotify.com/track/0vEW5eJdKqXYtXeHWQyqzQ"
     },
     {
       "album": {
@@ -15718,7 +15878,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 259842,
       "name": "RagJazz",
       "url": "https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU"
@@ -16208,6 +16368,24 @@
       "duration_ms": 138017,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/5M8KqQxnT6Sl2AdsMlRM37"
+    },
+    {
+      "album": {
+        "name": "resketch",
+        "url": "https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf"
+      },
+      "artists": [
+        {
+          "name": "PIANO SHIFT",
+          "url": "https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "resketch",
+      "url": "https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5"
     },
     {
       "album": {
@@ -18275,6 +18453,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS"
+      },
+      "artists": [
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314446,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s"
+    },
+    {
+      "album": {
         "name": "Starshine",
         "url": "https://open.spotify.com/album/7m6wntXpuUnxWdLxY2pwwa"
       },
@@ -19554,7 +19750,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 318333,
       "name": "The Ben-Dhlamini Stomp",
       "url": "https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP"
@@ -21031,6 +21227,32 @@
     },
     {
       "album": {
+        "name": "Tower Of Liars",
+        "url": "https://open.spotify.com/album/6aWIJx0iBPs0PbuWWKD1d2"
+      },
+      "artists": [
+        {
+          "name": "John Hadfield",
+          "url": "https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        },
+        {
+          "name": "Chris Jennings",
+          "url": "https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362373,
+      "name": "Tower of Liars",
+      "url": "https://open.spotify.com/track/5pAnfRUSaklr3KZBrzKFAl"
+    },
+    {
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp"
       },
@@ -21908,7 +22130,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 232048,
       "name": "Vista Ahead",
       "url": "https://open.spotify.com/track/6VbahJdYLLtV3uhQYyq0Fl"
@@ -22214,7 +22436,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 202926,
       "name": "Water Dragon",
       "url": "https://open.spotify.com/track/4OjqFq5JurdQJJGINkWqnt"
@@ -22368,6 +22590,28 @@
       "duration_ms": 281400,
       "name": "Weh Dem A Do?",
       "url": "https://open.spotify.com/track/78o5Okuk7d7V990eeyGWt8"
+    },
+    {
+      "album": {
+        "name": "Weird Funk Wout Lyrics",
+        "url": "https://open.spotify.com/album/7uxDlk7wwJHrKf78JNMZ6j"
+      },
+      "artists": [
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Federico Malaman",
+          "url": "https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95508,
+      "name": "Weird Funk Wout Lyrics",
+      "url": "https://open.spotify.com/track/7oN2Jvf4lbXH3cH65kGnZf"
     },
     {
       "album": {
@@ -22950,7 +23194,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 229166,
       "name": "Y Gwydd - Radio Edit",
       "url": "https://open.spotify.com/track/4Yq4eCneD1VsZA9IyQreow"
@@ -23610,6 +23854,24 @@
       "duration_ms": 258000,
       "name": "\u672c\u65e5\u306f\u6674\u5929",
       "url": "https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF"
+    },
+    {
+      "album": {
+        "name": "\u8d85\u3072\u3082",
+        "url": "https://open.spotify.com/album/0g5TkTo1pcdVpavx79TKVQ"
+      },
+      "artists": [
+        {
+          "name": "slowstoop",
+          "url": "https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "\u8d85\u3072\u3082",
+      "url": "https://open.spotify.com/track/1zmHeMiiOMZphW0Im9AkzW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG"

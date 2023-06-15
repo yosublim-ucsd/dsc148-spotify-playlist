@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: MJ Nebreda
 
-220 songs - 11 hr 28 min
+221 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amor](https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44) | 2:35 | 2022-09-16 | 2023-02-27 |
 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 | 2022-03-22 | 2022-04-29 |
 | [Apaguen \- Kidd Spin Mix](https://open.spotify.com/track/4wizT98jfg86xf68EG4E0Y) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kidd Spin](https://open.spotify.com/artist/2DMpyk6UvqyiQIfJdkFswE) | [Evolucion](https://open.spotify.com/album/6crMJx69lZsGYUV58YGPZr) | 2:42 | 2023-03-03 |  |
+| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-06-14 |  |
 | [Baila \(La Banda\)](https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Baila \(La Banda\)](https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb) | 2:38 | 2023-05-26 |  |
 | [Bella Ciao \- Bruno Martini Remix](https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bella Ciao \(Bruno Martini Remix\)](https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty) | 2:41 | 2022-03-22 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-01 | 2023-05-27 |
@@ -62,7 +63,7 @@
 | [Esperare](https://open.spotify.com/track/6LDrO6oVhyL64YUcWCRJkV) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Esperare](https://open.spotify.com/album/19RbGJQC073xwxlvFhbkue) | 2:26 | 2022-10-28 | 2023-05-27 |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-14 |  |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-04-29 | 2022-05-24 |
-| [EXTASI](https://open.spotify.com/track/7x3j9aoz4TFFbteaEhTxBD) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [EXTASI](https://open.spotify.com/album/3MVQ9Twt0scstIGS1aAn5p) | 2:37 | 2023-01-27 |  |
+| [EXTASI](https://open.spotify.com/track/7x3j9aoz4TFFbteaEhTxBD) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [EXTASI](https://open.spotify.com/album/3MVQ9Twt0scstIGS1aAn5p) | 2:37 | 2023-01-27 | 2023-06-15 |
 | [Falso Amor](https://open.spotify.com/track/2sNKnmpgjKJgyPDAfqxL80) | [Salomé](https://open.spotify.com/artist/3GzqWbNPAKo0u0f5Dz6AUJ) | [Falso Amor](https://open.spotify.com/album/693AKWbr6QeY6mvnNhBD8c) | 2:51 | 2022-03-22 | 2022-04-21 |
 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 | 2022-04-20 | 2023-03-04 |
 | [Fiesta Forever](https://open.spotify.com/track/2RGUFATsyrVxWYhCNUfU9R) | [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Fiesta Forever \(Produced by Cuban Deejays\)](https://open.spotify.com/album/0fwWbAUwfLJnH4xSvIn82x) | 2:32 | 2022-03-22 | 2022-04-21 |

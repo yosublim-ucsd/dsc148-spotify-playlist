@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,875 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,959 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [mist](https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 6:33 |
 | 80 | [Feel What You Need](https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan) | [Thomas Slinger](https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Higher Ground](https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW) | 3:01 |
 
-Snapshot ID: `MCw3NjdlNTYwOWFlN2YzNmU2MDgyZjk4YWI3ZmIwYWYwMjVhNDhjMWU1`
+Snapshot ID: `MCw2NTM4MDMyM2Q0Nzg5NTc3Yjk3NDQ2M2MwNTZiMjA4MWEyMGFlM2Mx`

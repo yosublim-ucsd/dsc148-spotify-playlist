@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,229 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,250 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 | 75 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
 
-Snapshot ID: `MCxlZDNmNTIzYzgzZDgyODlkZmRlZWM4ZDQ5OTI5NzFiOTQ4MjdmMzUw`
+Snapshot ID: `MCxmMGM3NjI0YWU5NzUwN2Q4NzdlMmY1Njg5YTBlNWYxMDA3MjBmN2Qz`

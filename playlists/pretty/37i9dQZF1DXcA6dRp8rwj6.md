@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: J Hus x Drake\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,753 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,828 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 46 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 |
 | 47 | [CRASH MERCEDES](https://open.spotify.com/track/4UG6e66KcCU6HW3sCxAtqQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ALBUM ON THE WAY!](https://open.spotify.com/album/04XXB9lcA6N9UN4CmsAh2g) | 2:19 |
 | 48 | [Won't Let Me Stay](https://open.spotify.com/track/0R3EuYjSncQUnAaZkGudkb) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/5yvgplbIo3xLhGW7Y2agIz) | 2:17 |
-| 49 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:55 |
+| 49 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 |
 | 50 | [Run Away](https://open.spotify.com/track/6ESrmKdVVA03lWp0vuP93X) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Run Away](https://open.spotify.com/album/2vzjyYBZjw3xrO6tKHZind) | 3:34 |
 | 51 | [Higher](https://open.spotify.com/track/69tm8DULyxtf6p7iR4JPv7) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL) | [Higher](https://open.spotify.com/album/6Q8YkF94mFLWN467K9425q) | 2:52 |
 | 52 | [Long Sleeper](https://open.spotify.com/track/5oo5F3bzsf4j7NwGCQSu6r) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Long Sleeper](https://open.spotify.com/album/73q4KWBA9yBYsugFJnaTK1) | 2:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 96 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 97 | [Wake Up Call](https://open.spotify.com/track/1cuV4c3phVhyBDqh0N811c) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:02 |
 
-Snapshot ID: `MCwxODVkYjI4MTVlZmVjODI5NDA5ZTA0OGZkYTE3YmFiYTc2OTYzY2Mx`
+Snapshot ID: `MCxmZjQzZjUyYTJjY2QxYTA1NDY4NmY1ZDg0MjQ5MWE2ZDhkM2MzYzU2`

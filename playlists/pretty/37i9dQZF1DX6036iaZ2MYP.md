@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,329 likes - 35 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,403 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 26 | [RDV](https://open.spotify.com/track/5bHQArgWUfUkpVgUeebG2V) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [RDV](https://open.spotify.com/album/1jUNyRcjiJt5QazplahPr6) | 2:29 |
 | 27 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
 | 28 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
-| 29 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 |
-| 30 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
-| 31 | [Nakupenda](https://open.spotify.com/track/2hNHmy4JZqx5eWUYsNB9lt) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [Nakupenda](https://open.spotify.com/album/4gSUv6jfjDJXL8to2ep6Hj) | 3:30 |
-| 32 | [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 |
+| 29 | [Baby Chou](https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n) | [YNS](https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6) | [Baby Chou](https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars) | 3:04 |
+| 30 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 |
+| 31 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
+| 32 | [Nakupenda](https://open.spotify.com/track/2hNHmy4JZqx5eWUYsNB9lt) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [Nakupenda](https://open.spotify.com/album/4gSUv6jfjDJXL8to2ep6Hj) | 3:30 |
 | 33 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 |
 | 34 | [Sans Toi \- Remix](https://open.spotify.com/track/6BnDehrpsY3LQrrrANSEiF) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Ekany](https://open.spotify.com/artist/7GgFXkbjGp2RnA3dnh1Yxq) | [Sans Toi \(Remix\)](https://open.spotify.com/album/15GJTjjpwIxGOvdjxUCaKm) | 4:00 |
 | 35 | [Miss Des Miss](https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miss Des Miss](https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S) | 2:34 |
 
-Snapshot ID: `MCwxNzdjMWZmNTVmNWU5OTNhZTZlMDVkMDhmZThhNmRhZDJjMzM0YjZi`
+Snapshot ID: `MCxhMTQ2OWM0N2M0NjVkYWI3NjlkNzk0NTIzZmQzNGJlNGQ5Mzc2MmY0`

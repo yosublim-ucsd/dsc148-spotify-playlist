@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,953 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,952 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 11 | [Tarde Demais](https://open.spotify.com/track/5amoazrtaLdXHIt7YVyuyX) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tarde Demais](https://open.spotify.com/album/39xDYbhw11PU3AaD8SRJ6E) | 3:48 |
 | 12 | [cuida de mim](https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [cuida de mim](https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE) | 2:53 |
 | 13 | [Quando a Cidade Te Engolir](https://open.spotify.com/track/4IrPMbWD7dMCPMERokpwmd) | [Disaster Cities](https://open.spotify.com/artist/3vKjfCsDtpVTKvUdU08O1M) | [Erasing Karma](https://open.spotify.com/album/1dZz30rUJ6za0cBguk9J5S) | 4:09 |
-| 14 | [Nas Canções de Amor \- Ao vivo](https://open.spotify.com/track/3cnY1LQ6bVGBH2DvvJqc4w) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Rogerio Skylab no Estúdio Showlivre, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0v1RGRcSjtKWJBk35jnnVS) | 8:49 |
+| 14 | [Nas Canções de Amor \- Ao vivo](https://open.spotify.com/track/3cnY1LQ6bVGBH2DvvJqc4w) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Rogerio Skylab no Estúdio Showlivre, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0v1RGRcSjtKWJBk35jnnVS) | 8:49 |
 | 15 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 |
 | 16 | [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 |
 | 17 | [Paradoxo](https://open.spotify.com/track/0KVO2HuQO24yNo7zLjeO8Z) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Paradoxo](https://open.spotify.com/album/4omX4iA6T5O5TB0Nhy51Li) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
 | 75 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 
-Snapshot ID: `MCw2MjI5ZTM0NTVmNTM3NWY5MWJjMDg3ZTAzZjlkMGY3MzQ2MTk2M2Nl`
+Snapshot ID: `MCw3NWU3ZjlhZGQ5ZWMwNzE1YmM3NTIyZjZmMzMwY2Y0OTJiN2YyYTYx`

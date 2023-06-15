@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Sethu in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,608 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,623 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 |
 | 80 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 |
 
-Snapshot ID: `MCxlOGIzMWYwMWUyY2NkNzlhNDI2ODU2NTFiNDJhNDhiNjk3OTI3NjEz`
+Snapshot ID: `MCwwMDZkZTYyMDkyZWNhNDAzZGIxN2QzNDFhM2Q1OWY2ZWI3NGNlZTU2`

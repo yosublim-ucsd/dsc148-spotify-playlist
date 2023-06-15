@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Akull
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,908 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,960 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Maaf](https://open.spotify.com/track/6TBlNhVK6NH2Ooo8O3vAgZ) | [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Maaf](https://open.spotify.com/album/2zUhLtlMX4Im2mhSTG5a3I) | 2:46 |
 | 50 | [Wahi Toh Khuda Hai](https://open.spotify.com/track/0EZOjxzo4VwbXTT1z8k0yP) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Wahi Toh Khuda Hai](https://open.spotify.com/album/7jCaWezpvGA2Ktjsq4GNwX) | 3:55 |
 
-Snapshot ID: `MCwzNjViYTk2NTNjNTVhMWQ2MTVkMGYxMjVjMmViZWI5NWNiMWI0OTA3`
+Snapshot ID: `MCxhZWU3Njg1OTQ0ZGVlNDVhOGFiNGJjZWFjN2YzMTZlYmZlOGRjYmM3`

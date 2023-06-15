@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,848 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,868 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [本田未央からのスペシャルメッセージ](https://open.spotify.com/track/0De2MDAXEekU881vX239Vk) | [本田未央\(CV:原紗友里\)](https://open.spotify.com/artist/7Atkvgw96fU6tcMHbz8286) | [THE IDOLM@STER CINDERELLA GIRLS \- アイドルマスター シンデレラガールズ](https://open.spotify.com/album/0giql2McKrt7qyxYnaqIzl) | 0:41 |
-| 2 | [廻談詣り \- GAME VERSION](https://open.spotify.com/track/023TRMR0Xt8AVaLGEblnw2) | [依田芳乃 \(CV: 高田憂希\)](https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE), [白坂小梅 \(CV: 桜咲千依\)](https://open.spotify.com/artist/2GiPM8X6iCXmSgHo1qnI3G) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! SERIES GAME VERSION](https://open.spotify.com/album/5y21shZV9EOZQU5oMJPjX5) | 2:09 |
+| 2 | [廻談詣り \- GAME VERSION](https://open.spotify.com/track/2AVMbQS1RDnKgSiQ5Lnw89) | [依田芳乃 \(CV: 高田憂希\)](https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE), [白坂小梅 \(CV: 桜咲千依\)](https://open.spotify.com/artist/2GiPM8X6iCXmSgHo1qnI3G) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 17 廻談詣り](https://open.spotify.com/album/1xb3VDgYfoKw7uCXVN06VA) | 2:07 |
 | 3 | [大阪タコちゃんラブちゃん \- GAME VERSION](https://open.spotify.com/track/1ZebMSlz3pCTifslfDt7YX) | [難波笑美 \(CV: 伊達朱里紗\)](https://open.spotify.com/artist/7lRr2xc28z9wqMfkgojocQ) | [大阪タコちゃんラブちゃん \(GAME VERSION\)](https://open.spotify.com/album/0bSDucKJALej1QKHK7Fvyf) | 2:09 |
 | 4 | [セレブレイト・スターレイル \- GAME VERSION](https://open.spotify.com/track/0Oq5Jzl8qADNgkWDQGMS50) | [西園寺琴歌 \(CV: 安齋由香里\)](https://open.spotify.com/artist/0SjMGzYBPzYq2wcbkrJfBG) | [セレブレイト・スターレイル \(GAME VERSION\)](https://open.spotify.com/album/4taFcojRhAxO38KTtYNsFm) | 2:02 |
 | 5 | [ノーチラスソナー \-Nautilus Sonar\- \- GAME VERSION](https://open.spotify.com/track/3Z5ilicSpeZs4Nh1MgHI2O) | [八神マキノ \(CV: 二ノ宮ゆい\)](https://open.spotify.com/artist/5vyGBMHNEpUdZMeC7HMxQv) | [ノーチラスソナー \-Nautilus Sonar\- \(GAME VERSION\)](https://open.spotify.com/album/6hD0YS8y3DKmRTiyLhv9V8) | 2:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [2nd SIDE \- GAME VERSION](https://open.spotify.com/track/704SO2asM3hYJ8FjT839g1) | [神谷奈緒 \(CV: 松井恵理子\)](https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC) | [THE IDOLM@STER CINDERELLA MASTER 021〜030 GAME VERSION](https://open.spotify.com/album/76dSSs80SvnPMlavxm7k44) | 1:58 |
 | 75 | [双翼の独奏歌 \- GAME VERSION](https://open.spotify.com/track/11qMi0OAhhqiabKdGnITE5) | [神崎蘭子 \(CV: 内田真礼\)](https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU), [二宮飛鳥 \(CV: 青木志貴\)](https://open.spotify.com/artist/5uxGhOFbwcOXzHkPgZ5Kwi) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:00 |
 
-Snapshot ID: `MCwzZDdhZjlkOWI1ZDE5MTgxOGNkNTdhNzk1YTY2MTM1MWMxZjZhYzZj`
+Snapshot ID: `MCw5YWE4MDJjOTc3NzZjMzI3MjQ4NmFlMTA4NDkzYzg1ZjI4ZmY4OGQ4`

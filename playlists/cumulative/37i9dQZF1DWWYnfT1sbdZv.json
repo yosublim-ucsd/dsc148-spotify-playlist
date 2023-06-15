@@ -2969,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 17 \u5efb\u8ac7\u8a63\u308a",
+        "url": "https://open.spotify.com/album/1xb3VDgYfoKw7uCXVN06VA"
+      },
+      "artists": [
+        {
+          "name": "\u4f9d\u7530\u82b3\u4e43 (CV: \u9ad8\u7530\u6182\u5e0c)",
+          "url": "https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE"
+        },
+        {
+          "name": "\u767d\u5742\u5c0f\u6885 (CV: \u685c\u54b2\u5343\u4f9d)",
+          "url": "https://open.spotify.com/artist/2GiPM8X6iCXmSgHo1qnI3G"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127640,
+      "name": "\u5efb\u8ac7\u8a63\u308a - GAME VERSION",
+      "url": "https://open.spotify.com/track/2AVMbQS1RDnKgSiQ5Lnw89"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! SERIES GAME VERSION",
         "url": "https://open.spotify.com/album/5y21shZV9EOZQU5oMJPjX5"
       },
@@ -2984,7 +3006,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-15",
       "duration_ms": 129088,
       "name": "\u5efb\u8ac7\u8a63\u308a - GAME VERSION",
       "url": "https://open.spotify.com/track/023TRMR0Xt8AVaLGEblnw2"

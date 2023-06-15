@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,417 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,582 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Baby](https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Baby](https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM) | 2:58 |
 | 80 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 
-Snapshot ID: `MCwxYTE5NGRjOTk5YTBiMzUyMTQ1NTE5M2Q0NTBkNWQzYTdiMWIyZGE4`
+Snapshot ID: `MCwzMDVlNjRmNmMwMWY4Y2MxYTM2NWU4Nzc5ODAzZWVhNTIxYjc3ZThl`

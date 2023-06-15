@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ana Tijoux en portada.
 
-197 songs - 10 hr 10 min
+197 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Lick \(Remix\)](https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [Lick \(Remix\)](https://open.spotify.com/album/4es9EtTbWRJEyKwJLNGu8N) | 2:19 | 2023-01-07 | 2023-02-21 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-10 |  |
 | [LQRA Session \#11](https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [LQRA Session \#11](https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC) | 4:06 | 2023-02-20 |  |
-| [LQRA Session \#15](https://open.spotify.com/track/6QughjBgNjL3rxAVjFDL4F) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD) | [LQRA Session \#15](https://open.spotify.com/album/3BspHApoDQKjNvm4t3InJz) | 4:12 | 2023-06-09 |  |
+| [LQRA Session \#15](https://open.spotify.com/track/6QughjBgNjL3rxAVjFDL4F) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD) | [LQRA Session \#15](https://open.spotify.com/album/3BspHApoDQKjNvm4t3InJz) | 3:12 | 2023-06-09 |  |
 | [Lucha Como Mujer](https://open.spotify.com/track/0Mg7ZvxW1vAHAE4T7Q8sbo) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Lucha Como Mujer](https://open.spotify.com/album/2PjpsMtaD4VvNoImmSlHVC) | 2:30 | 2023-02-20 |  |
 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 | 2022-11-08 |  |
 | [M4KYNA](https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [M4KYNA](https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB) | 2:54 | 2023-03-24 |  |

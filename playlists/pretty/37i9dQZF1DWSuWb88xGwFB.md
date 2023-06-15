@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,520 likes - 75 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,541 likes - 75 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 75 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
 
-Snapshot ID: `MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5`
+Snapshot ID: `MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz`

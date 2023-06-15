@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stephan Jolk, braev
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,734 likes - 88 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,885 likes - 88 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 |
 | 88 | [Ice Cream](https://open.spotify.com/track/2ftIFydkGPlHv982KWiyHf) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Ice Cream](https://open.spotify.com/album/6zUXUOaZwotqGoI7OvTYdx) | 5:05 |
 
-Snapshot ID: `MCwxZWMxYTQzMjIyNTk2ODhkY2U1OTcyNzY3Y2I5ZGMwYTE1NDI1YjIx`
+Snapshot ID: `MCwzOTI2M2NmMjg3YTlhMTY3MzRiYjM1MWYzYzYxMTNlZmJmYzQyY2Y1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 318,448 likes - 100 songs - 6 hr 30 min
+[Digster](https://open.spotify.com/user/digster.fm) - 318,442 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

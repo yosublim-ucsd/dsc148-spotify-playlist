@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Christine and the Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,096 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,145 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 1 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 2 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
 | 3 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 |
 | 4 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 |
 | 50 | [two lovers](https://open.spotify.com/track/1xVcq9tIYMVFNS9vwNSQpO) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [two lovers](https://open.spotify.com/album/1V2vE1NW1HTLR7Pyzcls6U) | 2:52 |
 
-Snapshot ID: `MCw0YWFkYTYwYmE4ZDY4ZWNiM2Q0OTFlY2JiMTlmN2FjNDMxMzRmYzIx`
+Snapshot ID: `MCwzZTZiMTIxZmZhNGI5YjllNmZiNDVmNzg2ZjJmNmUyOWMyNjZlNWQx`

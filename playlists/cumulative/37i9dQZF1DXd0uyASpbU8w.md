@@ -4,13 +4,14 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=tx7HKXszTPKz14xbc5CrQA">J Hus</a>
 
-232 songs - 14 hr 45 min
+233 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Past 4](https://open.spotify.com/track/2uO4maCoqCaJwx1bSOe3C6) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [LastbornDiroba](https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G) | [10 Past 4](https://open.spotify.com/album/2dAXwNOJDV9yJB6nXXxT6M) | 6:58 | 2023-05-25 | 2023-06-02 |
 | [11:11 Makukhanye](https://open.spotify.com/track/3W8XdI8x69oaLRnsaRAx3h) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [11:11 Makukhanye](https://open.spotify.com/album/2qj9Jzqo14r8wSUNmMvYG5) | 2:18 | 2023-06-08 |  |
-| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 |  |
 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 | 2023-06-08 |  |
 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-05-25 | 2023-06-02 |
 | [African Prayer \- Radio Edit](https://open.spotify.com/track/3OC5eq62b3qYY64XxzYqAZ) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [OX Sounds](https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy) | [African Prayer \(Radio Edit\)](https://open.spotify.com/album/7qTpMSJoBybyDga1uJ8Cuy) | 3:51 | 2023-06-08 |  |

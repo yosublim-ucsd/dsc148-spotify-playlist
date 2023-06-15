@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Henrique e Juliano, Tasha e Tracie, Cynthia Luz, Lexa e Gustavo Mioto, Rosalía e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,795 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880,051 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Eu Te Admirava Mais](https://open.spotify.com/track/1MILmTfbUk9wa8cAwfwxre) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Eu Te Admirava Mais](https://open.spotify.com/album/4c1yUrNC41se31opXEqhvQ) | 2:38 |
 | 76 | [Promessas](https://open.spotify.com/track/0pn6Ygo0ywOxpY8lD2IrtQ) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Promessas](https://open.spotify.com/album/1jYAgiLYn18Mx98FDPrry7) | 5:05 |
 | 77 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
-| 78 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 |
+| 78 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 79 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 |
 | 80 | [Honey I'm Home](https://open.spotify.com/track/5U7QTTy3KlqNkNFDcEUMea) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play](https://open.spotify.com/album/2PMcA7AaZxQXmj62zGJLcd) | 4:09 |
 | 81 | [Me Faz Sentir](https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh) | [Aya Oficial](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Me Faz Sentir](https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2) | 3:51 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [No Air](https://open.spotify.com/track/0yeMGcQyRgcTeFGPRgpLNa) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [AXXE](https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i), [Ventura](https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC) | [No Air](https://open.spotify.com/album/7D1UOobbVg5OCmMEN0Adlq) | 2:44 |
 | 97 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 |
 
-Snapshot ID: `MCwxY2E3NjZiNzA0NjViMzIzNjQ4NDY3ZmFlMDU5ZjQwNjMwNmNjN2I1`
+Snapshot ID: `MCw3MjZkMmI0ZjMzYjk3ZGQ5YjdlZTQ5MjJjZDMwMDdlNjc1NTZmZjYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,306 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,370 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
 | 80 | [Quem Sou Eu Sem Você?](https://open.spotify.com/track/54Dw2XPvYm2LlWx9n2jqjr) | [Jujubita](https://open.spotify.com/artist/3bo6KIZeJRIscQKaeqroVg) | [Quem Sou Eu Sem Você?](https://open.spotify.com/album/5E8SijDUIc5m9rt6zuTfTF) | 2:40 |
 
-Snapshot ID: `MCwzZmUxM2Y4NzU5Yzk1OWVjYWNiNjhiNmJiMTk2OWMzZDAwMmI2ZTNi`
+Snapshot ID: `MCwxMzg3NjU5NmVlYThiYTFkZmNiY2RhZDIxYTQyMjczZjU2MzQ4MWEy`

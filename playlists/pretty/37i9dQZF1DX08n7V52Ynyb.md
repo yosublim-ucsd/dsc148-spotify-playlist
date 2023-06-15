@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,363 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,423 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 |
 | 100 | [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 |
 
-Snapshot ID: `MCxmYWZiNjQ2MjI2ODFiYWYyMTE2YzdhZjc2NGQ3ZTliODYxZTJiYjMw`
+Snapshot ID: `MCw0MzVkNjI1YTMyY2IzMTBhN2YxYzJmYTZhYzFkNGU3Y2VjZDlhODc3`

@@ -1,15 +1,31 @@
 {
   "description": "Hear all of LE SSERAFIM's biggest and best hits in one playlist.",
-  "num_followers": 41172,
+  "num_followers": 42230,
   "original_name": "This Is LE SSERAFIM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzBiMjBiMmNkNGIyMjI3ODkzMjg4YTAwZWY1MzI1YWZjMWM5N2Yy",
+  "snapshot_id": "MCxiZTY1MjEyMGI0Y2UwNTg5MzIyYjg0ZGYwODYwOTQ0N2E4NDZmOGE4",
   "tracks": [
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
+      "album": {
+        "name": "BASTIONS OST Part.4",
+        "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
+    },
+    {
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS (Japanese ver.)",
         "url": "https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN"
     },
     {
-      "added_at": "2023-05-01 08:57:57",
+      "added_at": "2023-06-13 06:33:45",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"

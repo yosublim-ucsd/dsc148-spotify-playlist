@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,744 likes - 88 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,777 likes - 88 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 87 | [Your Song](https://open.spotify.com/track/62PRS5s9sGK26aoaLkbW2J) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Your Song](https://open.spotify.com/album/2dPyQwGioXogJlCWIVGJ4j) | 3:55 |
 | 88 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 
-Snapshot ID: `MCxmMjU0NDAzZDc2Y2JjZWY4NWVlMzFiZWRhZjZmMjE4MTU3MGZjNDVh`
+Snapshot ID: `MCw4M2U4ZGY0ZDA5MzdjZDYzNTU4N2U3MDI1YTZhOWVlYjEzYThmOWZh`

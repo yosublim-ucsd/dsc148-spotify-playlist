@@ -1,12 +1,12 @@
 {
   "description": "I really wish your real name is my last name \ud83e\udd21",
-  "num_followers": 416777,
+  "num_followers": 416962,
   "original_name": "membadut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmRjNTg0MDljMjkzNmMyNmQ4NzE2ZGQ0ZTk4ZGYzMmVjZTcyOGQz",
+  "snapshot_id": "MCw1MjAxMGJjYzc0M2U0ZWM1ZjEzOWQwNTEyN2M3ZTlkYzNhMWY1OWY2",
   "tracks": [
     {
       "added_at": "2023-06-13 07:30:28",
@@ -279,6 +279,26 @@
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8"
+    },
+    {
+      "added_at": "2023-06-14 08:00:23",
+      "album": {
+        "name": "Biar Menjadi Kenangan",
+        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+        }
+      ],
+      "duration_ms": 313382,
+      "name": "Biar Menjadi Kenangan",
+      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
     },
     {
       "added_at": "2023-06-13 07:30:28",

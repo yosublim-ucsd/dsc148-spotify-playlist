@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,797 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,943 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\) \- Felix Cartal Remix](https://open.spotify.com/track/5mYNWSc1AE7pWS3Ax4e8Dl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Close To Me \(Remixes\)](https://open.spotify.com/album/2tRRqWb7Zfodd3bO0cTDwc) | 3:43 |
 | 50 | [Swish Swish \- Valentino Khan Remix](https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Swish Swish \(Valentino Khan Remix\)](https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv) | 3:20 |
 
-Snapshot ID: `MCxiYjNhMDg1YTYxNjRjMzQ0YzkwYjUwYTg4MzlhMDhjM2Y4ZmRkNzJi`
+Snapshot ID: `MCxlNDc5ZDBjZWNlZGU2MTc0MTg2ZDk4ZTUwMDkwOWQxMjQ1ZDViYzA0`

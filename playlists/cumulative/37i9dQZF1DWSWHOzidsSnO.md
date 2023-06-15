@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! Con Paola Navarrete en portada.
+> ¡Mujeres de los Andes, a todo volumen! Co\-curada por Paola Navarrete\. \#EQUALDOR
 
-201 songs - 11 hr 13 min
+203 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 | 2022-07-06 | 2023-03-02 |
 | [Balada Borracha](https://open.spotify.com/track/4NPgATaM6E5lmf9iCSfu2L) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Vuelve](https://open.spotify.com/album/5Etz4hHQKyjwMBNQ2A0G4i) | 4:03 | 2022-11-02 | 2022-11-13 |
 | [Bellakita](https://open.spotify.com/track/7anoUUKKK3GQOpdR3BSGsE) | [Soley GJ](https://open.spotify.com/artist/6XwiSUANGc1xBWtSXeL1EY) | [Bellakita](https://open.spotify.com/album/2ODMDBV9TXCofogxYdP5oG) | 2:42 | 2023-02-01 | 2023-03-02 |
-| [Bienvenidos al tren](https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Bienvenidos al tren](https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs) | 5:03 | 2023-01-04 |  |
+| [Bienvenidos al tren](https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Bienvenidos al tren](https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs) | 5:03 | 2023-01-04 | 2023-06-15 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2022-01-05 |  |
 | [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 | 2022-07-29 | 2022-08-04 |
 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 | 2023-04-05 |  |
@@ -91,6 +91,7 @@
 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 | 2023-03-03 | 2023-04-06 |
 | [Hasta Que Te Vi](https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Hasta Que Te Vi](https://open.spotify.com/album/74JAnkxv8JvDLpuv2vOPpa) | 2:56 | 2022-05-04 | 2022-08-04 |
 | [Hoy](https://open.spotify.com/track/53H3TaCK8iUC5YSRtSrwn1) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Prisma](https://open.spotify.com/album/3gTgGR1rBXCvDgU9cLIAEW) | 3:10 | 2022-01-05 | 2023-01-05 |
+| [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 | 2023-06-14 |  |
 | [IGUAL](https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [IGUAL](https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9) | 3:36 | 2023-05-26 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 | 2023-01-05 |
@@ -107,7 +108,7 @@
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2022-01-05 | 2023-01-05 |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-03-04 | 2022-09-09 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-05-03 |  |
-| [Lo Que Nos Hizo Gigantes](https://open.spotify.com/track/0oop3vyfemDoSFYMAbUg34) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Lo Que Nos Hizo Gigantes](https://open.spotify.com/album/5UEfpCW3J8iw4AXYv1E4mv) | 3:08 | 2023-05-26 |  |
+| [Lo Que Nos Hizo Gigantes](https://open.spotify.com/track/0oop3vyfemDoSFYMAbUg34) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Lo Que Nos Hizo Gigantes](https://open.spotify.com/album/5UEfpCW3J8iw4AXYv1E4mv) | 3:08 | 2023-05-26 | 2023-06-15 |
 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 | 2022-01-05 | 2023-01-05 |
 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 | 2023-01-04 |  |
 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 | 2022-03-09 |  |
@@ -186,6 +187,7 @@
 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \- Radio Edit](https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx) | 4:53 | 2022-07-06 | 2023-01-05 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-03-01 |  |
 | [Tu](https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7) | 3:45 | 2022-07-06 | 2023-03-04 |
+| [Tu Fuego](https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj) | [Michelle Espinosa](https://open.spotify.com/artist/2dQ3Ury51FHqdpSWIKKar4) | [Tu Fuego](https://open.spotify.com/album/6h3u0pReE0S6kjzvzJ4zgh) | 3:04 | 2023-06-14 |  |
 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2023-01-04 |  |
 | [Tío Guachupesito](https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 6:00 | 2022-01-05 |  |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-04 |  |

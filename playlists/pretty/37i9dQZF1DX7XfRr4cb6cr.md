@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,594 likes - 120 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,853 likes - 120 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 |
 | 120 | [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 |
 
-Snapshot ID: `MCw4YjRiYzdlNGU5YzZkYWEyNDkyNmM2NjJjZTI3MDQzMjE0MTE3NDE5`
+Snapshot ID: `MCwwMDM0N2MzZGY0YmYwYjIxMmQ1MjI3MWUxYWM0YjZhNDAwNzBjNzFi`

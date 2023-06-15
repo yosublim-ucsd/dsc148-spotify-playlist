@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,460 likes - 50 songs - 2 hr 22 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,458 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 49 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 |
 | 50 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 |
 
-Snapshot ID: `NjI1NSw0Nzg2NzMyYzIxODcxMDVjYjdkZmRmNDQ0ZTJmYzZhZjc5ODI2ZTcy`
+Snapshot ID: `NjI1Nyw2ODI4NTg0NmNiZjdiOTJmZGNhMmFhMmQwNjBlYjNkNDczMWU2YTUx`

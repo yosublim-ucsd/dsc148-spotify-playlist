@@ -1,12 +1,12 @@
 {
   "description": "Get your spirits up and manage your mood any time of the day",
-  "num_followers": 4811,
+  "num_followers": 4823,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTVmODhhNmNmNzJjMjUyNTMxNjk3ZGM0Y2IxZWFiZTdlNmM5NWJi",
+  "snapshot_id": "MCwyMGEzOGJhNGJlNmI4YmZkMzRlNWFjZGQ0YTE2YjYyMDViMDU5MDZh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:01:39",
@@ -376,12 +376,12 @@
       },
       "artists": [
         {
-          "name": "peeta",
-          "url": "https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI"
-        },
-        {
           "name": "sanyu!",
           "url": "https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE"
+        },
+        {
+          "name": "peeta",
+          "url": "https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI"
         }
       ],
       "duration_ms": 174367,

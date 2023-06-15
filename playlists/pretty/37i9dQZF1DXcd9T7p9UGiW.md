@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8?si=4UlzmnO8SV6ekf\-46yZQJQ"> Kouz1</a> and  <a href="https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Eql56LT9RqmI67MoyKXW2w"> L.A.X</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,255 likes - 83 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,457 likes - 83 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

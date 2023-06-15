@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Kimberley Akimbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,975 likes - 97 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,123 likes - 97 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
