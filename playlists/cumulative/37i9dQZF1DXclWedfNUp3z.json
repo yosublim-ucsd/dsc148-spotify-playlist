@@ -416,6 +416,24 @@
     {
       "album": {
         "name": "An Observation of Antimatter at Hotel Kabiki",
+        "url": "https://open.spotify.com/album/45KnxjCyMK5X1deAEr4MOs"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193734,
+      "name": "An Observation of Antimatter at Hotel Kabiki",
+      "url": "https://open.spotify.com/track/3zORM4QYkdkw8QkaFd6CPD"
+    },
+    {
+      "album": {
+        "name": "An Observation of Antimatter at Hotel Kabiki",
         "url": "https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A"
       },
       "artists": [
@@ -498,7 +516,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 297659,
       "name": "Gale Still Blowing",
       "url": "https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe"
@@ -4702,6 +4720,24 @@
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1"
+    },
+    {
+      "album": {
+        "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 6245,
+  "num_followers": 6270,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTM0ZDg4OTcwZjM1Y2M2Y2JhYTgyOTJlN2RkZDc1ZmMwYTU1Nzcx",
+  "snapshot_id": "MCxhZTAzM2EyZmQxZjhlNWNlNGRkYzQzZGFjNWQ3ZTNlMDFmNjVlMDI2",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -571,26 +571,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Kingdom of Heaven Is Like This",
-        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
-      },
-      "artists": [
-        {
-          "name": "Rain For Roots",
-          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 182635,
-      "name": "Do Not Worry (feat. Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Season One",
         "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 352026,
       "name": "Brokenness Aside",
       "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Kingdom of Heaven Is Like This",
+        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
+      },
+      "artists": [
+        {
+          "name": "Rain For Roots",
+          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 182635,
+      "name": "Do Not Worry (feat. Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
     },
     {
       "added_at": "2021-06-29 13:36:02",

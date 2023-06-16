@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 26987,
+  "num_followers": 27181,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0",
+  "snapshot_id": "MCw1MWUxYzUyN2U5ODM3NDEwYmY3YjU5NGE1MmM3MDUzZDFlYzgxYjZi",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "powerpuff girl",
+        "url": "https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv"
+      },
+      "artists": [
+        {
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        }
+      ],
+      "duration_ms": 114973,
+      "name": "powerpuff girl",
+      "url": "https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 147428,
       "name": "Eww",
       "url": "https://open.spotify.com/track/4okvbms2ajKt6617aqkn0A"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "powerpuff girl",
-        "url": "https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv"
-      },
-      "artists": [
-        {
-          "name": "CARAMELLA",
-          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
-        }
-      ],
-      "duration_ms": 114973,
-      "name": "powerpuff girl",
-      "url": "https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "FEMINEM",
-        "url": "https://open.spotify.com/album/6enWLI4qjGpJek4Q2HBtcN"
-      },
-      "artists": [
-        {
-          "name": "Antifuchs",
-          "url": "https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq"
-        },
-        {
-          "name": "TACKA77",
-          "url": "https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "FEMINEM",
-      "url": "https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 140597,
       "name": "Chardonnay",
       "url": "https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "FEMINEM",
+        "url": "https://open.spotify.com/album/6enWLI4qjGpJek4Q2HBtcN"
+      },
+      "artists": [
+        {
+          "name": "Antifuchs",
+          "url": "https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq"
+        },
+        {
+          "name": "TACKA77",
+          "url": "https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "FEMINEM",
+      "url": "https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Polly Pocket",
-        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
-      },
-      "artists": [
-        {
-          "name": "Nya Polo",
-          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "Polly Pocket",
-      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "So bin ich halt / blablabla",
         "url": "https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 130720,
       "name": "So bin ich halt / blablabla",
       "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Polly Pocket",
+        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
+      },
+      "artists": [
+        {
+          "name": "Nya Polo",
+          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "Polly Pocket",
+      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Rosa Pillen",
-        "url": "https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN"
+        "name": "eye to eye",
+        "url": "https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G"
       },
       "artists": [
         {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+          "name": "may",
+          "url": "https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn"
         }
       ],
-      "duration_ms": 136879,
-      "name": "Rosa Pillen",
-      "url": "https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu"
+      "duration_ms": 135600,
+      "name": "eye to eye",
+      "url": "https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "Rosa Pillen",
+        "url": "https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+        }
+      ],
+      "duration_ms": 136879,
+      "name": "Rosa Pillen",
+      "url": "https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "Wenn ich mal Kinder hab",
         "url": "https://open.spotify.com/album/2PaaxZrYkVSKbyqrpuKhPO"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 198373,
       "name": "Wenn ich mal Kinder hab",
       "url": "https://open.spotify.com/track/2uPQKiYAGy5th6mnJYjI26"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "eye to eye",
-        "url": "https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G"
-      },
-      "artists": [
-        {
-          "name": "may",
-          "url": "https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "eye to eye",
-      "url": "https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lose My Mind EP",
-        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 381960,
-      "name": "Lose My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181451,
       "name": "Is it weird?",
       "url": "https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Lose My Mind EP",
+        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 381960,
+      "name": "Lose My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "All Eyes On The Revolution",
-        "url": "https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU"
-      },
-      "artists": [
-        {
-          "name": "Dornika",
-          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
-        }
-      ],
-      "duration_ms": 238016,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Poems from the Dark",
         "url": "https://open.spotify.com/album/4k5x5VzL0ubLA5emMHUtib"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 179738,
       "name": "Eyelash",
       "url": "https://open.spotify.com/track/2GRgFq6vsynTtzLkIl4fE5"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "All Eyes On The Revolution",
+        "url": "https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU"
+      },
+      "artists": [
+        {
+          "name": "Dornika",
+          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
+        }
+      ],
+      "duration_ms": 238016,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD"
     },
     {
       "added_at": "2023-06-06 22:00:00",

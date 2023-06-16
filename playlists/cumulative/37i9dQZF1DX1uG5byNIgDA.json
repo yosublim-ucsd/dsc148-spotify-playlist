@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Coward",
+        "url": "https://open.spotify.com/album/4B5ssh5GnqkWlONRlih5NN"
+      },
+      "artists": [
+        {
+          "name": "ABOUT",
+          "url": "https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/73J2yNKB5ceGv9DKfOjcZc"
+    },
+    {
+      "album": {
         "name": "Novella",
         "url": "https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9"
       },
@@ -950,6 +968,24 @@
       "duration_ms": 230706,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
+    },
+    {
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
       "album": {
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 195000,
       "name": "Gray Area",
       "url": "https://open.spotify.com/track/15UqGWRj2UJzQSdgTLsYev"
@@ -2182,7 +2218,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 189504,
       "name": "Hello & Goodbye",
       "url": "https://open.spotify.com/track/450FHuomgvdo8A2R2c4heJ"
@@ -3900,6 +3936,28 @@
       "duration_ms": 218867,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/2Pbapko02EeCLCk4pfCdhk"
+    },
+    {
+      "album": {
+        "name": "One and Only (Feat. KURO)",
+        "url": "https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA"
+      },
+      "artists": [
+        {
+          "name": "Soseo",
+          "url": "https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "One and Only (Feat. KURO)",
+      "url": "https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt"
     },
     {
       "album": {
@@ -6039,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Where Are You From",
+        "url": "https://open.spotify.com/album/5HMGIL99CARfnqeujSsTWv"
+      },
+      "artists": [
+        {
+          "name": "PRSNT",
+          "url": "https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184722,
+      "name": "Where Are You From",
+      "url": "https://open.spotify.com/track/3e8aYoRC99j7CJYQNpUmSl"
+    },
+    {
+      "album": {
         "name": "WHERE \u00dc AT?",
         "url": "https://open.spotify.com/album/6HLY5PiTfW5ZZeJiN0fSGB"
       },
@@ -6050,7 +6126,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 163252,
       "name": "WHERE \u00dc AT?",
       "url": "https://open.spotify.com/track/3Px3O6rUyKsBezqhLrajom"
@@ -6194,7 +6270,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"

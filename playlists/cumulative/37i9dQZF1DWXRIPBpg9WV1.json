@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 177987,
       "name": "At Last",
       "url": "https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 195854,
       "name": "Baby Can I Hold You - Instrumental",
       "url": "https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL"
@@ -1982,6 +1982,24 @@
       "duration_ms": 190408,
       "name": "If I Never Knew You",
       "url": "https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns"
+    },
+    {
+      "album": {
+        "name": "If I Were a Boy",
+        "url": "https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP"
+      },
+      "artists": [
+        {
+          "name": "Harris Barron",
+          "url": "https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173211,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo"
     },
     {
       "album": {
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 162576,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/7lys79KCKl7e7TMLrzVvk0"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 110845,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/41SWY0rWeJTEpzcLaR3dfL"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 194136,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN"

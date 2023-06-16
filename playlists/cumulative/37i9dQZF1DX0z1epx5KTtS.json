@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Elow'n",
+  "description": "African dance party music from Paris to Abidjan. Photo : Suspect 95",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 202666,
       "name": "C'est Dieu",
       "url": "https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 187232,
       "name": "CPLM",
       "url": "https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8"
@@ -932,6 +932,28 @@
       "duration_ms": 164365,
       "name": "Elephant d'or",
       "url": "https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN"
+    },
+    {
+      "album": {
+        "name": "En fantoya",
+        "url": "https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7"
+      },
+      "artists": [
+        {
+          "name": "Dj Arobase",
+          "url": "https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W"
+        },
+        {
+          "name": "Joochar",
+          "url": "https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172650,
+      "name": "En fantoya",
+      "url": "https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL"
     },
     {
       "album": {
@@ -2327,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Tchoutchou Kpangor",
+        "url": "https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Tchoutchou Kpangor",
+      "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"
+    },
+    {
+      "album": {
         "name": "TCH\u00d4K\u00d4R\u00d4BA",
         "url": "https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL"
       },
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 234167,
       "name": "Toffol\u00e8 (feat. Koffi Olomid\u00e9)",
       "url": "https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x"
@@ -2514,6 +2554,28 @@
       "duration_ms": 188133,
       "name": "Winhou",
       "url": "https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU"
+    },
+    {
+      "album": {
+        "name": "X plus",
+        "url": "https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV"
+      },
+      "artists": [
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Zagba Le Rekin",
+          "url": "https://open.spotify.com/artist/5q0DkEt2KBiQhoEjBVFhwm"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85097,
+      "name": "X plus",
+      "url": "https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP"
     },
     {
       "album": {

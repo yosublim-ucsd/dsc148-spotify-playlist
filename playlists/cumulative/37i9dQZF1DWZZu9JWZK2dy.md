@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-110 songs - 7 hr 47 min
+111 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」OPテーマ 旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 | 2021-09-14 |  |
 | [星間飛行](https://open.spotify.com/track/0qHT5elQ5RNmTA7oDKgb1m) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「マクロスF」星間飛行](https://open.spotify.com/album/7GWdlXZ5UrBgnA6Vc4LQ3k) | 3:51 | 2021-09-14 | 2022-07-29 |
 | [星間飛行](https://open.spotify.com/track/50ed8xwCGwUxTAOs5Gqh5f) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [キャラクターソング・コレクション FULL OF LOVE!!](https://open.spotify.com/album/1Ho0rRCiC8UqVEFQ5z1zn8) | 3:53 | 2022-07-06 | 2022-11-13 |
-| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2021-09-14 |  |
+| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2021-09-14 | 2023-06-16 |
+| [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 | 2022-07-06 |  |
 | [曇天](https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [The World's Edge](https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B) | 3:10 | 2022-07-06 |  |
 | [曇天](https://open.spotify.com/track/1o0W4Q8xymwEGAh3moqV60) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [曇天](https://open.spotify.com/album/01Lx3vTvSCHS6Jgsc6GtIw) | 3:10 | 2021-09-14 | 2022-07-29 |
 | [空色デイズ](https://open.spotify.com/track/4nogPuOo4AOHNGfy3hNA7P) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [Big☆Bang!!!](https://open.spotify.com/album/6bxrgkhcxQSeV4yEgIkMfR) | 4:11 | 2022-07-06 | 2022-11-13 |

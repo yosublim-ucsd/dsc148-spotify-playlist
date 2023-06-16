@@ -227,6 +227,32 @@
     },
     {
       "album": {
+        "name": "BABY LOVE ME (con Wako & Peppe Soks)",
+        "url": "https://open.spotify.com/album/3XS3YeYI9z9sAFtCCBmlZr"
+      },
+      "artists": [
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        },
+        {
+          "name": "Wako",
+          "url": "https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135243,
+      "name": "BABY LOVE ME (con Wako & Peppe Soks)",
+      "url": "https://open.spotify.com/track/4IeFakToqcwNogAjNsPCuF"
+    },
+    {
+      "album": {
         "name": "Baby \u00e8 tutt' normal'",
         "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
       },

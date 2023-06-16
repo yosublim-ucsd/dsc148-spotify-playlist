@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "About me",
+        "url": "https://open.spotify.com/album/3JAJr3NGKTydyQMVfvOMIt"
+      },
+      "artists": [
+        {
+          "name": "matsuri",
+          "url": "https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90473,
+      "name": "About me",
+      "url": "https://open.spotify.com/track/1TQzbjw87HGbgJyxrbPflX"
+    },
+    {
+      "album": {
         "name": "ADDITIONAL LEMON",
         "url": "https://open.spotify.com/album/6LeBXFaFI3LzlGAlPliToC"
       },
@@ -5890,7 +5908,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 193133,
       "name": "Sparkle Light",
       "url": "https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF"
@@ -7714,7 +7732,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 214100,
       "name": "\u304a\u524d\u306e\u8a71\u306f\u805e\u3044\u3066\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke"
@@ -9040,6 +9058,24 @@
       "duration_ms": 314390,
       "name": "\u512a\u3057\u3044\u30a6\u30bd\u3067",
       "url": "https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30a8\u30ed\u30a4\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl"
+      },
+      "artists": [
+        {
+          "name": "Newrotica",
+          "url": "https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193902,
+      "name": "\u5168\u529b\u7537",
+      "url": "https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R"
     },
     {
       "album": {

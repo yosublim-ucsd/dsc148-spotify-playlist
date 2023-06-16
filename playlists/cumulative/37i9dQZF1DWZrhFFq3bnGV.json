@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordy Waelauruw",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Asawari",
+        "url": "https://open.spotify.com/album/2mLxqTFkSPS6XF4HhdadcC"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Georgie Tanasale",
+          "url": "https://open.spotify.com/artist/5CbrdBbi4FsEjx5oPwaHcd"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176368,
+      "name": "Asawari",
+      "url": "https://open.spotify.com/track/6HWga9JFQbfbUA14FbIQ1l"
+    },
+    {
+      "album": {
         "name": "ATARAXIA",
         "url": "https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN"
       },
@@ -594,6 +616,24 @@
       "duration_ms": 211783,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah"
+    },
+    {
+      "album": {
+        "name": "Now & Forever",
+        "url": "https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ"
+      },
+      "artists": [
+        {
+          "name": "Devian Zikri",
+          "url": "https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276129,
+      "name": "Cruisin n' groovin",
+      "url": "https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo"
     },
     {
       "album": {

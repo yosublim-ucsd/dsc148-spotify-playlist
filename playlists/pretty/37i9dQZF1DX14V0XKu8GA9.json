@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 22476,
+  "num_followers": 22496,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjI5MGM3ZTQxYjMxNDk1OWM4YmIxNTJkYjE0Yjg5OGNiMTI3Mzkw",
+  "snapshot_id": "MCw3MWM1YzIyY2UwY2UzOWJiNDJmYjhkODAxZjQ3YzY0NjA1ZmZkMWNj",
   "tracks": [
     {
       "added_at": "2023-05-27 04:26:33",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 109274,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
-    },
-    {
-      "added_at": "2023-05-27 04:26:33",
-      "album": {
         "name": "Parkside Angle",
         "url": "https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 83474,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX"
+    },
+    {
+      "added_at": "2023-05-27 04:26:33",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 109274,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
     },
     {
       "added_at": "2023-05-27 04:26:33",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "Little Homie",
-        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "Little Homie",
-      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
-    },
-    {
-      "added_at": "2023-05-27 04:26:33",
-      "album": {
         "name": "Rich Remedy",
         "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 115356,
       "name": "Rich Remedy",
       "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+    },
+    {
+      "added_at": "2023-05-27 04:26:33",
+      "album": {
+        "name": "Little Homie",
+        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "Little Homie",
+      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
     },
     {
       "added_at": "2023-05-27 04:26:33",
@@ -431,6 +431,30 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
+        "name": "Pozole",
+        "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Brick Wolfpack",
+          "url": "https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Pozole",
+      "url": "https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk"
+    },
+    {
+      "added_at": "2023-05-27 04:26:33",
+      "album": {
         "name": "Vivid Dreams",
         "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
       },
@@ -471,6 +495,22 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 156547,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
+    },
+    {
+      "added_at": "2023-05-27 04:26:33",
+      "album": {
         "name": "Are We Really Free",
         "url": "https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO"
       },
@@ -495,22 +535,6 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 156547,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
-    },
-    {
-      "added_at": "2023-05-27 04:26:33",
-      "album": {
         "name": "Props",
         "url": "https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc"
-    },
-    {
-      "added_at": "2023-05-27 04:26:33",
-      "album": {
-        "name": "Pozole",
-        "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Brick Wolfpack",
-          "url": "https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Pozole",
-      "url": "https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk"
     },
     {
       "added_at": "2023-05-27 04:26:33",

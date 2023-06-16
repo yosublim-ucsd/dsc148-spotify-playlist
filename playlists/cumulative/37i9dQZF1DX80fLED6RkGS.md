@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318?si=bJHDTOwgSE6Dt9So46VUxw">Joefes</a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB?si=VwQ27ttXQ2uy1rTS\_bS1bQ">Kushman</a>
 
-253 songs - 13 hr 59 min
+254 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Diliti](https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Diliti](https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB) | 4:22 | 2021-10-21 | 2022-04-22 |
 | [Down Low](https://open.spotify.com/track/2EpijqUEhO9qt04wLXR49F) | [Kingpheezle](https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Down Low](https://open.spotify.com/album/7x7nlwJ0EAuu3befR7UjKi) | 2:26 | 2022-05-12 |  |
 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/1nW9m0KKcjZ725O6dAYuKE) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/album/18bVr78ktBeu9OYpUGKucW) | 3:31 | 2022-01-20 | 2022-01-28 |
+| [Drunk N Disorderly](https://open.spotify.com/track/2wkzB9IwJTATr2ORoqQKzo) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Drunk N Disorderly](https://open.spotify.com/album/3TePjPiZ3703jTmot3igo0) | 2:54 | 2023-06-15 |  |
 | [Dusuma](https://open.spotify.com/track/3CxjOizcpCGAwZUs3kLIrS) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/5iPppSlnHgju6dTkQNIZ5w) | 3:33 | 2022-01-20 | 2022-01-28 |
 | [Dweet](https://open.spotify.com/track/3dyAWk6B82ImpE2qco0jLi) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dweet](https://open.spotify.com/album/12jVz1pJQCLOXynE9s93rZ) | 2:51 | 2022-07-01 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-01-20 | 2022-01-28 |

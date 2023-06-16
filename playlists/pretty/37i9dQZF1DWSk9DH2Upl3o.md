@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,754 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,809 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 20 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 |
 | 21 | [One Turn](https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [One Turn](https://open.spotify.com/album/2Axf1fjKFzOqHoesPAKB1t) | 4:57 |
 | 22 | [Unchained](https://open.spotify.com/track/6fK9qzWh0uM4JZRdKhiaLN) | [Hedonistas](https://open.spotify.com/artist/75pLAZ0NsopVsrFUHN1Mn1) | [Unchained](https://open.spotify.com/album/7eYgDcaqyfI4ZGn0cZseoo) | 3:55 |
-| 23 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 |
+| 23 | [The $1000 Question](https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL) | [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE) | [The $1000 Question](https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1) | 6:54 |
 | 24 | [Lessons](https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8) | 4:10 |
 | 25 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 |
 | 26 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCw3NWEyMGI5OGRhODI5ZTBhY2I1YTExNTI4Y2ZmYmM4OTRiYzFmMzYy`
+Snapshot ID: `MCxjMzM3ZGU0MDgyNjMyZWRjMTQwMDZkZjY2MTFjMWI3NTY4ZDI2MmVm`

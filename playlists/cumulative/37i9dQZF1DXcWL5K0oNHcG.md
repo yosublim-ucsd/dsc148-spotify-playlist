@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-1,159 songs - 3 day 20 hr 31 min
+1,160 songs - 3 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [Life Express](https://open.spotify.com/track/3CLssHFLxEnYgYWWR0LRlC) | [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Life Express](https://open.spotify.com/album/5MPz930GarktAOeEqLtar7) | 6:08 | 2023-03-29 | 2023-05-18 |
 | [Lifeblood](https://open.spotify.com/track/4N10Mkkw1uK4jqaoUc8CLV) | [Oddity](https://open.spotify.com/artist/5hravQJP0eUEmr7rDmAdhu) | [Oddisea, Pt\. 2](https://open.spotify.com/album/6hQwr5VBBdTSvuKM4NrX39) | 2:39 | 2022-11-09 | 2023-02-16 |
 | [Light The Way \- K3:lu Remix](https://open.spotify.com/track/2faYAsuGHoVLG35WH6qJo6) | [Soothsayers](https://open.spotify.com/artist/4iJspDSUsyFWGNada2wdVx), [K3:lu](https://open.spotify.com/artist/1D9UouAYB8mx5LLJYrip7C) | [Light The Way \(K3:lu Remix\)](https://open.spotify.com/album/6tPIPxK3Pmy20lqa1BCCAL) | 7:00 | 2022-03-23 | 2022-04-27 |
-| [Lights Out](https://open.spotify.com/track/01IMObtHdVlzsoUjhFvuPe) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [John Morgan Kimock](https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR), [Andy Hess](https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9), [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka) | [Lights Out](https://open.spotify.com/album/5EGerxfaMBh1vaKFfJmx5G) | 8:02 | 2023-04-19 |  |
+| [Lights Out](https://open.spotify.com/track/01IMObtHdVlzsoUjhFvuPe) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [John Morgan Kimock](https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR), [Andy Hess](https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9), [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka) | [Lights Out](https://open.spotify.com/album/5EGerxfaMBh1vaKFfJmx5G) | 8:02 | 2023-04-19 | 2023-06-16 |
+| [Lights Out](https://open.spotify.com/track/5jqW4spT3uTT2iwksQfLSI) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [John Morgan Kimock](https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR), [Andy Hess](https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9), [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka) | [Lights Out](https://open.spotify.com/album/419gwhKu6zL7R2aIb1atI3) | 8:02 | 2023-04-19 |  |
 | [Lineage](https://open.spotify.com/track/2WU54s1VWUdiNXCyvk4Ezw) | [Mali Obomsawin](https://open.spotify.com/artist/4MQzIvdXOAdlGvBM2KKqp5) | [Sweet Tooth](https://open.spotify.com/album/3GwsljhQjuXixPXxDdRjkN) | 7:50 | 2022-11-09 | 2023-02-02 |
 | [Liquid Sunlight](https://open.spotify.com/track/3kkewZGMbciFFWbGR0ncNB) | [Neo Arc](https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5), [Gigi Williams](https://open.spotify.com/artist/0jLIjsCBCsSyw9MMqn48Qa) | [Liquid Sunlight](https://open.spotify.com/album/4nooTdvOORaqqCevRKvnpo) | 3:49 | 2022-03-30 | 2022-04-27 |
 | [LITTENHOUSE](https://open.spotify.com/track/2r9Uuq5GW60pklm4oqUsBW) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [SOUNDS FROM THE STREET: LIVE](https://open.spotify.com/album/7pV9eJkOmSHIeUp2531JCk) | 5:20 | 2022-07-27 | 2022-08-25 |

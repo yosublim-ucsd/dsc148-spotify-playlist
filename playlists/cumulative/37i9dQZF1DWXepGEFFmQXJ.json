@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Casey Barnes",
+  "description": "The cream of today's Country crop. Cover: Seaforth",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 246000,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 191641,
       "name": "Eye to eye",
       "url": "https://open.spotify.com/track/304fXSDwjqmBp9i7XDfYsO"
@@ -2142,6 +2142,24 @@
       "duration_ms": 199346,
       "name": "Get It Girl",
       "url": "https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG"
+    },
+    {
+      "album": {
+        "name": "Get The Girl",
+        "url": "https://open.spotify.com/album/2inyimCr6ymziueiISBpzE"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172364,
+      "name": "Get The Girl",
+      "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
     },
     {
       "album": {
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 217040,
       "name": "Lost If I Lost You",
       "url": "https://open.spotify.com/track/2QMdzGCMeQF2FqolyMGza0"
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 194426,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t"
@@ -3680,6 +3698,24 @@
       "duration_ms": 161042,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo"
+    },
+    {
+      "album": {
+        "name": "Beach House EP",
+        "url": "https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq"
+      },
+      "artists": [
+        {
+          "name": "Jamie McDell",
+          "url": "https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194033,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ"
     },
     {
       "album": {
@@ -4841,6 +4877,28 @@
     },
     {
       "album": {
+        "name": "Any Less Anymore",
+        "url": "https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186673,
+      "name": "Runnin' The Country",
+      "url": "https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG"
+    },
+    {
+      "album": {
         "name": "Saddle Up",
         "url": "https://open.spotify.com/album/2e1QPulh95Dpf14ZN4iOUo"
       },
@@ -5066,7 +5124,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 180773,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/1NU0DyXSHdftBJy8xJGhGe"
@@ -5315,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "album": {
         "name": "Ballads Of The Broken",
         "url": "https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx"
       },
@@ -5344,7 +5420,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 215493,
       "name": "Song For That",
       "url": "https://open.spotify.com/track/16n6CeG5RSJl2rHwT7iPeV"
@@ -5736,6 +5812,24 @@
       "duration_ms": 205762,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx"
+    },
+    {
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
     },
     {
       "album": {
@@ -6364,7 +6458,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 176128,
       "name": "Unforgivingly Me",
       "url": "https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9"
@@ -6400,7 +6494,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"

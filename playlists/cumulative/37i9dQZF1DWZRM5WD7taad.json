@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Como las Aves",
+        "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133300,
+      "name": "Samuleto",
+      "url": "https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7"
+    },
+    {
+      "album": {
         "name": "SANA SANA",
         "url": "https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES"
       },

@@ -323,6 +323,32 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/58DxQJGOJI8GLWqLNOVswH"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Ziggy Bonafide",
+          "url": "https://open.spotify.com/artist/776GUqSRgbmdcDvpnmtfdr"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR"
+    },
+    {
+      "album": {
         "name": "Dil Kay Isharay",
         "url": "https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv"
       },
@@ -910,7 +936,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 263152,
       "name": "Main Rang Sharbaton Ka",
       "url": "https://open.spotify.com/track/1yYM7dY6wSJFp5qmxPRLu1"

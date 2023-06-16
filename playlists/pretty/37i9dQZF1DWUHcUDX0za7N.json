@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw\"> Boj </a> ",
-  "num_followers": 20737,
+  "num_followers": 20803,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmNlYzFkMTg2ZTQxODYzYjM4OTgzYWVhZGFlNjU5N2M4YTNjNGM1",
+  "snapshot_id": "MCxjMWU3OTNlZjUzMzk2MDdjOTc1Mzg3NDEyMzFlZmY0YWVhM2QwZWZj",
   "tracks": [
     {
       "added_at": "2023-06-09 06:17:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "Letter From Overseas (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 138243,
-      "name": "Letter From Overseas (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Shina Peters",
+        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Shina Peters",
+      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "Kpos Lifestyle, Vol. 1",
         "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
       },
@@ -715,22 +735,6 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 134728,
-      "name": "Bad Since '97",
-      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
         "name": "Palmwine Music 3",
         "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
@@ -751,34 +755,18 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Cruel Love/Vex",
-        "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
       "artists": [
         {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "NATIVE Sound System",
-          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
-        },
-        {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Sholz",
-          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 166816,
-      "name": "Vex",
-      "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
+      "duration_ms": 134728,
+      "name": "Bad Since '97",
+      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -831,18 +819,34 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Bad Persin",
-        "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
+        "name": "Cruel Love/Vex",
+        "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
       },
       "artists": [
         {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "NATIVE Sound System",
+          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
+        },
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
         }
       ],
-      "duration_ms": 205036,
-      "name": "Bad Persin",
-      "url": "https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv"
+      "duration_ms": 166816,
+      "name": "Vex",
+      "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -863,22 +867,18 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Shina Peters",
-        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
+        "name": "Bad Persin",
+        "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Shina Peters",
-      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+      "duration_ms": 205036,
+      "name": "Bad Persin",
+      "url": "https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "Owa",
         "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 190714,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Yakubu",
-        "url": "https://open.spotify.com/album/0jzWxlKJGSGcGPZb0AFdV8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Yakubu",
-      "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
       },
@@ -1111,6 +1091,30 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
+        "name": "STILL FIGURING LIFE",
+        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 161118,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1163,6 +1167,26 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Yakubu",
+        "url": "https://open.spotify.com/album/0jzWxlKJGSGcGPZb0AFdV8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "Yakubu",
+      "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "STILL FIGURING LIFE",
-        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 161118,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
+        "name": "Bookbag 2.0 Guitar",
+        "url": "https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ"
+      },
+      "artists": [
+        {
+          "name": "Alienzilla",
+          "url": "https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Bookbag 2.0 Guitar",
+      "url": "https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
         "name": "MIDLIFE CRISIS / WYDTM",
         "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 164808,
       "name": "Holy Gee",
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
-        "name": "Bookbag 2.0 Guitar",
-        "url": "https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ"
-      },
-      "artists": [
-        {
-          "name": "Alienzilla",
-          "url": "https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0"
-        }
-      ],
-      "duration_ms": 175355,
-      "name": "Bookbag 2.0 Guitar",
-      "url": "https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl"
     },
     {
       "added_at": "2023-06-09 06:17:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-09 06:17:00",
       "album": {
-        "name": "Wahala",
-        "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
-      },
-      "artists": [
-        {
-          "name": "Abstraktt",
-          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
-        }
-      ],
-      "duration_ms": 162692,
-      "name": "Wahala",
-      "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
-    },
-    {
-      "added_at": "2023-06-09 06:17:00",
-      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 112941,
       "name": "Outside",
       "url": "https://open.spotify.com/track/67a6PjhPku8MgieSPof2dD"
+    },
+    {
+      "added_at": "2023-06-09 06:17:00",
+      "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
+      },
+      "artists": [
+        {
+          "name": "Abstraktt",
+          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
+        }
+      ],
+      "duration_ms": 162692,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
     },
     {
       "added_at": "2023-06-09 06:17:00",

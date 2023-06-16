@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-402 songs - 1 day 4 hr 39 min
+403 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Flight](https://open.spotify.com/track/5I9K0eZ8dT8dzzK973XQkK) | [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [Flight](https://open.spotify.com/album/4lp6QsrXTu9GEBgEUQVHQY) | 3:20 | 2022-02-04 | 2022-05-02 |
 | [Floating Point](https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG) | [Massive Z](https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Floating Point](https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu) | 4:28 | 2023-04-07 |  |
 | [Forever in a Dream](https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ) | [John Noseda](https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA) | [Forever in a Dream](https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv) | 5:23 | 2022-04-01 | 2022-04-21 |
-| [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 | 2021-10-15 |  |
+| [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 | 2021-10-15 | 2023-06-16 |
 | [Fringe Society](https://open.spotify.com/track/6HXVNP9mGsbTKG6ovKLzcH) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 3:42 | 2021-10-15 |  |
 | [From Her to Infinity](https://open.spotify.com/track/3zbwO2XUIbssaR0FTAKIdP) | [Nite Flights](https://open.spotify.com/artist/0L910zfKWNLTkB3p6CNWRK) | [Nite Flights](https://open.spotify.com/album/31AjUJmaHvfROCEokD6FS3) | 5:12 | 2022-04-01 | 2022-04-19 |
 | [Full Force](https://open.spotify.com/track/3SA3kgjY0RwgOMpuapcrte) | [Glowline](https://open.spotify.com/artist/5O5Al4ErSslplYN5lH8tXs) | [Drive](https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv) | 3:27 | 2022-07-22 | 2022-07-28 |
@@ -405,6 +405,7 @@
 | [White Crows](https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Parallel Lives](https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse) | 5:08 | 2022-02-04 |  |
 | [Who We Are](https://open.spotify.com/track/07L7vNGluze4WliEWWrlxL) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/7FlBT8zq827hd5KbxCMy7V) | 3:13 | 2022-07-08 | 2022-10-13 |
 | [Who We Are](https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS) | 3:13 | 2022-10-28 | 2023-06-05 |
+| [Who We Are](https://open.spotify.com/track/4u6wEBY7g2KEzGqVhuVSq1) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Forever](https://open.spotify.com/album/3wabwuZW2LWdGANxoEVUfj) | 3:13 | 2023-04-07 |  |
 | [Why?](https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW) | [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Why?](https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6) | 6:03 | 2022-04-15 | 2022-04-23 |
 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 | 2022-02-04 | 2022-10-15 |
 | [Восход](https://open.spotify.com/track/6bHALIZwaxHrITYEKDstjm) | [Луч](https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ) | [Энергия](https://open.spotify.com/album/1yTToe2FoBck49HofSM0HN) | 4:08 | 2022-06-17 | 2022-06-30 |

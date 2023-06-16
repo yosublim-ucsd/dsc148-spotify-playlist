@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 4387,
+  "num_followers": 4398,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzM5YmU0MzJlZDJiMTMzMGM1M2Q2NWQ2NjM5ZDI4NGQ3NDNlZTI2",
+  "snapshot_id": "MCwzMjAyYWQ2ZWIxMjk2Y2RkNzFkZDAzYzA3NThhMWE3NmNlZTY3Y2Y0",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 460146,
-      "name": "Computer Age (Push the Button)",
-      "url": "https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Urban Dancefloor Guerillas (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 403760,
       "name": "Hydraulic Pump",
       "url": "https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+      },
+      "artists": [
+        {
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+        }
+      ],
+      "duration_ms": 460146,
+      "name": "Computer Age (Push the Button)",
+      "url": "https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay"
-      },
-      "artists": [
-        {
-          "name": "Midnight Star",
-          "url": "https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd"
-        }
-      ],
-      "duration_ms": 419466,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Haven't Been Funked Enough",
         "url": "https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 402105,
       "name": "Haven't Been Funked Enough - Original Mix",
       "url": "https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay"
+      },
+      "artists": [
+        {
+          "name": "Midnight Star",
+          "url": "https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd"
+        }
+      ],
+      "duration_ms": 419466,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Rare Preludes, Vol. 3",
-        "url": "https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA"
-      },
-      "artists": [
-        {
-          "name": "The Gunchback Boogie Band",
-          "url": "https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC"
-        }
-      ],
-      "duration_ms": 336040,
-      "name": "Funn",
-      "url": "https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Soul Jazz Records presents SPACE FUNK - Afro-Futurist Electro Funk in Space 1976-84",
         "url": "https://open.spotify.com/album/7FyxIddviuFxayIXXIl358"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 296040,
       "name": "Computer Games",
       "url": "https://open.spotify.com/track/1BaRblvDOrRVcix5JMCOzH"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Rare Preludes, Vol. 3",
+        "url": "https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA"
+      },
+      "artists": [
+        {
+          "name": "The Gunchback Boogie Band",
+          "url": "https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC"
+        }
+      ],
+      "duration_ms": 336040,
+      "name": "Funn",
+      "url": "https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4"
     },
     {
       "added_at": "2020-08-28 18:46:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,481 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,488 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 100 | [lovin you \(baby\)](https://open.spotify.com/track/5eCeK9cGSxRexlbFxIJR2K) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [lovin you \(baby\)](https://open.spotify.com/album/0RfXtfGYupvHzphKTO7sYa) | 4:59 |
 
-Snapshot ID: `MCxjMGEyMzVkYjBmZDhiZmY5ZTUxZDY4ODI3MjVlODhlMTU4MmUxMjg5`
+Snapshot ID: `MCxhNWNlYTIyYWY2MjNiNTY5OGZhOTc1MDRmNjU5Y2EzN2VkYTlkMTJi`

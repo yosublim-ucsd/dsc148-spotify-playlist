@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> The hottest songs from LGBTQIA+ artists\. Cover: Trixie Mattel
+> The hottest songs from LGBTQIA+ artists\. Cover: Urias
 
-790 songs - 1 day 19 hr 10 min
+791 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Crave](https://open.spotify.com/track/1iu8AelI8HgWFvvMiTwJ1j) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Crave](https://open.spotify.com/album/0sVi5uSYTodMvoT2tHC6g5) | 3:16 | 2021-12-17 | 2022-01-15 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Cumbia Lesbiánica](https://open.spotify.com/track/62icx23TWHijmOYTv6Sr2g) | [Mx\. Matías](https://open.spotify.com/artist/24y6eNO2ji898qC6en5hMs) | [Cumbia Lesbiánica / Me Gusta...](https://open.spotify.com/album/0Bd5un3SIIbARaRGuOED0s) | 2:49 | 2023-03-31 | 2023-04-14 |
+| [Cuntelectual](https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:11 | 2023-06-15 |  |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-16 | 2022-12-01 |
 | [Daddy I Love Him](https://open.spotify.com/track/37mC2KemFKwFPHhEENjVR9) | [Saro](https://open.spotify.com/artist/39kjdm4oUJo40vZgcetOGV) | [Daddy I Love Him](https://open.spotify.com/album/1WqiG7vykWElVovFuHSss9) | 3:14 | 2021-12-17 | 2022-01-29 |
 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 | 2023-01-24 | 2023-03-08 |
@@ -498,7 +499,7 @@
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-03-07 | 2023-04-01 |
 | [NADA ES SEGURO](https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [NADA ES SEGURO](https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R) | 3:24 | 2023-04-13 | 2023-05-10 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2023-01-25 |
-| [Neo Thang](https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT.2](https://open.spotify.com/album/3N0IZzpTfvreEOo2zKFdym) | 2:31 | 2023-03-31 |  |
+| [Neo Thang](https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT.2](https://open.spotify.com/album/3N0IZzpTfvreEOo2zKFdym) | 2:31 | 2023-03-31 | 2023-06-16 |
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2022-06-10 | 2023-04-01 |
 | [Next Girlfriend](https://open.spotify.com/track/4qveJkXUpldVjDVRaVrdbv) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 1](https://open.spotify.com/album/6TdyxjqgFSWfWETiQ4R0D6) | 2:40 | 2021-12-17 | 2022-05-28 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-07-28 |

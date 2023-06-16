@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 200412,
       "name": "En till dans",
       "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
@@ -3066,6 +3066,24 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
+        "name": "Gl\u00f6mmer att gl\u00f6mma",
+        "url": "https://open.spotify.com/album/7nJ3twbm6IQyYCbb0b2rit"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gl\u00f6mmer att gl\u00f6mma",
+      "url": "https://open.spotify.com/track/2k6rdaUYg1SF9MipMM7wij"
     },
     {
       "album": {
@@ -6813,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Ser du hur bra jag m\u00e5r",
+        "url": "https://open.spotify.com/album/19aHEnRCAFS4xjYtjGyeiE"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171123,
+      "name": "Ser du hur bra jag m\u00e5r",
+      "url": "https://open.spotify.com/track/3ULKS0ZKaf4rylg736VvMD"
+    },
+    {
+      "album": {
         "name": "SEVILLA",
         "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
       },
@@ -8436,7 +8472,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 159926,
       "name": "Undantag",
       "url": "https://open.spotify.com/track/4d3rs5OWMhPHqlIF0a84e2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGnc6d1f20P.md) - [plain]
 
 > Cole World\. The very best of Jermaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,211 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,415 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGnc6d1f20P.md) - [plain]
 | 48 | [My Nigga Just Made Bail](https://open.spotify.com/track/2pUrFLAbWbUqZnnSgJ2u5I) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Last Winter](https://open.spotify.com/album/1YIaRjeZ3mKQ54tjxXCWr8) | 3:36 |
 | 49 | [American Dream \(feat\. J\. Cole, Kendrick Lamar\)](https://open.spotify.com/track/2j8MsmmNqmc6UBEA54KOlY) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 4:09 |
 
-Snapshot ID: `MCxkN2JkM2Y4Nzk5MmY1OWJhY2EwNTMxMmI1NzY2Yjc1ZTczYTBkZWMz`
+Snapshot ID: `MCw3MDI0MDkxNGFlNTJmMzYyNzk5M2RlM2Y5ZTcyMDEzMTMxOWVjNzE2`

@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7648,
+  "num_followers": 7656,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzlhOWIxZmNiMWMzNjIxMjJjZWJlMGQwMmQ3M2E2ZDYwYTZlZWIw",
+  "snapshot_id": "MCwxNDczYzI0NjNlZGQ3OGEyNGJkMWE2MzhiMWRjNGFlYTJmNmRlZGE2",
   "tracks": [
     {
       "added_at": "2023-06-13 08:57:59",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
     },
     {
       "added_at": "2023-06-13 08:57:59",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg"
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
       "artists": [
         {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
         }
       ],
-      "duration_ms": 191133,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh"
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2023-06-13 08:57:59",
@@ -859,26 +875,6 @@
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
     }
   ],
   "unique_name": "\uc378",

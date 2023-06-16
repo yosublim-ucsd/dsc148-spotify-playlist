@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from The Drums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,523 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,519 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [I DON'T WANNA TALK](https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [I DON'T WANNA TALK](https://open.spotify.com/album/5G7wg0A3x8huAcbsT8wojT) | 3:12 |
 | 100 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 |
 
-Snapshot ID: `MCwzYmZmNDNmZTRmZWUyYTlkMWY1ZjU1YWFkNjIyYmRlNmNhZTBlOThj`
+Snapshot ID: `MCw2YTI2YTdlOWE5N2NkMWMzYTg0MmZkY2RhMGE1ODU0MjJhNDkxMWJj`

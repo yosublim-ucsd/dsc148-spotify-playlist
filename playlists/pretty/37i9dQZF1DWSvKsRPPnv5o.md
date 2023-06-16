@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,988 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,037 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 4 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
 | 5 | [Cruisin In LA](https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Cruisin In LA](https://open.spotify.com/album/5PXmTtfSFf2yrQ0VF7Doe2) | 2:42 |
 | 6 | [Underrated](https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G) | 2:35 |
-| 7 | [RACK CITY](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [RACK CITY](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |
+| 7 | [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |
 | 8 | [Hello](https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Hello](https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp) | 2:25 |
 | 9 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 |
 | 10 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 59 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 | 60 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MCwyZTk3MjQxOWRhZDM1NDFiZjFhYmY0ZGU1MzExYWU0MjQwYjI5YTZk`
+Snapshot ID: `MCwyMGUyMTE0Yzg4ZmQ1ZmQ1OGMyMGVjMGQ1MDFhMmM4ZDFkNmMyMWI2`

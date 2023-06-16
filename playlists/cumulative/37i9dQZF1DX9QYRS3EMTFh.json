@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Shenseea",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1420,6 +1420,24 @@
       "duration_ms": 138901,
       "name": "Discreet",
       "url": "https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2"
+    },
+    {
+      "album": {
+        "name": "Doliprane",
+        "url": "https://open.spotify.com/album/5nA4LFAGq1wKjyvy4r6WaO"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Doliprane",
+      "url": "https://open.spotify.com/track/5kYcmyTVwXoLSQpsBF0J03"
     },
     {
       "album": {
@@ -4068,7 +4086,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 148714,
       "name": "Queen of the Dancehall",
       "url": "https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 158400,
       "name": "Shatta Twist",
       "url": "https://open.spotify.com/track/290QMvxXhz9mPiOIqFiuTh"
@@ -4632,6 +4650,32 @@
       "duration_ms": 165981,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o"
+    },
+    {
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/76ikYeo9YM9PNnZCvgswiG"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "DJ Smo",
+          "url": "https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp"
+        },
+        {
+          "name": "Reid Waters",
+          "url": "https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143440,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/12oJhyQtWydL1vEaUWHhdG"
     },
     {
       "album": {
@@ -5204,6 +5248,24 @@
       "duration_ms": 146731,
       "name": "U'r Bad",
       "url": "https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb"
+    },
+    {
+      "album": {
+        "name": "4 CENTO",
+        "url": "https://open.spotify.com/album/0hgpIQ3169MUzTwGZbGTRD"
+      },
+      "artists": [
+        {
+          "name": "Pompis",
+          "url": "https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/1qLnwmHgAi1BRAFQovStAY"
     },
     {
       "album": {

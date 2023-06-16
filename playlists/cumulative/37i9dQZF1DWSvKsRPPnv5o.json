@@ -2673,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Eat It Up",
+        "url": "https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w"
+      },
+      "artists": [
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+        },
+        {
+          "name": "DonnySolo",
+          "url": "https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129724,
+      "name": "Eat It Up",
+      "url": "https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2"
+    },
+    {
+      "album": {
         "name": "Eazy",
         "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
       },
@@ -7324,28 +7346,6 @@
       "duration_ms": 138205,
       "name": "Pull Up (feat. Symba & Landstrip Chip)",
       "url": "https://open.spotify.com/track/4i8FAI8ddhgIanrdNZqP26"
-    },
-    {
-      "album": {
-        "name": "RACK CITY",
-        "url": "https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w"
-      },
-      "artists": [
-        {
-          "name": "Lil Vada",
-          "url": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
-        },
-        {
-          "name": "DonnySolo",
-          "url": "https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0"
-        }
-      ],
-      "date_added": "2023-06-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129724,
-      "name": "RACK CITY",
-      "url": "https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2"
     },
     {
       "album": {

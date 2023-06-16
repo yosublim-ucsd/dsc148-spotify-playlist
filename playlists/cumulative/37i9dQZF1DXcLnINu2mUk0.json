@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mike11.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
   "name": "Seda",
   "tracks": [
     {
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "album": {
         "name": "Culpa Do \u00c1lcool",
         "url": "https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 202000,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 164848,
       "name": "FALA COMIGO",
       "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 184505,
       "name": "Faltou Mais Amor",
       "url": "https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg"
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 184000,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a"
@@ -4862,7 +4880,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
@@ -5587,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "Sou Eu",
+        "url": "https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb"
+      },
+      "artists": [
+        {
+          "name": "TYKID",
+          "url": "https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214641,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI"
+    },
+    {
+      "album": {
         "name": "Sou Melhor",
         "url": "https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73"
       },
@@ -5904,6 +5940,28 @@
       "duration_ms": 209525,
       "name": "Time",
       "url": "https://open.spotify.com/track/327d58CiAlFKwANkMW1cKC"
+    },
+    {
+      "album": {
+        "name": "To My Favorite Ex",
+        "url": "https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58"
+      },
+      "artists": [
+        {
+          "name": "Keven Santos",
+          "url": "https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4"
+        },
+        {
+          "name": "MasterPiece",
+          "url": "https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "To My Favorite Ex",
+      "url": "https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX"
     },
     {
       "album": {

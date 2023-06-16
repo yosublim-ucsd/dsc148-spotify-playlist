@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5379,
+  "num_followers": 5390,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
+  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Hard To Love \ub098\ub9cc \uc548\ub418\ub294 \uc5f0\uc560",
-      "url": "https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.9",
         "url": "https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 271540,
       "name": "\ub0b4 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub2c8",
       "url": "https://open.spotify.com/track/6chlsBLGbBbBd4u21iqbIR"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Hard To Love \ub098\ub9cc \uc548\ub418\ub294 \uc5f0\uc560",
+      "url": "https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "AMY",
-        "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Kim Hyung Joong 1",
         "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 269872,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "AMY",
+        "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
     },
     {
       "added_at": "2023-05-02 09:09:27",

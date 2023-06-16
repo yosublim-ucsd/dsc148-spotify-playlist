@@ -1,13 +1,29 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Fania Putri",
-  "num_followers": 192513,
+  "description": "Dendang Dangdut teratas. Cover: Sule",
+  "num_followers": 192574,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI0YzM5Yjg4MWQ3ZTRhZmVkNjAwMjc2NWQxZGU2NTlkZDM4MzFl",
+  "snapshot_id": "MCxiOTRjM2Q0ZGMzNzc4NzYzZGFmM2E0MDEwZjgxZDg0NDNkZWYzZDhj",
   "tracks": [
+    {
+      "added_at": "2023-06-15 17:03:01",
+      "album": {
+        "name": "Midua Cinta 2",
+        "url": "https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn"
+      },
+      "artists": [
+        {
+          "name": "Sule",
+          "url": "https://open.spotify.com/artist/2RidxHO6bjbB1wwZRrXAmI"
+        }
+      ],
+      "duration_ms": 219292,
+      "name": "Midua Cinta 2",
+      "url": "https://open.spotify.com/track/0KdIzVC1n2MWuPDeKO18Wy"
+    },
     {
       "added_at": "2023-06-09 11:08:31",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM"
     },
     {
+      "added_at": "2023-06-15 17:03:01",
+      "album": {
+        "name": "Semarang Ngawi",
+        "url": "https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "duration_ms": 264540,
+      "name": "Semarang Ngawi",
+      "url": "https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw"
+    },
+    {
       "added_at": "2023-06-09 11:08:31",
       "album": {
         "name": "Perjalanan Cinta",
@@ -68,8 +100,8 @@
       },
       "artists": [
         {
-          "name": "OM PMR",
-          "url": "https://open.spotify.com/artist/4ELIkW0nTmAtK6iwaEh4nc"
+          "name": "OM PMR 1977",
+          "url": "https://open.spotify.com/artist/0A4aLQgaU88gKKC4DziWIl"
         },
         {
           "name": "David Koeswoyo",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-103 songs - 7 hr 46 min
+104 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Mendoza](https://open.spotify.com/track/4KVT4OqquGc3zrFEQUL3X0) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Mendoza](https://open.spotify.com/album/0SWHdh2MoQxfphP7LjnuoZ) | 5:18 | 2023-06-01 |  |
 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 | 2023-01-10 | 2023-03-08 |
 | [Molly](https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:15 | 2023-01-10 |  |
-| [Nights Over Egypt \- MJ Cole Remix](https://open.spotify.com/track/63RxrVaca2IeGXR02VTvFF) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Future Remixed](https://open.spotify.com/album/0IMvU6xwpYKdc8tP3n8LI8) | 5:51 | 2023-01-10 |  |
+| [Nights Over Egypt \- MJ Cole Dub](https://open.spotify.com/track/38ajwLAkKYkN8uG6PKkGTc) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Nights Over Egypt \(Masters At Work Remixes\)](https://open.spotify.com/album/7mYEheHCeZX1F43xm8go5H) | 5:53 | 2023-06-01 |  |
+| [Nights Over Egypt \- MJ Cole Remix](https://open.spotify.com/track/63RxrVaca2IeGXR02VTvFF) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Future Remixed](https://open.spotify.com/album/0IMvU6xwpYKdc8tP3n8LI8) | 5:51 | 2023-01-10 | 2023-06-16 |
 | [Nostalgia](https://open.spotify.com/track/3EZ5f8Mhz5qniiyUQ9bfNq) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [SG](https://open.spotify.com/artist/5J6V5SRCXByid3HbFYXUOh) | [Nostalgia](https://open.spotify.com/album/5yLe0pcnvhX7VF0RV7t0Uw) | 5:33 | 2023-01-10 | 2023-02-01 |
 | [O.B.F.C](https://open.spotify.com/track/17WzgCnnwYH9pLPqTWgTVG) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ), [Chavinski](https://open.spotify.com/artist/3mseX8MtEfinn5DphRKgk9) | [O.B.F.C](https://open.spotify.com/album/2RSbmlibPREAw7McGulsAl) | 5:09 | 2023-01-10 | 2023-04-12 |
 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2023-04-11 |  |

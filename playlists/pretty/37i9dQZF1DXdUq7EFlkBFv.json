@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 7614,
+  "num_followers": 7634,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTQ2NDNhZmQ5MTNjNTFhMmExZjEyNzQzYjAxOWIzYjVkY2ZiZDQw",
+  "snapshot_id": "MCw2YmQ1OGFjNDVkYjUxMjA1YmNjNjQ5NWViNDg2ZDgwM2YxODAxZWVl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Off-White (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
-      },
-      "artists": [
-        {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164353,
-      "name": "Off-White (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 186894,
       "name": "Thugged Out (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Off-White (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
+      },
+      "artists": [
+        {
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164353,
+      "name": "Off-White (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
     },
     {
       "added_at": "2022-10-01 16:17:17",

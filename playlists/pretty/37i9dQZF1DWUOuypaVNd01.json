@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Scooby",
-  "num_followers": 30344,
+  "num_followers": 30420,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzg0NjI3ZjQyMmU4N2FkYWZhMmQxMzk5NGViMTVkODExMWQzNzdk",
+  "snapshot_id": "MCxlZDcxYzcwOWJlYmMwMmFiNjRiOWQ3ZGNiNmQ2N2ZmNzU0ZDYyMTVk",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Edgar Davids",
         "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 163404,
       "name": "Edgar Davids",
       "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1079,6 +1079,26 @@
       "duration_ms": 142702,
       "name": "A.T.E",
       "url": "https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Penit\u00eancia",
+        "url": "https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Uk Drill",
+          "url": "https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Penit\u00eancia",
+      "url": "https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1175,26 +1195,6 @@
       "duration_ms": 173333,
       "name": "Campe\u00f5es",
       "url": "https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Penit\u00eancia",
-        "url": "https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        },
-        {
-          "name": "Uk Drill",
-          "url": "https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Penit\u00eancia",
-      "url": "https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq"
     }
   ],
   "unique_name": "Malandro Posturado",

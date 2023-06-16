@@ -10310,7 +10310,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 187012,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/1EumIHiuUuZH3ZHzkoZsow"
@@ -30617,6 +30617,24 @@
     },
     {
       "album": {
+        "name": "Juno Juno",
+        "url": "https://open.spotify.com/album/7cqsRHBl6PE2sSFwf0iHxn"
+      },
+      "artists": [
+        {
+          "name": "Oslo",
+          "url": "https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Juno Juno",
+      "url": "https://open.spotify.com/track/1S0UsxkfYrCl6fSs6tbBeC"
+    },
+    {
+      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/3qjvMnqdtmvXfACND2qXTo"
       },
@@ -43296,7 +43314,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 108571,
       "name": "November Moon",
       "url": "https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8"
@@ -54904,7 +54922,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 206000,
       "name": "Soaring Anticipation",
       "url": "https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf"
@@ -61272,7 +61290,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 146206,
       "name": "Terra Roxa",
       "url": "https://open.spotify.com/track/4t1zxCYZmcLFFMGD6BqAqY"
@@ -65656,6 +65674,24 @@
       "duration_ms": 115412,
       "name": "VBS",
       "url": "https://open.spotify.com/track/3yzhrY1eHMrLrGiPQWC9mA"
+    },
+    {
+      "album": {
+        "name": "Vega",
+        "url": "https://open.spotify.com/album/0U3nMfWZxUQw14C9C43PII"
+      },
+      "artists": [
+        {
+          "name": "Lito Akari",
+          "url": "https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98639,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/7vJoDXM7nAbcMonImsf7AU"
     },
     {
       "album": {

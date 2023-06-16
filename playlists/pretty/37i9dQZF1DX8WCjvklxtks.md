@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WCjvklxtks.md) - [plain]
 
 > A raspar las botas con las más bailables de la banda\. La Adictiva Banda San José de Mesillas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,965 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,042 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vanidosa](https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Corazón](https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY) | 3:17 |
 | 2 | [Cumbia Del Río](https://open.spotify.com/track/1uJjGoBczkbzsRjsEJEAJX) | [Banda La Original Del Sol](https://open.spotify.com/artist/1bWO1njYPDZq1oN2N0t1wH) | [Tengo Que Olvidarte](https://open.spotify.com/album/61MKuzMOQwI9ArKgmWxvwo) | 2:49 |
 | 3 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
-| 4 | [La Playa](https://open.spotify.com/track/02kI6xrg3MqVgfZwjS61cc) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [ME SIENTO A TODO DAR](https://open.spotify.com/album/1TUw3pFW3N22zP7j3JqcXI) | 3:03 |
+| 4 | [La Playa](https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:59 |
 | 5 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 |
 | 6 | [Talento De Televisión](https://open.spotify.com/track/45SKAZhgndhECe9nksP5HF) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Talento De Televisión](https://open.spotify.com/album/2yiCtAJVMROTyPDHz9gF6I) | 3:32 |
 | 7 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WCjvklxtks.md) - [plain]
 | 49 | [Pequeña De Ojos Brujos](https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX) | [Los Elegantes de la Banda](https://open.spotify.com/artist/1eDU6zze1IhtqUGcLu026H) | [Comandos de Michoacán](https://open.spotify.com/album/6fV1noTc4bEO1CfW8wkoFA) | 3:02 |
 | 50 | [Quítate El Zapato](https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 3:18 |
 
-Snapshot ID: `MCxjMmY0NGI2MmI2MWU2NDllNmM5NzUwNTRlY2UwYjM3MmY1ODBmMzVl`
+Snapshot ID: `MCxmMGFjY2IyYjA5ZGM0ZTYxNjI0MGMyNzgzZWZlNGVlZDA3MWI2YTQz`

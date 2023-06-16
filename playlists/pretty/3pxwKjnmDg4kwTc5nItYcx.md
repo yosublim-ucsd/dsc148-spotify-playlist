@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,803 likes - 356 songs - 19 hr 14 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,806 likes - 356 songs - 19 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 227 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
 | 228 | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/track/7L6dDZgxFunFf7MlK96wXl) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/album/7DHLsED15ZC6RoCLIWIwmN) | 3:33 |
 | 229 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
-| 230 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/6LBvil8ZDD2nktYSmKkHIy) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/4kR8SzUJ4F1f7ippLeOARL) | 2:34 |
+| 230 | [Struck by Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/6LBvil8ZDD2nktYSmKkHIy) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/4kR8SzUJ4F1f7ippLeOARL) | 2:34 |
 | 231 | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K) | 3:41 |
 | 232 | [It's Not You](https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:26 |
 | 233 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 276 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 |
 | 277 | [My Blood](https://open.spotify.com/track/5Kbs3VFeFt4VL9gWKyzvYI) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Blood](https://open.spotify.com/album/76IDokLpzr6w9FNGHD6GdN) | 2:42 |
 | 278 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 |
-| 279 | [Picture Of You](https://open.spotify.com/track/3wFxiKVkDXYVRSqwZsG2MF) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Picture Of You](https://open.spotify.com/album/6bCIFiwdO5kqSuCHd7ZzPF) | 3:21 |
+| 279 | [Picture of You](https://open.spotify.com/track/3wFxiKVkDXYVRSqwZsG2MF) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Picture Of You](https://open.spotify.com/album/6bCIFiwdO5kqSuCHd7ZzPF) | 3:21 |
 | 280 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 |
 | 281 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
 | 282 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 |

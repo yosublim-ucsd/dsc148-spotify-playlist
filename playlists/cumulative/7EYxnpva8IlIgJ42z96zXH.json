@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
         "name": "(Just Can't) Hate U (feat. Dotter)",
         "url": "https://open.spotify.com/album/3DxbGEY9rHz9vpfByBiC0V"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
@@ -578,6 +596,24 @@
       "duration_ms": 219200,
       "name": "Always Be My Baby Boy (feat. Becce J)",
       "url": "https://open.spotify.com/track/5ycjyEkMSlLCMifjYgQOfp"
+    },
+    {
+      "album": {
+        "name": "Always Dancin'",
+        "url": "https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy"
+      },
+      "artists": [
+        {
+          "name": "Bavhu",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173652,
+      "name": "Always Dancin'",
+      "url": "https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0"
     },
     {
       "album": {
@@ -892,7 +928,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -1408,6 +1444,28 @@
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+    },
+    {
+      "album": {
+        "name": "Brain Freeze (Remixes)",
+        "url": "https://open.spotify.com/album/0ZMMK5HNacOBXFr42jMQyY"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        },
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184868,
+      "name": "Brain Freeze - Mell Hall Remix",
+      "url": "https://open.spotify.com/track/1d4tzmcT4MuKaSbVJ1MUoz"
     },
     {
       "album": {
@@ -4160,7 +4218,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 190609,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/5JL0aPP9mvMHx0IGXqcI5C"
@@ -7075,6 +7133,28 @@
     },
     {
       "album": {
+        "name": "Little Things (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160221,
+      "name": "Little Things - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
+    },
+    {
+      "album": {
         "name": "Live Without Your Love (with Steve Lacy)",
         "url": "https://open.spotify.com/album/2st44QXoemztnPKY99Yalg"
       },
@@ -7992,7 +8072,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
@@ -8018,7 +8098,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
@@ -11488,6 +11568,24 @@
       "duration_ms": 189836,
       "name": "Steal Your Love",
       "url": "https://open.spotify.com/track/2Gjcqb6a4lab61TPYLHfaw"
+    },
+    {
+      "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/2k4yvjaU1Ots3GzRWMHEkW"
+      },
+      "artists": [
+        {
+          "name": "Happiness is Wealth",
+          "url": "https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Steam",
+      "url": "https://open.spotify.com/track/7yn2m5n82sjSxseqY8iSDA"
     },
     {
       "album": {

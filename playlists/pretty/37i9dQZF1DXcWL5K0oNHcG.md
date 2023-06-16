@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,864 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,930 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 35 | [Fourth Right](https://open.spotify.com/track/0Nfxhvbv5aBah5FRuBO7Yo) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [Empathy](https://open.spotify.com/album/13p12hbHuG7afzP0tMs6Fb) | 6:58 |
 | 36 | [El Llamado](https://open.spotify.com/track/63akBrb1shJFtSZAX4NkIG) | [Jazz the Roots](https://open.spotify.com/artist/76ugOJNkyTbMFKSWdu0btH) | [Cordillera](https://open.spotify.com/album/4SWXwidIQA8tUp8Zhxw2o8) | 5:04 |
 | 37 | [Reflections](https://open.spotify.com/track/4XKZrjzQI4FKrqR7sahVEp) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [New Fossils](https://open.spotify.com/album/2oG6jKwL0jE0F71bQCJjPl) | 6:59 |
-| 38 | [Lights Out](https://open.spotify.com/track/01IMObtHdVlzsoUjhFvuPe) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [John Morgan Kimock](https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR), [Andy Hess](https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9), [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka) | [Lights Out](https://open.spotify.com/album/5EGerxfaMBh1vaKFfJmx5G) | 8:02 |
+| 38 | [Lights Out](https://open.spotify.com/track/5jqW4spT3uTT2iwksQfLSI) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [John Morgan Kimock](https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR), [Andy Hess](https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9), [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka) | [Lights Out](https://open.spotify.com/album/419gwhKu6zL7R2aIb1atI3) | 8:02 |
 | 39 | [Laoshu](https://open.spotify.com/track/0plFMUOLdktZj1dlnwHPvc) | [Snazzback](https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e) | [Ruins Everything](https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg) | 3:40 |
 | 40 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 41 | [Spilornis](https://open.spotify.com/track/3RInyzqnPlEL0SKAyrmzap) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU) | [Spilornis](https://open.spotify.com/album/4kb8DjuNX4OdxBvlourrit) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Witchcraft](https://open.spotify.com/track/7snxlNRA6W6IAtHhcVP77k) | [Kendra Erika](https://open.spotify.com/artist/29YEIiGDj5agFJ2Bda2dkO) | [Witchcraft](https://open.spotify.com/album/1msOnvHrwoip5denlffx8C) | 4:13 |
 | 75 | [Osmosis Chapter Ii](https://open.spotify.com/track/3hIlZwM1hQ3vK840qjxNr2) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Osmosis Chapter Ii](https://open.spotify.com/album/0yDJyNCGV05aqK4zHHLbK0) | 3:00 |
 
-Snapshot ID: `MCwyMmEzN2M0ZTU0NzJiNGQzOTk4N2ZiZmZkZDU4NTE4ZjFiM2UxNTRm`
+Snapshot ID: `MCw0Yzk2YmMyMjBhY2Q5NzU0NmI3MGU2OTAwNWVjYTVkOTMzYjFlMWIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,893 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,030 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 35 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 |
 | 36 | [Iteza Gogo Kuji Don't be late](https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV) | [Sheryl Nome starring May'n](https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC) | [MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late](https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq) | 5:43 |
 | 37 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 |
-| 38 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
+| 38 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 |
 | 39 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
 | 40 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 | 41 | [Ending Song \- The Promise of the World \- Merry\-Go\-Round of Life](https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 6:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCxjNjViNGUxZGNiNmExNmZkMWY4MjYwMDZkNTQ0MDk4N2NjZGVkNTI5`
+Snapshot ID: `MCxkZDg1NDk3YzAzYzJlOWNkOWFmZjQ1ZDYyODE1YzQ3MWZhMjM2MDI5`

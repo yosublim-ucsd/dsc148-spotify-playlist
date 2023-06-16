@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-382 songs - 16 hr 0 min
+384 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 |  |
 | [Beautiful Break](https://open.spotify.com/track/0Ni1YgxRD11jCCFhl3gDA6) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Beautiful Break](https://open.spotify.com/album/2sU8yFs9s8BXqWNSqYyvib) | 3:11 | 2022-06-17 | 2023-04-29 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-03-24 |  |
-| [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 |  |
+| [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 | 2023-06-16 |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 |  |
 | [Behind The Shade](https://open.spotify.com/track/72gSvU0MCU9Q9WeD0RnN2s) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Behind The Shade](https://open.spotify.com/album/6ml0ggFel4JLtFyrcDn1KS) | 1:47 | 2022-06-17 |  |
 | [Best friends](https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Best friends](https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk) | 1:23 | 2023-05-19 |  |
@@ -188,7 +188,7 @@
 | [Lacrime](https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Lacrime](https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG) | 1:51 | 2023-05-19 |  |
 | [Lagoa do Fogo](https://open.spotify.com/track/7rYXdXdtCSLjmZzecpXkgg) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Lagoa do Fogo](https://open.spotify.com/album/09OR2Jo6jK0KxEzTpz74ww) | 2:50 | 2023-03-24 |  |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-03-24 |  |
-| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 |  |
+| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-06-16 |
 | [Late Lullaby](https://open.spotify.com/track/0QT6t8v1xhNpTS365TTefJ) | [Rhys Lowe](https://open.spotify.com/artist/2SOP55SS8fB8moOlHWLROC) | [Late Lullaby](https://open.spotify.com/album/6nlaNhLk5WlJfW3lPCQcKG) | 1:46 | 2022-12-16 |  |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 | 2023-02-25 |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 |  |
@@ -230,6 +230,7 @@
 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 | 2022-06-17 |  |
 | [Musica del Cielo](https://open.spotify.com/track/0vUQoSxox7kR5MPjhWKmtg) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Musica del Cielo](https://open.spotify.com/album/5GmnBunhlJ5TKlYqSqcPs0) | 1:53 | 2023-02-24 |  |
 | [My Bluesette Waltz](https://open.spotify.com/track/0OLstxDHvuG3oSnswAgM1t) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [My Bluesette Waltz](https://open.spotify.com/album/1L4n9pqVbiZwfdCbmfUJRC) | 3:21 | 2022-09-02 | 2023-04-29 |
+| [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2022-06-17 | 2022-07-29 |
 | [Nada que perder](https://open.spotify.com/track/13T3yVvo9sireuPg3xnI4J) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Nada que perder](https://open.spotify.com/album/3CCbia42CT36Na38sOwFsp) | 3:38 | 2022-08-19 | 2023-06-10 |
 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 | 2022-06-17 | 2023-02-25 |
@@ -362,6 +363,7 @@
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2022-06-17 | 2022-09-09 |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2022-06-17 |  |
 | [Until You](https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Until You](https://open.spotify.com/album/1JHu4FXVAq8e0vqRUCdwSu) | 2:26 | 2023-04-28 |  |
+| [Up North](https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Up North](https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1) | 2:51 | 2023-06-15 |  |
 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 |  |
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-28 |  |
 | [Ven Tal Como Eres](https://open.spotify.com/track/0ui3M3a6TtLgxH5R7Kntvv) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Ven Tal Como Eres](https://open.spotify.com/album/5TLxpycYjiy0YippNmsFNf) | 1:38 | 2023-04-28 |  |
@@ -387,7 +389,7 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2023-05-20 |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 | 2023-02-25 |
-| [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-19 |  |
+| [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-19 | 2023-06-16 |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 |  |
 | [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 | 2022-07-29 |
 

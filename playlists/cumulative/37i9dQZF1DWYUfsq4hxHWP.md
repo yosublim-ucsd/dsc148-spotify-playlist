@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Rodell Duff, Artwork: Fanélie Muselier
 
-1,584 songs - 3 day 14 hr 19 min
+1,587 songs - 3 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Cleaning House](https://open.spotify.com/track/3rUL0YTjenyvoY5PyCe0Pi) | [Vanessa Marie Carter](https://open.spotify.com/artist/0Vz23bv2u37ykSxcH7LGqe) | [Cleaning House](https://open.spotify.com/album/5w0OEkhM0clZ10F4Y6jLAE) | 2:44 | 2022-10-05 | 2022-10-13 |
 | [Clear Your Mind](https://open.spotify.com/track/4LNmcZaKxwptpYk8dYP9vp) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Clear Your Mind](https://open.spotify.com/album/574nGHOqV1egpVTqMPauSh) | 3:40 | 2022-08-03 | 2022-09-15 |
 | [Close as I'll get to you](https://open.spotify.com/track/62Rvb6YURYiTeEQrI6hcoO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Close as I'll get to you](https://open.spotify.com/album/3DP6NtV8F34x5HHem6PSGS) | 3:30 | 2022-11-02 | 2023-02-02 |
+| [Closer to You](https://open.spotify.com/track/2i4UyLk5jZb4Jo1tihSZgt) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Closer to You](https://open.spotify.com/album/0HKdx5MBFpI7ypQnSBP9kP) | 3:09 | 2023-06-15 |  |
 | [Coastin'](https://open.spotify.com/track/5E49Qnmu6bgoyENjCrlkPf) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Coastin'](https://open.spotify.com/album/6Q5Aj7X1f7oYfhfbwJpGPH) | 2:53 | 2022-06-08 | 2022-06-30 |
 | [Code of a Cowboy](https://open.spotify.com/track/2kIP1Taoef2SbNlttuNvsN) | [Glen Templeton](https://open.spotify.com/artist/58PGErqpV9jX7sXz5wmV6o) | [Code of a Cowboy](https://open.spotify.com/album/3SjNrFQddP45Eo7So7045f) | 3:51 | 2021-12-01 | 2022-01-13 |
 | [Cold Hearted](https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98) | [Sunset West](https://open.spotify.com/artist/6OFn7TgXCd9qdn2lMUX7T6) | [Cold Hearted](https://open.spotify.com/album/2ZHErtnhlEJrgfDlyQZH8w) | 3:42 | 2022-08-26 | 2022-09-22 |
@@ -302,6 +303,7 @@
 | [Country Like That](https://open.spotify.com/track/30sDgcZthAeeAVxEVDuvtj) | [Hunter & Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [Country Like That](https://open.spotify.com/album/4vEwuanKShmSBaFSZNJKSu) | 2:46 | 2023-02-22 | 2023-03-23 |
 | [Country Mile](https://open.spotify.com/track/7LwYZrSlAyp9AjRVgjceYu) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Country Mile](https://open.spotify.com/album/0bZxG7npMWooy6NoqgaTKX) | 3:07 | 2022-10-05 | 2022-12-01 |
 | [Country Music Feels Like](https://open.spotify.com/track/34aghweq7FOhjOY9zl0ohk) | [Davey Arnold](https://open.spotify.com/artist/67RFFZt1Tm9JWxaCRKowkY) | [Country Music Feels Like](https://open.spotify.com/album/1vJMiS1ZSSgY4nEc1xtMI0) | 3:08 | 2022-04-27 | 2022-06-08 |
+| [Country Music Never Broke My Heart](https://open.spotify.com/track/5Y7aR2OsRGjjpK0ZscPtT1) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Country Music Never Broke My Heart](https://open.spotify.com/album/3xcjNTxxwdXMNj5EEkRQcg) | 2:58 | 2023-06-15 |  |
 | [Country Nuff](https://open.spotify.com/track/2dNffEqLMj9ajxIuV7gjTl) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Country Nuff](https://open.spotify.com/album/7JQmLNMfQ4JZe4kFHagnQK) | 3:01 | 2022-10-12 | 2022-12-01 |
 | [Country Summertime](https://open.spotify.com/track/1pWFBe1g8blFgzpwI1NDQX) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Zack Kindall](https://open.spotify.com/artist/3bMeB49QOYRkTHTeiqzcnd) | [Country Summertime](https://open.spotify.com/album/2BSBgX0lw7TGyuVcIR8zRS) | 2:56 | 2021-12-01 | 2022-01-13 |
 | [Country Summertime](https://open.spotify.com/track/7z4oQ45wAEPLQg5KDkmLIe) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Zack Kindall](https://open.spotify.com/artist/3bMeB49QOYRkTHTeiqzcnd) | [2021](https://open.spotify.com/album/0CtwsgMm6rg0r72ZPPfnkP) | 2:58 | 2022-11-30 | 2023-01-12 |
@@ -517,6 +519,7 @@
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-16 | 2022-03-31 |
 | [Getting Over You Thing](https://open.spotify.com/track/5d4XxTOHmSthjo6GekM4k5) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Getting Over You Thing](https://open.spotify.com/album/4EyTPFZ8N9mXkue3R7iU5e) | 3:32 | 2023-03-15 | 2023-04-20 |
 | [Ghost](https://open.spotify.com/track/7wNNEj0ntJW3QPx0PWwaFJ) | [Hunter Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [Ghost](https://open.spotify.com/album/4xjCemS8N2VvVmpuKyTUk2) | 2:52 | 2022-02-02 | 2022-03-10 |
+| [Ghost](https://open.spotify.com/track/3DXAPWkOoRHoAMMxv5C2F9) | [Logan Samford](https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz) | [Ghost](https://open.spotify.com/album/0v6TnQqc8ssNBQpAkUt6dg) | 3:30 | 2023-06-15 |  |
 | [Ghost Town](https://open.spotify.com/track/1TDD1edgMGZKXJNBbwCovG) | [Carson Beyer](https://open.spotify.com/artist/7ko8K3oegiC9oECP0zecen) | [Ghost Town](https://open.spotify.com/album/6u2FLG6uQkO5EvOSofFsD8) | 3:06 | 2022-01-12 | 2022-01-27 |
 | [Girl Behind The Bar](https://open.spotify.com/track/3CiJvkj1BjznTlJlIWS7ml) | [Holiday State](https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ) | [Girl Behind The Bar](https://open.spotify.com/album/3WKKeMDIN7BUmdGVA6i2Xf) | 3:10 | 2022-03-23 | 2022-05-05 |
 | [Girl From The Bar \(feat\. Shelby Darrall\)](https://open.spotify.com/track/543a480TFTDZwFqyMcaNRJ) | [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v), [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Girl From The Bar \(feat\. Shelby Darrall\)](https://open.spotify.com/album/293KmNHyWRlweWmyl5LUtv) | 2:22 | 2022-08-26 | 2022-10-06 |

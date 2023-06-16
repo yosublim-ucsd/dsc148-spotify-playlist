@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Comboraa",
+        "url": "https://open.spotify.com/album/0nGx68npium6L4Qth0a6Jv"
+      },
+      "artists": [
+        {
+          "name": "Whozu",
+          "url": "https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3"
+        },
+        {
+          "name": "S2kizzy",
+          "url": "https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230063,
+      "name": "Comboraa",
+      "url": "https://open.spotify.com/track/5tyXI0eHfeNeSpf1OQM55H"
+    },
+    {
+      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2"
       },
@@ -546,7 +568,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 286480,
       "name": "Dala Dala",
       "url": "https://open.spotify.com/track/1Wq9d6BDdi31KQ5s1NPY1h"
@@ -604,7 +626,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 188454,
       "name": "Deka (feat. Mabantu)",
       "url": "https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF"
@@ -2343,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Morning Call",
+        "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193596,
+      "name": "Morning Call",
+      "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
+    },
+    {
+      "album": {
         "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
         "url": "https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE"
       },
@@ -2616,7 +2656,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 208163,
       "name": "My Way",
       "url": "https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0"
@@ -3954,6 +3994,24 @@
     {
       "album": {
         "name": "Simuachi",
+        "url": "https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0"
+      },
+      "artists": [
+        {
+          "name": "Cheed",
+          "url": "https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191062,
+      "name": "Simuachi",
+      "url": "https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo"
+    },
+    {
+      "album": {
+        "name": "Simuachi",
         "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
       },
       "artists": [
@@ -4000,7 +4058,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 136422,
       "name": "Single",
       "url": "https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7"
@@ -4954,6 +5012,28 @@
       "duration_ms": 216521,
       "name": "Zai",
       "url": "https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2"
+    },
+    {
+      "album": {
+        "name": "Zanzibar (feat. Bruce Melodie)",
+        "url": "https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Zanzibar (feat. Bruce Melodie)",
+      "url": "https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"

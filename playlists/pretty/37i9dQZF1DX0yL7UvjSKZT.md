@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,537 likes - 137 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,558 likes - 137 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 136 | [Junkie](https://open.spotify.com/track/6xkRKNcvCyXuOianBHpm2K) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Junkie](https://open.spotify.com/album/12trB8fFs5uPO2oIOvcHwm) | 4:04 |
 | 137 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 
-Snapshot ID: `MCwzZGI2MWFlMTUyM2U1YTdlOTBkNTIyMGQzMjJiYzcxYTVkNzcyMTlj`
+Snapshot ID: `MCwzNTNhZjc2NjRhNjAxNTYwZTJiZDNlMzU0MTc1NjFhNDljYmNiNWFj`

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-88 songs - 4 hr 57 min
+90 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,10 +82,12 @@
 | [Sommarnattens Skeende \- Rain Version](https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende \(Rain Version\)](https://open.spotify.com/album/1aCRMnV31DGcpjJJPiwcMe) | 3:36 | 2023-04-27 |  |
 | [Spoonbills](https://open.spotify.com/track/0LM38lH2RI72dPmJ6KbBvw) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Spoonbills](https://open.spotify.com/album/2XyxvwvFpE076GQF5HkKoc) | 3:29 | 2023-05-11 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/29Gr0GjylxtT8NnqYdzD0q) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/5ccUuk74VKOx1uSOZUxAUt) | 2:36 | 2023-04-27 |  |
+| [Steam](https://open.spotify.com/track/3RmG3gc8uPfq0O0zHTsPsh) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Steam](https://open.spotify.com/album/2sG4LyH2WzTRKQbvavkxdd) | 3:21 | 2023-06-15 |  |
 | [Steps Ahead \- with rain](https://open.spotify.com/track/09MFPunETQ5tfa2Nsisume) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Steps Ahead \- with rain](https://open.spotify.com/album/17X0mXbnd5ma8fXI2dQ3Wi) | 3:24 | 2023-04-27 |  |
 | [Stillness \- Rainy Day Jazz](https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness \(Rainy Day Jazz\)](https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM) | 2:50 | 2023-04-27 |  |
 | [Summertime](https://open.spotify.com/track/5NrwsKRkhQgczHWPL0BGIm) | [Greta Leja](https://open.spotify.com/artist/4q1DYHDlHRRxgL0B8wGGJt) | [Summertime](https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws) | 2:24 | 2023-04-27 |  |
 | [Tell Me \- Rain](https://open.spotify.com/track/6otMukSGKb6tFs0O25xlGl) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me \(Rain\)](https://open.spotify.com/album/2hNl2gh5ok1dz58Srt82gX) | 4:25 | 2023-04-27 |  |
+| [Tenderness](https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Tenderness](https://open.spotify.com/album/0N8Tp6t6hgmGYzbc3fbEVu) | 3:32 | 2023-06-15 |  |
 | [Three Views Of A Secret \- Rain version](https://open.spotify.com/track/7agbpfkAH7NrfjSU2lfiUZ) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Three Views Of A Secret \- Rain version](https://open.spotify.com/album/1pJXVnXlKtZt5hxRWHX6fZ) | 4:26 | 2023-04-27 |  |
 | [Under My Umbrella](https://open.spotify.com/track/18kKrkIzW4NO0WKRVPtyqT) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Under My Umbrella](https://open.spotify.com/album/7KAotzp6Y8jn1byQJeo3SC) | 3:59 | 2023-04-27 |  |
 | [Velvet Moon](https://open.spotify.com/track/2jbL9THwH9EQ8MdRgbp7Lx) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [Velvet Moon](https://open.spotify.com/album/4pcLOa1SDpLc0edJ0wIAop) | 1:52 | 2023-04-27 |  |

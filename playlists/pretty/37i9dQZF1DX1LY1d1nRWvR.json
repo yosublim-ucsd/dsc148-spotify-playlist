@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 27154,
+  "num_followers": 27177,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmZmNDIyMDY0ZmViYWY0NGY1N2UzZGRkNTc5MzViOWUwMDU4NTQ1",
+  "snapshot_id": "MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 464182,
       "name": "Buya - Da Capo Remix",
       "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 205816,
-      "name": "Theme from Selva",
-      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 416871,
       "name": "Night Of Desirable Objects",
       "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 205816,
+      "name": "Theme from Selva",
+      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
-      },
-      "artists": [
-        {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
-        }
-      ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+      },
+      "artists": [
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -919,18 +919,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "When You Focus On The Good The Good Gets Better",
-        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+        "name": "Come To Canada You Will Like It",
+        "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
       "artists": [
         {
-          "name": "Devante Embers",
-          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
         }
       ],
-      "duration_ms": 428023,
-      "name": "When You Focus On The Good The Good Gets Better",
-      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
+      "duration_ms": 312203,
+      "name": "Rent Day",
+      "url": "https://open.spotify.com/track/3maPgzbsXLCQhvM69xZih5"
     }
   ],
   "unique_name": "lush",

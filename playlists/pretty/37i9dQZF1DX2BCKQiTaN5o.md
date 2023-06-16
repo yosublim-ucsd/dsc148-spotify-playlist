@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,920 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,993 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 28 | [Automatic](https://open.spotify.com/track/4pQbnbI736qzbR6lUNlaSW) | [The Bonfyre](https://open.spotify.com/artist/4oIGrMYn1N1xPNYVXcaEZJ) | [Ready to Love](https://open.spotify.com/album/7AZN4LMRjQMi5boyWFgPFv) | 2:37 |
 | 29 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 |
 | 30 | [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 |
-| 31 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 |
+| 31 | [Honesty](https://open.spotify.com/track/462TPW42LqTEidH4KcNkx7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/4p0EC5ThJf0VvujPgHo5jj) | 3:09 |
 | 32 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
 | 33 | [Blessed](https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:01 |
 | 34 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 | 35 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
 
-Snapshot ID: `MCxjMDQwZDQ3MTUzMzczZmJjZjk2MTJiNmYwMzg2ZmNiYzY5NjJiNzFm`
+Snapshot ID: `MCw1N2I4ZmFiYWVhNTQzOThjYzg2OGNmOGIwYTY1ODMwOTAzYWZhMDAw`

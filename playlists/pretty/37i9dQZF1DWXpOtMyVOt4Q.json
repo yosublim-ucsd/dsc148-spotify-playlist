@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 235161,
+  "num_followers": 235227,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk",
+  "snapshot_id": "MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Insomnia Dream",
-        "url": "https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7"
-      },
-      "artists": [
-        {
-          "name": "colours in the dark",
-          "url": "https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Insomnia Dream",
-      "url": "https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "waking up in the park",
         "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
       },
@@ -127,22 +111,34 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "you're not lost",
-        "url": "https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix"
+        "name": "Insomnia Dream",
+        "url": "https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7"
       },
       "artists": [
         {
-          "name": "eaup",
-          "url": "https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt"
-        },
-        {
-          "name": "Hz.",
-          "url": "https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j"
+          "name": "colours in the dark",
+          "url": "https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI"
         }
       ],
-      "duration_ms": 148037,
-      "name": "you're not lost",
-      "url": "https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR"
+      "duration_ms": 162000,
+      "name": "Insomnia Dream",
+      "url": "https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 173337,
+      "name": "Melanine",
+      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -163,18 +159,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+        "name": "you're not lost",
+        "url": "https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "eaup",
+          "url": "https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt"
+        },
+        {
+          "name": "Hz.",
+          "url": "https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j"
         }
       ],
-      "duration_ms": 173337,
-      "name": "Melanine",
-      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
+      "duration_ms": 148037,
+      "name": "you're not lost",
+      "url": "https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Tachikawa",
-        "url": "https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6WE",
-          "url": "https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI"
-        },
-        {
-          "name": "Lazy Noodles",
-          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Tachikawa",
-      "url": "https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Far from Reality",
         "url": "https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i"
       },
@@ -387,18 +367,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Theta",
-        "url": "https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg"
+        "name": "Tachikawa",
+        "url": "https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3"
       },
       "artists": [
         {
-          "name": "NiElsir",
-          "url": "https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk"
+          "name": "K\u00d6WE",
+          "url": "https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
         }
       ],
-      "duration_ms": 180977,
-      "name": "Theta",
-      "url": "https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH"
+      "duration_ms": 72000,
+      "name": "Tachikawa",
+      "url": "https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -419,6 +403,22 @@
       "duration_ms": 174545,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Theta",
+        "url": "https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg"
+      },
+      "artists": [
+        {
+          "name": "NiElsir",
+          "url": "https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Theta",
+      "url": "https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Slumber Tape",
-        "url": "https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo"
-      },
-      "artists": [
-        {
-          "name": "Xori",
-          "url": "https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv"
-        }
-      ],
-      "duration_ms": 52987,
-      "name": "rainy season",
-      "url": "https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "continue",
         "url": "https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
+        "name": "Slumber Tape",
+        "url": "https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo"
+      },
+      "artists": [
+        {
+          "name": "Xori",
+          "url": "https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv"
+        }
+      ],
+      "duration_ms": 52987,
+      "name": "rainy season",
+      "url": "https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 289870,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Lovely Lofi",
+        "url": "https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8"
+      },
+      "artists": [
+        {
+          "name": "Bonsai Beats",
+          "url": "https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y"
+        }
+      ],
+      "duration_ms": 72727,
+      "name": "Lovely Lofi",
+      "url": "https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -795,38 +811,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Lovely Lofi",
-        "url": "https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8"
-      },
-      "artists": [
-        {
-          "name": "Bonsai Beats",
-          "url": "https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y"
-        }
-      ],
-      "duration_ms": 72727,
-      "name": "Lovely Lofi",
-      "url": "https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
-        "name": "Royal Lavender",
-        "url": "https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp"
-      },
-      "artists": [
-        {
-          "name": "jiabeats",
-          "url": "https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5"
-        }
-      ],
-      "duration_ms": 180779,
-      "name": "Royal Lavender",
-      "url": "https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "playa",
         "url": "https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 116061,
       "name": "playa",
       "url": "https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Royal Lavender",
+        "url": "https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp"
+      },
+      "artists": [
+        {
+          "name": "jiabeats",
+          "url": "https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5"
+        }
+      ],
+      "duration_ms": 180779,
+      "name": "Royal Lavender",
+      "url": "https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ"
     },
     {
       "added_at": "2022-11-22 19:37:00",

@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "Avenue",
+        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+    },
+    {
+      "album": {
+        "name": "Avenue",
         "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
       },
       "artists": [
@@ -186,7 +204,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 199773,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"

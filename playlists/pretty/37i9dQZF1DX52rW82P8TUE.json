@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 54215,
+  "num_followers": 54273,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2Y5NTllYzlmMWU1NjI4OTI3YzRlYzMwMjI5MDM2MjZjNGRhN2Yz",
+  "snapshot_id": "MCw0NTM1NTE3YWNlMjljYzljYmNjMTM3NzdmYTRkYTIxOGM3ZDk1MmM1",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
-      },
-      "artists": [
-        {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 188061,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Arautos do Rei pra Baixinhos e Grand\u00f5es",
         "url": "https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 234720,
       "name": "A Hist\u00f3ria dos Animais",
       "url": "https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
+      },
+      "artists": [
+        {
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 188061,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
     },
     {
       "added_at": "2023-06-02 03:00:00",

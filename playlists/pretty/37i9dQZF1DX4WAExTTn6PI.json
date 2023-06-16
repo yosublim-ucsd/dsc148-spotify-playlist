@@ -1,12 +1,12 @@
 {
   "description": "Americana's artists and hits of tomorrow. Cover: Jess Williamson",
-  "num_followers": 27460,
+  "num_followers": 27478,
   "original_name": "Emerging Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDBlNzk1MjY2N2Y1NTUyZjk0YWZiNmYyZjBiZGJlM2IwM2JkOWQ2",
+  "snapshot_id": "MCxmZjc5YzYzNmJjNWU2NzM5MmE4ZDFjMGU5Y2E2NTBjNDMwNDlkZDAy",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -266,6 +266,10 @@
         {
           "name": "Nate Fredrick",
           "url": "https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx"
+        },
+        {
+          "name": "Nate Fredrick and The Wholesome Boys",
+          "url": "https://open.spotify.com/artist/0m5y5Le332rV9R18MVYR5F"
         }
       ],
       "duration_ms": 230000,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Nanpa Básico y Ximena Sariñana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,540 likes - 104 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,652 likes - 104 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 103 | [Rikitin](https://open.spotify.com/track/2tEVjCM7AurSDmVpF4XZza) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Rikitin](https://open.spotify.com/album/0yASxzesC77OQz98E0A1Yp) | 3:47 |
 | 104 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCw5NmRiZjAwZGE2MGUyNDYyNWUwYzQyMzkzNjA4ODJiYWEzYjE5MWI1`
+Snapshot ID: `MCxkNWE2ZjQ4MDdlNmU0MmVkZTA5ZTcxMWRmOWJlMjI4YWU2ODg5MmU4`

@@ -2,12 +2,13 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jayda G
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Peggy Gou
 
-254 songs - 18 hr 42 min
+257 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 |  |
 | [80+1 Hardy Ones](https://open.spotify.com/track/257ekAZZ2dToJ4f1SGgUkX) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [80+1 Hardy Ones](https://open.spotify.com/album/6mryyljSMW08TfeSFlFbqu) | 7:27 | 2023-05-19 |  |
 | [A New Light](https://open.spotify.com/track/6fn7tlBORXWaSLdACXVkuO) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [A New Light](https://open.spotify.com/album/3ImwhIT7SY1Cndhrdi0SCq) | 4:52 | 2023-03-16 |  |
 | [ABM](https://open.spotify.com/track/5oMuydZhXTmKj3LD6EzAmp) | [BUSHMIND](https://open.spotify.com/artist/3XlCKGT80f7QQJ9X4iMdFY) | [The Drop EP](https://open.spotify.com/album/4Sq83NCbE302V4LuvBR1IN) | 6:55 | 2023-06-09 |  |
@@ -108,6 +109,7 @@
 | [Grief](https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Grief](https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H) | 4:17 | 2023-05-04 |  |
 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 | 2023-03-16 | 2023-05-12 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-23 |  |
+| [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 | 2023-06-15 |  |
 | [Here With You](https://open.spotify.com/track/5ki7tGfWTYrnbmdYQlWRUe) | [Michael David](https://open.spotify.com/artist/5C1YLUNAIIJEU0Zrl251QX), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Talking Book World](https://open.spotify.com/album/4biFqGVNLvA4H3PnXdcJW9) | 5:04 | 2023-06-09 |  |
 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 | 2023-04-27 | 2023-05-05 |
 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 | 2023-03-16 | 2023-05-01 |
@@ -144,6 +146,7 @@
 | [Lounge \(feat\. Shurkn Pap x JUBEE\)](https://open.spotify.com/track/0wmpd6LUMUXTna4wq8lVBe) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 3:28 | 2023-03-16 | 2023-05-12 |
 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-03-16 | 2023-05-12 |
 | [Love Is Emotion](https://open.spotify.com/track/3IhWvRkKuh03tCoPu0RavK) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Love Is Emotion](https://open.spotify.com/album/1IRbkyv9JQQVf8WySlkQkI) | 6:28 | 2023-03-16 | 2023-05-05 |
+| [Lovin You](https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Lovin You](https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL) | 2:43 | 2023-06-15 |  |
 | [Loyly \- Gimgigam Remix](https://open.spotify.com/track/3WyhSt2YyJnMv47hMEset5) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Loyly \(Gimgigam Remix\)](https://open.spotify.com/album/7t8VrAFKPY7CwSK1P6t4vM) | 3:26 | 2023-04-08 |  |
 | [M1, M3](https://open.spotify.com/track/2dy2LigdnxZ5SLFLQZbKQk) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:30 | 2023-04-27 | 2023-06-09 |
 | [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-03-16 | 2023-04-30 |
@@ -197,7 +200,7 @@
 | [Samba Soccer 2001](https://open.spotify.com/track/5DWGZgTWfmwbUZClvc9HN2) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [G\-TOWN 004](https://open.spotify.com/album/3b7qKf0vLoFI294vLnkYvo) | 5:31 | 2023-04-08 |  |
 | [Saturday Love \- Cover](https://open.spotify.com/track/40oFFVcxIOvRJxDAEbdhdm) | [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Saturday Love \(Cover\)](https://open.spotify.com/album/0gdVEgsyLkGoONTFXv8c0y) | 5:03 | 2023-06-09 |  |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2023-03-16 | 2023-04-28 |
-| [Scars](https://open.spotify.com/track/7jPYJuEboE1m568wOp5CTI) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Orbs](https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe) | 4:09 | 2023-06-09 |  |
+| [Scars](https://open.spotify.com/track/7jPYJuEboE1m568wOp5CTI) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [orbs](https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe) | 4:09 | 2023-06-09 |  |
 | [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-05-25 | 2023-06-09 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-03-16 | 2023-03-21 |

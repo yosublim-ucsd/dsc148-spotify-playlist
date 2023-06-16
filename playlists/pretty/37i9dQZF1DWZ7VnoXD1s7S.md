@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,240 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,377 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 9 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
 | 10 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
 | 11 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
-| 12 | [Inuyasha](https://open.spotify.com/track/0TA4JOJDwR4iCimT8EcBb7) | [ONIBOY](https://open.spotify.com/artist/6ZmMnPWHRkSBb0nuyr1phJ), [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Inuyasha](https://open.spotify.com/album/7uBNXd5YzniBgl2uZYv275) | 2:53 |
+| 12 | [Inuyasha](https://open.spotify.com/track/0TA4JOJDwR4iCimT8EcBb7) | [ONIBOY](https://open.spotify.com/artist/6ZmMnPWHRkSBb0nuyr1phJ) | [Inuyasha](https://open.spotify.com/album/7uBNXd5YzniBgl2uZYv275) | 2:53 |
 | 13 | [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 |
 | 14 | [Infinite Cloud](https://open.spotify.com/track/2uufSlJp3cSuv6hQXOs05B) | [azzz](https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh) | [Infinite Cloud](https://open.spotify.com/album/4MoKdgXVBtpIrEfh3epMMI) | 1:47 |
 | 15 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 | 80 | [Hopeful](https://open.spotify.com/track/0HiSCxeV3OvwcwC7b1nqDQ) | [Matt Christensen](https://open.spotify.com/artist/0XhPqflyANK20YPHgW4hOC), [John Reeves](https://open.spotify.com/artist/2IhchxtNAxUhFWEY5JxY8C) | [Superliminal \(Original Game Soundtrack\)](https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r) | 7:03 |
 
-Snapshot ID: `MCwyOTU3MzVjMDNiOTA0YTljMmFlMzU2ZmY0YWMzOGVjNTNkNGE1OTgx`
+Snapshot ID: `MCxlYTJlZmE0ZWY5YTU3NGJiMWI1MTFlOTc3ODJmMzA1MGRkMjE5YTk3`

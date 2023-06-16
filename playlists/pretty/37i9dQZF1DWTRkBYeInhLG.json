@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 423290,
+  "num_followers": 423590,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDNlMDlhYWFmOWY4ZTdiNDRkMWI0OTU0YmFhNDRkNWJmZGY2ODc0",
+  "snapshot_id": "MCwwYThhNDc0N2E3NTIzYzJmZmUwZWMzMmYzZTk0ZjQxOGY2OGQ1OWRi",
   "tracks": [
     {
       "added_at": "2023-06-07 04:49:24",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
+        "name": "Kesempurnaan Cinta",
+        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 216019,
+      "name": "Kesempurnaan Cinta",
+      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
         "name": "Dengan Caraku",
         "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 272631,
       "name": "Dengan Caraku",
       "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
-        "name": "Kesempurnaan Cinta",
-        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 216019,
-      "name": "Kesempurnaan Cinta",
-      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 277359,
       "name": "Meant 2 Be",
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2023-06-07 04:49:24",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-06-07 04:49:24",
       "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2023-06-07 04:49:24",
+      "album": {
         "name": "Raisa",
         "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 234640,
       "name": "Hebat",
       "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
-    },
-    {
-      "added_at": "2023-06-07 04:49:24",
-      "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2023-06-07 04:49:24",

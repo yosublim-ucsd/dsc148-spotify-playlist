@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-222 songs - 10 hr 51 min
+223 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Super Cold Waves](https://open.spotify.com/track/7J851Pjup3zK2XuEoOlaIZ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:14 | 2021-11-11 |  |
 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 | 2021-11-11 | 2022-12-20 |
 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 | 2021-11-11 |  |
-| [The Mighty Ocean \- Seamless](https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2) | [Sea Kelp](https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh) | [The Mighty Ocean](https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ) | 3:33 | 2022-12-19 |  |
+| [The Mighty Ocean \- Seamless](https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2) | [Sea Kelp](https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh) | [The Mighty Ocean](https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ) | 3:33 | 2022-12-19 | 2023-06-16 |
 | [The Ocean Is Talking](https://open.spotify.com/track/6s4SKfHInCaacxaJU4FHAk) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 2:41 | 2021-11-11 | 2022-11-17 |
 | [The Oceanic Beach Sound](https://open.spotify.com/track/5mvw769FihTs6dokvzhosR) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:53 | 2021-11-11 |  |
 | [The Relaxing Waves](https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ) | [Wavezze](https://open.spotify.com/artist/3o5UfxtSucVNHzD7L4uyRT) | [The Relaxing Waves](https://open.spotify.com/album/3bWHpzKQHZJPVmjIVEGiao) | 2:39 | 2021-11-11 |  |
@@ -200,6 +200,7 @@
 | [Waves & Wind](https://open.spotify.com/track/2s2oSlj6nfa9R04HeaBUb4) | [Sleep Waves Hub](https://open.spotify.com/artist/3nZPaJDw5lkYtw64qBHAHd) | [Sleep Waves Hub](https://open.spotify.com/album/55kilw5L9AF7gdItzqWvaU) | 4:55 | 2021-11-11 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-11 |  |
 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 | 2021-11-11 |  |
+| [Waves Beneath The Lighthouse](https://open.spotify.com/track/4gml8LGGIDTMi5bQlkAqYG) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Waves Beneath The Lighthouse](https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj) | 2:49 | 2023-02-15 |  |
 | [Waves by the Cliffs](https://open.spotify.com/track/2vmG0OJCzs5nw5x5TV2V35) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [La Jolla Waves](https://open.spotify.com/album/3H5jbmk8MCrO3qdW3sLJKL) | 2:59 | 2021-11-11 | 2022-02-11 |
 | [Waves Crashing](https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:27 | 2021-11-11 |  |
 | [Waves Crashing At The Morning](https://open.spotify.com/track/3VKlyYs7Kn8TxuExd2mRqW) | [Mega Exotic Wave Sounds](https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2) | [Waves From Around The World](https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW) | 2:20 | 2022-11-16 |  |

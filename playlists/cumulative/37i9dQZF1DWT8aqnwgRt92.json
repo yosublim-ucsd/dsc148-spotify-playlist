@@ -4100,7 +4100,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 227683,
       "name": "MAGICAL DESTROYER",
       "url": "https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG"
@@ -9000,6 +9000,24 @@
       "duration_ms": 233133,
       "name": "\u30b9\u30af\u30ef\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30c1\u30b9",
+        "url": "https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC"
+      },
+      "artists": [
+        {
+          "name": "saji",
+          "url": "https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "\u30b9\u30bf\u30fc\u30c1\u30b9",
+      "url": "https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-110 songs - 5 hr 5 min
+111 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Maggots](https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 2:18 | 2022-11-30 |  |
 | [Make Me Famous](https://open.spotify.com/track/0pOeZhJipQdF3qBiu1LjmC) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Make Me Famous](https://open.spotify.com/album/5xz5TT3z4Ik916eLPcaPr3) | 2:54 | 2022-11-30 |  |
 | [MIDNIGHT](https://open.spotify.com/track/6i1eYbNsiH2wJyfy0LfzdF) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [UNDER THE FLOOR](https://open.spotify.com/album/6IGooPMTgWHzDjS1QLHRkM) | 2:49 | 2022-11-30 |  |
-| [MINE](https://open.spotify.com/track/3GFD2KMtQ086Bc3mCIVejB) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 2:02 | 2022-11-30 |  |
+| [MINE](https://open.spotify.com/track/3GFD2KMtQ086Bc3mCIVejB) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 2:02 | 2022-11-30 | 2023-06-16 |
+| [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 | 2022-11-30 |  |
 | [MISS ME?](https://open.spotify.com/track/2D0nHpEE4mKXpGw7SRGTPm) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:13 | 2022-11-30 |  |
 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 | 2021-12-01 | 2022-12-01 |
 | [My Mother Wants Me Dead](https://open.spotify.com/track/04rzwxnFGsFYeP3rqE1s3U) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 1:45 | 2022-11-30 |  |

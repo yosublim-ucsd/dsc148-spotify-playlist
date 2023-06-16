@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5556,
+  "num_followers": 5568,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODVmZTE0OTJlZjE4MTI4ZTNhYmI4M2NiNzA2MDFiNTBlMTEzMmQw",
+  "snapshot_id": "MCxiMmE0YTdlODNlM2E5OGQ2NGUwYzVhNzFhYzA4Y2U3OWFjMWE5MTk1",
   "tracks": [
     {
       "added_at": "2023-06-09 15:02:31",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Dirt Woman Blues",
         "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 247319,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Vibes EP",
-        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
-      },
-      "artists": [
-        {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
-        }
-      ],
-      "duration_ms": 270658,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+        "name": "Vibes EP",
+        "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
       },
       "artists": [
         {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
         }
       ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+      "duration_ms": 270658,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Ugly Brain",
-        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Ross",
-          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
-        }
-      ],
-      "duration_ms": 276283,
-      "name": "Ugly Brain - Single Version",
-      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Eric (Long Live The King)",
         "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Ugly Brain",
+        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Ross",
+          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
+        }
+      ],
+      "duration_ms": 276283,
+      "name": "Ugly Brain - Single Version",
+      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+      },
+      "artists": [
+        {
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+        }
+      ],
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
         "name": "Guadalupe Plata 2023",
         "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 131354,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
-      },
-      "artists": [
-        {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
-        }
-      ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Porcelain God",
-        "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
-      },
-      "artists": [
-        {
-          "name": "Ingrid and the Ministers",
-          "url": "https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Porcelain God",
-      "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Porcelain God",
+        "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
+      },
+      "artists": [
+        {
+          "name": "Ingrid and the Ministers",
+          "url": "https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "Porcelain God",
+      "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Stop Signs and Fence Lines",
-        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
+        "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
+        "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
       },
       "artists": [
         {
-          "name": "Jericho Woods",
-          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
+          "name": "Baba Jenkins",
+          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
         }
       ],
-      "duration_ms": 170854,
-      "name": "Ten Beer Job",
-      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
+      "duration_ms": 162612,
+      "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
+      "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -779,38 +779,18 @@
     {
       "added_at": "2023-06-09 15:02:31",
       "album": {
-        "name": "Got till it's gone",
-        "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
       "artists": [
         {
-          "name": "Atomic stooges",
-          "url": "https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL"
-        },
-        {
-          "name": "\u597d\u53e3\u535a\u7ae0",
-          "url": "https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA"
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
         }
       ],
-      "duration_ms": 228857,
-      "name": "Got till it's gone",
-      "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
-    },
-    {
-      "added_at": "2023-06-09 15:02:31",
-      "album": {
-        "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
-        "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
-      },
-      "artists": [
-        {
-          "name": "Baba Jenkins",
-          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
-        }
-      ],
-      "duration_ms": 162612,
-      "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
-      "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
     },
     {
       "added_at": "2023-06-09 15:02:31",
@@ -827,6 +807,26 @@
       "duration_ms": 239904,
       "name": "Flood of 2019",
       "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
+    },
+    {
+      "added_at": "2023-06-09 15:02:31",
+      "album": {
+        "name": "Got till it's gone",
+        "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
+      },
+      "artists": [
+        {
+          "name": "Atomic stooges",
+          "url": "https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL"
+        },
+        {
+          "name": "\u597d\u53e3\u535a\u7ae0",
+          "url": "https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA"
+        }
+      ],
+      "duration_ms": 228857,
+      "name": "Got till it's gone",
+      "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
     }
   ],
   "unique_name": "Blues BBQ",

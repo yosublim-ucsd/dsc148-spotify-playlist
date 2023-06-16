@@ -2,9 +2,9 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> un cuore così 💔  \(in cover, solø\)
+> canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-212 songs - 9 hr 33 min
+214 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 | 2022-04-21 |  |
 | [BAD DREAMS](https://open.spotify.com/track/6FRBKBK66QxI5EgAjx4Q5p) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj), [Arts](https://open.spotify.com/artist/42C6TIlpSUs9jULKO31Kcm) | [BAD DREAMS](https://open.spotify.com/album/6Yah9aseZUENWhChoJ5QNI) | 3:32 | 2023-02-23 | 2023-04-03 |
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 | 2022-08-13 |
-| [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 |  |
+| [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 | 2023-06-16 |
 | [Bombay Lemon](https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [LOVE?](https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm) | 2:56 | 2023-02-23 |  |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 | 2023-02-25 |
 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 | 2022-12-05 | 2023-01-13 |
@@ -47,7 +47,7 @@
 | [Clipper](https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv) | 2:46 | 2023-02-23 |  |
 | [Clipper](https://open.spotify.com/track/7ipysHNC8Fd5IFFjX25jgF) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/2yTYKDFYax66zYRfspKJUP) | 2:46 | 2022-04-21 | 2023-02-25 |
 | [Coma](https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm) | [Kiira](https://open.spotify.com/artist/0kagys5czAPiNwJcRvasF3) | [Coma](https://open.spotify.com/album/2oXhkdZy6gKV0OYrIEAQLN) | 2:29 | 2022-04-21 | 2023-03-25 |
-| [Come mi vuoi](https://open.spotify.com/track/6Isz6e91LJDEFDg88FHKKE) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Come mi vuoi](https://open.spotify.com/album/1WfCPHnRKs9wcXVQ9yHZQY) | 3:02 | 2023-02-23 |  |
+| [Come mi vuoi](https://open.spotify.com/track/6Isz6e91LJDEFDg88FHKKE) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Come mi vuoi](https://open.spotify.com/album/1WfCPHnRKs9wcXVQ9yHZQY) | 3:02 | 2023-02-23 | 2023-06-16 |
 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 | 2022-04-21 |  |
 | [CON ME](https://open.spotify.com/track/7Gw6JaaG2u3v4FgstPPH9B) | [Da Strange](https://open.spotify.com/artist/5b0Mf55imUuWHuG9x3M7p0) | [CON ME](https://open.spotify.com/album/6J8Wg2SfWMNWkw5wsZEG07) | 1:50 | 2022-12-05 | 2023-03-25 |
 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 | 2022-04-21 |  |
@@ -100,6 +100,7 @@
 | [Lei Mi Ama](https://open.spotify.com/track/0gFWCB7HPb8EaeX2CCpADr) | [DoppioSenso](https://open.spotify.com/artist/61LAPKisoA7JNOAUK6XPl9) | [Lei Mi Ama](https://open.spotify.com/album/2xmh5qjvZIE3ThNs59KlcM) | 3:03 | 2022-09-22 | 2023-02-25 |
 | [Lei Mi Ama](https://open.spotify.com/track/40EAw1KbwCaxWn4BmNTxC7) | [DoppioSenso](https://open.spotify.com/artist/61LAPKisoA7JNOAUK6XPl9) | [Lei Mi Ama](https://open.spotify.com/album/3sy1o5zm0y46VL4JatU6hg) | 3:03 | 2023-02-23 | 2023-03-25 |
 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 | 2023-04-05 |  |
+| [Lettera \(interlude\)](https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr) | [Yungdobro](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI) | [Primo Amore](https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5) | 3:36 | 2023-06-15 |  |
 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 | 2022-04-21 |  |
 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 | 2022-12-08 | 2023-03-25 |
 | [Luglio](https://open.spotify.com/track/3UEq7NSWicVkITbVoV1qvM) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Drew Seele](https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ), [Keith Blond](https://open.spotify.com/artist/6UqFlbiCYRrMnEmzmlArju) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:33 | 2022-07-16 | 2023-03-25 |
@@ -129,6 +130,7 @@
 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 | 2022-09-08 | 2023-01-13 |
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 |  |
 | [Non Sarà Uguale](https://open.spotify.com/track/0JpKsj1vVqq0NqYyNrQQdt) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs) | [Non Sarà Uguale](https://open.spotify.com/album/5JLlWPE1rQ1sDVEsBjpVlf) | 2:23 | 2022-10-27 | 2022-12-15 |
+| [NON SO CHI SIAMO](https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [NON SO CHI SIAMO](https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw) | 2:51 | 2023-06-15 |  |
 | [nostalgia](https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E) | 3:15 | 2023-02-23 | 2023-06-09 |
 | [nostalgia](https://open.spotify.com/track/5INaFlBjbZ9lDKCsUkdMbY) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6) | 3:15 | 2022-04-21 | 2023-02-25 |
 | [Notre Dame](https://open.spotify.com/track/6eaGeLT6gaZ5Elz47wET2o) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Notre Dame](https://open.spotify.com/album/19h0scD8R1YD7UWNL75x5B) | 3:12 | 2022-11-10 |  |

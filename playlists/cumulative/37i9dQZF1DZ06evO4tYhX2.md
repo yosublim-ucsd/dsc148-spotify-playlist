@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 38 min
+77 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 |  |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-09-14 |  |
 | [Te Amo](https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [ROMPE EL CIELO](https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq) | 5:52 | 2022-09-14 | 2022-10-11 |
-| [Tu Habitación](https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 4:38 | 2022-09-14 |  |
+| [Tu Habitación](https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 4:38 | 2022-09-14 | 2023-06-16 |
 | [Tu Nombre \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/5SMyRgHJ9ZfM97ZffH0Tsl) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:47 | 2022-09-14 | 2022-10-13 |
 | [Tu Nombre En Alto](https://open.spotify.com/track/0XGSyE6SQxhnUEneW5csyg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Nombre En Alto](https://open.spotify.com/album/6uRbmxc6aomjmDX2Kq8QpW) | 5:07 | 2022-09-15 | 2022-10-09 |
 | [Tu Nombre Santo Es \(Feat\. Miel San Marcos\)](https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 7:49 | 2022-09-14 |  |
@@ -82,6 +82,7 @@
 | [Vivo Para Adorarte](https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:45 | 2022-09-14 |  |
 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 | 2022-11-18 |  |
 | [Yo Iré](https://open.spotify.com/track/6AaawfHLnIerBSX3TuTRid) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 3:48 | 2022-09-14 |  |
+| [Yo Iré / Soy Feliz \(En Vivo\)](https://open.spotify.com/track/6eQAS1mIHgKxvSNJ8WmQrg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 5:31 | 2023-06-15 |  |
 | [Yo Venceré](https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios Es Real](https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A) | 7:48 | 2022-09-14 |  |
 | [Óleo De Alegría \(feat\. Ovidio Barrios\)](https://open.spotify.com/track/56W5sxRrdEjCgAO0ZrWWVK) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Ovidio Barrios](https://open.spotify.com/artist/2CbtwylZWjiihnTSvxWCZw) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:41 | 2022-09-20 |  |
 

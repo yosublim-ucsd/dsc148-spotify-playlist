@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 191709,
       "name": "ARASAN DA",
       "url": "https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B"
@@ -260,6 +260,24 @@
       "duration_ms": 141305,
       "name": "A\u015fk Olsun",
       "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
+    },
+    {
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144744,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
     },
     {
       "album": {
@@ -336,6 +354,28 @@
       "duration_ms": 204553,
       "name": "Birader",
       "url": "https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk"
+    },
+    {
+      "album": {
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165059,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
     },
     {
       "album": {
@@ -598,7 +638,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 149249,
       "name": "FLEX SO HARD RMX",
       "url": "https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX"
@@ -846,7 +886,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 156387,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/4cUBqMp6n4B2L4Mmr1JcLr"
@@ -966,6 +1006,24 @@
       "duration_ms": 178605,
       "name": "G\u00fcnleri Sayd\u0131m",
       "url": "https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx"
+    },
+    {
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135459,
+      "name": "HANIMEFEND\u0130",
+      "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
       "album": {
@@ -1413,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "K\u00dcL",
+        "url": "https://open.spotify.com/album/1O7VrMR3QXz17WS3pUQ6Gh"
+      },
+      "artists": [
+        {
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        },
+        {
+          "name": "Ceza",
+          "url": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "K\u00dcL",
+      "url": "https://open.spotify.com/track/5APeJmSITQTYuDJsVFETKY"
+    },
+    {
+      "album": {
         "name": "Lvbel C5 x Fumez The Engineer - Plugged In",
         "url": "https://open.spotify.com/album/7l2fW5tJiQwQgTRUrmykT2"
       },
@@ -1562,7 +1642,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 150220,
       "name": "Montana",
       "url": "https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE"
@@ -1784,6 +1864,24 @@
       "duration_ms": 134265,
       "name": "OU LA LA",
       "url": "https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3"
+    },
+    {
+      "album": {
+        "name": "Oynar",
+        "url": "https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167753,
+      "name": "Oynar",
+      "url": "https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN"
     },
     {
       "album": {
@@ -2372,7 +2470,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 127072,
       "name": "XXL",
       "url": "https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK"

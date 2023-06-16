@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. jazmin bean",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. alt blk era",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Cauterize",
+        "url": "https://open.spotify.com/album/6SJVjPcp5G3Dqg6Wjvdtsh"
+      },
+      "artists": [
+        {
+          "name": "Hollow",
+          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151966,
+      "name": "Cauterize",
+      "url": "https://open.spotify.com/track/3Hlx9j7ozvM2JnqEbrBvoo"
+    },
+    {
+      "album": {
         "name": "Cdbaby<3 (underscores remix)",
         "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 185803,
       "name": "clones",
       "url": "https://open.spotify.com/track/4AsTCZVFI6KEYLgaAvbHpf"
@@ -2486,6 +2504,24 @@
       "duration_ms": 176833,
       "name": "dog days",
       "url": "https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1"
+    },
+    {
+      "album": {
+        "name": "Don't Date The Devil",
+        "url": "https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Don't Date The Devil",
+      "url": "https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw"
     },
     {
       "album": {
@@ -5041,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "INEVITABLE",
+        "url": "https://open.spotify.com/album/193XRG7LBnajqsiNXqpjtN"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193922,
+      "name": "INEVITABLE",
+      "url": "https://open.spotify.com/track/2qtSizmBpVyaOZMypRdxZv"
+    },
+    {
+      "album": {
         "name": "why am i like this??",
         "url": "https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM"
       },
@@ -5468,7 +5522,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 257125,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s"
@@ -6410,7 +6464,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 194035,
       "name": "Most Viewed",
       "url": "https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm"
@@ -9074,7 +9128,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 151639,
       "name": "Sweet Sweet",
       "url": "https://open.spotify.com/track/6GMKSAc1546d4mMen2UHd3"
@@ -9310,6 +9364,28 @@
       "duration_ms": 231286,
       "name": "The Void Stares Back",
       "url": "https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL"
+    },
+    {
+      "album": {
+        "name": "the world is big",
+        "url": "https://open.spotify.com/album/0qEHh7yrNMM4UGTE3jmAAS"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "the world is big",
+      "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
     },
     {
       "album": {

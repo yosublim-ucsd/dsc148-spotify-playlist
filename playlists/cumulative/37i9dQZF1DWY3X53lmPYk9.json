@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Favorite Song",
+        "url": "https://open.spotify.com/album/45S8G3m4yS40xNqsXCBJAG"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133544,
+      "name": "A Favorite Song",
+      "url": "https://open.spotify.com/track/4UWncXK8hLTErhTxKPolo2"
+    },
+    {
+      "album": {
         "name": "A Flower Is A Lovesome Thing",
         "url": "https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6"
       },
@@ -290,6 +308,24 @@
       "duration_ms": 158000,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5"
+    },
+    {
+      "album": {
+        "name": "Alone together",
+        "url": "https://open.spotify.com/album/4coO5Gtnmh4FY37Duw2A9m"
+      },
+      "artists": [
+        {
+          "name": "Henriette Martin",
+          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136098,
+      "name": "Alone together",
+      "url": "https://open.spotify.com/track/5qZaX4WSpgvUHJo7XiuNEY"
     },
     {
       "album": {
@@ -1939,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/4MWF7jYUvrKlxGUDzI24Qi"
+      },
+      "artists": [
+        {
+          "name": "Jaden Cohen",
+          "url": "https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/3Zd18LrQxTXeqyqCgVyuir"
+    },
+    {
+      "album": {
         "name": "Happy Days",
         "url": "https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana"
       },
@@ -2584,6 +2638,24 @@
       "duration_ms": 181818,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/3JdweRYYTUEhsF0trwC1Ad"
+    },
+    {
+      "album": {
+        "name": "If I Ask You",
+        "url": "https://open.spotify.com/album/3lU43Ja6lQbm9rtL8kIBx0"
+      },
+      "artists": [
+        {
+          "name": "Ellie Manne",
+          "url": "https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205332,
+      "name": "If I Ask You",
+      "url": "https://open.spotify.com/track/6OTwRbIdpZ69hQ2ill1Cno"
     },
     {
       "album": {
@@ -3452,6 +3524,24 @@
     {
       "album": {
         "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178868,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
+    },
+    {
+      "album": {
+        "name": "Moonlight In Vermont",
         "url": "https://open.spotify.com/album/2rFUw8QOtXqyHf9c8LlUF4"
       },
       "artists": [
@@ -3786,7 +3876,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 171250,
       "name": "Night Mood",
       "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
@@ -4549,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Softly As In A Morning Sunrise",
+        "url": "https://open.spotify.com/album/4EZw9AWXxIuBSfT5u9wkPM"
+      },
+      "artists": [
+        {
+          "name": "Lyn Ardbeg",
+          "url": "https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197718,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/4Ne3yRKZMX8RrYbaZJOKnc"
+    },
+    {
+      "album": {
         "name": "Soliloquy",
         "url": "https://open.spotify.com/album/50SceCepq76rvBMF7AVjfU"
       },
@@ -4960,6 +5068,24 @@
       "duration_ms": 182000,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/1ETnlcaRH6Sq2xihW7TZPI"
+    },
+    {
+      "album": {
+        "name": "Still playing",
+        "url": "https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Still playing",
+      "url": "https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX"
     },
     {
       "album": {
@@ -5914,6 +6040,24 @@
       "duration_ms": 243472,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a"
+    },
+    {
+      "album": {
+        "name": "When The Night Is Young",
+        "url": "https://open.spotify.com/album/4ianOqLiP8SZzihfVXANER"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152937,
+      "name": "When The Night Is Young",
+      "url": "https://open.spotify.com/track/6I1tdxYGrDclzP0Zholt5c"
     },
     {
       "album": {

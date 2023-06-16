@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,982 likes - 116 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,072 likes - 116 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 115 | [Impermanency](https://open.spotify.com/track/4Kd7lRXOO8jfvG9RpGvthk) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Impermanency](https://open.spotify.com/album/3MlXwaIdVPDOmtN7rpSRYV) | 3:07 |
 | 116 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 |
 
-Snapshot ID: `MCw3ZGZlOGY4NWE0OTZkY2EwNjNmMTJmNmI0NzZmMWJmZjg5NjU5MTA0`
+Snapshot ID: `MCxlNGZiMjY1M2EzOTc4NmZjZjM1ZGEzYjJjYzk2N2RlMzFmZTExYTll`

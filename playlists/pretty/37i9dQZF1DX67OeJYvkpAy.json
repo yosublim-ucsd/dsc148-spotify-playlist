@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86530,
+  "num_followers": 86549,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc3MzU0NzY1NmQ3MDJmNzMxMDRhNmIwN2ZjNjQ2MzhhYmU3NmE3",
+  "snapshot_id": "MCw0NjM2NjZhMTQ4MzE3N2RmNzQ0ZmNhZGYzZTFlMjIyMjE3MDU1ODZi",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
       "artists": [
         {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
         }
       ],
-      "duration_ms": 161425,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -923,6 +907,22 @@
       "duration_ms": 177057,
       "name": "Be Forreal",
       "url": "https://open.spotify.com/track/3y6cH5sy37Mb7gK6slyIlB"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161425,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+        "name": "bu h\u00fcseyin bayba\u015fin i\u00e7in",
+        "url": "https://open.spotify.com/album/0TZfpMHDVfFDRcdqHt4pQU"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
         }
       ],
-      "duration_ms": 110759,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+      "duration_ms": 200124,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/6xikniI7OrvyxnRV5hBR9Y"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1463,6 +1467,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "bu h\u00fcseyin bayba\u015fin i\u00e7in",
-        "url": "https://open.spotify.com/album/0TZfpMHDVfFDRcdqHt4pQU"
-      },
-      "artists": [
-        {
-          "name": "Svaroda",
-          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
-        },
-        {
-          "name": "Hasan Ceddi",
-          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
-        }
-      ],
-      "duration_ms": 200124,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/6xikniI7OrvyxnRV5hBR9Y"
     },
     {
       "added_at": "2022-08-02 15:42:28",

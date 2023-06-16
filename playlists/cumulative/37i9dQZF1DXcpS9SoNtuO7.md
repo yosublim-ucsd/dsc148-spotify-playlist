@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-369 songs - 1 day 2 hr 52 min
+370 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [明星ロケット](https://open.spotify.com/track/1QIxByZ3pAY26inShTe0le) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [きしだきょうだんのベスト!](https://open.spotify.com/album/0nMiIxVl4G7mZcf0Z83uv1) | 3:52 | 2023-01-28 |  |
 | [春擬き](https://open.spotify.com/track/79xWNLa4NozmuT7fLAGF5F) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [春擬き](https://open.spotify.com/album/0UAKLPXsB3lsfARWHHhcf5) | 4:30 | 2022-06-07 | 2022-06-23 |
 | [春擬き](https://open.spotify.com/track/29CiLtYHYgzNNd3I0hfVPw) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/6YmY9pmnhXG9dOyXTH9kOm) | 4:31 | 2022-09-27 | 2023-01-12 |
-| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2023-05-16 |  |
+| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2023-05-16 | 2023-06-16 |
+| [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 | 2023-05-31 |  |
 | [曖昧さ、幸福論](https://open.spotify.com/track/1edKn3R1mo4Rc6VxsYW2DY) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [曖昧さ、幸福論](https://open.spotify.com/album/3YstONyN5CKjAxoDQbTfeJ) | 4:21 | 2022-09-14 | 2023-01-12 |
 | [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 | 2022-06-07 | 2022-06-23 |
 | [月下儚美](https://open.spotify.com/track/7uD3et1fCPTMLLq4ubEtIv) | [月のテンペスト](https://open.spotify.com/artist/38BEPonA0AsFtTG9FefT9o) | [月下儚美](https://open.spotify.com/album/0mqQVZJDiT71kGWpTxUDKe) | 4:53 | 2022-06-07 | 2022-06-23 |

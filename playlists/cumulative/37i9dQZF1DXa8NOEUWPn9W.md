@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Jazzy.
 
-597 songs - 1 day 12 hr 55 min
+598 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2022-10-28 | 2023-05-06 |
 | [Up All Night](https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Up All Night](https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW) | 2:41 | 2021-09-07 | 2022-07-20 |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-03-11 |
+| [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-09 |  |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-03-17 |  |
 | [Wait A Minute](https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Wait A Minute](https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69) | 3:35 | 2021-10-16 | 2022-12-29 |
 | [Waiting For Love](https://open.spotify.com/track/3P3EhOEy4ddD6C87mcsvwW) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [You Do Your Best To Hide The Good Parts of Yourself](https://open.spotify.com/album/5Kv4Kz9q3KZIMlba4cWXyw) | 5:41 | 2022-12-28 | 2023-01-06 |
@@ -567,7 +568,7 @@
 | [Way I Feel](https://open.spotify.com/track/56zUjcO1ep1a2tS6G1gjla) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Way I Feel](https://open.spotify.com/album/6ouvdn2AWrVovdXIbGaqOi) | 3:57 | 2021-12-17 | 2022-04-20 |
 | [We Can Come Together](https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [We Can Come Together](https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q) | 3:36 | 2021-08-14 | 2022-07-29 |
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-04-17 |  |
-| [We Give Thee Honor](https://open.spotify.com/track/0ZNail0sBLDyANc8rboHhs) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/40wa0Bn4YAM1uPCt0CqVsp) | 3:11 | 2023-02-17 |  |
+| [We Give Thee Honor](https://open.spotify.com/track/0ZNail0sBLDyANc8rboHhs) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/40wa0Bn4YAM1uPCt0CqVsp) | 3:11 | 2023-02-17 | 2023-06-16 |
 | [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-17 | 2023-02-25 |
 | [Weapon of Choice \(feat\. Bootsy Collins\) \- KiNK Remix](https://open.spotify.com/track/44BR4jcL2Sz0gE5htNInkf) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Weapon of Choice \(feat\. Bootsy Collins\) \[KiNK Remixes\]](https://open.spotify.com/album/7inkdWfOlzP95EOS717CVW) | 5:27 | 2021-07-04 | 2022-04-19 |
 | [Weightless \- DJ Seinfeld Remix](https://open.spotify.com/track/6AHpNcQVOpu7TwBRqAHGlN) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Weightless \(DJ Seinfeld Remix\)](https://open.spotify.com/album/0qeTBtzmuhoFgd90OnOU8z) | 3:50 | 2021-03-27\* | 2021-08-28 |

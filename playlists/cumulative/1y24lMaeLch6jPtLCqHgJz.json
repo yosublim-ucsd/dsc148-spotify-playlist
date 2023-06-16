@@ -2931,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "The Pulse Of Machine",
+        "url": "https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "The Pulse Of The Machine",
+      "url": "https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3wh5DSamOl79eetXWmfPfe"
       },

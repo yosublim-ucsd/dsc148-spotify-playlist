@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-266 songs - 15 hr 10 min
+267 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dancing With A Stranger](https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Dancing With A Stranger](https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd) | 3:08 | 2021-07-16 |  |
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2021-07-16 |  |
 | [Daydream](https://open.spotify.com/track/7EDW147fQhxkCl7JOWFzJg) | [Pearla](https://open.spotify.com/artist/79z2QxbhjUYyMqCOfvta7P) | [Daydream](https://open.spotify.com/album/5vDPWvRliJpLJelTHnMh9X) | 3:45 | 2021-07-16 | 2022-07-21 |
-| [Detalles](https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Detalles](https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA) | 3:24 | 2021-07-16 |  |
+| [Detalles](https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Detalles](https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA) | 3:24 | 2021-07-16 | 2023-06-16 |
 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 | 2021-07-16 |  |
 | [Dreams](https://open.spotify.com/track/5OPE4smvsXXWaBl7s9Wf6B) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/39QOmA7GEYES5cdaozh80l) | 4:19 | 2021-07-16 | 2022-07-29 |
 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 | 2021-07-16 |  |
@@ -70,6 +70,7 @@
 | [Eleanor Rigby](https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Eleanor Rigby](https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ) | 2:42 | 2021-07-16 |  |
 | [Enjoy It While It Lasts](https://open.spotify.com/track/46aRt9ol4YgFYVpMzj6M9c) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:00 | 2021-07-16 | 2022-11-13 |
 | [Enjoy the Silence](https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Acoustic Visions](https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm) | 3:48 | 2021-07-16 | 2022-07-29 |
+| [Every Day's A Lesson In Humility](https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Every Day's A Lesson In Humility](https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V) | 3:36 | 2023-06-16 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-07-16 |  |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI) | [Duo Estoril](https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG) | [Duo Estoril](https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU) | 2:44 | 2021-07-16 | 2022-11-13 |
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-25 |  |
@@ -82,7 +83,7 @@
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2021-07-16 |  |
 | [Fever](https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Fever](https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim) | 3:56 | 2021-07-16 | 2023-01-28 |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 | 2023-06-14 |
-| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 |  |
+| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 | 2023-06-16 |
 | [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 | 2022-10-15 |
 | [Flowers](https://open.spotify.com/track/1i888NGaVHKEZX8ooyKMJv) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/769s0o4Q4cWxhN3cJUYnHS) | 2:19 | 2021-07-16 | 2023-04-02 |
 | [Flowers](https://open.spotify.com/track/6bQx6qOENXNZOg404fDD3U) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Flowers](https://open.spotify.com/album/1TuLZxWiU277r6sk4ZZkIz) | 2:19 | 2021-07-16 | 2022-07-29 |
@@ -140,7 +141,7 @@
 | [Lado B](https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:07 | 2021-07-16 |  |
 | [Lado B](https://open.spotify.com/track/4P0VA2V61czMsefYYdYRXS) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Lado B](https://open.spotify.com/album/2gZAnOTL2kdP8gx4amOcdY) | 3:07 | 2021-07-16 | 2022-07-29 |
 | [Las Flores](https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y) | [Lea Aput](https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z) | [Las Flores](https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt) | 2:37 | 2021-07-16 | 2022-07-29 |
-| [Levels](https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Levels](https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1) | 1:50 | 2021-07-16 | 2022-07-29 |
+| [Levels](https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Levels](https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1) | 1:50 | 2021-07-16 |  |
 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 | 2023-06-07 |  |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2021-07-16 |  |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2021-07-16 | 2022-07-27 |

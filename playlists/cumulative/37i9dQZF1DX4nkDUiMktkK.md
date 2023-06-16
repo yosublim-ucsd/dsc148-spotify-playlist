@@ -4,7 +4,7 @@
 
 > Salute's got the juice
 
-55 songs - 3 hr 42 min
+58 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,17 +50,20 @@
 | [Rush](https://open.spotify.com/track/6cn2qPW4Xb7n6CVOMldvDw) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/6dr7L7mHSIjWAbgHYztMzd) | 3:36 | 2023-06-08 |  |
 | [Samba Soccer 2001](https://open.spotify.com/track/7wcacHDJCcVOjGYICN9rea) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [G\-TOWN 004](https://open.spotify.com/album/6ZjDUentC0nfycxUrOrOJi) | 5:31 | 2023-06-08 |  |
 | [Sidewindah \(feat\. Flirta D\) \- Interplanetary Criminal Remix](https://open.spotify.com/track/40jqUyfGoCQaZnUMIGdHSD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Sidewindah \(feat\. Flirta D\) \[Interplanetary Criminal Remix\]](https://open.spotify.com/album/5vCsrgumUZbbYEIqdTmXYu) | 3:36 | 2023-06-08 |  |
+| [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 | 2023-06-15 |  |
 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 | 2023-06-08 |  |
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2023-06-08 |  |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-06-08 |  |
 | [Tranquil](https://open.spotify.com/track/5GzrDqeWcgIAjuTXOg9pI1) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [Heard This Calling](https://open.spotify.com/album/2IALQfr0s4LYREWQxE7aNC) | 5:32 | 2023-06-08 |  |
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-06-08 |  |
+| [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 | 2023-06-15 |  |
 | [U Were Mine](https://open.spotify.com/track/5VVocXeJmA5QEHUyQIBOgp) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [U Were Mine](https://open.spotify.com/album/4PEALWbSxYxZP7gM7tF44E) | 3:35 | 2023-06-08 |  |
 | [Unity \- salute Remix](https://open.spotify.com/track/0uqFA5wm27DmAl8fyeJTt8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Unity \(salute Remix\)](https://open.spotify.com/album/4WRWKCn5j0VcFzCLSxSx1s) | 4:23 | 2023-06-08 |  |
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-06-08 |  |
 | [Used To This \- ATRIP Remix](https://open.spotify.com/track/1kgYlYUXj9ZlyJt331ZmOE) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Used To This \(ATRIP Remix\)](https://open.spotify.com/album/65Gqz7HIqUVCMYTfRfqdAK) | 4:58 | 2023-06-08 |  |
 | [Wait For It](https://open.spotify.com/track/2jglQfaRM7oRHVj5uW18Pt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:59 | 2023-06-08 |  |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2023-06-08 |  |
+| [When I'm With You feat\. Jasper Tygner](https://open.spotify.com/track/5Pw4s0mZgN1gzBrme5kdsB) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 6:22 | 2023-06-15 |  |
 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 | 2023-06-08 |  |
 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2023-06-08 |  |
 

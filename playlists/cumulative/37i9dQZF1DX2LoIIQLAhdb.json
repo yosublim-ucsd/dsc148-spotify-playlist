@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9 x Tiakola",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Dis-moi tout",
+        "url": "https://open.spotify.com/album/6RiKiXDQoeZSXVDpe4HnBb"
+      },
+      "artists": [
+        {
+          "name": "Svudvde",
+          "url": "https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172985,
+      "name": "Dis-moi tout",
+      "url": "https://open.spotify.com/track/61pucFFwYO0Y8iH8kURccf"
+    },
+    {
+      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 182883,
       "name": "Jeu d'acteur",
       "url": "https://open.spotify.com/track/1aMRb7C3N0tsPP5znAVZU5"
@@ -1577,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "M'en Aller",
+        "url": "https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154275,
+      "name": "M'en Aller",
+      "url": "https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV"
+    },
+    {
+      "album": {
         "name": "Ma Lova",
         "url": "https://open.spotify.com/album/69VpibECOEtYba9gZTn36O"
       },
@@ -1826,6 +1862,24 @@
       "duration_ms": 177870,
       "name": "Moto",
       "url": "https://open.spotify.com/track/29XzUe8f0kgyi2a1a6RIZb"
+    },
+    {
+      "album": {
+        "name": "M\u00e8re ya Palais",
+        "url": "https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "M\u00e8re ya Palais",
+      "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
     },
     {
       "album": {
@@ -2444,7 +2498,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 162971,
       "name": "T'avais raison",
       "url": "https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H"
@@ -2716,7 +2770,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 171193,
       "name": "\u00c9coute Moi",
       "url": "https://open.spotify.com/track/39BRscIkSE49Royu0tBlox"

@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 104750,
       "name": "Adventure Of Things",
       "url": "https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn"
@@ -1010,6 +1010,24 @@
       "duration_ms": 63557,
       "name": "Dream Dreams",
       "url": "https://open.spotify.com/track/2oppXf0oJKglJLVoSPdDb3"
+    },
+    {
+      "album": {
+        "name": "Dream Painting",
+        "url": "https://open.spotify.com/album/2cbshBuRnBf1dwLSNUi1CQ"
+      },
+      "artists": [
+        {
+          "name": "Soothing Sandman",
+          "url": "https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74736,
+      "name": "Dream Painting",
+      "url": "https://open.spotify.com/track/1RO1xNn6WufiJJ5JORhagP"
     },
     {
       "album": {

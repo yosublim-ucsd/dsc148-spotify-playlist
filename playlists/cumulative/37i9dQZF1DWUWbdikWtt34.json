@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Fania Putri",
+  "description": "Dendang Dangdut teratas. Cover: Sule",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -538,8 +538,8 @@
       },
       "artists": [
         {
-          "name": "OM PMR",
-          "url": "https://open.spotify.com/artist/4ELIkW0nTmAtK6iwaEh4nc"
+          "name": "OM PMR 1977",
+          "url": "https://open.spotify.com/artist/0A4aLQgaU88gKKC4DziWIl"
         },
         {
           "name": "David Koeswoyo",
@@ -966,6 +966,24 @@
       "duration_ms": 297172,
       "name": "Menepi Cover",
       "url": "https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v"
+    },
+    {
+      "album": {
+        "name": "Midua Cinta 2",
+        "url": "https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn"
+      },
+      "artists": [
+        {
+          "name": "Sule",
+          "url": "https://open.spotify.com/artist/2RidxHO6bjbB1wwZRrXAmI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219292,
+      "name": "Midua Cinta 2",
+      "url": "https://open.spotify.com/track/0KdIzVC1n2MWuPDeKO18Wy"
     },
     {
       "album": {
@@ -1414,6 +1432,24 @@
       "duration_ms": 291693,
       "name": "Selamat Tinggal Kasih - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM"
+    },
+    {
+      "album": {
+        "name": "Semarang Ngawi",
+        "url": "https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264540,
+      "name": "Semarang Ngawi",
+      "url": "https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw"
     },
     {
       "album": {

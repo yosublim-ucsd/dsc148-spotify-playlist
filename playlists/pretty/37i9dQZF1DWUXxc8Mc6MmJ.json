@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 642552,
+  "num_followers": 643024,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDY2ZDI2ZDMwNGM5MTg3YTg4ZTRlOGI2NTEzYWIwNjYxYTIzYzhl",
+  "snapshot_id": "MCw3MWQ1OTA1NGIxYzZiMTk2ZjdiMDBmZmQyNjA5MjM0NWI4NjJiZjE4",
   "tracks": [
     {
       "added_at": "2023-03-13 05:57:41",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 231001,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Crash Landing on You OST Part 11",
         "url": "https://open.spotify.com/album/29KU88wZtAigritdYGvgPk"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 231001,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
-        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
+        "name": "START-UP (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
       },
       "artists": [
         {
-          "name": "KIMMUSEUM",
-          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 238266,
-      "name": "We're Already",
-      "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
+      "duration_ms": 260600,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -623,6 +623,22 @@
       "duration_ms": 251517,
       "name": "Stardust love song",
       "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
+        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "We're Already",
+      "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -655,22 +671,6 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "\ubbf8\ub798",
+      "url": "https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Strong Woman Do Bong Soon, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 243036,
-      "name": "You're My Garden",
-      "url": "https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "Touch your heart OST Part.3",
         "url": "https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5"
       },
@@ -803,34 +803,34 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN"
+        "name": "Strong Woman Do Bong Soon, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 215880,
-      "name": "\ubbf8\ub798",
-      "url": "https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7"
+      "duration_ms": 243036,
+      "name": "You're My Garden",
+      "url": "https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0"
     },
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/76vBXydusWbXsHibhixOoO"
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
       },
       "artists": [
         {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 268386,
-      "name": "In Your Time",
-      "url": "https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR"
+      "duration_ms": 202440,
+      "name": "\uc2dc\uc791",
+      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
     }
   ],
   "unique_name": "Best of Korean Soundtracks",

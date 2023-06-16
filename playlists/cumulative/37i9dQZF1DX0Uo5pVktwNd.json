@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 263133,
       "name": "Deewane To Deewane Hain",
       "url": "https://open.spotify.com/track/5iTmzhI02fWKhVufRgAfvv"
@@ -1018,6 +1018,24 @@
       "duration_ms": 300037,
       "name": "Meri Neend",
       "url": "https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri"
+    },
+    {
+      "album": {
+        "name": "Kya Surat Hai",
+        "url": "https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN"
+      },
+      "artists": [
+        {
+          "name": "Bombay Vikings",
+          "url": "https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300600,
+      "name": "Mona Re",
+      "url": "https://open.spotify.com/track/5QHEv9iTvsZc6sSK2Bq8u0"
     },
     {
       "album": {

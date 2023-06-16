@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,114 likes - 58 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,166 likes - 59 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,6 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 55 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
 | 56 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
 | 57 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
-| 58 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
+| 58 | [Salvia](https://open.spotify.com/track/3oxu3Z9MAKJM9dNTLWue5b) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Salvia](https://open.spotify.com/album/6aDEJH5AFyVcsnsdPf6ATr) | 5:23 |
+| 59 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCw1OWExY2RmMmYwMjRmYjlmNDcwMmJkNjc2MzI0NjU3N2VjNTVjZTc2`
+Snapshot ID: `MCwwYmQ4YWI2YzU1ZmUzNmVjY2I2OTE2NmRmNjA4N2QyNmM0ZThjYjgz`

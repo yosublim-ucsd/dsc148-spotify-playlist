@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,411 likes - 99 songs - 4 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,424 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 9 | [Pula](https://open.spotify.com/track/7MvlJ8CAeoNuTnJgmiGcYV) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2) | [Pula](https://open.spotify.com/album/7BdWpojZ2rYzLZUeMXOJtv) | 4:25 |
 | 10 | [D.U.I](https://open.spotify.com/track/6ijt7thQ8jmKOZGPWG5owC) | [2lee Stark](https://open.spotify.com/artist/6YfEEVzlV2j4KImBCRI0TV), [Trey](https://open.spotify.com/artist/3UrreUQOF55fZDScJTP1wv) | [D.U.I](https://open.spotify.com/album/6JhVf9qZRTlYSISEbN50to) | 3:01 |
 | 11 | [Phone Call](https://open.spotify.com/track/2xi7kH4uyoa8uKgM7xmq72) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Phone Call](https://open.spotify.com/album/4or2Hj0r4pN216niUefFo9) | 2:08 |
-| 12 | [Poussière](https://open.spotify.com/track/0fCfbo5Q3KWAljtdniBCGB) | [Thibault Eskalt](https://open.spotify.com/artist/6vdQsAgQVwNqssbKPh1OpH) | [Poussière](https://open.spotify.com/album/6WR4RVUYY4SipA8qg0f1Qd) | 4:34 |
+| 12 | [Poussière](https://open.spotify.com/track/0fCfbo5Q3KWAljtdniBCGB) | [Thibault Eskalt](https://open.spotify.com/artist/6vdQsAgQVwNqssbKPh1OpH), [Caherine Trottmann](https://open.spotify.com/artist/4TsBe7fCfLxQW6xvXtdsYK) | [Poussière](https://open.spotify.com/album/6WR4RVUYY4SipA8qg0f1Qd) | 4:34 |
 | 13 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 |
 | 14 | [AQUARELLE](https://open.spotify.com/track/1MTAeHswq1LvvtHFYizVOB) | [SVG](https://open.spotify.com/artist/33TeQaDCevvhn1CQpDatmf) | [AQUARELLE](https://open.spotify.com/album/4GgqPDj8gTaw35pmZMx7OJ) | 1:56 |
 | 15 | [Sort du lot](https://open.spotify.com/track/2OO09ferloDOKM0w8y8ooF) | [LĒA ĒLKA](https://open.spotify.com/artist/084vV2OrmLsiI8QeH0DH31) | [XOXO](https://open.spotify.com/album/4c2WzvUFym8zycQ7R2qmAl) | 2:15 |

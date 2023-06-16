@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,090 songs - 5 day 20 hr 57 min
+2,092 songs - 5 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Bananeira](https://open.spotify.com/track/7z3VFSZIVskVQ3UJK6AOTZ) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago](https://open.spotify.com/album/5ePDapcpcssBfsIpU3iJPZ) | 2:52 | 2022-06-09 |  |
 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 | 2023-05-17 |  |
 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 | 2022-06-09 |  |
+| [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 | 2023-06-15 |  |
 | [Barbwire](https://open.spotify.com/track/08AgWZrFlRzUVNkQbY5o0Y) | [Nora Dean](https://open.spotify.com/artist/3NxhFOw203F1FEjmOzK74Z) | [Barbwire](https://open.spotify.com/album/7Au8Fs09ToyanFlD9vHNBe) | 2:19 | 2022-07-27 |  |
 | [Barbwire](https://open.spotify.com/track/3S2KvAXMekVDnSIIbNodTT) | [Nora Dean](https://open.spotify.com/artist/3NxhFOw203F1FEjmOzK74Z) | [Barbwire](https://open.spotify.com/album/5ToY8ivdzIAHrsAAM2xco7) | 2:19 | 2022-06-09 | 2022-07-29 |
 | [Barbwire](https://open.spotify.com/track/721gOZLv37ghhlp36s3lSK) | [Nora Dean](https://open.spotify.com/artist/3NxhFOw203F1FEjmOzK74Z) | [Lee's Gold Vol\. 1](https://open.spotify.com/album/1vq5ihbv2WoBnnrsoshaEo) | 2:19 | 2022-10-31 | 2022-11-14 |
@@ -1641,6 +1642,7 @@
 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 | 2022-10-31 |  |
 | [Rouhi Ya Hafida](https://open.spotify.com/track/6OkP3MSzo9ZSb4h9VrswjF) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:02 | 2022-07-12 | 2022-11-20 |
 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 | 2022-06-09 |  |
+| [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 | 2023-06-15 |  |
 | [Saana](https://open.spotify.com/track/2ULAGskxuv9oRp88TAG3JX) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 5:49 | 2022-06-09 |  |
 | [Sabor a Caña](https://open.spotify.com/track/58L6heu03JnUUGifXtQh2d) | [Los Orientales de Paramonga](https://open.spotify.com/artist/2QDSGJavNjOteGdY6NnbPS) | [Sabor a Caña](https://open.spotify.com/album/1fg1O2zLLYnt9Xr1Wmrn5N) | 2:21 | 2022-06-09 |  |
 | [Sabor de Rumba](https://open.spotify.com/track/7oVdPBfUArWx42x9HPNvbr) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [Sabor de Rumba](https://open.spotify.com/album/7ePsCNGhGshj3b2hKbsxU5) | 2:52 | 2022-06-09 |  |

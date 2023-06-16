@@ -1,13 +1,29 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 14922,
+  "num_followers": 14932,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NTk1NCwyZmMxYmIzMDk3OWRjY2Q0ZjZiOGY1M2QwY2RlOTIwNjg4MzVkOWNk",
+  "snapshot_id": "NTk1NiwyNTg4NzViODAzMmZkOGIyZWE5M2YxY2QxZDJmOGIyYjIxYzc3YmEz",
   "tracks": [
+    {
+      "added_at": "2023-06-15 14:21:16",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
     {
       "added_at": "2023-05-23 17:10:56",
       "album": {

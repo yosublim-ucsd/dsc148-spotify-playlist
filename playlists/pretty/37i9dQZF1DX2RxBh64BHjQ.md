@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,763,805 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,763,697 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Let Ha Go](https://open.spotify.com/track/6KJ4KLIDUwGZygoXyMZbUF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Let Ha Go](https://open.spotify.com/album/6z901JXgp5ImxeUQ23deil) | 2:40 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCwyYWZlNTZkMGM2YjI5NzFjMDI5ZGY2OThmODdiYWJiNzMxZWE1ZGU4`
+Snapshot ID: `MCwyOGFmY2E2MDQxZjE1MTY3OGQ2ODQxODc0NjRhN2ZmNTJkYjEzMjQ0`

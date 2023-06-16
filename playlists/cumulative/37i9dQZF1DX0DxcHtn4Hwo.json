@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 114675,
       "name": "A Little Nap",
       "url": "https://open.spotify.com/track/604Nji4PqTq7mNPx0WaU4S"
@@ -1226,6 +1226,24 @@
       "duration_ms": 143877,
       "name": "Believe in the Moon",
       "url": "https://open.spotify.com/track/2tzG4LsT6mfDgkcQ3QWpQk"
+    },
+    {
+      "album": {
+        "name": "Bella the Blue Whale",
+        "url": "https://open.spotify.com/album/0P78U0tvLiM5wlVl7eAP2I"
+      },
+      "artists": [
+        {
+          "name": "Danielle Rogard",
+          "url": "https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95680,
+      "name": "Bella the Blue Whale",
+      "url": "https://open.spotify.com/track/5K4TmtOxMSmxl3FIPfhnZD"
     },
     {
       "album": {
@@ -4250,7 +4268,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 96236,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh"
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 67072,
       "name": "Kaninvisan",
       "url": "https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx"
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 140004,
       "name": "Le Petit Prince",
       "url": "https://open.spotify.com/track/4cURU7zDTEfQEvoth8abKj"
@@ -7623,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "One Little Elephant",
+        "url": "https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv"
+      },
+      "artists": [
+        {
+          "name": "Mila Westman",
+          "url": "https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82603,
+      "name": "One Little Elephant",
+      "url": "https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE"
+    },
+    {
+      "album": {
         "name": "One Of A Kind",
         "url": "https://open.spotify.com/album/4udIJ4PmznmTYAbljWAbll"
       },
@@ -8621,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "Sea Lions",
+        "url": "https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON"
+      },
+      "artists": [
+        {
+          "name": "Little Mishka",
+          "url": "https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa"
+    },
+    {
+      "album": {
         "name": "See See My Playmate",
         "url": "https://open.spotify.com/album/4hPY5HoT79O4rofZSgCiLJ"
       },
@@ -9190,7 +9244,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 141637,
       "name": "Sleepy Teddy",
       "url": "https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3"
@@ -9590,6 +9644,24 @@
       "duration_ms": 92703,
       "name": "Song for Teddy",
       "url": "https://open.spotify.com/track/0z4GaZaZcXdm6bFhAcSLrh"
+    },
+    {
+      "album": {
+        "name": "Sleep My Little Baby",
+        "url": "https://open.spotify.com/album/26N14Eo9l80J9L0SJKrVCX"
+      },
+      "artists": [
+        {
+          "name": "Mio Santos",
+          "url": "https://open.spotify.com/artist/0KqbhLJxdv6cMJjAKzmZUs"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65406,
+      "name": "Soon You'll Be Sleeping",
+      "url": "https://open.spotify.com/track/0i4sCtWsaH7j58bF7TzqXI"
     },
     {
       "album": {

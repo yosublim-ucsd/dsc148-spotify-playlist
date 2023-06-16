@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,594 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,603 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 63 | [SKIP](https://open.spotify.com/track/4OWJIjuq5xtDlbCvg2bH3u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Han Sang Won](https://open.spotify.com/artist/1FvLMWYal74XUTRzfaUAc9) | [SKIP](https://open.spotify.com/album/7JuGow8RykbNm3WxWNeeRi) | 3:38 |
 | 64 | [Blue \(Feat\. Crush, SOLE\)](https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 4:23 |
 | 65 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode\. 10 \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf) | 5:13 |
-| 66 | [Where We Go?](https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [태완](https://open.spotify.com/artist/6OK3Lf8Ws6A4UdRw3lMNZo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [어디 갈래](https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY) | 3:32 |
+| 66 | [Where We Go?](https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [TAEWAN](https://open.spotify.com/artist/3K4TluVj1rCYjiRFuzOfR7), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Where We Go?](https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY) | 3:32 |
 | 67 | [Sleepless Night \(feat\. Punch\)](https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [It's alright This is love \(Original Television Soundtrack\) Vol\. 1](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:57 |
 | 68 | [Still \(feat\. Crush\)](https://open.spotify.com/track/6YqCGn0NH9OpMFUFiFWHdc) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [던디리던](https://open.spotify.com/album/4SNTdJEmWAbPVmqSApkOAd) | 3:13 |
 | 69 | [Tiki\-Taka \(feat\. DPR LIVE\)](https://open.spotify.com/track/2j4yzg8wYCZjM17oyhX5rl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 3:16 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 101 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 102 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
 
-Snapshot ID: `MCw3NDI0Y2NlYjEzNzVjNjY2YmExMmM3YjZmNzU0ODU3ODE3ZmZiOWRm`
+Snapshot ID: `MCw1NzJlYjdiNGZjZDllZDYyMTUzODcwMjE5ZTFiZTI0ZTY0MjgzODIz`

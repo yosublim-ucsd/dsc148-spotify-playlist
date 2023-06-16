@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141518,
+  "num_followers": 141513,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODQ2YzcxNWUzN2M3YmM4NWE5YTZhZGQ2MGVjN2ExZDYzNTZjYTUy",
+  "snapshot_id": "MCwyYzk2MTMwMzAxZTljN2E5MzU2NmQxM2Y0OGNmNjIzMWQxOTU1YTQ4",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Mr. New Orleans",
-        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
-      },
-      "artists": [
-        {
-          "name": "Pete Fountain",
-          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Walking Through New Orleans",
-      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New New Orleans Jazz",
         "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 294760,
       "name": "Hot Lips",
       "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Mr. New Orleans",
+        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain",
+          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Walking Through New Orleans",
+      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Ultimate Mardi Gras",
-        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
-      },
-      "artists": [
-        {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Mardi Gras In New Orleans",
-      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182600,
       "name": "Hotter Than That",
       "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Swinging Mainstream Sides",
+        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+      },
+      "artists": [
+        {
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+        }
+      ],
+      "duration_ms": 192937,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 151453,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Swinging Mainstream Sides",
-        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
-      },
-      "artists": [
-        {
-          "name": "Wingy Manone",
-          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -811,30 +811,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
-      },
-      "artists": [
-        {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New Orleans Footwarmers",
         "url": "https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 258160,
       "name": "Down by the Old Mill Stream",
       "url": "https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
+        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+      },
+      "artists": [
+        {
+          "name": "Kid Thomas",
+          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
+        },
+        {
+          "name": "Thomas Jefferson",
+          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+        }
+      ],
+      "duration_ms": 267093,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
     },
     {
       "added_at": "2021-04-26 16:53:52",

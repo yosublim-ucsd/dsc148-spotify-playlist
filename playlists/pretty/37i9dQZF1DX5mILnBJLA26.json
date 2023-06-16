@@ -1,40 +1,44 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc?si=5rnfu-y5T56pdvnbhmVpDA\">Khanyisa</a>.",
-  "num_followers": 510736,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn?si=JBRc2lBETXi4chGKtNInfg\">Daliwonga</a> & <a href=\"https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=HUIrt3l9S0uQqf95tbzMSQ\">Myztro</a>",
+  "num_followers": 511628,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWIyMjQ0MzMyNzYyNTM5ZTYzYTQwMTliOGVjNWIyOTk1NTQyMzA5",
+  "snapshot_id": "MCw1ZmY1MzY5ZDVlYTFkN2E1MzViNmUzYThhNGQwY2M1NTYwMWUyZjBi",
   "tracks": [
     {
-      "added_at": "2023-06-08 22:39:47",
+      "added_at": "2023-06-15 21:59:00",
       "album": {
-        "name": "SUKA",
-        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+        "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
+        "url": "https://open.spotify.com/album/0AozNkkvkSSJUREAAJAv6I"
       },
       "artists": [
         {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
         },
         {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Nandipha808",
-          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
         },
         {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
         }
       ],
-      "duration_ms": 390033,
-      "name": "SUKA",
-      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+      "duration_ms": 317176,
+      "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
+      "url": "https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l"
     },
     {
       "added_at": "2023-06-08 22:39:47",
@@ -101,6 +105,222 @@
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Khekheleza (Dlala Dlala)",
+        "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        },
+        {
+          "name": "Eeque",
+          "url": "https://open.spotify.com/artist/6ZVortY9zvmTcSUMyLl256"
+        }
+      ],
+      "duration_ms": 329179,
+      "name": "Khekheleza (Dlala Dlala)",
+      "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "SUKA",
+        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "duration_ms": 390033,
+      "name": "SUKA",
+      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "Hamba Juba",
+        "url": "https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz"
+      },
+      "artists": [
+        {
+          "name": "Lady Amar",
+          "url": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
+        },
+        {
+          "name": "JL SA",
+          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
+        },
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "duration_ms": 480016,
+      "name": "Hamba Juba",
+      "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "The Konka Mixtape : Sweet & Dust",
+        "url": "https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Xolani Guitars",
+          "url": "https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I"
+        }
+      ],
+      "duration_ms": 492831,
+      "name": "Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitars)",
+      "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
+    },
+    {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Bafunani",
+        "url": "https://open.spotify.com/album/5SlsgJ1YI0ykiOQGNyub1F"
+      },
+      "artists": [
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Lee Mckrazy",
+          "url": "https://open.spotify.com/artist/6D9C51MFyGSH997EUggino"
+        }
+      ],
+      "duration_ms": 394436,
+      "name": "Bafunani",
+      "url": "https://open.spotify.com/track/05f7EYSY5ZtPk1jAgIf9gC"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
+        "url": "https://open.spotify.com/album/4LGrH0Qqw2BIcTxlVWpebh"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "duration_ms": 336428,
+      "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
+      "url": "https://open.spotify.com/track/26rx4ek7zk05Q9wEUbN1NF"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "iMpumelelo",
+        "url": "https://open.spotify.com/album/600f0AtpknH8u1xPwPs7JE"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        }
+      ],
+      "duration_ms": 378264,
+      "name": "iMpumelelo",
+      "url": "https://open.spotify.com/track/5SjrCoaMIUauMrOZG2CUnq"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "Sgudi Snyc",
+        "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
+      },
+      "artists": [
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 331377,
+      "name": "Sgudi Snyc",
+      "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
+    },
+    {
       "added_at": "2023-06-08 22:39:47",
       "album": {
         "name": "Jig Saw",
@@ -115,6 +335,42 @@
       "duration_ms": 397223,
       "name": "Jig Saw",
       "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
+    },
+    {
+      "added_at": "2023-06-08 22:39:47",
+      "album": {
+        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
+        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "duration_ms": 296975,
+      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
+      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
       "added_at": "2023-06-08 22:39:47",
@@ -171,34 +427,6 @@
     {
       "added_at": "2023-06-08 22:39:47",
       "album": {
-        "name": "Hamba Juba",
-        "url": "https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz"
-      },
-      "artists": [
-        {
-          "name": "Lady Amar",
-          "url": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
-        },
-        {
-          "name": "JL SA",
-          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
-        },
-        {
-          "name": "Cici",
-          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
-        },
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        }
-      ],
-      "duration_ms": 480016,
-      "name": "Hamba Juba",
-      "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/3fh7tkzhRqBPn2i27WpEJ0"
       },
@@ -219,70 +447,6 @@
     {
       "added_at": "2023-06-08 22:39:47",
       "album": {
-        "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
-        "url": "https://open.spotify.com/album/4LGrH0Qqw2BIcTxlVWpebh"
-      },
-      "artists": [
-        {
-          "name": "Myztro",
-          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
-        },
-        {
-          "name": "Xduppy",
-          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
-        },
-        {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "Ftears",
-          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
-        }
-      ],
-      "duration_ms": 336428,
-      "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
-      "url": "https://open.spotify.com/track/26rx4ek7zk05Q9wEUbN1NF"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "The Konka Mixtape : Sweet & Dust",
-        "url": "https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "Xolani Guitars",
-          "url": "https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I"
-        }
-      ],
-      "duration_ms": 492831,
-      "name": "Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitars)",
-      "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
         "name": "Juluke",
         "url": "https://open.spotify.com/album/2iiqobamcMVPEkfCOnxnss"
       },
@@ -299,66 +463,6 @@
       "duration_ms": 317159,
       "name": "Juluke",
       "url": "https://open.spotify.com/track/1UKfMxbMRW7d71eoJqYLyT"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "iMpumelelo",
-        "url": "https://open.spotify.com/album/600f0AtpknH8u1xPwPs7JE"
-      },
-      "artists": [
-        {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        },
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        }
-      ],
-      "duration_ms": 378264,
-      "name": "iMpumelelo",
-      "url": "https://open.spotify.com/track/5SjrCoaMIUauMrOZG2CUnq"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
-        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Justin99",
-          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Chley",
-          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
-        }
-      ],
-      "duration_ms": 296975,
-      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
-      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
       "added_at": "2023-06-08 22:39:47",
@@ -547,30 +651,6 @@
       "duration_ms": 200357,
       "name": "NGIMOJA - Remix",
       "url": "https://open.spotify.com/track/2CqibGyin5rIuR34pgkDdv"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "Sgudi Snyc",
-        "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
-      },
-      "artists": [
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        },
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        }
-      ],
-      "duration_ms": 331377,
-      "name": "Sgudi Snyc",
-      "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
     },
     {
       "added_at": "2023-06-08 22:39:47",
@@ -929,6 +1009,34 @@
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
     },
     {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Abadala",
+        "url": "https://open.spotify.com/album/5GZ5zBQPWEHr2OAz4Rna70"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Laud",
+          "url": "https://open.spotify.com/artist/2Kmrs58xLpvPZsLf4V3d7d"
+        },
+        {
+          "name": "Luu Nineleven",
+          "url": "https://open.spotify.com/artist/3KeANQfpzWH0OS18JMIU28"
+        },
+        {
+          "name": "Faith Strings",
+          "url": "https://open.spotify.com/artist/39ejxavrkdkHXj6yCGJugx"
+        }
+      ],
+      "duration_ms": 361061,
+      "name": "Abadala",
+      "url": "https://open.spotify.com/track/5mo4SKeOSaKWUSWs9kl8Kq"
+    },
+    {
       "added_at": "2023-06-08 22:39:47",
       "album": {
         "name": "Nobody Can Stop Mguzu, Vol. 1",
@@ -1003,6 +1111,30 @@
       "duration_ms": 368620,
       "name": "Wena Dali",
       "url": "https://open.spotify.com/track/4hDjmMljGvNZuYUXw1HWw3"
+    },
+    {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Bibbo",
+        "url": "https://open.spotify.com/album/3WRt89bZXiR8CvDv5na5Sp"
+      },
+      "artists": [
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        }
+      ],
+      "duration_ms": 403278,
+      "name": "Bibbo",
+      "url": "https://open.spotify.com/track/1Amtl9C0kNrxZOrV7qLGRX"
     },
     {
       "added_at": "2023-06-08 22:39:47",
@@ -1127,102 +1259,6 @@
     {
       "added_at": "2023-06-08 22:39:47",
       "album": {
-        "name": "Amukelani",
-        "url": "https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
-        },
-        {
-          "name": "Sfarzo Rtee",
-          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
-        }
-      ],
-      "duration_ms": 413584,
-      "name": "Sukakude",
-      "url": "https://open.spotify.com/track/4FEi7i9oDxDzcYbx53IHwq"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "The Konka Mixtape : Sweet & Dust",
-        "url": "https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "JaySax",
-          "url": "https://open.spotify.com/artist/7Jn5gP4pLHNEgfeGBjOLpL"
-        }
-      ],
-      "duration_ms": 616200,
-      "name": "Ufunani (feat. Aymos, Kelvin Momo & Jay Sax)",
-      "url": "https://open.spotify.com/track/0mMNOX9Tj0xVI9wCDdDI86"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "NINI na NINI",
-        "url": "https://open.spotify.com/album/0R4G8NI4IjNRcqqrCBRUCr"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "Howard Gomba",
-          "url": "https://open.spotify.com/artist/6BxBeI7yJjq876ErPGPatm"
-        }
-      ],
-      "duration_ms": 402896,
-      "name": "Nini Nannini (feat. Daliwonga & Howard Gomba)",
-      "url": "https://open.spotify.com/track/3MqIKE7r4Pjag6xaEgOHlD"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "Ladies Night",
-        "url": "https://open.spotify.com/album/02PwxvPW8DipbqGf45up1L"
-      },
-      "artists": [
-        {
-          "name": "Meneer Cee",
-          "url": "https://open.spotify.com/artist/3xAQoJwSMZGIrqKWSunu7k"
-        },
-        {
-          "name": "Jay Music",
-          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
-        }
-      ],
-      "duration_ms": 382317,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/52AmqhWrjNJPNegIRa2e83"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
         "name": "Auti 'eSharp",
         "url": "https://open.spotify.com/album/6J12Gv5rBMymYJlCM4hXPu"
       },
@@ -1243,26 +1279,6 @@
       "duration_ms": 420039,
       "name": "Sengizwile (feat. Aymos & Young Stunna)",
       "url": "https://open.spotify.com/track/3PdO57q0KLWkfWXsXQJlV6"
-    },
-    {
-      "added_at": "2023-06-08 22:39:47",
-      "album": {
-        "name": "Waga Bietjie",
-        "url": "https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48"
-      },
-      "artists": [
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Waga Bietjie",
-      "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"
     },
     {
       "added_at": "2023-06-08 22:39:47",

@@ -1756,6 +1756,24 @@
     {
       "album": {
         "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
       },
       "artists": [
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 269520,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/4UPLlFF10U3St7PaaQGPgi"

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Jayda G",
+  "description": "New music off the beaten track. Cover: Peggy Gou",
   "name": "OFF POP",
   "tracks": [
+    {
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
     {
       "album": {
         "name": "At Night EP",
@@ -918,7 +936,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
@@ -2239,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Fknow It",
+        "url": "https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256553,
+      "name": "Fknow It",
+      "url": "https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6"
+    },
+    {
+      "album": {
         "name": "Time's Arrow",
         "url": "https://open.spotify.com/album/0mOMgzeAy3gyb7P2J8gIzY"
       },
@@ -2556,6 +2592,24 @@
       "duration_ms": 229950,
       "name": "GOOD TIMES - MJ Cole Remix",
       "url": "https://open.spotify.com/track/11VeLYoWaYKAyrmtuBOSyG"
+    },
+    {
+      "album": {
+        "name": "Guitar for Robots",
+        "url": "https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt"
+      },
+      "artists": [
+        {
+          "name": "Cool Aid",
+          "url": "https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Guitar for Robots",
+      "url": "https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN"
     },
     {
       "album": {
@@ -2898,7 +2952,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 279500,
       "name": "Hungrige Liebe",
       "url": "https://open.spotify.com/track/4OECWmZqq2NLjRbyYGL90B"
@@ -3076,7 +3130,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 199626,
       "name": "In Electric Blue",
       "url": "https://open.spotify.com/track/59nfNz6nsEt1ZizfZCouyG"
@@ -3731,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224270,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
+    },
+    {
+      "album": {
         "name": "Love Invention",
         "url": "https://open.spotify.com/album/27EBdWkxelrRDYitkJgH4W"
       },
@@ -3914,6 +3986,24 @@
       "duration_ms": 237218,
       "name": "Loverboy - Edit",
       "url": "https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY"
+    },
+    {
+      "album": {
+        "name": "Lovin You",
+        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163930,
+      "name": "Lovin You",
+      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
     },
     {
       "album": {
@@ -4520,7 +4610,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 219462,
       "name": "No Time (feat. Jack Pe\u00f1ate)",
       "url": "https://open.spotify.com/track/6Bgsu7Wc90sme8EfplwtxU"
@@ -5201,6 +5291,28 @@
     },
     {
       "album": {
+        "name": "Run (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "Run (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T"
       },
@@ -5553,6 +5665,24 @@
     },
     {
       "album": {
+        "name": "Off Planet",
+        "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307406,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/7yygpnlQyzmy0zXiMTpoZv"
+    },
+    {
+      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -5662,7 +5792,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 181896,
       "name": "Sports",
       "url": "https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM"
@@ -6016,7 +6146,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 209700,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7a4tPUZr5Fm3eQ1KkT2nGA"
@@ -6220,7 +6350,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 199148,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/4mcLFlulgmpR6hA4y2QCFT"
@@ -6594,6 +6724,24 @@
       "duration_ms": 296750,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4fPbI1iRkmQcJaghebMG2u"
+    },
+    {
+      "album": {
+        "name": "We Are Here To Make You Feel",
+        "url": "https://open.spotify.com/album/2jo9qboIa7TAY7FhzJPjQ5"
+      },
+      "artists": [
+        {
+          "name": "SPARKLING",
+          "url": "https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "We Are Here To Make You Feel",
+      "url": "https://open.spotify.com/track/54ukAhPXSD2zoEaqE51W3W"
     },
     {
       "album": {

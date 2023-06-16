@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "I Don't Miss You (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/02LcRH1RVTbglXr4xPG1Uh"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "I Don't Miss You - piano version",
+      "url": "https://open.spotify.com/track/3DtOClanetaTzOLMUXAxwe"
+    },
+    {
+      "album": {
         "name": "I DON'T WANNA BE LIKE YOU",
         "url": "https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT"
       },

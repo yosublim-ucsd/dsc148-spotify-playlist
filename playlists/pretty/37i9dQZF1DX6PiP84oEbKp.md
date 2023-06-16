@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 47 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 48 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MCwwMzQ4N2U0YThhOWE2MTY3OTJmYmRhYWQ5ZjVjYjRlOTMyZWIwN2E4`
+Snapshot ID: `MCxlY2ZlNThjNTViYmI4NTA4NThkODgwOTMzNTdjNWE3ZGQ1ODc1Njg5`

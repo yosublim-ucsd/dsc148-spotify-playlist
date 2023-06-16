@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-136 songs - 9 hr 20 min
+138 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [DOA](https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:26 | 2022-06-21 |  |
 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 | 2022-06-07 | 2022-07-29 |
 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 | 2022-06-07 |  |
-| [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 | 2022-06-07 |  |
+| [Ego](https://open.spotify.com/track/76ucx0i5WBu3fTPIrG1jh3) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 3:14 | 2023-05-12 |  |
+| [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 | 2022-06-07 | 2023-06-16 |
 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 | 2022-06-07 |  |
 | [God of ink](https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:11 | 2022-06-07 |  |
 | [gravityWall](https://open.spotify.com/track/6WBoHxSRyvMyGIzslzJJ8m) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [gravityWall/sh0ut](https://open.spotify.com/album/2K0cY9YMrCDWoNHMpNZMsF) | 3:46 | 2022-09-29 | 2022-11-13 |
@@ -123,7 +124,8 @@
 | [Unicorn](https://open.spotify.com/track/7q1pK4BgyC0H2Y8t9rh6Qh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7ylxV9GzV7U6lhQLKnHGWU) | 4:46 | 2022-06-21 |  |
 | [VANE](https://open.spotify.com/track/1o3cQIcJVmhtlTecl2bekc) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE](https://open.spotify.com/album/02deSQPU1TA1cmASLBUgWu) | 3:29 | 2022-11-15 |  |
 | [VANE \- English Ver.](https://open.spotify.com/track/2b2ac5Ng0bMnFGpIQ6Xn0k) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE \(English Ver.\)](https://open.spotify.com/album/25DRBaekz7SLPO27kHiLUC) | 3:29 | 2022-11-15 | 2023-05-12 |
-| [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 | 2022-06-07 |  |
+| [Vigilante](https://open.spotify.com/track/56gXhLZNBqY3tlHjrYMFRG) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [MOBILE SUIT GUNDAM NT \(Narrative\) Original Motion Picture Soundtrack](https://open.spotify.com/album/0qbCFg0xqkC0TUadjNaTfu) | 3:44 | 2023-05-12 |  |
+| [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 | 2022-06-07 | 2023-06-16 |
 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 | 2022-06-07 |  |
 | [X.U.](https://open.spotify.com/track/15tzlxIHJKn0axkuhhCvUX) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:43 | 2022-06-21 |  |
 | [X.U.](https://open.spotify.com/track/6bAiYbJ37zaQ6dTTcW49EA) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [X.U\. \| scaPEGoat](https://open.spotify.com/album/21TgGuLWBGqtggQtWpiEdB) | 4:45 | 2022-06-07 | 2022-07-29 |

@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 147428,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP"
@@ -836,6 +836,32 @@
       "duration_ms": 223402,
       "name": "Dali, Van, Picasso",
       "url": "https://open.spotify.com/track/5tUvlErZdS2SDhDVDpRnAn"
+    },
+    {
+      "album": {
+        "name": "Dance With Me (feat. Keemhyoeun, CHOILB)",
+        "url": "https://open.spotify.com/album/6Y9vQJ8Qem5DBYtIG16AL1"
+      },
+      "artists": [
+        {
+          "name": "RAUDI",
+          "url": "https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "\ucd5c\uc5d8\ube44",
+          "url": "https://open.spotify.com/artist/2TCoeejbpkG3N2NjR7Gdot"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178197,
+      "name": "Dance With Me (feat. Keemhyoeun, CHOILB)",
+      "url": "https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q"
     },
     {
       "album": {

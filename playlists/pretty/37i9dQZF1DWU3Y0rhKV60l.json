@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 6256,
+  "num_followers": 6270,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTE0YTY3MzE4N2IwODJmYjFlMWQ2MTE0ODAwYWYxNTcyY2EwODQw",
+  "snapshot_id": "MCxiZjdiNmU4NGE1ZmI1Mjg4OGQzZjczN2Q5ZTM2ZDA3MzVjMDc3MDM2",
   "tracks": [
     {
       "added_at": "2023-02-15 09:06:08",
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
         }
       ],
-      "duration_ms": 130061,
-      "name": "Stormy Beach Waves",
-      "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
+      "duration_ms": 137795,
+      "name": "Stormy Ocean Sounds",
+      "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
         }
       ],
-      "duration_ms": 137795,
-      "name": "Stormy Ocean Sounds",
-      "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
+      "duration_ms": 130061,
+      "name": "Stormy Beach Waves",
+      "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Slow Waves",
-        "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
-      },
-      "artists": [
-        {
-          "name": "Sleep Factory",
-          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
-        }
-      ],
-      "duration_ms": 107793,
-      "name": "Slow Waves",
-      "url": "https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Summer Ocean Waves",
         "url": "https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 135445,
       "name": "Hear the Distant Waves",
       "url": "https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Slow Waves",
+        "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
+      },
+      "artists": [
+        {
+          "name": "Sleep Factory",
+          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
+        }
+      ],
+      "duration_ms": 107793,
+      "name": "Slow Waves",
+      "url": "https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Nature Sleep",
-        "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
-      },
-      "artists": [
-        {
-          "name": "Tailormade Ocean Waves",
-          "url": "https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly"
-        }
-      ],
-      "duration_ms": 122380,
-      "name": "Naples Beach",
-      "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Oceanic Samples",
         "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 181067,
       "name": "Soft Waves",
       "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
+      },
+      "artists": [
+        {
+          "name": "Tailormade Ocean Waves",
+          "url": "https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly"
+        }
+      ],
+      "duration_ms": 122380,
+      "name": "Naples Beach",
+      "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "The Mighty Ocean",
-        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
-      },
-      "artists": [
-        {
-          "name": "Sea Kelp",
-          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
-        }
-      ],
-      "duration_ms": 213624,
-      "name": "The Mighty Ocean - Seamless",
-      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Waves Beneath The Lighthouse",
         "url": "https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 222918,
       "name": "Relaxing Waves",
       "url": "https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
+      },
+      "artists": [
+        {
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
+        }
+      ],
+      "duration_ms": 213624,
+      "name": "The Mighty Ocean - Seamless",
+      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
+        "name": "Crashing Ocean Waves",
+        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+      },
+      "artists": [
+        {
+          "name": "EarthMovies",
+          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Watching Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
         "name": "The Vast Sea",
         "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Ocean Waves for Sleep Volume 3",
-        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
-      },
-      "artists": [
-        {
-          "name": "Coast to Coast Recordings",
-          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Wandering Waves",
-      "url": "https://open.spotify.com/track/5XzujG7g5cV0gEN3mtu1gs"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Waves For Sleeping",
         "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Crashing Ocean Waves",
-        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+        "name": "Ocean Waves for Sleep Volume 3",
+        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
       },
       "artists": [
         {
-          "name": "EarthMovies",
-          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+          "name": "Coast to Coast Recordings",
+          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Watching Heavy Ocean Waves",
-      "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
+      "duration_ms": 176850,
+      "name": "Wandering Waves",
+      "url": "https://open.spotify.com/track/5XzujG7g5cV0gEN3mtu1gs"
     },
     {
       "added_at": "2023-02-15 09:06:08",

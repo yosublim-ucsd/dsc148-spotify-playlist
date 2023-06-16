@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+    },
+    {
+      "album": {
         "name": "Life and Worship Chapter 1",
         "url": "https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X"
       },
@@ -540,7 +562,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 430320,
       "name": "Love in My Heart",
       "url": "https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH"
@@ -562,7 +584,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 336065,
       "name": "Master of the World",
       "url": "https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF"
@@ -580,7 +602,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
@@ -830,7 +852,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 187317,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD"
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 581147,
       "name": "Wonders - Live",
       "url": "https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue"

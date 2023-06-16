@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-123 songs - 7 hr 14 min
+125 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,9 @@
 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2022-09-05 |  |
 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 | 2022-05-25 |  |
 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 | 2022-10-17 |  |
+| [Perdón, Perdón, Perdón](https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Perdón, Perdón, Perdón](https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi) | 3:02 | 2023-06-16 |  |
 | [Perfecto \- Remix](https://open.spotify.com/track/680BOO124VxGj9DXEtCttL) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Morfin BG](https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Papi Masta](https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Doobie Free](https://open.spotify.com/artist/0X4qLtC1UiO2g8bBI1Ghcz), [La Crista](https://open.spotify.com/artist/3yDz5xFKNHH0dE309ZN07K), [Lil Kendo](https://open.spotify.com/artist/5imDl6ezPgIApRD09jhF1t), [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD), [Jacky Jacky](https://open.spotify.com/artist/3p1CbP1zehtOdImOl1c7be) | [Perfecto \(Remix\)](https://open.spotify.com/album/02OU9qgJcCQYeMsoq6FOta) | 6:52 | 2023-01-13 |  |
+| [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 | 2023-06-16 |  |
 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 | 2023-03-24 |  |
 | [Por Ti](https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Necesitaba Estar Hecho](https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr) | 3:06 | 2022-05-25 |  |
 | [Q Bonito Es Lo Bonito](https://open.spotify.com/track/6uDeWA5PC4HFjPqRZumPRi) | [Sadráck](https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Q Bonito Es Lo Bonito](https://open.spotify.com/album/5q80IiZfP0H6xLirNXfDxt) | 4:07 | 2023-02-17 |  |

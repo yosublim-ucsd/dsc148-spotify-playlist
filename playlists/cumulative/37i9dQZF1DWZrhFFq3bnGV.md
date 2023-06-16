@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jordy Waelauruw
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
 
-139 songs - 9 hr 50 min
+141 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-09 |  |
+| [Asawari](https://open.spotify.com/track/6HWga9JFQbfbUA14FbIQ1l) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Georgie Tanasale](https://open.spotify.com/artist/5CbrdBbi4FsEjx5oPwaHcd) | [Asawari](https://open.spotify.com/album/2mLxqTFkSPS6XF4HhdadcC) | 2:56 | 2023-06-15 |  |
 | [ATARAXIA](https://open.spotify.com/track/0DP0HQi7iQza3HlVaWcgCV) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [ATARAXIA](https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN) | 4:43 | 2022-11-24 |  |
 | [Autumn](https://open.spotify.com/track/0iua6kaiZlwKQsQ0CQaLkg) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 3:17 | 2022-09-02 |  |
 | [Bankai](https://open.spotify.com/track/2zccWGvXDgSNfM2h0VnR5m) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Stanley Khoewell](https://open.spotify.com/artist/6Bxl9QDG5TEz5Wgfr3gtgu) | [Bankai](https://open.spotify.com/album/7IgD8vlQ7x2WZkPBsfooIH) | 4:22 | 2023-06-08 |  |
@@ -36,6 +37,7 @@
 | [Christy](https://open.spotify.com/track/0M3l9QtKkL4QJpJUmXxEGc) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 3:27 | 2022-09-02 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 | 2022-09-02 |  |
 | [Cocoa Butter](https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW), [Greybox](https://open.spotify.com/artist/7dQtKW1F0fbXa3q5cPXF3f) | [Cocoa Butter](https://open.spotify.com/album/06BgAdvlGyBptrJeigmZMS) | 3:31 | 2023-03-03 |  |
+| [Cruisin n' groovin](https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo) | [Devian Zikri](https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM) | [Now & Forever](https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ) | 4:36 | 2023-06-15 |  |
 | [Cukup](https://open.spotify.com/track/01iNsEL4mvh7L6Dn2NbUrs) | [Naufalbahir](https://open.spotify.com/artist/0AWgaUdmTXrTcBiMjsqVDH) | [Kindergarten](https://open.spotify.com/album/6TE6PVaMcvIWFPM97wQxIS) | 2:03 | 2023-03-03 |  |
 | [Daffy](https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i) | [Chaseiro](https://open.spotify.com/artist/3cWhTURNoVUEdmNFzmfgms) | [Chaseiro Vol\. 3](https://open.spotify.com/album/5iPgWA8tAYp9VnF46FLGsd) | 4:14 | 2023-03-03 |  |
 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 | 2022-09-02 |  |

@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-317 songs - 18 hr 9 min
+318 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
 | [Rainy Forest](https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj) | 2:00 | 2021-10-16 | 2022-11-13 |
+| [Redder Than The Moon](https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV) | 4:27 | 2021-10-16 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-16 | 2023-06-02 |
 | [Redder Than The Moon](https://open.spotify.com/track/3nWeRDTscrrz33s4Ruu7uM) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/5kzIE3Vhr8FZjaQHIBjEng) | 4:27 | 2021-10-16 | 2022-07-29 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-16 | 2022-07-27 |
@@ -263,7 +264,7 @@
 | [Spring Siesta](https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Spring Siesta](https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze) | 4:01 | 2023-04-12 |  |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-16 | 2022-07-27 |
 | [Study of a Bull](https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [Study of a Bull](https://open.spotify.com/album/24Us6fvwBE6xFuGi7u7twU) | 4:22 | 2022-09-30 | 2022-11-01 |
-| [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 | 2023-01-06 |  |
+| [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 | 2023-01-06 | 2023-06-16 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-16 |  |
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2023-02-08 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 |  |

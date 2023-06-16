@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-162 songs - 9 hr 20 min
+163 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 | 2022-07-22 |  |
 | [apple pie](https://open.spotify.com/track/1UVUQ1HwswnUm5SBbUbLm9) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:17 | 2022-05-11 | 2022-07-29 |
 | [Au Revoir](https://open.spotify.com/track/76MukeJLzM1kLeXbPXDlec) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Chief Life](https://open.spotify.com/album/6Ifmnvg316yXTFSyvIuT2o) | 3:47 | 2022-05-11 | 2022-07-23 |
-| [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 | 2022-05-11 |  |
+| [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 | 2022-05-11 | 2023-06-16 |
 | [BASS](https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4) | 3:20 | 2022-07-22 |  |
 | [BASS](https://open.spotify.com/track/25UCHfNEklg7Eqng7ErjFp) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/4EC5TckDL3ChNIToRx3F52) | 3:20 | 2022-05-11 | 2022-07-29 |
 | [been](https://open.spotify.com/track/07sIlvEYyot9HZ4BoDqg6Z) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:13 | 2022-05-11 | 2022-07-29 |
@@ -49,6 +49,7 @@
 | [Daily routine](https://open.spotify.com/track/65ASKiyGCIE4aJklOVrBXi) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [changes](https://open.spotify.com/album/1a07XrJO3GAyW8TQFzp8PW) | 2:54 | 2022-06-03 | 2022-07-16 |
 | [Dali, Van, Picasso](https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:43 | 2022-07-22 |  |
 | [Dali, Van, Picasso](https://open.spotify.com/track/5tUvlErZdS2SDhDVDpRnAn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/0q4gS2Vkxf4lHw8PVrxSiW) | 3:43 | 2022-06-03 | 2022-07-24 |
+| [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q) | [RAUDI](https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [최엘비](https://open.spotify.com/artist/2TCoeejbpkG3N2NjR7Gdot) | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/album/6Y9vQJ8Qem5DBYtIG16AL1) | 2:58 | 2023-06-13 |  |
 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 | 2022-05-11 |  |
 | [Ddanddara](https://open.spotify.com/track/52DuC06qxMPfRjYJsDApEE) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5), [VNDK](https://open.spotify.com/artist/15pDttBjet9II5oMdQZJpg) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 3:06 | 2022-05-11 | 2022-07-26 |
 | [Direct Message](https://open.spotify.com/track/1Utz8qNxA90sViCn9JwWOr) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Maze Garden](https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk) | 3:33 | 2022-05-11 | 2022-07-19 |

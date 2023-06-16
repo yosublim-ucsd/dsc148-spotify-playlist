@@ -104,9 +104,27 @@
           "url": "https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK"
         }
       ],
-      "date_added": "2022-09-15",
+      "date_added": "2023-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Brazilian Wood Therapy",
+      "url": "https://open.spotify.com/track/0qXDXWu2DUp0iwZ2hiHiDK"
+    },
+    {
+      "album": {
+        "name": "Brazilian Wood Therapy",
+        "url": "https://open.spotify.com/album/4QnmfbrXHv2xQpsiCmXNT7"
+      },
+      "artists": [
+        {
+          "name": "Amida Nature Sounds",
+          "url": "https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
       "duration_ms": 106000,
       "name": "Breathe In The Forest",
       "url": "https://open.spotify.com/track/0mlUW1sZLOlLSy6XetboEZ"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 87531,
       "name": "Cicada Sounds",
       "url": "https://open.spotify.com/track/1PJuwbMRgLLgVXcPN4sulh"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 71000,
       "name": "Cricket Sound 4 - Loopable With No Fade",
       "url": "https://open.spotify.com/track/6UT7KpL0wkYVBNSydJFCSi"
@@ -464,7 +482,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 114000,
       "name": "Crickets In Early Evening - Seamless",
       "url": "https://open.spotify.com/track/0qQB73EeT6e6iHgdnff7fE"
@@ -1155,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Meditative Jungle Nature Sounds",
+        "url": "https://open.spotify.com/album/5937SZAIHexGC5Yx6rhgrL"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306777,
+      "name": "Night Jungle Sounds",
+      "url": "https://open.spotify.com/track/0VF95eL6c5R049PkN0dAVP"
+    },
+    {
+      "album": {
         "name": "Night Sounds",
         "url": "https://open.spotify.com/album/27rFoIVebVsJaNXeM2sioo"
       },
@@ -1170,6 +1206,24 @@
       "duration_ms": 118886,
       "name": "Night Time Noise",
       "url": "https://open.spotify.com/track/53MhmhBXsMQdwVL4Xft4w1"
+    },
+    {
+      "album": {
+        "name": "Wildlife and Nature Soundscapes",
+        "url": "https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Night Time Safari",
+      "url": "https://open.spotify.com/track/51sy1BtzeCL6z5mGUzfeoo"
     },
     {
       "album": {
@@ -1209,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Magic in the Mist",
+        "url": "https://open.spotify.com/album/3zuQKfexOCOv0wm6pP0aAA"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194593,
+      "name": "Nyamigis Gardens",
+      "url": "https://open.spotify.com/track/6AQ5sjYY0Xi51OdCQWCIpj"
+    },
+    {
+      "album": {
         "name": "100 Nature Sounds",
         "url": "https://open.spotify.com/album/2s2J31hghGp6bii6n6XG3i"
       },
@@ -1245,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Meditative Jungle Nature Sounds",
+        "url": "https://open.spotify.com/album/5937SZAIHexGC5Yx6rhgrL"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230001,
+      "name": "Riparian Jungle Sounds",
+      "url": "https://open.spotify.com/track/58suPmlOZN6U11uAv6tVCv"
+    },
+    {
+      "album": {
         "name": "Forest and Ocean Sounds",
         "url": "https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M"
       },
@@ -1278,6 +1368,42 @@
       "duration_ms": 120372,
       "name": "Ruidos del bosque",
       "url": "https://open.spotify.com/track/4wxPsUunioftCy3f0tMH4a"
+    },
+    {
+      "album": {
+        "name": "Sleepy Insects In The Wild",
+        "url": "https://open.spotify.com/album/22osz6E4ozuAoC2a8zSqay"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Savanna Crickets Nighttime",
+      "url": "https://open.spotify.com/track/1dwrswAVeQ493wzcGLNn1Q"
+    },
+    {
+      "album": {
+        "name": "Savanna Nights",
+        "url": "https://open.spotify.com/album/4tRNlmbFn4yWodtt6UF5mj"
+      },
+      "artists": [
+        {
+          "name": "Peter Graham",
+          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137674,
+      "name": "Savanna Nights",
+      "url": "https://open.spotify.com/track/3DJbedmEAaW4JWDL4XmywB"
     },
     {
       "album": {

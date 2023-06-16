@@ -1,12 +1,12 @@
 {
   "description": "Top English songs from Asia. Cover- Mali",
-  "num_followers": 29519,
+  "num_followers": 29557,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTZmMTNmYWVkZTQyZDU5M2M1ZmU5NWFjM2MzYzhkMmQ0YTgwMTQ1",
+  "snapshot_id": "MCxjYTcyYmI1ZTc5MzNlMDM0NDAwM2M1YWVmZDcyM2U3ZTE1YzJkZTlm",
   "tracks": [
     {
       "added_at": "2023-06-07 05:26:54",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
-      },
-      "artists": [
-        {
-          "name": "Paolo Sandejas",
-          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Hopelessly",
         "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180013,
       "name": "Hopelessly",
       "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "cold/mess",
-        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 210420,
-      "name": "100 words",
-      "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "WATER COMES OUT OF MY EYES",
         "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "SUNNY AFTERNOON",
-        "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
-      },
-      "artists": [
-        {
-          "name": "\u96f2\u7aef\u53f8\u6a5f CLOUDRIVER",
-          "url": "https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "SUNNY AFTERNOON",
-      "url": "https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Making Faces",
         "url": "https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 192048,
       "name": "Making Faces",
       "url": "https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 210420,
+      "name": "100 words",
+      "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "SUNNY AFTERNOON",
+        "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u7aef\u53f8\u6a5f CLOUDRIVER",
+          "url": "https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "SUNNY AFTERNOON",
+      "url": "https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "so beautiful, with you",
         "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 218000,
       "name": "so beautiful, with you",
       "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 171149,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC"
-      },
-      "artists": [
-        {
-          "name": "Pineapple Express",
-          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Love Drunk",
         "url": "https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG"
       },
@@ -667,8 +651,24 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Express",
+          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 171149,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "Perfect Life",
-        "url": "https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5"
-      },
-      "artists": [
-        {
-          "name": "Tsumyoki",
-          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Perfect Life",
-      "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Mismatched: Season 2 (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "love is growing",
-        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
+        "name": "Perfect Life",
+        "url": "https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5"
       },
       "artists": [
         {
-          "name": "Plastic Plastic",
-          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
         }
       ],
-      "duration_ms": 178422,
-      "name": "love is growing",
-      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
+      "duration_ms": 242400,
+      "name": "Perfect Life",
+      "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -839,6 +823,22 @@
       "duration_ms": 178339,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "love is growing",
+        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
+      },
+      "artists": [
+        {
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+        }
+      ],
+      "duration_ms": 178422,
+      "name": "love is growing",
+      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "Once Upon The End",
-        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "Once Upon The End",
-      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Just As Easily",
         "url": "https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 189333,
       "name": "Just As Easily",
       "url": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "Once Upon The End",
+        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "Once Upon The End",
+      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "Some Kind Of Nothing",
-        "url": "https://open.spotify.com/album/0xc6rSHLKuwbxt7WZ9rnvM"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn"
       },
       "artists": [
         {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+          "name": "Avanti Nagral",
+          "url": "https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y"
         }
       ],
-      "duration_ms": 185085,
-      "name": "Some Kind Of Nothing",
-      "url": "https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu"
+      "duration_ms": 226800,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK"
     },
     {
       "added_at": "2023-06-07 05:26:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-07 05:26:54",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn"
-      },
-      "artists": [
-        {
-          "name": "Avanti Nagral",
-          "url": "https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK"
-    },
-    {
-      "added_at": "2023-06-07 05:26:54",
-      "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194550,
       "name": "Dancing Cus It's Raining",
       "url": "https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O"
+    },
+    {
+      "added_at": "2023-06-07 05:26:54",
+      "album": {
+        "name": "Bad for Me",
+        "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 203526,
+      "name": "Bad for Me",
+      "url": "https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF"
     },
     {
       "added_at": "2023-06-07 05:26:54",

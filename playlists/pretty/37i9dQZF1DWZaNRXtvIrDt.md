@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,116 likes - 76 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,119 likes - 76 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 54 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 | 55 | [Dreamscape](https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Translucid Transit](https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb) | 5:50 |
 | 56 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
-| 57 | [Planet Waves](https://open.spotify.com/track/2Wpc7khFsHEGGbnLdwrwmM) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Planet Waves](https://open.spotify.com/album/0nDbj8c9TZXVK4T96pFW1I) | 6:27 |
+| 57 | [Planet Waves](https://open.spotify.com/track/5v0kSiZkpmhnikGJsxUz4z) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 6:27 |
 | 58 | [Single Breath](https://open.spotify.com/track/5DOMFonuoyCcfnEojseB9B) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [BODYHI02](https://open.spotify.com/album/7hZbpy49j5LxG8Q7C8HL4b) | 6:44 |
 | 59 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 60 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 75 | [Bleached](https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Kreuzberg Kix EP 2](https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi) | 5:33 |
 | 76 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 
-Snapshot ID: `MCw0NjZiYWVmMDUyYzU1ODgzNWUyZTEwMDYzMzFiYzMzODljMmQ3YmZl`
+Snapshot ID: `MCw2NGU5NGVmY2Q0NWExYzNhMDY1NTQ4YzI0YzBjMTk3M2I4ZmM1OGUz`

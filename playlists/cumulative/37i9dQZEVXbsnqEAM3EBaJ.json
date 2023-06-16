@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 220579,
       "name": "Knights of the Round - Live at The Glasshouse",
       "url": "https://open.spotify.com/track/0hAMrYf7OZCHokXW4velyX"
@@ -6391,7 +6391,7 @@
     },
     {
       "album": {
-        "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+        "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
         "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
       },
       "artists": [
@@ -6448,7 +6448,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 400377,
-      "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+      "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
       "url": "https://open.spotify.com/track/79hDPw6W97jutRE78kn8ik"
     },
     {
@@ -9336,6 +9336,24 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "album": {
+        "name": "Wires...And The Concept Of Breathing - Live at The Glasshouse",
+        "url": "https://open.spotify.com/album/2EMn2sD1Qnf6iPRELL9CSA"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Wires And The Concept Of Breathing - Live at The Glasshouse",
+      "url": "https://open.spotify.com/track/1V1I1oa74v1vPkGKaEP5AG"
     },
     {
       "album": {

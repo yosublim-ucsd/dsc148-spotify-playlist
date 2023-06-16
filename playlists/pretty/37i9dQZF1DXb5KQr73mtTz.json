@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10395,
+  "num_followers": 10403,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWM1Y2UwZWNhZjEyMzQ0MDI1NjNhNDcwOTdhOGUwZDcwNTNhY2Ni",
+  "snapshot_id": "MCwxNzcxZTlkNjBiZGI2NTBiNDM5ZWJkNjJjNzk0ODc3MWRhNWVkMWE2",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:21",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Without U",
-      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Go Back \uc9d1\uc5d0",
         "url": "https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 227489,
       "name": "Go Back \uc9d1\uc5d0",
       "url": "https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
-        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Living in the same time",
-      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -387,6 +371,38 @@
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
+        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+        }
+      ],
+      "duration_ms": 302864,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
+        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Living in the same time",
+      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Thank you for Goodbye",
         "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
-        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Kim Yeonji",
-          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 302864,
-      "name": "\ub9c8\uc74c\uc758 \ub9d0",
-      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -719,22 +719,18 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "nevertheless",
-        "url": "https://open.spotify.com/album/0XrbFmbmsQlkegtGKqBQhA"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        },
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 204937,
-      "name": "nevertheless",
-      "url": "https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2"
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+        "name": "nevertheless",
+        "url": "https://open.spotify.com/album/0XrbFmbmsQlkegtGKqBQhA"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        },
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 178666,
-      "name": "How You Been",
-      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+      "duration_ms": 204937,
+      "name": "nevertheless",
+      "url": "https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240532,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-06-13 08:58:21",

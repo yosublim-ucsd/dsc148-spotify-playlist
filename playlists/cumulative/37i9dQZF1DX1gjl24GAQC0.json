@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover:\bTHE NEW SIX [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover:\bLUN8(\ub8e8\ub124\uc774\ud2b8) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 175533,
       "name": "Kick It 4 Now",
       "url": "https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86"
@@ -7956,6 +7956,24 @@
       "duration_ms": 206856,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
+    },
+    {
+      "album": {
+        "name": "CONTINUE?",
+        "url": "https://open.spotify.com/album/38naOKNOPofTwerOOejf2N"
+      },
+      "artists": [
+        {
+          "name": "LUN8",
+          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD"
     },
     {
       "album": {

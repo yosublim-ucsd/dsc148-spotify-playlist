@@ -11474,10 +11474,40 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 482337,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/01IMObtHdVlzsoUjhFvuPe"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/419gwhKu6zL7R2aIb1atI3"
+      },
+      "artists": [
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "John Morgan Kimock",
+          "url": "https://open.spotify.com/artist/1FXGdE8YEPiRm5yPQ6NMDR"
+        },
+        {
+          "name": "Andy Hess",
+          "url": "https://open.spotify.com/artist/3nr2um6Lyz3Qbe9rXq4gb9"
+        },
+        {
+          "name": "Eden Ladin",
+          "url": "https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482337,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5jqW4spT3uTT2iwksQfLSI"
     },
     {
       "album": {

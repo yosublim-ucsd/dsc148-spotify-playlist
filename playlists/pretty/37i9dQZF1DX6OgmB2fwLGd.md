@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,534 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,033 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 |
 | 100 | [Slave](https://open.spotify.com/track/6gzEKpPDrMetHz0EVeo37I) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Limbus 3](https://open.spotify.com/album/41Llenxqo1pplBtCTiQZTv) | 2:31 |
 
-Snapshot ID: `MCxiOTUyNGM1NjU5N2ZmY2IwMzdhNmQ2MjJlNjhkNDRjYzNmMDI0MjQ2`
+Snapshot ID: `MCxjYzRmMjdmNTg3YjU4ZGUxZTZiZjViMDg0M2ZlZGYyNzU3ODk0OGYx`

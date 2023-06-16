@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,459 likes - 35 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,561 likes - 35 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 15 | [COOL \(Your rainbow\) \(Inst.\)](https://open.spotify.com/track/6TxvDCGRRXRpvtCuQkmglf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 |
 | 16 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 17 | [Kiss \- Instrumental](https://open.spotify.com/track/5q6aIgZDT81GyqZtlB562m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
-| 18 | [Hey Gabby!](https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 |
-| 19 | [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 |
-| 20 | [Hey Gabby! \- Instrumental](https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 |
-| 21 | [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 |
+| 18 | [안녕 개비! \(Sung by NMIXX\)](https://open.spotify.com/track/3f5tHSAMSVFnLO6M3lUZPO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 |
+| 19 | [스프링클 파티 \(Sung by NMIXX\)](https://open.spotify.com/track/1nfT7zOpzdfaeuBoIlTEoP) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 |
+| 20 | [안녕 개비! \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/52WHFmRlU4Hrch59XIOTxw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 |
+| 21 | [스프링클 파티 \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/3HNfbGnpjbg8s5xpEV4lcL) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 |
 | 22 | [TANK \(Inst.\)](https://open.spotify.com/track/3k0K0Nh6hPt6Q3buUA4UZS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:48 |
 | 23 | [O.O \(Inst.\)](https://open.spotify.com/track/1Bf5zMLyJAt3075EISPcYy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 |
 | 24 | [Message from NMIXX \- JIWOO](https://open.spotify.com/track/2yHQYCc0Ubd3L52T68HEhn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 34 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 | 35 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 
-Snapshot ID: `MCxiM2M4ZGQ1MDQ3YzQ1ZmE2ODA3Y2YyYjcxNzY3MzY1YWMxNGQ5MGJj`
+Snapshot ID: `MCw0MGZjMmFmZmY5YTViZTM3Y2I4NzQxMzA1Mjk4MzczZGFmNGZiNmVh`

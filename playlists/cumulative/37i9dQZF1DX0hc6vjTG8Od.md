@@ -2,7 +2,7 @@
 
 ### [BLOND:ISH's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX0hc6vjTG8Od)
 
-> Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
+> Energy is <a href="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
 17 songs - 1 hr 9 min
 

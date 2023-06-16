@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,078 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,219 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 2 | [OUT THE WINDOW](https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 3:56 |
 | 3 | [Helluva Day](https://open.spotify.com/track/36aqn18EqDHyw0Jg0lumJt) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Helluva Day](https://open.spotify.com/album/7s0PVaHfUzLaETmARjn95I) | 2:12 |
 | 4 | [5 O'Clock](https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [5 O'Clock](https://open.spotify.com/album/0BvuoUOJ8MvkQRMfRwmYSG) | 3:13 |
-| 5 | [Bloody 98 \(feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 |
+| 5 | [Bloody 98 \(Feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 |
 | 6 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
 | 7 | [ADAM & EVE](https://open.spotify.com/track/7fR8FgFVx1nS166p5wIR5B) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 4:29 |
 | 8 | [LIGHTER FLUID](https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LIGHTER FLUID](https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ) | 2:13 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 22 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
 | 23 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 24 | [Dr\. Miami](https://open.spotify.com/track/7EvCsdSXlfFHSzemNyZtYE) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 2:57 |
-| 25 | [Provolone & Heroin \(feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
+| 25 | [Provolone & Heroin \(Feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
 | 26 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 27 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 |
 | 28 | [Rabbit Stew](https://open.spotify.com/track/0fdedVLP9eXSYr6UtZ9al7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCxlODM1YzNhOGU1NWQ1ODk4MDJhYzMzMjExNDU1YjFlNTkzYmZhOGU4`
+Snapshot ID: `MCwxOTk5NzdiZDhkMDE4Y2MyMDE2YzQ1YTcxNmI4ZjEyY2VjOTgxOWU0`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 283122,
+  "num_followers": 283261,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1",
+  "snapshot_id": "MCwwYTNhMTFlYzc2OGYyZjU3ZGU3Nzk5ZTczYzAwNmNlYzU3M2YwMDM1",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Dein Helfer in der Not",
+        "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Ost+Front",
+          "url": "https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs"
         }
       ],
-      "duration_ms": 314720,
-      "name": "ISN\u2019T EVERYONE",
-      "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
+      "duration_ms": 211400,
+      "name": "Ikarus",
+      "url": "https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Dein Helfer in der Not",
-        "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
         {
-          "name": "Ost+Front",
-          "url": "https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ikarus",
-      "url": "https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu"
+      "duration_ms": 314720,
+      "name": "ISN\u2019T EVERYONE",
+      "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Die H\u00f6lle muss warten",
-        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
       "artists": [
         {
-          "name": "Eisbrecher",
-          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Verr\u00fcckt - Original Version",
-      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Die H\u00f6lle muss warten",
+        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+      },
+      "artists": [
+        {
+          "name": "Eisbrecher",
+          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Verr\u00fcckt - Original Version",
+      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Helheim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 192859,
       "name": "Rabenherz",
       "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
-      },
-      "artists": [
-        {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1327,38 +1327,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Justice Way",
-      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Front By Front",
-        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
-      },
-      "artists": [
-        {
-          "name": "Front 242",
-          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "Headhunter V1.0",
-      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Termination Bliss",
         "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
       },
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "FullBlackHabit",
         "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 187520,
       "name": "Suffering You",
       "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
       },
       "artists": [
         {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
         }
       ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Black Lipstick",
         "url": "https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Prey & Obey",
-        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
-      },
-      "artists": [
-        {
-          "name": "PIG",
-          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
-        }
-      ],
-      "duration_ms": 286974,
-      "name": "Prey & Obey",
-      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Supernaut",
         "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 402706,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Prey & Obey",
+        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
+      },
+      "artists": [
+        {
+          "name": "PIG",
+          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
+        }
+      ],
+      "duration_ms": 286974,
+      "name": "Prey & Obey",
+      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
-      },
-      "artists": [
-        {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Eurotrash",
         "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",

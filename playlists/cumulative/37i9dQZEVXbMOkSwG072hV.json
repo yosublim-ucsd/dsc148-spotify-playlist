@@ -8582,7 +8582,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -12786,7 +12786,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 172693,
       "name": "Interessante",
       "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
@@ -17263,6 +17263,24 @@
     },
     {
       "album": {
+        "name": "I AM YOU",
+        "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268434,
+      "name": "Murder on My Mind",
+      "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
+    },
+    {
+      "album": {
         "name": "Sa\u00fade",
         "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
@@ -21410,6 +21428,24 @@
       "duration_ms": 298747,
       "name": "Pot-Pourri: Turma Do Funil / Cacha\u00e7a / Ressaca",
       "url": "https://open.spotify.com/track/7x99gjAbTpJRdpx7f0KJ1y"
+    },
+    {
+      "album": {
+        "name": "Pra Vaquejada Eu Vou",
+        "url": "https://open.spotify.com/album/028nyOf1ol2346P4njBrep"
+      },
+      "artists": [
+        {
+          "name": "Gean Toddy",
+          "url": "https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Pra Vaquejada Eu Vou",
+      "url": "https://open.spotify.com/track/1h6z4Z81uMprKLApU8tMpZ"
     },
     {
       "album": {

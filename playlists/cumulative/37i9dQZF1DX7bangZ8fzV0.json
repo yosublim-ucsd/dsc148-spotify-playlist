@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=cxy2BT0aTNKiKZHRPtNMLw\">Barto</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj?si=2mJTD8E_QZiw_cH4JxsRWA\">Jay</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 198980,
       "name": "Chocolate Sigarette",
       "url": "https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 196530,
       "name": "Hy's 'n Lekker Ou",
       "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
@@ -1396,6 +1396,24 @@
       "duration_ms": 167933,
       "name": "Kyk Na My Hart",
       "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
+    },
+    {
+      "album": {
+        "name": "Laat Dit Goed Gaan",
+        "url": "https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216687,
+      "name": "Laat Dit Goed Gaan",
+      "url": "https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf"
     },
     {
       "album": {
@@ -2265,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Stoutgat",
+        "url": "https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw"
+      },
+      "artists": [
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190796,
+      "name": "Stoutgat",
+      "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
+    },
+    {
+      "album": {
         "name": "Wille Ding",
         "url": "https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM"
       },
@@ -2370,6 +2406,24 @@
       "duration_ms": 204067,
       "name": "S\u00eara S\u00ea Ja!",
       "url": "https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x"
+    },
+    {
+      "album": {
+        "name": "Tassies Pak",
+        "url": "https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Tassies Pak",
+      "url": "https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9"
     },
     {
       "album": {
@@ -2540,7 +2594,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 187558,
       "name": "Vleisvreters",
       "url": "https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h"

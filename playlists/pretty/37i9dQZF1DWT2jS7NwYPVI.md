@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,383 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,457 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 37 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 |
 | 38 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 |
 | 39 | [No Shoes in the Coffee Shop \(Or Socks\)](https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 3:20 |
-| 40 | [Wide Eyes](https://open.spotify.com/track/0KiN95OOUGLFadCzc2ghBa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Built To Last](https://open.spotify.com/album/23XiIM9QKyC9urzQbTidGE) | 3:05 |
+| 40 | [Wide Eyes](https://open.spotify.com/track/0KiN95OOUGLFadCzc2ghBa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Brian Butcher](https://open.spotify.com/artist/245ZucnzUyK9RrTUFq5w8w) | [Built To Last](https://open.spotify.com/album/23XiIM9QKyC9urzQbTidGE) | 3:05 |
 | 41 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
 | 42 | [Plastic](https://open.spotify.com/track/6HiBjDRQapX1hsMRT7smAJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body EP](https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT) | 2:43 |
 | 43 | [LA \(feat\. SK8\)](https://open.spotify.com/track/4O8bi0Z1swUrpMYWH5FeVF) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv), [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish) | [LA \(feat\. SK8\)](https://open.spotify.com/album/6FzMPIBhfezcr18T3iMGXq) | 2:56 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 102 | [BUMMER!](https://open.spotify.com/track/73phkrwQPTCg8UrlqEkSyj) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/5c8so0KAt0lRHZNF24lFwe) | 2:39 |
 
-Snapshot ID: `MCxlODAzMGM0MjQwNDIxZDg5ODQ1MmE5ZmMwMDE0ODllZTBkZGFkMzcw`
+Snapshot ID: `MCxlZGQ2NzY1OWE0NzZiY2Q5MGFmZDFjMzNjMjhhMmE1NmJjMjg2ZmU1`

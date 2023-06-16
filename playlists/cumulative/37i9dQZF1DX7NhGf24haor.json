@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Black Hole",
+        "url": "https://open.spotify.com/album/3hqbJSAUTqnoyobMhHnE9x"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189697,
+      "name": "A Black Hole",
+      "url": "https://open.spotify.com/track/5G0wYo5xHcJAzrc4rH6ZXk"
+    },
+    {
+      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
       },
@@ -377,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Back 2 The Oldschool",
+        "url": "https://open.spotify.com/album/1hj8C18dLHicYRwIuLdHmC"
+      },
+      "artists": [
+        {
+          "name": "Shinzo",
+          "url": "https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Back 2 The Oldschool",
+      "url": "https://open.spotify.com/track/2nc6DkAQN4OkLR8Zu9RJIA"
+    },
+    {
+      "album": {
         "name": "Back Around",
         "url": "https://open.spotify.com/album/25jiNkt38alvh8N5bcOgIq"
       },
@@ -436,6 +472,28 @@
       "duration_ms": 212209,
       "name": "Bass Squad",
       "url": "https://open.spotify.com/track/7AZ3MHFkThHcwbweIFO6Ms"
+    },
+    {
+      "album": {
+        "name": "Bassline Rampage",
+        "url": "https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        },
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Bassline Rampage",
+      "url": "https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4"
     },
     {
       "album": {
@@ -564,6 +622,24 @@
       "duration_ms": 163245,
       "name": "Blow The Speakers",
       "url": "https://open.spotify.com/track/3qbqvbfHDtu3nvRFBpnfZB"
+    },
+    {
+      "album": {
+        "name": "BLOW THE SPEAKERS UP",
+        "url": "https://open.spotify.com/album/3RPjZ1oE9b7FRHPEXQQrDl"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182848,
+      "name": "BLOW THE SPEAKERS UP",
+      "url": "https://open.spotify.com/track/3Z6yPfZ18vOpDcmvMsgTxg"
     },
     {
       "album": {
@@ -1028,6 +1104,24 @@
       "duration_ms": 267791,
       "name": "Conquer Your Mind - APEX 2023 OST",
       "url": "https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje"
+    },
+    {
+      "album": {
+        "name": "Constellation Sky",
+        "url": "https://open.spotify.com/album/234D41xhuXVKPvQOlJoJRe"
+      },
+      "artists": [
+        {
+          "name": "XCEPTION",
+          "url": "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Constellation Sky",
+      "url": "https://open.spotify.com/track/49wI9eSpLdCForl4uJwSwY"
     },
     {
       "album": {
@@ -1922,7 +2016,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 167378,
       "name": "FCK DAT!",
       "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
@@ -2593,6 +2687,28 @@
     },
     {
       "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
       },
@@ -2838,6 +2954,28 @@
       "duration_ms": 217600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2usGUwNBOdZ4fhbK0xU1By"
+    },
+    {
+      "album": {
+        "name": "Holy Grounds (The Gathering 2023 OST)",
+        "url": "https://open.spotify.com/album/4zr5DvDndCrIf7wmgaU7vd"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181548,
+      "name": "Holy Grounds (The Gathering 2023 OST)",
+      "url": "https://open.spotify.com/track/32AESwf5P1txRsUWEbjNys"
     },
     {
       "album": {
@@ -3162,6 +3300,24 @@
       "duration_ms": 174188,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR"
+    },
+    {
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1FFFK7JQM6gcsD53nTSHUO"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202947,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/64ku5BW8EdFW7ygyMOC77k"
     },
     {
       "album": {
@@ -4380,6 +4536,32 @@
       "duration_ms": 220136,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/73YSqgqVJEEq5dl4K8tgCF"
+    },
+    {
+      "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/2FCzxIVzUVrSBT0FRW2K5f"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4YgTTzcixZv8jF8jL71YwO"
     },
     {
       "album": {
@@ -5810,7 +5992,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 175874,
       "name": "Return Of The Return",
       "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
@@ -6352,6 +6534,24 @@
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "album": {
+        "name": "Someone To Believe In",
+        "url": "https://open.spotify.com/album/1oVakhLTYzUeYjySaTIltO"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227450,
+      "name": "Someone To Believe In",
+      "url": "https://open.spotify.com/track/1lFGrMOQocdF3AMxseShfB"
     },
     {
       "album": {
@@ -7229,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/69GpiZakAH99rBwJLQe1LK"
+      },
+      "artists": [
+        {
+          "name": "Hardstyle Legends",
+          "url": "https://open.spotify.com/artist/7h1AK4oFSkeL6vlOa5NHb0"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/5Io0UXwI0DhCUI7imo7VPh"
+    },
+    {
+      "album": {
         "name": "The World Is Yours",
         "url": "https://open.spotify.com/album/6dMYkQVJniC1DHCZoQPA3d"
       },
@@ -7442,6 +7660,24 @@
       "duration_ms": 177753,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/4zbfmYp5spMFXDNjNBefTS"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4r9gVPNQm6fwwMj3L8GycV"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/35xi46XXp07VOwqFNMsSyW"
     },
     {
       "album": {
@@ -8056,6 +8292,32 @@
       "duration_ms": 177290,
       "name": "We Go Down",
       "url": "https://open.spotify.com/track/5BJbGqKyn6BF9xOWy28QeO"
+    },
+    {
+      "album": {
+        "name": "We Go So Far (Don\u2019t Stop Believin')",
+        "url": "https://open.spotify.com/album/4iqR1gG0R7QdH8TWKCCyrK"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Narcyz",
+          "url": "https://open.spotify.com/artist/6bXKU7upMry4vNzi4jvgjq"
+        },
+        {
+          "name": "Drean",
+          "url": "https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227617,
+      "name": "We Go So Far (Don\u2019t Stop Believin')",
+      "url": "https://open.spotify.com/track/1sbcMH8P8zhtaESyGSNqGo"
     },
     {
       "album": {

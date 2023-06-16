@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 624509,
+  "num_followers": 624852,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MThhNjg4NWFkZTZhMWY2YTAwNDM0MzcxNWQ0YWM0NjcyNzE5N2U0",
+  "snapshot_id": "MCxjNzY1Y2I2ODRkYjk1ZjExZmExMWYyMzI5OTRmOTYwZjczYzE5YTE3",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 194400,
       "name": "Morire Bebiendo",
       "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "Mil historias Edici\u00f3n De Lujo",
-        "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
+        "name": "Mil historias Edici\u00f3n De Lujo",
+        "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 269493,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
+      "duration_ms": 251428,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -631,6 +631,22 @@
       "duration_ms": 238453,
       "name": "Se Te Nota",
       "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Sombras de un Pasado",
+        "url": "https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Hoy Te VI Pasar",
+      "url": "https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -715,34 +731,34 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
+        "name": "Toromania",
+        "url": "https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Bailando Con El",
-      "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+      "duration_ms": 240026,
+      "name": "Mi Ni\u00f1a - Bachata Version",
+      "url": "https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6"
     },
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Sombras de un Pasado",
-        "url": "https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA"
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Hoy Te VI Pasar",
-      "url": "https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr"
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -783,34 +799,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Toromania",
-        "url": "https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK"
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 240026,
-      "name": "Mi Ni\u00f1a - Bachata Version",
-      "url": "https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "Creiste",
-        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+      "duration_ms": 221080,
+      "name": "Bailando Con El",
+      "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Xtreme",
-        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Ahora Vete",
-      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Medicina De Amor",
         "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 237373,
       "name": "Antolog\u00eda De Caricias",
       "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Xtreme",
+        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Ahora Vete",
+      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 272680,
       "name": "Quizas Si, Quizas No - Bachata Remix",
       "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Recuentos De \u00c9xitos",
-        "url": "https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 235996,
-      "name": "Cuando El Amor Se Va",
-      "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "El Principe de la Bachata: 16 Exitos",
         "url": "https://open.spotify.com/album/4Sfp3zg7sd8sE9f9A5bHeE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 259026,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/0xdykckHenBXiOxo8jiraJ"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Recuentos De \u00c9xitos",
+        "url": "https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 235996,
+      "name": "Cuando El Amor Se Va",
+      "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Dejame Entrar En Ti",
-        "url": "https://open.spotify.com/album/7HJYNuEZ29P4jK806JqkkX"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Dejame Entrar En Ti",
-      "url": "https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC"
+      "duration_ms": 313000,
+      "name": "Solo Sin Ella",
+      "url": "https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
+        "name": "Dejame Entrar En Ti",
+        "url": "https://open.spotify.com/album/7HJYNuEZ29P4jK806JqkkX"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Solo Sin Ella",
-      "url": "https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH"
+      "duration_ms": 228640,
+      "name": "Dejame Entrar En Ti",
+      "url": "https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC"
     },
     {
       "added_at": "2023-03-17 00:44:12",

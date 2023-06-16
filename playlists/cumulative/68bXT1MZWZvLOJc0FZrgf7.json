@@ -4243,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Lord It's a Feeling (goddard. Remix)",
+        "url": "https://open.spotify.com/album/1soCU3H4eASjprAAToH4a4"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214050,
+      "name": "Lord It's a Feeling - goddard. Remix",
+      "url": "https://open.spotify.com/track/6u7zWn5zHYD1HKrgAgKnCF"
+    },
+    {
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4"
       },

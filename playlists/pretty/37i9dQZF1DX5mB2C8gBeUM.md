@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,297 likes - 131 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,441 likes - 131 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 130 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
 | 131 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 |
 
-Snapshot ID: `MCxmNDcxNmY0NTc4ZmNkNTVmNGM1M2NiMjZjYzRmYWRlMDIwYjY4ODgy`
+Snapshot ID: `MCwzYzM2Y2M2ZWVlM2ZlYjJkNDZhYjQ3ODA3ODYzY2Q3N2M5NzA2NDM1`

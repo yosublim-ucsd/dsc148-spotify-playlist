@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: あっこゴリラ \(AKKOGORILLA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,172 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,220 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 21 | [Perfect](https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Perfect](https://open.spotify.com/album/6OfpvSOqtJgdaeik9xlhAS) | 2:18 |
 | 22 | [RAT\-TAT\-TAT](https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [RAT\-TAT\-TAT](https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro) | 3:43 |
 | 23 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 |
-| 24 | [Heavenly](https://open.spotify.com/track/4Fa11w6nrnJeUL4i1dtAfH) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [Heavenly](https://open.spotify.com/album/2GnnnggpNvD6OiAiAaC7NA) | 2:55 |
+| 24 | [Heavenly](https://open.spotify.com/track/4Fa11w6nrnJeUL4i1dtAfH) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Heavenly](https://open.spotify.com/album/2GnnnggpNvD6OiAiAaC7NA) | 2:55 |
 | 25 | [Verbal Justice](https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:04 |
 | 26 | [Status ailment just alive](https://open.spotify.com/track/3hBVlcqTjEhJ9svG2Nx68q) | [Zoomgals](https://open.spotify.com/artist/00WYlzzYeZHLkwA8pi6Eyp), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [namichie](https://open.spotify.com/artist/3RtSsC1hY28YyW1UrYbA7V), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [CARREC](https://open.spotify.com/artist/2GvSLpKBp3XZdNbAtiChQr) | [Status ailment just alive](https://open.spotify.com/album/6zE2UaKZCm6wvUVhd4Txfv) | 5:41 |
 | 27 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 |
 | 50 | [Telefon](https://open.spotify.com/track/73uwU7sDSuwFrZlnWrtToF) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Telefon](https://open.spotify.com/album/3HNvc9pFtMiciNaIpJck83) | 4:44 |
 
-Snapshot ID: `MCxkZWU3YjI3OTRhMGVhZmUyMDdiN2Q3YzA3MjQ2NWJkOTU5ZjcxY2Jj`
+Snapshot ID: `MCxhMDY5Y2Y1MWU5NmY0ZWRjOWU3NzBiYWJiOWEyNWNmNjlmNjkxNGE0`

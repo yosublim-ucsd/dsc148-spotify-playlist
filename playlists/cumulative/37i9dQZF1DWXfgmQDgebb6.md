@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: YongYong\(용용\)\)
 
-309 songs - 17 hr 16 min
+310 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [CHACHI](https://open.spotify.com/track/5pTMDhMNVOU5mqRzVwETvR) | [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [YANGSTAR 224](https://open.spotify.com/album/4gpiZQomdVMsOcolNF7eev) | 2:07 | 2022-06-18 | 2022-07-26 |
 | [CHROMEHEARTSRING \(feat\. Lil Cherry\)](https://open.spotify.com/track/14Pr84XLk16srzXsjJ6AnH) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [CHROMEHEARTSRING \(feat\. Lil Cherry\)](https://open.spotify.com/album/7j51KgAFJv330Zcm2mwGB6) | 2:05 | 2022-05-27 | 2022-07-16 |
 | [Circle Mind \(feat\. Dbo\)](https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Circle Mind](https://open.spotify.com/album/2yVFgP5puQ82LFsEj1e7F4) | 2:28 | 2022-12-19 | 2023-01-26 |
+| [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 | 2023-06-13 |  |
 | [Cloud \(Feat\. Clavita, Donutman\)](https://open.spotify.com/track/5JPohmztk8M6sdxB59yEY0) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Cloud](https://open.spotify.com/album/0Ch4WiXxd12tT6OZrkBQyC) | 3:26 | 2022-05-27 | 2022-07-28 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
 | [Cosmos](https://open.spotify.com/track/06Cd4vfrqcbCSyqTWJNSG6) | [Comytru](https://open.spotify.com/artist/7a97eiOoGb1icBAmhnpwqY) | [DIOR](https://open.spotify.com/album/4jjOq9OwpI57jy16o6ZtCk) | 3:28 | 2022-05-27 | 2022-07-21 |
@@ -141,7 +142,7 @@
 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 | 2022-05-27 |  |
 | [If Not Me \(Feat\. SUMIN\)](https://open.spotify.com/track/0IX1Imw66sngLjidxvVVFQ) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 3:10 | 2022-05-27 | 2022-07-28 |
 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 | 2022-05-27 |  |
-| [In My Garden](https://open.spotify.com/track/5IKqWeB2TLj8aCwBpE5ila) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:42 | 2023-04-22 |  |
+| [In My Garden](https://open.spotify.com/track/5IKqWeB2TLj8aCwBpE5ila) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:42 | 2023-04-22 | 2023-06-16 |
 | [Intro5](https://open.spotify.com/track/132Sr4XzND5lLD2gBg8wpz) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 5:30 | 2022-05-27 | 2022-07-27 |
 | [island](https://open.spotify.com/track/0qhBGQQnVuf1yygqwTIBMo) | [OhAn](https://open.spotify.com/artist/1rtMEdkyhkt6K6CAclvkXX), [이나래](https://open.spotify.com/artist/6GowlIsKd7y09TomG1R0G2) | [island](https://open.spotify.com/album/2i00pi3cbshoktcuGgsyA4) | 3:40 | 2022-05-27 | 2022-07-22 |
 | [It Was All a Dream](https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:16 | 2022-05-27 | 2023-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junoon",
-  "num_followers": 39393,
+  "num_followers": 39437,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRjMzA1ZWFkNjRkNzhmNDQ4NmNiNWFkYjgxYzcyZDZhZGQwMDdm",
+  "snapshot_id": "MCxiZjY5ZjRkZGVkYWVmYzUwYTlmOTcyOGNlYzY0ZGQzMjhmYWViYWIx",
   "tracks": [
     {
       "added_at": "2023-05-10 07:18:57",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Bewafa",
-        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
-      },
-      "artists": [
-        {
-          "name": "Imran Khan",
-          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "Bewafa",
-      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Iraaday",
         "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 133305,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Amplifier",
-        "url": "https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ"
-      },
-      "artists": [
-        {
-          "name": "Imran Khan",
-          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Amplifier",
-      "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Kalyug (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Coke Studio Season 8",
-        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+        "name": "Amplifier",
+        "url": "https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ"
       },
       "artists": [
         {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
         }
       ],
-      "duration_ms": 352334,
-      "name": "Bewajah",
-      "url": "https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM"
+      "duration_ms": 232906,
+      "name": "Amplifier",
+      "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -307,6 +291,22 @@
       "duration_ms": 304333,
       "name": "Sayonee",
       "url": "https://open.spotify.com/track/075QYa566prNemChnZDEY1"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352334,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Duur",
-        "url": "https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4"
-      },
-      "artists": [
-        {
-          "name": "Strings",
-          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
-        }
-      ],
-      "duration_ms": 307626,
-      "name": "Duur",
-      "url": "https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Roiyaan",
         "url": "https://open.spotify.com/album/6zyLkzZ4EBmUgBw8UG1cwM"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Bounce Billo",
-        "url": "https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS"
+        "name": "Duur",
+        "url": "https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4"
       },
       "artists": [
         {
-          "name": "Imran Khan",
-          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Bounce Billo",
-      "url": "https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi"
+      "duration_ms": 307626,
+      "name": "Duur",
+      "url": "https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -419,6 +403,22 @@
       "duration_ms": 320040,
       "name": "Woh Lamhe Woh Baatein",
       "url": "https://open.spotify.com/track/3pE3QvVrRLyno5TwEBDRFo"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Bounce Billo",
+        "url": "https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Bounce Billo",
+      "url": "https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -471,6 +471,26 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "duration_ms": 424505,
+      "name": "Jal Pari",
+      "url": "https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
         "name": "Parinda",
         "url": "https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq"
       },
@@ -483,6 +503,22 @@
       "duration_ms": 261537,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Zinda",
+        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "duration_ms": 316653,
+      "name": "Ye Hai Meri Kahani",
+      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -523,22 +559,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Zinda",
-        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
-      },
-      "artists": [
-        {
-          "name": "Strings",
-          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
-        }
-      ],
-      "duration_ms": 316653,
-      "name": "Ye Hai Meri Kahani",
-      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 259560,
       "name": "Chal Dil Merey",
       "url": "https://open.spotify.com/track/0szjMfMU0PYyM4LskP1nKj"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
-        "name": "Coke Studio Sessions: Season 2",
-        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
-        }
-      ],
-      "duration_ms": 424505,
-      "name": "Jal Pari",
-      "url": "https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -607,38 +607,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Suno Ke Mein Hun Jawan",
-        "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
-      },
-      "artists": [
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 207553,
-      "name": "Manwa Re",
-      "url": "https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Khan",
-          "url": "https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Baarish",
-      "url": "https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Dhaani",
         "url": "https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw"
       },
@@ -655,6 +623,22 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
+        "name": "Suno Ke Mein Hun Jawan",
+        "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 207553,
+      "name": "Manwa Re",
+      "url": "https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
         "name": "Aadat",
         "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 287333,
       "name": "Dil Haray Pukaray",
       "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Khan",
+          "url": "https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Nachaan Mein Oday Nall",
-        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
-      },
-      "artists": [
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Shareekan Nu Agg Lagdi",
-      "url": "https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Deewar",
         "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 170613,
       "name": "Pappu Yaar",
       "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Nachaan Mein Oday Nall",
+        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "Shareekan Nu Agg Lagdi",
+      "url": "https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m"
     },
     {
       "added_at": "2023-05-10 07:18:57",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-10 07:18:57",
       "album": {
-        "name": "Nach Punjaban",
-        "url": "https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4"
-      },
-      "artists": [
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "Preeto",
-      "url": "https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20"
-    },
-    {
-      "added_at": "2023-05-10 07:18:57",
-      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 275186,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD"
+    },
+    {
+      "added_at": "2023-05-10 07:18:57",
+      "album": {
+        "name": "Teri Yaad -The Collection",
+        "url": "https://open.spotify.com/album/3k590uhpKMD17vW1DndOgQ"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "duration_ms": 378880,
+      "name": "Teri Yaad",
+      "url": "https://open.spotify.com/track/4WP514flpoolRbY3n6osFI"
     },
     {
       "added_at": "2023-05-10 07:18:57",

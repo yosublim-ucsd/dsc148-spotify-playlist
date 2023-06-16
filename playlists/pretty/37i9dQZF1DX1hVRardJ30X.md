@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,652 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,859 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [Sin Decir Adiós](https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Sin Decir Adiós](https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS) | 2:46 |
 | 37 | [Tu Salida](https://open.spotify.com/track/7rOXhk0LoozZZUInt5rkMy) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Tu Salida](https://open.spotify.com/album/1Xdbk9MllX4ugajELyenD9) | 3:29 |
 | 38 | [Borracha Y Cansada](https://open.spotify.com/track/1y9JTXJuUVagOxKXjsAQCY) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Borracha Y Cansada](https://open.spotify.com/album/5rMchM0Th2xGZBxXzHnI1e) | 2:00 |
-| 39 | [UNA GATITA](https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [UNA GATITA](https://open.spotify.com/album/5NvXFJGob15teasQMemNSs) | 2:26 |
+| 39 | [UNA GATITA](https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [UNA GATITA](https://open.spotify.com/album/5NvXFJGob15teasQMemNSs) | 2:07 |
 | 40 | [¿QUÉ SOMOS?](https://open.spotify.com/track/6S4XxWaB3mU9dZ8ONdd0PE) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [¿QUÉ SOMOS?](https://open.spotify.com/album/3l7wFTz7xOiZ5RpPJmOOsw) | 3:37 |
 | 41 | [EXPLICACIÓNES](https://open.spotify.com/track/3GRbyFnGT76VyYEPrpRp96) | [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [OCHO](https://open.spotify.com/album/4xepSQ2OnZ016EBmHQg9W9) | 2:47 |
 | 42 | [Bajo Presión](https://open.spotify.com/track/6ySk8C9ebTPQcABtSNJ1QM) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy) | [Bajo Presión](https://open.spotify.com/album/0zmacoicRVHv8ZG23CMmak) | 3:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Baby Face](https://open.spotify.com/track/2cQyntpoQPfy5ocUF2LDVh) | [Thrigz](https://open.spotify.com/artist/22xZlZjpZAn23u5YSnfN4B) | [Baby Face](https://open.spotify.com/album/68mHm2TEF2aUtWpwZG1zpS) | 2:08 |
 | 51 | [Llévame](https://open.spotify.com/track/7pSdhRSAZu10t8gxxf5MYl) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Llévame](https://open.spotify.com/album/5lzo8L9K1Trk74Izd0TKX8) | 2:45 |
 
-Snapshot ID: `MCwzNzRiNTRkMDUyMDg2MDVjZjBjZmVjNzgyYWU3NjVmODFiMTM0NWE2`
+Snapshot ID: `MCw2YWIzN2U1MzkwMWZhM2I5YmZjZGRjMmRjNWM5MGIwM2EyOTA4Yjk4`

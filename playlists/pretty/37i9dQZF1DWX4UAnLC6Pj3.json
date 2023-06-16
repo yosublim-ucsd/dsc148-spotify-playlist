@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Mac\u00edas en portada.",
-  "num_followers": 1121563,
+  "num_followers": 1121774,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjc3ODQ2YThiYWNlZmI0NDE5ZGZiYzFjODYzNjk5ZWE4YTVmYWVh",
+  "snapshot_id": "MCw2M2UwNThmNDkzY2U4NjU1YzhkNWQyZjc4MGRmZDY0NmM4YmUyNmYz",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -667,8 +667,8 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -751,8 +751,8 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Aqui Ando En El Caloron (En Vivo)",
-        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
       "artists": [
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        },
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 232820,
-      "name": "Aqui Ando En El Caloron - En Vivo",
-      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+      "duration_ms": 230440,
+      "name": "Olvidarte, \u00bfC\u00f3mo?",
+      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+        "name": "Aqui Ando En El Caloron (En Vivo)",
+        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Olvidarte, \u00bfC\u00f3mo?",
-      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+      "duration_ms": 232820,
+      "name": "Aqui Ando En El Caloron - En Vivo",
+      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "No Se Lo Deseo a Nadie",
+        "url": "https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "No Se Lo Deseo a Nadie",
+      "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "Prefiero Estar Contigo (Deluxe)",
         "url": "https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 180631,
       "name": "Cuando Estuvo Entre Mis Brazos",
       "url": "https://open.spotify.com/track/1oLBuorsWpyMcaxhHtu1xI"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "No Se Lo Deseo a Nadie",
-        "url": "https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "No Se Lo Deseo a Nadie",
-      "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1963,22 +1963,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Cambiaste Mis Planes",
-        "url": "https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF"
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
       },
       "artists": [
         {
-          "name": "Banda Fortuna",
-          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Cambiaste Mis Planes",
-      "url": "https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk"
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1999,6 +1995,26 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Cambiaste Mis Planes",
+        "url": "https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Cambiaste Mis Planes",
+      "url": "https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2011,6 +2027,22 @@
       "duration_ms": 212853,
       "name": "No Hay Nada Mas Que Decir",
       "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/4l89Z2kzqjkEXxJclXIEsm"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 143786,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -2035,22 +2067,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Amor Ranchero",
-        "url": "https://open.spotify.com/album/4l89Z2kzqjkEXxJclXIEsm"
-      },
-      "artists": [
-        {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
-        }
-      ],
-      "duration_ms": 143786,
-      "name": "Amor Ranchero",
-      "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "La Contrase\u00f1a De Tu Cuerpo",
         "url": "https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 202026,
       "name": "La Contrase\u00f1a De Tu Cuerpo",
       "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "No Es Cierto Que Nunca Te Quise",
-        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "No Es Cierto Que Nunca Te Quise",
-      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Dentro de Mis Ojos",
-        "url": "https://open.spotify.com/album/5GFcvBoOgJdhcCZT2BJGkL"
-      },
-      "artists": [
-        {
-          "name": "Luis Coronel",
-          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "\u00d3rale",
-      "url": "https://open.spotify.com/track/0HNC7Mpsg8fecxkmIFyZ1S"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Necesito Una Compa\u00f1era",
         "url": "https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 213471,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Dentro de Mis Ojos",
+        "url": "https://open.spotify.com/album/5GFcvBoOgJdhcCZT2BJGkL"
+      },
+      "artists": [
+        {
+          "name": "Luis Coronel",
+          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "\u00d3rale",
+      "url": "https://open.spotify.com/track/0HNC7Mpsg8fecxkmIFyZ1S"
     },
     {
       "added_at": "2023-06-09 06:00:00",

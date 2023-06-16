@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g?si=8a0f7b38ba0e44ef">Semler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,100 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,176 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 87 | [INCOGNITO](https://open.spotify.com/track/5lzs0A2iYdD2Kfe9maocwM) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [INCOGNITO](https://open.spotify.com/album/6luE0PW2WLFk7IMADT7zk3) | 3:07 |
 | 88 | [Quick Draw](https://open.spotify.com/track/6NlDdYSZ1eRBW9bcIBRZhg) | [Wind and Sail](https://open.spotify.com/artist/53i6YRWdFLMgYj0jKrqieW) | [Quick Draw](https://open.spotify.com/album/61vAeRzqgUgCtnhlvQIPoI) | 3:53 |
 | 89 | [New Clothes](https://open.spotify.com/track/1VkPNOETkQz8glU1szIY1g) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [New Clothes](https://open.spotify.com/album/6QqgofnH1WybH5faSdtrMo) | 2:09 |
-| 90 | [Safe & Sound](https://open.spotify.com/track/4XiLHLs5zgt7Sz6soeDKYo) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Civilized Creature](https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [I'm Healing \(Remixes\)](https://open.spotify.com/album/0lOQG6g8cqWGqHSS8fPvFo) | 4:19 |
+| 90 | [Safe & Sound](https://open.spotify.com/track/4XiLHLs5zgt7Sz6soeDKYo) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [I'm Healing \(Remixes\)](https://open.spotify.com/album/0lOQG6g8cqWGqHSS8fPvFo) | 4:19 |
 | 91 | [More Than Ever \- HGHTS Remix](https://open.spotify.com/track/5H6VFaUeqCvxKwa4KVMlf5) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [More Than Ever \(HGHTS Remix\)](https://open.spotify.com/album/6gUP209HzdaIhjoho8ryS1) | 3:17 |
 | 92 | [God Show Your Glory](https://open.spotify.com/track/1V0CBUAfOiwEejwmj4R29F) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [God Show Your Glory](https://open.spotify.com/album/6pEXQD0r9SywxMFtmyQydl) | 1:52 |
 | 93 | [Battle & Blessing](https://open.spotify.com/track/0kzIckgiqCgekvgmw0mF1h) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [The Last Amen](https://open.spotify.com/album/5RnKIbKh9b4My9bnyCpVRs) | 2:53 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Voyage](https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Voyage](https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi) | 3:28 |
 | 98 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
 
-Snapshot ID: `MCwyZjI5OGY5Y2ViOTMwZGZhZDU2MGE2MzM1NzAyYTZiMDYxNzc5NzRh`
+Snapshot ID: `MCxjY2Q1ODU3ZjdmNGE0ZWNkZDdlYzljYmYyZmY1MzgyOGYxYjExYjEy`

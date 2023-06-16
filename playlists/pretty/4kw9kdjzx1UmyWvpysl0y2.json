@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI1OSw4ZjkwNmM1MDIzNTJlNmRhOWNkMGI5MmU0ZGNjZGNhMTYzYjlhZTY5",
+  "snapshot_id": "NDI2MixjMzBkMGQ4YjA4ZWQ5YzMxZjA0YjY0ZTIzZjc4M2I3OWY4MDdlODdm",
   "tracks": [
+    {
+      "added_at": "2023-06-15 18:34:03",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/3VXSmuGlhlCYmhA9mouesP"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "Plsma",
+          "url": "https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "INNER FYRE",
+      "url": "https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg"
+    },
     {
       "added_at": "2023-06-14 19:17:08",
       "album": {
@@ -1111,26 +1131,6 @@
       "duration_ms": 185624,
       "name": "u want me",
       "url": "https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE"
-    },
-    {
-      "added_at": "2023-03-23 17:33:57",
-      "album": {
-        "name": "Gotta Let Go",
-        "url": "https://open.spotify.com/album/0JA4OsVQ4nNNmN4gCzLW09"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Adriano",
-          "url": "https://open.spotify.com/artist/16rL3ixuAl02NLL6uTCt54"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Gotta Let Go",
-      "url": "https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

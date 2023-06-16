@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: YongYong(\uc6a9\uc6a9))",
-  "num_followers": 10184,
+  "num_followers": 10205,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2M3M2ZiYzFmZWFiODgzNDBhZTQxYTYxM2FmODFlOGEyY2MzOTBi",
+  "snapshot_id": "MCw2MWM4YmJiYzBiYWZmNzM0Njk4NGVhMjM2MzgyMzMwYmFkMGQzNzhl",
   "tracks": [
     {
       "added_at": "2023-06-13 08:44:38",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "Kirari Remixes (Asia Edition)",
-        "url": "https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        },
-        {
-          "name": "Daul",
-          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
-        }
-      ],
-      "duration_ms": 245330,
-      "name": "Kirari - Daul Remix",
-      "url": "https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
         "name": "Nabi",
         "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "Kirari Remixes (Asia Edition)",
+        "url": "https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        },
+        {
+          "name": "Daul",
+          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
+        }
+      ],
+      "duration_ms": 245330,
+      "name": "Kirari - Daul Remix",
+      "url": "https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        }
-      ],
-      "duration_ms": 218886,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
         "name": "SOUL LADY",
         "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 241280,
       "name": "pit-a-pet",
       "url": "https://open.spotify.com/track/5Pf0Kp6w1G9xh7ufoKcL5m"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "HEART DODUMI 2 (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV"
-      },
-      "artists": [
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "HEART DODUMI 2 (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
         "name": "~",
         "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 244536,
       "name": "BLEACHING (feat. Crush)",
       "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "HEART DODUMI 2 (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV"
+      },
+      "artists": [
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "HEART DODUMI 2 (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK"
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
       },
       "artists": [
         {
-          "name": "Yoon Jiyoung",
-          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 222926,
-      "name": "In My Garden",
-      "url": "https://open.spotify.com/track/5IKqWeB2TLj8aCwBpE5ila"
+      "duration_ms": 188718,
+      "name": "CLIONE (feat. Sion)",
+      "url": "https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh"
     },
     {
       "added_at": "2023-06-13 08:44:38",

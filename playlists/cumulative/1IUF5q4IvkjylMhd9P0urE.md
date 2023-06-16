@@ -4,11 +4,12 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-340 songs - 19 hr 38 min
+341 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-02-10 | 2023-05-24 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 |  |
 | [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 | 2023-04-13 |  |
 | [0NLY 0NE](https://open.spotify.com/track/7xZO7T6ccGY4okpo0tXlru) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [0NLY 0NE](https://open.spotify.com/album/51EftfDzYkJ7ZoPBsMa8ac) | 3:38 | 2022-12-15 | 2023-02-11 |
 | [100222](https://open.spotify.com/track/411sjSTTaT4ygaqY9Z4ild) | [Pudding Club](https://open.spotify.com/artist/6nJum0gye4urtfo5q7mLNA) | [100222](https://open.spotify.com/album/1DA50TYrkLJMRfTfQrduPt) | 1:43 | 2022-11-08 | 2022-12-20 |

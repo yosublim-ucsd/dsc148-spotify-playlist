@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,282 likes - 125 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,289 likes - 125 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 104 | [Med ögon känsliga för grönt](https://open.spotify.com/track/3CBzqx1pnfeI2L7GlIOny0) | [Nannie Porres](https://open.spotify.com/artist/6IboNBnbFipQmDMFJ30tEk) | [Nära](https://open.spotify.com/album/6HjPtJzVZVuRuXLPHqPOQx) | 4:59 |
 | 105 | [Kärleken](https://open.spotify.com/track/3d7t7THXUO2c7HMx7nccv7) | [Anders Boson Jazz Ensemble](https://open.spotify.com/artist/41da8g6o6JZKF3sX5OOYaL) | [Kärleken](https://open.spotify.com/album/6m3ZxyDoaTm1gUh7YOB2jV) | 5:57 |
 | 106 | [Over the Rainbow](https://open.spotify.com/track/4otJKSqjYaYtZdwZIDPO81) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX) | [Over the Rainbow](https://open.spotify.com/album/6VE6aYlCFQhHudofXEdMmA) | 3:42 |
-| 107 | [Till Mamma \(Med Sång Av Sarah Riedel\)](https://open.spotify.com/track/0vuolNRFw6EOqQmwgD9h4U) | [Stefan Holmlund](https://open.spotify.com/artist/1KGXHIiYXcJIH5cWNPIn1v), [Sarah Riedel](https://open.spotify.com/artist/0VHm5qSCKUVjCFHYlTfHlF) | [Till Mamma](https://open.spotify.com/album/6vIHwm52cuEIA4XWKGTgvo) | 3:11 |
+| 107 | [Till Mamma \- Med Sång Av Sarah Riedel](https://open.spotify.com/track/14Bhr8uarMfztKas5V6yYX) | [Stefan Holmlund](https://open.spotify.com/artist/1KGXHIiYXcJIH5cWNPIn1v), [Sarah Riedel](https://open.spotify.com/artist/0VHm5qSCKUVjCFHYlTfHlF) | [Till Mamma \(Med Sång Av Sarah Riedel\)](https://open.spotify.com/album/36qCcEhDQqfQgn3oIuJmTH) | 3:11 |
 | 108 | [Very Early](https://open.spotify.com/track/4pOmvbidGuENodcbTTeP4I) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm) | [Live – with Palle Danielsson and Fredrik Rundqvist](https://open.spotify.com/album/5nhoTZQMlUWqDGPEhpwt70) | 9:00 |
 | 109 | [Rolls for Rolling](https://open.spotify.com/track/1MTvLbLz0aTRVImpEsl0dT) | [Daniel Karlsson Trio](https://open.spotify.com/artist/050olItM6cAiBVEMYC6LQf) | [At the Feel Free Falafel](https://open.spotify.com/album/3LR1mpv7UdkP8sfUA0JU4v) | 5:44 |
 | 110 | [La La La La](https://open.spotify.com/track/6JdEe9rpK06pzsWzwiyd7W) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg), [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Lars Skoglund](https://open.spotify.com/artist/7qn4gClb24W6l4oG2sAPm1), [Calle Bagge](https://open.spotify.com/artist/1LU9KWP28USoKTyd0DCvKr), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [La La Lars](https://open.spotify.com/album/5L1jwQzcmmYTZ9kcvO02SF) | 3:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 124 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 125 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCw0OWVlM2Q4OTdkZmE3YWVkNjAzMTkxMDZhZDEzZmNjNDU1NGUyMzkz`
+Snapshot ID: `MCw0ZjM1MzRlMzIyMzk0MjlkNWRkMDAwZmRhMDIxYTA0M2MwNDc4NmRk`

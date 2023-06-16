@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Vessbroz",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Oliver Heldens",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 112258,
       "name": "5th Symphony phonk",
       "url": "https://open.spotify.com/track/7Ie4OaaUqbUTWh4EHz9hQQ"
@@ -501,6 +501,32 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0iC1V2B07Zh0kYcfMt4kOL"
+      },
+      "artists": [
+        {
+          "name": "ULTRAW",
+          "url": "https://open.spotify.com/artist/24KIol0xLAFtXfOYcua2FB"
+        },
+        {
+          "name": "D-Steal",
+          "url": "https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3PkLAvSv3nznZe8ElHr6I8"
+    },
+    {
+      "album": {
         "name": "Al Perreo",
         "url": "https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt"
       },
@@ -516,6 +542,28 @@
       "duration_ms": 151904,
       "name": "Al Perreo - Mixed",
       "url": "https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt"
+    },
+    {
+      "album": {
+        "name": "ALARMA!",
+        "url": "https://open.spotify.com/album/1Bn6cmrDtGRN2Tq6hhnkvF"
+      },
+      "artists": [
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "ALARMA!",
+      "url": "https://open.spotify.com/track/1ZlSYhbijS0P7FpBJqaZRg"
     },
     {
       "album": {
@@ -2200,7 +2248,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 158222,
       "name": "Caf\u00e9 Del Mar",
       "url": "https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX"
@@ -2519,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Cha Cha Cha Della Segretaria",
+        "url": "https://open.spotify.com/album/5mEicP6FuwHHfaIVYsbG2t"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "Cha Cha Cha Della Segretaria",
+      "url": "https://open.spotify.com/track/7o0Jc9nGQgsnmPiISHiKhU"
+    },
+    {
+      "album": {
         "name": "Deep Meditation 1",
         "url": "https://open.spotify.com/album/1Rzpu7hEweAi1rXn5TC3Ws"
       },
@@ -2740,7 +2806,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 140952,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0HIPQfEKpjURE7zH0hpnTY"
@@ -2806,7 +2872,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 157173,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
@@ -3086,6 +3152,24 @@
       "duration_ms": 135865,
       "name": "Crypto",
       "url": "https://open.spotify.com/track/5FiVO5lwVNHS344sMB4OsJ"
+    },
+    {
+      "album": {
+        "name": "Daddy's Back",
+        "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Daddy's Back",
+      "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
     },
     {
       "album": {
@@ -3490,6 +3574,24 @@
       "duration_ms": 138661,
       "name": "Devil",
       "url": "https://open.spotify.com/track/0ZrJ5soMgpRi6YcU9U1iCK"
+    },
+    {
+      "album": {
+        "name": "DIAMONDS (HOLY PHONK)",
+        "url": "https://open.spotify.com/album/17Lck2oetoz0iCWRITODI9"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135278,
+      "name": "DIAMONDS (HOLY PHONK)",
+      "url": "https://open.spotify.com/track/1uwRAOoiPoasn5Mui1W7Nx"
     },
     {
       "album": {
@@ -5312,7 +5414,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 180827,
       "name": "Flush It (feat. STRIO) [Club Mix]",
       "url": "https://open.spotify.com/track/0obNtI60tvfDD5dL5TFRS3"
@@ -5928,7 +6030,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 140190,
       "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
       "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
@@ -6214,6 +6316,24 @@
       "duration_ms": 175406,
       "name": "Heartbreak (D\u00d8BER Remix)",
       "url": "https://open.spotify.com/track/2wHbvqU3msYhGePL9daQNu"
+    },
+    {
+      "album": {
+        "name": "Heat It Up Again",
+        "url": "https://open.spotify.com/album/1Eap6gJSRg1HEvDgHkPJli"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138984,
+      "name": "Heat It Up Again",
+      "url": "https://open.spotify.com/track/27hkSGOLI2mJHs1GGjNV28"
     },
     {
       "album": {
@@ -7213,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/3AvXorP23SWjcLinU9FXVo"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/0gvdAVOxijkZgHV8Y2TjzF"
+    },
+    {
+      "album": {
         "name": "I Remember",
         "url": "https://open.spotify.com/album/0xVS8f3EFMcmNo9uCF55dO"
       },
@@ -7427,6 +7565,32 @@
     },
     {
       "album": {
+        "name": "If This Isn't Love",
+        "url": "https://open.spotify.com/album/6N521iWkLt0nfmSAHP2arf"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "If This Isn't Love",
+      "url": "https://open.spotify.com/track/0AnkaoMhAyTLzQ7abrje15"
+    },
+    {
+      "album": {
         "name": "Ill Behavior",
         "url": "https://open.spotify.com/album/3KlaD2BwnsqyEBZfa7pd8m"
       },
@@ -7438,7 +7602,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 156428,
       "name": "Ill Behavior",
       "url": "https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y"
@@ -8412,7 +8576,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 142080,
       "name": "L.S.D",
       "url": "https://open.spotify.com/track/14uVQ9HVZl2cmFKqsv4v7N"
@@ -8891,6 +9055,24 @@
     },
     {
       "album": {
+        "name": "Life\u2019s A Bitch",
+        "url": "https://open.spotify.com/album/5PWXAxN3eiv0WTh1OJHJRP"
+      },
+      "artists": [
+        {
+          "name": "SUB-X",
+          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Life\u2019s A Bitch",
+      "url": "https://open.spotify.com/track/0xIr3jg76a7aQUaTyonlMr"
+    },
+    {
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/51P7ozOTPYFr4W8exIisHE"
       },
@@ -8946,6 +9128,28 @@
       "duration_ms": 154000,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/6fYq0RvfkmvqJDeVVzZLqo"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6Eufb8QzCMrBaiBfzKToKr"
+      },
+      "artists": [
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        },
+        {
+          "name": "YO-TKHS",
+          "url": "https://open.spotify.com/artist/4k44uZLHVsaJIrFYVxRhZy"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4i4b4qJZbv4XBcI1vzs7Mj"
     },
     {
       "album": {
@@ -9088,7 +9292,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 163671,
       "name": "Live Is Life",
       "url": "https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi"
@@ -9488,6 +9692,32 @@
       "duration_ms": 195238,
       "name": "Love For Love (Illyus & Barrientos Remix)",
       "url": "https://open.spotify.com/track/0IhYZKeVNAxWJzxs0pAGrg"
+    },
+    {
+      "album": {
+        "name": "Love For Love (Klubbheads Remix)",
+        "url": "https://open.spotify.com/album/0ybHbXflJjT2Nad7zxJ011"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        },
+        {
+          "name": "Klubbheads",
+          "url": "https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Love For Love (Klubbheads Remix)",
+      "url": "https://open.spotify.com/track/2GlTxE6juDqTe4AaVeo5p0"
     },
     {
       "album": {
@@ -10058,7 +10288,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 188016,
       "name": "MAIA",
       "url": "https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ"
@@ -12175,6 +12405,24 @@
     },
     {
       "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1KCHakwZNrc0nRf4wMqJrc"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "On A Roll",
+      "url": "https://open.spotify.com/track/3I3mFTXSkm1epZjxMux2R9"
+    },
+    {
+      "album": {
         "name": "Bass Funk EP",
         "url": "https://open.spotify.com/album/4y5DTKTSyNysc4QuthoC2c"
       },
@@ -12212,7 +12460,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 169218,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg"
@@ -12502,7 +12750,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 169000,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/1vfuTsXHo4IjThgs4CtOwa"
@@ -13560,7 +13808,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 161250,
       "name": "Ravers & Parties",
       "url": "https://open.spotify.com/track/6xl0GYsdMjT07BibzDmbSV"
@@ -13979,6 +14227,28 @@
     },
     {
       "album": {
+        "name": "Rules Of Love",
+        "url": "https://open.spotify.com/album/3qEjZx7j0AXDVZC7Ce2cgm"
+      },
+      "artists": [
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "Rockefeller",
+          "url": "https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Rules Of Love",
+      "url": "https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/5dBqstmpc8iFubg3KjEF2J"
       },
@@ -14372,6 +14642,24 @@
       "duration_ms": 205440,
       "name": "Sentir Saudade (feat. Bia Caboz)",
       "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
+    },
+    {
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170324,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF"
     },
     {
       "album": {
@@ -14775,6 +15063,28 @@
     },
     {
       "album": {
+        "name": "Smack That",
+        "url": "https://open.spotify.com/album/7JjwvCm8V9tk8WQQs76uzs"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "ROOSTERJAXX",
+          "url": "https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2t3BPeHvHRz6T0EEFfkJ9l"
+    },
+    {
+      "album": {
         "name": "Snakes 2022",
         "url": "https://open.spotify.com/album/02R4W0mbgjy7dgAkqJAmEQ"
       },
@@ -15024,6 +15334,28 @@
       "duration_ms": 140992,
       "name": "Soul Power",
       "url": "https://open.spotify.com/track/2kCTL8MvQirdDltXqzBuv5"
+    },
+    {
+      "album": {
+        "name": "Sound Of A Beating Heart",
+        "url": "https://open.spotify.com/album/2JauSYvYedz16WSBMR1saG"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sem Thomasson",
+          "url": "https://open.spotify.com/artist/33IPzv8gRj1LFh0NGkFMBQ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "Sound Of A Beating Heart",
+      "url": "https://open.spotify.com/track/2GsoARwbEWTb4MQKlKmgAY"
     },
     {
       "album": {
@@ -15596,6 +15928,36 @@
       "duration_ms": 187160,
       "name": "Sweet Chili Hot (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/6K90MKpkKkdihnzCsybotA"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Kaleena Zanders) [Lizzy Wang Remix]",
+        "url": "https://open.spotify.com/album/2MBHCUStbUTCewJk4xJeM7"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "Dropgun",
+          "url": "https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh"
+        },
+        {
+          "name": "Lizzy Wang",
+          "url": "https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139695,
+      "name": "Sweet Dreams (feat. Kaleena Zanders) [Lizzy Wang Remix]",
+      "url": "https://open.spotify.com/track/5hXNjRvqHo9nvudw593yJa"
     },
     {
       "album": {
@@ -16386,7 +16748,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 191340,
       "name": "The Rhythm Of The Night",
       "url": "https://open.spotify.com/track/4uSYnEpAWsSEmN23TlXSH2"

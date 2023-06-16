@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,303 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,610 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Nuevos Comienzos \(En Vivo\)](https://open.spotify.com/track/41X75E1g4l1ZGlzjpRf7P4) | [Hansel Martínez](https://open.spotify.com/artist/1laLv8xAy7459TVKfmJKen), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Nuevos Comienzos \(En Vivo\)](https://open.spotify.com/album/2p4Sj9xRKLvUhWz0bHdtqb) | 2:37 |
 | 75 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 |
 
-Snapshot ID: `MCwwZDkwZDAxYmUyYmI1NzE3NmJiOGY2ZGZmNzI5YzIyODMzNzI2NDEw`
+Snapshot ID: `MCwzNzBiYzhmMTRmODliN2RlNGYxZDk0ODI5ZmU4M2YwNjQ4M2EzYTFk`

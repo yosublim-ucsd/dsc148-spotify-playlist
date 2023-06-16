@@ -2278,10 +2278,32 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 468466,
       "name": "Nights Over Egypt - Masters At Work Main Mix",
       "url": "https://open.spotify.com/track/12zzhQCnWxYoLdWUFgchG2"
+    },
+    {
+      "album": {
+        "name": "Nights Over Egypt (Masters At Work Remixes)",
+        "url": "https://open.spotify.com/album/7mYEheHCeZX1F43xm8go5H"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471998,
+      "name": "Nights Over Egypt - Maw Mix",
+      "url": "https://open.spotify.com/track/6M2tryCDxjxjUg2QNEJWL2"
     },
     {
       "album": {

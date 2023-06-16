@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-758 songs - 1 day 17 hr 16 min
+760 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/4WAVgrrw6O5sNu4iTVU487) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 | 2022-04-29 | 2022-06-04 |
 | [Hold Me Down \(with Stirling\)](https://open.spotify.com/track/6UwHaOX022GC2JrXgzYsSH) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Stirling](https://open.spotify.com/artist/3BJxpRUNoRVY28xuTgwXtA) | [Muted Blue](https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs) | 3:18 | 2023-04-28 |  |
 | [Hold On](https://open.spotify.com/track/2LV8jZnk49W7fKF5Q2gZTF) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO) | [Hold On](https://open.spotify.com/album/3XcugVPtbESr3O3ApSXZ63) | 3:49 | 2022-08-05 | 2022-09-07 |
+| [Hold On To You](https://open.spotify.com/track/6rv67tmDmzA2Ng9D80XP6g) | [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Hold On To You](https://open.spotify.com/album/5rw1HrHalrYynq2jORI6Hc) | 4:28 | 2023-06-15 |  |
 | [Holdin' My Own \- Anki Remix](https://open.spotify.com/track/0WQ6qsZk8VaKjK2babb8PI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 | 2022-11-24 |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-22 | 2022-09-15 |
 | [Holiday \(feat\. Ponette\)](https://open.spotify.com/track/7yBp97KVQqvzsHMTPpL8tz) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN) | [Holiday](https://open.spotify.com/album/7okjJhBfyej0TyzxbZRqXg) | 3:48 | 2022-08-19 | 2022-10-08 |
@@ -520,6 +521,7 @@
 | [Perseus](https://open.spotify.com/track/3dS4nCiyJMx8miVcnmXv6A) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Vinsmoker](https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u) | [Perseus](https://open.spotify.com/album/4qjZotHAONV7lhvYsaSXGm) | 2:05 | 2023-01-13 | 2023-01-28 |
 | [Pharaoh](https://open.spotify.com/track/5diYHmzYz39n8d6b1z06A6) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU) | [Pharaoh](https://open.spotify.com/album/1GBh4jjqyzmaUmpS452TWG) | 2:19 | 2022-08-05 | 2022-11-24 |
 | [Phoenix](https://open.spotify.com/track/0G4cDuyOy5GgjMajE6bKud) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Phoenix](https://open.spotify.com/album/09bJhXcfcsu0d8ASWEuYGW) | 3:04 | 2023-04-18 |  |
+| [Phonk Nation](https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Phonk Nation](https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg) | 2:43 | 2023-06-15 |  |
 | [Phonky Halloween](https://open.spotify.com/track/5i1FsUcq7pATeyHJiU1yTZ) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Phonky Halloween](https://open.spotify.com/album/71e4Jhf7DBdO6FLcQzCwrA) | 2:16 | 2022-10-28 | 2022-11-24 |
 | [Pieces](https://open.spotify.com/track/1rjh0sy4w8xmWopEhG1h0P) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Pieces](https://open.spotify.com/album/3erPBryAjGLFaPoSX94WXL) | 3:45 | 2022-01-14 | 2022-09-15 |
 | [Piranha](https://open.spotify.com/track/2cVJq55ISQ7LNkWibZzRSY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Pluuto](https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg) | [Piranha](https://open.spotify.com/album/7LOowmGvjVKUxJAcbUDX6N) | 3:07 | 2022-02-11 | 2022-03-19 |

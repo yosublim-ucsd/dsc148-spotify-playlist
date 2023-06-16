@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218737,
+      "name": "I Need Somebody",
+      "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
+    },
+    {
+      "album": {
         "name": "I need you. Period.",
         "url": "https://open.spotify.com/album/5G1OAVXCe8zYd3Ola0Sfdj"
       },
@@ -8046,7 +8064,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 199360,
       "name": "Whale",
       "url": "https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz"

@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 255483,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/0KftI0uc1qEk2ZCbxdH1dI"
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/4rnlhKwN5mPlUanqfmAfag"
+      },
+      "artists": [
+        {
+          "name": "Rex Miller",
+          "url": "https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125469,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/2BOzWf1U7qAcmwbaIrF3C5"
+    },
+    {
+      "album": {
         "name": "Clown",
         "url": "https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo"
       },
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 178124,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/6cyZyGwH2dzEeq53YJykwh"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 167202,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4CvzxUEgqlN2aHUQHDRnls"
@@ -3872,6 +3890,24 @@
       "duration_ms": 190408,
       "name": "If I Never Knew You",
       "url": "https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns"
+    },
+    {
+      "album": {
+        "name": "If I Were a Boy",
+        "url": "https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP"
+      },
+      "artists": [
+        {
+          "name": "Harris Barron",
+          "url": "https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173211,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo"
     },
     {
       "album": {
@@ -6928,7 +6964,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 250000,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/5i0jjw58HjdIfIsOpgF68e"
@@ -7612,7 +7648,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 160234,
       "name": "Top Gun Anthem",
       "url": "https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21"

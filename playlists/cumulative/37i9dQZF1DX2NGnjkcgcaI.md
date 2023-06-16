@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-59 songs - 7 hr 10 min
+60 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 | 2022-12-21 |  |
 | [Rigning í Stekknum](https://open.spotify.com/track/6myA4cDbrMU8cMWMImI17d) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Indigo](https://open.spotify.com/album/5aoZ1AnFzdRWtXdxbOuTEO) | 5:39 | 2022-11-30 | 2023-03-04 |
 | [Rigning í Stekknum](https://open.spotify.com/track/1C1CSisah9IJo0obvufaE1) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Indigo](https://open.spotify.com/album/5HLCzTsPWauRycJLTEGnfb) | 5:39 | 2023-02-14 |  |
+| [Salvia](https://open.spotify.com/track/3oxu3Z9MAKJM9dNTLWue5b) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Salvia](https://open.spotify.com/album/6aDEJH5AFyVcsnsdPf6ATr) | 5:23 | 2023-06-15 |  |
 | [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 | 2022-12-21 |  |
 | [Sea Breeze](https://open.spotify.com/track/6clubz4tZ3Hk4rwcyyPwsr) | [Davor Tosovic](https://open.spotify.com/artist/2sEyw8K0FUXGhspCR3HUDQ) | [Hedera](https://open.spotify.com/album/6ygozeVsxMqfuhaqohXpb3) | 5:28 | 2022-11-30 |  |
 | [Spring In Winter](https://open.spotify.com/track/4pUnXQnoiN48hTjywdB8oK) | [Zeu5](https://open.spotify.com/artist/4bFZ9Ryc3Kgk4n77N0nxce) | [Spring In Winter](https://open.spotify.com/album/7jBGprcbocv0sFqEpokz2K) | 9:03 | 2022-11-30 |  |

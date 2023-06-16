@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 169717,
       "name": "Ave Nocturne",
       "url": "https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 149612,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/4v1fFOBm1wFFwHPgDjn8pS"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 60330,
       "name": "First Lullaby",
       "url": "https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 98000,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/1ARtrIphQA80XDVp4rZpyv"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 137701,
       "name": "Lego Lego",
       "url": "https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 162191,
       "name": "My Puppy Loves Me",
       "url": "https://open.spotify.com/track/1HQFb9m1APRmWfqtlEtNm6"
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 161250,
       "name": "Skogen Sover",
       "url": "https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci"
@@ -3208,6 +3208,24 @@
       "duration_ms": 131694,
       "name": "Sleep Hymn",
       "url": "https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or"
+    },
+    {
+      "album": {
+        "name": "Sleep tight my love",
+        "url": "https://open.spotify.com/album/56bdIslv6OwTFEtEngkfMi"
+      },
+      "artists": [
+        {
+          "name": "Roger Citrus",
+          "url": "https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87590,
+      "name": "Sleep tight my love",
+      "url": "https://open.spotify.com/track/4MSOUIQmO0vTnLDBOtd9XH"
     },
     {
       "album": {
@@ -3424,6 +3442,24 @@
       "duration_ms": 117250,
       "name": "Star Light, Star Bright",
       "url": "https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh"
+    },
+    {
+      "album": {
+        "name": "Peanut and Jelly",
+        "url": "https://open.spotify.com/album/5gYuIkBcnYNCxhsZ9lOxOW"
+      },
+      "artists": [
+        {
+          "name": "Lukas Hofmann",
+          "url": "https://open.spotify.com/artist/0ibIUDNTpWg6FSpO0fPNKz"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140611,
+      "name": "stars aligned",
+      "url": "https://open.spotify.com/track/1jk91TedSXVsA0bgtrASPz"
     },
     {
       "album": {
@@ -3658,6 +3694,24 @@
       "duration_ms": 180436,
       "name": "The Priest's Little Crow",
       "url": "https://open.spotify.com/track/6YWfwQi9Hh8LDi8zAurFdk"
+    },
+    {
+      "album": {
+        "name": "The Stars in Your Eyes",
+        "url": "https://open.spotify.com/album/6q4OheMWHx4s2GOv9DLXNG"
+      },
+      "artists": [
+        {
+          "name": "Christopher Reiss",
+          "url": "https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159925,
+      "name": "The Stars in Your Eyes",
+      "url": "https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk"
     },
     {
       "album": {
@@ -4104,7 +4158,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 87589,
       "name": "What Dreams Mean",
       "url": "https://open.spotify.com/track/0skwKXU5D4nF6LFItCTViY"

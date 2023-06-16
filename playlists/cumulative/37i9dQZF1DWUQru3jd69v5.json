@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Yunes Lagrintaa in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Mikush e Niky Savage in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "ARGENTO",
+        "url": "https://open.spotify.com/album/5KolWi9xPUgCIDtjSGSy8k"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165494,
+      "name": "ARGENTO",
+      "url": "https://open.spotify.com/track/3RMFNwc7Bi5CYnGrIAsxB0"
+    },
+    {
+      "album": {
         "name": "Aspettative (feat. Medy)",
         "url": "https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi"
       },
@@ -898,7 +920,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 154000,
       "name": "Aspettative (feat. Medy)",
       "url": "https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV"
@@ -2075,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Cantine 2",
+        "url": "https://open.spotify.com/album/4YA3oPyTUMiPfDmPNAw9Gp"
+      },
+      "artists": [
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "Cantine 2",
+      "url": "https://open.spotify.com/track/26LgY4AMP5YK4u2DOGRuhT"
+    },
+    {
+      "album": {
         "name": "CAPISCI CHE INTENDO 2 (grazie)",
         "url": "https://open.spotify.com/album/7rI847umtfTyKcyt7q2pHc"
       },
@@ -2156,7 +2196,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 123333,
       "name": "Captato",
       "url": "https://open.spotify.com/track/4kSEO7zOY10fak3s1KF04k"
@@ -3867,6 +3907,32 @@
     },
     {
       "album": {
+        "name": "LOVE HURTS",
+        "url": "https://open.spotify.com/album/3wk0jHdkC3hOtWTkq3OOjK"
+      },
+      "artists": [
+        {
+          "name": "LA PLATA",
+          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
+        },
+        {
+          "name": "R\u00c4D",
+          "url": "https://open.spotify.com/artist/5AYlHjA1obBZMUoCM3XWWN"
+        },
+        {
+          "name": "CallmeShelby",
+          "url": "https://open.spotify.com/artist/0j4scQHJ5xgv2fhDpDcy73"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148437,
+      "name": "ESTATE ZANZA 2",
+      "url": "https://open.spotify.com/track/7dvLNACabhQAm3gWa8qwow"
+    },
+    {
+      "album": {
         "name": "Estorsione",
         "url": "https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa"
       },
@@ -4270,6 +4336,28 @@
       "duration_ms": 150000,
       "name": "Forget About It",
       "url": "https://open.spotify.com/track/65N24i1XlJavtiNqzuO6xt"
+    },
+    {
+      "album": {
+        "name": "Principe",
+        "url": "https://open.spotify.com/album/6HS943ul32GHHQjj5rC4Uq"
+      },
+      "artists": [
+        {
+          "name": "DAYTONA KK",
+          "url": "https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw"
+        },
+        {
+          "name": "Beak On The Night",
+          "url": "https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Fottere la K",
+      "url": "https://open.spotify.com/track/4Ilbu463uXsh1UzwUxCreO"
     },
     {
       "album": {
@@ -5524,7 +5612,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 155769,
       "name": "Imo & Ino",
       "url": "https://open.spotify.com/track/06GYyg8rI65wt2Cwiu3iiF"
@@ -6715,6 +6803,24 @@
     },
     {
       "album": {
+        "name": "Mademoiselle (Oh la la la)",
+        "url": "https://open.spotify.com/album/0IboeWqpQI5MjZV5V8qQRi"
+      },
+      "artists": [
+        {
+          "name": "WadeLeVrai",
+          "url": "https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "Mademoiselle (Oh la la la)",
+      "url": "https://open.spotify.com/track/5HOr82mREsf5YRLlYy8bXr"
+    },
+    {
+      "album": {
         "name": "Malaga",
         "url": "https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul"
       },
@@ -7062,6 +7168,28 @@
       "duration_ms": 146307,
       "name": "MASHALLAH",
       "url": "https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF"
+    },
+    {
+      "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Massafghanistan",
+      "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
     },
     {
       "album": {
@@ -7798,7 +7926,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 144657,
       "name": "MxxxVE IT",
       "url": "https://open.spotify.com/track/2EDNuQ1AVzKuXNrRmrgyUj"
@@ -7838,7 +7966,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 168774,
       "name": "NAMELESS",
       "url": "https://open.spotify.com/track/3jvuXETmkMuHFJ13dfJArw"
@@ -8253,6 +8381,64 @@
     },
     {
       "album": {
+        "name": "4 The Island",
+        "url": "https://open.spotify.com/album/74P6rmPp2GlxAgD4qAMeb6"
+      },
+      "artists": [
+        {
+          "name": "NUOVA SARDEGNA",
+          "url": "https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG"
+        },
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        },
+        {
+          "name": "Rico Pmf",
+          "url": "https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        },
+        {
+          "name": "Cage.488",
+          "url": "https://open.spotify.com/artist/40YEqYNJznSOojw3fxBvgN"
+        },
+        {
+          "name": "Razer.Rah",
+          "url": "https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb"
+        },
+        {
+          "name": "Enomoney",
+          "url": "https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        },
+        {
+          "name": "Prisoner",
+          "url": "https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174761,
+      "name": "Nuova Sardegna (feat. Luchetto, PRACI, Rico.Pmf, Low-Red, Sgribaz, Cage.488, Razer.Rah, Enomoney, ilovethisbeat & Prisoner)",
+      "url": "https://open.spotify.com/track/22YTwSjR29cyGXKWGNOIja"
+    },
+    {
+      "album": {
         "name": "Nuovo Borsello",
         "url": "https://open.spotify.com/album/6KY4MGYRAT0gkhJ4PlddAQ"
       },
@@ -8514,7 +8700,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 126573,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/6IQoJUnGjHF0LOZ81cJjhl"
@@ -9190,7 +9376,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 145247,
       "name": "Pretty Girls Love Sardinia (feat. Razer.Rah, Sgribaz, Low-Red, Rico Pmf, Enomoney & ilovethisbeat)",
       "url": "https://open.spotify.com/track/3W22nVl8gT3JD9IPVw3uOP"
@@ -9486,7 +9672,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 106326,
       "name": "Quarto di Bue",
       "url": "https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ"
@@ -10820,7 +11006,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 214914,
       "name": "SOLIPS\u00ccA (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
@@ -11072,7 +11258,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 170657,
       "name": "Stessi Posti",
       "url": "https://open.spotify.com/track/2cgnxJTioTZQDy6L0dL8so"
@@ -11302,7 +11488,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 128598,
       "name": "SUV NERO",
       "url": "https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H"
@@ -11508,6 +11694,24 @@
       "duration_ms": 150707,
       "name": "The Man (Come 50) (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/7LgGQyEXv1vXS6gxgfbe14"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/3JN5Q4TNhG2lZCExpOWjUu"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159512,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/2hgEpXDvLCtcTUmF00Mxjw"
     },
     {
       "album": {
@@ -12129,6 +12333,28 @@
     },
     {
       "album": {
+        "name": "Vegeta (feat. N\u00e9za)",
+        "url": "https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148711,
+      "name": "Vegeta (feat. N\u00e9za)",
+      "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
+    },
+    {
+      "album": {
         "name": "Vetri fum\u00e9 (feat. Side baby)",
         "url": "https://open.spotify.com/album/3icKdrxTd9KULlZhJKIPRk"
       },
@@ -12166,6 +12392,32 @@
       "duration_ms": 159318,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX"
+    },
+    {
+      "album": {
+        "name": "Victoria's Secret (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Victoria's Secret (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
     },
     {
       "album": {
@@ -12466,6 +12718,28 @@
       "duration_ms": 165500,
       "name": "White boy",
       "url": "https://open.spotify.com/track/1OUD1z9UQNfhmtdwXE9gPi"
+    },
+    {
+      "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/0Y5Zm1jQxk5uzIIJemDPD4"
+      },
+      "artists": [
+        {
+          "name": "Spinas",
+          "url": "https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m"
+        },
+        {
+          "name": "Voga",
+          "url": "https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/3CxHQO2JR1JgTrMSQEF154"
     },
     {
       "album": {

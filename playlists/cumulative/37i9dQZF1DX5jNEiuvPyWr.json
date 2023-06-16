@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Lazer MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Many Santana",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 169250,
       "name": "1jour",
       "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
+    },
+    {
+      "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB"
+      },
+      "artists": [
+        {
+          "name": "Many Santana",
+          "url": "https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153511,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA"
     },
     {
       "album": {
@@ -246,6 +264,28 @@
       "duration_ms": 238652,
       "name": "Alita (feat. Rounhaa)",
       "url": "https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/54Ue1QVNSPkrH8Udoh3QTf"
+      },
+      "artists": [
+        {
+          "name": "Bakari",
+          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
+        },
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "All\u00f4 maman (feat. Mademoiselle Lou)",
+      "url": "https://open.spotify.com/track/0JumUo8ZtYduLrYDQnndx1"
     },
     {
       "album": {
@@ -1893,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4zpYg3FdMlf1SHMhHluEKt"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Intermission",
+      "url": "https://open.spotify.com/track/3jb2r0BwMc52cmZS0prJYl"
+    },
+    {
+      "album": {
         "name": "Stratos",
         "url": "https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL"
       },
@@ -1984,7 +2042,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 176051,
       "name": "J'oublie",
       "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
@@ -2099,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "L'\u00e9toile qui brille le plus",
+        "url": "https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY"
+      },
+      "artists": [
+        {
+          "name": "Noham",
+          "url": "https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134589,
+      "name": "L'\u00e9toile qui brille le plus",
+      "url": "https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3"
+    },
+    {
+      "album": {
         "name": "La Fin",
         "url": "https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef"
       },
@@ -2186,6 +2262,28 @@
       "duration_ms": 222713,
       "name": "Larmes",
       "url": "https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6"
+    },
+    {
+      "album": {
+        "name": "Le jour se l\u00e8ve",
+        "url": "https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd"
+      },
+      "artists": [
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG"
+        },
+        {
+          "name": "Lpee",
+          "url": "https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Le jour se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt"
     },
     {
       "album": {
@@ -2606,7 +2704,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 153391,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g"
@@ -2726,7 +2824,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 185198,
       "name": "Moonrock",
       "url": "https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir"
@@ -2842,7 +2940,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 126037,
       "name": "nou",
       "url": "https://open.spotify.com/track/7tOYFGZkgFJXRXvAq8GK4f"
@@ -3479,6 +3577,28 @@
     },
     {
       "album": {
+        "name": "Black Bumble",
+        "url": "https://open.spotify.com/album/3XI08bstG47gRwx5oq1cUD"
+      },
+      "artists": [
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/2E2fqJpbXphODsOLkdI8U7"
+        },
+        {
+          "name": "Ashh",
+          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Roadie",
+      "url": "https://open.spotify.com/track/1eZ0jGCs878cw3lyHSuhbl"
+    },
+    {
+      "album": {
         "name": "Rod\u00e9o",
         "url": "https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6"
       },
@@ -3928,7 +4048,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 142933,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y"
@@ -4000,7 +4120,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 166956,
       "name": "Tous les jours",
       "url": "https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z"

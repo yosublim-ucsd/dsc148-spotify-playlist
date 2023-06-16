@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,176 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,205 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 73 | [Move \(Remix\) \(with KenTheMan\)](https://open.spotify.com/track/4ZB1XkV5RBj7fGcPfNCRDb) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Move \(Remix\)](https://open.spotify.com/album/2auMLHZt7nKNinSmNHZC7i) | 2:50 |
 | 74 | [BAD BITCH \(Body, Waist, Lips, Face\)](https://open.spotify.com/track/2lTas4vFJPpCVZlyJZJve0) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [BAD BITCH \(Body, Waist, Lips, Face\)](https://open.spotify.com/album/5fyFoq93vWSDTuIi092AUR) | 2:42 |
 
-Snapshot ID: `MCw3MWQ1MjVlZTdjYmJlYTY4YTRhYWZmNGUwOTVjNWE1Nzk2NGM4ODk4`
+Snapshot ID: `MCwwMmQ3NDhkNzQwNGY1ZDgyZDBlOWI1NTNlNzk5MzhjMzdmZDNmNGJj`

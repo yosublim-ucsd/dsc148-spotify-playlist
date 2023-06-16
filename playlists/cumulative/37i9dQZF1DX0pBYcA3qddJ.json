@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 199784,
       "name": "Ieta",
       "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
@@ -5241,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+    },
+    {
+      "album": {
         "name": "THINK WISELY",
         "url": "https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5"
       },
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 164846,
       "name": "So Low",
       "url": "https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B"
@@ -7132,6 +7150,24 @@
       "duration_ms": 69053,
       "name": "Variations on a Polish Folk Theme, Op. 10: Var. 5. Andantino",
       "url": "https://open.spotify.com/track/07f9skCq3UJKxj7szEoC04"
+    },
+    {
+      "album": {
+        "name": "Vega",
+        "url": "https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154182,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G"
     },
     {
       "album": {

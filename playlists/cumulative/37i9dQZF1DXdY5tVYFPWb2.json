@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 236440,
       "name": "Blind Touch",
       "url": "https://open.spotify.com/track/3gZLOJ26mpO1rCLcA40GPv"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 231363,
       "name": "Choice",
       "url": "https://open.spotify.com/track/16av5XEj9HsVrdfbuicXF5"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 230582,
       "name": "Clap Clap",
       "url": "https://open.spotify.com/track/1xBHBwjDF6EOLxs2NJDd7F"
@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Midnight City Lovers",
+        "url": "https://open.spotify.com/album/3q1iKXscaNhyb7jOyU787D"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "Toki Asako",
+          "url": "https://open.spotify.com/artist/7HCxzXGpudb9CKiylh3nan"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "I Want You Closer",
+      "url": "https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q"
+    },
+    {
+      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/2aaROtxEkfr1wj0XoWeSzu"
       },
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 210515,
       "name": "into the wind",
       "url": "https://open.spotify.com/track/0a2WejIJG88gLWQBEPU3FZ"
@@ -3464,7 +3486,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -3562,7 +3584,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -3786,7 +3808,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 180474,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7BJ1ZW2oHkE0UfKFZ2WBsr"
@@ -4748,7 +4770,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
@@ -5672,7 +5694,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 198135,
       "name": "Sputnik",
       "url": "https://open.spotify.com/track/3cH0raQ4UUqY3NvXcD2O7J"
@@ -6704,7 +6726,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
@@ -6842,7 +6864,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 288341,
       "name": "utero",
       "url": "https://open.spotify.com/track/3KbgSgkkK3lPLRwwmbwzSc"
@@ -7718,6 +7740,24 @@
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/5Gx8tV5NxX4DMZPs0NYqgw"
+      },
+      "artists": [
+        {
+          "name": "Iyo Matsumoto",
+          "url": "https://open.spotify.com/artist/2eLUjnfBPufpag8ME0p1Zk"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271440,
+      "name": "\u305d\u308c\u304b\u3089",
+      "url": "https://open.spotify.com/track/36ETMEFmMOY4zugUnoYR6t"
     },
     {
       "album": {
@@ -10136,7 +10176,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 320754,
       "name": "\u7121\u6dfb\u52a0",
       "url": "https://open.spotify.com/track/6XjFPsbkATcM5XQP13WPMv"

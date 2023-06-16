@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 101634,
+  "num_followers": 101645,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDc2NywwZGQyOWJkNTVlZGEwYzNhZWJhN2MwOTQyMGQxY2Q2MDhjMDc0YmE1",
+  "snapshot_id": "NDc5NSwwZTZmODA4NmNlNWY2NGVjMTgwNTUwZjMwYmFjNWJjNTIyYmE2ZTNk",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -23,6 +23,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-06-15 14:14:03",
+      "album": {
+        "name": "The Empire Strikes Back",
+        "url": "https://open.spotify.com/album/6ycQA4ojDK42MXqeQth3Ng"
+      },
+      "artists": [
+        {
+          "name": "Uptown Funk Empire",
+          "url": "https://open.spotify.com/artist/4aeeLWgLNwNVFzWoXg1u4y"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "I'm a Manchild",
+      "url": "https://open.spotify.com/track/0XgsktTBwxU1IdT0psnfy9"
     },
     {
       "added_at": "2023-06-05 21:54:13",
@@ -43,6 +59,22 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "added_at": "2023-06-15 14:10:29",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2023-06-08 16:37:18",
@@ -75,6 +107,22 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-06-16 00:08:38",
+      "album": {
+        "name": "Fragilidad",
+        "url": "https://open.spotify.com/album/3n0TsEGJOUSCMYSKGIujn1"
+      },
+      "artists": [
+        {
+          "name": "Colorful People",
+          "url": "https://open.spotify.com/artist/0UlWWS5cExT1gew9Ngg0xr"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Fragilidad",
+      "url": "https://open.spotify.com/track/1S8pOHATX9XpNpxc6goj56"
     },
     {
       "added_at": "2023-05-20 03:27:04",
@@ -121,24 +169,44 @@
       "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
     },
     {
-      "added_at": "2023-05-25 01:21:03",
+      "added_at": "2023-06-15 14:01:39",
       "album": {
-        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-06-03 14:24:31",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 260962,
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": "2023-05-25 15:16:57",
@@ -191,6 +259,22 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
+    },
+    {
+      "added_at": "2023-06-15 13:59:49",
+      "album": {
+        "name": "happysad",
+        "url": "https://open.spotify.com/album/1qx9fsq94PXyEd0s1ELh8a"
+      },
+      "artists": [
+        {
+          "name": "Bad Lori",
+          "url": "https://open.spotify.com/artist/53hZxmYrf9KgXqiWFzC4jf"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "happysad",
+      "url": "https://open.spotify.com/track/36K1XfRi0sAV8F46ZgLmnA"
     },
     {
       "added_at": "2023-06-01 20:26:07",
@@ -559,26 +643,6 @@
       "duration_ms": 193717,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/3DnMvc5dGvO6Pph4ArKLII"
-    },
-    {
-      "added_at": "2023-06-03 14:24:31",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": "2023-05-29 13:54:41",
@@ -1165,6 +1229,22 @@
       "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
+      "added_at": "2023-06-16 00:08:01",
+      "album": {
+        "name": "Standards, Vol. 1",
+        "url": "https://open.spotify.com/album/2ohO88cy2MDYLhvg9lgcet"
+      },
+      "artists": [
+        {
+          "name": "Chris Greco",
+          "url": "https://open.spotify.com/artist/71IGzwmyuS9Rz2Jn0IB4El"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Goodbye Porkpie Hat",
+      "url": "https://open.spotify.com/track/7cAwSZE0OC9oPNQfkLMslZ"
+    },
+    {
       "added_at": "2022-07-26 20:19:32",
       "album": {
         "name": "Apple Tree Blues",
@@ -1195,6 +1275,122 @@
       "duration_ms": 181666,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2023-06-16 00:10:51",
+      "album": {
+        "name": "Fascination",
+        "url": "https://open.spotify.com/album/2fyyTZsuPjAUDnA8bdyk2r"
+      },
+      "artists": [
+        {
+          "name": "Lakeside X",
+          "url": "https://open.spotify.com/artist/6Djl8XZQPIzkWdHyaJtvEg"
+        }
+      ],
+      "duration_ms": 253781,
+      "name": "Fascination - Single Edit",
+      "url": "https://open.spotify.com/track/6jtRP4TXBW1jNmTFkyuNau"
+    },
+    {
+      "added_at": "2023-06-16 00:10:38",
+      "album": {
+        "name": "Sonic Lullaby",
+        "url": "https://open.spotify.com/album/0iowqfrgrsVkYNHv1zl77F"
+      },
+      "artists": [
+        {
+          "name": "Rory McBride",
+          "url": "https://open.spotify.com/artist/30eSvx4lldGDj66RQ1y73A"
+        }
+      ],
+      "duration_ms": 116158,
+      "name": "Sonic Lullaby",
+      "url": "https://open.spotify.com/track/4d4bPnZVrKcVjmal2mbvnt"
+    },
+    {
+      "added_at": "2023-06-16 00:11:07",
+      "album": {
+        "name": "One Hit Wonders",
+        "url": "https://open.spotify.com/album/72X4yXvnArvCn431NOUT7Z"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        },
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "One Hit Wonders",
+      "url": "https://open.spotify.com/track/20Ijvw3MbXxkGWOh46wATA"
+    },
+    {
+      "added_at": "2023-06-16 00:11:30",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/1Pz4VZJxBxpFkfYMYHNEnI"
+      },
+      "artists": [
+        {
+          "name": "Hatewine",
+          "url": "https://open.spotify.com/artist/6b7ytNpGmrGPdvYnzFrxqB"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3rYzzwf4wzs7rRbubszXoZ"
+    },
+    {
+      "added_at": "2023-06-16 00:09:55",
+      "album": {
+        "name": "WHILE WE WERE MAKING PLANS",
+        "url": "https://open.spotify.com/album/607iu1qDwg5PqwfrtKFimj"
+      },
+      "artists": [
+        {
+          "name": "THE SPLATTER PATTERN",
+          "url": "https://open.spotify.com/artist/0noon3hvMOUsSXclOA8ji0"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "THE SPACE BETWEEN THE SECONDS",
+      "url": "https://open.spotify.com/track/5q9oLsYu0zUTBAozOxrfZi"
+    },
+    {
+      "added_at": "2023-06-16 00:10:25",
+      "album": {
+        "name": "Best in the City",
+        "url": "https://open.spotify.com/album/58s2XMnMheDdEnsPIbWzeq"
+      },
+      "artists": [
+        {
+          "name": "Rob Shore",
+          "url": "https://open.spotify.com/artist/3TaGObiUN9nBmbZeTROYNj"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Best in the City",
+      "url": "https://open.spotify.com/track/5XkNQ08c8TiZ1BGkujuRAs"
+    },
+    {
+      "added_at": "2023-06-16 00:09:39",
+      "album": {
+        "name": "Farther Down the Line",
+        "url": "https://open.spotify.com/album/5qHWY2DOU5bnfu1CJ3i0WW"
+      },
+      "artists": [
+        {
+          "name": "Bryan Hayes",
+          "url": "https://open.spotify.com/artist/4gBWMy2vVn8uPFlv5eiTym"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Let's Ride",
+      "url": "https://open.spotify.com/track/7LoWNvxyVnXYil90YINbT0"
     },
     {
       "added_at": "2022-07-26 20:20:29",
@@ -2003,6 +2199,22 @@
       "duration_ms": 220013,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
+    },
+    {
+      "added_at": "2023-06-15 23:31:29",
+      "album": {
+        "name": "Alfralando",
+        "url": "https://open.spotify.com/album/78YNA2i4g8tHaPHkm0ED15"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hu",
+          "url": "https://open.spotify.com/artist/2dpwfwjjgyBTggaleCvR4D"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Reject Me",
+      "url": "https://open.spotify.com/track/3lNPtMjALEEvQOS0sYf0GU"
     },
     {
       "added_at": "2023-06-09 00:02:48",

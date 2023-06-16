@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 30787,
+  "num_followers": 30896,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc3YzA0MGY1YTUxNjJiMTY4MjI2MGRiODJkODZkN2RmNzAyNzIy",
+  "snapshot_id": "MCxlYmM3NDU1NjZjYTMwNDMyOTc5YjU2MGI5MTMyZGNhYjEyZTdmNzky",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Taught to Be Proud",
-        "url": "https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f"
-      },
-      "artists": [
-        {
-          "name": "Tea Leaf Green",
-          "url": "https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "The Garden (Pt. III)",
-      "url": "https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dubbabuddah",
         "url": "https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 399800,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Taught to Be Proud",
+        "url": "https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f"
+      },
+      "artists": [
+        {
+          "name": "Tea Leaf Green",
+          "url": "https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "The Garden (Pt. III)",
+      "url": "https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live At Red Rocks 8.15.95",
-        "url": "https://open.spotify.com/album/26Xf0FH58wO2VVWk1TyJDN"
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
       "artists": [
         {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
         }
       ],
-      "duration_ms": 809200,
-      "name": "Seek Up - Live at Red Rocks Amphitheatre, Morrison, CO - August 1995",
-      "url": "https://open.spotify.com/track/3zqqDKAUDEQft9FjZooYYY"
+      "duration_ms": 740520,
+      "name": "Gilbert's Groove (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+        "name": "Live At Red Rocks 8.15.95",
+        "url": "https://open.spotify.com/album/26Xf0FH58wO2VVWk1TyJDN"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 740520,
-      "name": "Gilbert's Groove (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+      "duration_ms": 809200,
+      "name": "Seek Up - Live at Red Rocks Amphitheatre, Morrison, CO - August 1995",
+      "url": "https://open.spotify.com/track/3zqqDKAUDEQft9FjZooYYY"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -575,6 +575,26 @@
       "duration_ms": 431333,
       "name": "Stash",
       "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "The Very Best of Jerry Garcia",
+        "url": "https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo"
+      },
+      "artists": [
+        {
+          "name": "The Reconstruction",
+          "url": "https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 699933,
+      "name": "Dear Prudence (1979) - Live",
+      "url": "https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -631,6 +651,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -655,42 +691,6 @@
       "duration_ms": 413929,
       "name": "Fire On The Mountain - Live",
       "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "The Very Best of Jerry Garcia",
-        "url": "https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo"
-      },
-      "artists": [
-        {
-          "name": "The Reconstruction",
-          "url": "https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
-        }
-      ],
-      "duration_ms": 699933,
-      "name": "Dear Prudence (1979) - Live",
-      "url": "https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Communion",
+          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+        }
+      ],
+      "duration_ms": 1020206,
+      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
+      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Live At The Academy Of Music 1971",
         "url": "https://open.spotify.com/album/1qDR31BZNhAH8ExjJuHhAj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 268400,
       "name": "Don't Do It - Live At The Academy Of Music / 1971",
       "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Trouble No More: 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 550240,
-      "name": "Back Where It All Begins",
-      "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
-        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+        "name": "Trouble No More: 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
       },
       "artists": [
         {
-          "name": "Phil Lesh & Communion",
-          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 1020206,
-      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
-      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
+      "duration_ms": 550240,
+      "name": "Back Where It All Begins",
+      "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Burn It Down (Live)",
+        "url": "https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 617858,
+      "name": "Sand - Live",
+      "url": "https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "There and Back Again",
         "url": "https://open.spotify.com/album/5iiVRYSRpc2DIU1efD3prj"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 540893,
       "name": "St Stephen (feat. The Derek Trucks Band) - Live Version",
       "url": "https://open.spotify.com/track/2a4lOXRcvctlj5cis3SD7U"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Burn It Down (Live)",
-        "url": "https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD"
-      },
-      "artists": [
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 617858,
-      "name": "Sand - Live",
-      "url": "https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm"
     },
     {
       "added_at": "2023-04-06 15:04:32",

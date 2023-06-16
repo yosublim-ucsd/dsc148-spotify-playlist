@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-505 songs - 1 day 4 hr 58 min
+506 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [La Cobardía](https://open.spotify.com/track/12zwBme5JdlPYqVIS7TIET) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [La Cobardía](https://open.spotify.com/album/2vjR0JW30aMB35HZIqleFD) | 1:31 | 2022-05-20 | 2022-07-26 |
 | [La Cruz](https://open.spotify.com/track/0Uy4z6kYI0hKXAgUy9snt9) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [La Cruz](https://open.spotify.com/album/7wWmEomsjIL7DfokORAZyH) | 2:56 | 2022-01-21 | 2022-07-21 |
 | [La Duda](https://open.spotify.com/track/47c4iHug4NlbvmkYjvApUW) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Finitud](https://open.spotify.com/album/66wpiTSE6X39bVD768B3IL) | 3:52 | 2022-04-01 | 2022-04-21 |
-| [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-01-21 |  |
+| [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-01-21 | 2023-06-16 |
 | [La Fuerza](https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [La Fuerza](https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W) | 4:10 | 2022-01-14 | 2023-05-28 |
 | [La Fuerza](https://open.spotify.com/track/0qXY8iTm0AHAR52dr0PaLn) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:53 | 2022-01-21 | 2022-07-24 |
 | [La Lluvia de Estrellas](https://open.spotify.com/track/4RlCIhIaKnSjKsmdniPM1b) | [María Fernanda Aldana](https://open.spotify.com/artist/01zNB3m5VtB1vpQllADiLY) | [Resonancia](https://open.spotify.com/album/0BwRaT6ZgLQcJOr9LWpvhF) | 2:49 | 2022-04-01 | 2022-04-17 |
@@ -352,6 +352,7 @@
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |
 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 | 2022-09-23 |  |
+| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 |  |
 | [Pequeño Baile](https://open.spotify.com/track/6YPFG35hSoFBk9t9uG3VLq) | [Gabigar](https://open.spotify.com/artist/7LM1I2nIhWByOdM5S5xoyX), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Pequeño Baile](https://open.spotify.com/album/3TYE1pgiexuhXfsI7hivTH) | 3:44 | 2022-03-04 | 2022-07-28 |
 | [Perdida](https://open.spotify.com/track/3AoXaKygnMBNrGdVDnMPyp) | [Deby Medrez Pier](https://open.spotify.com/artist/6lzh20S1n8rumjOkQtlj57) | [Perdida](https://open.spotify.com/album/3wpSgGOMJA80Z7VUeE1z1L) | 3:23 | 2022-01-14 | 2022-07-26 |
 | [Perdón](https://open.spotify.com/track/3575r4V4H0C2aILHFSMK6Q) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV) | [Perdón](https://open.spotify.com/album/2VFqVFNa3vvu2wrj4yXI1X) | 3:19 | 2022-07-08 | 2022-07-14 |

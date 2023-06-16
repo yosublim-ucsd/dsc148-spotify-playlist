@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring pluko
 
-457 songs - 1 day 1 hr 20 min
+458 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-02 |  |
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-24 |  |
 | [BACK TO YOU](https://open.spotify.com/track/1IfDTqoOrm5kABJcYBaxX7) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [BACK TO YOU](https://open.spotify.com/album/4BLsLiYupqYFCs0L6UkIkb) | 3:18 | 2023-05-12 | 2023-05-20 |
-| [BART SIMPSON](https://open.spotify.com/track/6Lnn80jSi8L5bMSUMcGG2V) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [BART SIMPSON](https://open.spotify.com/album/1Iz7rzKWbyqpYka6vUXnFP) | 3:47 | 2023-05-12 |  |
+| [BART SIMPSON](https://open.spotify.com/track/6Lnn80jSi8L5bMSUMcGG2V) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [BART SIMPSON](https://open.spotify.com/album/1Iz7rzKWbyqpYka6vUXnFP) | 3:47 | 2023-05-12 | 2023-06-16 |
 | [bb u ok?](https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [bb u ok?](https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb) | 3:21 | 2021-08-06 | 2023-02-11 |
 | [Be Fine \(feat\. Wafia\)](https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 2:39 | 2021-08-06 | 2023-02-11 |
 | [Be With You \(ft\. Gloria Kim\)](https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Recursion](https://open.spotify.com/album/2fm1hGoHOQ9agA0yoUKcaQ) | 3:06 | 2021-08-06 | 2023-03-01 |
@@ -117,6 +117,7 @@
 | [Dominate](https://open.spotify.com/track/6zBFQ5dWHEmEx2RDoZ1ZP2) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Dominate](https://open.spotify.com/album/3Ger0zMysHrdm6H15k1n3D) | 3:54 | 2021-08-06 | 2023-02-04 |
 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 | 2023-02-10 |  |
 | [DOWN TO EARTH](https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [DOWN TO EARTH](https://open.spotify.com/album/7b17kpTR2gJGfsuMUicZrh) | 3:27 | 2023-05-05 |  |
+| [Dr\. Phil](https://open.spotify.com/track/2XJZf6npI2jDpM6vUpZ8rL) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [Dr\. Phil](https://open.spotify.com/album/3vmxLKxwiqXaXZc59T9BeP) | 3:23 | 2023-06-09 |  |
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-05-26 |  |
 | [Drink Blood \- caro<3 Remix](https://open.spotify.com/track/62kimSCo9HnX3S5X7RFg13) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [Apple vs\. 7G](https://open.spotify.com/album/5c2YRZ7kAry8fQuoS5LVjW) | 3:20 | 2021-08-06 | 2022-04-21 |
 | [Drugs](https://open.spotify.com/track/1OisORzsNmtki9guAiG4mU) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Drugs](https://open.spotify.com/album/01ycBgYCovBlkq6S6VRsdg) | 3:30 | 2021-08-06 | 2023-02-19 |

@@ -1864,10 +1864,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 303333,
       "name": "\u6681\u306e\u8eca",
       "url": "https://open.spotify.com/track/3IEObXuomguph3jjxrccWB"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303766,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH"
     },
     {
       "album": {

@@ -4989,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Closer to You",
+        "url": "https://open.spotify.com/album/0HKdx5MBFpI7ypQnSBP9kP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Martin",
+          "url": "https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189423,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/2i4UyLk5jZb4Jo1tihSZgt"
+    },
+    {
+      "album": {
         "name": "Coastin'",
         "url": "https://open.spotify.com/album/6Q5Aj7X1f7oYfhfbwJpGPH"
       },
@@ -5350,6 +5368,24 @@
       "duration_ms": 188564,
       "name": "Country Music Feels Like",
       "url": "https://open.spotify.com/track/34aghweq7FOhjOY9zl0ohk"
+    },
+    {
+      "album": {
+        "name": "Country Music Never Broke My Heart",
+        "url": "https://open.spotify.com/album/3xcjNTxxwdXMNj5EEkRQcg"
+      },
+      "artists": [
+        {
+          "name": "On The Outside",
+          "url": "https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178061,
+      "name": "Country Music Never Broke My Heart",
+      "url": "https://open.spotify.com/track/5Y7aR2OsRGjjpK0ZscPtT1"
     },
     {
       "album": {
@@ -9276,6 +9312,24 @@
       "duration_ms": 172987,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7wNNEj0ntJW3QPx0PWwaFJ"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0v6TnQqc8ssNBQpAkUt6dg"
+      },
+      "artists": [
+        {
+          "name": "Logan Samford",
+          "url": "https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210749,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DXAPWkOoRHoAMMxv5C2F9"
     },
     {
       "album": {

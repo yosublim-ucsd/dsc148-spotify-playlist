@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 
 > ¡Y suena y suena..\. MS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,434 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,351 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 | 94 | [Las Calles De Mi Rancho](https://open.spotify.com/track/27rVDDLTVGtxzAH9aSdin4) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 2:08 |
 | 95 | [Que Ganas de Volver](https://open.spotify.com/track/1VeukJ1fVZvpEun3uwWnJu) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:14 |
 
-Snapshot ID: `MCxlODA0ZjZkMzk4MWU5OWZlNGQ4ZWRiNzZhZTQzNzgzNWZkMDA3NDdi`
+Snapshot ID: `MCw2MThlZmIxYTI1YWQ1YmFiNTcyZjlmNmRmYTEwNWNmMjQ1ZjU0ZDUy`

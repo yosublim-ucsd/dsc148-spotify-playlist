@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Bout My Jay",
+        "url": "https://open.spotify.com/album/59TTgpXn73gayXVb2vkri8"
+      },
+      "artists": [
+        {
+          "name": "KN03MAD",
+          "url": "https://open.spotify.com/artist/5R8EqdFcebPIHjm8Yuu3pM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173182,
+      "name": "Bout My Jay",
+      "url": "https://open.spotify.com/track/0RGE2PC9PKitdIa93uQ3s5"
+    },
+    {
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -17331,6 +17349,24 @@
     },
     {
       "album": {
+        "name": "Changing Faces",
+        "url": "https://open.spotify.com/album/3VKWg4VuQ9mlYGknc1wVwV"
+      },
+      "artists": [
+        {
+          "name": "KUILL",
+          "url": "https://open.spotify.com/artist/2o4gS9VpXUWAqYBIDDSw3r"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217114,
+      "name": "Party on Pluto",
+      "url": "https://open.spotify.com/track/14XXdIGdiDRhgnvp6laOhV"
+    },
+    {
+      "album": {
         "name": "Par\u00eds Nor\u00f0ursins",
         "url": "https://open.spotify.com/album/19RoSSgHX1xnTQ94Kc8PgQ"
       },
@@ -20476,6 +20512,28 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "album": {
+        "name": "LEVELS OF TOXICITY",
+        "url": "https://open.spotify.com/album/77MH3nyogYEZaZ1WGtrpoh"
+      },
+      "artists": [
+        {
+          "name": "Retro Rose",
+          "url": "https://open.spotify.com/artist/6rDJ4hHK1qS6ZLjxtrAyd9"
+        },
+        {
+          "name": "Anthony September",
+          "url": "https://open.spotify.com/artist/3C8FCjiOPhikOYEf0td1wK"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169437,
+      "name": "Sneak N",
+      "url": "https://open.spotify.com/track/7klJ5epNG3xHgeqY9NSJFt"
     },
     {
       "album": {
@@ -25942,7 +26000,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 200454,
       "name": "\u00c9g er",
       "url": "https://open.spotify.com/track/2V3gHXcnmbHJcRHR2H6GRT"

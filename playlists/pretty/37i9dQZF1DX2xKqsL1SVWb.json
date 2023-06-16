@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. El David en portada.",
-  "num_followers": 96498,
+  "num_followers": 96492,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
+  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
   "tracks": [
     {
       "added_at": "2023-05-23 00:04:32",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Pasado y Olvido",
+        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 255155,
+      "name": "Pasado y Olvido",
+      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "A Simple Vista",
         "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Pasado y Olvido",
-        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 255155,
-      "name": "Pasado y Olvido",
-      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "Sobre el Mar",
         "url": "https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 227070,
       "name": "Sobre el Mar",
       "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Al Amor",
+        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "Retrato",
         "url": "https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Al Amor",
-        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+        "name": "Que no me encuentre",
+        "url": "https://open.spotify.com/album/3gaiLCpJWQkxWLJ42NGvz8"
       },
       "artists": [
         {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 208177,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/0OUmcCghWzjfuaEo6kzUiJ"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Que no me encuentre",
-        "url": "https://open.spotify.com/album/3gaiLCpJWQkxWLJ42NGvz8"
+        "name": "Tu Despedida",
+        "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
         }
       ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/0OUmcCghWzjfuaEo6kzUiJ"
+      "duration_ms": 234466,
+      "name": "Tu Despedida",
+      "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1087,22 +1103,6 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Tu Despedida",
-        "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Tu Despedida",
-      "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Antes de Partir - Cap.1",
-        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
-      },
-      "artists": [
-        {
-          "name": "Erick Mendoza",
-          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Antes de Partir - Cap.1",
-      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Corrido Ser\u00e1",
         "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 197260,
       "name": "Corrido Ser\u00e1",
       "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Antes de Partir - Cap.1",
+        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
+      },
+      "artists": [
+        {
+          "name": "Erick Mendoza",
+          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Antes de Partir - Cap.1",
+      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
     },
     {
       "added_at": "2023-05-23 00:04:32",

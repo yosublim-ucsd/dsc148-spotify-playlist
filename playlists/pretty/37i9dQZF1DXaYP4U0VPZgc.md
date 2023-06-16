@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,657 likes - 68 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,700 likes - 68 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 18 | [七色のフィナーレ](https://open.spotify.com/track/5uvfjUhS5Du4GX00KaQngY) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [Lantana](https://open.spotify.com/album/0DSpIVLKGV6DICxqP4fiZh) | 4:37 |
 | 19 | [a song of storm and fire](https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 4:02 |
 | 20 | [約束](https://open.spotify.com/track/1o6JCEJZOjBieOaaGMTPkC) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 5:34 |
-| 21 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 |
+| 21 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 |
 | 22 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 |
 | 23 | [to the next era](https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [The Age of Dragon Knights](https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye) | 2:33 |
 | 24 | [oblivious](https://open.spotify.com/track/3OGhAh9RuI0BcC1oBhiTnz) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Seventh Heaven](https://open.spotify.com/album/3aVvDhw45d2J7xTLHx4Jyh) | 4:22 |
 | 25 | [砂塵の彼方へ…](https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag) | [Revo & 梶浦由記](https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw) | [Dream Port](https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz) | 7:23 |
 | 26 | [それは小さな光のような](https://open.spotify.com/track/7FOeR1X65DEG4KjpVhNC4Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/7A9FxCZBXJNqtcv7HPHnR8) | 4:32 |
-| 27 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
-| 28 | [あんなに一緒だったのに](https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [あんなに一緒だったのに](https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq) | 4:48 |
+| 27 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 |
+| 28 | [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 |
 | 29 | [ring your bell](https://open.spotify.com/track/0oiQsWPq6RvZGKQ506zwHm) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [far on the water](https://open.spotify.com/album/0N9oRASRuY4SOiMe4AfiSb) | 5:16 |
 | 30 | [雲雀](https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2) | 4:38 |
 | 31 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 49 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 |
 | 50 | [深海の孤独](https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [深海の孤独](https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv) | 4:00 |
 | 51 | [君の銀の庭](https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:06 |
-| 52 | [静かな夜に](https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [静かな夜に](https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw) | 4:53 |
+| 52 | [Shizukana Yoru ni](https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt) | 4:53 |
 | 53 | [優しい夜明け](https://open.spotify.com/track/2stcUXRo0jPS1R7SStG2DI) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Obsession / 優しい夜明け](https://open.spotify.com/album/4BV3lvnKXgvyuDIgo6I06z) | 5:08 |
 | 54 | [angel gate](https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 5:28 |
 | 55 | [maybe tomorrow \(Xenosaga III ending theme\)](https://open.spotify.com/track/2GpTrdhtoXWP96cKqxjCkt) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION II](https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX) | 5:51 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 67 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 68 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `MCw5YTU4YmQ2MWMxZTc1MjIxZmI3OWM5YjU1M2I1NTc3MzFkODAwZmZm`
+Snapshot ID: `MCwyNzg3YmM5MzgwZmVkNGM4NTU4NzAwOTZlZWQ5OGZlNzJkZTU2YzNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,692 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,700 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Malegaala Bantu Saniha \(From "Pranayam"\)](https://open.spotify.com/track/6vKoE9pjqjiziMhEOOaNXS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Mano Murthy](https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57) | [Malegaala Bantu Saniha \(From "Pranayam"\)](https://open.spotify.com/album/1Xq7I3gsMPVef2SjifpzFk) | 4:29 |
 | 75 | [Baanadariyalli Hode Yelli \(from "Baanadariyalli"\)](https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Baanadariyalli Hode Yelli \(from "Baanadariyalli"\)](https://open.spotify.com/album/4O8tIcK8FTWjGraD0q6KAB) | 3:07 |
 
-Snapshot ID: `MCxmNjZjZTZhNWFkMzgzNzA2NzBhOTg2YThhYWNhMmNkZjAwZjk5Yjdi`
+Snapshot ID: `MCwzM2RmNWQ2MjM4MjZkZjJlMDlmYzBjNDVmMTU1NDMyNDViMjA5MjA3`

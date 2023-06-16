@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Burned",
+        "url": "https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz"
+      },
+      "artists": [
+        {
+          "name": "Henri Werner",
+          "url": "https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Burned",
+      "url": "https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU"
       },

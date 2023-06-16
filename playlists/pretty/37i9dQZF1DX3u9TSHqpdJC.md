@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: La Rhonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,980 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,083 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 |
-| 2 | [The Greatest Story Never Told](https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [The Greatest Story Never Told](https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH) | 2:47 |
-| 3 | [You're a Lot](https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [You're a Lot](https://open.spotify.com/album/6se6xD1VQ6BNGwqD6wPTBg) | 2:32 |
-| 4 | [Never the One](https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Never the One](https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B) | 2:57 |
-| 5 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 |
-| 6 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 |
-| 7 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 |
-| 8 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 |
-| 9 | [2 far gone](https://open.spotify.com/track/70Vgl8pejj7OmN0fUsMNYl) | [Free Arlo](https://open.spotify.com/artist/1ePVqRHwkjRf7y2XRyHE2p) | [2 far gone](https://open.spotify.com/album/55tj0vVYISQ5sV1U9xzCmH) | 2:31 |
-| 10 | [Even If It Kills Me](https://open.spotify.com/track/0vaLp7HL1NjFLcEQ66bz8X) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Even If It Kills Me](https://open.spotify.com/album/6dn7V9vlP36cwozlMRPoPJ) | 3:16 |
-| 11 | [Enemy](https://open.spotify.com/track/42FfXCh2osVbPBaxaXYQz1) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Enemy](https://open.spotify.com/album/4sPYzIi5CSUqDuTsExkplJ) | 2:46 |
-| 12 | [Pace](https://open.spotify.com/track/58fOulniG4yXyEZLiSrLSf) | [CINDERINA](https://open.spotify.com/artist/7b0H41BnZFcC3MdGUz4qYV) | [Pace](https://open.spotify.com/album/035ay8AGmU0EPNrVxRD3wt) | 2:43 |
-| 13 | [Indigo](https://open.spotify.com/track/4vXmVoQF1ngREaOZNx69Bf) | [Till](https://open.spotify.com/artist/6jb6i2O42Rn8es8RpBLRLa) | [Indigo](https://open.spotify.com/album/6FXqTawC6dbEB4cq0RFIBF) | 3:03 |
-| 14 | [Pretty Liar](https://open.spotify.com/track/2YSB7QmNnUpvs4aowHjTjy) | [ken xox](https://open.spotify.com/artist/2rCLvGhv0bvkab7jniDTBU) | [Pretty Liar](https://open.spotify.com/album/762iPRhy1mLxs87TqlZK9l) | 3:51 |
-| 15 | [I'll Do It Anyway](https://open.spotify.com/track/2HOuKrNfl5RI1XCWQm4S5b) | [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [I'll Do It Anyway](https://open.spotify.com/album/5LrKqpdoMSg6GvE9WguO60) | 3:28 |
-| 16 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
-| 17 | [Cheddar](https://open.spotify.com/track/72B5ZeTLwM1aAYqpYHBAkJ) | [petie](https://open.spotify.com/artist/35umHKZ1asaqJw3pv6UkLl) | [Cheddar](https://open.spotify.com/album/4ndgcB561Aw6ljpElVURHL) | 2:16 |
-| 18 | [Meadow](https://open.spotify.com/track/2HJbmKz5If0PHmOle6jr5B) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Meadow](https://open.spotify.com/album/4XsjnIzDjD2Mf9ofduC15K) | 3:21 |
-| 19 | [mixed signals](https://open.spotify.com/track/3Qp7spIc8fRxEjYQe3zQmQ) | [Gabriella Zauna](https://open.spotify.com/artist/1zl1hK7MiUn004QoljL6g2) | [mixed signals](https://open.spotify.com/album/3qM8DcOzjFyOh60GrE5il7) | 3:01 |
-| 20 | [Afterthought](https://open.spotify.com/track/3m6bHUrN8khopVUAhi7Xut) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [Afterthought](https://open.spotify.com/album/1WT5tmBb2NgfDha72f4dCb) | 2:35 |
+| 1 | [Afterthought](https://open.spotify.com/track/3m6bHUrN8khopVUAhi7Xut) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [Afterthought](https://open.spotify.com/album/1WT5tmBb2NgfDha72f4dCb) | 2:35 |
+| 2 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 |
+| 3 | [The Greatest Story Never Told](https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [The Greatest Story Never Told](https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH) | 2:47 |
+| 4 | [You're a Lot](https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [You're a Lot](https://open.spotify.com/album/6se6xD1VQ6BNGwqD6wPTBg) | 2:32 |
+| 5 | [Never the One](https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Never the One](https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B) | 2:57 |
+| 6 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 |
+| 7 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 |
+| 8 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 |
+| 9 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 |
+| 10 | [2 far gone](https://open.spotify.com/track/70Vgl8pejj7OmN0fUsMNYl) | [Free Arlo](https://open.spotify.com/artist/1ePVqRHwkjRf7y2XRyHE2p) | [2 far gone](https://open.spotify.com/album/55tj0vVYISQ5sV1U9xzCmH) | 2:31 |
+| 11 | [Even If It Kills Me](https://open.spotify.com/track/0vaLp7HL1NjFLcEQ66bz8X) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Even If It Kills Me](https://open.spotify.com/album/6dn7V9vlP36cwozlMRPoPJ) | 3:16 |
+| 12 | [Enemy](https://open.spotify.com/track/42FfXCh2osVbPBaxaXYQz1) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Enemy](https://open.spotify.com/album/4sPYzIi5CSUqDuTsExkplJ) | 2:46 |
+| 13 | [Pace](https://open.spotify.com/track/58fOulniG4yXyEZLiSrLSf) | [CINDERINA](https://open.spotify.com/artist/7b0H41BnZFcC3MdGUz4qYV) | [Pace](https://open.spotify.com/album/035ay8AGmU0EPNrVxRD3wt) | 2:43 |
+| 14 | [Indigo](https://open.spotify.com/track/4vXmVoQF1ngREaOZNx69Bf) | [Till](https://open.spotify.com/artist/6jb6i2O42Rn8es8RpBLRLa) | [Indigo](https://open.spotify.com/album/6FXqTawC6dbEB4cq0RFIBF) | 3:03 |
+| 15 | [Pretty Liar](https://open.spotify.com/track/2YSB7QmNnUpvs4aowHjTjy) | [ken xox](https://open.spotify.com/artist/2rCLvGhv0bvkab7jniDTBU) | [Pretty Liar](https://open.spotify.com/album/762iPRhy1mLxs87TqlZK9l) | 3:51 |
+| 16 | [I'll Do It Anyway](https://open.spotify.com/track/2HOuKrNfl5RI1XCWQm4S5b) | [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [I'll Do It Anyway](https://open.spotify.com/album/5LrKqpdoMSg6GvE9WguO60) | 3:28 |
+| 17 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
+| 18 | [Cheddar](https://open.spotify.com/track/72B5ZeTLwM1aAYqpYHBAkJ) | [petie](https://open.spotify.com/artist/35umHKZ1asaqJw3pv6UkLl) | [Cheddar](https://open.spotify.com/album/4ndgcB561Aw6ljpElVURHL) | 2:16 |
+| 19 | [Meadow](https://open.spotify.com/track/2HJbmKz5If0PHmOle6jr5B) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Meadow](https://open.spotify.com/album/4XsjnIzDjD2Mf9ofduC15K) | 3:21 |
+| 20 | [mixed signals](https://open.spotify.com/track/3Qp7spIc8fRxEjYQe3zQmQ) | [Gabriella Zauna](https://open.spotify.com/artist/1zl1hK7MiUn004QoljL6g2) | [mixed signals](https://open.spotify.com/album/3qM8DcOzjFyOh60GrE5il7) | 3:01 |
 | 21 | [moodalert](https://open.spotify.com/track/2XmlazH9cqMDKWwrdCtAlS) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [moodalert](https://open.spotify.com/album/1kunuzzBirfW5E1HwK854r) | 2:25 |
 | 22 | [temporary tattoos](https://open.spotify.com/track/1zWROWxRqGDLgUTjcqVXqG) | [Jamisen](https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H) | [temporary tattoos](https://open.spotify.com/album/3tDvAFYhJrWBn9HaM6XeiX) | 2:45 |
 | 23 | [Daylight](https://open.spotify.com/track/2qQQg5pkjRJajogDe8HFop) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Soft Heat](https://open.spotify.com/album/0DIy09PKKmcXjVZlodhD8q) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 |
 | 100 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 
-Snapshot ID: `MCw1ZjIyNDc3YWRkMDBlOWMzN2FkMWJhYTdhNjc4NjVlYTY1MTc0NmVk`
+Snapshot ID: `MCxlNzAxNzNiMjMxNWIyZDVhOGQ0NmIyM2RlZDA5ZWJhZjMzNTI0YjRh`

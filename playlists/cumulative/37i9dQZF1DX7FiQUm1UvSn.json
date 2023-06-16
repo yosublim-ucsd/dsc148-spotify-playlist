@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/0d4m4jyE4wR9oVdvE8Hjxo"
+      },
+      "artists": [
+        {
+          "name": "Aang Aang",
+          "url": "https://open.spotify.com/artist/2sW0FIwjiPohHyY2eZBL1D"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182114,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/1JzzBDF0JIo7ahiwQ3NUJT"
+    },
+    {
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Bizarrap & Peso Pluma están en el Top!
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,239 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,898 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 75 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 |
 | 76 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 |
 | 77 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 |
-| 78 | [CERO$](https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CERO$ / LATI2](https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX) | 2:34 |
+| 78 | [CERO$](https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [CERO$ / LATI2](https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX) | 2:34 |
 | 79 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 |
 | 80 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 |
 | 81 | [34 Amor y Mafia REMIX \(feat\. El Jincho, Camin, Harry Nach & Pedro Calderon\)](https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [34 Amor y Mafia REMIX \(feat\. El Jincho, Camin, Harry Nach & Pedro Calderon\)](https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE) | 6:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [Señales](https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Señales](https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm) | 2:06 |
 | 100 | [El Rey De La Cagada](https://open.spotify.com/track/708PcYgDrhNowcf36ZOMCB) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [El Rey De La Cagada](https://open.spotify.com/album/0HVvGi6Xd409f1A6o4GQyx) | 2:21 |
 
-Snapshot ID: `MCwzY2U3Zjc3YjcyZTE2NGM4MWQ0ZDg3M2U3YmMzNTU0ZGQ4ZTFkMWQ1`
+Snapshot ID: `MCw4OGMxOTBlNWNiNDlhMGRkYWU0ZmUxODRjNTA5MjlmNmYxNjYwMWVj`

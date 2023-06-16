@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Mindflip",
-  "num_followers": 5268,
+  "num_followers": 5312,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTlkZGZiNTUxNmU4MTAzYzdhMjZkNjJiY2E3MTZlYTdiNmViYThl",
+  "snapshot_id": "MCw5NGIzMzRhNzNkYmI5YTBmOTY0Y2M2MDA5NTc2YjhiZDg4N2MzMjg4",
   "tracks": [
     {
       "added_at": "2023-06-08 21:37:02",
@@ -679,30 +679,6 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
-    },
-    {
-      "added_at": "2023-06-08 21:37:02",
-      "album": {
         "name": "DUSK to DAWN",
         "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 198321,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-06-08 21:37:02",
+      "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
     },
     {
       "added_at": "2023-06-08 21:37:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-06-08 21:37:02",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
+    },
+    {
+      "added_at": "2023-06-08 21:37:02",
+      "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2023-06-08 21:37:02",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-06-08 21:37:02",
-      "album": {
         "name": "Different Route",
         "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "added_at": "2023-06-08 21:37:02",
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 139213,
       "name": "Job Done",
       "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-06-08 21:37:02",
-      "album": {
-        "name": "Don't Dance",
-        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
-      },
-      "artists": [
-        {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
-        }
-      ],
-      "duration_ms": 197224,
-      "name": "Don't Dance",
-      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
     },
     {
       "added_at": "2023-06-08 21:37:02",
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
+        "name": "Don't Dance",
+        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
+      "duration_ms": 197224,
+      "name": "Don't Dance",
+      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
     },
     {
       "added_at": "2023-06-08 21:37:02",
@@ -1375,6 +1355,30 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
+        "name": "Adult Supervision",
+        "url": "https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 166922,
+      "name": "Sleep Like A Baby",
+      "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"
+    },
+    {
+      "added_at": "2023-06-08 21:37:02",
+      "album": {
         "name": "Here it Goes",
         "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
       },
@@ -1395,22 +1399,30 @@
     {
       "added_at": "2023-06-08 21:37:02",
       "album": {
-        "name": "Alejandro Sosa",
-        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
+        "name": "Northside Jane",
+        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
       "artists": [
         {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+          "name": "Robin Banks",
+          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
         },
         {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+          "name": "TallupTwinz",
+          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
+        },
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Alejandro Sosa",
-      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+      "duration_ms": 267415,
+      "name": "One of Mines",
+      "url": "https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

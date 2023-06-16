@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. OMINI in cover!",
+  "description": "Siete in un paese meraviglioso... Giancane e Zerocalcare in cover di Rock Italia questa settimana!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 231532,
       "name": "Che benessere !? (con NASKA)",
       "url": "https://open.spotify.com/track/29wow7ReefY8giiopcBNGc"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 181818,
       "name": "COSA VA IN ME?",
       "url": "https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L"
@@ -2604,6 +2604,24 @@
       "duration_ms": 241224,
       "name": "Everything's Fucking Boring (feat. Bugo)",
       "url": "https://open.spotify.com/track/5qxpegfGJAN3FY4MQvTi6p"
+    },
+    {
+      "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/0KiFaI9kD81ebvrIkGO7Ff"
+      },
+      "artists": [
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122823,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
     },
     {
       "album": {
@@ -3905,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Idiom",
+        "url": "https://open.spotify.com/album/777le6ePS0RHFGaLFgLOAX"
+      },
+      "artists": [
+        {
+          "name": "Trust The Mask",
+          "url": "https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/1VKEBaxiXIxdaqZ1pGvx8G"
+    },
+    {
+      "album": {
         "name": "Kawasaki",
         "url": "https://open.spotify.com/album/58PrjlnW7Z4oHjWevekZsn"
       },
@@ -4152,7 +4188,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 208072,
       "name": "La Nebbia",
       "url": "https://open.spotify.com/track/4LMP98OkdEMSaKnBqeNFps"
@@ -4224,7 +4260,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 187950,
       "name": "Lack Of Attention",
       "url": "https://open.spotify.com/track/4RAGyLQOh2pEbJESFCtQcp"
@@ -4760,7 +4796,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 128906,
       "name": "Milano sei tossica",
       "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
@@ -4948,6 +4984,24 @@
       "duration_ms": 221778,
       "name": "Montese",
       "url": "https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU"
+      },
+      "artists": [
+        {
+          "name": "Forse Danzica",
+          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF"
     },
     {
       "album": {
@@ -5160,7 +5214,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 181635,
       "name": "Noia",
       "url": "https://open.spotify.com/track/58U67g9ULmIfNxZn5WoKzT"
@@ -5464,6 +5518,24 @@
       "duration_ms": 201620,
       "name": "Occhi di Corvo",
       "url": "https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO"
+    },
+    {
+      "album": {
+        "name": "Occhi rossi",
+        "url": "https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye"
+      },
+      "artists": [
+        {
+          "name": "ALIPERTI",
+          "url": "https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163873,
+      "name": "Occhi rossi",
+      "url": "https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd"
     },
     {
       "album": {
@@ -6244,7 +6316,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 168038,
       "name": "Religione",
       "url": "https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6"
@@ -7915,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "Triggers",
+        "url": "https://open.spotify.com/album/70C1GxUYPrrzqNuEFCCCOT"
+      },
+      "artists": [
+        {
+          "name": "ANGLES",
+          "url": "https://open.spotify.com/artist/3xQS0H7dzZrcMgP4HfJP1D"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201925,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/2KN01OwJaFesnL3SoDCxWu"
+    },
+    {
+      "album": {
         "name": "Tropea",
         "url": "https://open.spotify.com/album/47AhTKYqtuBUZpnbF6EyMl"
       },
@@ -7948,7 +8038,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 170583,
       "name": "TU X ME",
       "url": "https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS"
@@ -8046,6 +8136,24 @@
       "duration_ms": 240641,
       "name": "Ubi maior minor cessat",
       "url": "https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP"
+    },
+    {
+      "album": {
+        "name": "UN BAMBINO",
+        "url": "https://open.spotify.com/album/4f1tCKRmp8P7DuV0VZiCo2"
+      },
+      "artists": [
+        {
+          "name": "Bugo",
+          "url": "https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186277,
+      "name": "UN BAMBINO",
+      "url": "https://open.spotify.com/track/5b8QOqAdDv6NuMmzWEMuYk"
     },
     {
       "album": {
@@ -8406,7 +8514,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 261972,
       "name": "Voglio morire",
       "url": "https://open.spotify.com/track/0rieKIGnvsuGsaT1NGG9Ho"

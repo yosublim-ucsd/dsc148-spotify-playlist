@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: xooos\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: merrymerryseoul\)
 
-583 songs - 1 day 7 hr 26 min
+584 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2022-04-21 | 2022-08-13 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
-| [Bad At Us](https://open.spotify.com/track/12EhuKuFOOs7sBMbajhDNW) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH) | 3:19 | 2023-05-30 |  |
+| [Bad At Us](https://open.spotify.com/track/12EhuKuFOOs7sBMbajhDNW) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH) | 3:19 | 2023-05-30 | 2023-06-16 |
 | [BAD BAD \(Feat\. Tabber, Jay Park\)](https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:34 | 2023-03-10 | 2023-04-01 |
 | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/track/2uFxjq8W6lbVNJDg0EoRgd) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/album/0DuMzsjufFCk6yHUMnMgxz) | 3:47 | 2022-06-03 | 2022-06-19 |
 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-20 | 2023-03-10 |
@@ -180,6 +180,7 @@
 | [Escape](https://open.spotify.com/track/4hVNcfboZ0jhrM2tb8nYZv) | [Rosy](https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Escape](https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad) | 3:08 | 2022-05-04 | 2022-06-02 |
 | [Even after July](https://open.spotify.com/track/6S7Tkefdvfr1WFsed5ipPN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [Even after July](https://open.spotify.com/album/01961zECF13ZUrho2Yp5WF) | 2:52 | 2022-04-22 | 2022-07-09 |
 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 | 2022-10-22 | 2022-11-23 |
+| [Everything gets brighter \(feat\. SAGE & RYUKIE\)](https://open.spotify.com/track/5VnlBz99mJ2w0lFmPuAwoj) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [SAGE](https://open.spotify.com/artist/24whPzcv8YXI53WrKoodIC), [RYUKIE](https://open.spotify.com/artist/0FLz2wSeTue5lYUnLtTrj6) | [My deep loneliness](https://open.spotify.com/album/3jftr7K82e8Qt6Pq0n45NS) | 3:34 | 2023-06-15 |  |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 | 2022-07-25 |
 | [Evident](https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:37 | 2023-02-14 | 2023-02-22 |
 | [Eyes & Lips](https://open.spotify.com/track/0uROxYvulGWKBRMrss7HUR) | [FOOL IN THE POOL](https://open.spotify.com/artist/0t3tdvuFolwBWVO5azzqqk) | [Flowering](https://open.spotify.com/album/1ZJIW5OQGZC3Cb6EScdoP5) | 2:59 | 2022-05-28 | 2022-06-04 |

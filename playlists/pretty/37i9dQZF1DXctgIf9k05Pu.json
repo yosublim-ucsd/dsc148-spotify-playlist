@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 234829,
+  "num_followers": 234890,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjFhY2IxNTM4MjE3YmYyODkzYzlhMjIwZGM0YzVlNzcyY2IxNWQy",
+  "snapshot_id": "MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Holo",
-        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
-      },
-      "artists": [
-        {
-          "name": "Limbo",
-          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Holo",
+        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
+      },
+      "artists": [
+        {
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Dreams for Two",
+        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
+      },
+      "artists": [
+        {
+          "name": "Rook1e",
+          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "I Fell in Love with You One Night in September",
+      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Dreams for Two",
-        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
-      },
-      "artists": [
-        {
-          "name": "Rook1e",
-          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "I Fell in Love with You One Night in September",
-      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
     },
     {
       "added_at": "2022-02-02 00:21:48",

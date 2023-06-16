@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 208841,
+  "num_followers": 208914,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2UwODY3ODE4MjQyMzkxZjkwMTgwYTdkNmM4YjAyOTEzMjA1MTI5",
+  "snapshot_id": "MCxhMjA5MjdjNjUxNTNlMzc2ZGNiNGQwOGI3ZjU2OGM3NWNlNGY4YmYw",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "For Cool Grandkids Everywhere",
-        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
-      },
-      "artists": [
-        {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Presenting the Jive Five",
         "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "For Cool Grandkids Everywhere",
+        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
         }
       ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+      "duration_ms": 156266,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Presenting the Orioles",
+        "url": "https://open.spotify.com/album/3ilxDZ0GVsoDyHcHgYTBJv"
+      },
+      "artists": [
+        {
+          "name": "The Orioles",
+          "url": "https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Crying in the Chapel",
+      "url": "https://open.spotify.com/track/1MdtXzJLuRoC1qZe1OxyPq"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

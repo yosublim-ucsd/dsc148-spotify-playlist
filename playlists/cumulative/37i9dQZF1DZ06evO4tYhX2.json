@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 278853,
       "name": "Tu Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y"
@@ -1578,6 +1578,32 @@
       "duration_ms": 228013,
       "name": "Yo Ir\u00e9",
       "url": "https://open.spotify.com/track/6AaawfHLnIerBSX3TuTRid"
+    },
+    {
+      "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331730,
+      "name": "Yo Ir\u00e9 / Soy Feliz (En Vivo)",
+      "url": "https://open.spotify.com/track/6eQAS1mIHgKxvSNJ8WmQrg"
     },
     {
       "album": {

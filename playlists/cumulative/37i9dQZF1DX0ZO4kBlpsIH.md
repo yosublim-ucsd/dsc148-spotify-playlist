@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-173 songs - 8 hr 28 min
+176 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 | 2023-05-03 |  |
 | [Amarcord](https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9) | [Les Musettes de Montmartre](https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j) | [More Accordions Of Paris](https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r) | 3:32 | 2022-11-25 |  |
 | [Amor del Bajo Corrales](https://open.spotify.com/track/1ULkKtUQyODQheFCYbuXHZ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:28 | 2022-11-25 |  |
-| [Amour, Mon Cher Amour](https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Swinging with Jimmy Rosenberg](https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR) | 3:12 | 2023-03-07 |  |
+| [Amour, Mon Cher Amour](https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Swinging with Jimmy Rosenberg](https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR) | 3:12 | 2023-03-07 | 2023-06-16 |
 | [Arc de Triomphe](https://open.spotify.com/track/523gSUSIfg3v88dW9Xp4Bq) | [Paris Café Society](https://open.spotify.com/artist/5jjHcJSJq9lyKfh4j6mNro) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp) | 2:43 | 2022-02-18 | 2023-05-12 |
 | [Arc de Triomphe](https://open.spotify.com/track/0bgST5jybVh3OOYK9Pxorb) | [Sababaman](https://open.spotify.com/artist/7BY3oEfszung40oUYjbKO7) | [Jazz & Blues Guitar](https://open.spotify.com/album/2Pl6sJl6PDR4oqoAvvhXX5) | 2:43 | 2022-08-05 | 2022-11-13 |
 | [Arc de Triomphe](https://open.spotify.com/track/5TbdQuOnaVZXnWVdu9elLU) | [World Music Ensemble](https://open.spotify.com/artist/0f3rGPN9VHlAWAQnSZB0OG) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/67jVIvQuFnU0nh40CsRbUr) | 2:43 | 2022-02-18 | 2022-07-29 |
@@ -29,6 +29,7 @@
 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 | 2023-05-18 |  |
 | [Bleu D’Auvergne](https://open.spotify.com/track/6q0M3prfVKJeSdx2ruNjsg) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 1:50 | 2023-03-15 |  |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 |  |
+| [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 |  |
 | [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 | 2022-02-18 |  |
 | [Brise Napolitaine \- 1956](https://open.spotify.com/track/5tsAXJsDCzJL9mOLW09xX0) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:25 | 2022-02-18 |  |
 | [C Jam Blues](https://open.spotify.com/track/3CIAbkxoNkecyKki0Qleiq) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 2:06 | 2023-05-18 |  |
@@ -59,6 +60,7 @@
 | [Folie à amphion](https://open.spotify.com/track/4X5fkuK8fbrlUARtdxbD2h) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:10 | 2023-03-07 |  |
 | [Forêt de Hêtres](https://open.spotify.com/track/3WG0yb0OLB99N3NAIlCWKo) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Forêt de Hêtres](https://open.spotify.com/album/2p7ku7TRCskCv3qdHJDPSL) | 2:54 | 2023-04-13 |  |
 | [Fragile](https://open.spotify.com/track/0GtinxtEBaIfjQ3MeZmBSD) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Fragile](https://open.spotify.com/album/633ITRU98vaPptgSFYcmG6) | 2:21 | 2023-05-18 |  |
+| [French Printer](https://open.spotify.com/track/4hDqA6Otb0viBsGazT7iDs) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:57 | 2023-06-15 |  |
 | [Germaine](https://open.spotify.com/track/3D7XKxSW2giVfFMEm7Sym9) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:17 | 2022-11-25 |  |
 | [Germaine](https://open.spotify.com/track/6M3dKusOA9jKFTyYtZroWj) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:25 | 2022-08-05 | 2022-11-13 |
 | [Germaine](https://open.spotify.com/track/75Oxiew9UEAJNgBfemFLPR) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:25 | 2022-02-18 | 2023-03-22 |
@@ -119,6 +121,7 @@
 | [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 |  |
 | [Ombrages](https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:57 | 2022-02-18 |  |
 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 | 2022-02-18 |  |
+| [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 | 2023-06-15 |  |
 | [Paris Pigalle](https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:00 | 2023-03-07 |  |
 | [Paris, Mon Gai Paris](https://open.spotify.com/track/2ORkFQoxavazm08LcpwQsz) | [Max Marino Et Son Accordéon](https://open.spotify.com/artist/1cnJh2kOWm2O6TGzJOOcTY) | [Souvenir From Paris Vol\. 2](https://open.spotify.com/album/3WvINlDO8RBro8DFeU3eEQ) | 1:44 | 2023-03-07 |  |
 | [Parlez\-Moi D'amour](https://open.spotify.com/track/7BfDyrKPnW11375k831lay) | [Dana Boulé](https://open.spotify.com/artist/2f8QOPqhNpY1AYLNMBAtcD) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:00 | 2022-02-18 | 2023-05-19 |

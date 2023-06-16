@@ -3653,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Kalam El Hob",
+        "url": "https://open.spotify.com/album/6h3n3RjjTLFtcRzpppOUoO"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226744,
+      "name": "Kalam El Hob",
+      "url": "https://open.spotify.com/track/6lE3VAWIsaXGw4H67spRsp"
+    },
+    {
+      "album": {
         "name": "Kam Marra",
         "url": "https://open.spotify.com/album/6DixtSWrxYingKM0PHuG11"
       },
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 230400,
       "name": "Nefrah Barsha - Aswatna",
       "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"

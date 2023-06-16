@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-372 songs - 22 hr 23 min
+373 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2022-07-08 | 2022-08-06 |
 | [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 |  |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2022-07-08 | 2022-08-06 |
+| [Bloom](https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g) | [Bloom](https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz) | 3:07 | 2023-06-02 |  |
 | [Boyz Lie](https://open.spotify.com/track/0lE7VZvooD13UimBdCPkpz) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Boyz Lie](https://open.spotify.com/album/3Y2s6QLxcPS9DYdaCw4Al2) | 3:12 | 2023-05-19 | 2023-06-07 |
 | [Breakthrough](https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Breakthrough](https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT) | 4:48 | 2022-08-26 | 2022-12-20 |
 | [Brightest Light \(feat\. Dotter\)](https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Beyond The Veil \(Deluxe\)](https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy) | 3:58 | 2023-02-17 |  |
@@ -47,7 +48,7 @@
 | [Broken](https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf) | 3:48 | 2022-07-29 |  |
 | [Broken](https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:48 | 2022-07-29 | 2022-09-04 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-07-08 |  |
-| [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 |  |
+| [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 | 2023-06-16 |
 | [Call It Quits \(feat\. Danni Carra\)](https://open.spotify.com/track/7p8xp2DvUrnM6H9U4wAV7I) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Call It Quits \(feat\. Danni Carra\)](https://open.spotify.com/album/735ZTy17ECMFUje6WSi3tS) | 3:42 | 2022-07-08 | 2022-07-29 |
 | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI) | 4:53 | 2022-09-02 |  |
 | [Can't Have U](https://open.spotify.com/track/242x5qU3IyC275YDC7iGGz) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Can't Have U](https://open.spotify.com/album/5a8hePKgPY8THUZnQIVkR8) | 2:26 | 2022-07-08 | 2022-08-25 |

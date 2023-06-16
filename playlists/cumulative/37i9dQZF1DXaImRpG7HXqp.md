@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-567 songs - 1 day 0 hr 40 min
+569 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 |  |
 | [Bosque Nevado](https://open.spotify.com/track/6S3dGUUgqt61UnjFqL1C0W) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Bosque Nevado](https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg) | 2:23 | 2021-12-08 | 2022-06-10 |
 | [Break Of Day](https://open.spotify.com/track/0tLYax4z9smBlddTSfeguE) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Break Of Day](https://open.spotify.com/album/45VoYJoivXsCEwOI107vkI) | 2:26 | 2023-05-12 |  |
-| [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 | 2023-04-21 |  |
+| [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 | 2023-04-21 | 2023-06-16 |
 | [Bridge Beyond \(Classical Guitar version\)](https://open.spotify.com/track/4Fw03ljZwacmLgDjlDaMIr) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN) | [Bridge Beyond \(Classical Guitar version\)](https://open.spotify.com/album/6QxZxOvFr5qBoDL12UKzd8) | 2:48 | 2022-09-02 | 2022-12-10 |
 | [Bright River](https://open.spotify.com/track/1cChixGcMwJEJHyNWY4zqj) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [Bright River](https://open.spotify.com/album/1Tjpg01wo1NwaGTE6vkYFn) | 3:21 | 2021-12-08 | 2022-09-09 |
 | [brighter times](https://open.spotify.com/track/6i7GBQ9bIAAbsqdJW12e88) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [brighter times](https://open.spotify.com/album/1NnBieVfEW3Ll4rCnmzbKz) | 2:15 | 2021-12-08 | 2022-10-07 |
@@ -290,7 +290,7 @@
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 |  |
 | [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 | 2023-05-23 |
-| [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 | 2023-05-12 |  |
+| [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 | 2023-05-12 | 2023-06-16 |
 | [Loomy Woods](https://open.spotify.com/track/2AWMZjZp5uoB4nJN8RLced) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Loomy Woods](https://open.spotify.com/album/34I5Dwjv7aAHVW66mXApP4) | 3:14 | 2023-05-12 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-02-24 |  |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 |  |
@@ -338,6 +338,7 @@
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 | 2022-07-08 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-24 |  |
 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 | 2022-10-07 |
+| [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2021-12-08 | 2023-05-13 |
 | [Natsunoyo](https://open.spotify.com/track/177z4X3Na4sE1Hgf9IWfOH) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Natsunoyo](https://open.spotify.com/album/6XwKddDQoFjI9dO7AHo2Ar) | 2:03 | 2022-07-01 | 2022-09-17 |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2021-12-08 | 2022-04-22 |
@@ -480,7 +481,7 @@
 | [Surface of the Sun](https://open.spotify.com/track/2IUkpsHo1AnuzROkH97dUc) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Surface of the Sun](https://open.spotify.com/album/6FHwTA1LpLYx2IDVDMNYes) | 2:00 | 2022-10-28 |  |
 | [Sweet Harbour](https://open.spotify.com/track/4Vn3gAiJNQdmlwW2OuXJCZ) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Sweet Harbour](https://open.spotify.com/album/2NC58fQcM4Pyf4DBLJdRW0) | 3:18 | 2021-12-08 | 2023-05-13 |
 | [Sweet Ride](https://open.spotify.com/track/5dRPiskVbrnc8fINiwrWy0) | [Lance Takamiya](https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS) | [Sweet Ride](https://open.spotify.com/album/2Mf9bQgJEiq4lHzaQYvMxw) | 2:38 | 2022-09-16 | 2022-12-10 |
-| [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-02-24 |  |
+| [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-02-24 | 2023-06-16 |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2021-12-08 | 2023-03-10 |
 | [Syr Darya](https://open.spotify.com/track/5aPyQLy7KhxjIqj5CgNF8w) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Syr Darya](https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE) | 3:35 | 2023-02-24 |  |
 | [Taar](https://open.spotify.com/track/0ojTn1yMJrTm7Kz8IlqtUn) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Chitarra](https://open.spotify.com/album/4NMl9FJpiyIFyVwBpdMv3O) | 3:42 | 2021-12-08 | 2022-07-22 |
@@ -516,6 +517,7 @@
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2021-12-08 | 2022-04-06 |
 | [Unspoken](https://open.spotify.com/track/3ciRi9v3G3MWMzTNE15WnT) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Unspoken](https://open.spotify.com/album/6Wab917B9CFK0wRxUT2QMP) | 2:29 | 2022-09-09 |  |
 | [Until You](https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Until You](https://open.spotify.com/album/1JHu4FXVAq8e0vqRUCdwSu) | 2:26 | 2023-04-21 |  |
+| [Up North](https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Up North](https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1) | 2:51 | 2023-06-15 |  |
 | [Valentine](https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Valentine](https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i) | 2:18 | 2021-12-08 | 2022-07-22 |
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 |  |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2021-12-08 | 2022-07-08 |
@@ -545,7 +547,7 @@
 | [Waterfall](https://open.spotify.com/track/0kUvYvrYM7xJnnJJFwNW1r) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Waterfall](https://open.spotify.com/album/05PM1kvfCNBafQMRFv4zWJ) | 2:27 | 2022-07-08 | 2022-12-10 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-12 |  |
 | [Way Harder Than I Thought](https://open.spotify.com/track/0aInkt9zWTzd5TeBoUXS74) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Way Harder Than I Thought](https://open.spotify.com/album/54k6cq8bMjnlDjVWSinIN5) | 3:04 | 2021-12-08 | 2023-05-13 |
-| [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 |  |
+| [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-06-16 |
 | [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-08 |  |
 | [Welcomed By The Forest](https://open.spotify.com/track/3rJhEXYvo24oB4s2LAsKYv) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Welcomed By The Forest](https://open.spotify.com/album/4K9IY6EW8bxTbCpeprxQKz) | 2:57 | 2022-08-12 | 2022-12-10 |
 | [We´re Ok](https://open.spotify.com/track/5A06rT73B83damBvMVwp6A) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [We´re Ok](https://open.spotify.com/album/76w4CGhDqw94xOmbrYuGML) | 3:23 | 2021-12-08 | 2022-07-08 |

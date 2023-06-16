@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Diddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,060 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,122 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [No Stress](https://open.spotify.com/track/6SgOztsz4Ophor1UU637Nc) | [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [No Stress](https://open.spotify.com/album/31wtuS1eGW8CQAw3RzF9GS) | 3:12 |
 | 100 | [Boppin](https://open.spotify.com/track/4Pvvsw5jY4iyehW6w7xPwj) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Boppin](https://open.spotify.com/album/7Dn9hadzntzSDhf2bnm5aV) | 2:01 |
 
-Snapshot ID: `MCwyNTBhZDRkZmQxMGNlNmU1Mjc1M2NhZDIwOTc3YTU5MmE2NTUxMjlm`
+Snapshot ID: `MCwwZjYxNTYyZDUxZjVlY2Y1ZjkwZGUzOGQzZTJjMTJlNGEyZTI3NWY4`

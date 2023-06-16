@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Wa7Ed Wa7Ed",
+        "url": "https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164757,
+      "name": "3Azraeel",
+      "url": "https://open.spotify.com/track/3j5XyebVOoFAG7i2b5rAub"
+    },
+    {
+      "album": {
         "name": "3latol",
         "url": "https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 192000,
       "name": "7een Maysara",
       "url": "https://open.spotify.com/track/7B5bU1o9ReQz0J8R7y8FYh"
@@ -306,7 +324,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 195642,
       "name": "ANA DEAL",
       "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
@@ -485,6 +503,32 @@
     },
     {
       "album": {
+        "name": "Beluga",
+        "url": "https://open.spotify.com/album/1dvNFHIsX27M4lIYV3Z2sO"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Karim Enzo",
+          "url": "https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Beluga",
+      "url": "https://open.spotify.com/track/3sHG3Wv2MqYFRZhUdnIXCO"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -580,7 +624,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 212000,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5"
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 160695,
       "name": "Ma3rafnish",
       "url": "https://open.spotify.com/track/35f5B1FqqHkHIJhi85wDYz"
@@ -1912,7 +1956,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 181986,
       "name": "Matbosesh 3Al Sora Kteer",
       "url": "https://open.spotify.com/track/02hW8iovo5mxTEYxV0me0E"
@@ -2305,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Negm",
+        "url": "https://open.spotify.com/album/50hODkRSOKdbimK9moVDfJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Negm",
+      "url": "https://open.spotify.com/track/3PeiVnZUO7PFRqGjV2hCW8"
+    },
+    {
+      "album": {
         "name": "No Problema",
         "url": "https://open.spotify.com/album/1LgemKfJ05vDyUePTOr1gv"
       },
@@ -2364,6 +2430,28 @@
       "duration_ms": 210050,
       "name": "Oghnya OldSchool Gdeda",
       "url": "https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7"
+    },
+    {
+      "album": {
+        "name": "FAYADAN",
+        "url": "https://open.spotify.com/album/5s8hUlmO9exajp6IxL2Nm4"
+      },
+      "artists": [
+        {
+          "name": "Xander Ghost",
+          "url": "https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213205,
+      "name": "OGRA",
+      "url": "https://open.spotify.com/track/3rUyiFJIBHLuDj62O0IDwF"
     },
     {
       "album": {
@@ -2664,7 +2752,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 133655,
       "name": "Share3 El 100",
       "url": "https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx"
@@ -3580,6 +3668,46 @@
       "duration_ms": 116687,
       "name": "\u063a\u0627\u063a\u0629",
       "url": "https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0627\u0636\u064a\u0629",
+        "url": "https://open.spotify.com/album/0wEYC1Z9lZ2RG72mC3xzzr"
+      },
+      "artists": [
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170273,
+      "name": "\u0641\u0627\u0636\u064a\u0629",
+      "url": "https://open.spotify.com/track/4y5CyUdrD89uY6rNwuR7Ra"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0648\u0644\u0648\u0648",
+        "url": "https://open.spotify.com/album/42GsU84UOKjhCdccI6MLku"
+      },
+      "artists": [
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "\u0642\u0648\u0644\u0648\u0648",
+      "url": "https://open.spotify.com/track/6nqQeu7flmyBXJRe8qdgja"
     },
     {
       "album": {

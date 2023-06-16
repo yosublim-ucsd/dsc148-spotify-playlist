@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 744064,
+  "num_followers": 744304,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjVmNDNlMmUyNGZlYjM3NGY0ZmFmMWM0NmVjNTkxNTQ0OTIwYWUx",
+  "snapshot_id": "MCwzOTZmODc0MWJkYmEzNDZiY2ExZWY4ZjcwOTgzNzY3YThjOTA5YTUw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Appointments",
+      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Appointments",
-      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 222859,
       "name": "Sausalito",
       "url": "https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 247631,
+      "name": "The Swimmer (To Be an Old Man)",
+      "url": "https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Run, Lucifer",
         "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 285677,
       "name": "When You Break",
       "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Bravado",
-        "url": "https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 247631,
-      "name": "The Swimmer (To Be an Old Man)",
-      "url": "https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Fine But Dying",
         "url": "https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
       "artists": [
         {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
         }
       ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+      },
+      "artists": [
+        {
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
-        "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
-      "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Rescue My Heart",
         "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 205614,
       "name": "Rescue My Heart",
       "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
+        "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
+      "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 223655,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Before We Forgot How To Dream",
-        "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 288140,
-      "name": "B a noBody",
-      "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Broods",
         "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 180067,
       "name": "Sleep Baby Sleep",
       "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Before We Forgot How To Dream",
+        "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 288140,
+      "name": "B a noBody",
+      "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Gamble for a Rose",
-        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
-      },
-      "artists": [
-        {
-          "name": "King Charles",
-          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Loose Change for the Boatman",
-      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Metals",
         "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 204626,
       "name": "How Come You Never Go There",
       "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Gabrielle Shonk",
-        "url": "https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Into the Glass - EP",
         "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 203360,
       "name": "Beautiful Undone",
       "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Gabrielle Shonk",
+        "url": "https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
     },
     {
       "added_at": "2023-05-26 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 179912,
+  "num_followers": 179990,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTY3MjEyNDZhYTFmOGRkNzYxNzNkMjQ5M2FiN2UwMjUzNjEwNGRi",
+  "snapshot_id": "MCxjNzQzZGE4YjMxZTE1ZmEyNTdiOTViZjBhZjU4MGQ5OGU1OGRmMmQ4",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 149496,
-      "name": "Whine & Jumping (feat. Patrice Roberts)",
-      "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Bicycle Ride (Soca Remix) - Single",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 172755,
       "name": "Bicycle Ride - Soca Remix",
       "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 149496,
+      "name": "Whine & Jumping (feat. Patrice Roberts)",
+      "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196557,
       "name": "Blind",
       "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Antilles Riddim (Soca 2012 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 154909,
       "name": "Splash",
       "url": "https://open.spotify.com/track/1uA9hmGcHtXeJRFGuUhjfd"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Run Wid It",
         "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 191714,
       "name": "Run Wid It",
       "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Osaka Riddim (Soca 2019 Trinidad and Tobago Carnival) (Edited Version)",
         "url": "https://open.spotify.com/album/1fTFGTyXRg6QhDuWx9bvfv"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Funky Business",
         "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 173426,
       "name": "Funky Business",
       "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1379,6 +1363,42 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Dingolay",
+        "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 207034,
+      "name": "Dingolay",
+      "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -1403,58 +1423,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Dingolay",
-        "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 207034,
-      "name": "Dingolay",
-      "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Crazy Jab Riddim",
         "url": "https://open.spotify.com/album/5EUuRXy815ScvFgfBatkRs"
       },
@@ -1475,18 +1443,34 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Tight Squeeze Riddim",
-        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
       "artists": [
         {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 203756,
-      "name": "Gyal Owner",
-      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1507,6 +1491,22 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum",
       "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Tight Squeeze Riddim",
+        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "Gyal Owner",
+      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "No Behavior Shell Down",
         "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 237871,
       "name": "Rock and Come In",
       "url": "https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "So Sweet",
         "url": "https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 184800,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     }
   ],
   "unique_name": "Massive Soca Hits",

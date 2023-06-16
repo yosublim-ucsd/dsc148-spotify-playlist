@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 55928,
+  "num_followers": 55940,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQ5YmJlOTBlYjAxMDhjM2E3NTFlZTk3ZDJjNWM0MDk1NzIzZjQ5",
+  "snapshot_id": "MCwxZGVjN2RjMTJjY2E5MmQ4NGM5NDRjNzY3NzUzZmY4ODdiZTA2YmZm",
   "tracks": [
     {
       "added_at": "2023-06-12 03:40:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-12 03:40:50",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
-    },
-    {
-      "added_at": "2023-06-12 03:40:50",
-      "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2023-06-12 03:40:50",
+      "album": {
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2023-06-12 03:40:50",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-06-12 03:40:50",
       "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Moonlight Dancer",
+      "url": "https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC"
+    },
+    {
+      "added_at": "2023-06-12 03:40:50",
+      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-06-12 03:40:50",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Moonlight Dancer",
-      "url": "https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC"
-    },
-    {
-      "added_at": "2023-06-12 03:40:50",
-      "album": {
         "name": "In the Air",
         "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-12 03:40:50",
       "album": {
-        "name": "My Funny Valentine: The Chet Baker Songbook",
-        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
-    },
-    {
-      "added_at": "2023-06-12 03:40:50",
-      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202226,
       "name": "First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
+    },
+    {
+      "added_at": "2023-06-12 03:40:50",
+      "album": {
+        "name": "My Funny Valentine: The Chet Baker Songbook",
+        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
     },
     {
       "added_at": "2023-06-12 03:40:50",

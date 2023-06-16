@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-314 songs - 23 hr 26 min
+315 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Pink Television](https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Pink Television](https://open.spotify.com/album/1wI6CqM2bYIvPEnqOId4MV) | 5:07 | 2022-12-08 | 2023-01-13 |
 | [Pioneer Digital Plastic Sound](https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Pioneer Digital Plastic Sound](https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0) | 5:04 | 2023-02-02 | 2023-04-06 |
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2022-12-15 | 2023-05-19 |
-| [Planet Waves](https://open.spotify.com/track/2Wpc7khFsHEGGbnLdwrwmM) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Planet Waves](https://open.spotify.com/album/0nDbj8c9TZXVK4T96pFW1I) | 6:27 | 2023-05-04 |  |
+| [Planet Waves](https://open.spotify.com/track/2Wpc7khFsHEGGbnLdwrwmM) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Planet Waves](https://open.spotify.com/album/0nDbj8c9TZXVK4T96pFW1I) | 6:27 | 2023-05-04 | 2023-06-16 |
+| [Planet Waves](https://open.spotify.com/track/5v0kSiZkpmhnikGJsxUz4z) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 6:27 | 2023-06-09 |  |
 | [Playboy / Positions](https://open.spotify.com/track/28Wxt7U3ixliz9qsLHeYfY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Playboy / Positions](https://open.spotify.com/album/55PS8jiGvSsdruBpXzVNDi) | 2:34 | 2023-04-06 | 2023-04-28 |
 | [Pleasure](https://open.spotify.com/track/0Smyu8abzy9ghD1JMZwCiu) | [Fibre Optixx](https://open.spotify.com/artist/5lngUewtpUMrJzvOwPvHOp) | [Body Thing Pt\. 2](https://open.spotify.com/album/4DmD1gr4Lv7GZAqgoTQUhi) | 4:50 | 2023-03-23 | 2023-04-28 |
 | [Positive Vibe Tribe](https://open.spotify.com/track/6XwFasS773gtriS9dSO5Na) | [River Yarra](https://open.spotify.com/artist/2pNERfYCXwSbcFC02Rhume) | [Positive Vibe Tribe](https://open.spotify.com/album/202dQdfSfijkDi8joBcYL8) | 4:38 | 2023-04-06 | 2023-04-28 |

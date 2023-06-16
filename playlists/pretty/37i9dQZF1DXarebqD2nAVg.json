@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 425923,
+  "num_followers": 426083,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm",
+  "snapshot_id": "MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
-      },
-      "artists": [
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Louie's Lullaby",
-      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Corals",
         "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 124000,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
+      },
+      "artists": [
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Louie's Lullaby",
+      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
-      },
-      "artists": [
-        {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Pins & Needles",
         "url": "https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 92508,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2023-02-16 22:50:07",

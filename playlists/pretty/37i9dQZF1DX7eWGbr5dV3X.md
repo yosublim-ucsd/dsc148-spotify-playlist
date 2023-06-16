@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Queer Asian collective <a href="https://www.instagram.com/bubble\_\_\_\_t/?hl=en">Bubble\_T</a> takes over to celebrate, amplify, and support LGBTQ+ API musicians.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,516 likes - 35 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,518 likes - 35 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 34 | [OUT OF LOVE](https://open.spotify.com/track/2FsXUvHwU20tpBdh4U8T2O) | [King Marie](https://open.spotify.com/artist/5Hdt3ur38HNJ9OryhUFfJA) | [222](https://open.spotify.com/album/23Pu7twXff2PBWCWinouZH) | 3:23 |
 | 35 | [Living A Lie](https://open.spotify.com/track/1SFZNYExIdgM3AKgkF7tVg) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX), [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2) | [Living A Lie](https://open.spotify.com/album/2uM2FfjCuLCimcuTkvPmJd) | 2:50 |
 
-Snapshot ID: `MCw0MmJlNGU5MWU1M2Q4N2U1N2NmNTc0NmVlZmVhYTlmYWJmNzJhNjdl`
+Snapshot ID: `MCwyMDY2ZjI2NWE0NWRlMDdlMTJlZGQzZjEyMDg1MDU5MWI0MDJmOWM0`

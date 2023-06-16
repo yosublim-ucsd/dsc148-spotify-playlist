@@ -1489,6 +1489,28 @@
     },
     {
       "album": {
+        "name": "us",
+        "url": "https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        },
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228816,
+      "name": "Lemon - Numcha Remake",
+      "url": "https://open.spotify.com/track/4uIjgB5FzpcInDkFmaxWwM"
+    },
+    {
+      "album": {
         "name": "Let Me Down Slowly (feat. Alessia Cara)",
         "url": "https://open.spotify.com/album/30NnJW4urmnnaExzLLMuy6"
       },
@@ -1526,7 +1548,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 302000,
       "name": "Let You Break My Heart Again - Live at The Symphony",
       "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"

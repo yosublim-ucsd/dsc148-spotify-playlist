@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56694,
+  "num_followers": 56756,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2M2YzcwZTJiYTU3YzZiZjY5NWMwNGE1NGQ2NTkyYzE4MzQxZGYy",
+  "snapshot_id": "MCxhZjRmNzA2MTA4ZDc2MzU5MzA3MWVmYjA4Y2FlZDE2YjRjYjdjYzUw",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2004",
-        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
-      },
-      "artists": [
-        {
-          "name": "Maximus Dan",
-          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "Soca Train",
-      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Charge",
         "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "D'soca Zone - The 2ND Wine",
-        "url": "https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy"
+        "name": "Soca Gold 2004",
+        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
       },
       "artists": [
         {
-          "name": "Alison Hinds & David Rudder",
-          "url": "https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO"
+          "name": "Maximus Dan",
+          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
         }
       ],
-      "duration_ms": 266933,
-      "name": "GLOW",
-      "url": "https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S"
+      "duration_ms": 294360,
+      "name": "Soca Train",
+      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -663,6 +647,22 @@
       "duration_ms": 205187,
       "name": "Your Body Working",
       "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "D'soca Zone - The 2ND Wine",
+        "url": "https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds & David Rudder",
+          "url": "https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Hooked on Soca",
-        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
       "artists": [
         {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
         }
       ],
-      "duration_ms": 219896,
-      "name": "X Man",
-      "url": "https://open.spotify.com/track/2CTqniOs0vAGM2LvANZcl1"
+      "duration_ms": 395866,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+        "name": "Hooked on Soca",
+        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
       },
       "artists": [
         {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
         }
       ],
-      "duration_ms": 395866,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+      "duration_ms": 219896,
+      "name": "X Man",
+      "url": "https://open.spotify.com/track/2CTqniOs0vAGM2LvANZcl1"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
       "artists": [
         {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
         }
       ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
+      "duration_ms": 305388,
+      "name": "Bassman",
+      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Bassman",
-      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "The Xtatik Parade",
         "url": "https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 274173,
       "name": "Craziness",
       "url": "https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1191,22 +1191,6 @@
       "duration_ms": 248173,
       "name": "Tremble It",
       "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (We Love De)",
-      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1271,6 +1255,22 @@
       "duration_ms": 231040,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Lovey",
+          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Bitein Incex (We Love De)",
+      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",

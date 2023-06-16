@@ -3613,6 +3613,32 @@
     },
     {
       "album": {
+        "name": "Where We Go?",
+        "url": "https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY"
+      },
+      "artists": [
+        {
+          "name": "GARY",
+          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "TAEWAN",
+          "url": "https://open.spotify.com/artist/3K4TluVj1rCYjiRFuzOfR7"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Where We Go?",
+      "url": "https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi"
+    },
+    {
+      "album": {
         "name": "\uc5b4\ub514 \uac08\ub798",
         "url": "https://open.spotify.com/album/3JdK31l6qcLrk7Cug2iuM1"
       },
@@ -3636,32 +3662,6 @@
       "duration_ms": 212493,
       "name": "Where We Go?",
       "url": "https://open.spotify.com/track/1TeEUA7ZY4uyZ97iHBn9N6"
-    },
-    {
-      "album": {
-        "name": "\uc5b4\ub514 \uac08\ub798",
-        "url": "https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY"
-      },
-      "artists": [
-        {
-          "name": "GARY",
-          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
-        },
-        {
-          "name": "\ud0dc\uc644",
-          "url": "https://open.spotify.com/artist/6OK3Lf8Ws6A4UdRw3lMNZo"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "date_added": "2020-12-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "Where We Go?",
-      "url": "https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi"
     },
     {
       "album": {

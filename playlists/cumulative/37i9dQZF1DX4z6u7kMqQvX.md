@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-431 songs - 1 day 0 hr 31 min
+432 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Domingo](https://open.spotify.com/track/5FgyIF4AvesAj5xws4gpdv) | [Poi mp3](https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8) | [Domingo](https://open.spotify.com/album/01kTCGJItkwSIK8jYMRxDV) | 3:26 | 2022-01-07 | 2022-07-29 |
 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 | 2022-01-07 | 2022-07-29 |
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-07 | 2022-07-25 |
+| [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-06-15 |  |
 | [Dos Extraños](https://open.spotify.com/track/0yo7iyDow5BUxs9JFVfU1F) | [Paraleia](https://open.spotify.com/artist/737T198kjU3hbvxpc2wnhC) | [Dos Extraños](https://open.spotify.com/album/5fE8LmOvegL7tIfGmq9dVh) | 5:19 | 2022-04-01 | 2022-04-21 |
 | [Dos Galaxias](https://open.spotify.com/track/6zWr8KVQ5gLbXY43KgxJNI) | [El Mato](https://open.spotify.com/artist/2pOYOOflbI58JsE1IHbwUq), [Un Policia Motorizado](https://open.spotify.com/artist/7u1y4Oo6EnaRmZQuEmDyQn) | [Mujeres Bellas y Fuertes](https://open.spotify.com/album/5aEkGG6aAyvEYVxhaB6tGi) | 4:22 | 2022-01-07 | 2022-10-26 |
 | [Dos Galaxias](https://open.spotify.com/track/16BHLWnnV31McTN5gbs5KM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:20 | 2022-10-28 | 2023-03-03 |
@@ -268,7 +269,7 @@
 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2022-01-28 | 2022-07-25 |
 | [Nada](https://open.spotify.com/track/56FFpn2u7ZGgPU3dS29G6y) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Garzøn](https://open.spotify.com/artist/25jgvOUY4AVTfxKjwckFFa) | [Nada](https://open.spotify.com/album/6s9oZCm9YYvKojeLPpSFWe) | 4:15 | 2022-05-09 | 2022-07-18 |
 | [Nadie+](https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [R.L.G](https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra) | [Nadie+](https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X) | 2:22 | 2023-04-07 | 2023-05-27 |
-| [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-01-07 |  |
+| [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-01-07 | 2023-06-16 |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2022-01-07 |  |
 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-06-03 | 2022-07-15 |
 | [Niño Amor](https://open.spotify.com/track/1AXD4Qm1FDkXpqGRQzo9Oa) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Niño Amor](https://open.spotify.com/album/5OSl8lw989VgokND0mOmqK) | 3:03 | 2022-01-07 | 2023-03-03 |

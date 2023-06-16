@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-217 songs - 5 hr 30 min
+218 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Smile for Everyone](https://open.spotify.com/track/6kkVJzTyJ4LKh4zM6TodVF) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 2:07 | 2022-02-10 |  |
 | [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 |  |
 | [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 | 2022-06-11 |
-| [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 |  |
+| [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 | 2023-06-16 |
 | [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 | 2022-06-11 |
 | [Arioso](https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Pieces](https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9) | 2:01 | 2022-02-10 | 2022-06-11 |
 | [Arriba del Cielo](https://open.spotify.com/track/3KWiNfUbi0zs0KoMAusIBN) | [Marshfold](https://open.spotify.com/artist/5YKn3z6YLjGP2ydLHVanoa) | [Arriba del Cielo](https://open.spotify.com/album/2j0cClBu5CYlleUVKg116a) | 1:09 | 2022-02-10 |  |
@@ -64,6 +64,7 @@
 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 | 2022-02-10 |  |
 | [Down By The Bay](https://open.spotify.com/track/3FpGkazRKFALtFqgoSHP94) | [Juliusz Olszewski](https://open.spotify.com/artist/3fhyvyCm5tmUhKClaprPsn) | [If You're Happy And You Know It](https://open.spotify.com/album/55l78rP89wx0v9oFfvOKU4) | 1:13 | 2022-02-10 | 2022-06-11 |
 | [Dream Dreams](https://open.spotify.com/track/2oppXf0oJKglJLVoSPdDb3) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Dream Dreams](https://open.spotify.com/album/7ywh2jYHwz3eAlwSW9gBJL) | 1:03 | 2022-05-17 |  |
+| [Dream Painting](https://open.spotify.com/track/1RO1xNn6WufiJJ5JORhagP) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [Dream Painting](https://open.spotify.com/album/2cbshBuRnBf1dwLSNUi1CQ) | 1:14 | 2023-06-15 |  |
 | [Dreaming Fairies](https://open.spotify.com/track/25EANIja57vwSi2HiGuYLU) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Dreaming Fairies](https://open.spotify.com/album/77tBcOPmY6EDM6mL1yN7HD) | 1:32 | 2022-02-10 |  |
 | [Dreams Of Roses](https://open.spotify.com/track/1o8xy2ywk1uUCLLa3igv5r) | [Natalie Park](https://open.spotify.com/artist/5xBhqnVsDaIWI16jfjV8An) | [Dreams Of Roses](https://open.spotify.com/album/6EjIX0f3QPUZpHRWKWZMBS) | 1:35 | 2022-02-10 |  |
 | [Dreamscape](https://open.spotify.com/track/3xr80E2YijvMBXXZVk3Xds) | [Vera Boye](https://open.spotify.com/artist/0N60MVY1TWov2PjfpcDNH1) | [Dreamscape](https://open.spotify.com/album/0zajkqibzIYQI3N00afUr2) | 2:12 | 2023-02-17 |  |

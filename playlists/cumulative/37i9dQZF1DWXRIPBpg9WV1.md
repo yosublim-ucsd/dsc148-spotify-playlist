@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-243 songs - 12 hr 13 min
+244 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,10 @@
 | [Arthur's Theme](https://open.spotify.com/track/2Ft1pxvNweDBKxbntC15jr) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Arthur's Theme](https://open.spotify.com/album/6KrFogWw5iuEMSoONRFvtu) | 3:31 | 2023-04-14 |  |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-15 | 2023-06-03 |
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-03-17 |  |
-| [At Last](https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [At Last](https://open.spotify.com/album/0oBRuyGG8rJJAcZ3xQjkqH) | 2:57 | 2022-05-20 |  |
+| [At Last](https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [At Last](https://open.spotify.com/album/0oBRuyGG8rJJAcZ3xQjkqH) | 2:57 | 2022-05-20 | 2023-06-16 |
 | [At This Point](https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm) | [Vera Stockhaus](https://open.spotify.com/artist/3zelFu7VpEQ4gAlbOl8C28) | [At This Point](https://open.spotify.com/album/0E5DSqASdf05sO5F3zJffo) | 2:50 | 2023-01-13 |  |
 | [Attention](https://open.spotify.com/track/7saPqdjNGYVhEB9EDIsQ3p) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Attention](https://open.spotify.com/album/1xmJoCr4u9QjkoQOOZdoAU) | 2:45 | 2022-12-02 | 2023-06-03 |
-| [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 | 2022-05-20 |  |
+| [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 | 2022-05-20 | 2023-06-16 |
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
 | [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-13 | 2023-06-03 |
 | [Bad Habits](https://open.spotify.com/track/5GhGxnInJgQLbI61S4NwhM) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Bad Habits](https://open.spotify.com/album/6HwuOd0UdhwIMh4Pw8txz0) | 3:07 | 2022-12-02 | 2023-06-03 |
@@ -118,6 +118,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5rU2PLiSUb2or6DqalZOUX) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [I'm Good \(Blue\)](https://open.spotify.com/album/1HLUiJ6bYFE6FCMMiaMdpL) | 2:19 | 2022-12-02 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-23 |  |
 | [If I Never Knew You](https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If I Never Knew You](https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5) | 3:10 | 2023-02-24 |  |
+| [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 | 2023-06-15 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0YCqrDZxu92UqtkqCLLFvl) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If You Leave Me Now](https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu) | 3:48 | 2022-06-15 | 2023-06-03 |
 | [Imagine](https://open.spotify.com/track/1075EyJPJUVIfwUSF3gAkB) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [Imagine](https://open.spotify.com/album/24qv6NAiCzGYCziUKLcCkD) | 2:15 | 2022-12-02 | 2023-02-04 |
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-02-03 |  |
@@ -213,7 +214,7 @@
 | [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/6Pm1tdfNQdNuWOG0mDXImu) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/11IHpdLzDHfHbwgZCxWyoa) | 3:32 | 2022-09-30 | 2022-11-13 |
 | [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 | 2022-07-26 | 2023-06-03 |
-| [Time After Time](https://open.spotify.com/track/7lys79KCKl7e7TMLrzVvk0) | [Pablo & Pietro](https://open.spotify.com/artist/7I0P5tFaSG1jsn51OAFZw6) | [Time After Time](https://open.spotify.com/album/5Hms8V6dE7ugno8Di3yAzT) | 2:42 | 2022-12-02 |  |
+| [Time After Time](https://open.spotify.com/track/7lys79KCKl7e7TMLrzVvk0) | [Pablo & Pietro](https://open.spotify.com/artist/7I0P5tFaSG1jsn51OAFZw6) | [Time After Time](https://open.spotify.com/album/5Hms8V6dE7ugno8Di3yAzT) | 2:42 | 2022-12-02 | 2023-06-16 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0lazFQfhuD9CDjkceTIj9E) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 4:04 | 2022-05-20 | 2023-06-03 |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 | 2023-04-15 |
 | [Top Gun Anthem](https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Top Gun Anthem](https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf) | 2:40 | 2023-04-14 | 2023-05-05 |
@@ -223,9 +224,9 @@
 | [Unholy](https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs) | [Jimmie Pérez](https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff) | [Unholy](https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw) | 2:31 | 2022-12-02 | 2023-02-04 |
 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 | 2022-12-23 | 2023-06-03 |
 | [Visa vid vindens ängar](https://open.spotify.com/track/7yuJEGsaEhonLWpqX67h5v) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Visa vid vindens ängar](https://open.spotify.com/album/4hjS1cyVshSuAk0oLhVGKB) | 2:26 | 2022-05-20 | 2023-06-03 |
-| [Wake Me Up](https://open.spotify.com/track/41SWY0rWeJTEpzcLaR3dfL) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Wake Me Up](https://open.spotify.com/album/4PgndqAmhT0Pti7eVBv63o) | 1:50 | 2023-05-05 |  |
+| [Wake Me Up](https://open.spotify.com/track/41SWY0rWeJTEpzcLaR3dfL) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Wake Me Up](https://open.spotify.com/album/4PgndqAmhT0Pti7eVBv63o) | 1:50 | 2023-05-05 | 2023-06-16 |
 | [We Found Love](https://open.spotify.com/track/7oEmwAjdMSSeKdyRcqFb1z) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [We Found Love](https://open.spotify.com/album/2X5MEv6zDjKVSzHUmmk8Vi) | 1:57 | 2023-05-05 |  |
-| [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 |  |
+| [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-06-16 |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-05-20 | 2023-03-18 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-05-20 | 2023-06-03 |
 | [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 | 2022-05-20 |  |

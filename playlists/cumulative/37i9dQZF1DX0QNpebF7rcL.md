@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-281 songs - 18 hr 57 min
+282 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 | 2021-07-23 | 2023-01-21 |
 | [Two Bit Texas Town](https://open.spotify.com/track/48WPGpuRXtUYWa353MFFtU) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [Pinky's Blues](https://open.spotify.com/album/7g9Y9WfxLZuswzgCy4Pwpq) | 3:44 | 2021-10-22 |  |
 | [Two Hands](https://open.spotify.com/track/61PT5UtpBFUmuJMdSlf6ii) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Two Hands](https://open.spotify.com/album/38rXeCAEtZ7zYA4zYLAtEC) | 3:31 | 2022-04-05 | 2022-04-09 |
-| [Two Of A Kind](https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Two Of A Kind](https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE) | 3:55 | 2023-06-02 |  |
+| [Two Of A Kind](https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/1CW7MiOxF2OB1fm4hCjQSq) | 3:55 | 2023-06-02 |  |
+| [Two Of A Kind](https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Two Of A Kind](https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE) | 3:55 | 2023-06-02 | 2023-06-16 |
 | [Two Steps From The Blues](https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Two Steps From The Blues](https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV) | 2:37 | 2022-09-02 | 2023-02-11 |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-08-06 | 2023-05-20 |
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-08-06 | 2023-03-04 |

@@ -8333,6 +8333,24 @@
     },
     {
       "album": {
+        "name": "Dreamcore",
+        "url": "https://open.spotify.com/album/4CY1U196lzQmwy5AeMooMl"
+      },
+      "artists": [
+        {
+          "name": "Pathetic",
+          "url": "https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Dreamcore",
+      "url": "https://open.spotify.com/track/2cfFwuqPLUre5laXoyiRme"
+    },
+    {
+      "album": {
         "name": "dreamcore",
         "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
       },
@@ -8348,24 +8366,6 @@
       "duration_ms": 100310,
       "name": "dreamcore",
       "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
-    },
-    {
-      "album": {
-        "name": "dreamcore//",
-        "url": "https://open.spotify.com/album/4CY1U196lzQmwy5AeMooMl"
-      },
-      "artists": [
-        {
-          "name": "Pathetic",
-          "url": "https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f"
-        }
-      ],
-      "date_added": "2021-11-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178285,
-      "name": "dreamcore//",
-      "url": "https://open.spotify.com/track/2cfFwuqPLUre5laXoyiRme"
     },
     {
       "album": {
@@ -30599,7 +30599,7 @@
     },
     {
       "album": {
-        "name": "Capital Punishment (Explicit Version)",
+        "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
       "artists": [

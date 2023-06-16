@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\u001dSURAN(\uc218\ub780)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\u001dJOO SEOL OK(\uc8fc\uc124\uc625)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Decision to leave",
+        "url": "https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188342,
+      "name": "Decision to leave",
+      "url": "https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6"
+    },
+    {
+      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 205560,
       "name": "Far away",
       "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
@@ -3573,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Love is painful",
+        "url": "https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV"
+      },
+      "artists": [
+        {
+          "name": "JOO SEOL OK",
+          "url": "https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261092,
+      "name": "Love is painful",
+      "url": "https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -4520,7 +4556,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
@@ -4690,7 +4726,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -6608,6 +6644,24 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "album": {
+        "name": "Where To Go",
+        "url": "https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s"
+      },
+      "artists": [
+        {
+          "name": "LEENU",
+          "url": "https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227897,
+      "name": "Where To Go",
+      "url": "https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 36062,
+  "num_followers": 36176,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjQ5N2MyODNjN2YyNTA1MTkzNmQ4MDFiNDg4MjRiOTI3MzkyOTFk",
+  "snapshot_id": "MCw1MDJmZDZjYWI5YmZmOTc3NTg4ZTBjYjEwMDkzYmZkNzM1NmI4ZmEz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -675,22 +675,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 244138,
-      "name": "CYBAH (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
+      "duration_ms": 226253,
+      "name": "Oh, Maker",
+      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -711,18 +707,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 226253,
-      "name": "Oh, Maker",
-      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 292226,
       "name": "My Imagination",
       "url": "https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     }
   ],
   "unique_name": "Quinta Brunson's Taste",

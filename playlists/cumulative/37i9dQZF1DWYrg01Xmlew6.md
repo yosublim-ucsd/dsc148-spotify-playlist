@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-208 songs - 9 hr 47 min
+209 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY) | 3:02 | 2022-05-10 | 2022-10-14 |
 | [Amiezavj](https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Amiezavj](https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x) | 3:19 | 2022-05-10 | 2022-06-10 |
 | [Ammor Malat](https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Drew](https://open.spotify.com/artist/63AMqq6suxV7uvDizOFweZ) | [Ammor Malat](https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe) | 2:53 | 2022-05-10 | 2023-01-13 |
+| [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/track/4IeFakToqcwNogAjNsPCuF) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/album/3XS3YeYI9z9sAFtCCBmlZr) | 2:15 | 2023-06-14 |  |
 | [Baby è tutt' normal'](https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [LOWA](https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1) | [Baby è tutt' normal'](https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI) | 2:43 | 2022-07-28 | 2022-11-18 |
 | [BAMBINO](https://open.spotify.com/track/1m9KqPPmCjTXl7ia87Cs4B) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [BAMBINO](https://open.spotify.com/album/4jOmmG04lICQCmUWelhrMK) | 2:25 | 2023-06-14 |  |
 | [BCN](https://open.spotify.com/track/4ZgHvRgiUoXyJAg6Zkb96b) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [BCN](https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5) | 2:15 | 2022-05-10 | 2022-05-13 |

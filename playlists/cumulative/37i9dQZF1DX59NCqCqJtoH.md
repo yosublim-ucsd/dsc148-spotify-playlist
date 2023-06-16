@@ -4,7 +4,7 @@
 
 > We hear you.
 
-596 songs - 1 day 5 hr 25 min
+597 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Can You See Me \- alt](https://open.spotify.com/track/0JdPkcKedDV9DnhPPQ4orp) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me \(alt\)](https://open.spotify.com/album/49mxh68UcGvH28FHkJp0Ln) | 3:29 | 2022-03-29 | 2022-07-01 |
 | [can't get out of bed](https://open.spotify.com/track/0joPSEE7gFJf7JkpNwzT1N) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [can't get out of bed](https://open.spotify.com/album/2CG8tHc6bP3YLh2EZgCo52) | 3:20 | 2021-04-02 | 2022-04-19 |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-05-25 | 2023-02-02 |
-| [Carbon Monoxide](https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Carbon Monoxide](https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2) | 3:10 | 2023-03-21 |  |
+| [Carbon Monoxide](https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Carbon Monoxide](https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2) | 3:10 | 2023-03-21 | 2023-06-16 |
 | [Care \(with Omar Apollo\)](https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 4:50 | 2021-04-02 | 2022-07-29 |
 | [castle with the cobwebs](https://open.spotify.com/track/3cvFdYVef5nm0BFn1nqek3) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [castle with the cobwebs](https://open.spotify.com/album/1R6XgSsb1wlhwimb3yClxS) | 2:27 | 2022-05-25 | 2022-07-05 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-10-14 | 2023-04-27 |
@@ -503,6 +503,7 @@
 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 | 2022-05-25 | 2022-12-24 |
 | [Teenage Mind](https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw) | 2:35 | 2021-04-02 | 2022-06-26 |
 | [Tell Me](https://open.spotify.com/track/0WUEI3wb6ei1gRvCJChfxA) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [Tell Me](https://open.spotify.com/album/3LB11f7xrPAFdBpnlJYhth) | 3:49 | 2021-04-02 | 2022-07-29 |
+| [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 | 2023-06-15 |  |
 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2021-04-02 |  |
 | [that boy u met the other day](https://open.spotify.com/track/0StRmbxsCznIiMHOMjDJXl) | [Sinxi](https://open.spotify.com/artist/7gPvslUym7gEDxebPSkGkZ) | [that boy u met the other day](https://open.spotify.com/album/5ORQnFWhiwI8Ldug1YE9hN) | 3:35 | 2021-04-02 | 2022-06-01 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-10-15 | 2022-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "aquele rod\u00edzio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta",
-  "num_followers": 367572,
+  "num_followers": 367766,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWY5NWI2YTUyNmJiNTRmNTZiMzA2OTY1ZTkyYjdmYmRhYjFjZjAx",
+  "snapshot_id": "MCwyMTEzYmM1ZTM4MmNiNjkwNjQxOGIxNjNhYTI3NGFiNGJhMWVlNTY5",
   "tracks": [
     {
       "added_at": "2023-06-01 15:28:22",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "ELA PIROU NA DODGE RAM",
-        "url": "https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3"
-      },
-      "artists": [
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 179599,
-      "name": "ELA PIROU NA DODGE RAM",
-      "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "ELA PIROU NA DODGE RAM",
+        "url": "https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 179599,
+      "name": "ELA PIROU NA DODGE RAM",
+      "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "O Fant\u00e1stico Mundo De Nattan (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 163833,
+      "name": "Love Gostosinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Vacil\u00e3o",
         "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 130403,
       "name": "Vacil\u00e3o",
       "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "O Fant\u00e1stico Mundo De Nattan (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 163833,
-      "name": "Love Gostosinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -495,26 +495,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Ro\u00e7a Em Mim",
-        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
+        "name": "Perdoou Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         },
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 158171,
-      "name": "Ro\u00e7a Em Mim",
-      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -539,38 +535,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Perdoou Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+        "name": "Ro\u00e7a Em Mim",
+        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "Perdoou Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
-      },
-      "artists": [
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+      "duration_ms": 158171,
+      "name": "Ro\u00e7a Em Mim",
+      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -595,6 +579,22 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -955,6 +955,34 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "MC Bob Anne",
+          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.2",
         "url": "https://open.spotify.com/album/3n88JkN3da4EPoxFTXl4o5"
       },
@@ -1011,34 +1039,6 @@
       "duration_ms": 180410,
       "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
       "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Mec Life",
-        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
-      },
-      "artists": [
-        {
-          "name": "DJ ESCOBAR",
-          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
-        },
-        {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "MC Bob Anne",
-          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Mec Life",
-      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Deixa Eu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Deixa Eu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Pagode do Peric\u00e3o II, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI"
       },
@@ -1211,6 +1191,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Deixa Eu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Deixa Eu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "POLLY HITMADO",
         "url": "https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80"
       },
@@ -1223,38 +1223,6 @@
       "duration_ms": 251072,
       "name": "Pitbull Enraivado",
       "url": "https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "S\u00f3 um Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 141388,
-      "name": "S\u00f3 um Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "No Ouvidinho",
-        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "No Ouvidinho",
-      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1275,6 +1243,38 @@
       "duration_ms": 177972,
       "name": "Eu Me Rendo (feat. Iguinho e Lulinha)",
       "url": "https://open.spotify.com/track/37U1pieDm2xSUe8jbb3p6Z"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "No Ouvidinho",
+        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "No Ouvidinho",
+      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "S\u00f3 um Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 141388,
+      "name": "S\u00f3 um Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Welcome To The Mato",
         "url": "https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Pode Apostar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
       },
@@ -1371,6 +1371,30 @@
       "duration_ms": 193834,
       "name": "Pode Apostar - Ao Vivo",
       "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "Ela se Envolve",
+        "url": "https://open.spotify.com/album/1hLg8fcSHpGZi052d2ZZdS"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "WHITE NO BEAT",
+          "url": "https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu"
+        }
+      ],
+      "duration_ms": 144043,
+      "name": "Ela se Envolve",
+      "url": "https://open.spotify.com/track/1dMUsdVtoSLVkaJVMBk8Rk"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1411,30 +1435,6 @@
       "duration_ms": 217509,
       "name": "Planejei - Ao Vivo",
       "url": "https://open.spotify.com/track/0tt0kaL2vefCw19a2bk54N"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Ela se Envolve",
-        "url": "https://open.spotify.com/album/1hLg8fcSHpGZi052d2ZZdS"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "WHITE NO BEAT",
-          "url": "https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu"
-        }
-      ],
-      "duration_ms": 144043,
-      "name": "Ela se Envolve",
-      "url": "https://open.spotify.com/track/1dMUsdVtoSLVkaJVMBk8Rk"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 202562,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Te Love (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
-      },
-      "artists": [
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Te Love - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "J\u00e1 Sei Namorar",
+        "url": "https://open.spotify.com/album/37IAPkpRBmPJt2eGwXTMWS"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "J\u00e1 Sei Namorar",
+      "url": "https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Botadinha Saliente",
         "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
@@ -1575,18 +1591,34 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "J\u00e1 Sei Namorar",
-        "url": "https://open.spotify.com/album/37IAPkpRBmPJt2eGwXTMWS"
+        "name": "Samba Pro Meu Povo: Bloco Rua Mariana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
         }
       ],
-      "duration_ms": 147555,
-      "name": "J\u00e1 Sei Namorar",
-      "url": "https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG"
+      "duration_ms": 212884,
+      "name": "Mo\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1607,22 +1639,6 @@
       "duration_ms": 178765,
       "name": "Pega o Guanabara - Ao Vivo",
       "url": "https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Samba Pro Meu Povo: Bloco Rua Mariana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m"
-      },
-      "artists": [
-        {
-          "name": "Tiee",
-          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
-        }
-      ],
-      "duration_ms": 212884,
-      "name": "Mo\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1715,22 +1731,6 @@
       "duration_ms": 168000,
       "name": "Prejudicado",
       "url": "https://open.spotify.com/track/3nx9px7NuGBe3mxnJZtnen"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Wonderful Brazilian Pagode",
+        "url": "https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA"
+      },
+      "artists": [
+        {
+          "name": "MacGrath",
+          "url": "https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW"
+        }
+      ],
+      "duration_ms": 288818,
+      "name": "Wonderful Brazilian Pagode",
+      "url": "https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Embaixador do Piseiro em Casa - Ao Vivo",
         "url": "https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 175290,
       "name": "Rave e Bagaceira",
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Wonderful Brazilian Pagode",
-        "url": "https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA"
-      },
-      "artists": [
-        {
-          "name": "MacGrath",
-          "url": "https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW"
-        }
-      ],
-      "duration_ms": 288818,
-      "name": "Wonderful Brazilian Pagode",
-      "url": "https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU"
     },
     {
       "added_at": "2023-06-01 15:28:22",

@@ -2,7 +2,7 @@
 
 ### [Mark Knight's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWUbKXPE8a2j2)
 
-> Toolroom's head honcho <a href=spotify:artist:3h11MHQeCrcsUgRRijI1zL">Mark Knight</a> delivers a driving house mix that will get you groovin'
+> Toolroom's head honcho <a href=spotify:artist:3h11MHQeCrcsUgRRijI1zL>Mark Knight</a> delivers a driving house mix that will get you groovin'
 
 14 songs - 58 min 50 sec
 

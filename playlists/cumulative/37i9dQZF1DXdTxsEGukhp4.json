@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "asphalt",
+        "url": "https://open.spotify.com/album/6FZ8ArIPOtMzvmxGjxFsE2"
+      },
+      "artists": [
+        {
+          "name": "Lot",
+          "url": "https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "asphalt",
+      "url": "https://open.spotify.com/track/4Zsp5lrpONEvUzY75rIsRK"
+    },
+    {
+      "album": {
         "name": "Baby you",
         "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
       },
@@ -721,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/4saUb4i5zdfxATnxA5ONQv"
+      },
+      "artists": [
+        {
+          "name": "Natsunose",
+          "url": "https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116062,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/35bVBWVGUYQOIXp1PuxjuP"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -918,7 +954,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 177580,
       "name": "KIMINOMAMA",
       "url": "https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h"
@@ -1060,6 +1096,24 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/6YiIRjTqbhaWpNG5WpgB85"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263106,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF"
     },
     {
       "album": {
@@ -1252,6 +1306,24 @@
       "duration_ms": 129229,
       "name": "One More Last Time",
       "url": "https://open.spotify.com/track/2EPQXOr3VLvDImQnoHOYO3"
+    },
+    {
+      "album": {
+        "name": "One verse",
+        "url": "https://open.spotify.com/album/4MeMzX3Tev4AJ52B6QtoT9"
+      },
+      "artists": [
+        {
+          "name": "MANSION PARK",
+          "url": "https://open.spotify.com/artist/5VejXt26cu0BRsdaBOcenJ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202940,
+      "name": "One verse",
+      "url": "https://open.spotify.com/track/7atPg5O0DG0nQu9p1qGBCC"
     },
     {
       "album": {
@@ -1623,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "something about kiss",
+        "url": "https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0"
+      },
+      "artists": [
+        {
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/1TSN3GfeK8z5PmrhMXuzOp"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "something about kiss",
+      "url": "https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv"
+    },
+    {
+      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/4WO7X2WTA8pjxxKbqRB6Nw"
       },
@@ -1652,7 +1742,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
@@ -2206,7 +2296,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 272965,
       "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
       "url": "https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4"
@@ -2584,7 +2674,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 225693,
       "name": "\u4ffa\u306f\u6700\u9ad8!!!",
       "url": "https://open.spotify.com/track/1ufjsJqgxVEugpPstfj4Qk"
@@ -2748,7 +2838,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 332546,
       "name": "\u5e73\u6210\u306e\u4e59\u5973 feat.KENTY\u2010GROSS",
       "url": "https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c"

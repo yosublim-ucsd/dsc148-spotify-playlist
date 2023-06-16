@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 266301,
       "name": "A Ti, Mam\u00e1 - Remix",
       "url": "https://open.spotify.com/track/37p9yuy0m9HsoaCmCAg4On"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 217846,
       "name": "Acostumbr\u00e1ndome",
       "url": "https://open.spotify.com/track/4NJLfHPvTnRlwy8p54yM9u"
@@ -452,6 +452,10 @@
         {
           "name": "Callejero Fino",
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
       "date_added": "2023-06-13",
@@ -460,6 +464,32 @@
       "duration_ms": 154533,
       "name": "CERO$",
       "url": "https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy"
+    },
+    {
+      "album": {
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
     },
     {
       "album": {
@@ -543,6 +573,32 @@
     },
     {
       "album": {
+        "name": "De Fondo A Hospitalet",
+        "url": "https://open.spotify.com/album/4xITmPcG21KnWEz2qN6RFj"
+      },
+      "artists": [
+        {
+          "name": "El Shick",
+          "url": "https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae"
+        },
+        {
+          "name": "El Quempe",
+          "url": "https://open.spotify.com/artist/26XektjYlS6lZ6eN16b17V"
+        },
+        {
+          "name": "Wilman el de ete lao",
+          "url": "https://open.spotify.com/artist/6InIc88tkr3oWTfYNfn7Rc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257823,
+      "name": "De Fondo A Hospitalet",
+      "url": "https://open.spotify.com/track/0hJhYYji2ZDTeqaRC8qaNb"
+    },
+    {
+      "album": {
         "name": "Desde Morrillo",
         "url": "https://open.spotify.com/album/1wx8EH9jinYcU077sWfJuS"
       },
@@ -558,6 +614,24 @@
       "duration_ms": 150000,
       "name": "Desde Morrillo",
       "url": "https://open.spotify.com/track/7qB4tkVHLAx7dIHHi7JQnG"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s de Antes",
+        "url": "https://open.spotify.com/album/2M7c4etCFEFT1muf7qinap"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212636,
+      "name": "Despu\u00e9s de Antes",
+      "url": "https://open.spotify.com/track/1X0NmncUIFrmGxQzInjr3I"
     },
     {
       "album": {
@@ -660,7 +734,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 412426,
       "name": "Epsplosive",
       "url": "https://open.spotify.com/track/7pH6qL2HeeuwpsSbBYdXlv"
@@ -726,6 +800,32 @@
       "duration_ms": 180923,
       "name": "Explicaciones",
       "url": "https://open.spotify.com/track/7HVSa4it1ejFjtOEytQ7Zk"
+    },
+    {
+      "album": {
+        "name": "Fam",
+        "url": "https://open.spotify.com/album/79jiDdUh4fHgZD6Nc8BTtG"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        },
+        {
+          "name": "iQlover",
+          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
+        },
+        {
+          "name": "Jean Lorenzo",
+          "url": "https://open.spotify.com/artist/1SiCtkP6p4zznKIDPrtTUU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Fam",
+      "url": "https://open.spotify.com/track/7hXbJfndu8ZdDQo4nlQK3g"
     },
     {
       "album": {
@@ -912,6 +1012,24 @@
       "duration_ms": 224677,
       "name": "Jungla",
       "url": "https://open.spotify.com/track/76s0uCFzmJRWpELYgkqNKz"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/0UTYTETZrgy8Zh2SsjzXUJ"
+      },
+      "artists": [
+        {
+          "name": "Michell Estrella",
+          "url": "https://open.spotify.com/artist/58libpec3w3qCcqOGpkEYy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128226,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/3i94cGz0y5mz6oNQ3odavC"
     },
     {
       "album": {
@@ -1322,7 +1440,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 209620,
       "name": "Misiles en Gaza",
       "url": "https://open.spotify.com/track/1neBPzHnstkwywNelGZUOC"
@@ -1340,7 +1458,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 214615,
       "name": "Monumental",
       "url": "https://open.spotify.com/track/4f4YujJOnlV5XOt0oorZz6"
@@ -1369,6 +1487,32 @@
     },
     {
       "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
+    },
+    {
+      "album": {
         "name": "N.D.C",
         "url": "https://open.spotify.com/album/3tMENCHCbPYajShbtAH1AZ"
       },
@@ -1384,7 +1528,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 280000,
       "name": "N.D.C",
       "url": "https://open.spotify.com/track/3fR4KGhIU1GJEiLsCjtXOS"
@@ -1672,7 +1816,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 253402,
       "name": "PULPARI",
       "url": "https://open.spotify.com/track/3aAvHk9XY2ApYCIaiJMU9l"
@@ -1748,7 +1892,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 284579,
       "name": "Que No Se Apague",
       "url": "https://open.spotify.com/track/1fEc6t9NteHIqXv0sgpEIW"
@@ -1862,7 +2006,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 222857,
       "name": "Somos de la Calle",
       "url": "https://open.spotify.com/track/5zMOd7A4JnApkLBCcPMh5g"
@@ -1932,7 +2076,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 320932,
       "name": "Toda la Semana",
       "url": "https://open.spotify.com/track/0zMgUj4oEj6VTImz3rrbKQ"
@@ -2119,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "When Llueve",
+        "url": "https://open.spotify.com/album/6UFAzNXzgnHlxoQ4pjnynu"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Jeff Turner Musik",
+          "url": "https://open.spotify.com/artist/5M7sRhqfcu6miizd5uGlWj"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "When Llueve",
+      "url": "https://open.spotify.com/track/6BpqEm4rwXOfbshMhOI9uv"
+    },
+    {
+      "album": {
         "name": "Y Jume Y Jume",
         "url": "https://open.spotify.com/album/685jWALu4XWM2mNzpCk6Ta"
       },
@@ -2130,10 +2296,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 172000,
       "name": "Y Jume Y Jume",
       "url": "https://open.spotify.com/track/48FxN4ii1uoa8XkwFA1q7j"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Hay Que Hacer?",
+        "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "\u00bfQu\u00e9 Hay Que Hacer?",
+      "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWqt6nKwdYgN"

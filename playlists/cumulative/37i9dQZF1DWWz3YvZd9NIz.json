@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Anyplace, Anywhere, Anytime (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "ARK8",
+          "url": "https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147456,
+      "name": "Anyplace, Anywhere, Anytime (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf"
+    },
+    {
+      "album": {
         "name": "Apologize (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/3wjGKwaZvfZnWqOfVgzkme"
       },
@@ -376,7 +398,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 213750,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
@@ -540,6 +562,32 @@
       "duration_ms": 135967,
       "name": "Chase The Sun (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+    },
+    {
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/6gPqh8lsH8TR4IPxmwffCq"
+      },
+      "artists": [
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Stormerz",
+          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+        },
+        {
+          "name": "Hardstyle Fruits Music",
+          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/3toZLVE2wYiH7SJkv3QObm"
     },
     {
       "album": {
@@ -1016,7 +1064,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 332103,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/0JcDnOoLHAqNpFr5lQml2j"
@@ -1570,7 +1618,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 218709,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/78t8EH1uYaa0uGY2aih0RI"
@@ -2046,6 +2094,24 @@
       "duration_ms": 167229,
       "name": "Pok\u00e9mon Theme (Fallen Superhero Remix)",
       "url": "https://open.spotify.com/track/0rgLJMtbtKIsTHFB52WnAS"
+    },
+    {
+      "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/1wUIav3nacHC56q1ZN9ANv"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/6kvbfuy7sCAufBZ17GVKZo"
     },
     {
       "album": {

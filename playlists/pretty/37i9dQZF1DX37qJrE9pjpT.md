@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 23 | [O 2 the G Cypher](https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [JawnRaw](https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [Subtex](https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3), [Jonathon Karabekian](https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn), [nem r](https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0), [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM), [Plate Mdaijasho](https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW), [Cody Nash](https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl), [Shazzy B](https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX) | [O 2 the G Cypher](https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH) | 7:51 |
 | 24 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 |
 | 25 | [Threesome](https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc), [Chemical](https://open.spotify.com/artist/6SrKsGuGB3I2DQG02GO4Va), [Frida Amani](https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU) | [Threesome Feat\. Chemical & Frida Amani](https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16) | 3:20 |
-| 26 | [Feelin](https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq) | [kisanga](https://open.spotify.com/artist/4JjEDrm0ZHeunwcPLwwimR) | [Feelin](https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN) | 2:53 |
+| 26 | [Feelin](https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq) | [ni\_kisanga](https://open.spotify.com/artist/6zShZL47Da1WJHMcqGeRPp) | [Feelin](https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN) | 2:53 |
 | 27 | [Like That](https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB) | [Like That](https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL) | 3:12 |
 | 28 | [BLESS](https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9) | [iA MOS](https://open.spotify.com/artist/5iQjkWJvUP5go0LNo8Wra0), [Bk bakari](https://open.spotify.com/artist/4VW3UT2XqmrRXlfxOmaZQL) | [BLESS](https://open.spotify.com/album/6POU9Kc9rWz3NU4KEnAddP) | 2:52 |
 | 29 | [Masihara \- Remix](https://open.spotify.com/track/7fUBvdVv2VwG1OoSRaNgnJ) | [Motra the Future](https://open.spotify.com/artist/7kwDEyETjNtgnnqTS2aV6w), [Damian Soul](https://open.spotify.com/artist/0itKzONcc1U3zReelqqGVE), [Idris Sultan](https://open.spotify.com/artist/6A4QxuZPm2yadJm8DAEMBj) | [Masihara \(Remix\)](https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI) | 3:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 44 | [TAKE ONE\. \(EPISODE 1\) \- Radio Edit](https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [TAKE ONE\. \(EPISODE 1\) \[Radio Edit\]](https://open.spotify.com/album/1W0W5eCgAXD2JtrLlS2bnz) | 2:27 |
 | 45 | [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 |
 | 46 | [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 |
-| 47 | [WE DID IT](https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc) | [kisanga](https://open.spotify.com/artist/4JjEDrm0ZHeunwcPLwwimR) | [WE DID IT](https://open.spotify.com/album/6zk5eFAcjdMz0dtnbbIkQi) | 3:12 |
+| 47 | [WE DID IT](https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc) | [ni\_kisanga](https://open.spotify.com/artist/6zShZL47Da1WJHMcqGeRPp) | [WE DID IT](https://open.spotify.com/album/6zk5eFAcjdMz0dtnbbIkQi) | 3:12 |
 | 48 | [Dear Gambe](https://open.spotify.com/track/2i37M0jQYvAZNvId6tZU30) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Dear Gambe](https://open.spotify.com/album/4cOVoj2vxhLViRWFhA5XUm) | 4:00 |
 | 49 | [Mzee Mbuzi](https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Kitaaolojia](https://open.spotify.com/album/1UK4Xl5OjQdJZsI52ZBewB) | 3:36 |
 
-Snapshot ID: `MCwwZDE4NDkyYzNlMDFkZGEzYTFhM2IzZTc5MGNmNDExOTgyZGZlOWNh`
+Snapshot ID: `MCxhZDdmZWUxYTg5NDZlMTAxZGY3NWIwOGZlMGQyY2M2NjI2YzI5Zjk2`

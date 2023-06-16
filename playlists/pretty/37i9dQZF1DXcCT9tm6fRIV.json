@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 233564,
+  "num_followers": 233621,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzk1N2U4MmJiYzFkZTZkZDczMjZjODdjZmYxZTc4YjYxN2M5ZmFm",
+  "snapshot_id": "MCwwYWEzNGExMmIxODk4NDlhYzIzMGFkODM1ODM1ZTMzZTMzNjljZjI1",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Una Guitarra Para Gardel",
-        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
+        "name": "Astor Piazzolla/ Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr"
       },
       "artists": [
         {
-          "name": "An\u00edbal Arias",
-          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
         }
       ],
-      "duration_ms": 132426,
-      "name": "Silbando",
-      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
+      "duration_ms": 240306,
+      "name": "El Gordo Triste - En Vivo Teatro Regina 1982",
+      "url": "https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -447,22 +451,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Astor Piazzolla/ Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr"
+        "name": "Una Guitarra Para Gardel",
+        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+          "name": "An\u00edbal Arias",
+          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
         }
       ],
-      "duration_ms": 240306,
-      "name": "El Gordo Triste - En Vivo Teatro Regina 1982",
-      "url": "https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco"
+      "duration_ms": 132426,
+      "name": "Silbando",
+      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Docke",
-        "url": "https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Niebla del Riachuelo",
-      "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Pucherito de gallina",
         "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 147173,
       "name": "Pucherito de gallina",
       "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Docke",
+        "url": "https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Niebla del Riachuelo",
+      "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Canciones del Sur",
-        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
-      },
-      "artists": [
-        {
-          "name": "Ines Cuello",
-          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
-        },
-        {
-          "name": "Ram\u00f3n Maschio",
-          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Canciones del Sur",
+        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
+      },
+      "artists": [
+        {
+          "name": "Ines Cuello",
+          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
+        },
+        {
+          "name": "Ram\u00f3n Maschio",
+          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Celebridades",
-        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Adi\u00f3s Muchachos",
-      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Viejo Zen del Alma",
         "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+        "name": "Celebridades",
+        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
       },
       "artists": [
         {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+      "duration_ms": 148093,
+      "name": "Adi\u00f3s Muchachos",
+      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -991,18 +971,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "A Las Orquestas",
         "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 251472,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1079,6 +1059,26 @@
       "duration_ms": 253769,
       "name": "Payada Gardel-Razzano",
       "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Si Sos Brujo",
         "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 228066,
       "name": "Quiero Verte una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Doce Milongas de Amor y un Tango Desesperado",
-        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
-      },
-      "artists": [
-        {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "The Horacio Avilano Guitar Quartet",
-          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Barrio de Tango",
-      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
         }
       ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1343,42 +1347,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
       },
       "artists": [
         {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Sur (Remastered)",
-        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Rivero",
-          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
-        },
-        {
-          "name": "Horacio Salg\u00e1n",
-          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
-        }
-      ],
-      "duration_ms": 310012,
-      "name": "La casita de mis viejos - Remastered",
-      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1419,18 +1399,38 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+        "name": "Sur (Remastered)",
+        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Edmundo Rivero",
+          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
+        },
+        {
+          "name": "Horacio Salg\u00e1n",
+          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
         }
       ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+      "duration_ms": 310012,
+      "name": "La casita de mis viejos - Remastered",
+      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     }
   ],
   "unique_name": "Tangos y Milongas",

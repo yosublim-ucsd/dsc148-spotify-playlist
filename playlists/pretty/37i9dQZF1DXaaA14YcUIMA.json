@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 335362,
+  "num_followers": 335608,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWMyOTljNzZiMzA1YmM3M2UzYzc5NzRjODIzNDFjMWExZDY4MGY5",
+  "snapshot_id": "MCw2OTIxZTI3YzQ2NjY1YmM0NTA5Y2NkYmM0YTk1NjdmYTViYTAxNjBm",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/3mqMi5ZWfuw0tQsOyu3bT3"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 190560,
       "name": "Amor Se Escribe Con Llanto",
       "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/3mqMi5ZWfuw0tQsOyu3bT3"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "Separados",
-      "url": "https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Contigo Aprend\u00ed",
         "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213466,
       "name": "Adoro (with Armando Manzanero)",
       "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Separados",
+      "url": "https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Amigo Bronco",
+      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Dulce Veneno",
-        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
-      },
-      "artists": [
-        {
-          "name": "Los Due\u00f1os Del Sol",
-          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 169146,
       "name": "Cosas Buenas Que Parecen Malas",
       "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Dulce Veneno",
+        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
+      },
+      "artists": [
+        {
+          "name": "Los Due\u00f1os Del Sol",
+          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Amigo Bronco",
-      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 220626,
       "name": "Melodia Desencadenada",
       "url": "https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1431,22 +1447,6 @@
       "duration_ms": 218200,
       "name": "Dame un Beso y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
     },
     {
       "added_at": "2022-03-17 00:19:47",

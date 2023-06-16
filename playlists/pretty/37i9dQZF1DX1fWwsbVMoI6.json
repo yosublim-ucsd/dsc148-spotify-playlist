@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 98526,
+  "num_followers": 98566,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzdmMGNmMzg2YjY1MjgyOGY5MDE4OWY4NGY1Zjk3ZjkzZjE3NWQ1",
+  "snapshot_id": "MCwxNjU4ZjJlNGMzYjE5NWQ4ODQ2MmNiYjIxYTQxNmQ1YjIxYmQwZTg3",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Quiero Amanecer",
-        "url": "https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO"
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
       },
       "artists": [
         {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
         }
       ],
-      "duration_ms": 172170,
-      "name": "Quiero Amanecer",
-      "url": "https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH"
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+        "name": "Quiero Amanecer",
+        "url": "https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO"
       },
       "artists": [
         {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
+      "duration_ms": 172170,
+      "name": "Quiero Amanecer",
+      "url": "https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Domingos de Fiesta (En Vivo)",
-        "url": "https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy"
-      },
-      "artists": [
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
-        }
-      ],
-      "duration_ms": 247536,
-      "name": "Tu Traici\u00f3n Se Acab\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Cuerpo de Sirena",
         "url": "https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 243461,
       "name": "Cuerpo de Sirena",
       "url": "https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Domingos de Fiesta (En Vivo)",
+        "url": "https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 247536,
+      "name": "Tu Traici\u00f3n Se Acab\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Tu Amor Fue una Mentira, Vol. 11",
+        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Teatro Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 219951,
       "name": "Cambio Mi Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Los Querendones de la Cumbia, Vol. 1",
-        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
-      },
-      "artists": [
-        {
-          "name": "Los Ecos",
-          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
-        }
-      ],
-      "duration_ms": 287503,
-      "name": "No Se Puede Amar a Dos",
-      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Tu Amor Fue una Mentira, Vol. 11",
-        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
-      },
-      "artists": [
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Sentimiento y Estilo",
         "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Los Querendones de la Cumbia, Vol. 1",
+        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "duration_ms": 287503,
+      "name": "No Se Puede Amar a Dos",
+      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 241319,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Amor de Estudiante",
+        "url": "https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "duration_ms": 326453,
+      "name": "Cervecero",
+      "url": "https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -795,34 +811,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Amor de Estudiante",
-        "url": "https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG"
+        "name": "Me Emborrachar\u00e9",
+        "url": "https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR"
       },
       "artists": [
         {
-          "name": "Armonia 10",
-          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+          "name": "Papill\u00f3n",
+          "url": "https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5"
         }
       ],
-      "duration_ms": 326453,
-      "name": "Cervecero",
-      "url": "https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "El Futuro De La Cumbia",
-        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
-      },
-      "artists": [
-        {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
-        }
-      ],
-      "duration_ms": 277296,
-      "name": "Te Burlaste de Mi",
-      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
+      "duration_ms": 221360,
+      "name": "Me Emborrachar\u00e9",
+      "url": "https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K"
     }
   ],
   "unique_name": "Cumbias de Oro",

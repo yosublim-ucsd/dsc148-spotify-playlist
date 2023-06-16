@@ -1,12 +1,12 @@
 {
   "description": "Soak up the atmosphere of a Greek taverna on a warm summer\u2019s evening.",
-  "num_followers": 115865,
+  "num_followers": 115982,
   "original_name": "Greek Taverna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjBkNDE4ZmM5ZDQ1OWE1YTk1YTlhYTQ1MjA5NzljNzlmZTQyZGM5",
+  "snapshot_id": "MCxkYjU5ZDdiNzczMTkxNDZkMDg0ZTBlNGIxYzlkOWFhZjk5MzEzNzAy",
   "tracks": [
     {
       "added_at": "2022-08-30 13:41:03",
@@ -118,10 +118,14 @@
         {
           "name": "Manos Loizos",
           "url": "https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4"
+        },
+        {
+          "name": "Bouzouki Kings",
+          "url": "https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb"
         }
       ],
       "duration_ms": 220078,
-      "name": "Delfini",
+      "name": "Delfini Delfinaki",
       "url": "https://open.spotify.com/track/6c3LtR389mL6hSxRRKyezY"
     },
     {
@@ -974,6 +978,10 @@
         {
           "name": "Manos Loizos",
           "url": "https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4"
+        },
+        {
+          "name": "Bouzouki Kings",
+          "url": "https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb"
         }
       ],
       "duration_ms": 179141,
@@ -1238,6 +1246,10 @@
         {
           "name": "Manos Loizos",
           "url": "https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4"
+        },
+        {
+          "name": "Bouzouki Kings",
+          "url": "https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb"
         }
       ],
       "duration_ms": 154017,

@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Shakira Jasmine
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Yura Yunita
 
-68 songs - 4 hr 19 min
+69 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 | 2023-03-16 |  |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2023-03-16 |  |
 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 | 2023-03-16 |  |
+| [Lihatlah Lebih Dekat](https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Lihatlah Lebih Dekat](https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k) | 4:24 | 2023-06-15 |  |
 | [Love Saturday](https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Hypnagogic](https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F) | 4:05 | 2023-03-16 |  |
 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 | 2023-03-16 |  |
 | [Malaria](https://open.spotify.com/track/4wwwdmufC8EWrU0sWpT3PB) | [Harry Roesli Gang](https://open.spotify.com/artist/504yLLdKsDJ4UCtVYPRcDF) | [Philosophy Gang](https://open.spotify.com/album/7Lk4rAv9PxwaU0ymdulZmv) | 3:02 | 2023-03-16 |  |

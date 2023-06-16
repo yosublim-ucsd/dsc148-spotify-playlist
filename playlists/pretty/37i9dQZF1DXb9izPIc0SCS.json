@@ -1,12 +1,12 @@
 {
   "description": "True indie rock hits.",
-  "num_followers": 54331,
+  "num_followers": 55041,
   "original_name": "Indie Rock Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDcyZWQxYzMxNzE2ODRiMDM4NGY2MDUzN2I5YTgyZDFkN2IxYmQx",
+  "snapshot_id": "MCwxZjdkNWEzMjliZGUwM2ZlZjA0ODRhOGY4YTJkY2QzMzEyYjJjMjhh",
   "tracks": [
     {
       "added_at": "2023-05-01 10:40:44",
@@ -327,6 +327,22 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "added_at": "2023-06-15 19:23:38",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-05-01 10:40:44",
@@ -1607,22 +1623,6 @@
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
-    },
-    {
-      "added_at": "2023-05-01 10:40:44",
-      "album": {
-        "name": "I've Got Some Living To Do",
-        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     }
   ],
   "unique_name": "Indie Rock Hits",

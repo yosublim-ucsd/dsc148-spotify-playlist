@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Trixie Mattel",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Urias",
   "name": "GLOW",
   "tracks": [
     {
@@ -3102,6 +3102,24 @@
       "duration_ms": 169250,
       "name": "Cumbia Lesbi\u00e1nica",
       "url": "https://open.spotify.com/track/62icx23TWHijmOYTv6Sr2g"
+    },
+    {
+      "album": {
+        "name": "HER MIND",
+        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131050,
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
     },
     {
       "album": {
@@ -9256,7 +9274,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 151944,
       "name": "Neo Thang",
       "url": "https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb"

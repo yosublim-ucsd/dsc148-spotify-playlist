@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-167 songs - 9 hr 55 min
+168 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Come Back to Me](https://open.spotify.com/track/33VVUvUickOuD3vT3CW4Fx) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 4:07 | 2022-04-19 | 2022-07-29 |
 | [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-04-19 |  |
 | [Cry](https://open.spotify.com/track/0MXLWV4FdduvoPeHu0Yaoc) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/4DJLmLRFfzwzm9boS9jK2m) | 3:47 | 2022-04-19 | 2022-07-29 |
-| [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 | 2023-06-13 |
+| [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 |  |
 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 | 2022-04-19 |  |
 | [Dirty Cash](https://open.spotify.com/track/2tkG7OyKAhTOriOfHlLPo9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ) | 3:14 | 2022-04-19 | 2022-05-25 |
 | [DIVA](https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Diva](https://open.spotify.com/album/7DYlr2x4oRyg23zFQOsGG9) | 3:18 | 2022-04-19 | 2022-08-20 |
@@ -68,6 +68,7 @@
 | [HAPPY](https://open.spotify.com/track/2XkDyGlKF2oM7JEhOUDC2J) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/6Eqd0eQ19NHqkjI17ISfnu) | 3:36 | 2022-04-19 | 2022-07-29 |
 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 | 2022-04-19 |  |
 | [Haru Haru](https://open.spotify.com/track/0qQBuGsT79rKtmmfC0V38x) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE) | 4:16 | 2022-04-19 | 2022-07-29 |
+| [Heartbeat](https://open.spotify.com/track/1H7AvyWHYAYvbjFi1IVUhP) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [1:59PM](https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG) | 3:13 | 2022-04-19 |  |
 | [Heartbeat](https://open.spotify.com/track/21OCDGhJavcSwMWw4uaepy) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:13 | 2022-04-19 | 2022-09-13 |
 | [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 | 2022-04-19 |  |
 | [Hi Ya Ya 여름날](https://open.spotify.com/track/5lC4gziKMPSihnedZbwAEn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hi Ya Ya 여름날](https://open.spotify.com/album/75D7tsP1Lv8FIkTDHqgR2H) | 3:31 | 2022-04-19 | 2022-07-21 |
@@ -75,7 +76,7 @@
 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 | 2022-04-19 |  |
 | [Hot](https://open.spotify.com/track/5lZQ16prjeDI8wtuhYYMZD) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:40 | 2022-04-19 | 2022-07-03 |
 | [Hot Summer](https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:45 | 2022-04-19 |  |
-| [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 | 2022-04-19 |  |
+| [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 | 2022-04-19 | 2023-06-16 |
 | [Hush](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:06 | 2022-04-19 |  |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2022-04-19 |  |
 | [I DON'T CARE](https://open.spotify.com/track/1o7HrWDkGyqxUJdQQlIeKV) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 4:00 | 2022-04-19 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [O \-正.反.合.](https://open.spotify.com/track/0tx5cus5dxnIKLtBWYgADn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [O\-正.反.合\. \- The 3rd Album](https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee) | 4:15 | 2022-04-19 | 2022-07-29 |
 | [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 | 2022-04-19 |  |
 | [Oh Yeah](https://open.spotify.com/track/1dFxxKyeRHmcMmjf8A7OMH) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [BOM](https://open.spotify.com/artist/5YufpyEN94qXvsWoOg54pV) | [BIGBANG Special Edition](https://open.spotify.com/album/5kJPwfrd8cM9nurOLE0lr6) | 3:19 | 2022-04-19 | 2022-07-24 |
-| [Oh Yeah](https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [JUST BLAQ](https://open.spotify.com/album/77HVZwPYR9jaAByeqsv60T) | 3:29 | 2022-04-19 |  |
+| [Oh Yeah](https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [JUST BLAQ](https://open.spotify.com/album/77HVZwPYR9jaAByeqsv60T) | 3:29 | 2022-04-19 | 2023-06-16 |
 | [Oh Yeah \(Feat\. Park Bom\)](https://open.spotify.com/track/2hn0s9jTuO4GqVAZboT7w8) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:15 | 2022-04-19 |  |
 | [One of a Kind](https://open.spotify.com/track/5w3nEh5I3eqU7RSPssdpE1) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/04p6m20CMtSxI5DrqDDe78) | 3:25 | 2022-04-19 | 2022-06-21 |
 | [One Of A Kind](https://open.spotify.com/track/6CtYW6EWGMbfe96eqwCThq) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:25 | 2022-04-19 |  |

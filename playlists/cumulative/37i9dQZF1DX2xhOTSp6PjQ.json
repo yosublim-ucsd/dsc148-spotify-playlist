@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "AMAKHOSI",
+        "url": "https://open.spotify.com/album/6vmXJddQXH6kVVdU3zVjlF"
+      },
+      "artists": [
+        {
+          "name": "AMA 4X4",
+          "url": "https://open.spotify.com/artist/2sebMV9azRytnuBggHH5Tn"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388173,
+      "name": "AMAKHOSI",
+      "url": "https://open.spotify.com/track/3tYrdDOFWmraXH0Cy5nKCj"
+    },
+    {
+      "album": {
         "name": "Ekhayakomama",
         "url": "https://open.spotify.com/album/2Bv75VXnuvVE9TbeNxUFuy"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 237348,
       "name": "Awume Kancane",
       "url": "https://open.spotify.com/track/6HjdFBVWWqvFKFr5ZsneHE"
@@ -320,6 +338,24 @@
       "duration_ms": 266475,
       "name": "Bafuna Sihlukane",
       "url": "https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE"
+    },
+    {
+      "album": {
+        "name": "BANGIHLINZA NGIPHILA",
+        "url": "https://open.spotify.com/album/4kMnochB18f8pvg0XJCXkW"
+      },
+      "artists": [
+        {
+          "name": "JAIVA ZIMNIKE",
+          "url": "https://open.spotify.com/artist/14d1q3R8UjzYOeb4DO9UW3"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272404,
+      "name": "BAMPHAMBANISELA",
+      "url": "https://open.spotify.com/track/293R0EgKi4hLD8EUF5kFRj"
     },
     {
       "album": {
@@ -432,7 +468,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 412773,
       "name": "Diona x5",
       "url": "https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p"
@@ -588,7 +624,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 212500,
       "name": "Emakhaya",
       "url": "https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN"
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2018-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 269160,
       "name": "Ishende",
       "url": "https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO"
@@ -1821,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Ngeke Ungiphathe",
+        "url": "https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280816,
+      "name": "Ngeke Ungiphathe",
+      "url": "https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4"
+    },
+    {
+      "album": {
         "name": "Ngiyashisa Bhe!!",
         "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
       },
@@ -2104,7 +2158,7 @@
       ],
       "date_added": "2019-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 259933,
       "name": "Sakhala Kamnandi",
       "url": "https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ"
@@ -2126,7 +2180,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 261428,
       "name": "Sanibonani",
       "url": "https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g"
@@ -2166,6 +2220,24 @@
       "duration_ms": 436920,
       "name": "Shintsh' Umshovo",
       "url": "https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9"
+    },
+    {
+      "album": {
+        "name": "Sigubha umtswarelo",
+        "url": "https://open.spotify.com/album/28Xfemnw5d0mRMuJShtvK1"
+      },
+      "artists": [
+        {
+          "name": "Omaganga",
+          "url": "https://open.spotify.com/artist/4pQoIvQXOr2HRQdOgwoJya"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379167,
+      "name": "Sigubha umtswarelo",
+      "url": "https://open.spotify.com/track/0ISd317cewsI9VNU1GIaAv"
     },
     {
       "album": {
@@ -2376,6 +2448,28 @@
       "duration_ms": 306247,
       "name": "Ubhuti Wabantu",
       "url": "https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU"
+    },
+    {
+      "album": {
+        "name": "Fortaleza De Sol",
+        "url": "https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK"
+      },
+      "artists": [
+        {
+          "name": "Navigator Gcwensa",
+          "url": "https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC"
+        },
+        {
+          "name": "Imeya KaZwelonke",
+          "url": "https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201743,
+      "name": "Ujola Wedwa",
+      "url": "https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC"
     },
     {
       "album": {
@@ -2626,6 +2720,24 @@
       "duration_ms": 253246,
       "name": "Uthando Lunye",
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
+    },
+    {
+      "album": {
+        "name": "Eyokuza",
+        "url": "https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252853,
+      "name": "Uyangithanda",
+      "url": "https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD"
     },
     {
       "album": {

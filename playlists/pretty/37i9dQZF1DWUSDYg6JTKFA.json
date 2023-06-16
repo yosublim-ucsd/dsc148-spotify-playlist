@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 147540,
+  "num_followers": 147636,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDdlYTIyNTUyMzA3NWQxNjhkM2NiYTM2ZTMxMGZiMjFiNjczMTA0",
+  "snapshot_id": "MCw2OTU3N2Q4OTQ3ZDg4NzlmYTNhOThmNTY1NzFlNjdiZjk4YTYyNjRi",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 202283,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "No Longer Slaves (Radio Version)",
         "url": "https://open.spotify.com/album/69pv7F33kbIP0PxynOW0VA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 249213,
       "name": "No Longer Slaves - Radio Version",
       "url": "https://open.spotify.com/track/2W1EsT0BlEnFaPe44Q71N5"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 202283,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You - Live",
       "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "Harvest",
-          "url": "https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Your Words (feat. Harvest) (feat. Harvest)",
-      "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
+      "duration_ms": 217799,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
     }
   ],
   "unique_name": "Hold Hope",

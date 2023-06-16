@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 179309,
+  "num_followers": 179387,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmNkNDdhY2NjMmQ3ZmM0NDhjZjZiN2Q1YzYxNDljNThjYzc2NGM1",
+  "snapshot_id": "MCw4NDY3MDdkN2VmMGRjNTIyNGQ1Yjc0Y2FmZGQ1OTEyYmZiYWJkYTEw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 201956,
       "name": "Hail To The Victor",
       "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
@@ -867,38 +883,6 @@
       "duration_ms": 196849,
       "name": "Don't Wait (ft. Sam Carter)",
       "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 236282,
-      "name": "This Land - Single Version",
-      "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "WRONG GENERATION",
         "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 142640,
       "name": "WRONG GENERATION",
       "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 236282,
+      "name": "This Land - Single Version",
+      "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
     },
     {
       "added_at": "2022-11-04 04:00:00",

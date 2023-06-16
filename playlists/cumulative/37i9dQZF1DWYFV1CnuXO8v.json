@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 288000,
       "name": "Enta Ekhtyar - From Bhabak Movie",
       "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 257695,
       "name": "Fe Hetta Tanya",
       "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 251063,
       "name": "Waheshni Eh",
       "url": "https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ"
@@ -3250,6 +3250,24 @@
       "duration_ms": 209684,
       "name": "\u064a\u0642\u0627\u0644 \u0639\u0646\u0643",
       "url": "https://open.spotify.com/track/6ONNx8DDfBjVeVYh6G4z9k"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49597,
+      "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
+      "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"
     },
     {
       "album": {

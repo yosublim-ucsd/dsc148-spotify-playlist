@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 
 > This Is YoungBoy Never Broke Again\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,268 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,498 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 | 49 | [Untouchable](https://open.spotify.com/track/6xL9MJ2yt39HPPZPyGkRy8) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 3:00 |
 | 50 | [Ain't Easy](https://open.spotify.com/track/485RHcQUM5qotAlfutUhwT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:25 |
 
-Snapshot ID: `MCw0MjkxOGQzY2IzYjc1YzgxYzY1N2YyNzM4YjE2ZjAyNWMwOTcyYzkz`
+Snapshot ID: `MCxlNzg4YTZhZmUyMDU3YzU0YmIwMjAzMGQ2YzRjYTZkMTI2ZWFhY2Vl`

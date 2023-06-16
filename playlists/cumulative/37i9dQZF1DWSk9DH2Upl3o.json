@@ -2006,10 +2006,40 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 414475,
       "name": "The $1000 Question",
       "url": "https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k"
+    },
+    {
+      "album": {
+        "name": "The $1000 Question",
+        "url": "https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1"
+      },
+      "artists": [
+        {
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
+        },
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Ray Paczkowski",
+          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
+        },
+        {
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414475,
+      "name": "The $1000 Question",
+      "url": "https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL"
     },
     {
       "album": {

@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
@@ -3652,6 +3652,24 @@
       "duration_ms": 285546,
       "name": "Wrecks",
       "url": "https://open.spotify.com/track/0ONx5LbtCGaVrWMqgFmjQi"
+    },
+    {
+      "album": {
+        "name": "More Primitive",
+        "url": "https://open.spotify.com/album/6XlYTnLtvFeFpN5BLVALQa"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285546,
+      "name": "Wrecks",
+      "url": "https://open.spotify.com/track/6rpeEqLyn5S7eLT90437HP"
     },
     {
       "album": {

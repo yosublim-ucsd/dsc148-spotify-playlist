@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 318840,
+  "num_followers": 319094,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGE2NDZlMzFmZDk5NWNlZGU4ZTFjZWIzNDAwY2YyOTRmNzMyZjM1",
+  "snapshot_id": "MCw4MzE4MGJkMzdmMWJjMzUyOTdkMDk5ZjNkNTAwMzFlY2I0M2YxYzIw",
   "tracks": [
     {
       "added_at": "2023-06-02 15:55:13",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
       "added_at": "2023-04-17 19:19:02",
       "album": {
         "name": "THE INSIDE OUTTAKES",
@@ -107,6 +123,22 @@
       "duration_ms": 146654,
       "name": "1985",
       "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
+    },
+    {
+      "added_at": "2023-06-15 19:26:44",
+      "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0"
+      },
+      "artists": [
+        {
+          "name": "Max Bennett Kelly",
+          "url": "https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel"
+        }
+      ],
+      "duration_ms": 148744,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
     },
     {
+      "added_at": "2023-04-17 19:19:02",
+      "album": {
+        "name": "Yes, Virginia",
+        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
+      },
+      "artists": [
+        {
+          "name": "The Dresden Dolls",
+          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "My Alcoholic Friends",
+      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
+    },
+    {
       "added_at": "2023-05-14 16:09:50",
       "album": {
         "name": "Better People To Leave On Read",
@@ -171,6 +219,22 @@
       "duration_ms": 131344,
       "name": "Better People To Leave On Read",
       "url": "https://open.spotify.com/track/7uHW7QLDmTflVGHN31KBno"
+    },
+    {
+      "added_at": "2023-06-15 19:26:44",
+      "album": {
+        "name": "High In Brighton",
+        "url": "https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "High In Brighton",
+      "url": "https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3"
     },
     {
       "added_at": "2023-06-02 15:55:13",
@@ -225,22 +289,6 @@
       "url": "https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
       "added_at": "2023-04-17 19:19:02",
       "album": {
         "name": "Habits (Demo)",
@@ -287,22 +335,6 @@
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "Yes, Virginia",
-        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
-      },
-      "artists": [
-        {
-          "name": "The Dresden Dolls",
-          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "My Alcoholic Friends",
-      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
     },
     {
       "added_at": "2023-06-02 15:55:13",

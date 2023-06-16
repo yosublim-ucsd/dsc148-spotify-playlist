@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,627 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,619 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merry Muthafuckin' Xmas](https://open.spotify.com/track/0WtTqjocYc6CIfQFV1760X) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [5150 Home 4 Tha Sick](https://open.spotify.com/album/65bIyEn06DYO7oFkEYKOdl) | 5:56 |
+| 1 | [Merry Muthafuckin' Xmas](https://open.spotify.com/track/0WtTqjocYc6CIfQFV1760X) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX), [Dolemite](https://open.spotify.com/artist/7vucbdVPV4AwC3z7x2yCCv), [Atban Klann](https://open.spotify.com/artist/2l7x4S3lYfQfVIykZQKziM), [Buckwheat](https://open.spotify.com/artist/4DifQnTDkIAThKkz1rNSsr), [Menajahtwa](https://open.spotify.com/artist/1LzmHowhMBkvIdFvOQPRX8) | [5150 Home 4 Tha Sick](https://open.spotify.com/album/65bIyEn06DYO7oFkEYKOdl) | 5:56 |
 | 2 | [12 Days of Christmas](https://open.spotify.com/track/6bE3npRCJW3wmy4NV44ZS2) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:52 |
 | 3 | [A Pimp's Christmas Song](https://open.spotify.com/track/5UCPOj1XG4WRm35YDKUgyz) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Jake the Flake](https://open.spotify.com/artist/3na9SRBxRRxmtYsElRG0pW) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 5:05 |
 | 4 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCxhYjMwMTRhMjAwMjJmOTYyOTc4MjgwMzljYTg0OTg5YTc1MWZmMzhk`
+Snapshot ID: `MCw0OWUxZWY5Njc4ZjVjOTcxOTAyN2ZiM2MxZWVmYzNlODljMTNmZWZj`

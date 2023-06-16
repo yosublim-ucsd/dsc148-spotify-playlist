@@ -4054,6 +4054,24 @@
     {
       "album": {
         "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
+    },
+    {
+      "album": {
+        "name": "SVMMER SVN vol. 6",
         "url": "https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya"
       },
       "artists": [
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 99740,
       "name": "submerge",
       "url": "https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm"

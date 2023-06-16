@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: NDX A.K.A.",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 234076,
       "name": "Eman Eman",
       "url": "https://open.spotify.com/track/5yxFTVy9MdtCmk3uXBys9f"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 412750,
       "name": "Kelangan 3",
       "url": "https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 272756,
       "name": "Putusen Isun",
       "url": "https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era"
@@ -2264,6 +2264,24 @@
       "duration_ms": 264563,
       "name": "Rasah Bali",
       "url": "https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD"
+    },
+    {
+      "album": {
+        "name": "RASAKNO",
+        "url": "https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288888,
+      "name": "RASAKNO",
+      "url": "https://open.spotify.com/track/46nOLK8xQxwP5aL4YS3L30"
     },
     {
       "album": {
@@ -2576,6 +2594,24 @@
       "duration_ms": 282868,
       "name": "Sekuat Atiku",
       "url": "https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo"
+    },
+    {
+      "album": {
+        "name": "Semarang Ngawi",
+        "url": "https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264540,
+      "name": "Semarang Ngawi",
+      "url": "https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw"
     },
     {
       "album": {

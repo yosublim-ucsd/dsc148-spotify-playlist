@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-130 songs - 6 hr 39 min
+131 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bo Ta Joor](https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Bo Ta Joor](https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ) | 2:40 | 2023-05-19 |  |
 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 | 2022-07-30 |  |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-05-19 |  |
+| [Concussion](https://open.spotify.com/track/4N1pMSrj3YkrZyLEWW3Pv9) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Concussion](https://open.spotify.com/album/7G0COo6oAAHrgLidUnr07I) | 2:40 | 2023-05-19 |  |
 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 | 2022-07-30 | 2023-05-20 |
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-30 | 2022-12-17 |
 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 | 2022-09-11 | 2022-09-19 |
@@ -129,7 +130,7 @@
 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 | 2022-07-30 | 2022-10-30 |
 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 | 2023-05-19 |  |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-05-19 |  |
-| [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 | 2022-07-30 |  |
+| [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 | 2022-07-30 | 2023-06-16 |
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-30 |  |
 | [You](https://open.spotify.com/track/1xaeMB6qDw01j79mhMgYPy) | [WE GOT LOVE PROJECT](https://open.spotify.com/artist/1Y1t2u6opQXonxsxLQ7XMR), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [WE GOT LOVE](https://open.spotify.com/album/6LAveITCLWKB6ewa9yGe1x) | 2:44 | 2022-12-16 |  |
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2022-12-16 |  |

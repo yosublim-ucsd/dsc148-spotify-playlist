@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-450 songs - 1 day 1 hr 18 min
+453 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,10 +301,12 @@
 | [Oh Naur](https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Oh Naur](https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I) | 1:18 | 2022-07-19 | 2023-01-20 |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-03-18 | 2022-04-19 |
 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 | 2022-07-01 | 2022-09-19 |
+| [Once Upon a Time](https://open.spotify.com/track/1PhU0beKROIDBxxwf0B7lr) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Once Upon a Time](https://open.spotify.com/album/3jBewN7LtSKeaKoKY7zlKF) | 3:39 | 2023-06-15 |  |
 | [One More Time \- AOBeats Remix](https://open.spotify.com/track/7c9l2jlh2XHyRmDC6Cz5CX) | [Luka Kloser](https://open.spotify.com/artist/3IOjE9iyEPAWA1MnoeKjfQ), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [One More Time \(AOBeats Remix\)](https://open.spotify.com/album/2KIgLWdFH0EF6H5RFvR9qW) | 2:38 | 2022-03-04 |  |
 | [Only 1 Trying](https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Only 1 Trying](https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP) | 2:27 | 2023-02-28 |  |
 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 | 2022-03-18 | 2022-06-28 |
 | [OTW](https://open.spotify.com/track/6P7TP6ifKNaIp0y59Q3pCF) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:52 | 2021-12-07 | 2022-01-08 |
+| [over n over](https://open.spotify.com/track/6TYhK78FWxSMhGZ1lAEjHV) | [Marty Valentine](https://open.spotify.com/artist/7JCYYyIBno1eDpBqI436yk) | [over n over](https://open.spotify.com/album/5BWL5L3fYAzC7BrOCt2Dvj) | 2:12 | 2023-06-16 |  |
 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 | 2023-04-01 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-18 | 2022-02-05 |
 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 | 2022-12-31 |  |
@@ -358,6 +360,7 @@
 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 | 2023-03-24 |  |
 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 | 2022-07-21 |  |
 | [Sleepless \- The Knocks Remix](https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Sleepless \(The Knocks Remix\)](https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY) | 3:28 | 2022-10-14 |  |
+| [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 | 2023-06-15 |  |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-31 |  |
 | [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-01-11 |  |
 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 | 2022-03-25 | 2022-06-25 |

@@ -2,9 +2,9 @@
 
 ### [Relaxing Guitar](https://open.spotify.com/playlist/37i9dQZF1DX6BbeVFYBeZs)
 
-> The beautiful sound of the Spanish guitar to help you wind down.
+> The beautiful sound of guitar to help you wind down.
 
-279 songs - 12 hr 19 min
+281 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [As We Remember](https://open.spotify.com/track/6JPoGBYmQNMYkMTZvSSb5i) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [As We Remember](https://open.spotify.com/album/34lx6PhG4bw9PEplGgCepC) | 2:51 | 2023-05-12 |  |
 | [Attitude Altitude](https://open.spotify.com/track/70yVg36l68Kn2a7SjOBrqu) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Attitude Altitude](https://open.spotify.com/album/2yH5oDBYImXDIXVI6Tus2O) | 2:38 | 2022-12-23 |  |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-05-12 |  |
-| [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-06-17 |  |
+| [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-06-17 | 2023-06-16 |
 | [Beijinho](https://open.spotify.com/track/73oqmFRZ5F6PtvkuMZ8cUY) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Beijinho](https://open.spotify.com/album/6P7TrlucBZQoQTV19iGBFt) | 1:55 | 2022-06-17 | 2022-07-08 |
 | [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 | 2022-07-01 | 2022-10-20 |
 | [Bella Flamenco \- Instrumental](https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco \(Instrumental\)](https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto) | 1:59 | 2022-10-14 | 2023-03-31 |
@@ -180,6 +180,7 @@
 | [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 | 2022-06-17 |  |
 | [Moonlight and Grace Reimagined](https://open.spotify.com/track/6YLhil5rBjNBGQ5wCIsIgH) | [Phil Klein](https://open.spotify.com/artist/7D4v9W10LK3ftu5UBRuNow) | [Moonlight and Grace Reimagined](https://open.spotify.com/album/5VypWMT7ShaGTFMhDjrUge) | 3:01 | 2022-09-02 | 2023-02-25 |
 | [Musica del Cielo](https://open.spotify.com/track/0vUQoSxox7kR5MPjhWKmtg) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Musica del Cielo](https://open.spotify.com/album/5GmnBunhlJ5TKlYqSqcPs0) | 1:53 | 2023-02-24 |  |
+| [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
 | [Naranjas en Diciembre](https://open.spotify.com/track/0rOdCo5QAldEbty63ZDaHl) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Naranjas en Diciembre](https://open.spotify.com/album/39HaNigg9oTEiOKusCWz5V) | 2:22 | 2022-06-17 | 2022-10-07 |
 | [Next summer](https://open.spotify.com/track/7dHc4WV8xrFGRgExYLzdAU) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Next summer](https://open.spotify.com/album/3sJ7hzJDYhObMBoZvPdSmB) | 2:49 | 2023-02-24 |  |
 | [Outonecendo](https://open.spotify.com/track/5mzYXTWLRX5o6JUkhFe4PS) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 3:28 | 2022-06-17 | 2022-08-18 |
@@ -265,6 +266,7 @@
 | [Una Vida Prospera](https://open.spotify.com/track/65sHNlUnVH9M0dzNcGEn0Y) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/5liLr3r2atOTzyGDuugGsB) | 2:06 | 2022-07-29 |  |
 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 | 2023-03-31 |
 | [Until You](https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Until You](https://open.spotify.com/album/1JHu4FXVAq8e0vqRUCdwSu) | 2:26 | 2023-04-21 |  |
+| [Up North](https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Up North](https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1) | 2:51 | 2023-06-15 |  |
 | [Valeria](https://open.spotify.com/track/14YLpb5I76rn2fvFLdbhuq) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Valeria](https://open.spotify.com/album/359dhOPYz6AjtYsEjYMzFh) | 2:22 | 2022-10-28 |  |
 | [Valle dei Templi](https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Valle dei Templi](https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM) | 3:00 | 2022-12-16 |  |
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 |  |

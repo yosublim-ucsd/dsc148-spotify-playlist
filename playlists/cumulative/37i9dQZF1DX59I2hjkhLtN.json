@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "100 FALHAS",
+        "url": "https://open.spotify.com/album/2BcvWxy4TAcXO7gaz8LReh"
+      },
+      "artists": [
+        {
+          "name": "J Puro",
+          "url": "https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl"
+        },
+        {
+          "name": "Manuel Bastos",
+          "url": "https://open.spotify.com/artist/5JbZvptDWsEWaHgBe6pqhI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290181,
+      "name": "100 FALHAS",
+      "url": "https://open.spotify.com/track/2uCCLGZSppxEMjH936nwbl"
+    },
+    {
+      "album": {
         "name": "19!",
         "url": "https://open.spotify.com/album/5hL5E6DcDSlfTPy88AeucD"
       },
@@ -1299,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Cara Dontem (feat. Holly Hood)",
+        "url": "https://open.spotify.com/album/0ULX4vm9Bl7M4CzSYa68kW"
+      },
+      "artists": [
+        {
+          "name": "Kaps",
+          "url": "https://open.spotify.com/artist/3LHoFLdOjSILRX0fMvfrjT"
+        },
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Cara Dontem (feat. Holly Hood)",
+      "url": "https://open.spotify.com/track/2nNJ20zuUjAjuDLnAwQw2S"
+    },
+    {
+      "album": {
         "name": "CARAMETADE",
         "url": "https://open.spotify.com/album/0lLCDpT6xR95zwvTkvUScC"
       },
@@ -1630,7 +1674,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 173565,
       "name": "Como Ningu\u00e9m",
       "url": "https://open.spotify.com/track/3EVZQ26xB4Z4Ky4aJZFDHe"
@@ -1696,6 +1740,28 @@
       "duration_ms": 203170,
       "name": "Contra-Tempo",
       "url": "https://open.spotify.com/track/64xoX1XYaE7kOzN39CpReE"
+    },
+    {
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/17FYioqeX29mTnb9fp3l8N"
+      },
+      "artists": [
+        {
+          "name": "Bala G",
+          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
+        },
+        {
+          "name": "Jay Yo",
+          "url": "https://open.spotify.com/artist/1wH7vQKdmZtKSI4r1YF33A"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/4CIZXOUQSpcfsXNYSDPWYB"
     },
     {
       "album": {
@@ -2316,7 +2382,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 194985,
       "name": "Dona do Gang",
       "url": "https://open.spotify.com/track/2cLNJR02ixyyu6L5eTZYYk"
@@ -3045,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Fica Pra Depois",
+        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Fica Pra Depois",
+      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
+    },
+    {
+      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/2BYQS9P4D31N6noQBzQwc2"
       },
@@ -3296,7 +3380,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 155941,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/0Z48gxf8RNpGFEm5wR7u2h"
@@ -3754,6 +3838,28 @@
       "duration_ms": 200086,
       "name": "Going Now",
       "url": "https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7"
+    },
+    {
+      "album": {
+        "name": "GTA na City",
+        "url": "https://open.spotify.com/album/2MrGC7DvPO7ohntQSS5TcQ"
+      },
+      "artists": [
+        {
+          "name": "C-Jay Pharrell",
+          "url": "https://open.spotify.com/artist/1PcrxA9clS0kWu7zpa74tj"
+        },
+        {
+          "name": "Mini God KK",
+          "url": "https://open.spotify.com/artist/6a23vgfnRQ9gyrEoI3rVQn"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "GTA na City",
+      "url": "https://open.spotify.com/track/43aCJaHsIbaXBSpukaKYKX"
     },
     {
       "album": {
@@ -4272,7 +4378,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 152000,
       "name": "Janela Aberta",
       "url": "https://open.spotify.com/track/2ys6BlpMmwkBUonOwUIRr6"
@@ -5520,7 +5626,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 165538,
       "name": "MUTED",
       "url": "https://open.spotify.com/track/5wcGg9WtDuScgT5Ev3MUKn"
@@ -6741,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "Parque",
+        "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
+      },
+      "artists": [
+        {
+          "name": "Mike Flowers",
+          "url": "https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Parque",
+      "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
+    },
+    {
+      "album": {
         "name": "Party Hard",
         "url": "https://open.spotify.com/album/4UNhQRsBuhMbw5dL2C62Eo"
       },
@@ -7670,7 +7794,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 104000,
       "name": "RICKYBOBBY",
       "url": "https://open.spotify.com/track/41pzVVRjNOb7pwqO2O8yP0"
@@ -7906,6 +8030,24 @@
       "duration_ms": 193714,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/6MEOW2h9FfRhkrnZCYv1sU"
+    },
+    {
+      "album": {
+        "name": "Sangue Frio",
+        "url": "https://open.spotify.com/album/7iWL2X3d4YNqhzMu2OTTAL"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1cio",
+          "url": "https://open.spotify.com/artist/7xsXB7bAJkcsdPmak1bafd"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "Sangue Frio",
+      "url": "https://open.spotify.com/track/2LsURTfGEHeMA67VtMhhEE"
     },
     {
       "album": {
@@ -8490,7 +8632,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 228036,
       "name": "sombrero",
       "url": "https://open.spotify.com/track/5qEw0qCk0aDUqA9vrAMS64"
@@ -8971,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "Teus Olhos",
+        "url": "https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "Teus Olhos",
+      "url": "https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6"
+    },
+    {
+      "album": {
         "name": "Punchlines for Days 3",
         "url": "https://open.spotify.com/album/0eguTT4ygOdlXgyAvsiGP4"
       },
@@ -9320,7 +9480,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 140800,
       "name": "V",
       "url": "https://open.spotify.com/track/74J9zDuyFsz5VhJirO7FKQ"

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-291 songs - 14 hr 39 min
+292 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bring Me The Christmas Light](https://open.spotify.com/track/4umzhAz6dEmAyqKC4WXiwc) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Christmas Light](https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt) | 4:35 | 2022-12-22 | 2022-12-29 |
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 | 2023-04-28 |
 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 | 2022-11-30 |  |
+| [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 |  |
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 | 2023-04-28 |
 | [Call On Me](https://open.spotify.com/track/6IZBXIuMsIuVYL6MI5IW50) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Call On Me](https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e) | 3:05 | 2022-09-21 | 2023-04-28 |
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 | 2023-04-28 |

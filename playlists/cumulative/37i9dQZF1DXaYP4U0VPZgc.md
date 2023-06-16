@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-105 songs - 8 hr 7 min
+109 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,13 @@
 | [a small pearl](https://open.spotify.com/track/0qtkVFlBzSecq60GOVpXJn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [『海賊王女』オリジナルサウンドトラック](https://open.spotify.com/album/0LCqqqGm9ioLvzkJBxRtN3) | 1:47 | 2022-02-28 | 2022-07-29 |
 | [a song of storm and fire](https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 4:02 | 2022-02-28 |  |
 | [angel gate](https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 5:28 | 2022-02-28 |  |
+| [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 | 2023-05-07 |  |
 | [battle of the shadows](https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [TVアニメ『プリンセス・プリンシパル』オリジナルサウンドトラック「Sound of Foggy London」](https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd) | 3:11 | 2022-02-28 |  |
 | [blaze](https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:03 | 2022-02-28 |  |
 | [blaze](https://open.spotify.com/track/0NHBMe6nMazA4OwrKELlMX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [blaze](https://open.spotify.com/album/364oSGKKNq5HysFQf3e8pA) | 4:03 | 2022-02-28 | 2022-07-29 |
 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 | 2022-02-28 |  |
-| [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-02-28 |  |
+| [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 | 2023-05-07 |  |
+| [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-02-28 | 2023-06-16 |
 | [edge](https://open.spotify.com/track/7jyqWifqQ5iqhVIR1q2Lqp) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 3:28 | 2022-02-28 |  |
 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 | 2022-02-28 |  |
 | [everlasting song \~japanese edition](https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Everlasting Songs](https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK) | 4:35 | 2022-02-28 |  |
@@ -52,6 +54,7 @@
 | [ring your bell](https://open.spotify.com/track/6GHMBep0v40pSejtpr87qP) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ring your bell](https://open.spotify.com/album/4hFDwdFGrNxGfQ3TmWzNi1) | 5:16 | 2022-02-28 | 2022-11-13 |
 | [romanesque](https://open.spotify.com/track/3aO4zQR7NDnJqbJ1WIDr0T) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 4:23 | 2022-02-28 |  |
 | [ship of fools](https://open.spotify.com/track/6RKKLvRopHp3eoAxIC6ozV) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:42 | 2022-02-28 |  |
+| [Shizukana Yoru ni](https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt) | 4:53 | 2023-05-07 |  |
 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 | 2022-02-28 |  |
 | [storia](https://open.spotify.com/track/6J9B284el0IT89aLnhzHq0) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 3:37 | 2022-02-28 | 2022-11-13 |
 | [storia](https://open.spotify.com/track/0z0jQ2BgYzbnsnwlasgHvL) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [storia](https://open.spotify.com/album/2anN3L21bqtKROZ2ar6wyI) | 3:38 | 2022-02-28 | 2022-07-29 |
@@ -66,7 +69,7 @@
 | [to the beginning](https://open.spotify.com/track/7Fn39khTcovMslPdNxx7b8) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:17 | 2022-02-28 | 2022-11-13 |
 | [to the next era](https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [The Age of Dragon Knights](https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye) | 2:33 | 2022-02-28 |  |
 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 | 2022-02-28 |  |
-| [あんなに一緒だったのに](https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [あんなに一緒だったのに](https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq) | 4:48 | 2022-02-28 |  |
+| [あんなに一緒だったのに](https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [あんなに一緒だったのに](https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq) | 4:48 | 2022-02-28 | 2023-06-16 |
 | [それは小さな光のような](https://open.spotify.com/track/23NlSC7lOjCHmJYYggvJe0) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/3n5g6PWeL2XVwFXevw96H8) | 4:32 | 2022-02-28 | 2022-07-29 |
 | [それは小さな光のような](https://open.spotify.com/track/7FOeR1X65DEG4KjpVhNC4Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/7A9FxCZBXJNqtcv7HPHnR8) | 4:32 | 2022-02-28 |  |
 | [ひかりふる](https://open.spotify.com/track/5qJGYNfb91Wml51v5vnj4K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/64TNI4SlacrbN6sA5Zig4f) | 4:51 | 2022-02-28 | 2022-07-29 |
@@ -88,7 +91,8 @@
 | [春はゆく](https://open.spotify.com/track/2RSrmN9IbgDQTmGhv5X9eX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [春はゆく / marie](https://open.spotify.com/album/2yo4hx7Z6ZGGrZFmJ36E9u) | 5:04 | 2022-02-28 | 2022-11-13 |
 | [春はゆく](https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:05 | 2022-02-28 |  |
 | [春はゆく](https://open.spotify.com/track/2Zv3lEuRxAmBTG8Zw48jFV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [花の唄 / I beg you / 春はゆく](https://open.spotify.com/album/7m8thQY9OMG9ZEE8zdfkZY) | 5:06 | 2022-02-28 | 2022-07-29 |
-| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2022-02-28 |  |
+| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2022-02-28 | 2023-06-16 |
+| [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 | 2023-05-07 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-02-28 |  |
 | [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 | 2023-04-18 |  |
 | [水の証](https://open.spotify.com/track/5mizgqUfE7BrNZtbPiNWdy) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [水の証](https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2) | 4:27 | 2022-02-28 |  |
@@ -111,7 +115,7 @@
 | [雲雀](https://open.spotify.com/track/1bRMDynP3nGzFMv1loG3s6) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 4:38 | 2022-02-28 | 2022-11-13 |
 | [雲雀](https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2) | 4:38 | 2022-02-28 |  |
 | [雲雀](https://open.spotify.com/track/50M0nvkvTrMVuBiOIBCHxu) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3j2IW881aBKaTfawSbM74r) | 4:38 | 2022-02-28 | 2022-07-29 |
-| [静かな夜に](https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [静かな夜に](https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw) | 4:53 | 2022-02-28 |  |
+| [静かな夜に](https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [静かな夜に](https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw) | 4:53 | 2022-02-28 | 2023-06-16 |
 | [黄昏の海](https://open.spotify.com/track/5846HvFQzt0fhaQ6Uth92l) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 5:16 | 2022-02-28 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

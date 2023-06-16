@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 225240,
       "name": "A la luz de las farolas",
       "url": "https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 202250,
       "name": "Aullando en el desierto",
       "url": "https://open.spotify.com/track/41AWQymPR0w55FSm7BXHY6"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 187444,
       "name": "Cuando Sat\u00e1n vino a verme",
       "url": "https://open.spotify.com/track/04Usmiaxwnz43gRCOoIkuY"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "album": {
         "name": "Ellos Dicen Mierda",
         "url": "https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R"
       },
@@ -2293,6 +2311,28 @@
     },
     {
       "album": {
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "album": {
         "name": "Estrella (feat. La La Love You)",
         "url": "https://open.spotify.com/album/6wEyTNFjbbESqhOjK2Zg2R"
       },
@@ -2421,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Disco 3",
+        "url": "https://open.spotify.com/album/45tNwQ4G4aoXdkVK9dd4zF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Fuegos",
+      "url": "https://open.spotify.com/track/2CbDi0mlBlZs8H6n7qNuI9"
+    },
+    {
+      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/6miBc8f3smDjLHOYTO2zEG"
       },
@@ -2526,7 +2584,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 234000,
       "name": "Hasta que amaneciera",
       "url": "https://open.spotify.com/track/5Z4XEaPQqfJidWuaQfxh0j"
@@ -3198,6 +3256,28 @@
       "duration_ms": 228573,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX"
+    },
+    {
+      "album": {
+        "name": "Lucha de Gigantes",
+        "url": "https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        },
+        {
+          "name": "S\u00f4ber",
+          "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Lucha de Gigantes",
+      "url": "https://open.spotify.com/track/5afAcSipBblWpFBxU93khB"
     },
     {
       "album": {
@@ -4183,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Puntos Cardinales",
+        "url": "https://open.spotify.com/album/1gWsrweysgf7joT7hp8tGr"
+      },
+      "artists": [
+        {
+          "name": "Tocando Techo",
+          "url": "https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197955,
+      "name": "Puntos Cardinales",
+      "url": "https://open.spotify.com/track/0aT7bu51VYDV4GcO4zUCod"
+    },
+    {
+      "album": {
         "name": "P\u00e1jaros de Desv\u00e1n",
         "url": "https://open.spotify.com/album/6rSWAtvFcpGfUtvnYzc6S4"
       },
@@ -4480,7 +4578,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 236250,
       "name": "Rozando el aire",
       "url": "https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW"
@@ -4832,6 +4930,24 @@
       "duration_ms": 182780,
       "name": "Soy Un Guapo",
       "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
+    },
+    {
+      "album": {
+        "name": "Soy Un Truhan, Soy Un Se\u00f1or",
+        "url": "https://open.spotify.com/album/4BoFWjy4vhWW2FK2BBOusJ"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "Soy Un Truhan, Soy Un Se\u00f1or",
+      "url": "https://open.spotify.com/track/3I2GDUdv7y5GblX2dV2DIG"
     },
     {
       "album": {

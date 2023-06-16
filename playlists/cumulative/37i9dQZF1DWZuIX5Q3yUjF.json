@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0ErGOW5ewcPle8WY9AEIU9"
+      },
+      "artists": [
+        {
+          "name": "KAPUT",
+          "url": "https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo"
+    },
+    {
+      "album": {
         "name": "Leggera",
         "url": "https://open.spotify.com/album/38u5loF7G4PPZj5aiIXLjk"
       },
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 160000,
       "name": "Da lei",
       "url": "https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7"
@@ -2389,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/5R8NfcNGbzZPibpzch9Vtu"
+      },
+      "artists": [
+        {
+          "name": "Jeson",
+          "url": "https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201915,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3g40wAr31QX58ILTMUcu10"
+    },
+    {
+      "album": {
         "name": "Hangover",
         "url": "https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q"
       },
@@ -3162,6 +3202,24 @@
       "duration_ms": 146636,
       "name": "Lei o me",
       "url": "https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD"
+    },
+    {
+      "album": {
+        "name": "Il canto del villaggio (Atto I - Atto II - Atto III)",
+        "url": "https://open.spotify.com/album/3c4I3xCPnt4r1qKmz6uGNM"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259384,
+      "name": "Lido",
+      "url": "https://open.spotify.com/track/1A2QWvmyc0BXVcjdjKL6Wg"
     },
     {
       "album": {
@@ -4428,7 +4486,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 136105,
       "name": "Paradiso & Inferno",
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
@@ -5248,7 +5306,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 167999,
       "name": "Scarico",
       "url": "https://open.spotify.com/track/530IV2MJ20lxMvcwdg16uy"
@@ -6222,7 +6280,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 327705,
       "name": "Tracce amare",
       "url": "https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y"
@@ -6698,6 +6756,24 @@
       "duration_ms": 197713,
       "name": "Volevo Portarti Al Mare",
       "url": "https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr"
+    },
+    {
+      "album": {
+        "name": "voragini",
+        "url": "https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb"
+      },
+      "artists": [
+        {
+          "name": "Valucre",
+          "url": "https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168042,
+      "name": "voragini",
+      "url": "https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,138 songs - 2 day 18 hr 45 min
+1,139 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Eternal](https://open.spotify.com/track/5IPNnqPAvdVEcYanVKihca) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Eternal](https://open.spotify.com/album/5LB31xPvUGvNI4EqqjXvtA) | 3:33 | 2021-09-11 | 2021-09-25 |
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2021-10-16 | 2022-04-29 |
 | [Everyday My Life](https://open.spotify.com/track/10SM2vnlTmh4hrEkdzjaZj) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [V EP](https://open.spotify.com/album/4OYAw3CG6IbsnMPrc1Cxh7) | 3:15 | 2019-08-09\* | 2019-08-27 |
+| [Everything](https://open.spotify.com/track/0jmTMsQ3sA2VI2uRQ6ELt4) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Everything](https://open.spotify.com/album/5on1sPRggVbWYuJfB8lqxV) | 3:05 | 2023-06-09 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-15 | 2023-04-09 |
 | [Eyes \(feat\. Mindy Gledhill\)](https://open.spotify.com/track/1N7uFZzPs0XzCgu9bOzM0G) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Fire & Ice](https://open.spotify.com/album/7r47EiktL01BmvI7NHdgcA) | 5:15 | 2019-08-09\* | 2019-08-27 |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-01-21 |  |
@@ -817,7 +818,7 @@
 | [Sansa](https://open.spotify.com/track/6gRY4HZcHxx1QWIEpvdAxm) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [100 Reasons To Live](https://open.spotify.com/album/5HicuC798USMxrV1PP4pxX) | 8:31 | 2019-08-09\* | 2019-09-03 |
 | [Satellites](https://open.spotify.com/track/5GKPxzqKQgQpCCOjtFwZ2d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Satellites](https://open.spotify.com/album/14C2ld3DzVkxsrMMovEuX4) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Satellites](https://open.spotify.com/track/6sWsJFiZ7LJm6BqHCpy46V) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Satellites](https://open.spotify.com/album/0n5qFNQKmEvR2midexvkfy) | 2:56 | 2022-10-28 |  |
-| [Satellites](https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Satellites](https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo) | 2:34 | 2022-05-06 |  |
+| [Satellites](https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Satellites](https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo) | 2:34 | 2022-05-06 | 2023-06-16 |
 | [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/album/5KHpJlXPPwUqiyMAureubo) | 2:56 | 2022-02-25 | 2022-11-16 |
 | [Savanna \- Radio Mix](https://open.spotify.com/track/5ohYUhE8TBBROkpbBPSG2J) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Savanna](https://open.spotify.com/album/111MMeKeoUOt17y8WiAGbd) | 3:35 | 2019-08-09\* | 2019-11-23 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-04-29 |  |

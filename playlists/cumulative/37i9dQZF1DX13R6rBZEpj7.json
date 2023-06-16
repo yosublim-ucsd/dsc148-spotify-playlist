@@ -264,7 +264,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 283636,
       "name": "Anything",
       "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
@@ -1568,6 +1568,28 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+    },
+    {
+      "album": {
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
     },
     {
       "album": {

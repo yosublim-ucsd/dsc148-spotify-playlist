@@ -2,7 +2,7 @@
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano di più\. Cover: Geolier
+> Certi amori bruciano di più\. Cover: Shiva
 
 130 songs - 6 hr 46 min
 

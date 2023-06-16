@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 86525,
+  "num_followers": 86729,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTMzMmIzNjlhNTVkYzNkMGYyMDAzYmQxYzEzZTEwYzQ5MjA0OGI5",
+  "snapshot_id": "MCxjOTZjMDg0ZDgzZmE3OTNjODRiZDFmODIzOTc2Nzk0Y2IwMGRhNDJk",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 293400,
       "name": "Love Letter To The Blues - Bonus Track",
       "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Aynsley Dunbar Retaliation",
-        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
+        "name": "Old Bones, New Fire",
+        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
       "artists": [
         {
-          "name": "Aynsley Dunbar Retaliation",
-          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
+          "name": "Miraculous Mule",
+          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Double Lovin\u00b4",
-      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+      "duration_ms": 187524,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Old Bones, New Fire",
-        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
-      },
-      "artists": [
-        {
-          "name": "Miraculous Mule",
-          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Someday You'll Have These Blues",
         "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 247040,
       "name": "Beaumont Blues",
       "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Aynsley Dunbar Retaliation",
+        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Dunbar Retaliation",
+          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Double Lovin\u00b4",
+      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Soul Of The Blues",
-        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Along About Midnight",
-      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Reflection (Digitally Remastered Version)",
         "url": "https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 447520,
       "name": "Twenty-Four Hours - Digitally Remastered Version",
       "url": "https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Soul Of The Blues",
+        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Along About Midnight",
+      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
     },
     {
       "added_at": "2023-06-09 14:58:01",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Cancamusa.\nDales play, dales power.",
-  "num_followers": 11980,
+  "num_followers": 11979,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWE2Yjc2NTBjNGI3ZDFiMmY1OTRmOTJhM2M2NTI3YTUwNTIxZWQy",
+  "snapshot_id": "MCwzZTcyYWExOTE5ZTdhMmViNWMzYjJhZmUxYWU2MjE3YzhiMjZhZjcx",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Alegriste",
-        "url": "https://open.spotify.com/album/0auzDJ9iVcTdWGBoYx62vy"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/7m6GkgKQoYdSgwzRIt3ewb"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 178055,
       "name": "Loco",
       "url": "https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Alegriste",
+        "url": "https://open.spotify.com/album/0auzDJ9iVcTdWGBoYx62vy"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/7m6GkgKQoYdSgwzRIt3ewb"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Somos de Piel",
+      "url": "https://open.spotify.com/track/38RSlANvajbgMeT8uziKau"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "SUFICIENTE",
         "url": "https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
+        "name": "tus margaritas",
+        "url": "https://open.spotify.com/album/3nBmsKtCyx9QZIPqr2FBoT"
       },
       "artists": [
         {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+          "name": "Koe",
+          "url": "https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Somos de Piel",
-      "url": "https://open.spotify.com/track/38RSlANvajbgMeT8uziKau"
+      "duration_ms": 146250,
+      "name": "tus margaritas",
+      "url": "https://open.spotify.com/track/7I31c1ByCDdrFUsz8Tehhy"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -619,22 +635,6 @@
       "duration_ms": 196736,
       "name": "Inseguridad",
       "url": "https://open.spotify.com/track/7uAhfsVbcbmy2IzIJBz7cD"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "tus margaritas",
-        "url": "https://open.spotify.com/album/3nBmsKtCyx9QZIPqr2FBoT"
-      },
-      "artists": [
-        {
-          "name": "Koe",
-          "url": "https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "tus margaritas",
-      "url": "https://open.spotify.com/track/7I31c1ByCDdrFUsz8Tehhy"
     },
     {
       "added_at": "2023-06-05 03:00:00",

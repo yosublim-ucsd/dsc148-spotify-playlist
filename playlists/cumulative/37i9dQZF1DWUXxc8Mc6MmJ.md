@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-211 songs - 13 hr 42 min
+212 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 | 2022-10-06 |  |
 | [In front of city hall at the subway station](https://open.spotify.com/track/56VSMwyB4E3wpjKlLk9kv0) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0brOxN3ugsawPZxrZ8kTFq) | 4:58 | 2022-06-24 | 2022-07-06 |
 | [In The Night](https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7MDwMSMEZLXv7qcpMIshpe) | 4:19 | 2022-05-11 | 2022-07-29 |
-| [In Your Time](https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/76vBXydusWbXsHibhixOoO) | 4:28 | 2022-10-06 |  |
+| [In Your Time](https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/76vBXydusWbXsHibhixOoO) | 4:28 | 2022-10-06 | 2023-06-16 |
 | [Introduce me a good person](https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z) | 3:03 | 2022-05-11 | 2022-07-26 |
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2022-06-24 |  |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2022-06-09 | 2022-06-16 |
@@ -219,5 +219,6 @@
 | [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2023-03-13 |  |
 | [별](https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [미녀는 괴로워 Original Motion picture Soundtrack](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) | 5:02 | 2022-05-11 | 2022-07-24 |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-05-11 | 2023-06-04 |
+| [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2023-03-13 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

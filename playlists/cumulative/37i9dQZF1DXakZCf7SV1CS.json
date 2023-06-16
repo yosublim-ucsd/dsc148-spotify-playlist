@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 227750,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
@@ -1668,6 +1668,24 @@
       "duration_ms": 109034,
       "name": "I dont want that many friends in the first place",
       "url": "https://open.spotify.com/track/7kXnHbV1EaQD1atCzRmfMq"
+    },
+    {
+      "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
     },
     {
       "album": {

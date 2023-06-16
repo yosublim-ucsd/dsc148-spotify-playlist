@@ -2055,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Habibi W Bass",
+        "url": "https://open.spotify.com/album/5ATcgFqFUY2g9IvwB3ZBpD"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248197,
+      "name": "Habibi W Bass",
+      "url": "https://open.spotify.com/track/3r9d4esfC7pMR7U3Y5WUQb"
+    },
+    {
+      "album": {
         "name": "Habibty",
         "url": "https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU"
       },

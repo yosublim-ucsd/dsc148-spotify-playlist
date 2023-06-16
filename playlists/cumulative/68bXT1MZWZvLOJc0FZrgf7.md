@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Cover: Party Favor and Baauer
 
-383 songs - 20 hr 10 min
+384 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Lollipop \(Yum bi dum like Bubblegum\)](https://open.spotify.com/track/386QHGwSjQMYgwyrfbZsJ4) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Lollipop \(Yum bi dum like Bubblegum\)](https://open.spotify.com/album/3XoqAs15oTO9zpbrWNztuk) | 3:00 | 2022-08-12 | 2022-11-19 |
 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 | 2022-06-03 | 2023-02-05 |
 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 | 2023-01-27 |  |
+| [Lord It's a Feeling \- goddard\. Remix](https://open.spotify.com/track/6u7zWn5zHYD1HKrgAgKnCF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Lord It's a Feeling \(goddard\. Remix\)](https://open.spotify.com/album/1soCU3H4eASjprAAToH4a4) | 3:34 | 2023-05-26 |  |
 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 | 2023-04-28 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-07 |  |
 | [Love Me \- Sammy Virji Remix](https://open.spotify.com/track/4nlXawFXpywsHEIOrg68kg) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Love Me \(Sammy Virji Remix\)](https://open.spotify.com/album/1ab8WsKFPoa90pV2T4lgm4) | 2:09 | 2022-06-03 | 2023-02-05 |

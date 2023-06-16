@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 1159,
+  "num_followers": 1186,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzRkZmYwOTFlYzg2MTM3MWZkMjQ0ZjkzZmU2ZDM0MGU0ZmFmMmIy",
+  "snapshot_id": "MCw1NjgyMDEzY2VmYjk0MTdmNjMyNGIyMmRkOGFjMThmMjIxZDZmODNk",
   "tracks": [
     {
       "added_at": "2023-06-09 05:46:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        },
+        {
+          "name": "Adrian Sing",
+          "url": "https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv"
+        }
+      ],
+      "duration_ms": 222791,
+      "name": "Highest Praise",
+      "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
+    },
+    {
+      "added_at": "2023-06-09 05:46:00",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 319870,
       "name": "Adom Bi",
       "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
-    },
-    {
-      "added_at": "2023-06-09 05:46:00",
-      "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        },
-        {
-          "name": "Adrian Sing",
-          "url": "https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv"
-        }
-      ],
-      "duration_ms": 222791,
-      "name": "Highest Praise",
-      "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
     },
     {
       "added_at": "2023-06-09 05:46:00",

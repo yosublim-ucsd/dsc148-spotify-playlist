@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 227507,
       "name": "BART SIMPSON",
       "url": "https://open.spotify.com/track/6Lnn80jSi8L5bMSUMcGG2V"
@@ -2216,6 +2216,28 @@
       "duration_ms": 207619,
       "name": "DOWN TO EARTH",
       "url": "https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV"
+    },
+    {
+      "album": {
+        "name": "Dr. Phil",
+        "url": "https://open.spotify.com/album/3vmxLKxwiqXaXZc59T9BeP"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Sammy Adams",
+          "url": "https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203181,
+      "name": "Dr. Phil",
+      "url": "https://open.spotify.com/track/2XJZf6npI2jDpM6vUpZ8rL"
     },
     {
       "album": {

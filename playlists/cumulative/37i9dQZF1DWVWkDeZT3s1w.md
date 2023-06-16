@@ -2,7 +2,7 @@
 
 ### [Rap Conciencia](https://open.spotify.com/playlist/37i9dQZF1DWVWkDeZT3s1w)
 
-> Grandes relatos de toque reflexivo y visión consciente\. Lengualerta y Choko Rap de Luz en portada.
+> Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
 70 songs - 4 hr 32 min
 

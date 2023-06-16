@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249443,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
+    },
+    {
+      "album": {
         "name": "Adura",
         "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 273760,
       "name": "Aka Ngozi (The Hand of God)",
       "url": "https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo"
@@ -644,6 +662,24 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "album": {
+        "name": "Sounds of Testimonies",
+        "url": "https://open.spotify.com/album/4wmV8eWeMnWG8MgkOwPD4o"
+      },
+      "artists": [
+        {
+          "name": "Apex Choir",
+          "url": "https://open.spotify.com/artist/7HIOJjMPWrpsgduor6TGNr"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1470000,
+      "name": "Ebenezeri - Live Version",
+      "url": "https://open.spotify.com/track/6EhVvsXCwlrlHrJuBmlYPZ"
     },
     {
       "album": {
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
@@ -1322,6 +1358,24 @@
       "duration_ms": 350847,
       "name": "I Will Sing (Refreshed)",
       "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+    },
+    {
+      "album": {
+        "name": "Atmosph\u00e8re (Live)",
+        "url": "https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR"
+      },
+      "artists": [
+        {
+          "name": "David Ize",
+          "url": "https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275090,
+      "name": "I worship You - Live",
+      "url": "https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3"
     },
     {
       "album": {
@@ -1798,7 +1852,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 417572,
       "name": "My Altar (Cover)",
       "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
@@ -2230,6 +2284,28 @@
       "duration_ms": 196832,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
+    },
+    {
+      "album": {
+        "name": "Owo Oluwa",
+        "url": "https://open.spotify.com/album/5I9E24YUXBhLdwVDspX4oj"
+      },
+      "artists": [
+        {
+          "name": "Emino",
+          "url": "https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy"
+        },
+        {
+          "name": "P.Daniel Olawande",
+          "url": "https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463464,
+      "name": "Owo Oluwa",
+      "url": "https://open.spotify.com/track/2kNnK2WiuTPHnlgiQpoUjF"
     },
     {
       "album": {
@@ -2766,7 +2842,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
@@ -3049,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "We the Forgiven",
+        "url": "https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354038,
+      "name": "We the Forgiven",
+      "url": "https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW"
+    },
+    {
+      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -3158,7 +3256,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 325546,
       "name": "Yehowah B\u025bhw\u025b",
       "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"

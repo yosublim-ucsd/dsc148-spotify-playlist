@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,116 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,147 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 2 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
 | 3 | [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 3:38 |
 | 4 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
-| 5 | [Two Of A Kind](https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Two Of A Kind](https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE) | 3:55 |
+| 5 | [Two Of A Kind](https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/1CW7MiOxF2OB1fm4hCjQSq) | 3:55 |
 | 6 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 |
 | 7 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 |
 | 8 | [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Solid Ground](https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 2:34 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw1MDIyMDY0OThmZWFlN2U1MjQwOWVhNjExNjI2OTY4Yjg0M2Y4MzM1`
+Snapshot ID: `MCw2NjU3ODYxZjQxZTUyY2RmNDNjOGEyNzVmM2RjZDBhOTc3ZjZkZDQ4`

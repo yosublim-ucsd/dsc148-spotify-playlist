@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Piya Basanti
 
-81 songs - 6 hr 46 min
+82 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 | 2022-12-14 |  |
 | [Chhui Mui Si Tum Lagti Ho](https://open.spotify.com/track/2WhAMwGhTSOwg7SpuZ4wNn) | [Milind Ingle](https://open.spotify.com/artist/6y3SGrK0CVpzfpTnbEDxzN) | [Yeh Hai Prem \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rfVitOCL5MvlfWy8veKOC) | 5:33 | 2022-12-14 |  |
 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 | 2022-04-11 |  |
-| [Deewane To Deewane Hain](https://open.spotify.com/track/5iTmzhI02fWKhVufRgAfvv) | [Shweta Shetty](https://open.spotify.com/artist/1481DePcEz5zp1q51z6dgn) | [Deewane To Deewane Hain](https://open.spotify.com/album/5mAYOAaJ3Dd9NlgjCK2B0Q) | 4:23 | 2022-04-11 |  |
+| [Deewane To Deewane Hain](https://open.spotify.com/track/5iTmzhI02fWKhVufRgAfvv) | [Shweta Shetty](https://open.spotify.com/artist/1481DePcEz5zp1q51z6dgn) | [Deewane To Deewane Hain](https://open.spotify.com/album/5mAYOAaJ3Dd9NlgjCK2B0Q) | 4:23 | 2022-04-11 | 2023-06-16 |
 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 | 2022-04-11 |  |
 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 | 2022-12-29 |  |
 | [Dholna](https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Pyar Ke Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7) | 4:40 | 2022-12-14 |  |
@@ -60,6 +60,7 @@
 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 | 2022-12-14 | 2023-04-22 |
 | [Mere Naseeb Mein](https://open.spotify.com/track/5HpQ2SuB4EWkEvUhNYh75t) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Precha](https://open.spotify.com/artist/2FGYYE7TFz9Ui2nVK7Toae) | [Baby H Mere Naseeb .....Remix](https://open.spotify.com/album/0YNufU0WnqdamZZKq6t9i6) | 6:24 | 2022-12-29 |  |
 | [Meri Neend](https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 5:00 | 2022-12-29 |  |
+| [Mona Re](https://open.spotify.com/track/5QHEv9iTvsZc6sSK2Bq8u0) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 5:00 | 2023-06-15 |  |
 | [Musu Musu \(From "Pyaar Mein Kabhi Kabhi"\)](https://open.spotify.com/track/3akTx7f3zkKeQI9jPOziL3) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shiraz](https://open.spotify.com/artist/7xVc0E3yppOTdqFbG7fYkA), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rediscovered Gems: Shaan](https://open.spotify.com/album/3UpecWk3GRINATioR0ZlKz) | 4:07 | 2022-04-11 | 2022-12-15 |
 | [Nachangeh Sari Raath](https://open.spotify.com/track/0tFVfArJG8BY54jo3UkADg) | [Stereo Nation](https://open.spotify.com/artist/4yg2tDrBwZAUD4d7eUGG0l), [Hunterz](https://open.spotify.com/artist/0G4H2fBVHbe6grWwuPH0uo) | [Slave II Fusion](https://open.spotify.com/album/7iEHiUNsbnpsGs72QFRzQg) | 5:15 | 2022-04-11 |  |
 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 | 2022-04-11 |  |

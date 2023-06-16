@@ -1,12 +1,12 @@
 {
   "description": "Discover something new from local independent artists on the rise. Cover: Folk Bitch Trio. Artwork: Isu Kim",
-  "num_followers": 11156,
+  "num_followers": 11164,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjA1YWNmZDVjOWQ2NWY3ZTcwMjI3YmQ5MTczNzYzZjI0MTI0M2M0",
+  "snapshot_id": "MCxlNGQwMDk2YTY3YzhkZTQwMmY5MTQ0MGRiZmIzNWYyZDQ0MDNjYmRk",
   "tracks": [
     {
       "added_at": "2023-06-14 17:52:06",
@@ -23,6 +23,30 @@
       "duration_ms": 330590,
       "name": "The World Is Here For You",
       "url": "https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/3HcSMiiBfkIRSzwrdqLYMV"
+      },
+      "artists": [
+        {
+          "name": "Kuda",
+          "url": "https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab"
+        },
+        {
+          "name": "lxrdmc",
+          "url": "https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ"
+        },
+        {
+          "name": "DSP",
+          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
+        }
+      ],
+      "duration_ms": 151163,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL"
     },
     {
       "added_at": "2023-06-14 17:52:06",
@@ -83,6 +107,26 @@
     {
       "added_at": "2023-06-14 17:52:06",
       "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7"
+      },
+      "artists": [
+        {
+          "name": "Sydney Yungins",
+          "url": "https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc"
+        },
+        {
+          "name": "Rico Tonga",
+          "url": "https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Top",
+      "url": "https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
         "name": "Analogue/ I Heard",
         "url": "https://open.spotify.com/album/1EwoZdizHLkjrRoxiu9B2x"
       },
@@ -95,6 +139,86 @@
       "duration_ms": 226164,
       "name": "Analogue",
       "url": "https://open.spotify.com/track/6G03vyXV3PPZCHE2hNmcTi"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "FS Type Beats 2",
+        "url": "https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR"
+      },
+      "artists": [
+        {
+          "name": "Freesouls",
+          "url": "https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Off My Head",
+      "url": "https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/0NUW20dho4eovmFiX8BZwx"
+      },
+      "artists": [
+        {
+          "name": "Tim Morrison",
+          "url": "https://open.spotify.com/artist/7jorGtdk1HfscrUyanHXlf"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/6oN3WzLGP8FPuSy4dVr7W8"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Always Dancin'",
+        "url": "https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy"
+      },
+      "artists": [
+        {
+          "name": "Bavhu",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        }
+      ],
+      "duration_ms": 173652,
+      "name": "Always Dancin'",
+      "url": "https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Way2On",
+        "url": "https://open.spotify.com/album/5jQsohFIoNwCFjGfyMtrke"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh"
+        }
+      ],
+      "duration_ms": 174913,
+      "name": "Way2On",
+      "url": "https://open.spotify.com/track/0aKdbwU0YE4q8P25kITiG6"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/3B0e4Khpnl39gTagbafaRH"
+      },
+      "artists": [
+        {
+          "name": "Avon Stringer",
+          "url": "https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU"
+        }
+      ],
+      "duration_ms": 168415,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3WJk3ssSuZW1J3c2zILQbh"
     },
     {
       "added_at": "2023-06-14 17:52:06",
@@ -131,6 +255,22 @@
     {
       "added_at": "2023-06-14 17:52:06",
       "album": {
+        "name": "Dizzee",
+        "url": "https://open.spotify.com/album/0jtXQWRDZpR5Z7HxHl85Gk"
+      },
+      "artists": [
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        }
+      ],
+      "duration_ms": 163399,
+      "name": "Dizzee",
+      "url": "https://open.spotify.com/track/6GY4aSoW8OiAseARRhI4UK"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
         "name": "Gone by March",
         "url": "https://open.spotify.com/album/4V9yH476Bj7X9uYTDyxhji"
       },
@@ -143,6 +283,22 @@
       "duration_ms": 146346,
       "name": "Gone by March",
       "url": "https://open.spotify.com/track/4jKNEOEL5PXoO6EhMDYf2A"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/21eWKk8tzlKblYEf61LXp6"
+      },
+      "artists": [
+        {
+          "name": "SADBOii",
+          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "A Matter of Time",
+      "url": "https://open.spotify.com/track/6tEt12JRtGhVj9qKCtvfzy"
     },
     {
       "added_at": "2023-06-14 17:52:06",
@@ -183,6 +339,38 @@
       "duration_ms": 184017,
       "name": "Same Drugs",
       "url": "https://open.spotify.com/track/1uGFpq3K8UlpLFaYvVdEfz"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Nintendo 64",
+        "url": "https://open.spotify.com/album/0JpBBvJBExMp8zsLuEfmcK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Joseph Russo",
+          "url": "https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU"
+        }
+      ],
+      "duration_ms": 290753,
+      "name": "Nintendo 64",
+      "url": "https://open.spotify.com/track/64ZhLoH3H7pAfce9zuhvUs"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/4YhAhOpM344lNiSqHfyHzR"
+      },
+      "artists": [
+        {
+          "name": "Kalou",
+          "url": "https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu"
+        }
+      ],
+      "duration_ms": 192860,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/4QIgksVsoPBZ9YANxxB5Jo"
     },
     {
       "added_at": "2023-06-14 17:52:06",
@@ -251,6 +439,22 @@
     {
       "added_at": "2023-06-14 17:52:06",
       "album": {
+        "name": "Manning",
+        "url": "https://open.spotify.com/album/7GbBtV6uaeUlZGFjy6zyfm"
+      },
+      "artists": [
+        {
+          "name": "Manning",
+          "url": "https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen"
+        }
+      ],
+      "duration_ms": 160132,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2M9Fly8aaSJDKGhEE8lvZa"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
         "name": "Attack Patterns",
         "url": "https://open.spotify.com/album/0s6tGMnyoJfCHYHSBtuSNv"
       },
@@ -267,6 +471,22 @@
     {
       "added_at": "2023-06-14 17:52:06",
       "album": {
+        "name": "Girls!",
+        "url": "https://open.spotify.com/album/5R2N0QoR6XN5QwedwVn7jW"
+      },
+      "artists": [
+        {
+          "name": "Theia",
+          "url": "https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Girls!",
+      "url": "https://open.spotify.com/track/3ZALUrmCyponBGvuBHuJQa"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
         "name": "Slap",
         "url": "https://open.spotify.com/album/1TyYGkRd1eg9aNY0Wp6614"
       },
@@ -279,6 +499,58 @@
       "duration_ms": 148742,
       "name": "Slap",
       "url": "https://open.spotify.com/track/0MWxdsMxd0K1ZniGeyJLmv"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Good Hair Day (Harvey Sutherland Remix)",
+        "url": "https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B"
+      },
+      "artists": [
+        {
+          "name": "Simon Mavin",
+          "url": "https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4"
+        },
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Good Hair Day - Harvey Sutherland Remix",
+      "url": "https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "FALLING FOR ME",
+        "url": "https://open.spotify.com/album/28yMJC6YKkaCQt2zPrcB3r"
+      },
+      "artists": [
+        {
+          "name": "$avage KD",
+          "url": "https://open.spotify.com/artist/125r6N80whxIEzOb4maM01"
+        }
+      ],
+      "duration_ms": 168808,
+      "name": "FALLING FOR ME",
+      "url": "https://open.spotify.com/track/4mExLKk5gN8NDFV85D2L71"
+    },
+    {
+      "added_at": "2023-06-14 17:52:06",
+      "album": {
+        "name": "Boujee Bby",
+        "url": "https://open.spotify.com/album/2xb7m2Mu737NE3rqschREf"
+      },
+      "artists": [
+        {
+          "name": "MUNGMUNG",
+          "url": "https://open.spotify.com/artist/1WFXknBooWyCTpQuVhhCfd"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "IF U SAY",
+      "url": "https://open.spotify.com/track/3bPtyYUyXRihLnnetYFovB"
     },
     {
       "added_at": "2023-06-14 17:52:06",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDBiZmE3ODcxMDYwOGM1MWEwMDVlNzY4ZDg3NjNiYzA1Nw==",
+  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDBmNDg0YTA4MGJhYTg1ZmRjN2ExNjE5NjljYTcxZGZjYg==",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
         "url": "https://open.spotify.com/album/5iIvvsxvseJ6MRoYMBjpx7"
       },
@@ -163,26 +147,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "La Hora del T\u00e9",
-        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
-      },
-      "artists": [
-        {
-          "name": "No Rim",
-          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
-        },
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        }
-      ],
-      "duration_ms": 164825,
-      "name": "La Hora del T\u00e9",
-      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Baby, You Wouldn't Last A Minute On The Creek",
         "url": "https://open.spotify.com/album/1YWCnoSKXxmCg1s76sJhYO"
       },
@@ -199,6 +163,22 @@
       "duration_ms": 266534,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/3IDwBKrMKtXg3nMhxQZPLL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -315,7 +295,7 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+        "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
         "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
       },
       "artists": [
@@ -369,7 +349,7 @@
         }
       ],
       "duration_ms": 400377,
-      "name": "Quitte (feat. La Fouine, Canardo, Chabodo, Gued'1, Poison, Pouf-Pouf, Nosiiila, Stone Flexance, Weedy, HdoubleL & 13or)",
+      "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
       "url": "https://open.spotify.com/track/79hDPw6W97jutRE78kn8ik"
     },
     {
@@ -387,6 +367,26 @@
       "duration_ms": 613253,
       "name": "Hard Times / Love Action - Single Version / Remastered 2021",
       "url": "https://open.spotify.com/track/551Mr9INSzPxxTJsM7NmUZ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "La Hora del T\u00e9",
+        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
+      },
+      "artists": [
+        {
+          "name": "No Rim",
+          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
+        },
+        {
+          "name": "PelySayon",
+          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
+        }
+      ],
+      "duration_ms": 164825,
+      "name": "La Hora del T\u00e9",
+      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
         }
       ],
-      "duration_ms": 220579,
-      "name": "Knights of the Round - Live at The Glasshouse",
-      "url": "https://open.spotify.com/track/0hAMrYf7OZCHokXW4velyX"
+      "duration_ms": 168493,
+      "name": "Wires And The Concept Of Breathing - Live at The Glasshouse",
+      "url": "https://open.spotify.com/track/1V1I1oa74v1vPkGKaEP5AG"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

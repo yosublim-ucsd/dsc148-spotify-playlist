@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6202\)
+## Playlists \(6203\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1248,7 +1248,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Covered In Punk](/playlists/pretty/37i9dQZF1DXaDzsRodF91I.md)
 - [Covered in Country](/playlists/pretty/0jJQDST7bzwAYlN19tFLXw.md)
 - [Covers Acústicos](/playlists/pretty/37i9dQZF1DWYbOY1zkU5qF.md)
-- [Covers Padres](/playlists/pretty/37i9dQZF1DX0U9uWXLno47.md)
 - [Cozinhando em Casa](/playlists/pretty/37i9dQZF1DWWA91mpJ5Ldc.md)
 - [Cozy Acoustic Morning](/playlists/pretty/37i9dQZF1DWT3gM3xdPT0c.md)
 - [Cozy Blend](/playlists/pretty/37i9dQZF1DXcxacyAXkQDu.md)
@@ -4219,6 +4218,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Spring Jazz](/playlists/pretty/37i9dQZF1DX1mPHJeSJNRN.md)
 - [Spécial soleil](/playlists/pretty/37i9dQZF1DXcEdamGPOi1T.md)
 - [Squid Game \(오징어게임\)](/playlists/pretty/37i9dQZF1DWTThV2562fDa.md)
+- [Ssuply \(썰플리\)](/playlists/pretty/37i9dQZF1DX7ugUAewqF7z.md)
 - [St\. Patrick's Day 2023](/playlists/pretty/37i9dQZF1DWSCaDvxADWZT.md)
 - [Standards de la Chanson Française](/playlists/pretty/37i9dQZF1DWTypZHlgEy1G.md)
 - [Star finder playlist](/playlists/pretty/7wETjLe4RSBx8znrYPumNM.md)
@@ -6145,6 +6145,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [¡A limpiar con Pop!](/playlists/pretty/37i9dQZF1DWZuieNT0Gy18.md)
 - [¡Chicas Ye\-yé!](/playlists/pretty/37i9dQZF1DWUES7kJcgJ4x.md)
 - [¡Feliz día de lxs niñxs!](/playlists/pretty/37i9dQZF1DXbLRILp4Jb3D.md)
+- [¡Feliz día, papá!](/playlists/pretty/37i9dQZF1DX0U9uWXLno47.md)
 - [¡Guajira!](/playlists/pretty/37i9dQZF1DWV5sGFwUJeqR.md)
 - [¡Let's Aprender!](/playlists/pretty/37i9dQZF1DX7sSQjtZZJpz.md)
 - [¡Pop Latino!](/playlists/pretty/37i9dQZF1DWYRAyj7EtEk1.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,026 likes - 98 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,056 likes - 98 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 97 | [Larme De Fond](https://open.spotify.com/track/4ooL57idmtn9s4oFo90FT7) | [Seul Ensemble](https://open.spotify.com/artist/3ZygKshkxks8NKLDR2yMa3) | [127VA001](https://open.spotify.com/album/3IdDojGeH3Mzy2YNxUceH1) | 6:55 |
 | 98 | [To the vibe \(rework\)](https://open.spotify.com/track/51Kc6kYlpkoPAGj91BEcx2) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 7:36 |
 
-Snapshot ID: `MCxiMzAwMThiYmM0NWI3OTViNGMxMmExMGQwZjU3ZDk0YmU2YmZmOGQy`
+Snapshot ID: `MCwzMDJhMjM5ZDM1ZWNlYTI3NzViNjM0ODNkYzVlYTM5YmQ2MTFkMjEx`

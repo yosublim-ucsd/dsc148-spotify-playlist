@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 258967,
       "name": "Castles",
       "url": "https://open.spotify.com/track/2kts9CqkgeHyJLIN22WAwb"
@@ -1212,6 +1212,24 @@
       "duration_ms": 437760,
       "name": "Change The Line",
       "url": "https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR"
+    },
+    {
+      "album": {
+        "name": "China Plate / Sivonium",
+        "url": "https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE"
+      },
+      "artists": [
+        {
+          "name": "djimboh",
+          "url": "https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "China Plate",
+      "url": "https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i"
     },
     {
       "album": {

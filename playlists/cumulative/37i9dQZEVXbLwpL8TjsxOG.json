@@ -8543,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u597d\u639b\u4f4f",
+        "url": "https://open.spotify.com/album/4x8GGMwSp8CfwW5EG0RjBs"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289917,
+      "name": "\u597d\u597d\u639b\u4f4f",
+      "url": "https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
       },
@@ -9926,7 +9944,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 231355,
       "name": "\u6d17\u9762",
       "url": "https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl"

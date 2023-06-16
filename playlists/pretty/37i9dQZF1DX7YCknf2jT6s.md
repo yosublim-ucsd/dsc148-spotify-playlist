@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Aja Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,072 likes - 101 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,054 likes - 101 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [black joy](https://open.spotify.com/track/77iu6yezCTvVSrikAWivdX) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [when the poems do what they do](https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk) | 6:16 |
 | 2 | [Process Level Event](https://open.spotify.com/track/5xqpc19sWHuS5gaD58DqaO) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB) | [Accretion](https://open.spotify.com/album/3pQNk3yX2QciBU96cR06i4) | 5:02 |
 | 3 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 |
-| 4 | [SCENERY](https://open.spotify.com/track/264eKUhlQqY520CEAT4GF4) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [SCENERY](https://open.spotify.com/album/0NnfBFP7WbzQpf7NFAd14X) | 2:32 |
+| 4 | [SCENERY](https://open.spotify.com/track/264eKUhlQqY520CEAT4GF4) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [SCENERY](https://open.spotify.com/album/0NnfBFP7WbzQpf7NFAd14X) | 2:33 |
 | 5 | [Cleanse \- \(The Waters\) \- feat\. Braxton Cook](https://open.spotify.com/track/6EPWNZTkW8ugUmpQlagLiz) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Rituals + Routines](https://open.spotify.com/album/0C2JNKv7UBSIXdyxXk5Shh) | 4:11 |
 | 6 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
 | 7 | [Portals](https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR) | 2:41 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 100 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 101 | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Salomão Soares](https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL) | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/album/4RqK5murOrvju4Lel65EzG) | 4:33 |
 
-Snapshot ID: `MCwwNzAxZjVhZjRiYWRlOWE0MDkyODZjZjI5YWIyMGVhNTRkYjZjOTRh`
+Snapshot ID: `MCxlZTkxNzM3ZmE1ZTdiMjY0MTBjNTQzYjI1ODg5ZGQyOTg1Y2ZkYTVl`

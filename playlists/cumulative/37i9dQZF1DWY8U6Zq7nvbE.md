@@ -4,12 +4,13 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-390 songs - 21 hr 8 min
+391 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-10-26 | 2023-03-10 |
 | [7 Years](https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [7 Years](https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr) | 3:42 | 2023-04-14 |  |
+| [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 | 2023-06-14 |  |
 | [abcdefu \(acoustic\) \- Radio Edit](https://open.spotify.com/track/1OTFP5JoD3Bwrg2nm0lZBH) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [abcdefu \(acoustic\)](https://open.spotify.com/album/26nOjYS1K4m5R3kg7n7AXj) | 2:48 | 2022-11-11 | 2022-12-02 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 |  |
 | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 | 2023-06-15 |
@@ -334,7 +335,7 @@
 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2022-12-16 |  |
 | [Stitches \(Acoustic\)](https://open.spotify.com/track/1NEMlQEO4ArMfTXjXYtgQH) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Stitches \(Acoustic\)](https://open.spotify.com/album/4qJFXxyt5OjMmOeymnN784) | 3:14 | 2022-08-31 |  |
 | [Stupid Love \- Acoustic Cover](https://open.spotify.com/track/67UOPTeZfrUENW7MA5F3e6) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Stupid Love \(Acoustic Cover\)](https://open.spotify.com/album/4Pn5qhCGfkSnRlPGTlrcrN) | 3:21 | 2021-03-11 | 2022-12-17 |
-| [Sunroof \(Acoustic\)](https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Sunroof \(Acoustic\)](https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB) | 2:17 | 2023-05-12 |  |
+| [Sunroof \(Acoustic\)](https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Sunroof \(Acoustic\)](https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB) | 2:17 | 2023-05-12 | 2023-06-16 |
 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 | 2023-05-12 |  |
 | [Sure Thing \- Acoustic](https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Sure Thing \- Acoustic](https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD) | 3:01 | 2023-02-17 |  |
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 |  |

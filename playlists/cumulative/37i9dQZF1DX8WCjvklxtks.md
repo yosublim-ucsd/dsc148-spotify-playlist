@@ -4,7 +4,7 @@
 
 > A raspar las botas con las más bailables de la banda\. La Adictiva Banda San José de Mesillas en portada.
 
-51 songs - 2 hr 38 min
+52 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 | 2022-09-20 |  |
 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 | 2022-09-20 |  |
 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 | 2022-09-20 |  |
-| [La Playa](https://open.spotify.com/track/02kI6xrg3MqVgfZwjS61cc) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [ME SIENTO A TODO DAR](https://open.spotify.com/album/1TUw3pFW3N22zP7j3JqcXI) | 3:03 | 2022-09-20 |  |
+| [La Playa](https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:59 | 2022-09-20 |  |
+| [La Playa](https://open.spotify.com/track/02kI6xrg3MqVgfZwjS61cc) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [ME SIENTO A TODO DAR](https://open.spotify.com/album/1TUw3pFW3N22zP7j3JqcXI) | 3:03 | 2022-09-20 | 2023-06-16 |
 | [La Playa](https://open.spotify.com/track/7IMQ45yz4zOg1A0cBsHvCx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ayer, Hoy Y Siempre Con..\. Valentín Elizalde](https://open.spotify.com/album/0vkG9pqDfFB6ljZ9SFw9FM) | 3:03 | 2022-09-20 | 2023-03-19 |
 | [Las mujeres quieren bailar](https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [A Mover el Guayin](https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct) | 3:16 | 2022-09-20 |  |
 | [Micaela](https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0) | [Banda Saucillos](https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK) | [A Bailar a la Quebradita](https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe) | 2:42 | 2022-09-20 |  |

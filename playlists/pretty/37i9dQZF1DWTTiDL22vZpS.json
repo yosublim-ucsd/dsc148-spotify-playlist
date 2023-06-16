@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 11756,
+  "num_followers": 11842,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Q3MjEyYjM4MTdjMTQxZjk0ODAwMWRlZmM0MDM2YjMyMmJmYmY1",
+  "snapshot_id": "MCxmYjgyYTlkMzNkMTVkOThmYzI2Y2JiOWJlYzY4MmYzYTMxNDU5MDU1",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "En el club",
+        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "En el club",
+      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Zoo Lion",
         "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 202080,
       "name": "Ritmo Natural",
       "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Maldita Cach\u00e1",
-        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 144958,
-      "name": "Maldita Cach\u00e1",
-      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
     }
   ],
   "unique_name": "feels like latin funk",

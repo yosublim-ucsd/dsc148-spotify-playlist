@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: zeyne
 
-481 songs - 1 day 4 hr 6 min
+482 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Janne](https://open.spotify.com/track/434dk1E0K6p4J5mW8nznFX) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Janne](https://open.spotify.com/album/1uBuVHdxXpGLZDXcT791yF) | 3:38 | 2023-03-02 | 2023-03-08 |
 | [Jeet Ahrak](https://open.spotify.com/track/7EFFcVrADndTUDZt88tAK0) | [Aroa](https://open.spotify.com/artist/3YIVc1ZHmaoN4iZa6QUk7Q) | [Jeet Ahrak](https://open.spotify.com/album/3G88nKXJz9ApDpVI2ngwjk) | 3:28 | 2022-01-27 | 2022-02-02 |
 | [Joudia](https://open.spotify.com/track/1bdTseAlqJLOjf61wvOOCr) | [Soukaina Fahsi](https://open.spotify.com/artist/39DD8OzHyAs32eKK9GLQDp) | [Joudia](https://open.spotify.com/album/1fQoYFxc0EZCG6XZtC5VOC) | 5:02 | 2021-12-23 | 2022-03-01 |
+| [Kalam El Hob](https://open.spotify.com/track/6lE3VAWIsaXGw4H67spRsp) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Kalam El Hob](https://open.spotify.com/album/6h3n3RjjTLFtcRzpppOUoO) | 3:46 | 2023-06-16 |  |
 | [Kam Marra](https://open.spotify.com/track/0cawWyQZDZheOScU3xR5jr) | [Tania Kassis](https://open.spotify.com/artist/793k10CpQo36RQJyL7rGDi) | [Kam Marra](https://open.spotify.com/album/6DixtSWrxYingKM0PHuG11) | 4:01 | 2022-03-01 | 2022-07-28 |
 | [Kam Sanah](https://open.spotify.com/track/7MrMMG6dvOkQAFeumvAAew) | [Wajd](https://open.spotify.com/artist/4InPJuxYYDsMGmPd9xTmoc) | [Kam Sanah](https://open.spotify.com/album/1MsJWBTQ6bRlJXwxIiUBkC) | 3:26 | 2021-12-23 | 2022-03-01 |
 | [Kan Ya Ma Kan](https://open.spotify.com/track/7pSIxWwue7kcqomsmaltbT) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Kan Ya Ma Kan](https://open.spotify.com/album/6pOn8wrzid7Vjj2SwWT0Lv) | 4:36 | 2022-11-15 | 2023-05-13 |
@@ -288,7 +289,7 @@
 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 | 2021-12-23 | 2022-03-01 |
 | [Nazele Big Champagne](https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Nazele Big Champagne](https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb) | 2:30 | 2023-02-23 | 2023-03-25 |
 | [Nefodaha Seera](https://open.spotify.com/track/1MPi1UhG5kOwuuBtuhGWwj) | [Hla Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Nefodaha Seera](https://open.spotify.com/album/5zfS9qNEixg0dE4s8Wsfa3) | 3:10 | 2022-03-09 | 2022-07-27 |
-| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 |  |
+| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 | 2023-06-16 |
 | [Nefsy Feek](https://open.spotify.com/track/7LLBzHItdTa9wKmc5pyLZT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug), [Reem Ezz El Din](https://open.spotify.com/artist/6mSMBrCQj2ad7P5aQEITUK) | [Nefsy Feek](https://open.spotify.com/album/1tf0XaSynbt5BhRw2iBWOy) | 4:18 | 2021-12-23 | 2022-03-02 |
 | [Nekhaby Leh](https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nekhaby Leh](https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30) | 1:46 | 2023-05-11 | 2023-06-07 |
 | [Nesait Esmo](https://open.spotify.com/track/3KPGXN0WOj9CwOuLctZo7z) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Nesait Esmo](https://open.spotify.com/album/4DBTxotqYyYQhXVBjcwQxe) | 3:39 | 2021-12-23 | 2022-03-02 |

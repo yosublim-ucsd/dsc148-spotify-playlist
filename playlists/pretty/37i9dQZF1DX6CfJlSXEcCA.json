@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 23937,
+  "num_followers": 24003,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc1NzdkOGI4NGU2NzhhNGQzOWQ4ZmQxNTFmNmI5NTkyMzczYWQx",
+  "snapshot_id": "MCw5NDMxOWY5MzRkMDExNDZkN2FmZDliNzhmOTliMzA5YTNhMmY3YWE3",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "We are ROCK-MEN!2",
         "url": "https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 254266,
       "name": "Domain of Dust and Desolation",
       "url": "https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
-      },
-      "artists": [
-        {
-          "name": "Shusaku Uchiyama",
-          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Ripples in the Calm",
-      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
     },
     {
       "added_at": "2021-06-30 15:18:23",

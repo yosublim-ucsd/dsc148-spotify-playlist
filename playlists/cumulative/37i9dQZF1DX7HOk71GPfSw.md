@@ -4,7 +4,7 @@
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-1,744 songs - 3 day 7 hr 14 min
+1,745 songs - 3 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Heart In 2 \- Cecile Believe Remix](https://open.spotify.com/track/3I46IHsweisG1XNrkBrGf6) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Heart In 2 \(Cecile Believe Remix\)](https://open.spotify.com/album/2g9eNAe6t7lmgoFayLg8ni) | 3:34 | 2021-12-17 | 2022-01-13 |
 | [heart in 2 \- D’Eon Remix](https://open.spotify.com/track/3qrDQYeVsdNwUM3eoqdNwH) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [D'eon](https://open.spotify.com/artist/0o676KGzaWTfyZWyhcjaXE) | [Heartbeats/Heartbreaks Remixes](https://open.spotify.com/album/56SSgjwx2wWcuZn8SnWB9R) | 4:55 | 2022-01-07 | 2022-02-12 |
 | [heart of stone](https://open.spotify.com/track/3IXw8IhSU8OV4UijwmaqpY) | [Bleachh](https://open.spotify.com/artist/08JIRTIjSUPGQduJFVDXU2) | [heart of stone](https://open.spotify.com/album/6wmkYQiDCWyFj9enl5zj5g) | 3:45 | 2021-05-29 | 2021-07-17 |
+| [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-15 |  |
 | [heart2](https://open.spotify.com/track/7wmK0PzL3OKD95k7EeEfof) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [heart2](https://open.spotify.com/album/1sooeixhvZQifV1d0cvlel) | 3:23 | 2022-01-21 | 2022-04-29 |
 | [Heather](https://open.spotify.com/track/1ayuxp9WUqMP2V8CSFxfsr) | [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Heather](https://open.spotify.com/album/4M6KZiz3FlA7Egh3ukipxf) | 3:09 | 2021-05-24 | 2022-01-13 |
 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 | 2021-10-06 | 2022-02-24 |
@@ -1148,7 +1149,7 @@
 | [papercuts](https://open.spotify.com/track/0lg5TreDpALNZe8o09eufg) | [Mochila](https://open.spotify.com/artist/353QOV1e01ESfqcytsQiwe) | [papercuts](https://open.spotify.com/album/0dFHz3vnVhoYdqwhNDIZ9L) | 2:06 | 2021-01-23 | 2021-02-26 |
 | [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [paralyzed](https://open.spotify.com/album/6LAJ80K0n0WnFNdynaG3SD) | 2:44 | 2022-08-05 | 2022-08-27 |
 | [Paranoid](https://open.spotify.com/track/5CsZsGlmbvSBJqilcODxVs) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [Paranoid](https://open.spotify.com/album/1a8Y2Fass8O0nFSjKu0ou6) | 2:10 | 2020-10-13\* | 2021-02-10 |
-| [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [mint](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd) | [paranoid](https://open.spotify.com/album/6ifk66PjfkFLOV76nDFU6O) | 2:37 | 2023-02-24 |  |
+| [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [mint](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd) | [paranoid](https://open.spotify.com/album/6ifk66PjfkFLOV76nDFU6O) | 2:37 | 2023-02-24 | 2023-06-16 |
 | [paranoid!](https://open.spotify.com/track/7nG7bMpUu8fXvgAiGKnNfJ) | [lando!](https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [paranoid!](https://open.spotify.com/album/6lTukKU6omiHtn262ytsSs) | 2:12 | 2020-10-13\* | 2021-01-08 |
 | [PARASITE](https://open.spotify.com/track/0L7r2eb0UL8lqYZ93Qo3CT) | [Elroy](https://open.spotify.com/artist/1OP39gZ2SXVnwg4NrARmsu) | [PARASITE](https://open.spotify.com/album/5vqtjh3oJvJrZITHI5Of0y) | 2:14 | 2020-12-05 | 2021-01-08 |
 | [parasomnia \(weakness II\)](https://open.spotify.com/track/00gitwiSw5K0NYXLOkFprS) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Sulfur EP](https://open.spotify.com/album/3IdhqLHoxEWl76ZcE7FbT5) | 3:14 | 2022-03-25 | 2022-04-29 |

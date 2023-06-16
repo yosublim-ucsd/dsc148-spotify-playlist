@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-123 songs - 5 hr 40 min
+124 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 | 2023-03-16 |  |
 | [Pipe Dreams](https://open.spotify.com/track/7lDRp69bYn9anwC7HLcxr9) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Pipe Dreams](https://open.spotify.com/album/5T3A3lQKU5pmdn4qC90ASh) | 3:27 | 2023-04-20 |  |
 | [Pivot](https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Every Story / Pivot](https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi) | 3:18 | 2023-01-12 |  |
+| [places i have yet to see](https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze) | [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [places i have yet to see](https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE) | 2:16 | 2023-06-15 |  |
 | [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-19 |  |
 | [Reflection](https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [yujeongcokr](https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf) | [Reflection](https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7) | 2:56 | 2023-01-12 |  |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2023-01-12 |  |
@@ -103,7 +104,7 @@
 | [Rush Hour](https://open.spotify.com/track/5O6z2ai9ZENm9XywrUjZZU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Rush Hour](https://open.spotify.com/album/4Ly3M4zMNlO5dpUeHpg1Pq) | 2:39 | 2023-01-12 |  |
 | [Santorini](https://open.spotify.com/track/7j7MEvQoI9MPt7llQxh9e5) | [Beatific](https://open.spotify.com/artist/3yb8TZjDnL3VzpwqZus72C) | [Santorini](https://open.spotify.com/album/4lRjVxnEO699voyXOoOg24) | 1:25 | 2023-01-12 |  |
 | [Scho Guet](https://open.spotify.com/track/6ottSGnUxB1xuyLR9Pd4Vd) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Scho Guet](https://open.spotify.com/album/0RW29wYWBcPejIxG1ANPKM) | 3:53 | 2023-01-13 | 2023-03-10 |
-| [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 | 2023-01-12 |  |
+| [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 | 2023-01-12 | 2023-06-16 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-01-12 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-06-01 |  |
 | [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 | 2023-04-22 |

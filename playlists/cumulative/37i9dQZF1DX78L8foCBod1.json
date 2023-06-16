@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6CHzOvncncZpIt3htstibX"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Mika Kobayashi",
+          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/76ucx0i5WBu3fTPIrG1jh3"
+    },
+    {
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 195466,
       "name": "EGO",
       "url": "https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv"
@@ -2307,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "MOBILE SUIT GUNDAM NT (Narrative) Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0qbCFg0xqkC0TUadjNaTfu"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224884,
+      "name": "Vigilante",
+      "url": "https://open.spotify.com/track/56gXhLZNBqY3tlHjrYMFRG"
+    },
+    {
+      "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP"
       },
@@ -2318,7 +2358,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 225813,
       "name": "Vigilante",
       "url": "https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB"

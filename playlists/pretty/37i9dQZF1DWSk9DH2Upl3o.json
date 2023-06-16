@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 19754,
+  "num_followers": 19809,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWEyMGI5OGRhODI5ZTBhY2I1YTExNTI4Y2ZmYmM4OTRiYzFmMzYy",
+  "snapshot_id": "MCxjMzM3ZGU0MDgyNjMyZWRjMTQwMDZkZjY2MTFjMWI3NTY4ZDI2MmVm",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -380,9 +380,13 @@
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "The $1000 Question",
-        "url": "https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY"
+        "url": "https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1"
       },
       "artists": [
+        {
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
+        },
         {
           "name": "Ari Joshua",
           "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
@@ -394,19 +398,11 @@
         {
           "name": "Russ Lawton",
           "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
-        },
-        {
-          "name": "RAAR Trio",
-          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
-        },
-        {
-          "name": "Soule Monde",
-          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
         }
       ],
       "duration_ms": 414475,
       "name": "The $1000 Question",
-      "url": "https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k"
+      "url": "https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL"
     },
     {
       "added_at": "2022-09-09 04:00:00",

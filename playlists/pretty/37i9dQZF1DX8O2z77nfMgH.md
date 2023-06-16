@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,948 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,984 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 24 | [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 |
 | 25 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 |
 | 26 | [Km 0](https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Km 0](https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf) | 2:46 |
-| 27 | [Roncan](https://open.spotify.com/track/4whycC4uXJxmdraZDDCxGD) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Lui on the Beat](https://open.spotify.com/artist/4vTf9qg5h5mO9DAoOma9Nl), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC) | [Roncan](https://open.spotify.com/album/0z1U39KMAPDYxZfsqtiLuy) | 3:24 |
+| 27 | [Roncan](https://open.spotify.com/track/4whycC4uXJxmdraZDDCxGD) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Lui on the Beat](https://open.spotify.com/artist/4vTf9qg5h5mO9DAoOma9Nl), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC) | [Roncan](https://open.spotify.com/album/0z1U39KMAPDYxZfsqtiLuy) | 3:24 |
 | 28 | [Mi Mala](https://open.spotify.com/track/3pUnOa5Vqd7W8vFel93QVt) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Mi Mala](https://open.spotify.com/album/4S1XnkbSUkgzGZszgkSGYS) | 2:29 |
 | 29 | [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L) | 3:07 |
 | 30 | [Bajo Presión](https://open.spotify.com/track/6ySk8C9ebTPQcABtSNJ1QM) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy) | [Bajo Presión](https://open.spotify.com/album/0zmacoicRVHv8ZG23CMmak) | 3:28 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
 | 36 | [TODAVÍA](https://open.spotify.com/track/5LgNvic5PJYqECG6or0tBZ) | [Los Audio Kimikos](https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl), [Carlos uzi](https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3) | [TODAVÍA](https://open.spotify.com/album/7c9WHDjHOwphOmJUp7C7WG) | 2:52 |
 | 37 | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/track/6rmOA5QbXGCXGoR9dYwR4p) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/album/7vlyywsguQ8jChINFZRf7d) | 3:18 |
-| 38 | [UNA GATITA](https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [UNA GATITA](https://open.spotify.com/album/5NvXFJGob15teasQMemNSs) | 2:26 |
+| 38 | [UNA GATITA](https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [UNA GATITA](https://open.spotify.com/album/5NvXFJGob15teasQMemNSs) | 2:07 |
 | 39 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 |
 | 40 | [Sin Decir Adiós](https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Sin Decir Adiós](https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS) | 2:46 |
 | 41 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 57 | [Wanna\-B \(feat\. Julianno Sosa\)](https://open.spotify.com/track/7kNGGapZ80IaUSX7lgyfbU) | [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Siempre en el Aire](https://open.spotify.com/album/0fW1wfTLAoUksxQYP6fq6a) | 2:40 |
 | 58 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 |
 
-Snapshot ID: `MCxmODVjOTQ1MzI2MGExOGVkYTczZDkzNWYzMDdhYzgyZmQwYTdjYTM4`
+Snapshot ID: `MCw2NGRiMGUyZmFiODFlOWY0NjVhMzk1YmUxNGU3ZDk4OTcwYjQ3NmI4`

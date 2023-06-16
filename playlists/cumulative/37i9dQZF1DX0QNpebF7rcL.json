@@ -4791,6 +4791,28 @@
     },
     {
       "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/1CW7MiOxF2OB1fm4hCjQSq"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235908,
+      "name": "Two Of A Kind",
+      "url": "https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI"
+    },
+    {
+      "album": {
         "name": "Two Of A Kind",
         "url": "https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE"
       },
@@ -4806,7 +4828,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 235908,
       "name": "Two Of A Kind",
       "url": "https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX"

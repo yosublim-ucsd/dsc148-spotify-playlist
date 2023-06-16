@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,845 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,308 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7) | 2:29 |
-| 2 | [Provolone & Heroin \(feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
+| 2 | [Provolone & Heroin \(Feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
 | 3 | [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 |
 | 4 | [STORM](https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [STORM](https://open.spotify.com/album/6xn0UHdx3teWPJcblsCeLl) | 2:58 |
 | 5 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 9 | [wake up, choose violence](https://open.spotify.com/track/34Ggy1FcOxgFOCtjNaSZK3) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [wake up, choose violence](https://open.spotify.com/album/36J22fA0xZ474oPylmI92M) | 2:54 |
 | 10 | [JUNK BUNK FREESTYLE](https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [JUNK BUNK FREESTYLE](https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C) | 1:42 |
 | 11 | [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 |
-| 12 | [Bloody 98 \(feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 |
+| 12 | [Bloody 98 \(Feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 |
 | 13 | [DEAD SPACE](https://open.spotify.com/track/5PTrghejwHIxIQOjEZpjQg) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [DEAD SPACE](https://open.spotify.com/album/2zlWB2iozGBUV8LWEa8RMP) | 2:17 |
 | 14 | [How It Ends](https://open.spotify.com/track/3poxqSMtdBNPqSAJauVvTk) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [How It Ends](https://open.spotify.com/album/5A8JOYgRDNtIjZZ0iKLHoI) | 2:00 |
 | 15 | [GILGAMESH](https://open.spotify.com/track/1COJYeChm37jTZWFAGfdcB) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F), [BLACK ARISTO](https://open.spotify.com/artist/2oQnLAPqu0DBf2BHGTOXvY) | [GILGAMESH](https://open.spotify.com/album/4HHG7br8173ZfJkhYfLWv5) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 |
 | 100 | [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 |
 
-Snapshot ID: `MCwwZmM1NTU2ZGE3NGJiN2JmYzZmMjBiMGZjMzZjNGVjOTJiNDNkNmEx`
+Snapshot ID: `MCw2NzM0MzdlZGI1MWJmMjA0NDc4ZDRkNTI3OTg3NzMxODhlZDdiODNj`

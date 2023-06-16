@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 1 hr 50 min
+53 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | [Funky Glitter Christmas](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 3:10 | 2023-03-24 |  |
 | [Funky Glitter Christmas](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | 3:10 | 2022-11-24 | 2023-06-07 |
 | [Hello, world!](https://open.spotify.com/track/3weS5CMqh3tVyxegxUgggu) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:26 | 2022-11-24 |  |
-| [Hey Gabby!](https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
-| [Hey Gabby! \- Instrumental](https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
+| [Hey Gabby!](https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 | 2023-06-16 |
+| [Hey Gabby! \- Instrumental](https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 | 2023-06-16 |
 | [HOME](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:40 | 2023-03-24 |  |
 | [HOME](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:40 | 2023-03-24 | 2023-06-07 |
 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/68JBXNz7K5v1mClE9W5Q9c) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:19 | 2022-11-24 |  |
@@ -47,8 +47,8 @@
 | [O.O \(Inst.\)](https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-11-24 | 2023-06-07 |
 | [PAXXWORD](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:12 | 2023-03-24 | 2023-06-07 |
 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 | 2023-03-24 |  |
-| [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
-| [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
+| [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 | 2023-06-16 |
+| [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 | 2023-06-16 |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-11-24 | 2023-06-07 |
 | [TANK](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:48 | 2023-03-24 |  |
 | [TANK \(Inst.\)](https://open.spotify.com/track/3k0K0Nh6hPt6Q3buUA4UZS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:48 | 2023-03-24 |  |
@@ -57,5 +57,9 @@
 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 | 2023-02-16 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-03-24 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
+| [스프링클 파티 \(Sung by NMIXX\)](https://open.spotify.com/track/1nfT7zOpzdfaeuBoIlTEoP) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 | 2023-03-24 |  |
+| [스프링클 파티 \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/3HNfbGnpjbg8s5xpEV4lcL) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 | 2023-03-24 |  |
+| [안녕 개비! \(Sung by NMIXX\)](https://open.spotify.com/track/3f5tHSAMSVFnLO6M3lUZPO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 | 2023-03-24 |  |
+| [안녕 개비! \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/52WHFmRlU4Hrch59XIOTxw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 | 2023-03-24 |  |
 
 \*This playlist was first scraped on 2022-11-25. Prior content cannot be recovered.

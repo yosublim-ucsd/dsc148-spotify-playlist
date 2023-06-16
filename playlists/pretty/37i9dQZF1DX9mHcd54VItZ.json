@@ -1,28 +1,48 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=Z0xj63C2R_i51OZ3pDUs0w\">Vrede</a> ",
-  "num_followers": 13276,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=qw4PtwtoRTGagi79MyGbUQ\">Brynn</a> ",
+  "num_followers": 13286,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDE4YjZhY2Q2YTNkNjVkZWEzN2YzZjY5ZGVmODVmNWM2MjY4ZGU2",
+  "snapshot_id": "MCw5YWFjNDc4ZGM4OTNjYjJjZDM0NzVjMjgyZmQ4MzVjMGJkOTljMzgy",
   "tracks": [
     {
-      "added_at": "2023-06-08 21:59:00",
+      "added_at": "2023-06-15 21:59:00",
       "album": {
-        "name": "Klein W\u00eareld",
-        "url": "https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s"
+        "name": "Feeding the Feeling",
+        "url": "https://open.spotify.com/album/77vj6OL1XTcr7Av5BE8rZF"
       },
       "artists": [
         {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+          "name": "Brynn",
+          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
         }
       ],
-      "duration_ms": 189759,
-      "name": "Klein W\u00eareld",
-      "url": "https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8"
+      "duration_ms": 257407,
+      "name": "Feeding the Feeling",
+      "url": "https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -109,26 +129,6 @@
       "url": "https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hoer In Beton",
-        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        },
-        {
-          "name": "Koos Kombuis",
-          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
-        }
-      ],
-      "duration_ms": 280248,
-      "name": "Hoer In Beton",
-      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
-    },
-    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Reincarnation",
@@ -143,6 +143,22 @@
       "duration_ms": 170896,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
+    },
+    {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Just One Hit",
+        "url": "https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs"
+      },
+      "artists": [
+        {
+          "name": "Painted Flowers",
+          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
+        }
+      ],
+      "duration_ms": 244830,
+      "name": "Just One Hit",
+      "url": "https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R"
     },
     {
       "added_at": "2023-05-11 21:59:00",
@@ -295,6 +311,22 @@
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Klein W\u00eareld",
+        "url": "https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "duration_ms": 189759,
+      "name": "Klein W\u00eareld",
+      "url": "https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8"
     },
     {
       "added_at": "2023-04-14 03:54:26",
@@ -477,22 +509,6 @@
       "url": "https://open.spotify.com/track/1LQlATnTQZvPyXwzjPb83e"
     },
     {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "Shipwrecked",
-        "url": "https://open.spotify.com/album/17jBmwRersKiMB1Ht8FG0S"
-      },
-      "artists": [
-        {
-          "name": "Jack Atlantic",
-          "url": "https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB"
-        }
-      ],
-      "duration_ms": 221781,
-      "name": "Shipwrecked",
-      "url": "https://open.spotify.com/track/68N6goF2s86H3yh3qn4bMb"
-    },
-    {
       "added_at": "2023-04-27 21:59:00",
       "album": {
         "name": "Free to Be Me",
@@ -587,22 +603,6 @@
       "duration_ms": 228540,
       "name": "Black Candy",
       "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/3f6FXe5rpR9JISvkT7C7bl"
-      },
-      "artists": [
-        {
-          "name": "Marcel Dalmayda",
-          "url": "https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
     },
     {
       "added_at": "2023-02-16 21:59:00",

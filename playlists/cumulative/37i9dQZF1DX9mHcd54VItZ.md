@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=Z0xj63C2R\_i51OZ3pDUs0w">Vrede</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=qw4PtwtoRTGagi79MyGbUQ">Brynn</a>
 
-277 songs - 16 hr 33 min
+279 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [FALLING DOWN](https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [FALLING DOWN](https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS) | 4:15 | 2023-02-02 | 2023-04-15 |
 | [Fatal Attraction](https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Fatal Attraction](https://open.spotify.com/album/2TJlitKnHY894L95PfqLie) | 3:21 | 2023-03-23 | 2023-04-21 |
 | [Feast Or Famine](https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Feast Or Famine](https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq) | 4:33 | 2021-07-15 | 2022-07-29 |
+| [Feeding the Feeling](https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Feeding the Feeling](https://open.spotify.com/album/77vj6OL1XTcr7Av5BE8rZF) | 4:17 | 2023-06-15 |  |
 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 | 2023-03-31 |
 | [Fight Song for a Funeral](https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2) | [Jake Bennett](https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y) | [Fight Songs for a Funeral](https://open.spotify.com/album/7z250E9LHwElD5B7DmbZNN) | 2:41 | 2021-11-25 | 2022-05-27 |
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 | 2022-11-18 |
@@ -124,7 +125,7 @@
 | [I Feel Fine](https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [I Feel Fine](https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv) | 3:08 | 2022-02-25 | 2022-08-05 |
 | [I Hate Your Shirt](https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Three of Swords](https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2) | 3:30 | 2023-03-23 | 2023-04-21 |
 | [I Never Listen When You Speak](https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [I Never Listen When You Speak](https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN) | 2:35 | 2022-03-17 | 2022-07-22 |
-| [Iemand Anders](https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Iemand Anders](https://open.spotify.com/album/3f6FXe5rpR9JISvkT7C7bl) | 4:04 | 2023-05-25 |  |
+| [Iemand Anders](https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Iemand Anders](https://open.spotify.com/album/3f6FXe5rpR9JISvkT7C7bl) | 4:04 | 2023-05-25 | 2023-06-16 |
 | [In Die Son](https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Braambos Radio](https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal) | 3:45 | 2023-01-26 | 2023-03-25 |
 | [In My Mind](https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [In My mind](https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL) | 3:03 | 2023-03-02 | 2023-04-21 |
 | [In Search of Better Days](https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 4:44 | 2021-09-23 | 2022-04-01 |
@@ -133,6 +134,7 @@
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
+| [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 |  |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 |  |
@@ -214,7 +216,7 @@
 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 | 2021-05-05 | 2022-11-18 |
 | [She's Heavenly](https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [She's Heavenly](https://open.spotify.com/album/3BvK4KOrQSqfbI99e8oQXl) | 3:30 | 2023-06-01 |  |
 | [She's My Prison](https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy) | [L.A\. Cobra](https://open.spotify.com/artist/0zNNwyg2hDNqsmvxCyvHDs) | [She's My Prison](https://open.spotify.com/album/1nRv2ODqAVDimTiTHWGUvf) | 3:33 | 2022-03-31 | 2022-08-05 |
-| [Shipwrecked](https://open.spotify.com/track/68N6goF2s86H3yh3qn4bMb) | [Jack Atlantic](https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB) | [Shipwrecked](https://open.spotify.com/album/17jBmwRersKiMB1Ht8FG0S) | 3:41 | 2023-06-08 |  |
+| [Shipwrecked](https://open.spotify.com/track/68N6goF2s86H3yh3qn4bMb) | [Jack Atlantic](https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB) | [Shipwrecked](https://open.spotify.com/album/17jBmwRersKiMB1Ht8FG0S) | 3:41 | 2023-06-08 | 2023-06-16 |
 | [Shopping Bags](https://open.spotify.com/track/1LQlATnTQZvPyXwzjPb83e) | [Cigarette Culture](https://open.spotify.com/artist/2W6msRTgNTHGGglwsVshpP) | [Shopping Bags](https://open.spotify.com/album/6CcIwE15pusdQp1W8AlhQn) | 2:35 | 2023-05-25 |  |
 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 | 2021-11-11 | 2022-11-18 |
 | [Silver Foyer](https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder Just Don't Spit In My Mouth](https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7) | 3:53 | 2022-08-25 | 2023-02-17 |

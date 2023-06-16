@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Annani Isshodattanoni",
+        "url": "https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288266,
+      "name": "Annani Isshodattanoni",
+      "url": "https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30d7\u30ea\u30f3\u30b7\u30d1\u30eb\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cSound of Foggy London\u300d",
         "url": "https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd"
       },
@@ -171,6 +189,24 @@
     },
     {
       "album": {
+        "name": "\u300eelemental\u300f",
+        "url": "https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247552,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl"
       },
@@ -182,7 +218,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 247826,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6"
@@ -817,6 +853,24 @@
     },
     {
       "album": {
+        "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293560,
+      "name": "Shizukana Yoru ni",
+      "url": "https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT"
+    },
+    {
+      "album": {
         "name": "\u300e.hack//Roots\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cSilly-Go-Round\u300d",
         "url": "https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl"
       },
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 288266,
       "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u3060\u3063\u305f\u306e\u306b",
       "url": "https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV"
@@ -1476,10 +1530,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 303333,
       "name": "\u6681\u306e\u8eca",
       "url": "https://open.spotify.com/track/3IEObXuomguph3jjxrccWB"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303766,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH"
     },
     {
       "album": {
@@ -1894,7 +1966,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 293666,
       "name": "\u9759\u304b\u306a\u591c\u306b",
       "url": "https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC"

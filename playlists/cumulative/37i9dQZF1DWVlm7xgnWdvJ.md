@@ -4,10 +4,11 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-109 songs - 10 hr 26 min
+110 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 |  |
 | [Acuerdate \- Original Mix](https://open.spotify.com/track/3zRjdbOQvH2f40hk81ppns) | [Juanito](https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko) | [Acuerdate](https://open.spotify.com/album/088zTj7jac6UDKDz37hinS) | 6:57 | 2022-12-20 |  |
 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 | 2022-12-20 |  |
 | [All In A Dream \- Extended Mix](https://open.spotify.com/track/1IkPg6cCScDHqSbbq61IXA) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 6:08 | 2022-12-20 |  |
@@ -73,7 +74,7 @@
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-12-20 |  |
 | [Need](https://open.spotify.com/track/5NwfT0n9gsv08ttQbRgyEs) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Ember EP](https://open.spotify.com/album/51pq1K9jNO2oymTOp5wHEI) | 5:44 | 2023-06-08 |  |
 | [Never Going Home \- Domenico Torti Remix](https://open.spotify.com/track/1tyYyBx8vCmejG0mOARIKL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Domenico Torti](https://open.spotify.com/artist/1FeMiF3aRrgJz69y01jiwt) | [Never Going Home \(Domenico Torti Remix\)](https://open.spotify.com/album/2ukNeGLr9CC4WNFNPaUGuQ) | 4:13 | 2022-12-20 |  |
-| [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 | 2023-05-16 |  |
+| [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 | 2023-05-16 | 2023-06-16 |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-12-20 |  |
 | [Oh Chuva](https://open.spotify.com/track/5P0NU0tX9NJ182ZRm8kxRz) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Oh Chuva](https://open.spotify.com/album/47pRLcTctT7DKGRpyef1lw) | 4:54 | 2023-02-10 |  |
 | [On the Rock \- Synapson Remix](https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR) | [On the Rock \(Synapson Remix\)](https://open.spotify.com/album/2JN96d7IymS6xiEVCckWj7) | 5:12 | 2022-12-20 |  |

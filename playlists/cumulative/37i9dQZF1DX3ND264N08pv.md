@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-162 songs - 9 hr 19 min
+163 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,12 +123,13 @@
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 |  |
 | [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 | 2023-02-13 |
-| [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2023-06-08 |  |
+| [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2023-06-08 | 2023-06-16 |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-09 |  |
 | [Projet 19](https://open.spotify.com/track/6sCuHk1wZhvj4UCNOu3ndg) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [LE BASK](https://open.spotify.com/artist/23ZF6wwvduGxWSH2j97Ish) | [Projet 19](https://open.spotify.com/album/4e57RPKr7Rl7LptAlWNj6A) | 4:16 | 2022-12-08 | 2022-12-16 |
 | [Psychopath](https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Psychopath](https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e) | 3:37 | 2023-04-20 |  |
 | [Pussy Lovers \- Gunz Pumping Remix](https://open.spotify.com/track/22ykr4tkk4WINmBZ2r9Zmv) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Pussy Lovers](https://open.spotify.com/album/731nrWHUxC4dfkM6F7PYs6) | 5:12 | 2022-12-08 | 2023-03-07 |
 | [Rave Machine](https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Rave Machine](https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu) | 3:48 | 2022-12-08 | 2023-04-14 |
+| [Raver](https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Raver](https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W) | 2:12 | 2023-06-15 |  |
 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 | 2023-04-27 |  |
 | [Ready to Explode](https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Ready to Explode](https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN) | 2:47 | 2022-12-08 | 2023-04-07 |
 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 |  |

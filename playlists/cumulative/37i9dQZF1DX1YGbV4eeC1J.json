@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 186775,
       "name": "Hoi",
       "url": "https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv"
@@ -772,6 +772,24 @@
       "duration_ms": 185242,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
+    },
+    {
+      "album": {
+        "name": "Morning Call",
+        "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193596,
+      "name": "Morning Call",
+      "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
     },
     {
       "album": {
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 227360,
       "name": "Peddi",
       "url": "https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq"
@@ -1416,6 +1434,24 @@
       "duration_ms": 196421,
       "name": "Simuachi",
       "url": "https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2"
+    },
+    {
+      "album": {
+        "name": "Yellow and Red Roses",
+        "url": "https://open.spotify.com/album/2z5Nn68CKn1cSgo5IeYPJH"
+      },
+      "artists": [
+        {
+          "name": "B Classic 006",
+          "url": "https://open.spotify.com/artist/1VEHZ2KUoWyhxinp3ToobA"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147461,
+      "name": "Sina Bahati",
+      "url": "https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP"
     },
     {
       "album": {
@@ -1546,10 +1582,36 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 216786,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        },
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205374,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd"
     },
     {
       "album": {

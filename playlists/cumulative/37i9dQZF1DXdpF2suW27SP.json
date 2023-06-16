@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Kappa Jotta e EMMVR entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
@@ -1155,6 +1155,28 @@
     },
     {
       "album": {
+        "name": "Chelas",
+        "url": "https://open.spotify.com/album/5U0QwA3CYxQjW9kKIvKRYk"
+      },
+      "artists": [
+        {
+          "name": "MC Borga",
+          "url": "https://open.spotify.com/artist/2ABm6CuGNzngIIeMncerir"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268260,
+      "name": "Chelas",
+      "url": "https://open.spotify.com/track/5x9bucCUnlTZnjpWwCRlSx"
+    },
+    {
+      "album": {
         "name": "Cheques (feat. Julinho KSD, Kibow, Trista & Yuran)",
         "url": "https://open.spotify.com/album/0zUpP8WYAIlKKWR4IsnNvg"
       },
@@ -1212,6 +1234,28 @@
       "duration_ms": 90139,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/64MvJVRP1oUhLj8xWVdpsi"
+    },
+    {
+      "album": {
+        "name": "CHRISTIAN DIOR",
+        "url": "https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "CHRISTIAN DIOR",
+      "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
     },
     {
       "album": {
@@ -1794,7 +1838,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 192130,
       "name": "Entre N\u00f3s",
       "url": "https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM"
@@ -1896,7 +1940,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 217715,
       "name": "ES7\u00c1DIO",
       "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
@@ -1998,7 +2042,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 202000,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW"
@@ -2539,6 +2583,28 @@
     },
     {
       "album": {
+        "name": "HOLLA",
+        "url": "https://open.spotify.com/album/0DnjcWh4Vlo6TWwOZczEdT"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136833,
+      "name": "HOLLA",
+      "url": "https://open.spotify.com/track/7gwqLu2RCqHdXEVtGYAwbA"
+    },
+    {
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -2598,7 +2664,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 200851,
       "name": "Impressionanti",
       "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
@@ -3507,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Na Via",
+        "url": "https://open.spotify.com/album/2FQYylMifl2REsIOvTgLCk"
+      },
+      "artists": [
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Na Via",
+      "url": "https://open.spotify.com/track/07iQNnm9tP1fmy9Pa2Dw5d"
+    },
+    {
+      "album": {
         "name": "NADA ME FALTA",
         "url": "https://open.spotify.com/album/6KqShDEwsaP31poMKDPemG"
       },
@@ -3700,6 +3784,28 @@
       "duration_ms": 216666,
       "name": "Nu Bem Di Nada",
       "url": "https://open.spotify.com/track/5JsTrli2m95rnBIro7ZVvY"
+    },
+    {
+      "album": {
+        "name": "Nu Sta",
+        "url": "https://open.spotify.com/album/2Z43E5ys44xB53CmF605zA"
+      },
+      "artists": [
+        {
+          "name": "Rafa G",
+          "url": "https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi"
+        },
+        {
+          "name": "Sureno Beatzz",
+          "url": "https://open.spotify.com/artist/0QATVY5ZWpWIkDANDDXcnq"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289523,
+      "name": "Nu Sta",
+      "url": "https://open.spotify.com/track/41n9aagcBXCwwzIn9OUyH9"
     },
     {
       "album": {
@@ -4686,7 +4792,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-16",
       "duration_ms": 154285,
       "name": "S.R.D.",
       "url": "https://open.spotify.com/track/7pezNQs2rE8xeHjOkP0zUb"
@@ -5532,6 +5638,28 @@
       "duration_ms": 210757,
       "name": "UUUUHH",
       "url": "https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd"
+    },
+    {
+      "album": {
+        "name": "V.E.U.L.",
+        "url": "https://open.spotify.com/album/2uSoUNFGYgR2h8rXQLuiKn"
+      },
+      "artists": [
+        {
+          "name": "WAY 45",
+          "url": "https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv"
+        },
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "V.E.U.L.",
+      "url": "https://open.spotify.com/track/6FRvx7zKd4JsiioIOeftXX"
     },
     {
       "album": {
