@@ -4,13 +4,14 @@
 
 > Ambient waves for ethereal days
 
-167 songs - 11 hr 12 min
+168 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20220317](https://open.spotify.com/track/1abk890JenHyZiwFUM374T) | [Zazenkai](https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh), [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [20220317](https://open.spotify.com/album/170JimhdaR5ThyVbcgxraG) | 3:31 | 2022-10-14 |  |
 | [40,000ft \(IV\)](https://open.spotify.com/track/1bKdskMZB1pnGa9Iwr5jLN) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [40,000ft](https://open.spotify.com/album/4IOCIwtFbUqszEGTPd3zDZ) | 3:46 | 2022-08-05 |  |
 | [528 Hz \- Self Actualization](https://open.spotify.com/track/0VwH6mJjAIIajVUYCnlQe3) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [528 Hz \- Self Actualization](https://open.spotify.com/album/0EVtFFjvvtmeXVnylkWPPA) | 2:24 | 2023-04-06 |  |
+| [A Dream](https://open.spotify.com/track/3x05giEuCt5Pfmd3Be5ILF) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [A Dream](https://open.spotify.com/album/5RdhTADIAfZo6PKEgABIHj) | 2:39 | 2023-06-16 |  |
 | [A Long Line of Violet Hills](https://open.spotify.com/track/4d6CikfRNaivEqMOrqtHuF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:07 | 2023-01-13 |  |
 | [Above the Clouds](https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/5l5Obv9lGFcDTXs1yfikCk) | 3:22 | 2022-08-05 | 2023-04-21 |
 | [Above the Clouds](https://open.spotify.com/track/5xfPRxtmq3BPcgK7W1uXu5) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/0jEpETtq0jYNyjFKr3liEa) | 3:24 | 2023-04-06 |  |
@@ -56,7 +57,7 @@
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-09-08 |  |
 | [Due North](https://open.spotify.com/track/2tUdai2UU5XoQelnTlew61) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Due North](https://open.spotify.com/album/6gu3jUasUB7uoy39BcBDvu) | 4:31 | 2022-08-05 |  |
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-09-08 |  |
-| [Ego Death](https://open.spotify.com/track/7nIaS8QW9aEkv2GUqGKXlo) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Ego Death](https://open.spotify.com/album/1kBNO8Ioax8naEW0f7Y08R) | 6:40 | 2022-08-05 |  |
+| [Ego Death](https://open.spotify.com/track/7nIaS8QW9aEkv2GUqGKXlo) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Ego Death](https://open.spotify.com/album/1kBNO8Ioax8naEW0f7Y08R) | 6:40 | 2022-08-05 | 2023-06-17 |
 | [Emanating Fields](https://open.spotify.com/track/6jHBUzmz6QyCcSvpn93oZi) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Emanating Fields](https://open.spotify.com/album/2CEOLh0vmGbZ9DDQh95Jwv) | 4:48 | 2022-08-05 |  |
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-11-22 |  |
 | [Eos](https://open.spotify.com/track/6tR1g0NTadhTPjsGmVI3LW) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Heavenly](https://open.spotify.com/album/4ZN6SMfQ6ycPVuibQLLNj8) | 3:32 | 2022-08-05 |  |

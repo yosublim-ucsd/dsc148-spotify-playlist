@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 129198,
       "name": "50 Veces",
       "url": "https://open.spotify.com/track/3J5KGaovaa1gnDf1b0SvXA"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 120000,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/55szgjXHHiKAdcIDEOgwQK"
@@ -3900,6 +3900,40 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "album": {
+        "name": "Le Dai Tu Corte",
+        "url": "https://open.spotify.com/album/5JcCCuQd7bhMFgDtILVmWn"
+      },
+      "artists": [
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Vivete La Music",
+          "url": "https://open.spotify.com/artist/5vMKVyztww8zTjXIJZhxl9"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264489,
+      "name": "Le Dai Tu Corte",
+      "url": "https://open.spotify.com/track/3OS5sFsU29xOF4blWlONZA"
     },
     {
       "album": {
@@ -5210,6 +5244,32 @@
       "duration_ms": 310666,
       "name": "MONEYMAN (feat. Galee Galee & ITHAN NY)",
       "url": "https://open.spotify.com/track/40xJTwBKb5x3wjlLOeycaL"
+    },
+    {
+      "album": {
+        "name": "Montala",
+        "url": "https://open.spotify.com/album/1IjoHPOXxHiWGoJzYgPjty"
+      },
+      "artists": [
+        {
+          "name": "Borito",
+          "url": "https://open.spotify.com/artist/26zoMqgTABYJ2LQkLKd9SO"
+        },
+        {
+          "name": "Alex D",
+          "url": "https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM"
+        },
+        {
+          "name": "Noiss",
+          "url": "https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "Montala",
+      "url": "https://open.spotify.com/track/2Kdntt9sYxaWrmeTvr1peT"
     },
     {
       "album": {
@@ -6770,7 +6830,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 188181,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/1gJNJ5fkj3Do1ehnxLZccJ"
@@ -7434,6 +7494,32 @@
       "duration_ms": 220631,
       "name": "Sali\u00f3 De Noche",
       "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
+    },
+    {
+      "album": {
+        "name": "Sateo",
+        "url": "https://open.spotify.com/album/6hhd8TU09TEugzsyZjiJIm"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190027,
+      "name": "Sateo",
+      "url": "https://open.spotify.com/track/7B5SJgtKAepcGKPC5SaT75"
     },
     {
       "album": {

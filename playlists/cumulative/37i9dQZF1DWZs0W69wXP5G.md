@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover: Idina Menzel
 
-111 songs - 6 hr 41 min
+112 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Night And Day](https://open.spotify.com/track/0ZzE3KupbceBjr17DMhWAo) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:42 | 2022-08-12 |  |
 | [No One Is Alone \- From "Good Trouble"](https://open.spotify.com/track/5kxNp4IRdENMSh9HfzgZZl) | [Emma Hunton](https://open.spotify.com/artist/2AaAHKo5kfPhzIrSFFZhVs) | [No One Is Alone \(From "Good Trouble"\)](https://open.spotify.com/album/15FrGIi7i0fefNUiUHAPeW) | 2:31 | 2022-08-19 |  |
 | [Nose to Nose](https://open.spotify.com/track/7vczAHzfnUqcsRcUbHKZKW) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Nose to Nose](https://open.spotify.com/album/3dSzXQev0iDG85clMukCok) | 3:31 | 2022-08-12 |  |
+| [On Broadway](https://open.spotify.com/track/53QSC4UgrGXfsVpOqSNxVJ) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [On Broadway](https://open.spotify.com/album/37hhysXU6YTCaWNwqeoVbI) | 4:09 | 2023-06-16 |  |
 | [On With the Show](https://open.spotify.com/track/17hoHWF02vMasn0iWhOKSY) | [Holden William Hagelberger](https://open.spotify.com/artist/67arQSaCyn3CGBLbrWsD8P), [Jarrod Zimmerman](https://open.spotify.com/artist/73wqz4cMfQgfanvz9aCOeO), [Sally Wilfert](https://open.spotify.com/artist/4BAg51jG2nRh14hWH8dH3K), [Yasmeen Sulieman](https://open.spotify.com/artist/7bT3gA8kbu36H45y3AHJMr), [Alyssa Emily Marvin](https://open.spotify.com/artist/2VcImZ2KaD41bNgL74hXKp), [Trevor Original Cast Recording Company](https://open.spotify.com/artist/6uiFqrOVKTJGMj2SYhAMKo) | [Trevor \(Original Cast Recording\)](https://open.spotify.com/album/697pMqj7scaSg0VbWoJPh3) | 4:57 | 2022-08-12 |  |
 | [One Thing](https://open.spotify.com/track/6mfOySZI3Bw3g3pKw2itvo) | [36 Questions](https://open.spotify.com/artist/1lZ55BBi0fylEBR9qOFk2x), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Jessie Shelton](https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs) | [36 Questions: The Deluxe Album](https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7) | 4:38 | 2022-08-12 |  |
 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 | 2022-08-12 |  |

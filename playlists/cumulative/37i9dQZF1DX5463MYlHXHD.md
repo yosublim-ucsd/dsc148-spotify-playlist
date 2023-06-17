@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: DobleP, Repiola & R Jota.
 
-125 songs - 6 hr 52 min
+126 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 |  |
 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 |  |
 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2023-05-26 |  |
-| [La Mano de Dios](https://open.spotify.com/track/0rbBliLgUiiuZBLAOf2gQb) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [La Mano de Dios](https://open.spotify.com/album/2L6G8RA5pqd2XB9Pv8tIhJ) | 2:49 | 2023-05-26 |  |
+| [La Mano de Dios](https://open.spotify.com/track/0rbBliLgUiiuZBLAOf2gQb) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [La Mano de Dios](https://open.spotify.com/album/2L6G8RA5pqd2XB9Pv8tIhJ) | 2:49 | 2023-05-26 | 2023-06-17 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 |  |
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-26 |  |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
@@ -97,6 +97,7 @@
 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 | 2023-05-26 |  |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2023-05-26 |  |
 | [ROCAMORA](https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [ROCAMORA](https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP) | 2:38 | 2023-05-26 |  |
+| [ROMPE](https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [ROMPE](https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh) | 3:13 | 2023-06-16 |  |
 | [Rompe el Party \(Remix\)](https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Rompe el Party \(Remix\)](https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV) | 3:27 | 2023-05-26 |  |
 | [Sabado Picado](https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Markito Navaja](https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0), [Joaco Lopez](https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR) | [Sabado Picado](https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl) | 2:17 | 2023-05-26 |  |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2023-05-26 |  |

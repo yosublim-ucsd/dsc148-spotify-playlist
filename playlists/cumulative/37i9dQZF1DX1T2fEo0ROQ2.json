@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Collectively",
+        "url": "https://open.spotify.com/album/4AYdn5PDrvAi9E4Qe3HIij"
+      },
+      "artists": [
+        {
+          "name": "Haraldur Berglj\u00f3t",
+          "url": "https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "Collectively",
+      "url": "https://open.spotify.com/track/5sUoXvIj0QKfsGRAtU8NAk"
+    },
+    {
+      "album": {
         "name": "Made of Dreams",
         "url": "https://open.spotify.com/album/6kbc4rnEaBoNqRQrbHCPpa"
       },
@@ -4052,6 +4070,24 @@
       "duration_ms": 200350,
       "name": "Moonlight Dreams",
       "url": "https://open.spotify.com/track/6nZs34O75vPNz6dnxegdCR"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208515,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
     },
     {
       "album": {

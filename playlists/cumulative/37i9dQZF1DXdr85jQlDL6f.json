@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Dreary Weather",
+        "url": "https://open.spotify.com/album/26G4udMHPZWF3C6PkqVR5G"
+      },
+      "artists": [
+        {
+          "name": "Drip-Drop",
+          "url": "https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Dreary Weather",
+      "url": "https://open.spotify.com/track/6DAspKyJW32ShusALvQqFu"
+    },
+    {
+      "album": {
         "name": "Even More Stormy Rain",
         "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 98098,
       "name": "Falling From The Stars",
       "url": "https://open.spotify.com/track/0AWBEup6Pg5pWKbWDzAbtL"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 115110,
       "name": "Hometown Thunders",
       "url": "https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR"
@@ -700,7 +718,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118143,
       "name": "lluvia lenta",
       "url": "https://open.spotify.com/track/6zZqFnjMdmiSFt7NVXHU72"
@@ -794,6 +812,24 @@
       "duration_ms": 140500,
       "name": "Mindful in Rain Forest",
       "url": "https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU"
+    },
+    {
+      "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149895,
+      "name": "Morning Rain (Green Noise)",
+      "url": "https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM"
     },
     {
       "album": {
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Rainy Village",
       "url": "https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz"
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Revitalize (Rain)",
       "url": "https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri"
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 97577,
       "name": "Thunderstorm at Night",
       "url": "https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01"

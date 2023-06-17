@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-134 songs - 11 hr 15 min
+135 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,10 +135,11 @@
 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 | 2022-07-06 |  |
 | [Vortex](https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 4:44 | 2022-07-06 |  |
 | [Voyager](https://open.spotify.com/track/2BlMX3ZxunxFxFHoB2Vxbu) | [Symmol](https://open.spotify.com/artist/1JZRQqlxIFcSey4zIzULAy) | [At the Fall of Time](https://open.spotify.com/album/0L44ETRtuHdloa8HfmdsQn) | 3:25 | 2022-07-06 | 2022-07-29 |
+| [Voyager](https://open.spotify.com/track/4SV5bm0soOiWpmpUr0RtQA) | [Symmol](https://open.spotify.com/artist/1JZRQqlxIFcSey4zIzULAy) | [At the Fall of Time](https://open.spotify.com/album/4SgI9NUNBI16zffDWYB77J) | 3:25 | 2022-07-06 |  |
 | [Walkin in Hawkins](https://open.spotify.com/track/2y6mt1xsA4527griyUQf6N) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 2:36 | 2022-07-06 | 2022-07-27 |
 | [We'll Go Down Together\. Silence Against Rage](https://open.spotify.com/track/07wMKdWpzd1fjdaiL8gq75) | [Sundrugs](https://open.spotify.com/artist/1p58IpggGDYuUR0vi2X8Ch) | [The Perfect Cure for Hallucinations](https://open.spotify.com/album/3vvgJTIEqBawfq7lbY6zT5) | 8:18 | 2022-07-06 | 2022-07-29 |
 | [What the Earth Bore](https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Echo](https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT) | 4:44 | 2022-07-06 |  |
-| [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 | 2022-07-06 |  |
+| [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 | 2022-07-06 | 2023-06-17 |
 | [Woven Planet](https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV) | [Craig Padilla](https://open.spotify.com/artist/5lloFkGFSO4m4XAgOpTAg1) | [Below the Mountain](https://open.spotify.com/album/0moWiLCjBdOtMSLk9YjAb4) | 4:50 | 2022-07-06 |  |
 | [You Can Talk to Me](https://open.spotify.com/track/1uzjBxuCIkIr1sMeznivWx) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 0:53 | 2022-07-06 | 2022-07-09 |
 | [you must wake](https://open.spotify.com/track/7JTrxeaS7ejzDsQdUeP1w0) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age](https://open.spotify.com/album/43Y7JtQBJlB8wwMypodS6S) | 1:35 | 2022-07-06 | 2022-09-17 |

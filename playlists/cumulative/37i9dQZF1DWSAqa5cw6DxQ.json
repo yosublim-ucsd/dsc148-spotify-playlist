@@ -1233,6 +1233,42 @@
     },
     {
       "album": {
+        "name": "Ledande ljus",
+        "url": "https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ledande Ljus",
+      "url": "https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn"
+    },
+    {
+      "album": {
+        "name": "Ledande ljus",
+        "url": "https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ledande Ljus (Nature)",
+      "url": "https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par"
+    },
+    {
+      "album": {
         "name": "Light Within",
         "url": "https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad"
       },

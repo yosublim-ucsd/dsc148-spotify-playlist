@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Soul Connection",
+        "url": "https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 319280,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/2JrwkF8KdIaKclovniPunt"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216129,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
@@ -5735,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "Sunrise Boulevard",
+        "url": "https://open.spotify.com/album/2hm4iYJitW9v3WmO34rIN8"
+      },
+      "artists": [
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256264,
+      "name": "Sunrise Boulevard",
+      "url": "https://open.spotify.com/track/2DU4A4bsnRYrf5xcKn1Hbo"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7eBOe923W3WbI9RuSTFavS"
       },
@@ -6412,6 +6448,24 @@
       "duration_ms": 230386,
       "name": "Wait! - Smooth Jazz Mix",
       "url": "https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv"
+    },
+    {
+      "album": {
+        "name": "Stick It Out",
+        "url": "https://open.spotify.com/album/5Cd0BxylSBhnRDhFCNxSPz"
+      },
+      "artists": [
+        {
+          "name": "James 'PJ' Spraggins",
+          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr"
     },
     {
       "album": {

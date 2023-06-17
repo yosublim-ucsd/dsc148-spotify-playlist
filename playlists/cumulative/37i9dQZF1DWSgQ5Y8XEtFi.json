@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "the color grey.",
+        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138177,
+      "name": "aitd - demo",
+      "url": "https://open.spotify.com/track/5070HIdWFU8bwoh5aSmxHI"
+    },
+    {
+      "album": {
         "name": "ALL ABOUT ME",
         "url": "https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP"
       },
@@ -1055,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "GENERATIONAL CURSE",
+        "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "CURSED",
+      "url": "https://open.spotify.com/track/4XAqaTyqxBrfR1Bj5Lz7gf"
+    },
+    {
+      "album": {
         "name": "Customer Service",
         "url": "https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1"
       },
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 132758,
       "name": "Don't Like",
       "url": "https://open.spotify.com/track/0IuvmeIoLCaTBseJF7L7Lr"
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 146626,
       "name": "Fluent Stutter",
       "url": "https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb"
@@ -1860,6 +1896,24 @@
       "duration_ms": 219733,
       "name": "FUNKFEST",
       "url": "https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ"
+    },
+    {
+      "album": {
+        "name": "FYK",
+        "url": "https://open.spotify.com/album/5uemOo8DaDrXtMDiNZa4mU"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102786,
+      "name": "FYK",
+      "url": "https://open.spotify.com/track/0CnQ7O3i1qJBPBUMdVbpsS"
     },
     {
       "album": {
@@ -2819,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80624,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/03yR4z1jANazJTWMjX3rtw"
+    },
+    {
+      "album": {
         "name": "LIVE FAST DIE SLOW (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ"
       },
@@ -3208,7 +3280,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 125763,
       "name": "Mosh O'Clock",
       "url": "https://open.spotify.com/track/079j1FNTi5QprX2UbjuYZN"
@@ -3394,6 +3466,28 @@
       "duration_ms": 183160,
       "name": "Norf Norf",
       "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+    },
+    {
+      "album": {
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "NOSEDIVE (feat. Jean Dawson)",
+      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
     },
     {
       "album": {
@@ -3712,6 +3806,24 @@
       "duration_ms": 184500,
       "name": "Racked",
       "url": "https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj"
+    },
+    {
+      "album": {
+        "name": "Ran Outta Ones",
+        "url": "https://open.spotify.com/album/6Q5WfB4ZX4q0qUl0gyFFpS"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128923,
+      "name": "Ran Outta Ones",
+      "url": "https://open.spotify.com/track/7dMsGIkUH39T1xfaZBdbro"
     },
     {
       "album": {
@@ -4088,7 +4200,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 132625,
       "name": "Shlut",
       "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
@@ -4560,7 +4672,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212173,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO"
@@ -4800,7 +4912,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 182971,
       "name": "UR FRIENDS",
       "url": "https://open.spotify.com/track/2ssSYoF2QXXDdDstZ67GJ1"

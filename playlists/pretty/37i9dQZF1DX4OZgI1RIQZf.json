@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 31175,
+  "num_followers": 31337,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU2OGQyOTFiNWU3NTA3NDhiN2YzOGFjNTU5YTAwYjU5NGYwMmIz",
+  "snapshot_id": "MCxhNzM2MzgyNTlmODFmODg0ZTc4YTJjZDhhNmY0OTZhZWUzNzliOTk1",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Let's Have A Satanic Orgy",
-        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 244035,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 180186,
       "name": "Dead Man's Bones",
       "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Let's Have A Satanic Orgy",
+        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 244035,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Whip It On",
-        "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Dark and Stormy",
         "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 295840,
       "name": "Dark and Stormy",
       "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Whip It On",
+        "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/7h2uO2Fq2YYYQflfyF7u1M"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/1mcYv86o7RR9lg0wmSr6k4"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Drowaton",
         "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/7h2uO2Fq2YYYQflfyF7u1M"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/1mcYv86o7RR9lg0wmSr6k4"
     },
     {
       "added_at": "2023-02-09 23:00:00",

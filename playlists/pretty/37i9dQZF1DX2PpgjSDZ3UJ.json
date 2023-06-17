@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20653,
+  "num_followers": 20658,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU0NjZkMjg0ZWQxMWZjZjNiZDI5MDM0NWQ1M2I4YThlM2YwZWZl",
+  "snapshot_id": "MCxlYmMwMTNhOTQ0OTZlMGY2NWQ3ZmIzNTRjZjA5NWQ0ZjhiM2E5YTg3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 186474,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
-        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 267964,
-      "name": "La \u00daltima 10",
-      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Verte antes de fin de a\u00f1o",
         "url": "https://open.spotify.com/album/4nH0HJOHsqJOldNMvIw8nC"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 216506,
       "name": "Cuando quieres jugar conmigo",
       "url": "https://open.spotify.com/track/6XVE5aiEJtV14YNiGLJiYz"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
+        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 267964,
+      "name": "La \u00daltima 10",
+      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
     },
     {
       "added_at": "2020-12-01 05:03:00",

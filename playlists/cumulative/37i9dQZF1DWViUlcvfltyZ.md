@@ -4,7 +4,7 @@
 
 > Siete in un paese meraviglioso..\. Giancane e Zerocalcare in cover di Rock Italia questa settimana!
 
-470 songs - 1 day 2 hr 5 min
+471 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 | 2022-05-09 | 2022-09-02 |
 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 | 2023-04-03 | 2023-06-09 |
 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 | 2022-09-01 | 2023-01-13 |
+| [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 | 2023-06-15 |  |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |
 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 | 2023-04-02 | 2023-04-07 |
 | [Record](https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Record](https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1) | 3:30 | 2022-10-27 | 2022-11-18 |

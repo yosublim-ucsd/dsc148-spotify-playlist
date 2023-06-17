@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "A Punto",
+        "url": "https://open.spotify.com/album/0fu7HTqz4bzVTpNYek1RZe"
+      },
+      "artists": [
+        {
+          "name": "Mseco",
+          "url": "https://open.spotify.com/artist/6U7GcNNSbalfDizUblYENU"
+        },
+        {
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200648,
+      "name": "A Punto",
+      "url": "https://open.spotify.com/track/5xGXZg8R0AfnijU4KDhyYy"
+    },
+    {
+      "album": {
         "name": "A Ti, Mam\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/0YIGFDTwSoQpx1UvcPEMYv"
       },
@@ -924,6 +946,28 @@
       "duration_ms": 130974,
       "name": "Hasta Siempre",
       "url": "https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t"
+    },
+    {
+      "album": {
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "album": {
@@ -1922,6 +1966,32 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "album": {
+        "name": "Roothoppas (Remix)",
+        "url": "https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Roothoppas - Remix",
+      "url": "https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3"
     },
     {
       "album": {

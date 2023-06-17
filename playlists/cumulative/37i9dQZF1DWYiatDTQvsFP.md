@@ -2,9 +2,9 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: Ja Rule
+> it's scary hours...⛈️  cover: Lil' Kim
 
-245 songs - 16 hr 30 min
+246 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-05-06 | 2022-11-11 |
 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 | 2022-05-06 | 2022-06-04 |
 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 | 2022-12-16 | 2023-01-14 |
+| [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 | 2023-06-16 |  |
 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 | 2022-08-19 | 2022-10-01 |
 | [Buddy](https://open.spotify.com/track/0447V6bjlw5ERYGu3BEBnB) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Luvanmusiq](https://open.spotify.com/album/71mJS6A4t23avivfhfvhVg) | 3:43 | 2022-08-19 | 2022-11-16 |
 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 | 2022-06-03 | 2022-11-16 |
@@ -158,7 +159,7 @@
 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2022-11-07 | 2023-04-21 |
 | [Love You Better \(feat\. Chris Brown\)](https://open.spotify.com/track/4HaTbFvIyeinaV6koLK3L4) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love You Better \(feat\. Chris Brown\)](https://open.spotify.com/album/6VODXa19xi9MlVaGDvnjep) | 3:32 | 2022-05-20 |  |
 | [Make It Hot \(feat\. Missy Elliott & Mocha\)](https://open.spotify.com/track/74nsOZqzZzyvFVvBy12I7Y) | [Nicole](https://open.spotify.com/artist/0aBAAnXItgKnXdccW1INw5), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [mocha](https://open.spotify.com/artist/7cLgSCfnPekZE5tn0V6y16) | [Make It Hot](https://open.spotify.com/album/2V21srAwsTtnrZeXv6qQPy) | 4:27 | 2022-12-16 |  |
-| [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 | 2022-08-19 |  |
+| [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 | 2022-08-19 | 2023-06-17 |
 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 | 2022-05-20 | 2022-06-25 |
 | [More Plays](https://open.spotify.com/track/6dXAFJ9aOTWoGMWV8Ur8fv) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [See You, When I C U](https://open.spotify.com/album/35b9fQup2Pdrb9XYI4ROL6) | 1:27 | 2022-09-23 | 2022-10-15 |
 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 | 2022-05-13 |  |

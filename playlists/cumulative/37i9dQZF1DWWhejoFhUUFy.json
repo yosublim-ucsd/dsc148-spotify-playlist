@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Dil",
       "url": "https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 305000,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/4sHxclJmWy9lEdbZZ3WAfW"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 215113,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 177290,
       "name": "kho gaya",
       "url": "https://open.spotify.com/track/1DKfhVxj07r86PuIcLZNe0"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 202105,
       "name": "Khwaab - Reprise",
       "url": "https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP"
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Nazdeek Aa",
+        "url": "https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204499,
+      "name": "Nazdeek Aa",
+      "url": "https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM"
+    },
+    {
+      "album": {
         "name": "Nindiya Re (Studio Version)",
         "url": "https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT"
       },
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 186845,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 70870,
       "name": "Sham - Sunset Edition By Nikhil Dsouza",
       "url": "https://open.spotify.com/track/6C6pDXNyAUTVkM1us9jApO"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 299159,
       "name": "Sooha Saaha",
       "url": "https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Tere Jaisa",
       "url": "https://open.spotify.com/track/5se0sLcaUymYKRUm0lCBgt"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 212571,
       "name": "Tu Jo Paas",
       "url": "https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 161052,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 139826,
       "name": "Zaroori Nahi",
       "url": "https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv"

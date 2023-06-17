@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "$ix $ix",
+        "url": "https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "$ix $ix",
+      "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
+    },
+    {
+      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -2493,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "exiit",
+        "url": "https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "Clumsy Dancer",
+      "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
+    },
+    {
+      "album": {
         "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
         "url": "https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw"
       },
@@ -3224,7 +3264,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 107586,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2j0KrN359zKbaL2NIcoEmA"
@@ -5130,7 +5170,7 @@
     {
       "album": {
         "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
+        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
       },
       "artists": [
         {
@@ -5141,6 +5181,24 @@
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
@@ -5216,7 +5274,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 150973,
       "name": "Gucci Rugs",
       "url": "https://open.spotify.com/track/7BdNMr6ZAV0hv9Yx64j4OP"
@@ -5312,6 +5370,28 @@
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
+    },
+    {
+      "album": {
+        "name": "What Can They Say (Extended)",
+        "url": "https://open.spotify.com/album/6Zhv2ceEknMTfuR20IdKNH"
+      },
+      "artists": [
+        {
+          "name": "HDBeenDope",
+          "url": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
+        },
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Happening (ft. Connie Diiamond)",
+      "url": "https://open.spotify.com/track/0RCXFKkddWR4cnoCJHeyrv"
     },
     {
       "album": {
@@ -5794,7 +5874,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 233794,
       "name": "how u feel?",
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
@@ -6474,7 +6554,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 161052,
       "name": "Ice Spice",
       "url": "https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL"
@@ -6532,6 +6612,24 @@
       "duration_ms": 125852,
       "name": "ily",
       "url": "https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152814,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr"
     },
     {
       "album": {
@@ -7018,7 +7116,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 138945,
       "name": "Keep Dat Nigga",
       "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
@@ -7178,6 +7276,24 @@
       "duration_ms": 103440,
       "name": "L$d",
       "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+    },
+    {
+      "album": {
+        "name": "Lamar",
+        "url": "https://open.spotify.com/album/4YwqUXComMtnzrvoeorWW2"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151823,
+      "name": "Lamar",
+      "url": "https://open.spotify.com/track/1CEDHuG68UDpjTB8nKB5YB"
     },
     {
       "album": {
@@ -10481,6 +10597,24 @@
     },
     {
       "album": {
+        "name": "RICH SCHOLAR",
+        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118923,
+      "name": "RICH SCHOLAR",
+      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
+    },
+    {
+      "album": {
         "name": "RIDE THE WAVE!",
         "url": "https://open.spotify.com/album/1qROXmq8dciE3jPJgyKlke"
       },
@@ -11214,7 +11348,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 151578,
       "name": "Slave",
       "url": "https://open.spotify.com/track/6gzEKpPDrMetHz0EVeo37I"
@@ -13636,7 +13770,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 133026,
       "name": "your eyes",
       "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"

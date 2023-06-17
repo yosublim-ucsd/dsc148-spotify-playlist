@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. OPYI en portada.
 
-132 songs - 6 hr 17 min
+135 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Callejero](https://open.spotify.com/track/2sA17dwArdeg02m5z2MbyV) | [Yorking HB](https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Callejero](https://open.spotify.com/album/7gMhXbN3Rg6xeAybGtPvXg) | 4:14 | 2023-06-09 |  |
 | [Capítulo 1: El Loco](https://open.spotify.com/track/2lLOk0V60S8OFdxUfR1Nxe) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n) | [Capítulo 1: El Loco](https://open.spotify.com/album/4BmxGlMJttejXXLEx2aRV3) | 2:45 | 2023-06-09 |  |
 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 | 2023-06-09 |  |
+| [Charlie Sheen](https://open.spotify.com/track/4ZMn7rErtXSIRAMTaiP6of) | [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Charlie Sheen](https://open.spotify.com/album/14mPKa8xiqVb9CN5OnIClH) | 1:49 | 2023-06-16 |  |
 | [Chicago](https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Chicago](https://open.spotify.com/album/0qxOUAIDnMLYqvRYmicgjm) | 2:44 | 2023-06-09 |  |
 | [CLARO QUE SI](https://open.spotify.com/track/0yNH4efNYWKCqiF1S11mV9) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf), [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [Kid Carrillo](https://open.spotify.com/artist/0VVdOJecUbGnpL4n3pgswJ) | [CLARO QUE SI](https://open.spotify.com/album/0joJR6rllyYp1vqtpKC0Vo) | 2:32 | 2023-06-09 |  |
 | [Cold](https://open.spotify.com/track/1OTu7ZcpY41n6I6OatvxrE) | [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [Cold](https://open.spotify.com/album/3A8hkJurqoU1acTlMYrynX) | 2:04 | 2023-06-09 |  |
@@ -115,7 +116,9 @@
 | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/track/48Lpi4yoXkv3Awje2Hesn9) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/album/2N6R8g07SKPkUT65SIY9gb) | 3:06 | 2023-06-09 |  |
 | [Rest In Drill](https://open.spotify.com/track/7mc3INGhMaXqDB66Ch75S4) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Aerre](https://open.spotify.com/artist/2jJydw0AtgGiQph6Dh53d7) | [Rest In Drill](https://open.spotify.com/album/6RmxixsL9uwxH7Exy6ui8c) | 3:06 | 2023-06-09 |  |
 | [Rubem](https://open.spotify.com/track/5v9m8lESuXAUJsPcIw3U48) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Rubem](https://open.spotify.com/album/14KlbzI8ZRdV59eCiJmp3M) | 4:38 | 2023-06-09 |  |
+| [Rumor](https://open.spotify.com/track/1LhQ9rwpOhoMBxbofBOFQr) | [Sick Morrison](https://open.spotify.com/artist/4oMSYrYeZPbi9uvI1ql9wm) | [Rumor](https://open.spotify.com/album/0IdcNCtYlU30GVYUD0aQOR) | 2:26 | 2023-06-16 |  |
 | [SAMBA DRIFT](https://open.spotify.com/track/5CkqO8uJYDHp9RqGpVgbz3) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [SAMBA DRIFT](https://open.spotify.com/album/1mAsj20ARuTB9fMI6gDntL) | 2:01 | 2023-06-09 |  |
+| [Samuleto](https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:13 | 2023-06-16 |  |
 | [Sed de Ganar](https://open.spotify.com/track/0nu0muJL39ZhAdZHB4gjcc) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sed de Ganar](https://open.spotify.com/album/5InhJktEVmsMZMjs3btorG) | 2:41 | 2023-06-09 |  |
 | [Señales](https://open.spotify.com/track/11C3JshvZNh5hPkWKQVpoR) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i) | [Señales](https://open.spotify.com/album/2owqW3djhD3xxdJM9W0R7z) | 2:09 | 2023-06-09 |  |
 | [SKYLINE](https://open.spotify.com/track/6R1Z1T2Sw38P7mKUOeW6KA) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [2K](https://open.spotify.com/album/4anUhj1pIQQ9DChCNeW2c9) | 1:50 | 2023-06-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "\u00a1La Gen 23 est\u00e1 aqu\u00ed! La nueva ola de artistas con Bruses en portada. \ud83c\udf0a\u2728 ",
+  "description": "\u00a1La Gen 23 est\u00e1 aqu\u00ed! La nueva ola de artistas con Leon Leiden en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 150773,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 247501,
       "name": "Amanece Otra Vez",
       "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152467,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4RfbO5R23JI33EEyjWqHHU"
@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Hell0 K1tty",
+        "url": "https://open.spotify.com/album/6JrvLHmvC7cQ2WBbcs7b4T"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173944,
+      "name": "Hell0 K1tty",
+      "url": "https://open.spotify.com/track/1olrrUdvcKPvBYB4RsitSM"
+    },
+    {
+      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc"
       },
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 181276,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0IXqjQvowN9xWG8TKLiLR3"
@@ -3083,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
+    },
+    {
+      "album": {
         "name": "AMORADESAMOR",
         "url": "https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E"
       },
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 166207,
       "name": "Modo Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
@@ -4589,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n de los 2",
+        "url": "https://open.spotify.com/album/1t5zcQgjN7W7RUuaHqAfS9"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189314,
+      "name": "Qui\u00e9n de los 2",
+      "url": "https://open.spotify.com/track/7gVLQ1vuYUsxGnYiaBAJnO"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Jodido",
         "url": "https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs"
       },
@@ -4806,7 +4860,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 154361,
       "name": "REPROGRAMAR",
       "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
@@ -4954,6 +5008,24 @@
       "duration_ms": 128639,
       "name": "satisfacci\u00f3n",
       "url": "https://open.spotify.com/track/1eVlIs77JL0shfA3Itvy7P"
+    },
+    {
+      "album": {
+        "name": "Sat\u00e9lites",
+        "url": "https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Sat\u00e9lites",
+      "url": "https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh"
     },
     {
       "album": {
@@ -5244,6 +5316,24 @@
       "duration_ms": 168879,
       "name": "Simplemente",
       "url": "https://open.spotify.com/track/6XGj5jW59gjiGaRygj4dbn"
+    },
+    {
+      "album": {
+        "name": "Sin Calma",
+        "url": "https://open.spotify.com/album/1yA6BQDFeGvnQmuFL1nsOj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Trenti",
+          "url": "https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Sin Calma",
+      "url": "https://open.spotify.com/track/1epM37ZaODbApegoEXIoY7"
     },
     {
       "album": {

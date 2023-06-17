@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 57845,
+  "num_followers": 57923,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWZjMjBmNjEyMDFlYzU4ZWEwNmIyZDczN2FlMmIyNTM4NTY4NmZi",
+  "snapshot_id": "MCw4ZDE1ZmFhMjRkNTQyMWI3ODU5N2I4MTRmYzkyZmUxYTY2M2Y2Njcy",
   "tracks": [
     {
       "added_at": "2023-03-30 17:42:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "The SunRoom",
-        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 271794,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Live for Each Other",
         "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 262400,
       "name": "Question",
       "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "The SunRoom",
+        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 271794,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
     },
     {
       "added_at": "2023-03-30 17:42:22",

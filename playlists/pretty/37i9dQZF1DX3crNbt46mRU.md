@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lena
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,119 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,148 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 4 | [Be My Light](https://open.spotify.com/track/2NABfhdHnBlgBuwVJBdGJ9) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Be My Light](https://open.spotify.com/album/4qD2zOcGJAo3cl5a1nqIAM) | 2:59 |
 | 5 | [Strada](https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ahmad Amin](https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o) | [Strada](https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS) | 2:24 |
 | 6 | [tut nicht mehr weh](https://open.spotify.com/track/07XTtv3NAqVg2YOgcL70Lz) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [tut nicht mehr weh](https://open.spotify.com/album/5HWtySzdcSbJ0zPbgmtWo0) | 2:52 |
-| 7 | [Fieber](https://open.spotify.com/track/0SyQZaHDKeKscmd0x21nej) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Liebe in Gefahr](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 3:33 |
+| 7 | [Fieber](https://open.spotify.com/track/0SyQZaHDKeKscmd0x21nej) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 3:33 |
 | 8 | [Alemania](https://open.spotify.com/track/1ScsuMl1Friz30jtvJ0D7L) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Alemania](https://open.spotify.com/album/6QVpLEGJy3IIXjtkjTt3cS) | 2:16 |
 | 9 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 |
 | 10 | [In deinen Armen](https://open.spotify.com/track/4ORixxN5kLrSgSwwuttB4t) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In deinen Armen](https://open.spotify.com/album/4FDbH0clrwreya9QRZNZ9k) | 2:21 |
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 43 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 |
 | 44 | [Youngstar](https://open.spotify.com/track/5tmWuRvJfClHRtaePKS4pX) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Dante >](https://open.spotify.com/album/4F4diqFr1oeyNalouUxM5H) | 2:16 |
 | 45 | [Romanche](https://open.spotify.com/track/0qbPO7rmxn1WtcgwrvjBBe) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Romanche](https://open.spotify.com/album/4hmaCjf4klthnTufjE7x6m) | 2:54 |
-| 46 | [Funkroboter \(feat\. Friedrich Liechtenstein\)](https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [TimmyT](https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Funkroboter \(feat\. Friedrich Liechtenstein\)](https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ) | 3:35 |
+| 46 | [Funkroboter](https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [TimmyT](https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Funkroboter](https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ) | 3:35 |
 | 47 | [Kes Gäud vo dr Wäut](https://open.spotify.com/track/3ZvYpk49A0O0fDUSYabEQw) | [Simeon \[CH\]](https://open.spotify.com/artist/4cJG3fPGP07tz1UV050Mwa) | [Kes Gäud vo dr Wäut](https://open.spotify.com/album/4VtPzWBsPulWFzjBjZEQZu) | 2:53 |
 | 48 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 |
 | 49 | [zusammenalleine](https://open.spotify.com/track/0m0Ajm118G40tykZvwWQBP) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [zusammenalleine](https://open.spotify.com/album/3gVgenthhMYRjdERipHOol) | 2:01 |
 | 50 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 |
-| 51 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:50 |
+| 51 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
 | 52 | [2\-3](https://open.spotify.com/track/2qvggsL7IthTsJtA0ct2U6) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [2\-3](https://open.spotify.com/album/7M8skfq9kHxRLULTTRw9NP) | 2:17 |
 | 53 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 |
 | 54 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 |
@@ -94,16 +94,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 84 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
 | 85 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 86 | [Patterns](https://open.spotify.com/track/7CTYPDmsufErFJP1E1TFFj) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Patterns](https://open.spotify.com/album/4eIWK7rVkPjBVI6GT9B7Og) | 2:04 |
-| 87 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 |
-| 88 | [Körbe werfen](https://open.spotify.com/track/52AZODixAABiGfYrdqrekb) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Körbe werfen](https://open.spotify.com/album/52pt5QSNd0nM2ZwOAbwxCW) | 2:43 |
-| 89 | [Godless](https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Godless](https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj) | 2:58 |
-| 90 | [We Are Here To Make You Feel](https://open.spotify.com/track/54ukAhPXSD2zoEaqE51W3W) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We Are Here To Make You Feel](https://open.spotify.com/album/2jo9qboIa7TAY7FhzJPjQ5) | 3:20 |
-| 91 | [Was mal war](https://open.spotify.com/track/2uE8Vu0J7KCt9R5hvWc7CA) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Was mal war](https://open.spotify.com/album/2W6mzYh1Vm9Ydu1tS22iAe) | 2:43 |
-| 92 | [Mehr davon](https://open.spotify.com/track/3lz12yYoKSNZgCl0cJQ2on) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Mehr davon](https://open.spotify.com/album/0Qngh7cvw5wEdis6nHWoUF) | 2:44 |
-| 93 | [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 |
-| 94 | [High](https://open.spotify.com/track/1mQUImIV6RYSKSWFs3ORop) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [High](https://open.spotify.com/album/6Ue7rFcmMfd1LrKKmJAnzX) | 2:50 |
-| 95 | [Madness](https://open.spotify.com/track/1liGDsUtdCTTn7qPDBrhAy) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Madness](https://open.spotify.com/album/6nlvivHfePIFqT1XXnM6Jv) | 2:07 |
-| 96 | [I wanna go home](https://open.spotify.com/track/3twtFktuEmkNtuLnmeoV7H) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/4HPinQsdW1k7fzQu16kSih) | 2:36 |
-| 97 | [Blüten](https://open.spotify.com/track/6ZMpVMmcWOpPv9HolHpNLd) | [Tim Baldus](https://open.spotify.com/artist/6tNFo8CQXEEY3KOONGTLQY) | [Blüten](https://open.spotify.com/album/7dqgqzJ1Oxmcvj0TAezmfR) | 2:13 |
+| 87 | [PLATINUM](https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PLATINUM](https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A) | 2:38 |
+| 88 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 |
+| 89 | [Körbe werfen](https://open.spotify.com/track/52AZODixAABiGfYrdqrekb) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Körbe werfen](https://open.spotify.com/album/52pt5QSNd0nM2ZwOAbwxCW) | 2:43 |
+| 90 | [Godless](https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Godless](https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj) | 2:58 |
+| 91 | [We Are Here To Make You Feel](https://open.spotify.com/track/54ukAhPXSD2zoEaqE51W3W) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We Are Here To Make You Feel](https://open.spotify.com/album/2jo9qboIa7TAY7FhzJPjQ5) | 3:20 |
+| 92 | [Was mal war](https://open.spotify.com/track/2uE8Vu0J7KCt9R5hvWc7CA) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Was mal war](https://open.spotify.com/album/2W6mzYh1Vm9Ydu1tS22iAe) | 2:43 |
+| 93 | [Mehr davon](https://open.spotify.com/track/3lz12yYoKSNZgCl0cJQ2on) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Mehr davon](https://open.spotify.com/album/0Qngh7cvw5wEdis6nHWoUF) | 2:44 |
+| 94 | [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 |
+| 95 | [High](https://open.spotify.com/track/1mQUImIV6RYSKSWFs3ORop) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [High](https://open.spotify.com/album/6Ue7rFcmMfd1LrKKmJAnzX) | 2:50 |
+| 96 | [Madness](https://open.spotify.com/track/1liGDsUtdCTTn7qPDBrhAy) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Madness](https://open.spotify.com/album/6nlvivHfePIFqT1XXnM6Jv) | 2:07 |
+| 97 | [I wanna go home](https://open.spotify.com/track/3twtFktuEmkNtuLnmeoV7H) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/4HPinQsdW1k7fzQu16kSih) | 2:36 |
+| 98 | [Blüten](https://open.spotify.com/track/6ZMpVMmcWOpPv9HolHpNLd) | [Tim Baldus](https://open.spotify.com/artist/6tNFo8CQXEEY3KOONGTLQY) | [Blüten](https://open.spotify.com/album/7dqgqzJ1Oxmcvj0TAezmfR) | 2:13 |
 
-Snapshot ID: `MCw3NWYwNTcwM2UyMmYxNmZkYzE3YzU1MGNlYWRmY2ExZDlkNWU0MjU4`
+Snapshot ID: `MCwyOTIyZTA3YmQ5YTRlODk4ODRlMzkxZGY1YzJmOTY5ZTYwNmNhNzZh`

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-208 songs - 11 hr 0 min
+209 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-21 |  |
 | [Return of the Light](https://open.spotify.com/track/278SBB605IY9E4RgvKG0Ct) | [Airam Rubio](https://open.spotify.com/artist/5xsu3Uv920CTaHjOrGsHoR) | [Return of the Light](https://open.spotify.com/album/5627BIepoH1IvKgKRpd01b) | 2:34 | 2023-03-03 |  |
 | [Rings](https://open.spotify.com/track/2O16b4CiYRidoYlTFT8iom) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Rings](https://open.spotify.com/album/5r3wmyRZO5S2mq8a1frTAq) | 2:59 | 2022-03-30 |  |
-| [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 |  |
+| [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 | 2023-06-17 |
 | [Romanticizing](https://open.spotify.com/track/1PEqJDiicIXyEpby51cMJa) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Romanticizing](https://open.spotify.com/album/2JXmi8X9xYCjXkwJyB5x40) | 2:26 | 2023-04-06 |  |
 | [Ruby](https://open.spotify.com/track/1nvnPk9TCEiXr1qtNK1AIa) | [Star Rainbow](https://open.spotify.com/artist/73Px4AaHhSQJlCg7eqggPS) | [Ruby](https://open.spotify.com/album/6NttMwDGTU9pOIZYrK3Z0k) | 3:05 | 2023-04-06 |  |
 | [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 |  |
@@ -216,5 +216,6 @@
 | [within spaces](https://open.spotify.com/track/5LIQk4IG19KbqS7ZtfVJ8Z) | [April Oak](https://open.spotify.com/artist/0uyyYu6CIc8RwvtCMgDe1V) | [within spaces](https://open.spotify.com/album/2wyxkOI6X6PxBrRojwTvoy) | 3:32 | 2023-03-10 |  |
 | [worth the wait](https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [worth the wait](https://open.spotify.com/album/6T4h9RYefYVY4jUocwZFfI) | 2:05 | 2022-06-16 |  |
 | [you're just visiting](https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [you're just visiting](https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt) | 1:46 | 2023-01-11 |  |
+| [Zegways](https://open.spotify.com/track/7gNOv2uGFnZA9J7kpITGvS) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Zegways](https://open.spotify.com/album/4bC87a0wafJ0U5dWlmz3q8) | 2:31 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

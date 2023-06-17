@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 301989,
+  "num_followers": 302069,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZiNmI5MzQ1MGVlNThkZWRiNGU5YmI3YjczN2ViYTQzMTQ5ZDVl",
+  "snapshot_id": "MCxiODc3ZGMwOTA4ZmQ0YWZjZThkNzhkODM1MDRhMjFmZTNhMTY0MTFl",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Westside Story",
+        "url": "https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "Westside Story",
+      "url": "https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy"
+    },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
@@ -1027,38 +1043,6 @@
       "duration_ms": 331093,
       "name": "Unshakable",
       "url": "https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Goddam (Action Paxton Remix)",
-        "url": "https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Action Paxton",
-          "url": "https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ"
-        },
-        {
-          "name": "Olivia Ruff",
-          "url": "https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Brasstronix",
-          "url": "https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2"
-        }
-      ],
-      "duration_ms": 273788,
-      "name": "Goddam - Action Paxton Remix",
-      "url": "https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS"
     },
     {
       "added_at": "2023-03-10 05:01:00",

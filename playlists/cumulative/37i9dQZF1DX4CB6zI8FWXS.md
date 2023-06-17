@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Janelle Monae
 
-171 songs - 9 hr 17 min
+172 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-30 | 2023-05-26 |
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-03-16 | 2023-05-26 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-18 |  |
-| [Deja’ve](https://open.spotify.com/track/2chHP0r2rSWIuD2uvCVlCx) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Deja’ve](https://open.spotify.com/album/6uX5swrJ1Ui7b9jsDcBD8s) | 3:07 | 2023-06-15 |  |
+| [Deja've](https://open.spotify.com/track/7fP0VbdKDUojxqRvhYpKTA) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Deja've](https://open.spotify.com/album/0HbImQAylfH8rfZ0mamdS2) | 3:07 | 2023-06-15 |  |
+| [Deja’ve](https://open.spotify.com/track/2chHP0r2rSWIuD2uvCVlCx) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Deja’ve](https://open.spotify.com/album/6uX5swrJ1Ui7b9jsDcBD8s) | 3:07 | 2023-06-15 | 2023-06-17 |
 | [Didn't Cha Know \- Live At Electric Lady](https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl) | 4:23 | 2023-05-18 |  |
 | [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-04 | 2023-05-20 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-16 | 2023-04-21 |

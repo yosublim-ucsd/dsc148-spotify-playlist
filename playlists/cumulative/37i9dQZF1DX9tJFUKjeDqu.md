@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-128 songs - 8 hr 12 min
+129 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Marje's Melody](https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:45 | 2022-04-15 | 2022-07-29 |
 | [Marje's Melody](https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:45 | 2022-07-08 |  |
 | [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 | 2023-01-06 |  |
+| [Mississippi River Blues](https://open.spotify.com/track/2J6R6TbkUYRTRuw27ANdJW) | [Valter Borrione](https://open.spotify.com/artist/3ChFziuayou6dN3O4cdWXG) | [Mississippi River Blues](https://open.spotify.com/album/5AlniUZVjKXulLT4dnlSgm) | 1:37 | 2023-06-16 |  |
 | [Monument Valley](https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:33 | 2022-04-15 |  |
 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
 | [Nowhere But Here](https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Nowhere But Here](https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p) | 2:14 | 2023-03-03 |  |

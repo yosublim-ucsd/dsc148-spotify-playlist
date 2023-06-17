@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 190222,
       "name": "Como Yo Te Veo",
       "url": "https://open.spotify.com/track/5N5YIsTtlXI3CyInlykZwa"
@@ -1574,6 +1574,24 @@
       "duration_ms": 184189,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s"
+    },
+    {
+      "album": {
+        "name": "INTENSIDAD",
+        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "INTENSIDAD",
+      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
     },
     {
       "album": {
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 205357,
       "name": "Te Echo de Menos",
       "url": "https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg"
@@ -3190,6 +3208,24 @@
       "duration_ms": 210000,
       "name": "Te Quiero X Eso",
       "url": "https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW"
+    },
+    {
+      "album": {
+        "name": "Te Soltar\u00e9",
+        "url": "https://open.spotify.com/album/4btqhQjPUWhZXhKTkO2pix"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263628,
+      "name": "Te Soltar\u00e9",
+      "url": "https://open.spotify.com/track/6n4m3dJnCCfJSRONuc5iBe"
     },
     {
       "album": {

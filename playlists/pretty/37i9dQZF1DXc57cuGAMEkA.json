@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Doja Cat, Sigur R\u00f3s, MISAMO, Leigh-Anne and more! cover: Doja Cat",
-  "num_followers": 91234,
+  "num_followers": 91306,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmNlYTBkMjg4YzMzMGM5MjllOWNkNTc2NzcwM2FiNmMwNmNkZTdm",
+  "snapshot_id": "MCw1ZjgyMzUxY2YxY2M5MGJlNDkwNGE3ZDY0YjdkMTczYzc0YjlmMTli",
   "tracks": [
     {
       "added_at": "2023-06-15 15:00:00",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
+        "name": "PLATINUM",
+        "url": "https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "PLATINUM",
+      "url": "https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
         "name": "Bluffin (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP"
       },
@@ -231,6 +251,22 @@
       "duration_ms": 148302,
       "name": "Bluffin (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 187310,
+      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
+      "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -672,7 +708,7 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 170479,
+      "duration_ms": 169503,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
     },
@@ -680,7 +716,7 @@
       "added_at": "2023-06-15 15:00:00",
       "album": {
         "name": "23",
-        "url": "https://open.spotify.com/album/6IziUGspTE7rXTcr7sqBwe"
+        "url": "https://open.spotify.com/album/0aw79q4Sjun33WdYZCtrev"
       },
       "artists": [
         {
@@ -698,7 +734,7 @@
       ],
       "duration_ms": 193026,
       "name": "NOISE",
-      "url": "https://open.spotify.com/track/6CU9Y4Sq2hOz2EqWjJIY71"
+      "url": "https://open.spotify.com/track/3TOyW6X3gX2X8ollJKfPbz"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -727,6 +763,30 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
       "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
+        "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
+        "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -767,8 +827,8 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Deja\u2019ve",
-        "url": "https://open.spotify.com/album/6uX5swrJ1Ui7b9jsDcBD8s"
+        "name": "Deja've",
+        "url": "https://open.spotify.com/album/0HbImQAylfH8rfZ0mamdS2"
       },
       "artists": [
         {
@@ -781,8 +841,8 @@
         }
       ],
       "duration_ms": 187272,
-      "name": "Deja\u2019ve",
-      "url": "https://open.spotify.com/track/2chHP0r2rSWIuD2uvCVlCx"
+      "name": "Deja've",
+      "url": "https://open.spotify.com/track/7fP0VbdKDUojxqRvhYpKTA"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -936,7 +996,7 @@
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 211200,
+      "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
     },
@@ -1248,7 +1308,7 @@
       "added_at": "2023-06-15 15:00:00",
       "album": {
         "name": "Dream Box",
-        "url": "https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ"
+        "url": "https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio"
       },
       "artists": [
         {
@@ -1258,7 +1318,7 @@
       ],
       "duration_ms": 402665,
       "name": "Morning Of The Carnival",
-      "url": "https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki"
+      "url": "https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP"
     },
     {
       "added_at": "2023-06-15 15:00:00",

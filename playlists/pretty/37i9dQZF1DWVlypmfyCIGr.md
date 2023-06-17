@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: メガテラ・ゼロ
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,856 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,868 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 9 | [ミッションインポッシブル](https://open.spotify.com/track/3tjjcHEGsUuUYtyDDWjpm7) | [ザ・リーサルウェポンズ](https://open.spotify.com/artist/3Dz65nhsZWTW5pa3ydfahH) | [ミッションインポッシブル](https://open.spotify.com/album/5EWntu0RZTdXXLe1bx1VDS) | 1:42 |
 | 10 | [ラヴィング](https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ラヴィング](https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq) | 3:44 |
 | 11 | [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 |
-| 12 | [Moody!](https://open.spotify.com/track/5BTvdlXB6ndW2gJ43ZMieP) | [mid](https://open.spotify.com/artist/18fyEcWuvZUxxKa5ofDYuD) | [Moody!](https://open.spotify.com/album/2bHM79LuOxUrWOmH34iHeP) | 4:04 |
+| 12 | [Moody!](https://open.spotify.com/track/5BTvdlXB6ndW2gJ43ZMieP) | [ミド](https://open.spotify.com/artist/0DbopeB4HOO7LZ6Yy4iX7Y) | [Moody!](https://open.spotify.com/album/2bHM79LuOxUrWOmH34iHeP) | 4:04 |
 | 13 | [kajitsukyoso](https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [kajitsukyoso](https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5) | 4:17 |
 | 14 | [Spiral](https://open.spotify.com/track/17adaAiH5jM7F2q9AHoYnU) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Runaway World \(TVアニメ「逃走中」オープニング・テーマ\)](https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T) | 3:43 |
 | 15 | [ジョークス](https://open.spotify.com/track/02lybtH4o7umCyxazP7kFl) | [緑仙](https://open.spotify.com/artist/0XGVrQtpAZA0GP9jjI8GQf) | [ジョークス](https://open.spotify.com/album/5TtWxSSrdiCsQjLgZeFMSi) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [花も咲かない束の間に](https://open.spotify.com/track/4ddWp9Fwhl1lUpnjWF6e4f) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [花も咲かない束の間に](https://open.spotify.com/album/0WOkn4kM1h2Cc0o5EaulNa) | 5:12 |
 | 80 | [13月](https://open.spotify.com/track/6gcTz0u97hwBbTJeO8OZK5) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [III](https://open.spotify.com/album/5RpZJxuIkhiDNSPC9bl2l5) | 8:30 |
 
-Snapshot ID: `MCxmNjdkMDUwNTM5ZjU0Yzg0OWRhOGM2ODFmNWI0OWM3MzI0ZjhlZTdl`
+Snapshot ID: `MCxmNGM4NjRmZTAzY2E0OTY0OGFlYTYyZWJjNGFiMjZmMTNmOTIyNjZk`

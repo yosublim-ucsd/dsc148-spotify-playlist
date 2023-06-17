@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 4 hr 0 min
+78 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,12 @@
 | [Smack My Bitch Up](https://open.spotify.com/track/1yYMtoXAnmivjrm0FD31Ok) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:43 | 2022-08-31 | 2022-11-13 |
 | [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2022-08-31 |  |
 | [SRS](https://open.spotify.com/track/2YqnLz7YNpDzX0nlYVnAmF) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SRS](https://open.spotify.com/album/0EdZaveXeFBbqfq56kW7cH) | 2:41 | 2022-08-31 |  |
+| [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-16 |  |
 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 | 2022-08-31 |  |
 | [Techno](https://open.spotify.com/track/2c3I3ew3iJ4xgiMQ7fA8Qf) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Techno](https://open.spotify.com/album/0mjxsK2Ha4QWEmPNhfZ0jk) | 3:45 | 2022-08-31 |  |
 | [THAT](https://open.spotify.com/track/6yGxfjVzv3u3b85FuUSJaN) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/0Mn2OXVX6vGMWkqJWVoZuP) | 2:12 | 2022-08-31 |  |
 | [That's Hot](https://open.spotify.com/track/59rSJ0EPaqUFyGu0rpjrlF) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [That's Hot](https://open.spotify.com/album/33Gn0WONvLLLwgdf1zH2LW) | 2:07 | 2022-08-31 | 2022-10-23 |
-| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 |  |
+| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 | 2023-06-17 |
 | [That's Hot](https://open.spotify.com/track/44D5QNNRr52gU8MBzfLMsc) | [lovfxsl](https://open.spotify.com/artist/3oWWv5DwX1tmoxVfE31LyX) | [That's Hot](https://open.spotify.com/album/6XO4jqE1A8NpscZrVbzViD) | 2:07 | 2022-08-31 | 2023-02-10 |
 | [Tired and Sick](https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s) | 2:52 | 2022-08-31 |  |
 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 | 2022-08-31 | 2023-04-13 |

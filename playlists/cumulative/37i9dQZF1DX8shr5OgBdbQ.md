@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-87 songs - 4 hr 29 min
+88 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Santiano \(feat\. SKÁLD\)](https://open.spotify.com/track/22C9LUZT1A0BSe09mYrVup) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv), [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Santiano \(feat\. SKÁLD\)](https://open.spotify.com/album/5COT9RPXJQBmAleYbjotDp) | 2:09 | 2022-03-10 |  |
 | [Sea Shanty Medley](https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Sea Shanty Medley](https://open.spotify.com/album/3DXlflmRdEZIe0RqxZ6Czb) | 3:54 | 2022-03-10 |  |
 | [Shanty Man](https://open.spotify.com/track/5SNxHRzOTTHDFdDSh6Axez) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Home From The Sea](https://open.spotify.com/album/1zxO6AaHwxYyOsW4rf2NFm) | 3:27 | 2022-03-10 |  |
+| [Skull and Bones](https://open.spotify.com/track/4Pj1PUBneNwBXQdSpZWaQD) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Skull and Bones](https://open.spotify.com/album/2uwGcOiB2NsF6xlGHx3OSa) | 3:40 | 2023-06-16 |  |
 | [Sloop John B \- Live](https://open.spotify.com/track/1ih3UmxPvsRvSogQJTQ82R) | [Port Isaac's Fisherman's Friends](https://open.spotify.com/artist/1cbWpMFngLy9p8lgpii3GQ) | [The Cambridge Folk Festival 2010 / 11 \(Live\)](https://open.spotify.com/album/5QFXQuVxhheVuBXkBuCGIQ) | 3:50 | 2022-03-10 | 2022-07-29 |
 | [Sloop John B \- Live](https://open.spotify.com/track/6SwuCmtNUXxkWD8nhWpWyo) | [Port Isaac's Fisherman's Friends](https://open.spotify.com/artist/1cbWpMFngLy9p8lgpii3GQ) | [The Cambridge Folk Festival 2010 / 11 \(Live\)](https://open.spotify.com/album/3piII04AIzlxY5hAKvYlfU) | 3:50 | 2022-06-29 |  |
 | [Song of the Vikings \(My Mother Told Me\)](https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B) | [Perly I Lotry](https://open.spotify.com/artist/7aIbYf49waEyLNCyBG4BsG) | [Distant Shores](https://open.spotify.com/album/4YkKsDoRS13K3jY1MwhnFN) | 2:07 | 2022-03-10 |  |

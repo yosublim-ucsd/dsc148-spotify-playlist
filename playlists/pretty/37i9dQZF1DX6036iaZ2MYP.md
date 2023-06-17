@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,438 likes - 35 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,483 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 34 | [Sans Toi \- Remix](https://open.spotify.com/track/6BnDehrpsY3LQrrrANSEiF) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Ekany](https://open.spotify.com/artist/7GgFXkbjGp2RnA3dnh1Yxq) | [Sans Toi \(Remix\)](https://open.spotify.com/album/15GJTjjpwIxGOvdjxUCaKm) | 4:00 |
 | 35 | [Miss Des Miss](https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miss Des Miss](https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S) | 2:34 |
 
-Snapshot ID: `MCw3ZDU2YjgyOWM1ZjNhNjE3YWUzODU0MjQ3MDUyNTA4YWViNDVmMzIz`
+Snapshot ID: `MCxhMTQ2OWM0N2M0NjVkYWI3NjlkNzk0NTIzZmQzNGJlNGQ5Mzc2MmY0`

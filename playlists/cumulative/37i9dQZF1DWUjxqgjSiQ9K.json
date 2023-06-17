@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Hay un hombre",
+        "url": "https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Hay un hombre",
+      "url": "https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU"
+    },
+    {
+      "album": {
         "name": "FLUIR 1",
         "url": "https://open.spotify.com/album/39Jr00xTIQJnvvaUNdNYKz"
       },
@@ -7922,7 +7940,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 468529,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
@@ -8094,6 +8112,28 @@
       "duration_ms": 224403,
       "name": "Tu Manto - Remix",
       "url": "https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok"
+    },
+    {
+      "album": {
+        "name": "Tu Presencia Es Mi Jard\u00edn",
+        "url": "https://open.spotify.com/album/7i96nrnax2svsyl3Lwrtr1"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1273166,
+      "name": "Tu Presencia Es Mi Jard\u00edn",
+      "url": "https://open.spotify.com/track/6fW2AorInVedtVTPSZDeGi"
     },
     {
       "album": {
@@ -8292,7 +8332,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 368020,
       "name": "T\u00fa proveer\u00e1s",
       "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"

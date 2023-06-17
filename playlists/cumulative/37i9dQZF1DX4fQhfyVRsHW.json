@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 220125,
       "name": "Adwarmance - The Wetlands",
       "url": "https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF"
@@ -1658,6 +1658,24 @@
       "duration_ms": 178000,
       "name": "Planet X",
       "url": "https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt"
+    },
+    {
+      "album": {
+        "name": "Pluvia Invendum",
+        "url": "https://open.spotify.com/album/17QOpSfr3nBrWQXmT69J5d"
+      },
+      "artists": [
+        {
+          "name": "Ultrawideolence",
+          "url": "https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Pluvia Invendum",
+      "url": "https://open.spotify.com/track/1vy5vEb2YC2I0RhMtgCNrl"
     },
     {
       "album": {

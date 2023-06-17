@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 
 > Drift away on cotton candy clouds and dream sweet with continuous pink sleep noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 235 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 235 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 | 210 | [Pink Flowing Noise](https://open.spotify.com/track/5Gyr0z7E4lPzzI5lcbhQc4) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Noisist](https://open.spotify.com/album/0CviRQJ3g0vKRDY7nheyKU) | 3:14 |
 | 211 | [Pink Noise Satisfaction](https://open.spotify.com/track/3HRDr4iGCIH6IjYpduxVJl) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Satisfaction](https://open.spotify.com/album/4ceYxcs6IXW4LnbrxeepSD) | 3:11 |
 | 212 | [Pink Noise for Studying](https://open.spotify.com/track/682hafiLy06GDQyWT74WnG) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Pink Noise for Studying](https://open.spotify.com/album/7LF4enxQrH9dDfe5ne5u24) | 2:50 |
-| 213 | [Pink Noise Skies](https://open.spotify.com/track/2bVCgryX8KmVDxudGLbrzW) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Pink Noise Skies](https://open.spotify.com/album/2V2ckurakKcMLRoQEtouoa) | 3:12 |
-| 214 | [Craft Noise](https://open.spotify.com/track/1tqTq849f6ndwEO7R03Gpc) | [Embla Noise](https://open.spotify.com/artist/2Gbyhm6LZiEGf8r5QwJltJ) | [Soft Noises](https://open.spotify.com/album/2116m1mjzxpTxKjg4eDN7d) | 1:50 |
+| 213 | [Whirl of Pink Noise](https://open.spotify.com/track/6XQ5r6o52RpUYj6cYnFfrC) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Whirl of Pink Noise](https://open.spotify.com/album/0kBmCwkhy397qtQwEDboAL) | 3:21 |
+| 214 | [Pink Noise Skies](https://open.spotify.com/track/2bVCgryX8KmVDxudGLbrzW) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Pink Noise Skies](https://open.spotify.com/album/2V2ckurakKcMLRoQEtouoa) | 3:12 |
 | 215 | [Pink Noise for Snoozing](https://open.spotify.com/track/2Jt50RFGQHok6b1ITsmYce) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Pink Noise for Snoozing](https://open.spotify.com/album/2f7RC69qlbBaDM8giJbXV1) | 4:09 |
 | 216 | [Flowing Pink Noise](https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [Baby Sleep Noise Kit](https://open.spotify.com/album/3tMcFcLTvWGZHNUfcBvDFS) | 2:14 |
 | 217 | [Pink Noise = Sleepy Kids](https://open.spotify.com/track/78eJpDKEYodKgqrC79S88L) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Better Focus with Pink Noise](https://open.spotify.com/album/3pwOFSVA0ofBwhtyXzxywi) | 3:40 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 | 234 | [Dreamy Pink Noise](https://open.spotify.com/track/5gkiGV7pu6ejpdgIaB8JBj) | [Le Vie Noise](https://open.spotify.com/artist/4PhRUIUB5KfZS3nwdFM7p0) | [Pink Noise Visions](https://open.spotify.com/album/2xS74gDgkoqhH2I0g8itak) | 2:06 |
 | 235 | [Pink For Sleep](https://open.spotify.com/track/6EdBLp1MwgxrJ0zMTTayoD) | [Pinkage](https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ) | [Suimin'yaku](https://open.spotify.com/album/207quTW604sOI2s9UkUOGr) | 2:52 |
 
-Snapshot ID: `MCxkYzgyMjYwODBiMzhkNWFkNTBkNDEwMDFjNzZiMDhhM2QwNDIwY2M0`
+Snapshot ID: `MCw0NjcxN2ZjZTk3NjVhM2RlY2JlZmI5NTlkODBiNmRhNGQyMDBmNTI5`

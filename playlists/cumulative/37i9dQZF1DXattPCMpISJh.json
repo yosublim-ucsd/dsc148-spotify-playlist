@@ -1501,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Giving Nothing",
+        "url": "https://open.spotify.com/album/4zgOSsSglm9BSoL5lqp0PK"
+      },
+      "artists": [
+        {
+          "name": "Dyanna Fearon",
+          "url": "https://open.spotify.com/artist/6Tj2zk2FBDNAO7k0jXHMSp"
+        },
+        {
+          "name": "Sparkling Attitude",
+          "url": "https://open.spotify.com/artist/3IF1LdxOdz2c329J5KBjjA"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220512,
+      "name": "Giving Nothing - Art of Tones Remix",
+      "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
       },
@@ -2264,7 +2290,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 218360,
       "name": "Light up on the Weekend",
       "url": "https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw"
@@ -2832,7 +2858,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 438421,
       "name": "Party People",
       "url": "https://open.spotify.com/track/7IKT5V9D9pbXzCEjw3465z"
@@ -3456,6 +3482,32 @@
       "duration_ms": 196451,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC"
+    },
+    {
+      "album": {
+        "name": "Sure Know Something (Ladies on Mars Remix)",
+        "url": "https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ"
+      },
+      "artists": [
+        {
+          "name": "Javier Penna",
+          "url": "https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV"
+        },
+        {
+          "name": "DiscoRocks",
+          "url": "https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA"
+        },
+        {
+          "name": "Ladies On Mars",
+          "url": "https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234827,
+      "name": "Sure Know Something - Ladies on Mars Remix",
+      "url": "https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9"
     },
     {
       "album": {

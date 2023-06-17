@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,143 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 55 | [Mahaba](https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo) | [Mahaba](https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4) | 6:47 |
 | 56 | [Your Loving \- DJ Paparazzi Remix](https://open.spotify.com/track/1ReZvOFm70OYQz3TNp2R0r) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [DJ Paparazzi](https://open.spotify.com/artist/6Z4MjOERzDvcj6cS9MzE8s) | [Your Loving \(Remixes\)](https://open.spotify.com/album/2obQSSgoW5F82YSZ6EcLd8) | 4:01 |
 | 57 | [Izitha \- Atmospheric Mix](https://open.spotify.com/track/5U2veelF6LA2qDIJSoCEyG) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Izitha \(Atmospheric Mix\)](https://open.spotify.com/album/4znAMAvgZt1F1tKNUloEMX) | 8:34 |
-| 58 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
+| 58 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
 | 59 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCw0NjZlZGJhNGQ2YzU2ZTg5YzY4NzM3NWI1MWE0YzVmNjMyYTZkMmVl`
+Snapshot ID: `MCxiOTI4Y2VhZGNhNjhmODY0MGYwYjNhN2M1NmY5MzY0Mjk3ZjlkMzE4`

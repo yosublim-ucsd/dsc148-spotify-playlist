@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Dua Lipa",
+  "description": "Voici les hits du moment. Photo: Lost, Loud",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 228690,
       "name": "Alco",
       "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -2700,7 +2722,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -2899,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Make It Alright",
+        "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133822,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/6n5CukxEAe6wQDgx0Aep6D"
       },
@@ -2962,7 +3002,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 175255,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/0au6ZQtQNZf6sKl7rK1BoN"
@@ -3129,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "album": {
         "name": "PETiTOM",
         "url": "https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r"
       },
@@ -3268,6 +3326,28 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "QuietMike",
+          "url": "https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144970,
+      "name": "On & Off - Spotify Singles",
+      "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
     },
     {
       "album": {
@@ -3839,6 +3919,28 @@
     },
     {
       "album": {
+        "name": "R\u00eaver \u00e9veill\u00e9",
+        "url": "https://open.spotify.com/album/0DsxTiPIEpT8mNtQgCoUu1"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        },
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219818,
+      "name": "R\u00eaver \u00e9veill\u00e9",
+      "url": "https://open.spotify.com/track/40fvGOkdmC6pzS6bT2yKX1"
+    },
+    {
+      "album": {
         "name": "Sad Happy Ending",
         "url": "https://open.spotify.com/album/6HVG1Kh7hNgRIqNl9LJwLF"
       },
@@ -4086,7 +4188,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 158537,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/17xfpZekr8Gg79yvqhTNC4"

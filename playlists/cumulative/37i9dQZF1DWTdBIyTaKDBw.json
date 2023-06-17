@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Blooming Today",
+        "url": "https://open.spotify.com/album/5oi7YShT4pfwoAlKJtqDsk"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Blooming Today",
+      "url": "https://open.spotify.com/track/1dTshccEBE5ABMk5ls1LHA"
+    },
+    {
+      "album": {
         "name": "Loop 1",
         "url": "https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212898,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"

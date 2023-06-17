@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! En portada: La Joaqui y Callejero Fino en portada.  ",
-  "num_followers": 8805,
+  "num_followers": 8851,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU5ZTIxMzc3ODFjMTNmOTZkYzQyMzRlYTZiMjFmNjEwNTFhNGYy",
+  "snapshot_id": "MCwyMTU2OGU5OWQzMWY0MTNkNmQ1ZmYyNGQ3NmZkYzI5M2NjNDQwZjI2",
   "tracks": [
     {
       "added_at": "2023-06-16 01:55:40",
@@ -135,6 +135,30 @@
     {
       "added_at": "2023-06-16 01:55:40",
       "album": {
+        "name": "Roothoppas (Remix)",
+        "url": "https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Roothoppas - Remix",
+      "url": "https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3"
+    },
+    {
+      "added_at": "2023-06-16 01:55:40",
+      "album": {
         "name": "\u00bfQu\u00e9 Hay Que Hacer?",
         "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
       },
@@ -147,6 +171,26 @@
       "duration_ms": 155897,
       "name": "\u00bfQu\u00e9 Hay Que Hacer?",
       "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
+    },
+    {
+      "added_at": "2023-06-16 01:55:40",
+      "album": {
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "added_at": "2023-06-16 01:55:40",
@@ -307,6 +351,26 @@
       "duration_ms": 142400,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU"
+    },
+    {
+      "added_at": "2023-06-16 01:55:40",
+      "album": {
+        "name": "A Punto",
+        "url": "https://open.spotify.com/album/0fu7HTqz4bzVTpNYek1RZe"
+      },
+      "artists": [
+        {
+          "name": "Mseco",
+          "url": "https://open.spotify.com/artist/6U7GcNNSbalfDizUblYENU"
+        },
+        {
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        }
+      ],
+      "duration_ms": 200648,
+      "name": "A Punto",
+      "url": "https://open.spotify.com/track/5xGXZg8R0AfnijU4KDhyYy"
     },
     {
       "added_at": "2023-06-16 01:55:40",

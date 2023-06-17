@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 19809,
+  "num_followers": 19861,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzM3ZGU0MDgyNjMyZWRjMTQwMDZkZjY2MTFjMWI3NTY4ZDI2MmVm",
+  "snapshot_id": "MCxhN2JkOWYwNWVjZjdiNjI0MzcwYzEyODUzYTUwYmY3NGFkZGEwNjU0",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "To Live A Making",
+        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 389403,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
+    },
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj"
+      },
+      "artists": [
+        {
+          "name": "Tand",
+          "url": "https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6"
+        }
+      ],
+      "duration_ms": 447777,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Walk Around The Moon",
@@ -127,6 +159,22 @@
       "duration_ms": 269240,
       "name": "Fire And Brimstone",
       "url": "https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Frog Rock",
+        "url": "https://open.spotify.com/album/5yAKhXWdnSINL6HH87aKpK"
+      },
+      "artists": [
+        {
+          "name": "Road Waves",
+          "url": "https://open.spotify.com/artist/0v5yDE94Tf7agKSVwqSwau"
+        }
+      ],
+      "duration_ms": 575734,
+      "name": "Frog Rock",
+      "url": "https://open.spotify.com/track/5Gbm1ipybjf63mU439XcrC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1179,22 +1227,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 451253,
-      "name": "How Long...",
-      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
       },
@@ -1291,22 +1323,6 @@
       "duration_ms": 259826,
       "name": "Keep Your Hands to Yourself",
       "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Megagem",
-        "url": "https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 393360,
-      "name": "Mucho",
-      "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1473,22 +1489,6 @@
       "url": "https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5"
     },
     {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Same As It Ever Was",
-        "url": "https://open.spotify.com/album/6avSm8ZUTDXwOFCxWwhHx2"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 404800,
-      "name": "Same As It Ever Was",
-      "url": "https://open.spotify.com/track/56JZhCEFR1LUGGbxGDuRnx"
-    },
-    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "Fossilize",
@@ -1524,29 +1524,29 @@
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Waltz of a Thousand Stars",
-        "url": "https://open.spotify.com/album/6Nr0Ma9gfD1Uq4jOrNh6Ju"
+        "url": "https://open.spotify.com/album/26JiCjMeocXoE0wra5IcxB"
       },
       "artists": [
         {
-          "name": "Ari Joshua",
-          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
         },
         {
-          "name": "Russ Lawton",
-          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
         },
         {
           "name": "Ray Paczkowski",
           "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
         },
         {
-          "name": "Soule Monde",
-          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
         }
       ],
       "duration_ms": 160157,
       "name": "Waltz of a Thousand Stars",
-      "url": "https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU"
+      "url": "https://open.spotify.com/track/7t81QaJ5tYzJVbX17Damcc"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/5U6CaoKUoWzGFloJgLfg2Q"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204782,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/1RU1XW9hYD5A4lcINT5NaE"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b"
       },
@@ -1860,6 +1878,24 @@
       "duration_ms": 292053,
       "name": "porque",
       "url": "https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM"
+    },
+    {
+      "album": {
+        "name": "PRETTY PLEASE",
+        "url": "https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184060,
+      "name": "PRETTY PLEASE",
+      "url": "https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS"
     },
     {
       "album": {

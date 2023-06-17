@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "ASCENDANT BRASIER (Balduin Remix)",
+        "url": "https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "balduin",
+          "url": "https://open.spotify.com/artist/5FG7r0QXjzOmd4QmvyvvZN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "ASCENDANT BRASIER - Balduin Remix - Electro Swing",
+      "url": "https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV"
+    },
+    {
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
       },
@@ -1608,6 +1634,24 @@
       "duration_ms": 238560,
       "name": "Gringos Revenge",
       "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+    },
+    {
+      "album": {
+        "name": "Groove Glider",
+        "url": "https://open.spotify.com/album/1KxXWZoRJgBLC7w6avADuA"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128776,
+      "name": "Groove Glider",
+      "url": "https://open.spotify.com/track/4BNbwseqUTPlcEHCbT0hW5"
     },
     {
       "album": {

@@ -1605,6 +1605,56 @@
     },
     {
       "album": {
+        "name": "F'Uncstown",
+        "url": "https://open.spotify.com/album/01IB5HBScOdRk0V3GCoeCA"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Winston Bell",
+          "url": "https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2"
+        },
+        {
+          "name": "Antonio Labra",
+          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Thomas Russell",
+          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
+        },
+        {
+          "name": "Nate Yingling",
+          "url": "https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi"
+        },
+        {
+          "name": "Drehova",
+          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222168,
+      "name": "F'Uncstown",
+      "url": "https://open.spotify.com/track/13IirgDjn1v1gZMMVrWQEA"
+    },
+    {
+      "album": {
         "name": "Outtakes: 'Law of Attraction' Session",
         "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
       },
@@ -1718,6 +1768,28 @@
       "duration_ms": 317645,
       "name": "Free Angela (Thoughts\u2026 And All I've Got To Say)",
       "url": "https://open.spotify.com/track/1VUnI5Inw1b7ZyVw5jnkaq"
+    },
+    {
+      "album": {
+        "name": "Freeman Square",
+        "url": "https://open.spotify.com/album/1mJmd8HI5eo9hmKwKqLv8X"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314654,
+      "name": "Freeman Square",
+      "url": "https://open.spotify.com/track/7aWuAaepHToCUIMROd80Ze"
     },
     {
       "album": {
@@ -1838,6 +1910,28 @@
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/2wLWkg1Hvypn6O7hPnbfit"
+      },
+      "artists": [
+        {
+          "name": "Levent Canseven",
+          "url": "https://open.spotify.com/artist/3NUEjMOsAkYQHImzKatM3o"
+        },
+        {
+          "name": "Levthand",
+          "url": "https://open.spotify.com/artist/7pQsw5jT4ZGfjo47JFQTXN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128634,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/0PXtPC7EtkqcbHpIZtGVAb"
     },
     {
       "album": {
@@ -2010,7 +2104,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 675160,
       "name": "Happy 'Cause I'm Goin' Home",
       "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
@@ -3070,7 +3164,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
@@ -6794,7 +6888,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 172584,
       "name": "yeah (ooh)",
       "url": "https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2"

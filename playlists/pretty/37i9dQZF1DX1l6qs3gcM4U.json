@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 171681,
+  "num_followers": 171799,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Y1M2U0MTU1MGQxYmMwYjhhYzc2Y2Y2OGJmMTU0YWRlZGVkYzYy",
+  "snapshot_id": "MCxjZDBkZWExNTQ1NDdlZmY0YTdkZDU5YmZlNzEwNWFmZjEwNzk5ZGFi",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -619,38 +619,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Batom",
-        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Batom",
-      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 238790,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 200598,
       "name": "Suleban",
       "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 180026,
       "name": "Benka Benka",
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "The Gentleman",
-        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Nha Rainha (feat. Dino D'Santiago)",
-      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "J\u00e1 N\u00e3o Sei",
         "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 261115,
       "name": "J\u00e1 N\u00e3o Sei",
       "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "The Gentleman",
+        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Nha Rainha (feat. Dino D'Santiago)",
+      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
     },
     {
       "added_at": "2023-06-08 23:00:00",

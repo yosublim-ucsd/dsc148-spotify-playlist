@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Jason Isbell and the 400 Unit",
+  "description": "A new shade of Country. Cover: The War and Treaty",
   "name": "Indigo",
   "tracks": [
     {
@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Baby, I\u2019m Still Right Here (With You)",
+        "url": "https://open.spotify.com/album/5ZSOR0Jr5SxevGVj01RVnY"
+      },
+      "artists": [
+        {
+          "name": "The Pink Stones",
+          "url": "https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Baby, I\u2019m Still Right Here (With You)",
+      "url": "https://open.spotify.com/track/2ja6VjvbJOD2opSjuOMtWJ"
+    },
+    {
+      "album": {
         "name": "No Regular Dog",
         "url": "https://open.spotify.com/album/4EXZpL5czHAtbnv1KbLSMs"
       },
@@ -988,6 +1010,28 @@
       "duration_ms": 252981,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t"
+    },
+    {
+      "album": {
+        "name": "Break My Heart (feat. Ruston Kelly)",
+        "url": "https://open.spotify.com/album/3ZwAfNsL44QuYkOA0rCzk0"
+      },
+      "artists": [
+        {
+          "name": "Ashley Ray",
+          "url": "https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216225,
+      "name": "Break My Heart (feat. Ruston Kelly)",
+      "url": "https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR"
     },
     {
       "album": {
@@ -2494,7 +2538,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 238542,
       "name": "Fire in the Ocean",
       "url": "https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4"
@@ -3942,6 +3986,24 @@
       "duration_ms": 190619,
       "name": "If I May Be So Bold",
       "url": "https://open.spotify.com/track/6tVvfvsV7aIhTwKGy6c9R7"
+    },
+    {
+      "album": {
+        "name": "If I Try To Leave",
+        "url": "https://open.spotify.com/album/7cqAkrccSigkZUvKOdgL9Q"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "If I Try To Leave",
+      "url": "https://open.spotify.com/track/5MfoZhgvQe5FQy8VGzI9Xe"
     },
     {
       "album": {
@@ -8150,7 +8212,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
@@ -8256,7 +8318,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 215607,
       "name": "Who\u2019s Laughing Now?",
       "url": "https://open.spotify.com/track/1l9LGKMWlwXrPOYFPiTugJ"

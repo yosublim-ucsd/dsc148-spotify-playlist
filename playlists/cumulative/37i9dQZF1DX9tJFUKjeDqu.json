@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Mississippi River Blues",
+        "url": "https://open.spotify.com/album/5AlniUZVjKXulLT4dnlSgm"
+      },
+      "artists": [
+        {
+          "name": "Valter Borrione",
+          "url": "https://open.spotify.com/artist/3ChFziuayou6dN3O4cdWXG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97306,
+      "name": "Mississippi River Blues",
+      "url": "https://open.spotify.com/track/2J6R6TbkUYRTRuw27ANdJW"
+    },
+    {
+      "album": {
         "name": "Mississippi Boy",
         "url": "https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2"
       },

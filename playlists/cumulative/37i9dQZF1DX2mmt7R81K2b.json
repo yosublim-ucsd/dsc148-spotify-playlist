@@ -249,6 +249,32 @@
     },
     {
       "album": {
+        "name": "Arietta (Based on Grieg's Lyrical Pieces, Op. 12)",
+        "url": "https://open.spotify.com/album/40SKSPh1RyASTnFrK3KBQ5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Morphing Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223084,
+      "name": "Arietta - Based on Grieg's Lyrical Pieces, Op. 12",
+      "url": "https://open.spotify.com/track/5X9RBOhzBCfbNWTqevvuhp"
+    },
+    {
+      "album": {
         "name": "Les triplettes de Belleville (Bande originale du film)",
         "url": "https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c"
       },
@@ -472,6 +498,28 @@
       "duration_ms": 980506,
       "name": "Concierto de Aranjuez: Adagio",
       "url": "https://open.spotify.com/track/5snEgy8RMnkJZqfwqD6svi"
+    },
+    {
+      "album": {
+        "name": "U\u00e8le Lamore & Theo Croker",
+        "url": "https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e"
+      },
+      "artists": [
+        {
+          "name": "U\u00e8le Lamore",
+          "url": "https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214114,
+      "name": "Contes de la nuit",
+      "url": "https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh"
     },
     {
       "album": {

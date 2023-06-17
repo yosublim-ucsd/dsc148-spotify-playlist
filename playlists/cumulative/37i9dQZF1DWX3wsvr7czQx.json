@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6ZNZEqAoxAxuCQxCQkn7il"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187125,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6KgSNIpIoasIodiMWLAaD9"
+    },
+    {
+      "album": {
         "name": "Bang A Gong (Get It On)",
         "url": "https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo"
       },
@@ -136,6 +154,28 @@
       "duration_ms": 175357,
       "name": "Beautiful Sunshine",
       "url": "https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199061,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE"
     },
     {
       "album": {
@@ -1198,7 +1238,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 391332,
       "name": "Show Them The Way",
       "url": "https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf"
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 182416,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC"

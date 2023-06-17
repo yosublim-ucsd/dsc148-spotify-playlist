@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,732 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,823 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,19 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Nunca Vai Ser um Adeus \- Ao Vivo](https://open.spotify.com/track/2ZtBO7eGYv1TVT0Sij4M9c) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 2:48 |
 | 15 | [Má Intenção](https://open.spotify.com/track/5NkHJxqK2bEKRUKK0FAqPg) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Má Intenção](https://open.spotify.com/album/1VlyIbUwpdW8AX6GY3OXfu) | 2:41 |
 | 16 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré \(Ao Vivo\)](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
-| 17 | [Amiga Vagabunda \- Piseiro Remix](https://open.spotify.com/track/0icfYQa0IOLbZ98SAR0IOP) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Amiga Vagabunda \(Piseiro Remix\)](https://open.spotify.com/album/61sK1Lso3T4JGG79JuB5ek) | 2:56 |
+| 17 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
 | 18 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
 | 19 | [Tenta Me Esquecer \- Ao Vivo](https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Tenta Me Esquecer \(Ao Vivo\)](https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll) | 2:15 |
 | 20 | [Certo Pelo Duvidoso \- Ao Vivo](https://open.spotify.com/track/1mkgVm7zMwOVFovBE0wtv5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 3:03 |
-| 21 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
+| 21 | [Amiga Vagabunda \- Piseiro Remix](https://open.spotify.com/track/0icfYQa0IOLbZ98SAR0IOP) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Amiga Vagabunda \(Piseiro Remix\)](https://open.spotify.com/album/61sK1Lso3T4JGG79JuB5ek) | 2:56 |
 | 22 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
 | 23 | [Tô Dentro \- Ao Vivo](https://open.spotify.com/track/572e1p3tMlEruOwhsNjThd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:52 |
 | 24 | [Engolir a Seco \- Ao Vivo](https://open.spotify.com/track/7oUoGiWxP3ZjvBpp9HTKho) | [Dani & Gabriela](https://open.spotify.com/artist/5MoXz6f6WDekaMoZBLpdLs), [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Engolir a Seco \(Ao Vivo\)](https://open.spotify.com/album/3bYNvemoxFC7tps9tDBZ0M) | 3:07 |
 | 25 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
 | 26 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 |
 | 27 | [EXquecEU \- Ao Vivo](https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo\)](https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX) | 3:05 |
-| 28 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
-| 29 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
+| 28 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
+| 29 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
 | 30 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 31 | [Namoro De Merd4 \- Ao Vivo](https://open.spotify.com/track/7AziDpL8ZyoLZbYbQ4xHNo) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:41 |
 | 32 | [Se Tu Gostava de Mim](https://open.spotify.com/track/5lG2ItSw3J8CfL7fqyrO9W) | [Barbara D'Lux](https://open.spotify.com/artist/3Akce1qlZLbGxzqAHgQLrk), [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Se Tu Gostava de Mim](https://open.spotify.com/album/7i9K8MPPdmKTC52LeYdshA) | 2:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 46 | [Banho De Água Fria \- Ao Vivo](https://open.spotify.com/track/6CxdFvd4nYkE84XWIFOYqz) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [De Pé No Chão EP1 \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4b9UmzDaH8sEiUTDsnzAK2) | 3:02 |
 | 47 | [Pior Amigo \- Ao Vivo](https://open.spotify.com/track/4NpiCwNv59ikKyLVZjJ0um) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Sem Tê Dó \(Ao Vivo\)](https://open.spotify.com/album/4K4quM3riqdCBMcaUb3eOs) | 2:57 |
 | 48 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
-| 49 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
-| 50 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
+| 49 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
+| 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`
+Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`

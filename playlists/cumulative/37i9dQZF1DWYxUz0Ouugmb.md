@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nadhif Basalamah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
 
-152 songs - 9 hr 33 min
+154 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 | 2023-04-14 |
+| [Bye](https://open.spotify.com/track/5GoL66KMxK545exM1BR43t) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Bye](https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp) | 3:46 | 2023-06-16 |  |
 | [cactus](https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:52 | 2022-09-29 | 2023-04-14 |
 | [Cara Mencintaimu](https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Cara Mencintaimu](https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF) | 4:32 | 2023-04-13 |  |
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
@@ -98,6 +99,7 @@
 | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Kinder Bloomen](https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K) | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn) | 2:49 | 2023-04-13 |  |
 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 | 2023-06-01 |  |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 | 2022-03-25 |
+| [No Direction](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [No Direction](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 | 2023-06-16 |  |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 |  |
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 | 2022-03-25 |

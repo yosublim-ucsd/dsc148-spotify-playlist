@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 179387,
+  "num_followers": 179467,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDY3MDdkN2VmMGRjNTIyNGQ1Yjc0Y2FmZGQ1OTEyYmZiYWJkYTEw",
+  "snapshot_id": "MCxhZTE5MmMzMGE4ZTI2YWFkMTYyZWViODViY2I2NWJmYTlhNTZjNTdm",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195893,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 203118,
-      "name": "American Dreams",
-      "url": "https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "a modern tragedy vol. 1",
         "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 176373,
-      "name": "American Attraction",
-      "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
+      "duration_ms": 203118,
+      "name": "American Dreams",
+      "url": "https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "21st Century Liability",
         "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 189262,
       "name": "21st Century Liability",
       "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Middle Fingers",
-      "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
+      "duration_ms": 215200,
+      "name": "Middle Fingers",
+      "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Year Zero",
         "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
       },
@@ -967,38 +983,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "We Fight",
-      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 214170,
       "name": "None Of The Above",
       "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "We Fight",
+      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "WRONG GENERATION",
-        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "WRONG GENERATION",
-      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236282,
       "name": "This Land - Single Version",
       "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "WRONG GENERATION",
+        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "WRONG GENERATION",
+      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
     },
     {
       "added_at": "2022-11-04 04:00:00",

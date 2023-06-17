@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 224381,
       "name": "Drama (feat. Drake) - Sped Up",
       "url": "https://open.spotify.com/track/4Xu9IUWFfEkW8YZw6orPGd"
@@ -2866,6 +2866,24 @@
       "duration_ms": 136942,
       "name": "My Bed - Sped Up",
       "url": "https://open.spotify.com/track/5LzjICdYWEDS6VhkRBzpAj"
+    },
+    {
+      "album": {
+        "name": "Need 2",
+        "url": "https://open.spotify.com/album/2uN1p9u0v9lA3PH4pyxygn"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157210,
+      "name": "Need 2 - fast pinegrove",
+      "url": "https://open.spotify.com/track/5v6DitH5Jdmm3L2WryVsl7"
     },
     {
       "album": {

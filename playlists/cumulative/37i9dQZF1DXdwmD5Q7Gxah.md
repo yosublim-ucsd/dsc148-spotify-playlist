@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: The Beaches
+> All the indescribable feelings that music gives you\. cover: waterbaby
 
-2,257 songs - 5 day 1 hr 26 min
+2,262 songs - 5 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Afterthought](https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:14 | 2022-06-15 | 2022-07-02 |
 | [Agreeable](https://open.spotify.com/track/0yeDzSWRH7HDeWMcXvgUaA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Agreeable](https://open.spotify.com/album/42wXjVpz6KItN0kZUhq23d) | 2:14 | 2020-09-15 | 2021-03-09 |
 | [Ain't Together](https://open.spotify.com/track/4jvtuOFXhwTJG1sQHkT1bs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ain't Together](https://open.spotify.com/album/1eMuzrmQ6CNhwcTA4eSsdN) | 3:22 | 2019-09-06 | 2019-11-14 |
-| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-31 | 2023-05-13 |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-31 |  |
 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 | 2019-07-30\* | 2023-04-01 |
 | [Alexa](https://open.spotify.com/track/7I551g3VA9cb1H3pLbTLtf) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Norwich](https://open.spotify.com/album/0TT5yQmCRI35id1THUFZUs) | 2:52 | 2020-09-22 | 2020-11-04 |
 | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 | 2022-09-28 | 2022-12-08 |
@@ -328,6 +328,7 @@
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2020-03-13 | 2021-01-12 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/15RPEE4Xjz1dQK71zdAJSA) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5Hat6LZW3N4auL7QnydoS6) | 4:38 | 2019-10-11 | 2020-01-10 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2020-03-27 | 2020-07-31 |
+| [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-06-16 |  |
 | [Can We \(with Kacy Hill\)](https://open.spotify.com/track/2D2ZV5FGcEpAfc2rEMxhV2) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Can We \(with Kacy Hill\)](https://open.spotify.com/album/2yyTVGa47LQAgbInhsQCzq) | 2:51 | 2020-10-30 | 2021-03-06 |
 | [CAN YOU HEAR THE MOON](https://open.spotify.com/track/7pcANiSH8mEKLUIPAxiSDr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The in Between](https://open.spotify.com/album/7LRUTkHa71YBzJIf0tVy3g) | 3:02 | 2019-10-25 | 2021-01-12 |
 | [Can You See Me](https://open.spotify.com/track/20Eofjc82sTl80aOVTiHKI) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/1zaci6ihWoJMVODsqdF3Q2) | 3:30 | 2022-01-14 | 2022-01-19 |
@@ -771,6 +772,7 @@
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-02 | 2023-04-15 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-06-05 | 2021-12-02 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-08 | 2022-12-24 |
+| [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 | 2023-06-16 |  |
 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2023-05-19 |  |
 | [Glad I Don't Have To \- Demo](https://open.spotify.com/track/3kG7hHmU4GhSr0WnvEUX6C) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Demos 4\-11](https://open.spotify.com/album/4whtRg1zOlh1uuyrsg6kW8) | 2:00 | 2023-04-14 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 | 2022-09-10 |
@@ -1341,6 +1343,7 @@
 | [museum](https://open.spotify.com/track/5QNw3r9D0sJwTsj6y9WskN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:37 | 2020-03-14 | 2020-07-31 |
 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 | 2023-04-21 |  |
 | [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 | 2022-03-02 | 2022-06-10 |
+| [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-16 |  |
 | [My Body](https://open.spotify.com/track/0rn10NNszBpIwTKlI1sAJY) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [My Body](https://open.spotify.com/album/3DrKHQsHhqk6qXjdswoyMa) | 4:03 | 2020-02-28 | 2020-04-28 |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2022-08-05 | 2022-08-25 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-17 | 2022-07-30 |
@@ -1385,7 +1388,7 @@
 | [NO HALO](https://open.spotify.com/track/694vvR5o19xHPhhJ5QdLN7) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 4:19 | 2022-01-14 | 2022-02-26 |
 | [NO HALO](https://open.spotify.com/track/4fGCNoJqk6Khe6YTRxwMC6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [NO HALO](https://open.spotify.com/album/1dDce0qvYA4ewr8pJMBmA5) | 4:19 | 2019-08-23 | 2019-08-30 |
 | [No Hope Generation](https://open.spotify.com/track/7H6iMweEZoMlpdNiuZf9Gi) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [No Hope Generation](https://open.spotify.com/album/3Qu99adbteKVC9spNdP29z) | 3:54 | 2019-10-25 | 2019-11-14 |
-| [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 | 2023-01-27 |  |
+| [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 | 2023-01-27 | 2023-06-17 |
 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 | 2019-07-30\* | 2019-10-10 |
 | [No Tengo](https://open.spotify.com/track/65Ll2V2QScc2SLJG7BXGNL) | [ARTHUR](https://open.spotify.com/artist/0vIme0FGc4SmFByKiV27tw) | [No Tengo](https://open.spotify.com/album/046ANSoMrvM6POKklohDo5) | 3:06 | 2020-04-22 | 2020-05-14 |
 | [No Use](https://open.spotify.com/track/2m7AO4zLdkbd5SRmjNfnwz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [No Use](https://open.spotify.com/album/0RIkHPlHX2jVXi1xo8tkhM) | 3:16 | 2020-05-29 | 2020-12-23 |
@@ -1549,6 +1552,7 @@
 | [Poor Boy](https://open.spotify.com/track/6Wvi3W1wCzyLzVSD8g7JTQ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Poor Boy](https://open.spotify.com/album/3vqeCysvSQsTrwIEaEZns6) | 2:44 | 2021-01-15 | 2021-03-06 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2019-08-02 | 2019-08-21 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-15 | 2022-02-26 |
+| [PORN ACTING\*\[FLIP\] \- Spotify Singles](https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:06 | 2023-06-16 |  |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-02 | 2022-09-17 |
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-07-02 | 2020-12-04 |
 | [Post Mates \(feat\. Cautious Clay\)](https://open.spotify.com/track/4JclCBySJNsUApnATXnhNS) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Post Mates \(feat\. Cautious Clay\)](https://open.spotify.com/album/7js7SzuPMf0qIJqnoLUoDz) | 2:35 | 2019-07-30\* | 2020-02-20 |
@@ -1694,6 +1698,7 @@
 | [Seeds](https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Seeds](https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q) | 3:39 | 2022-02-11 | 2022-04-09 |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-09-30 | 2023-02-16 |
+| [Self Service](https://open.spotify.com/track/58mrAYHhG1r89oqFK7skWu) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [French Bath](https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw) | 2:58 | 2023-06-16 |  |
 | [Selfish](https://open.spotify.com/track/4v9dyadSlrEcPmUgLrm6As) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Selfish](https://open.spotify.com/album/4MWURbEd6SKiaUFerThEX9) | 4:18 | 2020-03-13 | 2020-04-18 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-23 | 2022-06-22 |
 | [Selfluv](https://open.spotify.com/track/2IDLUO7LuKyTiLZLIEVvoG) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7), [GUS](https://open.spotify.com/artist/4ZZpN3SBlgpAT8SqIJ74nv) | [Selfluv](https://open.spotify.com/album/7yVjwaU7hkPOoP41OZhmkf) | 4:33 | 2020-03-13 | 2020-05-07 |
@@ -2256,7 +2261,7 @@
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-06-04 |
 | [yours](https://open.spotify.com/track/1FHy0U8vbNRJY6t9sk4rC2) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 3:46 | 2019-07-30\* | 2019-08-30 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-02-12 | 2021-11-13 |
-| [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 | 2023-05-12 |  |
+| [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 | 2023-05-12 | 2023-06-17 |
 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 | 2022-04-15 | 2022-10-29 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-08-26 | 2022-11-11 |

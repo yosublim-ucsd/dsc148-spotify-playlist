@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-221 songs - 14 hr 5 min
+222 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 | 2022-10-07 | 2022-11-13 |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Traveler](https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP) | 4:05 | 2022-01-21 | 2022-07-29 |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 |  |
-| [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 |  |
+| [The Boys of Summer](https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h) | 5:10 | 2023-05-26 |  |
+| [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 | 2023-06-17 |
 | [The Devil Went Down to Utah](https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv) | [Pixie and The Partygrass Boys](https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [The Devil Went Down to Utah](https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw) | 4:53 | 2023-04-14 |  |
 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 | 2023-04-14 |  |
 | [The Power of Love](https://open.spotify.com/track/09PGZSbPdDDg1K1wbltwm5) | [Rick Faris](https://open.spotify.com/artist/6VNJpZ2LKFFRPksNJsDFqJ) | [The Power of Love](https://open.spotify.com/album/6anxI2bsv3bpYpWX7eC0Xy) | 2:52 | 2023-02-24 |  |

@@ -1,13 +1,29 @@
 {
   "description": "songs that break bones",
-  "num_followers": 197830,
+  "num_followers": 197881,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGUyNGIyOTY0Y2I1MTI5Y2EyMGNmNzgzNmNiZmIyZGQxZGQyZDFi",
+  "snapshot_id": "MCxiYTY5M2UyYzgyMjQzNWFmNDk4ZjY4ZDE2OTUxOGExNGY1NmYwZTU4",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "PANIC!!!",
+        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
+    },
     {
       "added_at": "2023-06-01 18:45:33",
       "album": {
@@ -29,22 +45,6 @@
       "url": "https://open.spotify.com/track/0NB13pqRneKt5kotOZZ9ux"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "PANIC!!!",
-        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "PANIC!!!",
-      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
-    },
-    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
         "name": "SCARING THE HOES",
@@ -63,6 +63,22 @@
       "duration_ms": 142825,
       "name": "SCARING THE HOES",
       "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+    },
+    {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "GENERATIONAL CURSE",
+        "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "CURSED",
+      "url": "https://open.spotify.com/track/4XAqaTyqxBrfR1Bj5Lz7gf"
     },
     {
       "added_at": "2023-04-27 20:36:18",
@@ -95,6 +111,26 @@
       "duration_ms": 136572,
       "name": "vent",
       "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
+    },
+    {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "NOSEDIVE (feat. Jean Dawson)",
+      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -133,6 +169,22 @@
       "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "the color grey.",
+        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 138177,
+      "name": "aitd - demo",
+      "url": "https://open.spotify.com/track/5070HIdWFU8bwoh5aSmxHI"
+    },
+    {
       "added_at": "2023-04-11 14:55:07",
       "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
@@ -151,50 +203,6 @@
       "duration_ms": 199742,
       "name": "STUNTMAN (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
-    },
-    {
-      "added_at": "2023-04-19 18:31:50",
-      "album": {
-        "name": "Fluent Stutter",
-        "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "Fluent Stutter",
-      "url": "https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb"
-    },
-    {
-      "added_at": "2023-06-01 18:45:33",
-      "album": {
-        "name": "UR FRIENDS",
-        "url": "https://open.spotify.com/album/4LstSZVUvQtxsgxL7Nc06F"
-      },
-      "artists": [
-        {
-          "name": "bodyimage",
-          "url": "https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg"
-        },
-        {
-          "name": "Kamiyada+",
-          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
-        },
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        },
-        {
-          "name": "Unity Ambulette",
-          "url": "https://open.spotify.com/artist/1LMmqUjjk9wpxBtkG7K0qF"
-        }
-      ],
-      "duration_ms": 182971,
-      "name": "UR FRIENDS",
-      "url": "https://open.spotify.com/track/2ssSYoF2QXXDdDstZ67GJ1"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -247,6 +255,22 @@
       "duration_ms": 147118,
       "name": "ELECTRO_SHOCK_THERAPY",
       "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
+    },
+    {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 80624,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/03yR4z1jANazJTWMjX3rtw"
     },
     {
       "added_at": "2023-04-27 20:36:18",
@@ -345,6 +369,22 @@
       "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
     },
     {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "Ran Outta Ones",
+        "url": "https://open.spotify.com/album/6Q5WfB4ZX4q0qUl0gyFFpS"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 128923,
+      "name": "Ran Outta Ones",
+      "url": "https://open.spotify.com/track/7dMsGIkUH39T1xfaZBdbro"
+    },
+    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
         "name": "You Make Me Sick!",
@@ -359,6 +399,22 @@
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
+    },
+    {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "FYK",
+        "url": "https://open.spotify.com/album/5uemOo8DaDrXtMDiNZa4mU"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 102786,
+      "name": "FYK",
+      "url": "https://open.spotify.com/track/0CnQ7O3i1qJBPBUMdVbpsS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -415,38 +471,6 @@
       "duration_ms": 240937,
       "name": "Hot Gum",
       "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 132625,
-      "name": "Shlut",
-      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Don't Like",
-        "url": "https://open.spotify.com/album/6tNKo45gUoiwhMnsm5MeW5"
-      },
-      "artists": [
-        {
-          "name": "Izzy Spears",
-          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
-        }
-      ],
-      "duration_ms": 132758,
-      "name": "Don't Like",
-      "url": "https://open.spotify.com/track/0IuvmeIoLCaTBseJF7L7Lr"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -783,42 +807,6 @@
       "duration_ms": 192800,
       "name": "seeker missile",
       "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Short Term Agreement",
-        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        },
-        {
-          "name": "CHLOBOCOP",
-          "url": "https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL"
-        }
-      ],
-      "duration_ms": 125763,
-      "name": "Mosh O'Clock",
-      "url": "https://open.spotify.com/track/079j1FNTi5QprX2UbjuYZN"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Lord Forgive Me",
-        "url": "https://open.spotify.com/album/7BPn9yvoj98BdNOtE7L6nZ"
-      },
-      "artists": [
-        {
-          "name": "Derek Pope",
-          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO"
     },
     {
       "added_at": "2023-03-27 19:11:13",

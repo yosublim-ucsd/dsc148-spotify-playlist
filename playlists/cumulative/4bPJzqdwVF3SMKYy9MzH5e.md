@@ -4,7 +4,7 @@
 
 > 
 
-1,779 songs - 4 day 0 hr 25 min
+1,783 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 | 2021-08-05 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 | 2023-01-03 |  |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-08-05 |  |
+| [Country Dance \(arr\. for violin and piano\)](https://open.spotify.com/track/40qKTdvPQApkBitQH1dHFy) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Carl Maria von Weber](https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 4](https://open.spotify.com/album/38QrWQ9EtheWod0TKtPRSv) | 1:42 | 2023-06-16 |  |
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2021-08-05 |  |
 | [Crack Baby](https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 4:52 | 2022-11-10 |  |
 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 | 2023-01-02 |  |
@@ -618,6 +619,7 @@
 | [Girlfriend](https://open.spotify.com/track/2RPDdBOkW50nhE96JWyEIV) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Girlfriend EP](https://open.spotify.com/album/6WRoFDc1f69ilu8DLaNOsS) | 3:37 | 2021-08-05 |  |
 | [girls](https://open.spotify.com/track/7ruJp2Et5P3szRC1QeGMy6) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 1](https://open.spotify.com/album/0GWoEyDjcoMAyLl8B19gSs) | 3:18 | 2021-08-05 |  |
 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2021-08-05 |  |
+| [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2023-06-16 |  |
 | [Giving My All 2 U](https://open.spotify.com/track/4EkOA5QmlVDoq5JtSQMRxc) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Giving My All 2 U](https://open.spotify.com/album/7IjOfbF7Lb1L6i7wlHbE2Y) | 1:17 | 2022-12-30 |  |
 | [Glue](https://open.spotify.com/track/07MLvbVrMGsjzOYjJlZFD5) | [P.H.F.](https://open.spotify.com/artist/73vzL36ohUDVI5YPT5rVze) | [I Hate Myself](https://open.spotify.com/album/5JzPoUSYx7B1YGVgv79n0i) | 3:15 | 2022-10-11 |  |
 | [GO\-GO](https://open.spotify.com/track/3CeuSxS0cJheMNzqB8jfep) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [LIMBO IS BORING](https://open.spotify.com/album/5mH2Y0GOCjIS6D4b0qmikP) | 1:29 | 2023-04-19 |  |
@@ -1221,6 +1223,7 @@
 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 | 2021-08-05 |  |
 | [Pop Style](https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:32 | 2021-08-05 |  |
 | [Portrait of Ned](https://open.spotify.com/track/70iAPmTJ1w6QQq4zMYmFBy) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 1:53 | 2021-08-05 |  |
+| [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 | 2023-06-16 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-08-05 |  |
 | [POSSESSION](https://open.spotify.com/track/3TC2oGtntEwVC1Gk1npHFI) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 3:09 | 2021-08-05 |  |
 | [Post Rave Maximalist](https://open.spotify.com/track/39yRcZYyAxUsb4S7kQBpJB) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:28 | 2022-06-11 |  |
@@ -1584,6 +1587,7 @@
 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 | 2021-08-05 |  |
 | [This Is What Makes Us Girls](https://open.spotify.com/track/3ZYt97JWngJExm368cOrYc) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) | 3:58 | 2021-08-05 |  |
 | [This Light I Hold \(feat\. Jacoby Shaddix\)](https://open.spotify.com/track/3HCKXX8puISlcl8l7nxR0E) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [This Light I Hold](https://open.spotify.com/album/1JHoc7xehkMbpENGv4pbIt) | 4:08 | 2021-08-05 |  |
+| [This Night Has Opened My Eyes \- 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:41 | 2023-06-16 |  |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2021-08-05 |  |
 | [Thorns](https://open.spotify.com/track/1vYp6LJEOstTOmnF4ZxZBt) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Thorns](https://open.spotify.com/album/3SbykaLP6NUc62NbkMGGgo) | 3:54 | 2021-08-05 |  |
 | [THOT!](https://open.spotify.com/track/6wA6Ms7maL0B0qe7rx2b22) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt), [ZEDSU](https://open.spotify.com/artist/2InQo8UOogrTx73i1O3Oyr) | [MDNGHT \(SIDE B\)](https://open.spotify.com/album/3OAaWdWcSUFrCJVV2nwcC8) | 2:39 | 2021-08-05 |  |

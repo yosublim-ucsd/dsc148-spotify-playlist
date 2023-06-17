@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Vivir Sin Ti",
+        "url": "https://open.spotify.com/album/3LxoHWSzat0tBsMewBnnSt"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/5NQQoUP7bt9cr8OG4DSaXq"
+    },
+    {
+      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
       },

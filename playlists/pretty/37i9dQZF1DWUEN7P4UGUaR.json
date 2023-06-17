@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 1186,
+  "num_followers": 1207,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjgyMDEzY2VmYjk0MTdmNjMyNGIyMmRkOGFjMThmMjIxZDZmODNk",
+  "snapshot_id": "MCxhYzRkZmYwOTFlYzg2MTM3MWZkMjQ0ZjkzZmU2ZDM0MGU0ZmFmMmIy",
   "tracks": [
     {
       "added_at": "2023-06-09 05:46:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
-        "name": "Lord Have Your Way",
-        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
+        "name": "MOVE VOL 1",
+        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
       },
       "artists": [
         {
-          "name": "Efe Grace Official",
-          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
         }
       ],
-      "duration_ms": 368182,
-      "name": "Lord Have Your Way",
-      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
+      "duration_ms": 433646,
+      "name": "Glory Chants",
+      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
     },
     {
       "added_at": "2023-06-09 05:46:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
-        "name": "MOVE VOL 1",
-        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
+        "name": "Lord Have Your Way",
+        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
       },
       "artists": [
         {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+          "name": "Efe Grace Official",
+          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
         }
       ],
-      "duration_ms": 433646,
-      "name": "Glory Chants",
-      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+      "duration_ms": 368182,
+      "name": "Lord Have Your Way",
+      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
     },
     {
       "added_at": "2023-06-09 05:46:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
-        "name": "A Letter to the Wise",
-        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
-      },
-      "artists": [
-        {
-          "name": "Israel Chemphe",
-          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "A Letter to the Wise",
-      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
-    },
-    {
-      "added_at": "2023-06-09 05:46:00",
-      "album": {
         "name": "Lifted High",
         "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222791,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
+    },
+    {
+      "added_at": "2023-06-09 05:46:00",
+      "album": {
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
+      },
+      "artists": [
+        {
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
     },
     {
       "added_at": "2023-06-09 05:46:00",

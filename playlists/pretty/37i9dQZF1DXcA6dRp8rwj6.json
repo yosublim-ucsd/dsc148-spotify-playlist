@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Doja Cat)",
-  "num_followers": 428893,
+  "num_followers": 428974,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTg3M2E3MGQ4MTYzY2UzN2E1ZDY2ZTQzM2JkZjBiMDUwMzNkMDlj",
+  "snapshot_id": "MCxkOWVhNjBmYzFkY2ZlM2JhODY5NGQ4ODVlYTUxYjQzYjdmYWFiNjUz",
   "tracks": [
     {
       "added_at": "2023-06-15 15:00:00",
@@ -87,6 +87,26 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
+        "name": "PLATINUM",
+        "url": "https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "PLATINUM",
+      "url": "https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
@@ -103,6 +123,30 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
+        "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
+        "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -380,7 +424,7 @@
       "added_at": "2023-06-15 15:00:00",
       "album": {
         "name": "SURF OR DROWN Vol. 2",
-        "url": "https://open.spotify.com/album/0RBrUuupSXpyXhjsFBQtVs"
+        "url": "https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i"
       },
       "artists": [
         {
@@ -398,7 +442,7 @@
       ],
       "duration_ms": 184686,
       "name": "YKWSF",
-      "url": "https://open.spotify.com/track/0INNQVWzBXGSobnfq5u6KD"
+      "url": "https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -415,6 +459,26 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "added_at": "2023-06-15 15:00:00",
+      "album": {
+        "name": "Whole Family (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Whole Family (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"
     },
     {
       "added_at": "2023-06-15 15:00:00",

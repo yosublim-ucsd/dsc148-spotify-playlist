@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 240120,
       "name": "Algo Est\u00e1 Cambiando",
       "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 305573,
       "name": "Cosas Imposibles",
       "url": "https://open.spotify.com/track/7be5IEj6GYti0jauRKODoG"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 187493,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Timbiriche",
+        "url": "https://open.spotify.com/album/1tYN9b0KEg8DnwFz9uPF4O"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209853,
+      "name": "Hoy Tengo Que Decirte Pap\u00e1",
+      "url": "https://open.spotify.com/track/2Yh87wCTg5rmDJySNWk0Rd"
+    },
+    {
+      "album": {
         "name": "Day & Age (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 228573,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
@@ -2459,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "La Historia De Un Idolo",
+        "url": "https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190733,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/21OFSk5TSN8U9yMTMN9wih"
+    },
+    {
+      "album": {
         "name": "It's a Shame About Ray (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A"
       },
@@ -2564,7 +2600,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 359173,
       "name": "No es lo mismo",
       "url": "https://open.spotify.com/track/6yV2W1h4PZla1PE5s1zjVM"
@@ -2593,6 +2629,42 @@
     },
     {
       "album": {
+        "name": "Pal' Viejo",
+        "url": "https://open.spotify.com/album/5mw5HlOacycrGhEGEx4TTk"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Pal' Viejo",
+      "url": "https://open.spotify.com/track/2Y3rv0OdQUfw7natHxySCq"
+    },
+    {
+      "album": {
+        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
+        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Pap\u00e1",
+      "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
+    },
+    {
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/2YHKg20QOvqH2WnI7R5fzy"
       },
@@ -2604,7 +2676,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 258733,
       "name": "Para Empezar",
       "url": "https://open.spotify.com/track/1OzDyg6a1lsukiBwArG7zI"
@@ -3441,6 +3513,28 @@
     },
     {
       "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238022,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
+    },
+    {
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -3456,6 +3550,28 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "album": {
+        "name": "Un Gran Pap\u00e1",
+        "url": "https://open.spotify.com/album/3rvPPqnnHnAXnrQs2SGz6c"
+      },
+      "artists": [
+        {
+          "name": "Romeo Beltran",
+          "url": "https://open.spotify.com/artist/6vG4diX9aZFCFf9Q8x7I93"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150407,
+      "name": "Un Gran Pap\u00e1",
+      "url": "https://open.spotify.com/track/4AH45LbMXw3sfaECiPtjOx"
     },
     {
       "album": {

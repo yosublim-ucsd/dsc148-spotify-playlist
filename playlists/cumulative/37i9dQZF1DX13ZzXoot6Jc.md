@@ -2,7 +2,7 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> A collection of hits that will have you singing every word\. Cover: Old Dominion
+> A collection of hits that will have you singing every word\. Cover: Kane Brown
 
 183 songs - 9 hr 57 min
 

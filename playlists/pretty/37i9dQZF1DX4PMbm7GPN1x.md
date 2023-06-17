@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,937 likes - 48 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,954 likes - 48 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jimmy Jimmy Jimmy Aaja](https://open.spotify.com/track/0NixI1hrDpEnAhTVEqSZwl) | [Parvati Khan](https://open.spotify.com/artist/5vmqQaxyJDcbqdm8LpbjDM) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 3:05 |
 | 2 | [Yaar Bina Chain Kanha Ray](https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Saaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CknHm912teQ2WUbCqNqqy) | 4:33 |
 | 3 | [I Am A Disco Dancer](https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 7:47 |
-| 4 | [Aap Jaisa Koi \- From "Qurbani"](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 |
+| 4 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 |
 | 5 | [Auva Auva Koi Yahan Nache](https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 5:31 |
-| 6 | [Laila O Laila \- From "Qurbani"](https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:31 |
-| 7 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 |
+| 6 | [Aap Jaisa Koi \- From "Qurbani"](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 |
+| 7 | [Laila O Laila \- From "Qurbani"](https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:31 |
 | 8 | [Boom Boom](https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 5:18 |
 | 9 | [Dance Dance](https://open.spotify.com/track/7mudoo9FXpSXeK4cxR32fJ) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 5:39 |
 | 10 | [Ramba Hohoho Samba Hohoho](https://open.spotify.com/track/7fPBSUi6aSjYOlhggXfyrF) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Armaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1bAPmAnR6st4K2Jx2HIOhT) | 6:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 47 | [Bongo Bongo](https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:05 |
 | 48 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 
-Snapshot ID: `MCxlNjJkZWY2ZjcwNTdhODdhNjAzYWQ0NzUyMGY0YjI5NmY2ZTI3MGJm`
+Snapshot ID: `MCxkNDA5NTc3MDcwODRiNmVhZmE2MmRkMGQzYzhlMGQxYzliOTI1YmY3`

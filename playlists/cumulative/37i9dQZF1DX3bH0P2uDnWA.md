@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-290 songs - 16 hr 57 min
+292 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Andrew's Break](https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY) | [AlgoRythmik](https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe) | [Show Breaks](https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42) | 3:38 | 2020-10-30 |  |
 | [April Showers](https://open.spotify.com/track/04KsMCb9PZE2S0AtUU8Jhb) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:35 | 2020-10-30 | 2023-03-11 |
 | [As You Will](https://open.spotify.com/track/7aNTFhSXwUtXWP063Y46rV) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Kalletti Klub](https://open.spotify.com/artist/39PwFc1Sx9iHHqEcRPPsWQ) | [As You Will](https://open.spotify.com/album/045pd68z8017VF3kkVx8d6) | 6:18 | 2020-10-30 | 2022-05-15 |
+| [ASCENDANT BRASIER \- Balduin Remix \- Electro Swing](https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [balduin](https://open.spotify.com/artist/5FG7r0QXjzOmd4QmvyvvZN) | [ASCENDANT BRASIER \(Balduin Remix\)](https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP) | 3:18 | 2023-06-16 |  |
 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 |  |
 | [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 |  |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
@@ -87,6 +88,7 @@
 | [Grandpa's Groove \- Extended Version](https://open.spotify.com/track/2X4Nz5BFIcrwP9JmSfsY1Q) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Grandpa's Groove](https://open.spotify.com/album/6QsGjnd1oV8Pxg2n6BX50A) | 4:16 | 2020-10-30 | 2022-05-14 |
 | [Grim Grinning Ghosts \- Electro Swing Mix](https://open.spotify.com/track/63mwrImc1QBy0x5GakHQi2) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Grim Grinning Ghosts](https://open.spotify.com/album/6eyrkKesZyDBGpM5GOfi7w) | 3:03 | 2022-10-12 | 2022-11-08 |
 | [Gringos Revenge](https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Gringos Revenge](https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF) | 3:58 | 2022-07-08 |  |
+| [Groove Glider](https://open.spotify.com/track/4BNbwseqUTPlcEHCbT0hW5) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Groove Glider](https://open.spotify.com/album/1KxXWZoRJgBLC7w6avADuA) | 2:08 | 2023-06-16 |  |
 | [Gypsie Doodle](https://open.spotify.com/track/4CKlQsRoWRQHK78FyxY9CJ) | [Analogik](https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh) | [Klunserbeats \- Live](https://open.spotify.com/album/4moHHnwpoQjx4tRadbeHWu) | 3:29 | 2020-10-30 | 2022-05-14 |
 | [Gypsie Doodle \- Live](https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c) | [Analogik](https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh) | [Klunserbeats Live](https://open.spotify.com/album/4OfxTH08O6sUb7Dk3ucFGs) | 3:29 | 2022-11-07 |  |
 | [Halloween Electro Swing](https://open.spotify.com/track/7LG5jaRTwGfLyMhPTNI54Q) | [NinetyDays](https://open.spotify.com/artist/0J6iMAWRODiTuBqkhs1uDL) | [Halloween Electro Swing](https://open.spotify.com/album/37Hm1IokpTQyhL9TOUdhPP) | 1:23 | 2022-10-12 | 2022-11-08 |

@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-183 songs - 11 hr 37 min
+184 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [One Of These Things First](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:50 | 2021-08-18 |  |
 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 | 2023-04-14 |  |
 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 | 2021-08-18 | 2023-04-29 |
+| [Pagan Run](https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj) | 4:33 | 2023-06-16 |  |
 | [Pink Moon](https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 2:03 | 2021-08-18 | 2022-07-29 |
 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2022-03-11 |  |
 | [Pink Moon](https://open.spotify.com/track/6qnLo1sdhWKem5hNev1fie) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Lakehouse Life](https://open.spotify.com/album/47mQoM02y17IKagvqObh7Q) | 2:04 | 2022-03-11 | 2022-11-13 |
@@ -150,7 +151,7 @@
 | [The Boxer](https://open.spotify.com/track/499CC6TMQObjLWI6w4EC0b) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Essential Simon & Garfunkel](https://open.spotify.com/album/08KZ5fbzYRYPu4ZRPi60MT) | 5:07 | 2022-03-11 | 2022-11-13 |
 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 | 2022-03-11 |  |
 | [The First Cut Is The Deepest](https://open.spotify.com/track/04SU9LZQel0dTMjJJtBmkK) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [New Masters](https://open.spotify.com/album/07yL1Rv6ISsxgdov2SoMKV) | 3:01 | 2021-08-18 | 2022-07-29 |
-| [The First Cut Is The Deepest \- Stereo Version](https://open.spotify.com/track/44NEZGVj6bElfwpLb1LBVx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [New Masters](https://open.spotify.com/album/4sAshKeEcrdQB6EinzKVPY) | 3:00 | 2022-03-11 |  |
+| [The First Cut Is The Deepest \- Stereo Version](https://open.spotify.com/track/44NEZGVj6bElfwpLb1LBVx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [New Masters](https://open.spotify.com/album/4sAshKeEcrdQB6EinzKVPY) | 3:00 | 2022-03-11 | 2023-06-17 |
 | [The First Cut Is The Deepest \- Stereo Version](https://open.spotify.com/track/2iW3yQQPq17POuYxVtQGXx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [LOVE](https://open.spotify.com/album/1q0D3N7qYPg5WNDV1JH7tc) | 3:00 | 2022-03-11 | 2022-11-13 |
 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 | 2021-08-18 |  |
 | [The Last Thing on My Mind](https://open.spotify.com/track/6g0eFcVGt4tSJpJ2FdIQv0) | [Tom Paxton](https://open.spotify.com/artist/55kipiKplrHBCZN6L1gtrv) | [The Best Of Tom Paxton: I Can't Help Wonder Wher I'm Bound: The Elektra Years](https://open.spotify.com/album/16k8NyhaWXXs4dc3chRdrV) | 3:06 | 2021-08-18 |  |

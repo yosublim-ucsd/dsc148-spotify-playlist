@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Let Me Know (feat. CLMD)",
+        "url": "https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170582,
+      "name": "Let Me Know (feat.CLMD)",
+      "url": "https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh"
+    },
+    {
+      "album": {
         "name": "Let Me Know Feat. CLMD",
         "url": "https://open.spotify.com/album/6wYSmRineXwxLpxEEOq6vi"
       },
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 170582,
       "name": "Let Me Know Feat. CLMD",
       "url": "https://open.spotify.com/track/0EJeElSggv9GanclAqmRN8"

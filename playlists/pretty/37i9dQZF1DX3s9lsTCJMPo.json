@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56756,
+  "num_followers": 56806,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjRmNzA2MTA4ZDc2MzU5MzA3MWVmYjA4Y2FlZDE2YjRjYjdjYzUw",
+  "snapshot_id": "MCwzYTg5Y2NlMWU1MjQxYjY1NGM5ZDNjZTk2NGJmNjc2MzBmNWQzNmY2",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Klateye",
-        "url": "https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "Swing Engine",
-      "url": "https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Far from Finished",
         "url": "https://open.spotify.com/album/27OLlsKKYRTGevNCQXRENI"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 231818,
       "name": "Far from Finished",
       "url": "https://open.spotify.com/track/2ikHAZHXI1a5337gfUgEGn"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Klateye",
+        "url": "https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "Swing Engine",
+      "url": "https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02"
-      },
-      "artists": [
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Time to Wine",
-      "url": "https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "The Very Best of Super Blue",
         "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 393693,
       "name": "Get Something and Wave",
       "url": "https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02"
+      },
+      "artists": [
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Time to Wine",
+      "url": "https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Carnival Party",
         "url": "https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 305040,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (We Love De)",
-      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 292826,
       "name": "Ragga Poom Poom",
       "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Lovey",
+          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Bitein Incex (We Love De)",
+      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",

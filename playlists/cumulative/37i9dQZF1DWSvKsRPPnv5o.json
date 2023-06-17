@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
         "name": "Ay Caramba",
         "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
       },
@@ -1050,6 +1068,32 @@
       "duration_ms": 195900,
       "name": "Beethoven (feat. YN Jay)",
       "url": "https://open.spotify.com/track/60DNcGqrNtk2JNuwlKLOH3"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/1rIyOSIOfwcasBuLsTNKZ6"
+      },
+      "artists": [
+        {
+          "name": "Khalid Brooks",
+          "url": "https://open.spotify.com/artist/0xyS0bQtcJRUsf6LVxHmqT"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/4ND4rIL6KQY7O7mtBu7pL8"
     },
     {
       "album": {
@@ -1584,7 +1628,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 185000,
       "name": "Chaka Khan (feat. BabyTron)",
       "url": "https://open.spotify.com/track/33ydbei58nqa2j621WAU5B"
@@ -4053,6 +4097,28 @@
     },
     {
       "album": {
+        "name": "Hoedown (feat. Zoe Osama)",
+        "url": "https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        },
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133625,
+      "name": "Hoedown (feat. Zoe Osama)",
+      "url": "https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3"
+    },
+    {
+      "album": {
         "name": "Hollandaise",
         "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
       },
@@ -5789,6 +5855,32 @@
     },
     {
       "album": {
+        "name": "SURF OR DROWN Vol. 2",
+        "url": "https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176077,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/1gvuQuIOv3YAtxwR89XMuI"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -5957,6 +6049,28 @@
     },
     {
       "album": {
+        "name": "My Skeleethe (Remix) [feat. Vinny West]",
+        "url": "https://open.spotify.com/album/5iXydPF3kdtww8uYs5DNsP"
+      },
+      "artists": [
+        {
+          "name": "T-Jxint",
+          "url": "https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw"
+        },
+        {
+          "name": "Vinny West",
+          "url": "https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "My Skeleethe (Remix) [feat. Vinny West]",
+      "url": "https://open.spotify.com/track/4aAa4pF7vaB6KH8ykcl5zK"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -6066,7 +6180,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 149333,
       "name": "Need Love",
       "url": "https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3"
@@ -6679,6 +6793,28 @@
     },
     {
       "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/26G0JHQMYemChP8VZG8Xr9"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148237,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/4QnPv3nsrYQSlbw74mtV6o"
+    },
+    {
+      "album": {
         "name": "One of Those (feat. Eric Bellinger)",
         "url": "https://open.spotify.com/album/00uubRZtJFzz0eJx863yhb"
       },
@@ -7115,6 +7251,28 @@
     },
     {
       "album": {
+        "name": "PLATINUM",
+        "url": "https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "PLATINUM",
+      "url": "https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu"
+    },
+    {
+      "album": {
         "name": "Play 4 Keeps",
         "url": "https://open.spotify.com/album/09dC738ZgpMnfYDzfKZ7mD"
       },
@@ -7466,6 +7624,32 @@
       "duration_ms": 139594,
       "name": "Red on My Mind",
       "url": "https://open.spotify.com/track/1xjlu7pqQoqYRkFzSQKLr6"
+    },
+    {
+      "album": {
+        "name": "Right In (Remix)",
+        "url": "https://open.spotify.com/album/1SNOAB0CY99sQDIscIzSN6"
+      },
+      "artists": [
+        {
+          "name": "Azjah",
+          "url": "https://open.spotify.com/artist/3VFIf5Tn1WYGKodgtyVwjL"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Right In - Remix",
+      "url": "https://open.spotify.com/track/5swV28xY13yBRgZMiiuVlS"
     },
     {
       "album": {
@@ -9140,7 +9324,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 174148,
       "name": "Vacuum",
       "url": "https://open.spotify.com/track/03eLuz49zXDlOOtDTUe2H2"

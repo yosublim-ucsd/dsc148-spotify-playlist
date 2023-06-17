@@ -34177,6 +34177,24 @@
     },
     {
       "album": {
+        "name": "Floatation Device",
+        "url": "https://open.spotify.com/album/4HvFxsCJg7P8zQvoFnsph8"
+      },
+      "artists": [
+        {
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98007,
+      "name": "Floatation Device",
+      "url": "https://open.spotify.com/track/01tvFzm8PrgWSwpNlrbBAd"
+    },
+    {
+      "album": {
         "name": "Welcome to My Lofi House",
         "url": "https://open.spotify.com/album/24pAcWM8tu9Py1KsQ8Wq51"
       },
@@ -37466,7 +37484,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 143157,
       "name": "Gekkoland",
       "url": "https://open.spotify.com/track/5lAk6M4AYvDkL04iAQr09L"
@@ -40684,7 +40702,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 110923,
       "name": "Gut Feeling",
       "url": "https://open.spotify.com/track/7dHewWL2NRf7acZxn9GVwZ"
@@ -47160,7 +47178,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 138666,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/2hIv4uHQrYsV0Yv55jLucG"
@@ -55942,7 +55960,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 164079,
       "name": "Long Havel Beach",
       "url": "https://open.spotify.com/track/5rjKTV3kwTTjt3GZ4If1Wh"
@@ -58460,7 +58478,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 138326,
       "name": "Mad Hatters",
       "url": "https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL"
@@ -61534,7 +61552,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Mind Your Manners",
       "url": "https://open.spotify.com/track/7tfMILJR18oxlNneyQny0W"
@@ -107102,7 +107120,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"

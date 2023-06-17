@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Lil Durk, J\. Cole
+> The tracks you just keep pulling up\. Cover: A Boogie Wit da Hoodie
 
 674 songs - 1 day 10 hr 38 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
-  "num_followers": 116171,
+  "num_followers": 116209,
   "original_name": "Worship 2023",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "NzAwNiw4YmI2YjFmMDNhN2MzMzNlMWMyNjhkMDYxZWUxYjYxZjkyMzgyNjBk",
+  "snapshot_id": "NzAwOCw4NmRjYjIzMTMyZmFlNzI0MWNkZjNhZGI5MzQ1MGIxMmMwZTgyYmJi",
   "tracks": [
     {
       "added_at": "2023-06-02 16:36:41",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2"
     },
     {
+      "added_at": "2023-06-16 13:34:45",
+      "album": {
+        "name": "Already Done (Live)",
+        "url": "https://open.spotify.com/album/0BAPnlpEdjdm7EnSdriQkG"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "duration_ms": 455173,
+      "name": "Already Done - Live",
+      "url": "https://open.spotify.com/track/4TIBopYUMni6ZJbsxrGExB"
+    },
+    {
       "added_at": "2023-05-09 14:59:05",
       "album": {
         "name": "Live Again",
@@ -251,26 +267,6 @@
       "duration_ms": 388875,
       "name": "Call On The Name - Live",
       "url": "https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR"
-    },
-    {
-      "added_at": "2023-05-26 14:23:46",
-      "album": {
-        "name": "He Is Lord (Live)",
-        "url": "https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h"
-      },
-      "artists": [
-        {
-          "name": "Michael Bethany",
-          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
-        },
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        }
-      ],
-      "duration_ms": 457906,
-      "name": "He Is Lord - Live",
-      "url": "https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9"
     },
     {
       "added_at": "2023-05-09 14:59:05",
@@ -1631,6 +1627,26 @@
       "duration_ms": 308000,
       "name": "Run To The Father",
       "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
+    },
+    {
+      "added_at": "2023-05-26 14:23:46",
+      "album": {
+        "name": "He Is Lord (Live)",
+        "url": "https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        },
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        }
+      ],
+      "duration_ms": 457906,
+      "name": "He Is Lord - Live",
+      "url": "https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9"
     },
     {
       "added_at": "2023-05-09 14:59:05",

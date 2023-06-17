@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Downtown Kayoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,015 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,020 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Find My Way](https://open.spotify.com/track/1YxLGmzSa9vHr4RY2zyAl6) | [Sam Cotton](https://open.spotify.com/artist/2ACK2OQUurBPHF4cLbBqtd) | [Find My Way](https://open.spotify.com/album/1sSnupSMrtldEfb0q5UEdV) | 3:38 |
 | 80 | [Born By The Sun](https://open.spotify.com/track/4ugh37nPWyIwlbofMSwssa) | [TIANNA](https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM) | [Born By The Sun](https://open.spotify.com/album/2R8iaQmX93HEqIEMKX2Lay) | 2:54 |
 
-Snapshot ID: `MCw3MmQ4NTc3NjM1N2RiYTAyNWQwMGVjNjdmYmQ2YWEwZTliMDg1YWUx`
+Snapshot ID: `MCxmODI1NzljMGQ1NjRiMDQxM2Y1YzdiMGVkZjdmYmM5ZGFlZjVmNjY3`

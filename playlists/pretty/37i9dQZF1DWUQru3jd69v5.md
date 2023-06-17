@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Mikush e Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,718 likes - 51 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,744 likes - 51 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [STESSE FACCE](https://open.spotify.com/track/0UJ6xWYTnMbTafdC8SVcHK) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO) | [STESSE FACCE](https://open.spotify.com/album/0UmjCO5Z5IjQzJfaDzCjXZ) | 2:21 |
 | 51 | [Porto Milano](https://open.spotify.com/track/1vat8RefP5Zr4fFNpWflnV) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Porto Milano](https://open.spotify.com/album/6M2wTpJqAVnWgn5SDRT75v) | 2:40 |
 
-Snapshot ID: `MCxhZWNmZjI0NWE1MTllMTlhZjNkMWUxNzhjNjA0Zjk0YWU1ZjNlNDlm`
+Snapshot ID: `MCw0MTk4NjQ5MWYxZGUyZDUxMjllODY2MWIyZTllYjhiZmY3MjBhMTlj`

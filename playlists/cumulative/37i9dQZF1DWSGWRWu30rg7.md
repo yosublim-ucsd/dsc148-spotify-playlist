@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Janita Gabriela
 
-2,023 songs - 5 day 3 hr 54 min
+2,024 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [Love Trap](https://open.spotify.com/track/5qvieOF6pexnKB4571DjbK) | [Zufari](https://open.spotify.com/artist/5L23AHOnwbJd5mwFpOxhJF) | [Love Trap](https://open.spotify.com/album/1WDsLw8q77uB86PnIfYTCF) | 4:51 | 2022-01-27 | 2022-02-11 |
 | [Love With You](https://open.spotify.com/track/051zwt3dGIH17I5cDq5BDW) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Love With You](https://open.spotify.com/album/0Dbyje63KQESgALlPq2483) | 3:14 | 2022-08-25 | 2022-09-09 |
 | [Love You Back](https://open.spotify.com/track/4KcstKa2bJ4IYtinSKL4uB) | [Sabrina Abelia](https://open.spotify.com/artist/37tmGhZpbaCpJOmFkx0stM), [Rere Putri](https://open.spotify.com/artist/154l0JZRywb0Im9X8WvGxJ) | [Love You Back](https://open.spotify.com/album/1Yqac3JPJfDkeEdslqW12v) | 3:29 | 2022-04-21 | 2022-05-13 |
+| [Love, Tapi Love?](https://open.spotify.com/track/4LT4AAY8bwV3oSgYlz7Bpk) | [Sufte](https://open.spotify.com/artist/6w0CDDNncA7yowyrGU3spX) | [Love, Tapi Love?](https://open.spotify.com/album/1KrHIu6qgaUxMnHSyGx3Nt) | 2:03 | 2023-06-15 |  |
 | [Lovecruise](https://open.spotify.com/track/0QnYOnQ0MOOxVsI1sJf6nh) | [8rook D](https://open.spotify.com/artist/7zMK0MTIETByxESanmjv3Z), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Lovecruise](https://open.spotify.com/album/2YIPxvgFE3xWilsWggSUTh) | 4:03 | 2023-03-16 | 2023-03-31 |
 | [lovelike](https://open.spotify.com/track/6gXKCkrw6J9ffAaBmBye13) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovelike](https://open.spotify.com/album/6uGAxRu3O5vN6NBFw4UvMP) | 3:29 | 2023-03-23 | 2023-04-07 |
 | [Luapkan Ceritakan](https://open.spotify.com/track/71YQA0rj2O3Zr7zmL7ccZ0) | [Fia](https://open.spotify.com/artist/7skuGUZSr7cVapTcRWPbXo) | [Luapkan Ceritakan](https://open.spotify.com/album/7fakCuPLm7M8Dcxpn9krpA) | 3:56 | 2023-05-11 | 2023-05-26 |

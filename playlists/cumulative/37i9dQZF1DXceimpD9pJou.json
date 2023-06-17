@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto: <a href=\"https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO?si=FOQ53ziBQ06THOe95rVvxQ\">Farruko</a>",
+  "description": "Las mejores nuevas canciones cristianas.  Foto: <a href=\"https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=0ZdN5-a_QWmSP6i1m7mklA\">Majo y Dan</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 210298,
       "name": "Alas de Vida",
       "url": "https://open.spotify.com/track/2WXJlxAkRp4fuLLVKmy5Jb"
@@ -1019,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "Amor De Amores",
+        "url": "https://open.spotify.com/album/6fd3ez5we6uN83zDEnucRk"
+      },
+      "artists": [
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        },
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309297,
+      "name": "Amor De Amores",
+      "url": "https://open.spotify.com/track/2BzwBDwYdOiHAVLXEWXP4k"
+    },
+    {
+      "album": {
         "name": "Tu Siervo Pa",
         "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
       },
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201365,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/699QJTLdLlnYRHkhwmZJgk"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 156718,
       "name": "AMOR+VIDA",
       "url": "https://open.spotify.com/track/5cHdgnepUFrwFnr7RqYK0M"
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 224532,
       "name": "Bebo de Ti",
       "url": "https://open.spotify.com/track/5Uf2MoFiWWhPjdYWpGbbck"
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216000,
       "name": "Como Vuelvo A Ti",
       "url": "https://open.spotify.com/track/7A3gGBSNIYZi6SWibd4dPW"
@@ -7682,7 +7704,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 237225,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/1U8lmL5OO1qj4hRyP8JLs8"
@@ -7708,6 +7730,32 @@
       "duration_ms": 185700,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/6wlSmauAPAz6b5mlrbqYl5"
+    },
+    {
+      "album": {
+        "name": "Gracias Se\u00f1or",
+        "url": "https://open.spotify.com/album/5SoqEQ87ZOxX5oj4rAnnna"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        },
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Gracias Se\u00f1or",
+      "url": "https://open.spotify.com/track/6itcIMSlZ9JcfqU7aalQs8"
     },
     {
       "album": {
@@ -8024,6 +8072,24 @@
       "duration_ms": 192959,
       "name": "Hay Fiesta",
       "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
+    },
+    {
+      "album": {
+        "name": "Hay un hombre",
+        "url": "https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Hay un hombre",
+      "url": "https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU"
     },
     {
       "album": {
@@ -9280,6 +9346,32 @@
       "duration_ms": 197619,
       "name": "La Verdad - Remix",
       "url": "https://open.spotify.com/track/3AH4bfHW8Ni0BnUrWiVHIX"
+    },
+    {
+      "album": {
+        "name": "La Voz de Mi Amado",
+        "url": "https://open.spotify.com/album/6bHyETD33xWL0q3UlxUvCn"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550353,
+      "name": "La Voz de Mi Amado",
+      "url": "https://open.spotify.com/track/7dhXKggKf51fT6g8XMIJSj"
     },
     {
       "album": {
@@ -12800,7 +12892,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 176000,
       "name": "No Lo Olvid\u00e9",
       "url": "https://open.spotify.com/track/2agc1xjTgjC6XZeNgOCJLQ"
@@ -13811,6 +13903,24 @@
     },
     {
       "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
+    },
+    {
+      "album": {
         "name": "Pasar\u00e1",
         "url": "https://open.spotify.com/album/3EeLEyFYny1GW4HHikMdNs"
       },
@@ -14012,7 +14122,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 137750,
       "name": "Pero Tengo a Cristo",
       "url": "https://open.spotify.com/track/7E09NVzWLTPXkXcQebpHsJ"
@@ -15772,6 +15882,24 @@
       "duration_ms": 252977,
       "name": "Salmo 34",
       "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
+    },
+    {
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/69CG9U50hJ4GCMgznnuMul"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219325,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/089t5pDMp8YFlmo2z2L67s"
     },
     {
       "album": {
@@ -18716,6 +18844,28 @@
       "duration_ms": 190000,
       "name": "Tu Presencia",
       "url": "https://open.spotify.com/track/7jarOv2jUeCIYS2llo3oQS"
+    },
+    {
+      "album": {
+        "name": "Tu Presencia Es Mi Jard\u00edn",
+        "url": "https://open.spotify.com/album/7i96nrnax2svsyl3Lwrtr1"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1273166,
+      "name": "Tu Presencia Es Mi Jard\u00edn",
+      "url": "https://open.spotify.com/track/6fW2AorInVedtVTPSZDeGi"
     },
     {
       "album": {

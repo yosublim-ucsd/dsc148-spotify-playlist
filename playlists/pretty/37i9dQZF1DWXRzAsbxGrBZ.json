@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 20158,
+  "num_followers": 20261,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmZiOTczOTZjMmM4YjMxNDkzZGYwOTM2MWQwYjljYTMzMjYxYWQ1",
+  "snapshot_id": "MCxhYzY0ZGY5NjZiZDU0YWMwOWM3ZmRjZjdhOTJhYWFiOGMzYjFlMDE0",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "The Savior",
         "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 411127,
       "name": "The Savior - Original Mix",
       "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "7 Steps (Soulcalmic Mingle)",
-        "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
-      },
-      "artists": [
-        {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "7 Steps - Soulcalmic Mingle",
-      "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Solidarity",
         "url": "https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 527020,
       "name": "Captured by Mizolution",
       "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "7 Steps (Soulcalmic Mingle)",
+        "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
+      },
+      "artists": [
+        {
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "7 Steps - Soulcalmic Mingle",
+      "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
     }
   ],
   "unique_name": "Deep House Session",

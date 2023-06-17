@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-281 songs - 17 hr 38 min
+282 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,12 +130,13 @@
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 3:42 | 2022-07-22 |  |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 | 2022-07-29 |
 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 | 2021-12-17 |  |
+| [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
 | [I've Got To Get To You](https://open.spotify.com/track/2PpNNVB9URTlrT2UXeQGRF) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Joe Menza](https://open.spotify.com/artist/1gPgK6skp54CgYq8YcLr82), [Mike Menza](https://open.spotify.com/artist/1XQaucePJJOR3zirPvgFRw) | [I've Got To Get To You](https://open.spotify.com/album/25o7Q8884cy010DPlzRtMw) | 5:07 | 2021-12-17 |  |
 | [If I Was The Devil](https://open.spotify.com/track/0iG8xWaMt2FdcNOkOZiz7H) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 2:34 | 2021-12-17 |  |
 | [Indestructible](https://open.spotify.com/track/3vCj0QDwcJBJoCteRG1kfh) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Indestructible](https://open.spotify.com/album/5xDOU4dhO6MyAaKQJWP570) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [Indestructible](https://open.spotify.com/track/0uxAAkgJwHFyGvoRbuCXLm) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:46 | 2022-07-22 |  |
 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 | 2021-12-17 |  |
-| [It Feels Good](https://open.spotify.com/track/3XwxEVxE7Z1w8gmvCh4fOF) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Spark](https://open.spotify.com/album/6jUadvmd8sF6uU4lF2E8Ho) | 2:39 | 2022-07-22 |  |
+| [It Feels Good](https://open.spotify.com/track/3XwxEVxE7Z1w8gmvCh4fOF) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Spark](https://open.spotify.com/album/6jUadvmd8sF6uU4lF2E8Ho) | 2:39 | 2022-07-22 | 2023-06-17 |
 | [It Feels Good](https://open.spotify.com/track/0WpeWBfFMp56vgpo4lMG5z) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [It Feels Good](https://open.spotify.com/album/6zFQbhCyLdxMvcKJAJw9mL) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [It Runs Together](https://open.spotify.com/track/55b9agxjfRMKHdFOYewTij) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [It Runs Together](https://open.spotify.com/album/7lMStVkckd5fHWzzhdsZ6N) | 3:22 | 2021-12-17 |  |
 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 |  |

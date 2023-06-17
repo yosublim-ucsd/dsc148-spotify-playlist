@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "3000 Miles",
+        "url": "https://open.spotify.com/album/0cXvkaKVa6r0HQCrNH6qMV"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215178,
+      "name": "3000 Miles",
+      "url": "https://open.spotify.com/track/1mgPpSsf0Hy8kXlCCVLY6o"
+    },
+    {
+      "album": {
         "name": "4Runner",
         "url": "https://open.spotify.com/album/7oJWGHkAOKDdnyvlNJj0i6"
       },
@@ -1520,7 +1542,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 175304,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X"
@@ -2519,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Boy Of The Month",
+        "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106382,
+      "name": "Boy Of The Month",
+      "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
+    },
+    {
+      "album": {
         "name": "BOYFRIEND KILLER",
         "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
       },
@@ -2984,7 +3024,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 228874,
       "name": "Call My Own",
       "url": "https://open.spotify.com/track/4bQpveBEjy4EzOXzk79Fmn"
@@ -6367,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "First to Know",
+        "url": "https://open.spotify.com/album/7dAtkiATptjN8rpszcVX4C"
+      },
+      "artists": [
+        {
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233832,
+      "name": "First to Know",
+      "url": "https://open.spotify.com/track/0UjmsX8YB7grhAGVZBekZe"
+    },
+    {
+      "album": {
         "name": "Fish Maan",
         "url": "https://open.spotify.com/album/0LgNeIrO1osf37UbuW1BIa"
       },
@@ -8082,7 +8140,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 192162,
       "name": "I DON'T WANNA TALK",
       "url": "https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq"
@@ -8882,6 +8940,24 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/2MtZOTkjR68Dfxps7mmMP3"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/41yayaS91LRsTwypCJHrTB"
     },
     {
       "album": {
@@ -9962,7 +10038,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 173073,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u"
@@ -11343,6 +11419,24 @@
     },
     {
       "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167492,
+      "name": "My Big Day",
+      "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
+    },
+    {
+      "album": {
         "name": "My Echo",
         "url": "https://open.spotify.com/album/3y33CXQRWrRZttJV1hXl2L"
       },
@@ -12238,7 +12332,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
@@ -14240,7 +14334,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 265160,
       "name": "She's on Fire",
       "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
@@ -14788,10 +14882,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 183312,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
+    },
+    {
+      "album": {
+        "name": "Sugar the Bruise",
+        "url": "https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183312,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP"
     },
     {
       "album": {
@@ -15174,7 +15286,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 189283,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI"
@@ -15286,6 +15398,24 @@
       "duration_ms": 199626,
       "name": "Stop Making This Hurt",
       "url": "https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK"
+    },
+    {
+      "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "album": {
@@ -18234,7 +18364,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 177026,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"

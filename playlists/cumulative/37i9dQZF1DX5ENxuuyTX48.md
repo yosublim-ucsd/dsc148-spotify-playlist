@@ -2,7 +2,7 @@
 
 ### [OTW ](https://open.spotify.com/playlist/37i9dQZF1DX5ENxuuyTX48)
 
-> wru? OTW! Cover: Paul Partohap, Kaleb J
+> wru? OTW! Cover: Rayi Putra, Kaleb J
 
 255 songs - 16 hr 3 min
 

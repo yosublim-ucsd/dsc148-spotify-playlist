@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,403 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,389 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,27 +67,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
 | 58 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 59 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 60 | [Whatever's Inconvenient](https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Whatever's Inconvenient](https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z) | 4:27 |
-| 61 | [Flash Flood](https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Flash Flood](https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq) | 2:39 |
-| 62 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
-| 63 | [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 |
+| 60 | [Flash Flood](https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Flash Flood](https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq) | 2:39 |
+| 61 | [Whatever's Inconvenient](https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Whatever's Inconvenient](https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z) | 4:27 |
+| 62 | [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 |
+| 63 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 64 | [Інші ми](https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Інші ми](https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez) | 2:09 |
-| 65 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
-| 66 | [Festival](https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Festival](https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE) | 3:21 |
+| 65 | [Festival](https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Festival](https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE) | 3:21 |
+| 66 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
 | 67 | [I'm Alright](https://open.spotify.com/track/2tUMbEwyGN5hvkJeWxm8Ea) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [I’m Alright](https://open.spotify.com/album/3gMSIwm7qqZjDGZHekyXct) | 2:36 |
 | 68 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |
-| 69 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 70 | [Sombrilla](https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Sombrilla](https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP) | 3:00 |
-| 71 | [Asfalos & Mporo](https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI) | [Asfalos & Mporo](https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906) | 3:50 |
+| 69 | [Sombrilla](https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Sombrilla](https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP) | 3:00 |
+| 70 | [Asfalos & Mporo](https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI) | [Asfalos & Mporo](https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906) | 3:50 |
+| 71 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 72 | [SOLO](https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [SOLO](https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP) | 2:58 |
 | 73 | [Summer Really Hurt Us](https://open.spotify.com/track/11DdY87mhLta5MmtZLmtGo) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Time Machine](https://open.spotify.com/album/6YRsZur2KmT2HbrCbVHBd6) | 2:48 |
 | 74 | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6) | 3:24 |
 | 75 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 |
-| 76 | [Numaani](https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Numaani](https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1) | 5:08 |
-| 77 | [Всі дівчата хороші](https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Всі дівчата хороші](https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv) | 2:39 |
+| 76 | [Всі дівчата хороші](https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Всі дівчата хороші](https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv) | 2:39 |
+| 77 | [Numaani](https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Numaani](https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1) | 5:08 |
 | 78 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 |
-| 79 | [Về Với Em](https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn) | [Võ Hạ Trâm](https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga) | [Về Với Em](https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D) | 4:29 |
-| 80 | [Hej mami](https://open.spotify.com/track/79Ii6G6QE6wuntxR6OaIZI) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [Hej mami](https://open.spotify.com/album/3zbG30jxcuAUfocMYC5FhH) | 2:48 |
-| 81 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 |
+| 79 | [Hej mami](https://open.spotify.com/track/79Ii6G6QE6wuntxR6OaIZI) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [Hej mami](https://open.spotify.com/album/3zbG30jxcuAUfocMYC5FhH) | 2:48 |
+| 80 | [Về Với Em](https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn) | [Võ Hạ Trâm](https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga) | [Về Với Em](https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D) | 4:29 |
+| 81 | [ย้อนแชท \(Your Chat\)](https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ย้อนแชท \(Your Chat\)](https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR) | 3:40 |
 
-Snapshot ID: `MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy`
+Snapshot ID: `MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2`

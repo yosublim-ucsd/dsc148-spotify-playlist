@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "To the Floor",
+        "url": "https://open.spotify.com/album/4jErxs8jb4HKIy1zMVijgI"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "To the Floor",
+      "url": "https://open.spotify.com/track/4Y65LW1pGyeZZ8GadQsiaj"
+    },
+    {
+      "album": {
         "name": "Trust and Faith",
         "url": "https://open.spotify.com/album/3B0Tscyvv4uOmn7HpB3XiL"
       },

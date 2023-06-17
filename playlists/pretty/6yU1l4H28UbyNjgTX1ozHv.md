@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,161 likes - 118 songs - 6 hr 27 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,163 likes - 118 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 7 | [Use Somebody \- Acoustic](https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm) | 2:59 |
 | 8 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 |
 | 9 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
-| 10 | [You're the One That I Want \- Acoustic](https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [You're the One That I Want \(Acoustic\)](https://open.spotify.com/album/5imKUMucWByXmUaOhQt151) | 2:31 |
+| 10 | [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 |
 | 11 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
 | 12 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA) | 2:24 |
 | 13 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 27 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ) | 2:23 |
 | 28 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
 | 29 | [What's Love Got to Do With It \- Acoustic](https://open.spotify.com/track/3MvFb6pDujgveRaMlTJQ8A) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [What's Love Got to Do With It \(Acoustic\)](https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X) | 2:41 |
-| 30 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
-| 31 | [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 |
+| 30 | [You're the One That I Want \- Acoustic](https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [You're the One That I Want \(Acoustic\)](https://open.spotify.com/album/5imKUMucWByXmUaOhQt151) | 2:31 |
+| 31 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
 | 32 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
 | 33 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 |
 | 34 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 117 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 118 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 
-Snapshot ID: `MTAzNSxlMjBkYTMxYzM3NDc0NjExN2EzNGYxZDYzZTg0YjkzZGE5Y2MzOWU3`
+Snapshot ID: `MTAzOSxjZGYzNTU5YjNjMTU0OTJjYmYxNGMxNWVjNWY0YWFjYjE5ZWY2YzM0`

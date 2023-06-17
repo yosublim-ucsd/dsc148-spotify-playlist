@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-113 songs - 6 hr 47 min
+114 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 |  |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
 | [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 |  |
+| [Thamara Poovai](https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Thamara Poovai](https://open.spotify.com/album/16utbSdG0wcQcTaGvHk7c5) | 5:30 | 2023-06-16 |  |
 | [Thanuvantha](https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Thanuvantha](https://open.spotify.com/album/7eTvSqGRxg5jMdSqjvasKa) | 3:54 | 2022-07-18 |  |
 | [The Break\-Up Song](https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp) | [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [The Break\-Up Song](https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG) | 3:38 | 2023-02-14 | 2023-05-23 |
 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:45 | 2023-06-05 |  |

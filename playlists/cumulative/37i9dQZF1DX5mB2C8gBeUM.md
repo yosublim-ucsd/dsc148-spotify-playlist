@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Diplo
+> Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-353 songs - 17 hr 53 min
+355 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Love Is](https://open.spotify.com/track/6nOb6M0kJ4sXEDvhaSVg4t) | [Jeremy Greene](https://open.spotify.com/artist/53QhxJatnLiaX50Z85afkV) | [Love Is](https://open.spotify.com/album/1pUYdKSJZapIhHk8OlV61O) | 3:15 | 2021-12-10 | 2022-02-19 |
 | [Love Makes You Blind](https://open.spotify.com/track/1YKtrSyiY3w56bpgIEW3ND) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/77YdXSBVy1uKOSariJkZET) | 2:38 | 2022-11-18 | 2023-05-04 |
 | [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 | 2022-01-14 | 2022-12-15 |
+| [Low Life](https://open.spotify.com/track/5KKwdRD3ziZJFqmDEZ25Ny) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Low Life](https://open.spotify.com/album/1mX03pKOvjJlcODjeyD2lt) | 2:51 | 2023-06-16 |  |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-10 | 2022-01-01 |
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2021-12-10 | 2022-01-08 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |
@@ -221,6 +222,7 @@
 | [Mile a Minute](https://open.spotify.com/track/32TXXuxoLABBCPwIzhcQji) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/5c7RiwpntE5FEcZbsj8kU4) | 3:15 | 2023-05-12 |  |
 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 | 2022-09-01 | 2023-05-17 |
 | [Mirror Mirror](https://open.spotify.com/track/056K0FrfQlXzBvmjUOirnQ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Mirror Mirror](https://open.spotify.com/album/72dQeejmZ6ewp4C8DTicwO) | 2:39 | 2021-12-10 | 2022-01-08 |
+| [Missing Nothing](https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Missing Nothing](https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx) | 2:36 | 2023-06-16 |  |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 | 2023-06-03 |
 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 | 2022-05-20 |  |
 | [Mossy Oak](https://open.spotify.com/track/5UkFiwN3kpaXVddrSsy7gD) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Mossy Oak](https://open.spotify.com/album/73NsO8CqAGq4lykIq8nQYR) | 1:50 | 2022-11-11 | 2023-01-04 |

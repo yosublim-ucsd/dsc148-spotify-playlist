@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 230647,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/1rHP6sE5v4NJbRlqTc0PxF"
@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131616,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU"
+    },
+    {
+      "album": {
         "name": "At Capolinea (Remastered)",
         "url": "https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r"
       },
@@ -2032,6 +2050,24 @@
       "duration_ms": 266750,
       "name": "Dream Drops",
       "url": "https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
     },
     {
       "album": {
@@ -2308,10 +2344,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 268767,
       "name": "Farewell For Now",
       "url": "https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb"
+    },
+    {
+      "album": {
+        "name": "Fatha Fig Ya (Food For Thought)",
+        "url": "https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171545,
+      "name": "Fatha Fig Ya (Food For Thought)",
+      "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
     },
     {
       "album": {
@@ -3434,7 +3492,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 437716,
       "name": "Icarus (Live At The Piano)",
       "url": "https://open.spotify.com/track/7GssdltEekRvQsIV6T5TJg"
@@ -3534,6 +3592,32 @@
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "album": {
+        "name": "In My Heart (Paul Woolford Remixes)",
+        "url": "https://open.spotify.com/album/4FHSJua0erbpegEANcd7Be"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241122,
+      "name": "In My Heart - Paul Woolford Remix / Edit",
+      "url": "https://open.spotify.com/track/7EhiB1HtMI2Cm25Sa45hmz"
     },
     {
       "album": {
@@ -3816,7 +3900,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 190500,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai"
@@ -4196,10 +4280,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 250849,
       "name": "Mama Said Knock You Out (Metal Version)",
       "url": "https://open.spotify.com/track/089rdyXtU5ZcG36T4PsJN6"
+    },
+    {
+      "album": {
+        "name": "Leo Metal, Vol. 43",
+        "url": "https://open.spotify.com/album/03EgqAmPfKglKuaJpJyEoN"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250849,
+      "name": "Mama Said Knock You Out (Metal Version)",
+      "url": "https://open.spotify.com/track/0idGcEMzwxFcq0fIaEaw82"
     },
     {
       "album": {
@@ -4218,6 +4320,24 @@
       "duration_ms": 201574,
       "name": "Mami",
       "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
+    },
+    {
+      "album": {
+        "name": "The Fourth Tuning",
+        "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281404,
+      "name": "Man! I Feel Like a Woman!",
+      "url": "https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j"
     },
     {
       "album": {
@@ -4280,7 +4400,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212000,
       "name": "Master P",
       "url": "https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC"
@@ -5562,7 +5682,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 133161,
       "name": "Recession Proof",
       "url": "https://open.spotify.com/track/2CPKmHG76YbIu9LwG3Gt6T"
@@ -5854,6 +5974,36 @@
       "duration_ms": 433533,
       "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
       "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
+    },
+    {
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
     },
     {
       "album": {
@@ -6611,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "Live At The Piano",
+        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52190,
+      "name": "Testimony (Live At The Piano)",
+      "url": "https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn"
+    },
+    {
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
         "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
       },
@@ -7295,6 +7463,24 @@
     },
     {
       "album": {
+        "name": "Workingman\u2019s Dead (2023 Mickey Hart Mix)",
+        "url": "https://open.spotify.com/album/5C5SWfvEGPnbcasiePuPov"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286986,
+      "name": "Uncle John's Band - 2023 Mickey Hart Mix",
+      "url": "https://open.spotify.com/track/06vCUawLTvK3QqiVglUgLm"
+    },
+    {
+      "album": {
         "name": "Under You",
         "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
       },
@@ -7418,6 +7604,32 @@
       "duration_ms": 206618,
       "name": "VOID - Sped Up Version",
       "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
+    },
+    {
+      "album": {
+        "name": "W.A.R",
+        "url": "https://open.spotify.com/album/1GwneM2BRjWpYH5thIVNVZ"
+      },
+      "artists": [
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303370,
+      "name": "W.A.R",
+      "url": "https://open.spotify.com/track/4IARmfIYJe9IfTOFVKtxfk"
     },
     {
       "album": {

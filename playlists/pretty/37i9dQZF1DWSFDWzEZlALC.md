@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Casper
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,015 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,316 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [emma](https://open.spotify.com/track/2RvLlxea9woaqb2ZLgAmv7) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [emma](https://open.spotify.com/album/6PbZLTQ1tsF7ZlIUdZfpNc) | 3:15 |
 | 2 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 |
 | 3 | [zusammenalleine](https://open.spotify.com/track/0m0Ajm118G40tykZvwWQBP) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [zusammenalleine](https://open.spotify.com/album/3gVgenthhMYRjdERipHOol) | 2:01 |
-| 4 | [Funkroboter \(feat\. Friedrich Liechtenstein\)](https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [TimmyT](https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Funkroboter \(feat\. Friedrich Liechtenstein\)](https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ) | 3:35 |
+| 4 | [Funkroboter](https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [TimmyT](https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Funkroboter](https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ) | 3:35 |
 | 5 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
 | 6 | [FOMO](https://open.spotify.com/track/7vJUbd7bLIc50cA0NJqzNB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [AVANTI](https://open.spotify.com/album/2jONoCNyNjktjSbta9y4ph) | 2:16 |
 | 7 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Rote Pille, blaue Pille](https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Rote Pille, blaue Pille](https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL) | 2:43 |
 | 75 | [INTERNETFREUNDIN](https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [INTERNETFREUNDIN](https://open.spotify.com/album/5DozG3LzjrMYw3wNIj17gH) | 2:32 |
 
-Snapshot ID: `MCxjNDhlMjFiZDlmMjg4YmMzZTAzZTY1NTY3YTNjZWYyODgwOWU5ZTMy`
+Snapshot ID: `MCw4NzJmNmYzNTJlYjY3N2Y0M2Y4NzUzNzkyNmZjMGY3NDk0YWIyMDc2`

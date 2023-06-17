@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 191304,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq"
@@ -4146,6 +4146,24 @@
       "duration_ms": 200412,
       "name": "Profound",
       "url": "https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX"
+    },
+    {
+      "album": {
+        "name": "Pulsar",
+        "url": "https://open.spotify.com/album/0EVavxdvKSfRqPKoS2gq6s"
+      },
+      "artists": [
+        {
+          "name": "Carufo",
+          "url": "https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162592,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/1DS4QEIy4juYscI1xWYnad"
     },
     {
       "album": {

@@ -2339,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "At the Fall of Time",
+        "url": "https://open.spotify.com/album/4SgI9NUNBI16zffDWYB77J"
+      },
+      "artists": [
+        {
+          "name": "Symmol",
+          "url": "https://open.spotify.com/artist/1JZRQqlxIFcSey4zIzULAy"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205718,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4SV5bm0soOiWpmpUr0RtQA"
+    },
+    {
+      "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 297440,
       "name": "Witch's Will",
       "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"

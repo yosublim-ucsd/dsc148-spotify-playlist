@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 242696,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 178416,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 166577,
       "name": "Cangote",
       "url": "https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL"
@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "eu",
+        "url": "https://open.spotify.com/album/01BcoM5awsgHDlSow4CI6G"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Rafael Portugal",
+          "url": "https://open.spotify.com/artist/3Pby3w74F4E2fYhAvDUMxf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73761,
+      "name": "eu",
+      "url": "https://open.spotify.com/track/2AkQRYBsdZddgfNc4uhokU"
+    },
+    {
+      "album": {
         "name": "Eu e Eu Mesmo",
         "url": "https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1"
       },
@@ -2591,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "foi no s\u00e3o jo\u00e3o",
+        "url": "https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190444,
+      "name": "foi no s\u00e3o jo\u00e3o",
+      "url": "https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy"
+    },
+    {
+      "album": {
         "name": "Folha",
         "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
       },
@@ -3129,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
+    },
+    {
+      "album": {
         "name": "L\u00e1 De Onde Eu Vim",
         "url": "https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B"
       },
@@ -3214,7 +3272,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 154611,
       "name": "Mais de Mim",
       "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
@@ -3799,6 +3857,28 @@
     },
     {
       "album": {
+        "name": "Nos Seus Olhos",
+        "url": "https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215277,
+      "name": "Nos Seus Olhos",
+      "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
+    },
+    {
+      "album": {
         "name": "Menor Que Tr\u00eas",
         "url": "https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG"
       },
@@ -3912,6 +3992,24 @@
       "duration_ms": 180571,
       "name": "N\u00e3o Vou Mais Ceder",
       "url": "https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM"
+    },
+    {
+      "album": {
+        "name": "n\u00f3s",
+        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "n\u00f3s",
+      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "album": {
@@ -4405,6 +4503,28 @@
     },
     {
       "album": {
+        "name": "Passarinho",
+        "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "Passarinho",
+      "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
+    },
+    {
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0i1aoWgtFzo2hd3Oht4Xft"
       },
@@ -4500,7 +4620,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 162188,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
@@ -4522,7 +4642,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 177158,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz"
@@ -4598,6 +4718,28 @@
       "duration_ms": 179031,
       "name": "Porta Do Teu Pr\u00e9dio",
       "url": "https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX"
+    },
+    {
+      "album": {
+        "name": "Porta Retrato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/23WdEjWnQx1NJSyTRnSCcH"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Porta Retrato - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zZwVM8UrXq1ahEnMGuXEo"
     },
     {
       "album": {
@@ -5004,7 +5146,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 179491,
       "name": "Samba de N\u00f3s Dois",
       "url": "https://open.spotify.com/track/5MQ2a8RvLTpVUHT5AsoQzf"
@@ -5244,6 +5386,24 @@
       "duration_ms": 149473,
       "name": "SEM M\u00c9NAGE",
       "url": "https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy"
+    },
+    {
+      "album": {
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "album": {
@@ -6602,7 +6762,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 178666,
       "name": "\u00d3leo de Coco",
       "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"

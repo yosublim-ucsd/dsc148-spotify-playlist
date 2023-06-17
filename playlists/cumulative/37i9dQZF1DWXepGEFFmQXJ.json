@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Half the Man",
+        "url": "https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182158,
+      "name": "Half the Man",
+      "url": "https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF"
+    },
+    {
+      "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/3laNVBvsT0PqqTCKupEwDD"
       },

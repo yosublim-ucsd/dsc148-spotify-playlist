@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,796 likes - 1,240 songs - 3 day 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,853 likes - 1,240 songs - 3 day 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -761,9 +761,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 751 | [Al Hadaoui](https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 4:03 |
 | 752 | [La Tierra de Mis Amores](https://open.spotify.com/track/00yEcOk7ShCLVSTsWTb3G0) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Chichas Inolvidables, Vol\. 1](https://open.spotify.com/album/5UmGYBk5rrWfdnTQMSRAwW) | 4:07 |
 | 753 | [Negra Sin Sandalia \(Negra Sem Sandalia\)](https://open.spotify.com/track/02XpBjU0O0jO2Osuqap4OV) | [Bateria De Escola De Samba](https://open.spotify.com/artist/055AYuW0bkYw65GkmPzSXz) | [Orfeo Negro \(Original Motion Picture\)](https://open.spotify.com/album/4PR1yeUJPIUPEOTXGNtKJt) | 2:11 |
-| 754 | [La Culebra](https://open.spotify.com/track/1m45fTzmhNagnAJ8TaTZH9) | [Los Tigres con Morgan Blanco](https://open.spotify.com/artist/20f5BKwcpiG2wfPMeHlLZz) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:55 |
+| 754 | [La Culebra](https://open.spotify.com/track/0PYu88bqcTWnM04F3Vr2RJ) | [Los Tigres con Morgan Blanco](https://open.spotify.com/artist/20f5BKwcpiG2wfPMeHlLZz) | [La Edad de Oro de la Cumbia Colombiana, Vol\. 3](https://open.spotify.com/album/0FcXDDu4kSuJZSotildJPO) | 2:55 |
 | 755 | [Cumbia Colombia](https://open.spotify.com/track/2T2jOYLdZqK4qsOsQKsBzs) | [Chico Cervantes](https://open.spotify.com/artist/7lArxuFcsS5RPDfdXXrNCz) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:35 |
-| 756 | [Rosa Y Mayo](https://open.spotify.com/track/4Z9y9Q3PGD8xSkio4OxY9t) | [Andres Landero](https://open.spotify.com/artist/3RjXjc2b1ndP71qSzdUTlt) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:49 |
+| 756 | [Rosa Y Mayo](https://open.spotify.com/track/6XZNP4Oil8Bba3U4NZkmtK) | [Andrés Landero](https://open.spotify.com/artist/03mdlkQp3QWtWQJKEK3upc) | [La Edad de Oro de la Cumbia Colombiana, Vol\. 3](https://open.spotify.com/album/0FcXDDu4kSuJZSotildJPO) | 2:49 |
 | 757 | [Olas del Mar](https://open.spotify.com/track/6MiDV0AylSU2i29VkCo0Xb) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Chichas Inolvidables, Vol\. 1](https://open.spotify.com/album/5UmGYBk5rrWfdnTQMSRAwW) | 1:57 |
 | 758 | [Boogaloo Girl](https://open.spotify.com/track/1865srXd2Gw1HgjmLFI0cK) | [Alfredo Linares y Su Sonora](https://open.spotify.com/artist/1yG0dVfPpzLuFPLb4hlklC) | [Best of Boogaloo, Vol\. 1](https://open.spotify.com/album/4UtZhMSOGiIX6YZy1NAk4C) | 2:46 |
 | 759 | [Tequila](https://open.spotify.com/track/2jVgtp6jgbFACMfJn8MeBy) | [Orquesta Tropicana](https://open.spotify.com/artist/726nWgPdCMFuEleSRmzVbB) | [Tequila](https://open.spotify.com/album/6Hmy47Z7QAHf1JELfUe4yF) | 2:41 |
@@ -1249,4 +1249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1239 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1240 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiNWI2ZmRhOTljNzliZDBlNzY0N2Q2ZjA0YjA2NjlkMjg3YjY5YmJl`
+Snapshot ID: `MCw5OTVlZDQ5MzdmNjczMmFiNGE1YjgyNDNmOWVjOGNkMGFhNjBkNmMw`

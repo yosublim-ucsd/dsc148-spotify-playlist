@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Angel White\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,522 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,549 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 71 | [What I Mean](https://open.spotify.com/track/4d8mcBvjLz42u6STajUAWa) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [What I Mean](https://open.spotify.com/album/3LlJOvmblKinCavJwP6RWY) | 4:40 |
 | 72 | [Concorde Groove](https://open.spotify.com/track/5tGvGh3Xn8O940oj8VC9O3) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f) | [Concorde Groove](https://open.spotify.com/album/5QjBDlspX1a1JihYPp4U6V) | 4:04 |
 
-Snapshot ID: `MCw2ZjJlZmM0YjUwYzE5MmNhZTUxZGYzNWVhMzVkNjczOWIzYzI0M2I2`
+Snapshot ID: `MCxkMTZhYTkyMTFhYjkzYzNjNzY4MjE5NjZjMDk2YWIzMDVhZjBmMGJi`

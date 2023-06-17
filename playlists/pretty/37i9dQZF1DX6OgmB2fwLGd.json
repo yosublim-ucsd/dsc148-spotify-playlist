@@ -1,18 +1,18 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1365033,
+  "num_followers": 1365537,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzRmMjdmNTg3YjU4ZGUxZTZiZjViMDg0M2ZlZGYyNzU3ODk0OGYx",
+  "snapshot_id": "MCxiZDRmYTVmYmQwNDc1ZWM2OTI3MzFlMTRmZDdjNDRlMzlmYTMyMDQ4",
   "tracks": [
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "MATHEMATICAL DISRESPECT",
-        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+        "name": "RICH SCHOLAR",
+        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         }
       ],
-      "duration_ms": 88304,
-      "name": "MATHEMATICAL DISRESPECT",
-      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
+      "duration_ms": 118923,
+      "name": "RICH SCHOLAR",
+      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -39,26 +55,6 @@
       "duration_ms": 285152,
       "name": "100 Bars",
       "url": "https://open.spotify.com/track/0yYYco9yk2nclC82ioryu8"
-    },
-    {
-      "added_at": "2023-05-24 13:51:16",
-      "album": {
-        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
-        "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
-      "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -101,6 +97,22 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "exiit",
+        "url": "https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "Clumsy Dancer",
+      "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
+    },
+    {
       "added_at": "2023-06-05 14:22:50",
       "album": {
         "name": "Sassy Scene",
@@ -123,6 +135,58 @@
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
+    },
+    {
+      "added_at": "2023-05-16 13:27:10",
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "added_at": "2023-06-02 18:37:43",
+      "album": {
+        "name": "buku",
+        "url": "https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "buku",
+      "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
+    },
+    {
+      "added_at": "2023-05-24 13:51:16",
+      "album": {
+        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+        "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+      "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -149,22 +213,6 @@
       "url": "https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj"
     },
     {
-      "added_at": "2023-06-02 18:37:43",
-      "album": {
-        "name": "buku",
-        "url": "https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 137691,
-      "name": "buku",
-      "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
-    },
-    {
       "added_at": "2023-05-12 03:41:51",
       "album": {
         "name": "KANEKI",
@@ -179,6 +227,22 @@
       "duration_ms": 170083,
       "name": "KANEKI",
       "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -215,6 +279,22 @@
       "duration_ms": 114690,
       "name": "I'm Geekin - Slowed Down",
       "url": "https://open.spotify.com/track/7s6Qiw4ArIssZ9QP5mxPRk"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Lamar",
+        "url": "https://open.spotify.com/album/4YwqUXComMtnzrvoeorWW2"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "duration_ms": 151823,
+      "name": "Lamar",
+      "url": "https://open.spotify.com/track/1CEDHuG68UDpjTB8nKB5YB"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -273,22 +353,6 @@
       "url": "https://open.spotify.com/track/6OCww5ebJEH0fvMHr8ZTfC"
     },
     {
-      "added_at": "2023-05-16 13:27:10",
-      "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Go (Xtayalive 2)",
@@ -329,6 +393,26 @@
       "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
     },
     {
+      "added_at": "2023-04-12 21:15:31",
+      "album": {
+        "name": "I Know (PR1SVX Edit)",
+        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "PR1ISVX",
+          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
+        }
+      ],
+      "duration_ms": 133829,
+      "name": "I Know - PR1SVX Edit",
+      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Kosher Certified (feat. BLP KOSHER)",
@@ -363,6 +447,46 @@
       "duration_ms": 137586,
       "name": "Tomioka",
       "url": "https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "What Can They Say (Extended)",
+        "url": "https://open.spotify.com/album/6Zhv2ceEknMTfuR20IdKNH"
+      },
+      "artists": [
+        {
+          "name": "HDBeenDope",
+          "url": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
+        },
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "duration_ms": 152026,
+      "name": "Happening (ft. Connie Diiamond)",
+      "url": "https://open.spotify.com/track/0RCXFKkddWR4cnoCJHeyrv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "$ix $ix",
+        "url": "https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "$ix $ix",
+      "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -405,72 +529,20 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
         }
       ],
-      "duration_ms": 233794,
-      "name": "how u feel?",
-      "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
-    },
-    {
-      "added_at": "2023-04-12 21:15:31",
-      "album": {
-        "name": "I Know (PR1SVX Edit)",
-        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "PR1ISVX",
-          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "I Know - PR1SVX Edit",
-      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
-    },
-    {
-      "added_at": "2023-05-01 13:35:03",
-      "album": {
-        "name": "Keep Dat Nigga",
-        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
-      },
-      "artists": [
-        {
-          "name": "Icandy",
-          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
-        }
-      ],
-      "duration_ms": 138945,
-      "name": "Keep Dat Nigga",
-      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+      "duration_ms": 152814,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -729,22 +801,6 @@
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Ice Spice",
-        "url": "https://open.spotify.com/album/6hymj4hfCoXsFQYO1VqlRi"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Ice Spice",
-      "url": "https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL"
-    },
-    {
       "added_at": "2023-02-14 16:35:41",
       "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
@@ -879,42 +935,6 @@
       "duration_ms": 168462,
       "name": "Rock Paper Strippers",
       "url": "https://open.spotify.com/track/1NPQItXYHsWC2MD9uZmFwj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/7KWSyQ1ebOczBVa3ExhmiF"
-      },
-      "artists": [
-        {
-          "name": "Saxkboy KD",
-          "url": "https://open.spotify.com/artist/2ZsCCOFHyJpgDTgyVdRYGT"
-        },
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Gucci Rugs",
-      "url": "https://open.spotify.com/track/7BdNMr6ZAV0hv9Yx64j4OP"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/7cwaBUDG4UFCE1bLZbHjj7"
-      },
-      "artists": [
-        {
-          "name": "Llainwire",
-          "url": "https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2j0KrN359zKbaL2NIcoEmA"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1745,22 +1765,6 @@
       "url": "https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "your eyes",
-        "url": "https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "your eyes",
-      "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
-    },
-    {
       "added_at": "2023-01-27 05:07:00",
       "album": {
         "name": "U Neva",
@@ -1775,22 +1779,6 @@
       "duration_ms": 142250,
       "name": "U Neva",
       "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Limbus 3",
-        "url": "https://open.spotify.com/album/41Llenxqo1pplBtCTiQZTv"
-      },
-      "artists": [
-        {
-          "name": "UnoTheActivist",
-          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Slave",
-      "url": "https://open.spotify.com/track/6gzEKpPDrMetHz0EVeo37I"
     }
   ],
   "unique_name": "Internet People",

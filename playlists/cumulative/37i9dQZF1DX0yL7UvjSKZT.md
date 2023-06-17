@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-289 songs - 18 hr 14 min
+290 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Brighter Side](https://open.spotify.com/track/1DhfVYEH0hco7SKMVPYe7X) | [The Brothers Reed](https://open.spotify.com/artist/3vYzsWVBNoIKJZuM1F4VLz) | [The Wheres and the Whatnots](https://open.spotify.com/album/3ehFtxicfQfb1k5YVaJOoX) | 3:40 | 2022-05-13 |  |
 | [Bring on the Day](https://open.spotify.com/track/4mnQRCx8PIYJbqLVW4qanr) | [Head for the Hills](https://open.spotify.com/artist/7xKRWodRPGPamCMTGSQtBU) | [Bring on the Day](https://open.spotify.com/album/1iY8DKsIlpMw90dUUpfkrv) | 4:51 | 2023-05-15 |  |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2022-01-21 | 2023-05-16 |
-| [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 | 2022-07-22 |  |
+| [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 | 2022-07-22 | 2023-06-17 |
 | [Buster](https://open.spotify.com/track/3JuZ7dCqgOyqlLQDVAHzGO) | [The Unseen Strangers](https://open.spotify.com/artist/4O4HVTZ4M1Lu75se3koB9Y) | [Stranger Places](https://open.spotify.com/album/7GAkV3WjOY16QsH2bPBdBp) | 3:29 | 2021-10-01 | 2023-01-14 |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2022-01-21 |  |
 | [Canary](https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Honeysuckle](https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI) | 4:28 | 2021-10-01 | 2023-01-14 |
@@ -253,6 +253,7 @@
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2022-07-29 |
 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 |  |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 |  |
+| [There is a Time](https://open.spotify.com/track/0pFM9wvRLxLnu8N0qoAFSr) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [There is a Time](https://open.spotify.com/album/6OJ9Y4NFTVi8H2FIN2bivG) | 3:45 | 2023-06-16 |  |
 | [This Time, Last Week](https://open.spotify.com/track/7Hth94P5JfHnyKNRhhN7sH) | [Sprig of That](https://open.spotify.com/artist/53VgTWcTeCcxwCYDS7voMa) | [This Time, Last Week](https://open.spotify.com/album/5CH6yP1XBrLDhIyVvq73o9) | 4:41 | 2023-02-10 |  |
 | [Three By Three](https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Three By Three](https://open.spotify.com/album/7dEkDi7U2MZXTV7a606fDM) | 3:50 | 2023-04-28 |  |
 | [Throw Me in the Thicket \(When I Die\)](https://open.spotify.com/track/1L0yEDWiwrPGmtWOmBGrpn) | [The Local Honeys](https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm) | [The Local Honeys](https://open.spotify.com/album/52832G1sKqnP5kcPigVPVs) | 3:27 | 2023-01-13 |  |

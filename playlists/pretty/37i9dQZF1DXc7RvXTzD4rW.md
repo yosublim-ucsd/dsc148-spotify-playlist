@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 堀内まり菜 \(Marina Horiuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,317 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,322 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 38 | [僕らはジーニアス](https://open.spotify.com/track/7ukb6PmTz8p3HHhONCIKc2) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [僕らはジーニアス](https://open.spotify.com/album/7FrGHJo3c37HB2d37tOUMt) | 3:42 |
 | 39 | [Manga is Choh Vible](https://open.spotify.com/track/5aXprHK0w25QXKApZpujJN) | [ANCHOR](https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh), [OGATAMEGUMI](https://open.spotify.com/artist/1WkSVm5cJaux3FrVm99UKo), [KITOAKARI](https://open.spotify.com/artist/6JyNABHQCBaiIRBgIALAv4) | [Manga is Choh Vible](https://open.spotify.com/album/3W2HJ67SIIhNjZFdhv0tjB) | 3:52 |
 | 40 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 |
-| 41 | [Tik\[Q\]et](https://open.spotify.com/track/4BabXgt8ceIsrw1hcUfh6Q) | [Qlover from kyoukaimetro](https://open.spotify.com/artist/2c22U1mf0vjLodPTziMVlS), [Rinne\(CV:UchidaMaaya\)](https://open.spotify.com/artist/4mmt3eA64eeVnNiFFbEzEi), [Setsuna\(CV: konoco\)](https://open.spotify.com/artist/2AERSVNjekdAw0LZkHzFOB), [Itsuka\(CV:Akina\)](https://open.spotify.com/artist/7aPJTYWIwk2nc7qolTEsgt) | [Tik\[Q\]et](https://open.spotify.com/album/2wkQRFuZQseN3hguuPhN7b) | 2:34 |
+| 41 | [Tik\[Q\]et](https://open.spotify.com/track/4BabXgt8ceIsrw1hcUfh6Q) | [Qlover from kyoukaimetro](https://open.spotify.com/artist/2c22U1mf0vjLodPTziMVlS), [Rinne\(CV:UchidaMaaya\)](https://open.spotify.com/artist/4mmt3eA64eeVnNiFFbEzEi), [セツナ\(CV: konoco\)](https://open.spotify.com/artist/0JzERxkdRvSrybjJEa0ObQ), [Itsuka\(CV:Akina\)](https://open.spotify.com/artist/7aPJTYWIwk2nc7qolTEsgt) | [Tik\[Q\]et](https://open.spotify.com/album/2wkQRFuZQseN3hguuPhN7b) | 2:34 |
 | 42 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 |
 | 43 | [元生徒](https://open.spotify.com/track/5EC2eub889hm884w6jAU3u) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [明智咲（CV：緑川光）](https://open.spotify.com/artist/62qcOgQ26tKLe09rvPNSfB) | [元生徒](https://open.spotify.com/album/0zxl4uSQakAnfNUSAcE5cB) | 3:57 |
 | 44 | [微笑みの爆弾](https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Blue sky summer](https://open.spotify.com/track/6nLJ5Klq7CopWGPwSSIwlM) | [LizNoir](https://open.spotify.com/artist/31zCA3lKnObwtGBbDNnNAt) | [Blue sky summer](https://open.spotify.com/album/2C0beHgSym70jHddwmAdIW) | 4:11 |
 | 50 | [YOU](https://open.spotify.com/track/3PGCayP1i5SdFvrKZzFdhb) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [YOU](https://open.spotify.com/album/1lrQAhpljFRYp3FK4qcRE0) | 4:26 |
 
-Snapshot ID: `MCwwN2I2ODNlYmFhZGVhODU4NWRlNTk5MzZhMDYyMGIxY2JkNzZiOGRi`
+Snapshot ID: `MCwwOWQ5NzU3NWEyZDU3ZWQ2ZmI0ZGIxM2QyZDVhMTZkZDA5NzBkMTNj`

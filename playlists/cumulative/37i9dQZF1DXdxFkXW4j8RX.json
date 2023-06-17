@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "Dame Tiempo",
+        "url": "https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Hazhe",
+          "url": "https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "Dame Tiempo",
+      "url": "https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L"
       },
@@ -652,7 +674,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152210,
       "name": "Decretalo",
       "url": "https://open.spotify.com/track/5qJtWvPHsF4MglEijecLdC"
@@ -2883,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Slam Heavy",
+        "url": "https://open.spotify.com/album/0LuQBuCL6sDBVjrug0Hccd"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176101,
+      "name": "Slam Heavy",
+      "url": "https://open.spotify.com/track/1FuFBAaaPrKuG9u6UszUCe"
+    },
+    {
+      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/1QJUn9vrxwKZ91dXJZ72O9"
       },
@@ -3496,7 +3536,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 153623,
       "name": "WATCH ME / NA' DE MI (feat. Antioch)",
       "url": "https://open.spotify.com/track/7FKhOErLnODSBncrMErQqk"

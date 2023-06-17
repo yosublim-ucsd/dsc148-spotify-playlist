@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917403,
+  "num_followers": 917389,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy",
+  "snapshot_id": "MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Flash Flood",
+        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 159014,
+      "name": "Flash Flood",
+      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Whatever's Inconvenient",
         "url": "https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Flash Flood",
-        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+        "name": "Ya Gamalak",
+        "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
       },
       "artists": [
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
         }
       ],
-      "duration_ms": 159014,
-      "name": "Flash Flood",
-      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
+      "duration_ms": 209983,
+      "name": "Ya Gamalak",
+      "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Ya Gamalak",
-        "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 209983,
-      "name": "Ya Gamalak",
-      "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
         "url": "https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 129522,
       "name": "\u0406\u043d\u0448\u0456 \u043c\u0438",
       "url": "https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE"
+      },
+      "artists": [
+        {
+          "name": "The Hardkiss",
+          "url": "https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt"
+        }
+      ],
+      "duration_ms": 201549,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 201724,
       "name": "Nena",
       "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE"
-      },
-      "artists": [
-        {
-          "name": "The Hardkiss",
-          "url": "https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt"
-        }
-      ],
-      "duration_ms": 201549,
-      "name": "Festival",
-      "url": "https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Sombrilla",
         "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 230031,
       "name": "Asfalos & Mporo",
       "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "\u0412\u0441\u0456 \u0434\u0456\u0432\u0447\u0430\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0456",
+        "url": "https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv"
+      },
+      "artists": [
+        {
+          "name": "Lely45",
+          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u0412\u0441\u0456 \u0434\u0456\u0432\u0447\u0430\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0456",
+      "url": "https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Numaani",
         "url": "https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "\u0412\u0441\u0456 \u0434\u0456\u0432\u0447\u0430\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0456",
-        "url": "https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv"
-      },
-      "artists": [
-        {
-          "name": "Lely45",
-          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u0412\u0441\u0456 \u0434\u0456\u0432\u0447\u0430\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0456",
-      "url": "https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "\u00c4lskar",
         "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 201826,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "V\u1ec1 V\u1edbi Em",
-        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
-      },
-      "artists": [
-        {
-          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
-          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "V\u1ec1 V\u1edbi Em",
-      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1371,18 +1355,38 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
+        "name": "V\u1ec1 V\u1edbi Em",
+        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc"
+      "duration_ms": 269333,
+      "name": "V\u1ec1 V\u1edbi Em",
+      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+        "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
+      },
+      "artists": [
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+      "url": "https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE"
     }
   ],
   "unique_name": "EQUAL Global",

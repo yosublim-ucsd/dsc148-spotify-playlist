@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-63 songs - 4 hr 9 min
+64 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 |  |
+| [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 |  |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2022-06-23 |  |
 | [Kaalam \- Hope Project](https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Kaalam \(Hope Project\)](https://open.spotify.com/album/7gslmJ0SdG9UcuyznLSWty) | 3:48 | 2022-06-23 |  |
 | [Kaana Kinavin](https://open.spotify.com/track/3qeieC6qStWSVGS4Yk6eTx) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Harib Hussain](https://open.spotify.com/artist/4iyev3kRd7VmmV0X8Z3yS2) | [Paathi](https://open.spotify.com/album/4M7MAn4AB0ujrgprouPGQC) | 4:00 | 2023-01-27 |  |
-| [Kaana Neram](https://open.spotify.com/track/0pIm8FZ6SxPLyjTgDa9G24) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kaana Neram](https://open.spotify.com/album/0STmyqTzP2SnulgOsuIX2V) | 4:59 | 2023-05-18 |  |
+| [Kaana Neram](https://open.spotify.com/track/0pIm8FZ6SxPLyjTgDa9G24) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kaana Neram](https://open.spotify.com/album/0STmyqTzP2SnulgOsuIX2V) | 4:59 | 2023-05-18 | 2023-06-17 |
 | [Kaantha](https://open.spotify.com/track/2XtoLKNhRErtraFincrU7p) | [Lohar The Blacksmiths](https://open.spotify.com/artist/6HeWvZTa6qiSLyACNbSaNJ) | [Kaantha](https://open.spotify.com/album/5wOulpoyEWQobfeyDEujDQ) | 4:35 | 2022-11-21 |  |
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-12-22 |  |
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-05-26 |  |

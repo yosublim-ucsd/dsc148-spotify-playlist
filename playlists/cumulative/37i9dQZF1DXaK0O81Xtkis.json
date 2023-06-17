@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100 boys",
+        "url": "https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Suaste",
+          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196756,
+      "name": "100 boys",
+      "url": "https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX"
+    },
+    {
+      "album": {
         "name": "1000 Tears",
         "url": "https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT"
       },
@@ -744,6 +762,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "S3",
+        "url": "https://open.spotify.com/album/4xSi4wMxTSvvr8UnDnJT5R"
+      },
+      "artists": [
+        {
+          "name": "Josh Bogert",
+          "url": "https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Asking for a Friend",
+      "url": "https://open.spotify.com/track/3v5CpMjk04RODucheegsnm"
     },
     {
       "album": {
@@ -5202,6 +5238,24 @@
       "duration_ms": 203346,
       "name": "i remember",
       "url": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
+    },
+    {
+      "album": {
+        "name": "i still love you",
+        "url": "https://open.spotify.com/album/3rkJlvx0i7eUaJmWPqZ3oy"
+      },
+      "artists": [
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128528,
+      "name": "i still love you",
+      "url": "https://open.spotify.com/track/2pmC5ZU6O9HIBYi2ORfGR2"
     },
     {
       "album": {

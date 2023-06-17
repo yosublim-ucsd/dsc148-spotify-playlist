@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 89032,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/53Vv5zT2BZUB6HsKR1ZYC0"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 106833,
       "name": "All On Board The Night Train",
       "url": "https://open.spotify.com/track/70eIVBEHRJecN0lXjE6JIq"
@@ -466,10 +466,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 114193,
       "name": "Long Journey To Sleep",
       "url": "https://open.spotify.com/track/2d1UtyidGzQSv7ojjdqfOA"
+    },
+    {
+      "album": {
+        "name": "Relaxing Train White Noise for Ultimate Serenity",
+        "url": "https://open.spotify.com/album/0SDpUjtRQEVUymSbqhJAob"
+      },
+      "artists": [
+        {
+          "name": "Healings Sound",
+          "url": "https://open.spotify.com/artist/2zAtkIHXxkWzifCOBejrXs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177575,
+      "name": "Mindful Train Sounds to Help You De-Stress",
+      "url": "https://open.spotify.com/track/69TU2Zcmszq3WCbNHD53GN"
     },
     {
       "album": {
@@ -538,7 +556,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 114263,
       "name": "Nap On The Train",
       "url": "https://open.spotify.com/track/3jyEGsc1Tca4MygygNiNDn"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 84542,
       "name": "Next Stop Sleep",
       "url": "https://open.spotify.com/track/4NvPoE32Doo1fDJBuAFwMS"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 84542,
       "name": "Off The Rail",
       "url": "https://open.spotify.com/track/1Gfgi34GAcfU0j3hwOdl8i"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 108387,
       "name": "On The Railway",
       "url": "https://open.spotify.com/track/5567dJ8VPiIiwBw2TG3wkF"
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Calming Train Tones for Soothing Sleep",
+        "url": "https://open.spotify.com/album/1H6L3RTJsYPWRHl9e8edgG"
+      },
+      "artists": [
+        {
+          "name": "F/A/B Binaural",
+          "url": "https://open.spotify.com/artist/0QWgnVChTUhPhLTJCmKU6O"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Peaceful Train Rumbles to Lull You to Sleep",
+      "url": "https://open.spotify.com/track/7uKmCuXCLjAuOJvD3XwAQW"
+    },
+    {
+      "album": {
         "name": "On Track - Train Sounds",
         "url": "https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu"
       },
@@ -736,7 +772,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 112258,
       "name": "Rail Away",
       "url": "https://open.spotify.com/track/3tECLyeHW37YTH5SkrpQbd"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 114263,
       "name": "Rails Of Sleep",
       "url": "https://open.spotify.com/track/06D7NhSXIs1k8nG5jT0uP5"
@@ -812,6 +848,24 @@
       "duration_ms": 188573,
       "name": "Relaxing Train Noise",
       "url": "https://open.spotify.com/track/0UrT4utKrLNVuT6bGM3QoR"
+    },
+    {
+      "album": {
+        "name": "Relaxing Train White Noise for Ultimate Serenity",
+        "url": "https://open.spotify.com/album/0SDpUjtRQEVUymSbqhJAob"
+      },
+      "artists": [
+        {
+          "name": "Healings Sound",
+          "url": "https://open.spotify.com/artist/2zAtkIHXxkWzifCOBejrXs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160972,
+      "name": "Relaxing Train White Noise for Ultimate Serenity",
+      "url": "https://open.spotify.com/track/0Ttyyq1vcpyLAmjcqdVDhE"
     },
     {
       "album": {
@@ -916,7 +970,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118064,
       "name": "Sleep In The Compartment Coach",
       "url": "https://open.spotify.com/track/4GdXYIWxr87L3jyOpQ2GCG"
@@ -934,7 +988,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 106833,
       "name": "Sleep Station",
       "url": "https://open.spotify.com/track/0JRR1J2l4NUWBvqshHmlXh"
@@ -977,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Train Clickety-Clack for Deep Slumber",
+        "url": "https://open.spotify.com/album/2HNOyHw7oveyhZu6l8mtJz"
+      },
+      "artists": [
+        {
+          "name": "XLD Library",
+          "url": "https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177465,
+      "name": "Sleepy Train Clickety-Clack for Deep Slumber",
+      "url": "https://open.spotify.com/track/26km5fyxXlmDhH1LTNbhHi"
+    },
+    {
+      "album": {
         "name": "Train Sound Collection",
         "url": "https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP"
       },
@@ -992,6 +1064,24 @@
       "duration_ms": 150970,
       "name": "Sleepy Train Noise",
       "url": "https://open.spotify.com/track/6IhCVL0RABB6TasrKYaWuV"
+    },
+    {
+      "album": {
+        "name": "Sleepy Train Soundscape for a Restful Night",
+        "url": "https://open.spotify.com/album/4SIBrUaRtpnhKjZ3ZHRVjl"
+      },
+      "artists": [
+        {
+          "name": "No Placebo",
+          "url": "https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363244,
+      "name": "Sleepy Train Soundscape for a Restful Night",
+      "url": "https://open.spotify.com/track/701qXsi9ocu6C1UTjkaQTK"
     },
     {
       "album": {
@@ -1114,7 +1204,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 117236,
       "name": "Smooth Train Ride",
       "url": "https://open.spotify.com/track/0wqdQcCEGfT01H7bY3UIa9"
@@ -1168,7 +1258,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 96774,
       "name": "Tracks Of Sleep",
       "url": "https://open.spotify.com/track/3YzV0YLvkT3DupOS2jebRD"
@@ -1258,7 +1348,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 94944,
       "name": "Train Day",
       "url": "https://open.spotify.com/track/4gU3wGZwzKTxoVwlT7WK8E"
@@ -1366,7 +1456,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118177,
       "name": "Train Traffic",
       "url": "https://open.spotify.com/track/0Jvas1pWnnSGgge71TN2AV"
@@ -1427,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Train Clickety-Clack for Deep Slumber",
+        "url": "https://open.spotify.com/album/2HNOyHw7oveyhZu6l8mtJz"
+      },
+      "artists": [
+        {
+          "name": "XLD Library",
+          "url": "https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193093,
+      "name": "Tranquility by the Tracks: Train Sounds for Relaxation",
+      "url": "https://open.spotify.com/track/3QQHh1dAd4ujNSo87zcyYN"
+    },
+    {
+      "album": {
         "name": "Pure Train Sounds",
         "url": "https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti"
       },
@@ -1474,7 +1582,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 117773,
       "name": "Urban Commute",
       "url": "https://open.spotify.com/track/3JEsWPI5oDNuWOJ7gxvI20"
@@ -1510,7 +1618,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 106990,
       "name": "Wagon Dreams",
       "url": "https://open.spotify.com/track/0Eb1UJetNfc5KLFQd0rEtu"

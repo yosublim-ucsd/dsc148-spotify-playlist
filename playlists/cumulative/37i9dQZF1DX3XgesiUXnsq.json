@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: MF DOOM",
+  "description": "Damn son, where'd ya find this? Cover: Killer Mike",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -494,10 +494,36 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 205935,
       "name": "All Greatness",
       "url": "https://open.spotify.com/track/6yjh7wXJyem02IAmlKoTYF"
+    },
+    {
+      "album": {
+        "name": "All Of That",
+        "url": "https://open.spotify.com/album/2S8Ad3QYZiS0OY0zQBNzuY"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Passport Rav",
+          "url": "https://open.spotify.com/artist/1GEoiQQ2FFc6wbxViFecg8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174971,
+      "name": "All Of That",
+      "url": "https://open.spotify.com/track/5JRWSUB3WTUfVyzGA0Iym0"
     },
     {
       "album": {
@@ -600,6 +626,24 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "album": {
@@ -1026,7 +1070,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 202680,
       "name": "Boss' Life",
       "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
@@ -1210,7 +1254,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 123010,
       "name": "Bump",
       "url": "https://open.spotify.com/track/42nuDGc2wYog831HhXQ6ku"
@@ -3029,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Guillotine Dreams",
+        "url": "https://open.spotify.com/album/4lKSg25uzvNbyYD9dU3jF1"
+      },
+      "artists": [
+        {
+          "name": "Super Duty Tough Work",
+          "url": "https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258411,
+      "name": "Guillotine Dreams",
+      "url": "https://open.spotify.com/track/25ZH4Gdkv29iuh8E1PlMuQ"
+    },
+    {
+      "album": {
         "name": "MORE BLACK SUPERHEROES (LIMITED EDITION)",
         "url": "https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF"
       },
@@ -3322,6 +3384,32 @@
       "duration_ms": 195756,
       "name": "Hoochie Mama",
       "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "album": {
+        "name": "Hostile Takeover (feat. Benny The Butcher)",
+        "url": "https://open.spotify.com/album/5fH2KXmUC9PfEFltzXxqOm"
+      },
+      "artists": [
+        {
+          "name": "Teflon",
+          "url": "https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Hostile Takeover (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/52nPh77HvQfi4pJ138PkJu"
     },
     {
       "album": {
@@ -4075,6 +4163,28 @@
     },
     {
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/7KeBQrOrDItquy091vuho3"
+      },
+      "artists": [
+        {
+          "name": "Black Milk",
+          "url": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+        },
+        {
+          "name": "Brandon Myster",
+          "url": "https://open.spotify.com/artist/7f6THh0kajO6OEeEF2U9jp"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW"
+    },
+    {
+      "album": {
         "name": "Let The Sample Work",
         "url": "https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5"
       },
@@ -4385,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/7mbvQ7ddb94cYl8zVA5OHC"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Kid Abstrakt",
+          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187106,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/2WLKLuM1YYS7KWmZBrYpMx"
+    },
+    {
+      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -4606,7 +4738,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 213927,
       "name": "MOTHERLESS - Single Version",
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
@@ -6325,6 +6457,36 @@
     },
     {
       "album": {
+        "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+        "url": "https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+      "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
+    },
+    {
+      "album": {
         "name": "Scrabble",
         "url": "https://open.spotify.com/album/6OsiZscfKzj3uyriUgQ0QK"
       },
@@ -7052,7 +7214,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 192988,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6PuxCrw3vrb84baTpIrDHr"
@@ -7334,7 +7496,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 183440,
       "name": "The Format",
       "url": "https://open.spotify.com/track/4TvxDMTOkbK2yt7IfHWqZQ"
@@ -8221,6 +8383,28 @@
     },
     {
       "album": {
+        "name": "Welcome Back Freestyle",
+        "url": "https://open.spotify.com/album/2hrBoFw5HxYq9Ru1l5I55y"
+      },
+      "artists": [
+        {
+          "name": "Blitzkrieg",
+          "url": "https://open.spotify.com/artist/13qmbtWUvLnO5nwsavIupI"
+        },
+        {
+          "name": "Humble the Poet",
+          "url": "https://open.spotify.com/artist/5cz1L6LgkBPnIJmQcjIfHA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96001,
+      "name": "Welcome Back Freestyle",
+      "url": "https://open.spotify.com/track/0knVZZi4TCmdRVAvZdi1Ng"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -8254,7 +8438,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"

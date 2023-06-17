@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Vivir Quintana en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Cantamores en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "album": {
         "name": "Braille",
         "url": "https://open.spotify.com/album/3SSIS1EkkgWQ6bUVDT4Qji"
       },
@@ -1092,6 +1110,24 @@
       "duration_ms": 259122,
       "name": "Contigo Quiero",
       "url": "https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Ave",
+        "url": "https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "Coraz\u00f3n de Ave",
+      "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
     },
     {
       "album": {
@@ -1439,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "album": {
         "name": "Donde Nadie",
         "url": "https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT"
       },
@@ -1450,7 +1504,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152483,
       "name": "Donde Nadie",
       "url": "https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a"
@@ -1730,7 +1784,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 285953,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/7xo0Cq0yX79sSaKfxq7Q5r"
@@ -2800,6 +2854,24 @@
       "duration_ms": 331395,
       "name": "Nada Particular",
       "url": "https://open.spotify.com/track/3Jl4RyjzfYPje7e8kAf18T"
+    },
+    {
+      "album": {
+        "name": "Nada Te Pido",
+        "url": "https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178918,
+      "name": "Nada Te Pido",
+      "url": "https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo"
     },
     {
       "album": {
@@ -3510,7 +3582,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 161981,
       "name": "Retrato",
       "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"

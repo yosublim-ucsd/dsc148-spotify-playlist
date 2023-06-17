@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 204827,
       "name": "AMMA - Kaanada Daiva",
       "url": "https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R"
@@ -160,6 +160,24 @@
       "duration_ms": 209413,
       "name": "Antariksha",
       "url": "https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv"
+    },
+    {
+      "album": {
+        "name": "Anu Anuvaagi",
+        "url": "https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182652,
+      "name": "Anu Anuvaagi",
+      "url": "https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn"
     },
     {
       "album": {
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 129412,
       "name": "Mosagara",
       "url": "https://open.spotify.com/track/6YqzNUpuzBj5TZjCvg6mNT"
@@ -1806,6 +1824,28 @@
       "duration_ms": 130285,
       "name": "Psych Boy",
       "url": "https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF"
+    },
+    {
+      "album": {
+        "name": "Rain Chant",
+        "url": "https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7"
+      },
+      "artists": [
+        {
+          "name": "Bryden & Parth",
+          "url": "https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo"
+        },
+        {
+          "name": "Halakki Vokkaliga",
+          "url": "https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330909,
+      "name": "Rain Chant",
+      "url": "https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC"
     },
     {
       "album": {

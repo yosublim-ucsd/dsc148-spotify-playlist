@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: bar italia",
+  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Protomartyr",
   "name": "Noisy",
   "tracks": [
     {
@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Doomer",
+        "url": "https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1"
+      },
+      "artists": [
+        {
+          "name": "THICK",
+          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223394,
+      "name": "Doomer",
+      "url": "https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re"
+    },
+    {
+      "album": {
         "name": "Breaking the Balls of History",
         "url": "https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns"
       },
@@ -3008,6 +3026,24 @@
       "duration_ms": 141560,
       "name": "Goes Black",
       "url": "https://open.spotify.com/track/4KHWwI6lfD4BuWMLCb6FNo"
+    },
+    {
+      "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/7EJVNNWNSijp1720iMRlUi"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1mSlZW1iN1faQz67l35sRb"
     },
     {
       "album": {
@@ -4547,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Home",
+        "url": "https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX"
+      },
+      "artists": [
+        {
+          "name": "The Pink Spiders",
+          "url": "https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "Let's Go Home",
+      "url": "https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay"
+    },
+    {
+      "album": {
         "name": "The Town That Cursed Your Name",
         "url": "https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6"
       },
@@ -5676,7 +5730,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212444,
       "name": "Nootmare (K-I-L-L-I-n-G) Meow!",
       "url": "https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM"
@@ -6750,7 +6804,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216856,
       "name": "See Me",
       "url": "https://open.spotify.com/track/0zZh4WQlQQYlzoImqXL223"
@@ -7344,7 +7398,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 279870,
       "name": "Stumbling Still",
       "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
@@ -8116,7 +8170,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"

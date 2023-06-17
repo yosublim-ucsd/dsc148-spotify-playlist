@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-153 songs - 6 hr 53 min
+155 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
 | [AUTUMN SLEEP \- Slowed & Reverb](https://open.spotify.com/track/7pmw88lKWUHx00WHK4RqsM) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [ETERNAL IN MEMORIUM \(Slowed & Reverb\)](https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi) | 1:52 | 2022-10-10 | 2023-01-21 |
 | [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 | 2022-10-10 | 2023-03-11 |
+| [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-16 |  |
 | [Before End](https://open.spotify.com/track/2IYDMilyoTEDXMiz2Uxb1P) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Before End](https://open.spotify.com/album/0FLuJwdZPZ5wbUbYzyfJvj) | 2:30 | 2023-01-20 | 2023-06-10 |
 | [Black Road](https://open.spotify.com/track/4CyrXp09zI9cJvWwDF3QZ8) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Black Road](https://open.spotify.com/album/70HBya0gUFpkwUiXCu1i6q) | 3:05 | 2022-10-10 |  |
 | [Blow With The Hoe](https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Blow With The Hoe](https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk) | 1:31 | 2022-10-10 | 2023-02-05 |
@@ -67,6 +68,7 @@
 | [Going Deep](https://open.spotify.com/track/2jlWbXGnQ8RXK7k6n6EnFv) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/4YsTdmaFIjhxkjF6KVCjEu) | 3:32 | 2022-10-10 | 2023-05-06 |
 | [Hallucination](https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD) | [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [Hallucination](https://open.spotify.com/album/7nNj9pxxPWn6WfYDS6r01W) | 2:33 | 2022-10-10 |  |
 | [HEAD\-ON COLLISION](https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [HEAD\-ON COLLISION](https://open.spotify.com/album/0KoWo621xx4T4cesytZCh5) | 2:00 | 2022-10-10 | 2022-11-19 |
+| [Heavenly Key](https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Heavenly Key](https://open.spotify.com/album/6hfG91cy4DWAarb2s8RAj0) | 2:05 | 2023-06-16 |  |
 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 | 2022-12-09 |  |
 | [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 | 2023-03-11 |
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 | 2023-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,691 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,722 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 23 | [De Todo](https://open.spotify.com/track/5LR4MmbgcV9cPXXocaM4Fw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [De Todo](https://open.spotify.com/album/6GkuzEN1kTF2XwtIlwLVEP) | 3:24 |
 | 24 | [Si Caigo](https://open.spotify.com/track/40w0db59EY5siISnJjhb2B) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2UJIBCLSahOqrfG2OchUc3) | 3:23 |
 | 25 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 |
-| 26 | [Hoteles](https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/3RGqp0nFOrkqf5SrE26iaP) | 2:22 |
+| 26 | [Hoteles](https://open.spotify.com/track/0zbaDrVISF93yL82O7LpoQ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/7FzZZCYbxkv4KUZASG8TkF) | 2:22 |
 | 27 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 |
 | 28 | [KFC](https://open.spotify.com/track/1BWNtvWOHNAC81mTV0dCRO) | [Strong Black](https://open.spotify.com/artist/3QRA3GKxUG3RdCWN4TXKbw) | [KFC](https://open.spotify.com/album/29hG1WQAGqbGjEXR7JoXj0) | 2:45 |
 | 29 | [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 38 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 |
 | 39 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 |
 | 40 | [Solo](https://open.spotify.com/track/1ZQnUiFdrK4sxIJwBtiU1J) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Music](https://open.spotify.com/album/7AgLyr8Y97Zik2xfyLx30X) | 3:04 |
-| 41 | [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 |
+| 41 | [Blow](https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/76DSYK5UQMOTeiJFyIY0GG) | 3:22 |
 | 42 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 |
 | 43 | [Fuck Love](https://open.spotify.com/track/4c715EQQZjly3eabqovsi4) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:45 |
 | 44 | [La Maluquera](https://open.spotify.com/track/5A7U0FjslKz2wq3Duh3A7i) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `MCwxMDM0NThlNTY1YmMzZTI1ZWI3NWQyNjk3OGE1OWIzMWMyMmM3ZDMx`
+Snapshot ID: `MCw5ZjM0OGQwZDRiZDYxZTFkM2Y4M2QyMGU4MThhODRiZjYyZTRmMzUw`

@@ -6,10 +6,186 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMDQ3MjAsMDAwMDAwMDBmMDhiZjg0NGQ0ZTE2NmUyMzliNjFjYWYzMjgxZWU3Mw==",
+  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDBjY2JmYzhlNTg3YTI4ODQ5MDc2ZjNhOGRhZDY2YTlhNA==",
   "tracks": [
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Workingman\u2019s Dead (2023 Mickey Hart Mix)",
+        "url": "https://open.spotify.com/album/5C5SWfvEGPnbcasiePuPov"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "Uncle John's Band - 2023 Mickey Hart Mix",
+      "url": "https://open.spotify.com/track/06vCUawLTvK3QqiVglUgLm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Leo Metal, Vol. 43",
+        "url": "https://open.spotify.com/album/03EgqAmPfKglKuaJpJyEoN"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 250849,
+      "name": "Mama Said Knock You Out (Metal Version)",
+      "url": "https://open.spotify.com/track/0idGcEMzwxFcq0fIaEaw82"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "W.A.R",
+        "url": "https://open.spotify.com/album/1GwneM2BRjWpYH5thIVNVZ"
+      },
+      "artists": [
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        }
+      ],
+      "duration_ms": 303370,
+      "name": "W.A.R",
+      "url": "https://open.spotify.com/track/4IARmfIYJe9IfTOFVKtxfk"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "The Fourth Tuning",
+        "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        }
+      ],
+      "duration_ms": 281404,
+      "name": "Man! I Feel Like a Woman!",
+      "url": "https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "In My Heart (Paul Woolford Remixes)",
+        "url": "https://open.spotify.com/album/4FHSJua0erbpegEANcd7Be"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 241122,
+      "name": "In My Heart - Paul Woolford Remix / Edit",
+      "url": "https://open.spotify.com/track/7EhiB1HtMI2Cm25Sa45hmz"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Fatha Fig Ya (Food For Thought)",
+        "url": "https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "duration_ms": 171545,
+      "name": "Fatha Fig Ya (Food For Thought)",
+      "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 131616,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703"
@@ -25,7 +201,7 @@
       "url": "https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "The Gutter",
         "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
@@ -41,39 +217,39 @@
       "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Farewell For Now",
-        "url": "https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 268767,
-      "name": "Farewell For Now",
-      "url": "https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb"
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Mama Said Knock You Out (Metal Version)",
-        "url": "https://open.spotify.com/album/6BRtgXHxvy3oeUo0prwyp7"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 250849,
-      "name": "Mama Said Knock You Out (Metal Version)",
-      "url": "https://open.spotify.com/track/089rdyXtU5ZcG36T4PsJN6"
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "No Particulars",
         "url": "https://open.spotify.com/album/37Yc7iDKfuLvW9KIRof1iM"
@@ -101,39 +277,7 @@
       "url": "https://open.spotify.com/track/5FFoAfeyEX62UkHIoREtgw"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Champagne Shit",
-      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Feeling For You",
-      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "'Round Midnight (Live In Cologne)",
         "url": "https://open.spotify.com/album/6qOPsJFKVjSc78dPvvKfC2"
@@ -149,7 +293,7 @@
       "url": "https://open.spotify.com/track/7fS4JuheYkSmZoJaoSPAUW"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Entre eux deux (The Paris Sessions)",
         "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
@@ -169,7 +313,7 @@
       "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Mississippi Goddam (Live)",
         "url": "https://open.spotify.com/album/006qHkILPYjq0wwcmDkFWA"
@@ -185,7 +329,7 @@
       "url": "https://open.spotify.com/track/501mPDOvG6oHVHe4iFfHPV"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "hue_man nature",
         "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
@@ -205,7 +349,27 @@
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Live Evil (40th Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/76pSxqLWTQeaTtE2CM3Tjj"
@@ -221,55 +385,7 @@
       "url": "https://open.spotify.com/track/0452Vi5AOizUNy12JGw2Fd"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Daryl Palumbo",
-          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
-        },
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 189552,
-      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Impressions (Live)",
-        "url": "https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 612881,
-      "name": "Impressions (feat. Eric Dolphy) - Live",
-      "url": "https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Honey Bee",
         "url": "https://open.spotify.com/album/5ZrdMBy6Uf2NsVXzKo6KQ7"
@@ -305,7 +421,55 @@
       "url": "https://open.spotify.com/track/6Fsgnuv33wyCULPF1H26VA"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Impressions (Live)",
+        "url": "https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 612881,
+      "name": "Impressions (feat. Eric Dolphy) - Live",
+      "url": "https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
@@ -325,7 +489,7 @@
       "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
@@ -341,7 +505,7 @@
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Fool 4 U (feat. JVKE & Enisa) [VIP Mix]",
         "url": "https://open.spotify.com/album/5YICJLb1NL1fFNE0IChktq"
@@ -369,27 +533,7 @@
       "url": "https://open.spotify.com/track/2DBUpz6M5ZO9imNQpRYYv3"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Crush You",
-        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 256069,
-      "name": "Crush You",
-      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Crash The Car",
         "url": "https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1"
@@ -405,7 +549,7 @@
       "url": "https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
         "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
@@ -421,23 +565,23 @@
       "url": "https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Live At The Piano",
         "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
@@ -448,48 +592,12 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 437716,
-      "name": "Icarus (Live At The Piano)",
-      "url": "https://open.spotify.com/track/7GssdltEekRvQsIV6T5TJg"
+      "duration_ms": 52190,
+      "name": "Testimony (Live At The Piano)",
+      "url": "https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/0bxCY9ChIRDzbnMVKFKRYA"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Amber Woodhouse",
-          "url": "https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ"
-        }
-      ],
-      "duration_ms": 230647,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/1rHP6sE5v4NJbRlqTc0PxF"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0B115uvmguqTBcB3jEZlJ3"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Philip Glass: Dodecagon",
         "url": "https://open.spotify.com/album/4V6gHUYVTb3SNfGeLKlcYK"
@@ -509,23 +617,7 @@
       "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 219860,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Bird Eye View (Enhanced Version)",
         "url": "https://open.spotify.com/album/2lU3tr68T6JmodC3EIkNM5"
@@ -553,7 +645,23 @@
       "url": "https://open.spotify.com/track/46765eLgnOKa0O8z1VaKnX"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "The Dethalbum (Expanded Edition)",
         "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
@@ -569,59 +677,7 @@
       "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Master P",
-      "url": "https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Recession Proof",
-        "url": "https://open.spotify.com/album/5maLvB39dCab6QcqHKuVFl"
-      },
-      "artists": [
-        {
-          "name": "Bucky Luger",
-          "url": "https://open.spotify.com/artist/4yJUtCHxjCdT8WXudkyERP"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 133161,
-      "name": "Recession Proof",
-      "url": "https://open.spotify.com/track/2CPKmHG76YbIu9LwG3Gt6T"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"

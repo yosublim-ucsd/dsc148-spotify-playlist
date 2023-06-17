@@ -4,7 +4,7 @@
 
 > Welcome to our curated playlist of lofi beats, chillhop, and jazzhop \- the perfect background music for studying, relaxing, and sleeping\. If you&\#x27;re looking to study for hours on end, or simply need to chill and get some rest, our playlist is here to help you find your zen\. From classic to new tracks
 
-31 songs - 1 hr 10 min
+32 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Above](https://open.spotify.com/track/1BLscWIhIvXNYXpZ8fIwJR) | [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Above](https://open.spotify.com/album/34dc0NOBqCljU4MjaW63FH) | 2:53 | 2023-04-28 |  |
 | [at my place](https://open.spotify.com/track/1NMWcjywktBQa2fP5AW7BX) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [at my place](https://open.spotify.com/album/0v8QwHoXGK5gGR1MVSfFPc) | 1:50 | 2023-04-28 |  |
 | [Bliss](https://open.spotify.com/track/02pnwcXmxFScIswShCBY1K) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Bliss \(A Felicidade\)](https://open.spotify.com/album/2CJJRXjmEiRdPzIEQ8vZPx) | 2:45 | 2023-04-28 |  |
+| [Chasing Sunsets](https://open.spotify.com/track/5GX4DZ7EjfCdElzIQSSSGp) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Chasing Sunsets](https://open.spotify.com/album/4KJTdopuyHUTBi1IYsLw6D) | 1:59 | 2023-06-16 |  |
 | [Comatose](https://open.spotify.com/track/3irsuLLfnMmJaDY4eu4AR1) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Comatose](https://open.spotify.com/album/5dcT06FAb1t5V5K4H4bwwY) | 2:50 | 2023-05-19 | 2023-06-02 |
 | [Confident Vibe](https://open.spotify.com/track/6wGEEhPKZXeFczrupqwU7n) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Confident Vibe](https://open.spotify.com/album/4cyw93NxC90JJNGFaiwBkc) | 2:23 | 2023-05-10 |  |
 | [Daydreams](https://open.spotify.com/track/0i175zzCfpfTWA40Y3uqjs) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Daydreams](https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb) | 2:16 | 2023-05-19 |  |
@@ -38,6 +39,6 @@
 | [Soulplan](https://open.spotify.com/track/6PLc3M2Zh3nQlHmoTkoKBX) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Anthology Beats \(2005\-2015\)](https://open.spotify.com/album/0tsEgLd5PxI99MIsWLhJ5I) | 2:27 | 2023-04-28 | 2023-06-02 |
 | [Starlight](https://open.spotify.com/track/73ebDyoIHxBZEWR7Bhd5ob) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Starlight](https://open.spotify.com/album/54eFjcggdyiZjUh4rrTSJY) | 2:06 | 2023-06-01 |  |
 | [Summer Haze](https://open.spotify.com/track/1hMWQOLyTCRo6U7aZD73Jq) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Summer Haze](https://open.spotify.com/album/4lc39pbZONxRsYDjWYMstK) | 2:08 | 2023-04-28 | 2023-06-02 |
-| [Swirl Solstice](https://open.spotify.com/track/54lECXFd2ARHxwOfIVncxJ) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Swirl Solstice](https://open.spotify.com/album/2a0rVxvCEHeKYZrPD4FWdk) | 2:29 | 2023-05-19 |  |
+| [Swirl Solstice](https://open.spotify.com/track/54lECXFd2ARHxwOfIVncxJ) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Swirl Solstice](https://open.spotify.com/album/2a0rVxvCEHeKYZrPD4FWdk) | 2:29 | 2023-05-19 | 2023-06-17 |
 
 \*This playlist was first scraped on 2023-05-31. Prior content cannot be recovered.

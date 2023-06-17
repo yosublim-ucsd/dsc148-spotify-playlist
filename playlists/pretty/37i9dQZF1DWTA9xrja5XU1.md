@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 
 > <a href="spotify:artist:41rVuRHYAiH7ltBTHVR9We">Slushii</a> drops a colorful mix full of rumbling bass and head banging tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 22 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,965 likes - 22 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [E.R.U Emergency Broadcast \(Intro\) \- Mixed](https://open.spotify.com/track/0vmZyTqI5J3PLwyU5r7ys5) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [E.R.U Emergency Broadcast \(Intro\) \[Mixed\]](https://open.spotify.com/album/6PuN7QYrTOidlqolwMKjHv) | 0:50 |
 | 2 | [ICE \- Mixed](https://open.spotify.com/track/2jnHWiG4e1SMhvRUIkpAB3) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ICE \(Mixed\)](https://open.spotify.com/album/2J6Uvbe4WcQwAuWfqfnqMI) | 2:20 |
 | 3 | [Rumble \- Mixed](https://open.spotify.com/track/6ap9zLTT2jqcLbqrZZ20u8) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Rumble \(Mixed\)](https://open.spotify.com/album/1RNiVKtGHBQ2WjRINcHoU1) | 3:23 |
-| 4 | [Do That \- Mixed](https://open.spotify.com/track/4YBo1LUxdo3XLrtIxru4sh) | [Volt](https://open.spotify.com/artist/1egnc7bfuijfn2K4yGqOCC), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Do That \(Mixed\)](https://open.spotify.com/album/3jg8IFS92G7rk9qsp2Dbq3) | 2:09 |
+| 4 | [Do That \- Mixed](https://open.spotify.com/track/4YBo1LUxdo3XLrtIxru4sh) | [Volt](https://open.spotify.com/artist/41yb33NC2lTj6wb1oLd0y2), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Do That \(Mixed\)](https://open.spotify.com/album/3jg8IFS92G7rk9qsp2Dbq3) | 2:09 |
 | 5 | [Invaders From Mars \- Mixed](https://open.spotify.com/track/7a0e9QLJe5UPBejgpBKMSA) | [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Invaders From Mars \(Mixed\)](https://open.spotify.com/album/3PhzFJV2WuLcPRi1sWR9xp) | 2:21 |
 | 6 | [Sleepless \- Mixed](https://open.spotify.com/track/4kdWGjrqKMwHMZRJs9doBZ) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Sleepless \(Mixed\)](https://open.spotify.com/album/3a5tOPhUAi16pGnALPlxcG) | 2:48 |
 | 7 | [Down With Your Love \- Mixed](https://open.spotify.com/track/0SuqkRzgOgSHg49h54dHSy) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Down With Your Love \(Mixed\)](https://open.spotify.com/album/2bPCEn1HZRIFiiMM11rMaT) | 4:11 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 | 21 | [All I Need \- Mixed](https://open.spotify.com/track/7unSiaNJeb0ERu9cMnqUGv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(Mixed\)](https://open.spotify.com/album/14ex7NWmYTZedA9VSEWi6c) | 2:38 |
 | 22 | [Sweet Illusion \- Mixed](https://open.spotify.com/track/2VHg152omQ65DyQigrxWwd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Sweet Illusion \(Mixed\)](https://open.spotify.com/album/09RC6h4C1PiMCA6WSJz55O) | 2:59 |
 
-Snapshot ID: `MCw4MGEwNzUyYTI4MWJkZTkzODE3MTNmNjk5MTVlOTlmZjM1ZGE1ZDAz`
+Snapshot ID: `MCwxZTRmNzhiOGZmNTlhNGRkYzA5OGM4NDJhYjU4MjYzYTAxMGY2MzY5`

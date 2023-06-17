@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,054 likes - 681 songs - 1 day 21 hr 50 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,056 likes - 681 songs - 1 day 21 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,7 +378,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 368 | [Welcome To The Occupation](https://open.spotify.com/track/0lWmYkUT12Nv9AD8EiKGPt) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 2:48 |
 | 369 | [Perihelion](https://open.spotify.com/track/6Mxqj3ClyindysAxYqqrrg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 3:11 |
 | 370 | [Heresy](https://open.spotify.com/track/0xVErSyw96YDLsjtNNpZJf) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 3:54 |
-| 371 | [Stand \- Remastered](https://open.spotify.com/track/1xZugBFMDSnCBTNrreWET0) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 3:12 |
+| 371 | [Stand \- Remastered 2013](https://open.spotify.com/track/1xZugBFMDSnCBTNrreWET0) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 3:12 |
 | 372 | [Rock 'n' Roll with Me \- 2016 Remaster](https://open.spotify.com/track/0VLd3BXsGTXDzg5oVfpmr8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:02 |
 | 373 | [Mudmen](https://open.spotify.com/track/5F7YHcQPCRUNfUehsjgAu1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:17 |
 | 374 | [Note to Self](https://open.spotify.com/track/4jaEiBXMjgpAtsFM2zBYEB) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Timeline](https://open.spotify.com/album/5ufzqDK2p7Te64hQBAu35t) | 2:20 |

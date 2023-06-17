@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Code Orange
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Knocked Loose
 
-429 songs - 1 day 3 hr 36 min
+435 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 |  |
 | [Decider](https://open.spotify.com/track/1RDsaI3HmmqcCpAu6xjna3) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Decider](https://open.spotify.com/album/78opHBtvQxLJqlZ14uEHjW) | 4:29 | 2022-08-05 |  |
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-02 |  |
+| [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-16 |  |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-22 |  |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-02-17 |  |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-22 |  |
@@ -285,6 +286,7 @@
 | [Pig Pen](https://open.spotify.com/track/4VM9hWSTtGEEqtksVMf2w8) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Pig Pen](https://open.spotify.com/album/5EeOGbGvN3O0wjUuoXU5lE) | 1:52 | 2022-11-04 |  |
 | [Pigs, Shit & Trash](https://open.spotify.com/track/6cMLVHVMUgfzEI0Ic4uVOH) | [Weeping Icon](https://open.spotify.com/artist/7AQAl2GtBkKKtSYH9PoDX9) | [Pigs, Shit & Trash](https://open.spotify.com/album/2iCjmIHUYLIbZRQd9HenXo) | 3:37 | 2022-10-14 |  |
 | [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 |  |
+| [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 |  |
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 |  |
 | [Pray](https://open.spotify.com/track/4weKyrqLqUmsCST8e6g4ww) | [Vosh](https://open.spotify.com/artist/0bh5RSxIUP58Gvd5nLaCPs) | [Pray](https://open.spotify.com/album/1RjQFy4E02oX3RBq8oSFet) | 3:01 | 2023-02-03 |  |
 | [Predatory Savior](https://open.spotify.com/track/7sXYOblxpZmMfWOji020Q5) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Predatory Savior](https://open.spotify.com/album/6nswezZB2rXRS1aGz5Phnh) | 2:58 | 2022-06-17 |  |
@@ -321,6 +323,7 @@
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 |  |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 |  |
+| [Siren Song](https://open.spotify.com/track/0HCHJZ0inruYnyCDC0PtPN) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Siren Song](https://open.spotify.com/album/13eHcKjVc3pMv0LeMPZW03) | 3:33 | 2023-06-16 |  |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
@@ -378,6 +381,7 @@
 | [The Wretched; The Ruinous](https://open.spotify.com/track/2r7hqnJ4jVQRrT5A5oBF9B) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/5I9RcuaXY3BwAYYNYhVlTL) | 4:20 | 2023-01-27 |  |
 | [Thermal Runaway](https://open.spotify.com/track/4CBDr82fX76y2sflS6Mb7d) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk), [Cara Drolshagen](https://open.spotify.com/artist/0ZaE2bBAU8bnB8tIN4bZkB) | [Thermal Runaway](https://open.spotify.com/album/2MzUgcAHyVNt30g63NweXV) | 4:01 | 2022-02-04 |  |
 | [They Fear Us](https://open.spotify.com/track/4AoCVndz22Nf7nCag0pvSO) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3Jv1c7grobLidRkAE8PRA0) | 4:10 | 2022-02-04 |  |
+| [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ) | [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1) | 4:02 | 2023-06-16 |  |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 |  |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 |  |
@@ -397,6 +401,7 @@
 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 | 2023-04-21 |  |
 | [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 |  |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 |  |
+| [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-16 |  |
 | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/track/1soD4IaI1iibVmQXwbyY7R) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/album/3fqekMyypWqmySaVMdToi6) | 3:54 | 2023-01-27 |  |
 | [Violent Compulsion for Conquest](https://open.spotify.com/track/1OB49XpJ0oTfGqTJFEBzjo) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Violent Compulsion for Conquest](https://open.spotify.com/album/4NpkaZpM336JMTwG8rNDI5) | 4:32 | 2022-10-07 |  |
 | [Visions In The Mist](https://open.spotify.com/track/4cPJ4tDwsjUOfBaLgiRftu) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 3:00 | 2023-03-10 |  |
@@ -427,6 +432,7 @@
 | [Wrath/Plague](https://open.spotify.com/track/7maoibDcbc8aUeXDConVG1) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Wrath/Plague](https://open.spotify.com/album/4rXaL0ilCRsrIov08lAcCX) | 2:36 | 2022-11-11 |  |
 | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/track/4S8RzeHLdmpFc8ohVomQFd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/album/1NIc3seb1B4KXDZRh3NRRx) | 4:33 | 2022-12-16 |  |
 | [X](https://open.spotify.com/track/5JyKCsBv3rOjvaew73GNmd) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [X](https://open.spotify.com/album/4eALyRJZW1DjKdcQfho0Jm) | 3:42 | 2023-01-27 |  |
+| [Y.S.A.B.](https://open.spotify.com/track/40wSDvvvOUmnVS7oiwVBj7) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [SUNAMI \(L.P.\)](https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara) | 2:26 | 2023-06-16 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 |  |
 | [YES ALL MEN](https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [YES ALL MEN](https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg) | 2:23 | 2023-03-31 |  |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 |  |

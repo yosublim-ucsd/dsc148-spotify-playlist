@@ -1,12 +1,12 @@
 {
   "description": "every day grooves for a laid back day.",
-  "num_followers": 883847,
+  "num_followers": 883956,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGQ4NzgyNTZmNDY0Nzc2ZWI3MjFmNTQ0NDkxMDYwNDI5NDZkOGVm",
+  "snapshot_id": "MCxjZTU1YWUyNDA0ZDg1ZGYyY2VkMjgzYmI5ZTMyMmQ3MDA3YzI0NjIz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 256069,
       "name": "Crush You",
       "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
+      "added_at": "2023-06-16 06:18:21",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV"
+      },
+      "artists": [
+        {
+          "name": "Vahn Black",
+          "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
+        }
+      ],
+      "duration_ms": 375551,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/3uWN2ZgglpRGuFvuC4fCEx"
     },
     {
       "added_at": "2023-05-05 04:56:38",
@@ -333,7 +349,7 @@
         },
         {
           "name": "Syd",
-          "url": "https://open.spotify.com/artist/2AWG3k9wVqM2qKpAiz6TpV"
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         },
         {
           "name": "Didda Joe",

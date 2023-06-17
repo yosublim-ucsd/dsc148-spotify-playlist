@@ -19079,6 +19079,32 @@
     },
     {
       "album": {
+        "name": "is it just me.",
+        "url": "https://open.spotify.com/album/6QyKnZWH9kgGCRIxYd1RN6"
+      },
+      "artists": [
+        {
+          "name": "everythingnnothing",
+          "url": "https://open.spotify.com/artist/034dZjB1RkTzm13JUfjFIF"
+        },
+        {
+          "name": "Nihility",
+          "url": "https://open.spotify.com/artist/3GyuJZ9X2SEqU9qf6a993U"
+        },
+        {
+          "name": "hoowup",
+          "url": "https://open.spotify.com/artist/4ymm68AEHKaqFmQ9JgYMSv"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186856,
+      "name": "is it just me.",
+      "url": "https://open.spotify.com/track/4nZu5GNuNzI08ZOXIGdgVO"
+    },
+    {
+      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/0DytkWu5h86VOHYXNi7idN"
       },

@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-309 songs - 15 hr 21 min
+310 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2023-04-06 |  |
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2023-04-06 |  |
 | [cognizant](https://open.spotify.com/track/5CC8QT7TuttcXXSlj5cx2T) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [cognizant](https://open.spotify.com/album/4Fb4c1N2xSMNyAJerSsnqF) | 3:11 | 2023-04-06 | 2023-05-27 |
+| [Collectively](https://open.spotify.com/track/5sUoXvIj0QKfsGRAtU8NAk) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Collectively](https://open.spotify.com/album/4AYdn5PDrvAi9E4Qe3HIij) | 3:17 | 2023-06-16 |  |
 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-05-19 |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2023-04-06 |  |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-04-06 |  |
@@ -124,7 +125,7 @@
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2023-04-06 |  |
 | [Gentle Caress](https://open.spotify.com/track/1jdDQ30GtvIFNYzwJnVvzx) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:35 | 2023-04-06 |  |
 | [Gentle Stream](https://open.spotify.com/track/6zgklsgTYXw9pVHY2oOG81) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Signals](https://open.spotify.com/album/1CcHLjxqQLFZhybWkpohWQ) | 3:18 | 2023-04-06 |  |
-| [Glass](https://open.spotify.com/track/2yahGCO8917oAWa54ls2Rj) | [Augbell](https://open.spotify.com/artist/5VsMVF15ajnzVn80mcZKYE) | [Glass](https://open.spotify.com/album/1lPcoLSoinuQN6dJfPvQi4) | 2:27 | 2023-04-06 |  |
+| [Glass](https://open.spotify.com/track/2yahGCO8917oAWa54ls2Rj) | [Augbell](https://open.spotify.com/artist/5VsMVF15ajnzVn80mcZKYE) | [Glass](https://open.spotify.com/album/1lPcoLSoinuQN6dJfPvQi4) | 2:27 | 2023-04-06 | 2023-06-17 |
 | [glass house](https://open.spotify.com/track/6r42FewoFkF5VvYskh4aLL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:49 | 2023-04-06 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2023-04-06 |  |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2023-04-06 |  |

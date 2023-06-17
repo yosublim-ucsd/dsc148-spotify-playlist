@@ -4,13 +4,14 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-89 songs - 5 hr 4 min
+90 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [900 Miles](https://open.spotify.com/track/6GWTEaqEIy6Psy28owjiSL) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 3:51 | 2023-04-14 |  |
 | [A Few Old Memories](https://open.spotify.com/track/32ZbqXDffP1uL57jEFKLGw) | [Olivia Ellen Lloyd](https://open.spotify.com/artist/0itd8fCSPL3NAu9CAhuHG0) | [A Few Old Memories](https://open.spotify.com/album/0LcaVpt8dbgrpH5MptMTB0) | 3:14 | 2023-04-14 |  |
 | [Allegheny Town](https://open.spotify.com/track/7hQDksmDV1CR6wDDAeLaQx) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:32 | 2023-04-14 |  |
+| [Annie](https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:53 | 2023-06-16 |  |
 | [Another Heartache](https://open.spotify.com/track/6ind9J8gGq4ooUhwIsmEoQ) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Just You Wait And See](https://open.spotify.com/album/3ssgqsQBFmoGsMANTmDr9L) | 2:32 | 2023-04-14 |  |
 | [Another Highway this Time](https://open.spotify.com/track/3FlNz8wQHg70Cl5vgQPDvD) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Another Highway this Time](https://open.spotify.com/album/6gXdMqTmZQiOmDGAXGs3du) | 3:18 | 2023-04-14 |  |
 | [Backstep Cindy / Purple Bamboo](https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Song of the Traveling Daughter \(Bonus Track Version\)](https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL) | 3:01 | 2023-04-14 |  |

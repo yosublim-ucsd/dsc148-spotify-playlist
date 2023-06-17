@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Don3ydon",
+  "description": "In honor of Baltimore Club Music Day (06/17/23), please enjoy this mix of classic and new Bmore Club thanks to the genre-founding label Unruly Records this week! ",
   "name": "Baltimore Club",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 109106,
       "name": "African Rotation (feat. DJ Flex)",
       "url": "https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 62437,
       "name": "AH BAH",
       "url": "https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 99500,
       "name": "Ah Bah, Pt. 2",
       "url": "https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF"
@@ -78,10 +78,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
+    },
+    {
+      "album": {
+        "name": "Unruly Records Anthology - 1991-1995 (The Early Years)",
+        "url": "https://open.spotify.com/album/4PC2YxlMGjCFFpznqUlpFn"
+      },
+      "artists": [
+        {
+          "name": "Underground Trak Team",
+          "url": "https://open.spotify.com/artist/6Cz6UZPFR7kMR2HgbDOrNl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211076,
+      "name": "And The Beat Goes - 2023 Digital Remaster",
+      "url": "https://open.spotify.com/track/0N0OOH5XRlMIqW0iuzwNhy"
     },
     {
       "album": {
@@ -122,7 +140,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 175438,
       "name": "Attack of the Horns(Baltimore Club Music)",
       "url": "https://open.spotify.com/track/4o7p5STobTPSEnGVfqH0nk"
@@ -140,7 +158,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 240960,
       "name": "BALTIMORE",
       "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
@@ -224,7 +242,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 155653,
       "name": "BING BONG (SIDETALKNYC 2 BMORE)",
       "url": "https://open.spotify.com/track/6tLTynz9XBc6J69Ji1YuQO"
@@ -249,6 +267,50 @@
     },
     {
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "album": {
+        "name": "Unruly Records Anthology - 1991-1995 (The Early Years)",
+        "url": "https://open.spotify.com/album/4PC2YxlMGjCFFpznqUlpFn"
+      },
+      "artists": [
+        {
+          "name": "K-Man",
+          "url": "https://open.spotify.com/artist/5UhazpdFcZSPfmW09GtDO2"
+        },
+        {
+          "name": "Scottie B",
+          "url": "https://open.spotify.com/artist/0XSK3rytqC6fQZU0KEier5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243082,
+      "name": "Blow - Scottie B Edit",
+      "url": "https://open.spotify.com/track/79AemnekeOj05e8oAarTHZ"
+    },
+    {
+      "album": {
         "name": "Boosie I'm Outside Anthem",
         "url": "https://open.spotify.com/album/3LpI54fMyql9htHxvl8tV9"
       },
@@ -260,10 +322,142 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 105291,
       "name": "Boosie I'm Outside Anthem",
       "url": "https://open.spotify.com/track/3SxQ7pEECFn4WQl8HG71fH"
+    },
+    {
+      "album": {
+        "name": "Booty Mission (Remix Pack)",
+        "url": "https://open.spotify.com/album/6gYqTT8eUWgUcw0L82GOk2"
+      },
+      "artists": [
+        {
+          "name": "Blunted Dummies",
+          "url": "https://open.spotify.com/artist/2efpM0m0EfenvZirh0haFd"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243569,
+      "name": "Booty Mission - 2023 Digital Remaster",
+      "url": "https://open.spotify.com/track/0rEx9vk5K8qmkK78dHZlDA"
+    },
+    {
+      "album": {
+        "name": "Booty Mission (Remix Pack)",
+        "url": "https://open.spotify.com/album/6gYqTT8eUWgUcw0L82GOk2"
+      },
+      "artists": [
+        {
+          "name": "Blunted Dummies",
+          "url": "https://open.spotify.com/artist/2efpM0m0EfenvZirh0haFd"
+        },
+        {
+          "name": "DJ AyyMello",
+          "url": "https://open.spotify.com/artist/1R6kjJ2yQQ7i9fxn9t0PdL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Booty Mission - DJ AyyMello ReMix",
+      "url": "https://open.spotify.com/track/6NhZppbFx4ahC67rlkaqVi"
+    },
+    {
+      "album": {
+        "name": "Booty Mission (Remix Pack)",
+        "url": "https://open.spotify.com/album/6gYqTT8eUWgUcw0L82GOk2"
+      },
+      "artists": [
+        {
+          "name": "Blunted Dummies",
+          "url": "https://open.spotify.com/artist/2efpM0m0EfenvZirh0haFd"
+        },
+        {
+          "name": "Shawn Caesar",
+          "url": "https://open.spotify.com/artist/1zBZAyu4bdEYfSIYKizAz8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Booty Mission - Shawn's Turnpike Mix",
+      "url": "https://open.spotify.com/track/3nl64u8ANk9Fbz3Op8eLc6"
+    },
+    {
+      "album": {
+        "name": "Unruly Records Anthology - 1991-1995 (The Early Years)",
+        "url": "https://open.spotify.com/album/4PC2YxlMGjCFFpznqUlpFn"
+      },
+      "artists": [
+        {
+          "name": "Griff-Man",
+          "url": "https://open.spotify.com/artist/24bn1Riav85YsSwg2KNQ2a"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277531,
+      "name": "Break It Down - 2023 Digital Remaster",
+      "url": "https://open.spotify.com/track/4bkhYKAm5seZ1b4PVjqbz1"
+    },
+    {
+      "album": {
+        "name": "Bring in the Katz",
+        "url": "https://open.spotify.com/album/3VhwDr1eKcPq1LnOhjtV1Y"
+      },
+      "artists": [
+        {
+          "name": "Donn3ydon",
+          "url": "https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv"
+        },
+        {
+          "name": "KW Griff",
+          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "DJ Dizzy",
+          "url": "https://open.spotify.com/artist/4mdsP3zu0fmDAXpCbXlCXM"
+        },
+        {
+          "name": "Pork Chop",
+          "url": "https://open.spotify.com/artist/27N7UTGtDzvIkjBemCZnXe"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101237,
+      "name": "Bring in the Katz",
+      "url": "https://open.spotify.com/track/4juAAdAK4YIQtYxnJORBZp"
+    },
+    {
+      "album": {
+        "name": "Club Constructions Volume 3",
+        "url": "https://open.spotify.com/album/6fre01LnENddK89ssp8Z15"
+      },
+      "artists": [
+        {
+          "name": "KW Griff",
+          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Pork Chop",
+          "url": "https://open.spotify.com/artist/27N7UTGtDzvIkjBemCZnXe"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264597,
+      "name": "Bring in the Katz - Original Mix",
+      "url": "https://open.spotify.com/track/7bLyV7vbRhhhjSlgWPrnZZ"
     },
     {
       "album": {
@@ -278,7 +472,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 132371,
       "name": "Chapel",
       "url": "https://open.spotify.com/track/0YrjSNguDky4HAjedoy75D"
@@ -308,7 +502,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 241737,
       "name": "Cherry Hill & Down Ya Block",
       "url": "https://open.spotify.com/track/6zVcyW3yhvdpVsLR8D21Wq"
@@ -360,7 +554,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 189518,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
@@ -396,10 +590,28 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 127093,
       "name": "Dance My Pain Away",
       "url": "https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh"
+    },
+    {
+      "album": {
+        "name": "Vol. 5: The Official",
+        "url": "https://open.spotify.com/album/3e4vfZSUzIEbptKR35Eu4B"
+      },
+      "artists": [
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171897,
+      "name": "Dance My Pain Away",
+      "url": "https://open.spotify.com/track/6MP8D1BNhOBRix0GDRP2SO"
     },
     {
       "album": {
@@ -414,7 +626,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 219611,
       "name": "Did Dat",
       "url": "https://open.spotify.com/track/3bX9ad1aCeivH0QHsbuG62"
@@ -436,7 +648,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 150256,
       "name": "Don't Make",
       "url": "https://open.spotify.com/track/1kT1zbcFWWwCkssGnFhNF6"
@@ -458,6 +670,24 @@
       "duration_ms": 186500,
       "name": "Don't Stop Now",
       "url": "https://open.spotify.com/track/1X7DlBhfoQZw2XIaxijkxa"
+    },
+    {
+      "album": {
+        "name": "Baltimore Club Classics (Dukeyman Greatest Hits)",
+        "url": "https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx"
+      },
+      "artists": [
+        {
+          "name": "Dukeyman",
+          "url": "https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232646,
+      "name": "Doo Dew Rock",
+      "url": "https://open.spotify.com/track/3stEUAiPba1zxn0nsWMzO9"
     },
     {
       "album": {
@@ -494,7 +724,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 104257,
       "name": "Down The Hill",
       "url": "https://open.spotify.com/track/2L5D6asgJFrMuG3FBgUr8E"
@@ -519,6 +749,24 @@
     },
     {
       "album": {
+        "name": "The Best of Rod Lee From K-Swift's 1st 4 CDs",
+        "url": "https://open.spotify.com/album/2AjbnJHQXADrjjjhQwIStc"
+      },
+      "artists": [
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157253,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/05zLj31CdYYcfZ4XrIB7cf"
+    },
+    {
+      "album": {
         "name": "For The Night (Baltimore Club Mix)",
         "url": "https://open.spotify.com/album/2ovGhu12Tw1KGGKmu8p1ee"
       },
@@ -530,7 +778,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 124708,
       "name": "For The Night - Baltimore Club Mix",
       "url": "https://open.spotify.com/track/51R4WX6DStgRHLbUAolVbC"
@@ -602,7 +850,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 197590,
       "name": "Get Busy (Baltimore Club Music)",
       "url": "https://open.spotify.com/track/42oCj6LkRWjIR2vBKJdIF4"
@@ -620,10 +868,28 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 157936,
       "name": "Get Crazy (Baltimore Club)",
       "url": "https://open.spotify.com/track/3oEUiOVFhS11NNzxSJZ7Wl"
+    },
+    {
+      "album": {
+        "name": "Get Drxnk Anthem",
+        "url": "https://open.spotify.com/album/0pTzjzxmFWhrisOEDDQZru"
+      },
+      "artists": [
+        {
+          "name": "RunItUp Jordan",
+          "url": "https://open.spotify.com/artist/5wrF06SUh2cl5dFUZPvArf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93946,
+      "name": "Get Drxnk Anthem",
+      "url": "https://open.spotify.com/track/6h5Rh4Sei3Xod0jqYwbf8M"
     },
     {
       "album": {
@@ -642,7 +908,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
@@ -676,7 +942,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194000,
       "name": "GETCHO!",
       "url": "https://open.spotify.com/track/57UOf2ALJFZ0aA5zDzi3Pf"
@@ -694,7 +960,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 174750,
       "name": "Gettin' Rich",
       "url": "https://open.spotify.com/track/6HspriFXZC7m0eG57mwBsi"
@@ -734,10 +1000,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 171000,
       "name": "GO AWFF",
       "url": "https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ"
+    },
+    {
+      "album": {
+        "name": "The Blaq-Files",
+        "url": "https://open.spotify.com/album/7cpQ7pGRI0zqDyn2vMzB4H"
+      },
+      "artists": [
+        {
+          "name": "Blaqstarr",
+          "url": "https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193961,
+      "name": "Hands Up Thumbs Down",
+      "url": "https://open.spotify.com/track/4nAmSKuWz4cLvbNZs0aYLQ"
     },
     {
       "album": {
@@ -752,10 +1036,28 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 174706,
       "name": "Hands Up Thumbs Down (feat. Deuce Tre Deuce)",
       "url": "https://open.spotify.com/track/50d71NpWqsaQfHdBCBv05g"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4dMIykwjkpAzBj7O1vlC86"
+      },
+      "artists": [
+        {
+          "name": "RunItUp Jordan",
+          "url": "https://open.spotify.com/artist/5wrF06SUh2cl5dFUZPvArf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112104,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4X83uLJ1EvSgyO0ILqEneu"
     },
     {
       "album": {
@@ -796,7 +1098,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 206596,
       "name": "How 2 Stunt",
       "url": "https://open.spotify.com/track/0iBtoy6i4iGcB6WtTUF4cq"
@@ -814,7 +1116,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 295026,
       "name": "Hush That Fuss",
       "url": "https://open.spotify.com/track/7nsxgcx2mSkavqB5bAQ93j"
@@ -832,7 +1134,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 145465,
       "name": "I Don't Wanna Do This Anymore, Pt. 2 - Baltimore Club Music Remix",
       "url": "https://open.spotify.com/track/2Yqi9wOfJ0RE6XymE94oTC"
@@ -890,10 +1192,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152188,
       "name": "I Luv U",
       "url": "https://open.spotify.com/track/4umCDOWP5WzD44e2bCsskt"
+    },
+    {
+      "album": {
+        "name": "Mr. International",
+        "url": "https://open.spotify.com/album/6zeWU1EUSWqn84m1ppmPjH"
+      },
+      "artists": [
+        {
+          "name": "Scottie B",
+          "url": "https://open.spotify.com/artist/0XSK3rytqC6fQZU0KEier5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256354,
+      "name": "I'm Ill Remix",
+      "url": "https://open.spotify.com/track/0jLquA851SjFdhT5UKOOxa"
     },
     {
       "album": {
@@ -948,10 +1268,54 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 189500,
       "name": "If Its Beef",
       "url": "https://open.spotify.com/track/0BArXmqAML8MyniJzTF7ow"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: Operation Shut Em Down",
+        "url": "https://open.spotify.com/album/1TrPAu7lRjyh4CiysQGDvu"
+      },
+      "artists": [
+        {
+          "name": "KW Griff",
+          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164919,
+      "name": "If You Believe (RMX)",
+      "url": "https://open.spotify.com/track/3W47l4hp6k3TCAcM1va8mf"
+    },
+    {
+      "album": {
+        "name": "It's Baltimore Baby",
+        "url": "https://open.spotify.com/album/4yHyyp0l8Cn8yyAy6U0JG6"
+      },
+      "artists": [
+        {
+          "name": "RunItUp Jordan",
+          "url": "https://open.spotify.com/artist/5wrF06SUh2cl5dFUZPvArf"
+        },
+        {
+          "name": "DJ Dizzy",
+          "url": "https://open.spotify.com/artist/4mdsP3zu0fmDAXpCbXlCXM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105430,
+      "name": "It's Baltimore Baby",
+      "url": "https://open.spotify.com/track/1lGCh9GQZ9S2iDfWprz1YU"
     },
     {
       "album": {
@@ -970,10 +1334,32 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 146813,
       "name": "Jerome",
       "url": "https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD"
+    },
+    {
+      "album": {
+        "name": "Jersey Style",
+        "url": "https://open.spotify.com/album/2nCCvpN0sWtzfHjgq3Sqij"
+      },
+      "artists": [
+        {
+          "name": "Chad B",
+          "url": "https://open.spotify.com/artist/05bVvqdTh8ZcrvNi0wWbRq"
+        },
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Jersey Style",
+      "url": "https://open.spotify.com/track/3A2kaIGMpB7gpVM1Sc4DWU"
     },
     {
       "album": {
@@ -1004,17 +1390,17 @@
       },
       "artists": [
         {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        },
-        {
           "name": "K Life",
           "url": "https://open.spotify.com/artist/3x0vVK7RYsx6p1UTcPVCIq"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
         }
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 113666,
       "name": "Let's Get High",
       "url": "https://open.spotify.com/track/0IOBdVYuD5hvzTBj3sqvke"
@@ -1032,10 +1418,32 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 176000,
       "name": "Like This - Original Mix",
       "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
+    },
+    {
+      "album": {
+        "name": "Vol. 4: The Pressure",
+        "url": "https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF"
+      },
+      "artists": [
+        {
+          "name": "KW Griff",
+          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177853,
+      "name": "Lil John",
+      "url": "https://open.spotify.com/track/1ORmcLub5PBoCoXL4TXcAs"
     },
     {
       "album": {
@@ -1094,7 +1502,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 158000,
       "name": "Microdosing - Mixed",
       "url": "https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb"
@@ -1112,7 +1520,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 140062,
       "name": "Milly Rock - Baltimore Club Remix",
       "url": "https://open.spotify.com/track/1V77B2FoRDbFbRAQvmB8i4"
@@ -1166,7 +1574,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 166094,
       "name": "Molly Bounce !",
       "url": "https://open.spotify.com/track/2mptkB2Hzi38QOj4oIfg7D"
@@ -1246,10 +1654,46 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 180923,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/7MT4IUbVqT4XX604wOHjqj"
+    },
+    {
+      "album": {
+        "name": "Vol. 1: Operation Startup",
+        "url": "https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t"
+      },
+      "artists": [
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "My Crew, My Dogs",
+      "url": "https://open.spotify.com/track/12RNliNGrkpTQjK0azGj5t"
+    },
+    {
+      "album": {
+        "name": "...and all the pieces matter, Five Years of Music from The Wire (deluxe version)",
+        "url": "https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl"
+      },
+      "artists": [
+        {
+          "name": "DJ Technics",
+          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77200,
+      "name": "My Life Extra",
+      "url": "https://open.spotify.com/track/0AzwzBnprLl9SAv26Up4TY"
     },
     {
       "album": {
@@ -1264,10 +1708,28 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 104594,
       "name": "New Diamonds (Baltimore Club Music)",
       "url": "https://open.spotify.com/track/4Hpw9nTTv6ADcE9y1ta6xx"
+    },
+    {
+      "album": {
+        "name": "Unruly (Remixes)",
+        "url": "https://open.spotify.com/album/5TcaMQxndKqtgXsfnNGpxq"
+      },
+      "artists": [
+        {
+          "name": "Scottie B",
+          "url": "https://open.spotify.com/artist/0XSK3rytqC6fQZU0KEier5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233121,
+      "name": "Niggaz Fightin",
+      "url": "https://open.spotify.com/track/1orDRe3Vddfs7KIumAVevu"
     },
     {
       "album": {
@@ -1286,7 +1748,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 186513,
       "name": "No Breaks",
       "url": "https://open.spotify.com/track/09wmHoda5nYovzg7SPnzvb"
@@ -1338,7 +1800,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 250285,
       "name": "Off The Chain Dj Slugo Remix",
       "url": "https://open.spotify.com/track/0uuIGg17cKJ6HXkFku3wav"
@@ -1374,10 +1836,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 97616,
       "name": "P's and Q's - Baltimore Club Remix",
       "url": "https://open.spotify.com/track/7wW943fWk1mAKatFFkZEYu"
+    },
+    {
+      "album": {
+        "name": "Tales From Top Billin Volume 3",
+        "url": "https://open.spotify.com/album/7nHQ6lD8EysgaiPa27sFnN"
+      },
+      "artists": [
+        {
+          "name": "Dj Booman",
+          "url": "https://open.spotify.com/artist/7vYA1adA7T1pbr9HzgFuuS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269614,
+      "name": "Pick Em Up - Unreleased Mix",
+      "url": "https://open.spotify.com/track/68YZOxa1rESCKn8rbSyLMS"
     },
     {
       "album": {
@@ -1418,6 +1898,42 @@
       "duration_ms": 192333,
       "name": "Property",
       "url": "https://open.spotify.com/track/1EkEIs8mz3uCzys3sQgabD"
+    },
+    {
+      "album": {
+        "name": "Vol. 1: Operation Startup",
+        "url": "https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t"
+      },
+      "artists": [
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99946,
+      "name": "Puff that Lie",
+      "url": "https://open.spotify.com/track/0iyL368ab48STvaN7K1CWF"
+    },
+    {
+      "album": {
+        "name": "The Doo Doo Project",
+        "url": "https://open.spotify.com/album/164srpGpf5ttnpIFGrNSei"
+      },
+      "artists": [
+        {
+          "name": "2 Hyped Brothers & A Dog",
+          "url": "https://open.spotify.com/artist/4uuHzqQ4a2GT3jFsAlZSip"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Pull Ya Gunz Out",
+      "url": "https://open.spotify.com/track/0fX3H91e1XW4FzKCpeczGU"
     },
     {
       "album": {
@@ -1472,7 +1988,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 179653,
       "name": "Put Your Leg Up (Like This?)",
       "url": "https://open.spotify.com/track/0xSxNcwlfeVuvh0y84Z846"
@@ -1490,7 +2006,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "R U Ready - Original Mix",
       "url": "https://open.spotify.com/track/71kaxsdxJeLJRUmrQlwZ4K"
@@ -1526,10 +2042,50 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 237493,
       "name": "Rider Girl (feat. D.O.G.)",
       "url": "https://open.spotify.com/track/0oeXzDlElu9rFXfc5ioW4T"
+    },
+    {
+      "album": {
+        "name": "Operation: Playtime",
+        "url": "https://open.spotify.com/album/4sunCiOcsmUiWC8POYyfnN"
+      },
+      "artists": [
+        {
+          "name": "DJ Lil Jay",
+          "url": "https://open.spotify.com/artist/3cV9Q9bJcoh6WLwZsxeoXO"
+        },
+        {
+          "name": "Johnny Blaze",
+          "url": "https://open.spotify.com/artist/6Agvji1ispJ2h0sV3xAH2z"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129985,
+      "name": "Riders (RMX)",
+      "url": "https://open.spotify.com/track/1yQ9bh63FksYRbTWyChlmh"
+    },
+    {
+      "album": {
+        "name": "Unruly Records Anthology - 1991-1995 (The Early Years)",
+        "url": "https://open.spotify.com/album/4PC2YxlMGjCFFpznqUlpFn"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169084,
+      "name": "Roldatshit - 2023 Digital Remaster",
+      "url": "https://open.spotify.com/track/5uIBk3U7Czat6hrUR1xuNy"
     },
     {
       "album": {
@@ -1574,7 +2130,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 184058,
       "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
       "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
@@ -1592,7 +2148,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 147853,
       "name": "Rump",
       "url": "https://open.spotify.com/track/38Mosn1LG4vg8ZmazW8CwU"
@@ -1650,7 +2206,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 151929,
       "name": "Samir's Theme",
       "url": "https://open.spotify.com/track/0k9F1DkyffXmLl9jMadQdB"
@@ -1668,7 +2224,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 236956,
       "name": "Shake",
       "url": "https://open.spotify.com/track/4Z0RI4RoY0UUMTnAVzEaMe"
@@ -1690,7 +2246,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 168595,
       "name": "Shake It To The Ground",
       "url": "https://open.spotify.com/track/2bI3kWsArBEHG4X54RCOET"
@@ -1712,7 +2268,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 166974,
       "name": "Shake My Ass",
       "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
@@ -1737,6 +2293,42 @@
     },
     {
       "album": {
+        "name": "Take It From Me",
+        "url": "https://open.spotify.com/album/2HvvuyFaFWjozFhsFWYRv6"
+      },
+      "artists": [
+        {
+          "name": "Mottz",
+          "url": "https://open.spotify.com/artist/4a5lMlRAZgwmqODI5mWMDB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135214,
+      "name": "Take It From Me",
+      "url": "https://open.spotify.com/track/20LscSaRiAdMGzuF7fOgOF"
+    },
+    {
+      "album": {
+        "name": "Baltimore & Jersey Club Music Instrumentals 2",
+        "url": "https://open.spotify.com/album/2CSGtaokSZsQmQ2HPLwnou"
+      },
+      "artists": [
+        {
+          "name": "Dj Booman",
+          "url": "https://open.spotify.com/artist/7vYA1adA7T1pbr9HzgFuuS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "The Cook Up",
+      "url": "https://open.spotify.com/track/7F2tEllgh28OgSXx1lJOfq"
+    },
+    {
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1752,7 +2344,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
@@ -1788,7 +2380,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216541,
       "name": "Them Do It Horns",
       "url": "https://open.spotify.com/track/3SMyprAptZSHdEQgs1A7o6"
@@ -1860,7 +2452,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 197896,
       "name": "Touch Me Now",
       "url": "https://open.spotify.com/track/011uP1F8iwTfE52XhOYW4A"
@@ -1882,7 +2474,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 169892,
       "name": "Tsunami - Bmore Club Remix",
       "url": "https://open.spotify.com/track/5HmexjTRnmxPr9RvqaCtJh"
@@ -1900,7 +2492,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118282,
       "name": "Wash Yo Handz",
       "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
@@ -1979,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Vol. 3: Operation Shut Em Down",
+        "url": "https://open.spotify.com/album/1TrPAu7lRjyh4CiysQGDvu"
+      },
+      "artists": [
+        {
+          "name": "KW Griff",
+          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
+        },
+        {
+          "name": "Rod Lee",
+          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73839,
+      "name": "You Big Dummy",
+      "url": "https://open.spotify.com/track/6cHMfr0qrbBSW59iN8hi8c"
+    },
+    {
+      "album": {
         "name": "The Bounce - EP",
         "url": "https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9"
       },
@@ -1994,7 +2608,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 81386,
       "name": "Yupp Challenge (feat. DJ Flex)",
       "url": "https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ"

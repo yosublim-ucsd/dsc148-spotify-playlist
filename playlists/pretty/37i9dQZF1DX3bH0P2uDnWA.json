@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 353720,
+  "num_followers": 353957,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjUwNTE0YWZlMjEwODc1YjdjZDI2M2I4YjQ2YjYxNjM4MzJiN2Qy",
+  "snapshot_id": "MCw0YWQxMzI0Y2U5ZGYxOWQ3OWQwZDk4ZmRjY2UwNDc3ZGIxMzMzMDY2",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -63,6 +63,30 @@
       "duration_ms": 170624,
       "name": "Love Music (Intended Immigration Electro Swing Remix)",
       "url": "https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "ASCENDANT BRASIER (Balduin Remix)",
+        "url": "https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "balduin",
+          "url": "https://open.spotify.com/artist/5FG7r0QXjzOmd4QmvyvvZN"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "ASCENDANT BRASIER - Balduin Remix - Electro Swing",
+      "url": "https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -151,6 +175,22 @@
       "duration_ms": 138645,
       "name": "Wellerman - Electro Swing Mix",
       "url": "https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Groove Glider",
+        "url": "https://open.spotify.com/album/1KxXWZoRJgBLC7w6avADuA"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "Groove Glider",
+      "url": "https://open.spotify.com/track/4BNbwseqUTPlcEHCbT0hW5"
     },
     {
       "added_at": "2023-06-02 04:01:00",

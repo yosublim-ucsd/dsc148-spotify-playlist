@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Gaz Mawete, Niska
+> Du Congo, au monde\. 🌍 Photo: LU KALA
 
-228 songs - 14 hr 42 min
+229 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Pesa](https://open.spotify.com/track/1WV8Q3lGr9ZEkXYGoQIZY5) | [Kelly Zul](https://open.spotify.com/artist/2bO7OAQgHoCEE8sEHkNQOZ) | [Bolingo](https://open.spotify.com/album/5M8U93sR4czpqfToMyTTgM) | 3:36 | 2023-02-10 |  |
 | [Pomme](https://open.spotify.com/track/08LbRT7NXxskZC4XwLvl9g) | [Francini Bambino](https://open.spotify.com/artist/7CGcM3V9FX71404ZrR1mRZ), [Ali B](https://open.spotify.com/artist/5TDvdgKX5ueKoMDJpahjAS) | [Pomme](https://open.spotify.com/album/14qA0vKTNyNxbT54tPGdE0) | 3:40 | 2023-02-10 | 2023-03-18 |
 | [Pont rouge](https://open.spotify.com/track/0j4Lz7YvLfj0RyrrpNxkPh) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Légende Ed\. Diamond](https://open.spotify.com/album/6WLcNTGv7zF3bp03dmg3aP) | 8:27 | 2022-11-25 | 2022-12-17 |
+| [Pretty Girl Era \- Version Française](https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Pack](https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N) | 2:35 | 2023-06-16 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-06-30 | 2023-03-18 |
 | [Quand j'y repense](https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Quand j'y repense](https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF) | 3:14 | 2023-03-17 |  |
 | [Quelle Ambiance](https://open.spotify.com/track/2uRHFnYwI3vX5DAWqsWa26) | [DJ Myk](https://open.spotify.com/artist/5Bn7VktL9KLBtwcZfga8bj), [Taïnos](https://open.spotify.com/artist/4gMjkk3L1knFkh1YystA37), [Miky Uno](https://open.spotify.com/artist/42BvJ54pQJsXuakL43Nj9V), [Makassy](https://open.spotify.com/artist/2FJCmpH5MfUCIquZWSTDPh) | [Quelle Ambiance](https://open.spotify.com/album/0dwSnuZAS4lbMnWMtLk6mO) | 2:32 | 2022-06-30 | 2022-10-24 |
@@ -214,7 +215,7 @@
 | [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 | 2022-07-15 |  |
 | [Trouvez\-la moi](https://open.spotify.com/track/4GCwwGStDEIQQWqUigg4Sa) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0 \(Réédition\)](https://open.spotify.com/album/6XARc5l24kwCi6AGv32w83) | 5:51 | 2022-10-28 | 2022-11-13 |
 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 | 2022-06-30 | 2022-09-17 |
-| [Uzima](https://open.spotify.com/track/3fP4ZHQt9F7SjUwrrQDrBN) | [Barbara Kanam](https://open.spotify.com/artist/6HAIuUS4d8W4zjDTl6rsaU) | [Uzima](https://open.spotify.com/album/37hBb9JXmIPAUXWlQ8KDUm) | 3:45 | 2023-04-07 |  |
+| [Uzima](https://open.spotify.com/track/3fP4ZHQt9F7SjUwrrQDrBN) | [Barbara Kanam](https://open.spotify.com/artist/6HAIuUS4d8W4zjDTl6rsaU) | [Uzima](https://open.spotify.com/album/37hBb9JXmIPAUXWlQ8KDUm) | 3:45 | 2023-04-07 | 2023-06-17 |
 | [VALABA](https://open.spotify.com/track/0hurXA0kT1G8xL1fs8ekxN) | [Odrey](https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj), [Stone](https://open.spotify.com/artist/1QUKRGAAoys1E4p8kA7mHT) | [VALABA](https://open.spotify.com/album/3RhNnoJ7oIOj6HnRsMi6sz) | 2:34 | 2022-08-26 | 2023-03-18 |
 | [Vanessa](https://open.spotify.com/track/0tCm9ehzqzfwTh8L31xS5g) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Vanessa](https://open.spotify.com/album/69MVbuVtnIXxBfw7lpepE6) | 2:55 | 2022-11-11 | 2023-01-06 |
 | [Vanessa \- Remix](https://open.spotify.com/track/40xHXnukuqlE1yfc75Q1dZ) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Vanessa \(Remix\)](https://open.spotify.com/album/7juck8RxJLoKTITfAZKt0X) | 3:12 | 2023-04-07 |  |

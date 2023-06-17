@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Sogno #3",
+        "url": "https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn"
+      },
+      "artists": [
+        {
+          "name": "\u00d8jne",
+          "url": "https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Quando Il Sogno Si Avvera",
+      "url": "https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl"
+    },
+    {
+      "album": {
         "name": "Quattro Mani",
         "url": "https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI"
       },

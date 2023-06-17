@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 343066,
       "name": "Gyakko -unplugged session-",
       "url": "https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU"
@@ -678,6 +678,28 @@
       "duration_ms": 215240,
       "name": "Yakusoku wa Iranai",
       "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "K\u00f4hei Dojima",
+          "url": "https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "\u3042\u306a\u305f\u3058\u3083\u306a\u3051\u308c\u3070 feat. \u5802\u5cf6\u5b5d\u5e73",
+      "url": "https://open.spotify.com/track/4WUZEpfOpsfFaVT6Sq8CIR"
     },
     {
       "album": {

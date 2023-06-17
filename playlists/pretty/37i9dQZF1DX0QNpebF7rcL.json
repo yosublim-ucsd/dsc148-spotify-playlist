@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 48147,
+  "num_followers": 48172,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU3ODYxZjQxZTUyY2RmNDNjOGEyNzVmM2RjZDBhOTc3ZjZkZDQ4",
+  "snapshot_id": "MCxiMDY4NTc0MWUzM2RhZTMxZDNmMWFhYjY5OTNlNTlmOWZlYjk2ODVm",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Friendship",
+        "url": "https://open.spotify.com/album/0LqOdFRh3OrbyAEcpVVN0V"
+      },
+      "artists": [
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Twenty-Four Hour Blues",
+        "url": "https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "Twenty-Four Hour Blues",
+      "url": "https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "LaVette!",
+        "url": "https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 311013,
+      "name": "Don't Get Me Started",
+      "url": "https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa"
+    },
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
@@ -25,20 +77,24 @@
       "url": "https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
+      "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "I Want To Shout About It",
-        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+        "name": "Daughter Of Zion [Feat. Joe Walsh]",
+        "url": "https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Glenn Schwartz",
+          "url": "https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
         }
       ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+      "duration_ms": 276264,
+      "name": "Daughter Of Zion [Feat. Joe Walsh]",
+      "url": "https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -59,6 +115,22 @@
       "duration_ms": 218200,
       "name": "Your Funeral And My Trial (feat. Jontavious Willis)",
       "url": "https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Soft Spot (Deluxe)",
+        "url": "https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "The Squirrel Juice Blues",
+      "url": "https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -95,6 +167,22 @@
       "duration_ms": 235908,
       "name": "Two Of A Kind",
       "url": "https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
+      },
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
+        }
+      ],
+      "duration_ms": 172520,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1537,50 +1625,6 @@
       "url": "https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh"
     },
     {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "You've Been Cheatin'",
-        "url": "https://open.spotify.com/album/1xsH8xPrguqeXMgn6ftCaT"
-      },
-      "artists": [
-        {
-          "name": "Omar Coleman",
-          "url": "https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "You've Been Cheatin'",
-      "url": "https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Angel In The Alleyways",
-        "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Patti Scialfa",
-          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 260092,
-      "name": "Angel In The Alleyways",
-      "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "662",
@@ -1661,38 +1705,6 @@
       "url": "https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw"
     },
     {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo"
-      },
-      "artists": [
-        {
-          "name": "Dwight & Nicole",
-          "url": "https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0"
-        }
-      ],
-      "duration_ms": 177693,
-      "name": "Further",
-      "url": "https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "What Happens Next",
@@ -1707,26 +1719,6 @@
       "duration_ms": 154840,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Raisin' Kane",
-        "url": "https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA"
-      },
-      "artists": [
-        {
-          "name": "Seth James",
-          "url": "https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg"
-        },
-        {
-          "name": "Lee Roy Parnell",
-          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Raisin' Kane",
-      "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
     }
   ],
   "unique_name": "Got Blues",

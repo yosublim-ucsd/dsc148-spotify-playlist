@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 213281,
       "name": "Master Class",
       "url": "https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd"
@@ -8554,7 +8554,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 289917,
       "name": "\u597d\u597d\u639b\u4f4f",
       "url": "https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce"
@@ -9944,7 +9944,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 231355,
       "name": "\u6d17\u9762",
       "url": "https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl"
@@ -10472,6 +10472,24 @@
       "duration_ms": 247523,
       "name": "\u7b2c\u4e00\u500b\u8ff7",
       "url": "https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL"
+    },
+    {
+      "album": {
+        "name": "\u7b2c\u4e8c\u4eba\u683c",
+        "url": "https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274498,
+      "name": "\u7b2c\u4e8c\u4eba\u683c",
+      "url": "https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy"
     },
     {
       "album": {

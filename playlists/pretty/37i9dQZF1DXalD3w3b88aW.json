@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11291,
+  "num_followers": 11293,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh",
+  "snapshot_id": "MCw2MjMxMzM0YTBjYjZhYzExMzc0MWIwMTI5NjNmZmVmYzJjYjQ3ZWVh",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 82457,
-      "name": "Truth or Dare (Interlude)",
-      "url": "https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 81133,
       "name": "Ghetto (Interlude)",
       "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 82457,
+      "name": "Truth or Dare (Interlude)",
+      "url": "https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o"
     },
     {
       "added_at": "2022-12-03 05:29:16",

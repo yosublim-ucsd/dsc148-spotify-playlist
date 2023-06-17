@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 501362,
+  "num_followers": 502106,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDE2ZDEyNmExMDU2OTU3NzUyMjA3YTRlNTc0ZWIyODA2YjhhZDA1",
+  "snapshot_id": "MCw2YjA5N2JiMTc4ZjFkYTllYTIyODkyODFjYTdhNTVmNzkwM2FiOWZl",
   "tracks": [
     {
       "added_at": "2023-05-22 17:40:06",
@@ -287,18 +287,26 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
-        "name": "The Perfect LUV Tape",
-        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+        "name": "I'm Only a Fool for You",
+        "url": "https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Dybbukk Covers",
+          "url": "https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI"
+        },
+        {
+          "name": "Dybbukk",
+          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
+        },
+        {
+          "name": "Domingo Morales",
+          "url": "https://open.spotify.com/artist/02jdatQ743BTSYp4wbNMA5"
         }
       ],
-      "duration_ms": 199993,
-      "name": "Erase Your Social",
-      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
+      "duration_ms": 61175,
+      "name": "I'm Only a Fool for You",
+      "url": "https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4"
     },
     {
       "added_at": "2023-05-22 17:40:06",
@@ -339,26 +347,18 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
-        "name": "I'm Only a Fool for You",
-        "url": "https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN"
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
       "artists": [
         {
-          "name": "Dybbukk Covers",
-          "url": "https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI"
-        },
-        {
-          "name": "Dybbukk",
-          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
-        },
-        {
-          "name": "Domingo Morales",
-          "url": "https://open.spotify.com/artist/02jdatQ743BTSYp4wbNMA5"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 61175,
-      "name": "I'm Only a Fool for You",
-      "url": "https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4"
+      "duration_ms": 199993,
+      "name": "Erase Your Social",
+      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
     },
     {
       "added_at": "2023-05-22 17:40:06",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2023-05-22 17:40:06",
-      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-05-22 17:40:06",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
       "added_at": "2023-05-22 17:40:06",

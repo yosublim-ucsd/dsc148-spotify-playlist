@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 34574,
+  "num_followers": 34632,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQ1MmE0ZDVjNTRmM2M4MmJiOTIzNTRlYzBjZjAzZTBkOTM4ZmZm",
+  "snapshot_id": "MCwzY2YwMDNjMTI1OWI1NzNjNzE5NTYyOTdlOTUwNTk5MTVjMTlmNDlk",
   "tracks": [
     {
       "added_at": "2023-06-15 23:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "00 Fala Bonito",
         "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 212093,
       "name": "00 Fala Bonito",
       "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Ser Tua",
-        "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
       },
       "artists": [
         {
-          "name": "Mia Rose",
-          "url": "https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2"
-        },
-        {
-          "name": "Chyna",
-          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
         }
       ],
-      "duration_ms": 176747,
-      "name": "Ser Tua",
-      "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
+      "duration_ms": 183529,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -879,38 +875,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
+        "name": "Ser Tua",
+        "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
       },
       "artists": [
         {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Tu Reclamas",
-        "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+          "name": "Mia Rose",
+          "url": "https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2"
         },
         {
-          "name": "TeniTeach",
-          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
         }
       ],
-      "duration_ms": 230658,
-      "name": "Tu Reclamas",
-      "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
+      "duration_ms": 176747,
+      "name": "Ser Tua",
+      "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -931,6 +911,26 @@
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Tu Reclamas",
+        "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "duration_ms": 230658,
+      "name": "Tu Reclamas",
+      "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Vistas",
-        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
-      },
-      "artists": [
-        {
-          "name": "Ary Rafeiro",
-          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vistas",
-      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Compensa",
         "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
       },
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
+        "name": "Vistas",
+        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
       },
       "artists": [
         {
-          "name": "J.Yen",
-          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
         }
       ],
-      "duration_ms": 208163,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
+      "duration_ms": 180000,
+      "name": "Vistas",
+      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 176000,
       "name": "N\u00e3o Me Faz Bem",
       "url": "https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
+      },
+      "artists": [
+        {
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
-      },
-      "artists": [
-        {
-          "name": "Pipa",
-          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 173052,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
+      },
+      "artists": [
+        {
+          "name": "Pipa",
+          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "T\u00e1 Doce",
-        "url": "https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc"
-      },
-      "artists": [
-        {
-          "name": "Nayr Faquir\u00e1",
-          "url": "https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb"
-        },
-        {
-          "name": "SOLUNA",
-          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "T\u00e1 Doce",
-      "url": "https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "\u00c0s Vezes",
         "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 163061,
       "name": "\u00c0s Vezes",
       "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "T\u00e1 Doce",
+        "url": "https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc"
+      },
+      "artists": [
+        {
+          "name": "Nayr Faquir\u00e1",
+          "url": "https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb"
+        },
+        {
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "T\u00e1 Doce",
+      "url": "https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq"
     },
     {
       "added_at": "2023-06-15 23:00:00",

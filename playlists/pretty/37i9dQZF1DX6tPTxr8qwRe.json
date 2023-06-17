@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: UPSAHL",
-  "num_followers": 368927,
+  "num_followers": 369055,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWM2MjhlMjI0NTRhOTJhNDMzNjYyMDA5Y2VlN2I5MzA5M2YzNTQ2",
+  "snapshot_id": "MCw2ZTIyZDZkNDAxMzRiMjhkMzYzNjRmMjFkZGJlMjkzNGVlM2Y2Y2Mz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -23,6 +23,102 @@
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "RENT FREE",
+        "url": "https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        }
+      ],
+      "duration_ms": 171199,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y"
+      },
+      "artists": [
+        {
+          "name": "Isabel Wood",
+          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
+        }
+      ],
+      "duration_ms": 171603,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Boy Of The Month",
+        "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 106382,
+      "name": "Boy Of The Month",
+      "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "mess & a half",
+        "url": "https://open.spotify.com/album/5fYJXrMRovW3O0ePPDApwX"
+      },
+      "artists": [
+        {
+          "name": "KINGS",
+          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
+        }
+      ],
+      "duration_ms": 151618,
+      "name": "mess & a half",
+      "url": "https://open.spotify.com/track/0YMBYW5r3mTJ4WwaKLKVkf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -55,22 +151,6 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-04-28 04:04:49",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -401,22 +481,6 @@
       "url": "https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1"
     },
     {
-      "added_at": "2023-04-28 04:04:49",
-      "album": {
-        "name": "k",
-        "url": "https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM"
-      },
-      "artists": [
-        {
-          "name": "KINGS",
-          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
-        }
-      ],
-      "duration_ms": 166873,
-      "name": "k",
-      "url": "https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Not to be Dramatic",
@@ -647,22 +711,6 @@
       "duration_ms": 134117,
       "name": "sickly sweet",
       "url": "https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB"
-    },
-    {
-      "added_at": "2023-04-28 04:04:49",
-      "album": {
-        "name": "WHEN THE PARTY'S OVER",
-        "url": "https://open.spotify.com/album/0tG7VIxGjt3aDZW2tUGVUz"
-      },
-      "artists": [
-        {
-          "name": "Cami Petyn",
-          "url": "https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39"
-        }
-      ],
-      "duration_ms": 191554,
-      "name": "WHEN THE PARTY'S OVER",
-      "url": "https://open.spotify.com/track/0ycbYEcMjQ40iYsVnNiYJh"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1019,26 +1067,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "PREGAME (with 7evin7ins)",
-        "url": "https://open.spotify.com/album/1UzqFbCygpdU3ZQk2SNnVa"
-      },
-      "artists": [
-        {
-          "name": "NIKI DEMAR",
-          "url": "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
-        },
-        {
-          "name": "7evin7ins",
-          "url": "https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "PREGAME (with 7evin7ins)",
-      "url": "https://open.spotify.com/track/06rpsdoGOnLqqrkqorpuLc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Mantrum",
         "url": "https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm"
       },
@@ -1051,22 +1079,6 @@
       "duration_ms": 154814,
       "name": "Mantrum",
       "url": "https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1139,26 +1151,6 @@
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "See You In My Dreams",
-        "url": "https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ"
-      },
-      "artists": [
-        {
-          "name": "Kat Leon",
-          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
-        },
-        {
-          "name": "NOCTURN",
-          "url": "https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K"
-        }
-      ],
-      "duration_ms": 214411,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY"
     },
     {
       "added_at": "2023-03-10 05:00:00",

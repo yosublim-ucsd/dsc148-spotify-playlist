@@ -1,12 +1,12 @@
 {
   "description": "Mc Luanna e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 204488,
+  "num_followers": 204522,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQzY2ZlMjdkZDc2N2E0OTIyNmNkYWNjZTU4Yzg2NDU2YThjM2Iy",
+  "snapshot_id": "MCw1NmQxZWRlZTk2ODg5YzM5OWU4ZGExNDMxNzE5ODQzMjNlYTgxMjZh",
   "tracks": [
     {
       "added_at": "2023-06-02 03:01:00",
@@ -791,30 +791,6 @@
     {
       "added_at": "2023-06-02 03:01:00",
       "album": {
-        "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
-        "url": "https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB"
-      },
-      "artists": [
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
-      "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
+        "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+        "url": "https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+      "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
     },
     {
       "added_at": "2023-06-02 03:01:00",

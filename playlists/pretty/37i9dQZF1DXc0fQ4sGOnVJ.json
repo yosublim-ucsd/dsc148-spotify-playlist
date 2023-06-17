@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148842,
+  "num_followers": 148864,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
+  "snapshot_id": "MCwzMDU4MDVjNWZhMzM5MGY4Mzk2YTI0YzAwMTMxMzJiZGYxODIzYTA1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Down by the Riverside",
-        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
-      },
-      "artists": [
-        {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
-        }
-      ],
-      "duration_ms": 179741,
-      "name": "Down by the Riverside",
-      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Down by the Riverside",
+        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "duration_ms": 179741,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Throwed",
-        "url": "https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3"
-      },
-      "artists": [
-        {
-          "name": "Louyah",
-          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Throwed",
-      "url": "https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Throwed",
+        "url": "https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3"
+      },
+      "artists": [
+        {
+          "name": "Louyah",
+          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Throwed",
+      "url": "https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Tall Boy",
         "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 140128,
       "name": "Tall Boy",
       "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "If She Ain't Country (Remix)",
-        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
-      },
-      "artists": [
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "If She Ain't Country - Remix",
-      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -747,6 +727,26 @@
       "duration_ms": 209058,
       "name": "Country Made",
       "url": "https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "If She Ain't Country (Remix)",
+        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 176989,
+      "name": "If She Ain't Country - Remix",
+      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "STOMP YOUR BOOTS",
-        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
-      },
-      "artists": [
-        {
-          "name": "YA'BOYZ",
-          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
-        }
-      ],
-      "duration_ms": 151651,
-      "name": "STOMP YOUR BOOTS",
-      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Goin' Back Down",
         "url": "https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 225740,
       "name": "Goin' Back Down",
       "url": "https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "STOMP YOUR BOOTS",
+        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
+      },
+      "artists": [
+        {
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+        }
+      ],
+      "duration_ms": 151651,
+      "name": "STOMP YOUR BOOTS",
+      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
     },
     {
       "added_at": "2023-05-19 04:00:00",

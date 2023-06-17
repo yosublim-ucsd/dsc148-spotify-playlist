@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Already Done (Live)",
+        "url": "https://open.spotify.com/album/0BAPnlpEdjdm7EnSdriQkG"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455173,
+      "name": "Already Done - Live",
+      "url": "https://open.spotify.com/track/4TIBopYUMni6ZJbsxrGExB"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
       },

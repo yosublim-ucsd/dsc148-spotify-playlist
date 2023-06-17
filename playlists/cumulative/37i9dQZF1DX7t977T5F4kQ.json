@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8?si=XNRPFm0zROiKSBJM5LJWmw\">Darkovibes</a>,  <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF_w\"> Efya</a>  and <a href=\"https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI?si=5PQnav-3QC-fE1NHfSS8oQ\"> Shatta Wale</a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=ulS3s1hHRSW6_d0-mS5SaQ\">Kelvyn Boy</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 342594,
       "name": "Chale Wote",
       "url": "https://open.spotify.com/track/0P3mEL2RyN1YLE5hdqWeux"
@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/77sYPdp1zsb6j2qBHr9Bx0"
+      },
+      "artists": [
+        {
+          "name": "Fantana",
+          "url": "https://open.spotify.com/artist/2y9TO2D5JBOaIT9qL3dtwS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4KRgjRnrfCrKNJMHdW13yM"
+    },
+    {
+      "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 193184,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/2RXrtUrY8dE2ZFtKfTJmKs"
@@ -922,6 +940,28 @@
       "duration_ms": 205085,
       "name": "Don't Shout",
       "url": "https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO"
+    },
+    {
+      "album": {
+        "name": "Donow",
+        "url": "https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu"
+      },
+      "artists": [
+        {
+          "name": "Article Wan",
+          "url": "https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200739,
+      "name": "Donow",
+      "url": "https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G"
     },
     {
       "album": {
@@ -1472,7 +1512,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 138857,
       "name": "Gree",
       "url": "https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0"
@@ -1494,6 +1534,24 @@
       "duration_ms": 171128,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd"
+    },
+    {
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/0vpAjyDr9fB2yoImBMkSci"
+      },
+      "artists": [
+        {
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139389,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/08KL8wr8okqHoP10rTU5E0"
     },
     {
       "album": {
@@ -2024,7 +2082,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 183405,
       "name": "Most Beautiful",
       "url": "https://open.spotify.com/track/5MYilFRKvwzBQpFqU0RQpI"
@@ -2046,6 +2104,24 @@
       "duration_ms": 112173,
       "name": "Murda",
       "url": "https://open.spotify.com/track/5zPHUBJWhebMPUN7D3TMti"
+    },
+    {
+      "album": {
+        "name": "MY BABY",
+        "url": "https://open.spotify.com/album/2AqYpbpzd2v0soNVJfDKWW"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "MY BABY",
+      "url": "https://open.spotify.com/track/5WocaJtnBuISqoXTq89FYp"
     },
     {
       "album": {
@@ -3474,7 +3550,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 221804,
       "name": "Thermometer (Ma Lo)",
       "url": "https://open.spotify.com/track/0R7KRqS9h8gLVzLc7mDE8q"
@@ -3554,6 +3630,24 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Vero",
+      "url": "https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3"
     },
     {
       "album": {

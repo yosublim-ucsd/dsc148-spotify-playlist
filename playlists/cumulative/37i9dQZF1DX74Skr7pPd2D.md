@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-123 songs - 9 hr 53 min
+124 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Crazy Race](https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:23 | 2019-10-04 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 | 2019-10-02 |  |
 | [Desafinado](https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 5:49 | 2019-10-02 |  |
-| [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Tribes Vibes And Scribes](https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A) | 5:19 | 2019-10-04 |  |
+| [Don't You Worry 'Bout a Thing](https://open.spotify.com/track/6W0tadR4h853lh9emTqwyp) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Tribes Vibes And Scribes](https://open.spotify.com/album/6gKDnpWffFsepGJFu5BIDE) | 5:19 | 2019-10-04 |  |
+| [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Tribes Vibes And Scribes](https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A) | 5:19 | 2019-10-04 | 2023-06-17 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 | 2019-10-04 |  |
 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 | 2019-10-02 |  |
 | [Fall Out](https://open.spotify.com/track/1t4Z3GbCUKXwqThEdgtQMI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [A Night Out With Verve](https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0) | 5:48 | 2019-10-02 | 2022-07-29 |

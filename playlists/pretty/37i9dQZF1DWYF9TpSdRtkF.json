@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 13833,
+  "num_followers": 13848,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODU2MDkyM2I0YzRjNDk3ZWIyMzA2YjA5Zjg1ZWU1MDVmYWNkYjZh",
+  "snapshot_id": "MCw4N2VhNjBjYTI1ZDNlNTVlNDQwOGI5OTY3OGViNzM0MTZhOWJmNGNh",
   "tracks": [
     {
       "added_at": "2023-05-09 15:57:56",
@@ -1435,34 +1435,6 @@
     {
       "added_at": "2023-05-09 15:57:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
-        "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
-      },
-      "artists": [
-        {
-          "name": "Roco (CV: Atsuki Nakamura)",
-          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
-        },
-        {
-          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
-          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
-        },
-        {
-          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
-          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
-        },
-        {
-          "name": "Momoko Suou (CV: Keiko Watanabe)",
-          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "\u6708\u66dc\u65e5\u306e\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
-      "url": "https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX"
-    },
-    {
-      "added_at": "2023-05-09 15:57:56",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
         "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
       },
@@ -1487,6 +1459,34 @@
       "duration_ms": 265600,
       "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
+    },
+    {
+      "added_at": "2023-05-09 15:57:56",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
+        "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
+      },
+      "artists": [
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "\u6708\u66dc\u65e5\u306e\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
+      "url": "https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX"
     },
     {
       "added_at": "2023-05-09 15:57:56",

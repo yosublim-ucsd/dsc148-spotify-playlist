@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,752 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,376 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 |
 | 50 | [Noche](https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Noche](https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy) | 3:03 |
 
-Snapshot ID: `MCw2NDc1YjUwMjE2NWQ4NjY3YTQ0YjIyODk3OTA1ZDMxYzRjODRjNzlm`
+Snapshot ID: `MCxhMWFiOWQ4NTdmZDlkNzcxNjdiYmMyYjA4M2Y2MTcxOWFjMGI1NWZj`

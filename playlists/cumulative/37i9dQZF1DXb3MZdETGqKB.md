@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Selwyn Birchwood
+> All new, all blues\. Cover: Buffalo Nichols
 
-226 songs - 13 hr 18 min
+228 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Flying \#evolution](https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Evolution of Joy](https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC) | 4:17 | 2023-01-27 |  |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 | 2022-03-25 |  |
+| [Forget About Us](https://open.spotify.com/track/7rijhdaZILNVlSQSfPOOky) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Forget About Us](https://open.spotify.com/album/3pvVrSVs7UPLe6dlaKGQOa) | 2:45 | 2023-06-16 |  |
 | [Freedom on My Mind](https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Freedom on My Mind](https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb) | 4:44 | 2022-10-21 | 2023-01-14 |
 | [Full Time Blues](https://open.spotify.com/track/3MHxUKi1ZhUlhlf7IILBs8) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [Full Time Blues](https://open.spotify.com/album/3196K46EuN8qp90dviepzS) | 3:21 | 2023-03-24 |  |
 | [Get By](https://open.spotify.com/track/0Dr3V5fTEZyyGHcCu7yDBX) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Get By](https://open.spotify.com/album/2n73mSrnTYW28UjTf5pc47) | 3:41 | 2023-03-10 | 2023-05-13 |
@@ -115,7 +116,7 @@
 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 | 2023-05-26 |  |
 | [Loud \[Feat\. Tech N9ne\]](https://open.spotify.com/track/50l33yFFCNnGRdB301Hvur) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 4:53 | 2021-09-10 | 2022-06-19 |
 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 | 2023-05-26 |  |
-| [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 | 2021-10-19 |  |
+| [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 | 2021-10-19 | 2023-06-17 |
 | [Love One Another](https://open.spotify.com/track/56pU90MrM2CTr19neVoZCg) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF), [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Love One Another](https://open.spotify.com/album/5sIKiUbccZ7A2zp5fNQLGE) | 3:03 | 2021-07-09 | 2022-07-29 |
 | [Love One Another](https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 3:03 | 2021-07-09 | 2022-08-27 |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
@@ -135,7 +136,7 @@
 | [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2021-10-08 | 2023-05-27 |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-04-23 | 2022-05-07 |
 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 | 2022-05-06 |  |
-| [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/track/3aUbp8mH1JiPU1ces1S68Q) | [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/album/5ppDYA1ypWs96XBhPq9tXx) | 4:25 | 2021-10-29 |  |
+| [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/track/3aUbp8mH1JiPU1ces1S68Q) | [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/album/5ppDYA1ypWs96XBhPq9tXx) | 4:25 | 2021-10-29 | 2023-06-17 |
 | [NOT A GOOD MAN WALKING](https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [NOT A GOOD MAN WALKING](https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI) | 2:56 | 2022-03-04 | 2023-02-14 |
 | [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 | 2022-08-06 |
 | [Off the Rails](https://open.spotify.com/track/42WticpVQhPU1H2seAjX9y) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Rhonda Smith](https://open.spotify.com/artist/2uYKHg4WYpDVVxZVj7gFgN) | [The New Truth](https://open.spotify.com/album/20uVF4qSvDD7P7LvJ6jDoh) | 3:52 | 2023-03-17 |  |
@@ -233,6 +234,7 @@
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2021-09-17 | 2023-05-20 |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-03-31 | 2023-04-30 |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 | 2023-03-31 |  |
+| [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/album/62bLeL1omNfCWUrDO0xkko) | 3:35 | 2023-06-16 |  |
 | [Your Friday Night](https://open.spotify.com/track/17AXVlBTYsK5YvhTuif0aC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Your Friday Night](https://open.spotify.com/album/7MXGchpdm7JEGyoOVNsYht) | 3:21 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Folk Bitch Trio\. Artwork: Isu Kim
 
-2,227 songs - 5 day 2 hr 45 min
+2,228 songs - 5 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,6 +1017,7 @@
 | [Intro To The Anthem](https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Intro To The Anthem](https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow) | 3:29 | 2022-06-08 | 2022-06-30 |
 | [iridescent ghosts](https://open.spotify.com/track/6m5ELG2DgQwxO8OSBdZ4DP) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [iridescent ghosts](https://open.spotify.com/album/1vRHCsadriubLG1COEvWXJ) | 3:24 | 2022-06-29 | 2022-07-14 |
 | [Irritating](https://open.spotify.com/track/0A8WMe3IYft95HDs5Q2ykf) | [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [Irritating](https://open.spotify.com/album/0WbCesIpKx5KpJpiYnGkPW) | 3:35 | 2023-03-08 | 2023-04-05 |
+| [is it just me.](https://open.spotify.com/track/4nZu5GNuNzI08ZOXIGdgVO) | [everythingnnothing](https://open.spotify.com/artist/034dZjB1RkTzm13JUfjFIF), [Nihility](https://open.spotify.com/artist/3GyuJZ9X2SEqU9qf6a993U), [hoowup](https://open.spotify.com/artist/4ymm68AEHKaqFmQ9JgYMSv) | [is it just me.](https://open.spotify.com/album/6QyKnZWH9kgGCRIxYd1RN6) | 3:06 | 2023-06-14 |  |
 | [Is It Me](https://open.spotify.com/track/0bp9I0TXCnPZ3mkamkidmB) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/0DytkWu5h86VOHYXNi7idN) | 4:16 | 2022-02-23 | 2022-03-16 |
 | [Is It Me or Is It Love](https://open.spotify.com/track/2lgJhKU8xTObXh6SvQlDh4) | [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Is It Me or Is It Love](https://open.spotify.com/album/6bEMD3LKD5GwwqhpPIu2Ij) | 3:13 | 2023-02-22 | 2023-03-08 |
 | [Is It You I Miss](https://open.spotify.com/track/4BLO7mBiNZPbyc4t2UnBGF) | [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Is It You I Miss](https://open.spotify.com/album/4Ma9HKRt21L6mkEax4KWeH) | 3:36 | 2023-04-04 | 2023-05-04 |

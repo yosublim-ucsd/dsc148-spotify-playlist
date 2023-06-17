@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:5lsC3H1vh9YSRQckyGv0Up\">Ellen Allien</a>'s favorite tracks. Updated regularly. Curated by Ellen Allien. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 39968,
+  "num_followers": 39990,
   "original_name": "Ellen Allien's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQ2ZDRiYWZhZmI2NDliYWRkNWI4ZmMxMDhkOWRiMzE1OWVjZTg2",
+  "snapshot_id": "MCwzMjAyMTJmODdmMGFjYjdlNGJmZmE2YTI4NDU5NWNjNzU5ZmYwOGFl",
   "tracks": [
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Everything Collapses",
         "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
@@ -29,7 +29,71 @@
       "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "123.",
+        "url": "https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 294636,
+      "name": "HELP ME.",
+      "url": "https://open.spotify.com/track/49ldCfBJURR6G5y99lolWZ"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "The Music Is Control Of Your Acid Mind",
+        "url": "https://open.spotify.com/album/00hENCU8TYxplATeKONndX"
+      },
+      "artists": [
+        {
+          "name": "Matasism",
+          "url": "https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD"
+        }
+      ],
+      "duration_ms": 368769,
+      "name": "SH101",
+      "url": "https://open.spotify.com/track/3XvGy0r0vBfjhTmlWTwMj1"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "Tragedy Of Truth",
+        "url": "https://open.spotify.com/album/4Tv5nfZcH5VPc5BvAIkqM9"
+      },
+      "artists": [
+        {
+          "name": "Milton Bradley",
+          "url": "https://open.spotify.com/artist/5tXByO6GQCzWa9ifphd8e0"
+        }
+      ],
+      "duration_ms": 327446,
+      "name": "Spiral Of Silence",
+      "url": "https://open.spotify.com/track/4joJdcOiUITZpDtrqdZICG"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "Detroit Works, Pt.1",
+        "url": "https://open.spotify.com/album/0CUfq7x4tLHpa8AUGC4mLk"
+      },
+      "artists": [
+        {
+          "name": "Uun",
+          "url": "https://open.spotify.com/artist/4CZJ0wOrcOkkYwB5rLSgzV"
+        }
+      ],
+      "duration_ms": 377150,
+      "name": "We Believe in Nothing",
+      "url": "https://open.spotify.com/track/1RGITAt5C7OJDvNYwIAOhT"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/38bUhE1b1i103AYM4r8Ilv"
@@ -49,71 +113,7 @@
       "url": "https://open.spotify.com/track/3cbNRlRtvEgKtTtNi0HmG1"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Aimless NYP Assemblage 17\u200b-\u200b18",
-        "url": "https://open.spotify.com/album/7Ckl2ZtlIUsoEJZZOIJMs8"
-      },
-      "artists": [
-        {
-          "name": "LaFontaine (IS)",
-          "url": "https://open.spotify.com/artist/24zAKCqyGVv4WCaQdNzVJJ"
-        }
-      ],
-      "duration_ms": 230047,
-      "name": "Objet",
-      "url": "https://open.spotify.com/track/1xvmasWFToKzFwz1U89axZ"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Tragedy Of Truth",
-        "url": "https://open.spotify.com/album/4Tv5nfZcH5VPc5BvAIkqM9"
-      },
-      "artists": [
-        {
-          "name": "Milton Bradley",
-          "url": "https://open.spotify.com/artist/5tXByO6GQCzWa9ifphd8e0"
-        }
-      ],
-      "duration_ms": 327446,
-      "name": "Spiral Of Silence",
-      "url": "https://open.spotify.com/track/4joJdcOiUITZpDtrqdZICG"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Fac ut Ardeat/Made to Burn",
-        "url": "https://open.spotify.com/album/11rUnpBcrWRhtSbC8KC0Du"
-      },
-      "artists": [
-        {
-          "name": "Linn Elisabet",
-          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
-        }
-      ],
-      "duration_ms": 275388,
-      "name": "Gravity Will Keep Us Apart - Original Mix",
-      "url": "https://open.spotify.com/track/1BNuYXX8XXK6Ntm9mqA8P2"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Detroit Works, Pt.1",
-        "url": "https://open.spotify.com/album/0CUfq7x4tLHpa8AUGC4mLk"
-      },
-      "artists": [
-        {
-          "name": "Uun",
-          "url": "https://open.spotify.com/artist/4CZJ0wOrcOkkYwB5rLSgzV"
-        }
-      ],
-      "duration_ms": 377150,
-      "name": "We Believe in Nothing",
-      "url": "https://open.spotify.com/track/1RGITAt5C7OJDvNYwIAOhT"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Assassination Techniques EP",
         "url": "https://open.spotify.com/album/5B9iuRDygQAop1XMLFu3Lj"
@@ -129,27 +129,39 @@
       "url": "https://open.spotify.com/track/2ebIo6g3YZTo6EBA31S2l5"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/0mUt2AwXZtZnvjKOLMRDRY"
+        "name": "Aimless NYP Assemblage 17\u200b-\u200b18",
+        "url": "https://open.spotify.com/album/7Ckl2ZtlIUsoEJZZOIJMs8"
       },
       "artists": [
         {
-          "name": "Dillon",
-          "url": "https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW"
-        },
-        {
-          "name": "Anstam",
-          "url": "https://open.spotify.com/artist/6x5cI9zBbzsVZ3UiOtiYDT"
+          "name": "LaFontaine (IS)",
+          "url": "https://open.spotify.com/artist/24zAKCqyGVv4WCaQdNzVJJ"
         }
       ],
-      "duration_ms": 229000,
-      "name": "A Matter of Time - Anstam Remix",
-      "url": "https://open.spotify.com/track/22Bxj9QohQQNZaYJeFXfb9"
+      "duration_ms": 230047,
+      "name": "Objet",
+      "url": "https://open.spotify.com/track/1xvmasWFToKzFwz1U89axZ"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "123.",
+        "url": "https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 371456,
+      "name": "Marzahn",
+      "url": "https://open.spotify.com/track/1WdAPyEpDpGnZNX5ZvzMbj"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Milton Bradley Presents Alien Rain Pt. 6",
         "url": "https://open.spotify.com/album/0rUVRHDRpYnhwVDoV7ZslR"
@@ -165,7 +177,23 @@
       "url": "https://open.spotify.com/track/7naUTOvcVYRWsdPT6GYZAJ"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "Fac ut Ardeat/Made to Burn",
+        "url": "https://open.spotify.com/album/11rUnpBcrWRhtSbC8KC0Du"
+      },
+      "artists": [
+        {
+          "name": "Linn Elisabet",
+          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
+        }
+      ],
+      "duration_ms": 275388,
+      "name": "Gravity Will Keep Us Apart - Original Mix",
+      "url": "https://open.spotify.com/track/1BNuYXX8XXK6Ntm9mqA8P2"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Tales From The Acid Side EP",
         "url": "https://open.spotify.com/album/5a1gTwW1rx38nxmEcO579Y"
@@ -181,7 +209,23 @@
       "url": "https://open.spotify.com/track/1E1fUalkPoEeQqKtw3ETw8"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
+      "album": {
+        "name": "The Music Is Control Of Your Acid Mind",
+        "url": "https://open.spotify.com/album/00hENCU8TYxplATeKONndX"
+      },
+      "artists": [
+        {
+          "name": "Matasism",
+          "url": "https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD"
+        }
+      ],
+      "duration_ms": 367826,
+      "name": "The Music Is Control Of Your Acid Mind",
+      "url": "https://open.spotify.com/track/2iXQxt9P8FSMKRI5fBzdpA"
+    },
+    {
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Look at yourself",
         "url": "https://open.spotify.com/album/2THXc1RaMovOqKBR8DI6aK"
@@ -197,7 +241,7 @@
       "url": "https://open.spotify.com/track/5SK70GyuXTgHiRgOR7hhrH"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Goldener Strom Remixes 3",
         "url": "https://open.spotify.com/album/7dNbqenVzX6z2vmROuU9CK"
@@ -217,7 +261,7 @@
       "url": "https://open.spotify.com/track/2gvZ3bVLo4KhwPqJ6XDW2g"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Dance And Kill",
         "url": "https://open.spotify.com/album/740cRdYkoe7BS3u9JicTK3"
@@ -237,7 +281,7 @@
       "url": "https://open.spotify.com/track/1JlfCcrtm1qIxD4SFNTygD"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Yiga's Groove",
         "url": "https://open.spotify.com/album/2EJNUVqY7CCre58Nfh65e5"
@@ -253,23 +297,7 @@
       "url": "https://open.spotify.com/track/4pLXanaaIVPMrDBQDmrJfS"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Your Decisions Come From Fear",
-        "url": "https://open.spotify.com/album/5FesVLwL50TcbdACKYdfdZ"
-      },
-      "artists": [
-        {
-          "name": "ASEC",
-          "url": "https://open.spotify.com/artist/0u8h5yyvIHdXVf4ZVRT6TH"
-        }
-      ],
-      "duration_ms": 358509,
-      "name": "Light in Momentary Troubles",
-      "url": "https://open.spotify.com/track/5MDThfigd9AGh3opVzy752"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Res Extensa",
         "url": "https://open.spotify.com/album/4nWiycsx2SWBYyTyFWGlpO"
@@ -285,7 +313,7 @@
       "url": "https://open.spotify.com/track/6euCG8VMbxVlrPm19yG3QZ"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Into the Void",
         "url": "https://open.spotify.com/album/5rHkNqHVLPUcWz3g7rmC5Q"
@@ -301,7 +329,7 @@
       "url": "https://open.spotify.com/track/2LOxY3U2JsdYxb5gpXFtTF"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Wave Cannon EP",
         "url": "https://open.spotify.com/album/3MxW0snkmoUJNMSbMcyfe0"
@@ -317,7 +345,7 @@
       "url": "https://open.spotify.com/track/3O7TLNP8HVm1TC7ggTx3fV"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Fascination",
         "url": "https://open.spotify.com/album/5jSLfQ44mEYTDAM1T3OxF2"
@@ -333,7 +361,7 @@
       "url": "https://open.spotify.com/track/3aZTmg6V8oP85P42RcmBc2"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Suicide Disco",
         "url": "https://open.spotify.com/album/2d5Q4woSfnCpPvdpEICAEL"
@@ -349,7 +377,7 @@
       "url": "https://open.spotify.com/track/2NxQATnBJP7zfkWpQsbcvN"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Devotion To Pleasure",
         "url": "https://open.spotify.com/album/3RMRcRWYNdqLGNf7ZEqMCM"
@@ -365,7 +393,7 @@
       "url": "https://open.spotify.com/track/1IjPQpesVunUxssISyYPsY"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "A\u00f1o V-I",
         "url": "https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym"
@@ -385,7 +413,7 @@
       "url": "https://open.spotify.com/track/3fipVtOcZ3huMxAhBTWR1P"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Bestiens\u00e4ule",
         "url": "https://open.spotify.com/album/5PJcGoshAbVFGOVXzf7Q8R"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/6fpUiyzZWNiOkWMqLCL0LT"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Re-Animated",
         "url": "https://open.spotify.com/album/3RbDKrUPhewl6XxUiosRrA"
@@ -421,7 +449,7 @@
       "url": "https://open.spotify.com/track/3X92drFml7ZdRs5kJ5ZqXQ"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "We're Not Here",
         "url": "https://open.spotify.com/album/7fr2RK6ZkTAtJf7gAXZGHx"
@@ -437,23 +465,7 @@
       "url": "https://open.spotify.com/track/0pCvn7CES5pE6Dhxez62pl"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Xilo EP",
-        "url": "https://open.spotify.com/album/1H35dEHVIclwgfDw7Qjonw"
-      },
-      "artists": [
-        {
-          "name": "Uncrat",
-          "url": "https://open.spotify.com/artist/3XKfetZTa22CDoe06NBA8V"
-        }
-      ],
-      "duration_ms": 412248,
-      "name": "Sit",
-      "url": "https://open.spotify.com/track/5VxnvOXEsvcHc9SO3btPek"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Drippin\u2019 Blood / La Vaca Vega",
         "url": "https://open.spotify.com/album/16qCcIC6grodltT5RTIrPm"
@@ -469,7 +481,7 @@
       "url": "https://open.spotify.com/track/4duOfYgf6vfNPHTMrCrilK"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Castle Riders II",
         "url": "https://open.spotify.com/album/0ZqHJxiX4Wh0ePbQ3EOlJA"
@@ -489,7 +501,7 @@
       "url": "https://open.spotify.com/track/3pFWFbbgBSbxjyEWw7tlfD"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Inner Space PT1",
         "url": "https://open.spotify.com/album/64cDD06y863skYTssJcZCC"
@@ -505,7 +517,7 @@
       "url": "https://open.spotify.com/track/0sVV4LKKQs5eQErvUSVc0u"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "The Millennial Mile EP",
         "url": "https://open.spotify.com/album/3VVWyGCB9CsjGNAd8lH6sL"
@@ -525,7 +537,7 @@
       "url": "https://open.spotify.com/track/5nIlTEM101twCef1130gKB"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Contract Labour",
         "url": "https://open.spotify.com/album/6tAUO6aHklDT0L3RBdjbTB"
@@ -541,7 +553,7 @@
       "url": "https://open.spotify.com/track/1aNOHoR8akvqGtnXNxNAtD"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Hardwon005",
         "url": "https://open.spotify.com/album/0CPWNftFw40E8v4LuXEQTr"
@@ -557,7 +569,7 @@
       "url": "https://open.spotify.com/track/0IoBGbvNFzqHuH7SKqTtK3"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Gloomy Heart",
         "url": "https://open.spotify.com/album/3rwYUE8VLBZs7huDoI7gvq"
@@ -573,7 +585,7 @@
       "url": "https://open.spotify.com/track/253ebC89Xzb3Qvy7orOduk"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
@@ -589,7 +601,7 @@
       "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Silver Axe",
         "url": "https://open.spotify.com/album/4O2dXrF54m1N0bdEyn3t1K"
@@ -613,7 +625,7 @@
       "url": "https://open.spotify.com/track/3tLtDtZztMmvyKCKTzAZw0"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Acid Bites EP",
         "url": "https://open.spotify.com/album/494wuNsAbs3UlzrIgSoUoK"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/4JVB7DG8US4BaOqXCXRrsh"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Suffer The Children",
         "url": "https://open.spotify.com/album/2jdemYdps3vGUdTr1T5snd"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/1fxY6M6Rc6j5A6FxETeIuf"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Here Comes the Techno Assaulter",
         "url": "https://open.spotify.com/album/54GNwUcw35jxSEfLjUT68U"
@@ -661,7 +673,7 @@
       "url": "https://open.spotify.com/track/2xJXwZfvIWKskygKw9guia"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Hellzone Megapunk",
         "url": "https://open.spotify.com/album/5LaoX4XFEX2DolMPHszU9E"
@@ -677,7 +689,7 @@
       "url": "https://open.spotify.com/track/1btrejWTTn0vxEcBo4PtZr"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Mindset Of Rebellion EP",
         "url": "https://open.spotify.com/album/76Dm8FZy4Ak29sgeJntOwU"
@@ -693,7 +705,7 @@
       "url": "https://open.spotify.com/track/2U96dzGhboY0ZoCi7z4BMA"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "The Third Kind",
         "url": "https://open.spotify.com/album/0LNPGVN4mAKb5mMMzpSL7l"
@@ -709,7 +721,7 @@
       "url": "https://open.spotify.com/track/73oLraowYKo1ylCx0Pg0p7"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Our Message For The Future Album",
         "url": "https://open.spotify.com/album/1gC8gC81T8AHjVsGdP14bS"
@@ -725,7 +737,7 @@
       "url": "https://open.spotify.com/track/1VhIaihChrnmBrcuvaK7i4"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Dulcet Acridness",
         "url": "https://open.spotify.com/album/7iE3dQfqaEz5lQUeRrw5La"
@@ -741,7 +753,7 @@
       "url": "https://open.spotify.com/track/35sDfoftoXOPWQw2oKsGZZ"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Teknotrans, Vol. 1",
         "url": "https://open.spotify.com/album/5HwxDeU8FP0w5GkzsLm3fi"
@@ -761,7 +773,7 @@
       "url": "https://open.spotify.com/track/5rxeNXoPXvW1wavG7sVW7m"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Dark Initiation, Vol. 4",
         "url": "https://open.spotify.com/album/1uj5K5DQjiRA4S43s3xtjf"
@@ -777,7 +789,7 @@
       "url": "https://open.spotify.com/track/4RgjoYjjH5SWZFMJTrwfDk"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Jardin Aux Aurores",
         "url": "https://open.spotify.com/album/7a46Kf83lrmMUPhLQOD5iI"
@@ -797,7 +809,7 @@
       "url": "https://open.spotify.com/track/77kg5eniBn28YuvztG1o2B"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Alientronic",
         "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
@@ -813,7 +825,7 @@
       "url": "https://open.spotify.com/track/1Pt6WjGiPeJl3Z5WAinBPC"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "EQ 10mg Base",
         "url": "https://open.spotify.com/album/4vUZa0vFN1RZ9shWvoo1cB"
@@ -829,7 +841,7 @@
       "url": "https://open.spotify.com/track/5Kvq0MMRAQtLSj6VX1P4Uy"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Outta Limits (Remixes)",
         "url": "https://open.spotify.com/album/0FVuKeVYSYc2HZvBDeJqDN"
@@ -845,7 +857,7 @@
       "url": "https://open.spotify.com/track/3Xg57XrbCurhCiRmBtriRr"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Love And Dancing",
         "url": "https://open.spotify.com/album/0hwRPVBP33XamxIm0Co1hU"
@@ -865,7 +877,7 @@
       "url": "https://open.spotify.com/track/12Oh5ewLqFbcMpfYpqp9Ux"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Ich denk an dich",
         "url": "https://open.spotify.com/album/0hicLoLLN4kPzipsABCTNH"
@@ -885,7 +897,7 @@
       "url": "https://open.spotify.com/track/2QNb6V1SYt2i8BdrnhtA26"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Devil's Playground EP",
         "url": "https://open.spotify.com/album/3s1fQm57PtESB8bZBUu8Gw"
@@ -901,7 +913,7 @@
       "url": "https://open.spotify.com/track/0uQLEwQhMg2Ld5cC4hYbr6"
     },
     {
-      "added_at": "2023-05-25 22:01:00",
+      "added_at": "2023-06-16 10:18:00",
       "album": {
         "name": "Vaudeville",
         "url": "https://open.spotify.com/album/6uY9MGMtLlO7bIhaYTPykW"

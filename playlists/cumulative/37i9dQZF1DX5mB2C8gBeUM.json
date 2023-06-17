@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Diplo",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Chase Matthew",
   "name": "Wild Country",
   "tracks": [
     {
@@ -4045,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Low Life",
+        "url": "https://open.spotify.com/album/1mX03pKOvjJlcODjeyD2lt"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/5KKwdRD3ziZJFqmDEZ25Ny"
+    },
+    {
+      "album": {
         "name": "Lucky Me",
         "url": "https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU"
       },
@@ -4168,6 +4186,24 @@
       "duration_ms": 159240,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/056K0FrfQlXzBvmjUOirnQ"
+    },
+    {
+      "album": {
+        "name": "Missing Nothing",
+        "url": "https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Missing Nothing",
+      "url": "https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO"
     },
     {
       "album": {

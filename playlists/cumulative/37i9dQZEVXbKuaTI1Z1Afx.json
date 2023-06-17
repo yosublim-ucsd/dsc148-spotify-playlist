@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "24 Songs",
+        "url": "https://open.spotify.com/album/3W9ivB8clpbbNLw49cjsLx"
+      },
+      "artists": [
+        {
+          "name": "LucaTheG1",
+          "url": "https://open.spotify.com/artist/29cpCvKYnwMrhaZo5IuczB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225233,
+      "name": "24 Songs",
+      "url": "https://open.spotify.com/track/4A3waun6HF0JfPjS9xT3RF"
+    },
+    {
+      "album": {
         "name": "24 songs",
         "url": "https://open.spotify.com/album/6gJto7htAKsTE3pYwfWSQD"
       },
@@ -9884,7 +9902,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
@@ -11062,7 +11080,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
@@ -18310,7 +18328,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 128703,
       "name": "Ms. Poli Sci",
       "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
@@ -20708,7 +20726,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 93240,
       "name": "Part of Your World (Reprise II)",
       "url": "https://open.spotify.com/track/0ZNT9xAVvwsUYwkEHUio0S"
@@ -21604,7 +21622,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 362495,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/2kcpSxuTS6RHbZ5HC7sVYm"
@@ -25382,7 +25400,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -25708,7 +25726,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"

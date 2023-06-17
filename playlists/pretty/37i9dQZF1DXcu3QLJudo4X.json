@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 53354,
+  "num_followers": 53429,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU3ZWNlNjUxMjVlMTU4OGVjOTYyZjk3YjY5MzBlMTQ4NmIxNTcx",
+  "snapshot_id": "MCxjMmUzNDEzNGU3ZTA5ZjZmYWQyODIzZGUwZmRjNTE1NjU0NzA5NGRk",
   "tracks": [
     {
       "added_at": "2023-04-06 13:07:38",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Trouble Blues",
+      "url": "https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 264800,
       "name": "Stormy Monday",
       "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Trouble Blues",
-      "url": "https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -863,22 +863,22 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "The Best In Blues",
-        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
+        "name": "Good Things Don't Happen Every Day",
+        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Jimmy McGriff",
+          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
         },
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 173160,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+      "duration_ms": 183800,
+      "name": "(I Think) Drowning on Dry Land",
+      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Good Things Don't Happen Every Day",
-        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
+        "name": "The Best In Blues",
+        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
       "artists": [
         {
-          "name": "Jimmy McGriff",
-          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         },
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 183800,
-      "name": "(I Think) Drowning on Dry Land",
-      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
+      "duration_ms": 173160,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
     },
     {
       "added_at": "2023-04-06 13:07:38",

@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-275 songs - 18 hr 14 min
+276 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-07-08 |  |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-07-08 | 2023-01-12 |
 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-12-16 |  |
-| [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-07-08 |  |
+| [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-07-08 | 2023-06-17 |
 | [El Amor Anda Suelto](https://open.spotify.com/track/2fokXSTVf0Zh2gVLvoYOhx) | [El Astillero](https://open.spotify.com/artist/7C9yOG9qOJrWjU2DlvCUhr) | [Sesiones](https://open.spotify.com/album/1KWVmkHiaNR01ozodyG1G3) | 3:41 | 2022-05-20 | 2022-07-23 |
 | [El Comienzo del Final](https://open.spotify.com/track/14mNmaD7yPKqrmhJzW1rgI) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [El Comienzo del Final](https://open.spotify.com/album/7v5G14UAYQXW4A4Sndk8BX) | 2:54 | 2022-09-23 | 2022-12-17 |
 | [El Kafkarudo](https://open.spotify.com/track/0xknOzV05CSEbU76ibfDpm) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK) | [Chapa \- Pintura \- Lifting](https://open.spotify.com/album/2rL5MLkJrrsBSbWLAUYBB6) | 2:58 | 2022-07-01 | 2022-07-11 |
@@ -95,6 +95,7 @@
 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 | 2022-05-20 | 2022-11-13 |
 | [Enamorado tuyo](https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Porfiado](https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6) | 4:19 | 2022-07-01 |  |
 | [Es Lo Que Hay](https://open.spotify.com/track/65IG3K396zE8ZiXG09PWUu) | [Peyote Asesino](https://open.spotify.com/artist/2cYeADErfbwZ0xIP19KeWD) | [Es Lo Que Hay](https://open.spotify.com/album/2pdVxXPI7qTEwVpws23kY7) | 4:04 | 2022-05-20 | 2022-07-02 |
+| [Escena 13 \- El nuevo orden](https://open.spotify.com/track/2n6a5RJUn4zqbQCiVRjwfA) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK), [Alejandra Wolff](https://open.spotify.com/artist/5k1WacyzIDCOALOGHK6rXb), [Andrea Davidovics](https://open.spotify.com/artist/2sZcLOUjbqSzsUsoKXPjbg) | [Urutopías](https://open.spotify.com/album/5NmAUX4qVGD571wP0DhjL9) | 2:54 | 2023-06-16 |  |
 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 | 2022-05-20 |  |
 | [Espiga de Trigo](https://open.spotify.com/track/3r9euzTYjOH049B77Xwl50) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Mi Bien](https://open.spotify.com/album/4oneqto6apNwisWnzbd4BW) | 3:55 | 2022-07-01 | 2022-07-29 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-07-08 |  |
@@ -281,7 +282,7 @@
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-07-08 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2022-07-08 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/6pomd8NkFiNATdlq7eXO2o) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/5XGU2Rnh7THy4bHIDNqREp) | 4:16 | 2022-05-20 | 2022-07-29 |
-| [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:14 | 2022-07-08 |  |
+| [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:11 | 2022-07-08 |  |
 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 | 2022-05-20 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Los Del Espacio.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Bellakath.",
   "name": "Hits Urbanos",
   "tracks": [
     {
@@ -7748,7 +7748,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 308571,
       "name": "Mula",
       "url": "https://open.spotify.com/track/69rcDQoTgcU1qI396vTcxC"
@@ -10028,6 +10028,32 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "album": {
+        "name": "Ryan Castro, Ovy On The Drums | Mission 16",
+        "url": "https://open.spotify.com/album/7IrGaDWfxxnPiZgvCFEtJu"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Ryan Castro, Ovy On The Drums | Mission 16",
+      "url": "https://open.spotify.com/track/2W5X6oMGCCD0tiyBbIkU8i"
     },
     {
       "album": {

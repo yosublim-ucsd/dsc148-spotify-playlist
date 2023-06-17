@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! En portada: La Joaqui y Callejero Fino en portada.
 
-108 songs - 6 hr 0 min
+111 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24 Kilates](https://open.spotify.com/track/5sB1tGmW2AtRuTCFLpt1pz) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Charly Fuentes](https://open.spotify.com/artist/3ijEuTyWd1NJJ9v8pEaNyi) | [24 Kilates](https://open.spotify.com/album/6Q5X9cYsPVg9kLf8Dtp1hU) | 4:43 | 2023-06-13 |  |
 | [4 Blones](https://open.spotify.com/track/77Ia9UHV5WTyP8dhbcgIQr) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [4 Blones](https://open.spotify.com/album/6qmqAApV5bz67Vx0xaPZr5) | 3:00 | 2023-06-13 |  |
 | [44](https://open.spotify.com/track/0MIgOTslQTNklsI9NGt2hK) | [Señor F](https://open.spotify.com/artist/3YlLYod1JN05OO4VoXa0f5) | [44](https://open.spotify.com/album/4uGgpvZUcx8CtomewpUFZ1) | 3:01 | 2023-06-13 |  |
+| [A Punto](https://open.spotify.com/track/5xGXZg8R0AfnijU4KDhyYy) | [Mseco](https://open.spotify.com/artist/6U7GcNNSbalfDizUblYENU), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8) | [A Punto](https://open.spotify.com/album/0fu7HTqz4bzVTpNYek1RZe) | 3:20 | 2023-06-16 |  |
 | [A Ti, Mamá \- Remix](https://open.spotify.com/track/37p9yuy0m9HsoaCmCAg4On) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [A Ti, Mamá \(Remix\)](https://open.spotify.com/album/0YIGFDTwSoQpx1UvcPEMYv) | 4:26 | 2023-06-13 | 2023-06-16 |
 | [A Veces](https://open.spotify.com/track/3jbdFNkDPs7ReymWHBmqjn) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [A Veces](https://open.spotify.com/album/573vcDLspEETzui2w6XUBt) | 2:49 | 2023-06-13 |  |
 | [Acostumbrándome](https://open.spotify.com/track/4NJLfHPvTnRlwy8p54yM9u) | [Free Stayla](https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj) | [Acostumbrándome](https://open.spotify.com/album/7HjIuedBTIeTuIi1Tcvxcs) | 3:37 | 2023-06-13 | 2023-06-16 |
@@ -51,6 +52,7 @@
 | [Gol](https://open.spotify.com/track/3rccOm5b4qaylhIEMXtcev) | [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU) | [Liga Premier](https://open.spotify.com/album/1tiXEwnH66EboRWQytzmPd) | 2:32 | 2023-06-13 |  |
 | [Guachaca Intelectual](https://open.spotify.com/track/4vlMoYFq6hpjLgs4Ev1g2F) | [Chris MC](https://open.spotify.com/artist/0Q72iwK5RKLtj1p4WLoDB6) | [Guachaca Intelectual](https://open.spotify.com/album/2oCtWTyx9oODjzmdmJmrJR) | 3:36 | 2023-06-13 |  |
 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 | 2023-06-13 |  |
+| [Hombre \(One Shot\) \- Remix](https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Discan](https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY) | [Hombre \(One Shot\) \[Remix\]](https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY) | 3:04 | 2023-06-16 |  |
 | [Husein](https://open.spotify.com/track/4U7cmDHz5utZCRW1s1LoF7) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Husein](https://open.spotify.com/album/1DFMXfMfH7zQj1b7lhLJrP) | 3:41 | 2023-06-13 |  |
 | [Indeleble](https://open.spotify.com/track/4DnmXoRZYZBItLe4Gt1JBD) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Indeleble](https://open.spotify.com/album/4w2N2EHQP7GuIdgAcU6wtN) | 3:14 | 2023-06-13 |  |
 | [JOSEAR](https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [JOSEAR](https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG) | 3:47 | 2023-06-13 |  |
@@ -98,6 +100,7 @@
 | [Que Mal Que Se Nos Dió \- Remix](https://open.spotify.com/track/6YP4uZzDd9jI3DDbDdMpyK) | [Flowker Slick](https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN), [Nype](https://open.spotify.com/artist/6GU9vnOECwRsXfG6xfK0Qm) | [Que Mal Que Se Nos Dió \(Remix\)](https://open.spotify.com/album/6KhNfW6ehGXGg84aJ8lGoU) | 3:16 | 2023-06-13 |  |
 | [Que No Se Apague](https://open.spotify.com/track/1fEc6t9NteHIqXv0sgpEIW) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Que No Se Apague](https://open.spotify.com/album/7CNlOGFOtPr9PeWYHEzL1y) | 4:44 | 2023-06-13 | 2023-06-16 |
 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 | 2023-06-13 |  |
+| [Roothoppas \- Remix](https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Roothoppas \(Remix\)](https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL) | 3:01 | 2023-06-16 |  |
 | [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-06-13 |  |
 | [Sin Máscaras](https://open.spotify.com/track/7FBkaDDidnYopCQROqa8ec) | [Lagher H](https://open.spotify.com/artist/6Stcgov6EuuVEenxsH20i1), [Michael Freak](https://open.spotify.com/artist/05wBY3W3rOvuucd26Mja9y) | [Sin Máscaras](https://open.spotify.com/album/0kbGvpi71ldLaCKTX1J06S) | 3:12 | 2023-06-13 |  |
 | [Soliloquio](https://open.spotify.com/track/0FVNEb2J9XlobKON3WGjHQ) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Coy Sifuentes](https://open.spotify.com/artist/3xFeX3DSIXjXi4BU9syHLb), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Soliloquio](https://open.spotify.com/album/0IU3wAjC9v0PXQlBeS2B4d) | 3:01 | 2023-06-13 |  |

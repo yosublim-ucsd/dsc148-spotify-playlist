@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Atmosferic",
+        "url": "https://open.spotify.com/album/29Qn0SP5IBqrZyK7pXjJ0K"
+      },
+      "artists": [
+        {
+          "name": "Dok & Martin",
+          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438461,
+      "name": "Atmosferic",
+      "url": "https://open.spotify.com/track/5eCCDEJhr3gh8WsXAulpjK"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
@@ -1012,6 +1030,24 @@
       "duration_ms": 401202,
       "name": "Battleaxe",
       "url": "https://open.spotify.com/track/5yO4x0CnwPIuIK4OdUxSHU"
+    },
+    {
+      "album": {
+        "name": "Be a Human",
+        "url": "https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422004,
+      "name": "Be a Human",
+      "url": "https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM"
     },
     {
       "album": {
@@ -3768,7 +3804,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 372093,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/3yDju1wZmu083M7RHATo3g"
@@ -4344,7 +4380,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 440301,
       "name": "In From The Night - Adam Beyer & Wehbba Remix",
       "url": "https://open.spotify.com/track/0I7ggM44AhOpWIZCM02HtP"
@@ -5532,6 +5568,24 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "album": {
+        "name": "Electric Drive",
+        "url": "https://open.spotify.com/album/3MmNT2A0x42p2lkCB41VsE"
+      },
+      "artists": [
+        {
+          "name": "Marcel Dettmann",
+          "url": "https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283224,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/2tUTF4c90ZQKy25Ellez9M"
     },
     {
       "album": {
@@ -9066,7 +9120,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 341333,
       "name": "Underground - Original Mix",
       "url": "https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE"

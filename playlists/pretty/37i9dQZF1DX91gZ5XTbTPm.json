@@ -1,13 +1,33 @@
 {
-  "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 108351,
+  "description": "The Midwest is always on time. Cover: Trippie Redd",
+  "num_followers": 108420,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjVkNWI3YWQ4NWRkNmE5ODRmMjg0MGU0ODM3NWY2Mzc4ZGI1NjE3",
+  "snapshot_id": "MCwyNDRjNGI4YzdmMGJjOWYzNGM4NzY1OTYwZjM3ZWZhM2JlMWIzZmU1",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Took My Breath Away (feat. Skye Morales)",
+        "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Skye Morales",
+          "url": "https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Took My Breath Away (feat. Skye Morales)",
+      "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
@@ -25,20 +45,28 @@
       "url": "https://open.spotify.com/track/03yFQxAIxAqv7dS3RfViux"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "All Star Team",
-        "url": "https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf"
+        "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
+        "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 107166,
-      "name": "All Star Team",
-      "url": "https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0"
+      "duration_ms": 189026,
+      "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -109,26 +137,6 @@
       "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "I'm Geekin (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "I'm Geekin (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "All My Life (feat. J. Cole)",
@@ -149,6 +157,46 @@
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4XBBw9vxjoiFyB1BEUZ156"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0nUIKgmubmF43zb7eL0Tpi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "All Star Team",
+        "url": "https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 107166,
+      "name": "All Star Team",
+      "url": "https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "NO BAP",
@@ -163,6 +211,26 @@
       "duration_ms": 120944,
       "name": "NO BAP",
       "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "B'CUZ (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 171616,
+      "name": "B'CUZ (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -199,6 +267,26 @@
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Had To Ask (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/5pkRLJesMpChyAZd4iENYJ"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 156765,
+      "name": "Had To Ask (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -243,58 +331,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 259687,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "PORSCHE TOPLESS",
-        "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "PORSCHE TOPLESS",
-      "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Prisoner of Circumstance",
-        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "ChanHays",
-          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
       },
@@ -311,26 +347,6 @@
       "duration_ms": 188785,
       "name": "Bounce (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "B'CUZ (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 171616,
-      "name": "B'CUZ (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -355,6 +371,22 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/2n7HRnPxZ00DhaoMZTecpU"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "duration_ms": 170944,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -411,6 +443,38 @@
       "duration_ms": 117791,
       "name": "InstaKill",
       "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "We Eat The Most (Reloaded)",
+        "url": "https://open.spotify.com/album/1MaaGLGGQIGmx5vvkBd94N"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 133822,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/2WUB7xasrRZk0H4Z5Gklgj"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Lamar",
+        "url": "https://open.spotify.com/album/4YwqUXComMtnzrvoeorWW2"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "duration_ms": 151823,
+      "name": "Lamar",
+      "url": "https://open.spotify.com/track/1CEDHuG68UDpjTB8nKB5YB"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -471,6 +535,22 @@
       "duration_ms": 252705,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Space Jam",
+        "url": "https://open.spotify.com/album/0hK76ucYklqHi0vw1tfHTV"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 226056,
+      "name": "Space Jam",
+      "url": "https://open.spotify.com/track/0rpk9iskAE63lLA8haPyIj"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -593,6 +673,58 @@
       "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 259687,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "PORSCHE TOPLESS",
+        "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "PORSCHE TOPLESS",
+      "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Emergency Room",
@@ -629,22 +761,6 @@
       "url": "https://open.spotify.com/track/19opOryJskLabSLp0WLAei"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Trapper Of The Year",
-        "url": "https://open.spotify.com/album/7hpK4slWiud9Vbtztl3N3F"
-      },
-      "artists": [
-        {
-          "name": "Certified Trapper",
-          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
-        }
-      ],
-      "duration_ms": 184225,
-      "name": "Trapper Of The Year",
-      "url": "https://open.spotify.com/track/505h7n2RKx84zYZGs5ljSX"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -667,26 +783,6 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "ROLL THE DICE (Prod. Gesaffelstein)",
-        "url": "https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "ROLL THE DICE (Prod. Gesaffelstein)",
-      "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -731,30 +827,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Dropped The Lo",
         "url": "https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh"
       },
@@ -787,22 +859,6 @@
       "duration_ms": 141387,
       "name": "This Summer",
       "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196045,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -899,26 +955,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "ROLL THE DICE (feat. DeJ Loaf)",
-        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "ROLL THE DICE (feat. DeJ Loaf)",
-      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "BING BONG",
         "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
       },
@@ -931,38 +967,6 @@
       "duration_ms": 106736,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Ok Bet",
-        "url": "https://open.spotify.com/album/1BeuLY4VPYF9MqG2UWNhNg"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 190597,
-      "name": "Ok Bet",
-      "url": "https://open.spotify.com/track/2aWhd132y1WFrmXtQ4XwHm"
-    },
-    {
-      "added_at": "2023-04-26 06:23:54",
-      "album": {
-        "name": "12AM",
-        "url": "https://open.spotify.com/album/06f4wXvDDYi2DiQygKVuNl"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "12AM",
-      "url": "https://open.spotify.com/track/4rBO0G8nMiakstdKOJHf8T"
     }
   ],
   "unique_name": "CST",

@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 400000,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3"
@@ -3806,6 +3806,24 @@
       "duration_ms": 106290,
       "name": "you're just visiting",
       "url": "https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv"
+    },
+    {
+      "album": {
+        "name": "Zegways",
+        "url": "https://open.spotify.com/album/4bC87a0wafJ0U5dWlmz3q8"
+      },
+      "artists": [
+        {
+          "name": "The Surrealers",
+          "url": "https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Zegways",
+      "url": "https://open.spotify.com/track/7gNOv2uGFnZA9J7kpITGvS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6"

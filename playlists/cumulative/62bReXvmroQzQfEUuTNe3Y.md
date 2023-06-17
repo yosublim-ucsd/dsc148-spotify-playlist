@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-363 songs - 20 hr 36 min
+364 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1OFtfwhXqUYO08yD0QfTQE) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4lw2gLtWy9vadSTniV99mc) | 3:09 | 2021-09-11 |  |
 | [Another You](https://open.spotify.com/track/7xBtsvU7AWX4pYP02SXEtF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Another You](https://open.spotify.com/album/5kriWdQNPawclQs1j2jfcZ) | 2:49 | 2022-08-05 | 2022-09-17 |
 | [Anyway Friday](https://open.spotify.com/track/7uyzEFBeQNkoHsl35NFMAv) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Voices](https://open.spotify.com/album/3ZHBMDCb4NrguIr1EaDwZK) | 3:33 | 2020-09-13\* | 2021-04-17 |
+| [Anywhere \(Road Trippin'\)](https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Anywhere \(Road Trippin'\)](https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA) | 4:34 | 2023-06-16 |  |
 | [Aquiver](https://open.spotify.com/track/0n7Qqb6srcdrfJcaI69vkp) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Aquiver](https://open.spotify.com/album/3xujpBmJMxRVBlHFehFOhT) | 4:27 | 2020-09-13\* | 2021-03-06 |
 | [As I Sleep \(feat\. Charlee\)](https://open.spotify.com/track/72qlZsoVPpyFxVjL6GUuYI) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [As I Sleep \(feat\. Charlee\)](https://open.spotify.com/album/2UhO0I05ysmtnXjWrilHwP) | 3:13 | 2020-09-13\* | 2021-03-06 |
 | [Ashes](https://open.spotify.com/track/789wZjQPng1ac6c4jsdgr8) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [Chapter One](https://open.spotify.com/album/4Np0L1XIGlpobqD3KHfKjB) | 4:18 | 2021-10-02 | 2021-11-11 |
@@ -256,7 +257,7 @@
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2021-03-06 | 2021-07-17 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-04-03 | 2021-07-17 |
 | [Regret](https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Arinn](https://open.spotify.com/artist/7nM52sn64aU3P5Dm3HMcA8), [B\-Goss](https://open.spotify.com/artist/0w8hxJFdIbvahDeSoxntNl) | [Regret](https://open.spotify.com/album/3ida1ug8811HAvQs0Ote6C) | 2:47 | 2021-06-25 |  |
-| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-26 |  |
+| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-26 | 2023-06-17 |
 | [Remember](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId) | [DRAY](https://open.spotify.com/artist/2kSdRzYPQR1kjM9jkWsS5M) | [Remember](https://open.spotify.com/album/1kVLVbJzfk3FeQhZsC13YJ) | 3:08 | 2021-12-11 |  |
 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-19 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-03-06 | 2021-10-02 |

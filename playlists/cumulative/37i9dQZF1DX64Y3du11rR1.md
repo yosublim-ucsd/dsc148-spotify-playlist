@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-195 songs - 11 hr 7 min
+197 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 | 2023-02-17 |  |
 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2021-12-22 |  |
 | [I Loved 'Em Every One](https://open.spotify.com/track/6q8eZaHQvrNOacoDp87TXl) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [I Loved 'Em Every One](https://open.spotify.com/album/3KfEE0PyI7tJycHpsQKJw7) | 3:57 | 2022-05-04 |  |
+| [I Never Cared For You](https://open.spotify.com/track/4ZHMl9mNMGYYNsu3439MUp) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [I Never Cared For You](https://open.spotify.com/album/4oneXcGIy8BHxQeYpViZCd) | 2:33 | 2023-06-16 |  |
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/51oIXpuAbCMXnH4bTJxf9m) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Covers, Vol\. 2](https://open.spotify.com/album/2EIAR4mEhjOhCNlFKnv6gl) | 2:52 | 2023-03-31 |  |
 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2021-12-22 | 2023-02-18 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I'm Good \(Blue\)](https://open.spotify.com/album/27wqComza4OEQnzS4AniQe) | 2:55 | 2022-12-16 |  |
@@ -136,6 +137,7 @@
 | [One of Us](https://open.spotify.com/track/1PMeG3BcSxdPq18gzpaY4I) | [Matilda Lindell](https://open.spotify.com/artist/60IyKrjboyrohZ4bWEJtqv) | [One of Us](https://open.spotify.com/album/1frDFUkkdb5z5dLtas85AY) | 3:38 | 2022-08-12 | 2022-11-19 |
 | [Ooh La La \- Live From My Bedroom\)](https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY) | [Louie Jacobs](https://open.spotify.com/artist/5qNxdsjjk6KXN5I8HFeKoh) | [Ooh La La \(Live From My Bedroom\)](https://open.spotify.com/album/2Zy2CiI0P2zgKe15LNscMK) | 3:24 | 2022-06-15 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-05-04 |  |
+| [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 | 2023-06-16 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 | 2023-02-17 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/0Q8N95kdGOqE6cWTDRvbms) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/2BFuY60RmwJyNYP9w3QR9t) | 4:03 | 2021-12-22 | 2022-11-19 |
 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 | 2021-12-22 |  |

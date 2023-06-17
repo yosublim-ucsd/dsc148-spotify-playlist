@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-99 songs - 7 hr 0 min
+100 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2023-05-05 |  |
 | [Adam Forever](https://open.spotify.com/track/1EOnzIicFKok5BQC9OMUwj) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Adam Forever / The Great Leap](https://open.spotify.com/album/03Xy8weEkKx0f3kI1Hqsue) | 4:08 | 2023-05-05 |  |
 | [Aeon](https://open.spotify.com/track/4WdrmA1tCQYj3eBqXmnifT) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Aeon](https://open.spotify.com/album/4Q7IxpHo3lI53dtTGivvJ6) | 3:26 | 2023-05-05 |  |
+| [Afternoon At The Seaside](https://open.spotify.com/track/0naFjmMAVXjEdqPy2TCUKK) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Afternoon At The Seaside](https://open.spotify.com/album/0EdncjeUbfHnkJtPWhPl5S) | 2:03 | 2023-06-16 |  |
 | [Ambo](https://open.spotify.com/track/3GmIpLMTwp72sei8B2qrvL) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:53 | 2023-05-05 |  |
 | [Anemone](https://open.spotify.com/track/1ywWkEeS6U2BXOkZL1fucB) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:07 | 2023-05-05 |  |
 | [Antiphon](https://open.spotify.com/track/0dsKfzNonMrQtmy93Gk5qm) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Night Walks](https://open.spotify.com/album/5QTf7nZL3bF41IDpxZW8Pm) | 6:07 | 2023-05-05 |  |

@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 171743,
       "name": "Bombay",
       "url": "https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 199000,
       "name": "CHOVE (calor em sp)",
       "url": "https://open.spotify.com/track/5WqMwoLQyTVQY7OhkMKukX"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 163578,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/43Iu9oeFLiVXAr7GO5Z216"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 199680,
       "name": "Grife",
       "url": "https://open.spotify.com/track/7Dm5WRVXGtzcx3oYKq5CKW"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 197799,
       "name": "Nuvens",
       "url": "https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg"
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 137500,
       "name": "O Mund\u00e3o \u00c9 Seu (Trap)",
       "url": "https://open.spotify.com/track/0H2uVgHAnaSimZR0I6zwUj"
@@ -4282,6 +4282,24 @@
       "duration_ms": 102545,
       "name": "Paris e Parties",
       "url": "https://open.spotify.com/track/3cG1bBwsyJMQdMW7fNb3Ka"
+    },
+    {
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "album": {
@@ -5200,7 +5218,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194589,
       "name": "Ser\u00e1?",
       "url": "https://open.spotify.com/track/3tdzYQGavoWCl8gkPcxywd"
@@ -5563,6 +5581,36 @@
     },
     {
       "album": {
+        "name": "Te Pe\u00e7o Pra Ficar",
+        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Te Pe\u00e7o Pra Ficar",
+      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "album": {
         "name": "Te Proponho",
         "url": "https://open.spotify.com/album/2GSFg86SJgNGevK5XR4FXN"
       },
@@ -5806,7 +5854,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 218666,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/044fBdmxeJvkcWywlO98Vv"
@@ -6086,6 +6134,32 @@
       "duration_ms": 187928,
       "name": "Voc\u00ea N\u00e3o Pode Dizer Nada",
       "url": "https://open.spotify.com/track/7k8Aa0jbGHKkKFKUVpDtWO"
+    },
+    {
+      "album": {
+        "name": "Virus Love",
+        "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "V\u00edrus Love",
+      "url": "https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs"
     },
     {
       "album": {

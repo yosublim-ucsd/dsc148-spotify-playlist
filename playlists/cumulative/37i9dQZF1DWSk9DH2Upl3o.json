@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "To Live A Making",
+        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389403,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
+    },
+    {
+      "album": {
         "name": "Watercolor Days",
         "url": "https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV"
       },
@@ -664,6 +682,24 @@
       "duration_ms": 242062,
       "name": "Fossilize",
       "url": "https://open.spotify.com/track/24jLSXJDqYx0TIqaYWIWSY"
+    },
+    {
+      "album": {
+        "name": "Frog Rock",
+        "url": "https://open.spotify.com/album/5yAKhXWdnSINL6HH87aKpK"
+      },
+      "artists": [
+        {
+          "name": "Road Waves",
+          "url": "https://open.spotify.com/artist/0v5yDE94Tf7agKSVwqSwau"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575734,
+      "name": "Frog Rock",
+      "url": "https://open.spotify.com/track/5Gbm1ipybjf63mU439XcrC"
     },
     {
       "album": {
@@ -822,7 +858,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 451253,
       "name": "How Long...",
       "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
@@ -1344,7 +1380,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 393360,
       "name": "Mucho",
       "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 404800,
       "name": "Same As It Ever Was",
       "url": "https://open.spotify.com/track/56JZhCEFR1LUGGbxGDuRnx"
@@ -1940,6 +1976,24 @@
       "duration_ms": 304120,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj"
+      },
+      "artists": [
+        {
+          "name": "Tand",
+          "url": "https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447777,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV"
     },
     {
       "album": {
@@ -2348,10 +2402,40 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 160157,
       "name": "Waltz of a Thousand Stars",
       "url": "https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU"
+    },
+    {
+      "album": {
+        "name": "Waltz of a Thousand Stars",
+        "url": "https://open.spotify.com/album/26JiCjMeocXoE0wra5IcxB"
+      },
+      "artists": [
+        {
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
+        },
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Ray Paczkowski",
+          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
+        },
+        {
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160157,
+      "name": "Waltz of a Thousand Stars",
+      "url": "https://open.spotify.com/track/7t81QaJ5tYzJVbX17Damcc"
     },
     {
       "album": {

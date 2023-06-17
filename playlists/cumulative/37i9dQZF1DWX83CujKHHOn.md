@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-348 songs - 21 hr 36 min
+349 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Break My Broken Heart](https://open.spotify.com/track/2UfDeOnKQgquiKyStdgCDj) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Break My Broken Heart](https://open.spotify.com/album/44KkghWRHAWdnTlDRAGjK3) | 3:34 | 2021-12-06 | 2022-01-19 |
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2021-12-06 | 2022-11-13 |
 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 | 2023-02-03 | 2023-02-25 |
-| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 |  |
+| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 | 2023-06-17 |
 | [Broken Ones](https://open.spotify.com/track/0VYCUWNFIYLIOQqu3bFzs0) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Broken Ones](https://open.spotify.com/album/6F6usgNiD6yrnTVgvC76ub) | 3:49 | 2022-01-05 | 2022-11-13 |
 | [brokenhearted \(together\)](https://open.spotify.com/track/45BmSERHSfZFaLH9oWtA1e) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [brokenhearted \(together\)](https://open.spotify.com/album/7EQo6zfVoU9iJuIDo9xAW7) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [brokenhearted \- sunset](https://open.spotify.com/track/2fIhX68Y1P0xLfnJh160tk) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [partly cloudy](https://open.spotify.com/album/5PN7GeludLF7xbeWtk5Sy7) | 4:21 | 2021-12-06 | 2022-07-29 |
@@ -314,6 +314,7 @@
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2022-12-23 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-06 |  |
 | [Trampoline \- Acoustic](https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Trampoline \(Acoustic\)](https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT) | 3:33 | 2021-12-06 | 2022-07-29 |
+| [Truly Madly Deeply](https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden \(Original Version\)](https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4) | 4:36 | 2023-04-07 |  |
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2022-07-08 | 2023-06-12 |
 | [Truly Madly Deeply](https://open.spotify.com/track/69hwHdKl4Y1HusAutt3W6q) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/73I6LRyJDx4scO2zlMqR8m) | 4:37 | 2022-01-05 | 2022-04-18 |
 | [Turn Back Time](https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Turn Back Time](https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK) | 3:43 | 2021-12-06 |  |

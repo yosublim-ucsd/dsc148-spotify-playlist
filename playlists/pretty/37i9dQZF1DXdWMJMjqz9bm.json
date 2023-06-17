@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 193986,
+  "num_followers": 194025,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmI4MDQ1M2Y3NDIzNGJhYmZlMzYzMjY4MDk5NmE4ZTIxZWIxZjZh",
+  "snapshot_id": "MCxlNzQ3Y2U0N2NkMDZhYjkyOWU4YzdmZGViZDRkMDJiZGM2MTZiZWUx",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -23,6 +23,42 @@
       "duration_ms": 147666,
       "name": "Good Times Go",
       "url": "https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 133365,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+    },
+    {
+      "added_at": "2023-06-16 14:08:21",
+      "album": {
+        "name": "Took My Breath Away (feat. Skye Morales)",
+        "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Skye Morales",
+          "url": "https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Took My Breath Away (feat. Skye Morales)",
+      "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -61,22 +97,6 @@
       "url": "https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
-      },
-      "artists": [
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 133365,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
-    },
-    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "strings attached",
@@ -91,6 +111,22 @@
       "duration_ms": 124621,
       "name": "strings attached",
       "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
+    },
+    {
+      "added_at": "2023-06-16 14:08:21",
+      "album": {
+        "name": "We're Ok",
+        "url": "https://open.spotify.com/album/6D0q6dY0gC9c9tGKRYlQmp"
+      },
+      "artists": [
+        {
+          "name": "Lyan Paris",
+          "url": "https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "We're Ok",
+      "url": "https://open.spotify.com/track/02YKUMpXPdPd05IGpgcvtr"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -117,6 +153,22 @@
       "url": "https://open.spotify.com/track/3qrxa00Q7sONw0HuvDA3Pg"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I"
+      },
+      "artists": [
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "duration_ms": 171844,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "harvey dent",
@@ -137,6 +189,22 @@
       "url": "https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo"
     },
     {
+      "added_at": "2023-06-16 14:10:49",
+      "album": {
+        "name": "Bottles N' Coliseums",
+        "url": "https://open.spotify.com/album/2F7O485NubU2UBAZwX4R3w"
+      },
+      "artists": [
+        {
+          "name": "Shumaq",
+          "url": "https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao"
+        }
+      ],
+      "duration_ms": 120022,
+      "name": "Bottles N' Coliseums",
+      "url": "https://open.spotify.com/track/6hka6lkWeJAoPIO03c7W6f"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Walking Blind",
@@ -151,6 +219,26 @@
       "duration_ms": 138301,
       "name": "Walking Blind",
       "url": "https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts"
+    },
+    {
+      "added_at": "2023-06-16 14:08:21",
+      "album": {
+        "name": "Barcelona (feat. Samm Henshaw)",
+        "url": "https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 200295,
+      "name": "Barcelona (feat. Samm Henshaw)",
+      "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -229,6 +317,22 @@
       "url": "https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu"
     },
     {
+      "added_at": "2023-06-16 14:08:21",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/6oaSQvqdUoTE9M7IsosGBP"
+      },
+      "artists": [
+        {
+          "name": "Vic Sage",
+          "url": "https://open.spotify.com/artist/1Vb5xFUr9KlF32On6L2WPQ"
+        }
+      ],
+      "duration_ms": 136365,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/1VjbSYsazAQ3wI1Zy7nhVk"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Crying In Sunshine (feat. Arden Jones)",
@@ -281,6 +385,22 @@
       "url": "https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ"
     },
     {
+      "added_at": "2023-04-04 13:32:19",
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Practically Strangers",
@@ -295,6 +415,22 @@
       "duration_ms": 130173,
       "name": "Practically Strangers",
       "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
+    },
+    {
+      "added_at": "2023-06-16 14:08:21",
+      "album": {
+        "name": "forget about you",
+        "url": "https://open.spotify.com/album/5RpbigRzWwue3Xg4cdSKRo"
+      },
+      "artists": [
+        {
+          "name": "Jude Barclay",
+          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
+        }
+      ],
+      "duration_ms": 133922,
+      "name": "forget about you",
+      "url": "https://open.spotify.com/track/348bpHZqS0Nac9k7ILPjQ7"
     },
     {
       "added_at": "2023-04-26 17:59:01",
@@ -463,22 +599,6 @@
       "duration_ms": 143414,
       "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
       "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
-    },
-    {
-      "added_at": "2023-04-04 13:32:19",
-      "album": {
-        "name": "OUT OF MY MIND",
-        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -715,22 +835,6 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Singin in the Shower",
-        "url": "https://open.spotify.com/album/0fArp40eDK8mUK8p7YMuoF"
-      },
-      "artists": [
-        {
-          "name": "Jae Zole",
-          "url": "https://open.spotify.com/artist/5EEohu8udCMKstAlCYm3Xa"
-        }
-      ],
-      "duration_ms": 152043,
-      "name": "Singin in the Shower",
-      "url": "https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q"
     },
     {
       "added_at": "2022-09-23 04:14:00",
@@ -1089,22 +1193,6 @@
       "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
     },
     {
-      "added_at": "2022-10-21 14:01:05",
-      "album": {
-        "name": "midwest kids",
-        "url": "https://open.spotify.com/album/7eX31xLsNWdM8NFJu1oLlb"
-      },
-      "artists": [
-        {
-          "name": "Apollo",
-          "url": "https://open.spotify.com/artist/6DuMOGPBqZFTTM1MawW6Lw"
-        }
-      ],
-      "duration_ms": 145806,
-      "name": "midwest kids",
-      "url": "https://open.spotify.com/track/5VPiXYa0YEMrq6cf0MFWM5"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Are You Entertained (feat. Ed Sheeran)",
@@ -1139,22 +1227,6 @@
       "duration_ms": 207813,
       "name": "Cigarettes On Patios",
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
-    },
-    {
-      "added_at": "2022-11-21 16:32:21",
-      "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1489,22 +1561,6 @@
       "url": "https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "C'est la vie",
-        "url": "https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I"
-      },
-      "artists": [
-        {
-          "name": "Ethan Surman",
-          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
-        }
-      ],
-      "duration_ms": 171844,
-      "name": "C'est la vie",
-      "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
-    },
-    {
       "added_at": "2022-09-23 04:14:00",
       "album": {
         "name": "rewind",
@@ -1571,22 +1627,6 @@
       "duration_ms": 189309,
       "name": "IMPATIENT",
       "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
-    },
-    {
-      "added_at": "2022-11-25 06:40:00",
-      "album": {
-        "name": "Stay In Bed",
-        "url": "https://open.spotify.com/album/2GZ26dBt4GANEBgeV5oXFV"
-      },
-      "artists": [
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "Stay In Bed",
-      "url": "https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1687,38 +1727,6 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Over Love",
-        "url": "https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU"
-      },
-      "artists": [
-        {
-          "name": "Jay Kayze",
-          "url": "https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj"
-        }
-      ],
-      "duration_ms": 82142,
-      "name": "Over Love",
-      "url": "https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ"
-    },
-    {
-      "added_at": "2023-04-04 18:57:38",
-      "album": {
-        "name": "deep end",
-        "url": "https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w"
-      },
-      "artists": [
-        {
-          "name": "Chris LaRocca",
-          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
-        }
-      ],
-      "duration_ms": 144457,
-      "name": "deep end",
-      "url": "https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa"
     }
   ],
   "unique_name": "Varsity Bars",

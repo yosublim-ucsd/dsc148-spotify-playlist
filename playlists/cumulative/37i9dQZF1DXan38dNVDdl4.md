@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: Byron Messia
 
-241 songs - 11 hr 58 min
+242 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Gal Academy](https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P) | [DiCelebrityy](https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Gal Academy](https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6) | 3:11 | 2023-01-31 |  |
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2021-12-20 | 2023-02-01 |
 | [Gangster Party](https://open.spotify.com/track/4QrJB0XivrCeKslDREK3OM) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Gangster Party](https://open.spotify.com/album/0EpF7doVnjZRbz83G8nRN4) | 3:02 | 2022-07-29 | 2022-09-10 |
-| [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 | 2023-01-31 |  |
+| [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 | 2023-01-31 | 2023-06-17 |
+| [Glock 40](https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH) | 2:16 | 2023-05-17 |  |
 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 | 2021-12-20 |  |
 | [Good Comfort](https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Good Comfort](https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem) | 2:14 | 2021-12-20 | 2022-03-05 |
 | [Good Feeling](https://open.spotify.com/track/5tqwkL3YOAGIfUHuaD7z01) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [Good Feeling](https://open.spotify.com/album/24uvA5S694cXu1cgwENmXZ) | 2:36 | 2023-05-14 |  |

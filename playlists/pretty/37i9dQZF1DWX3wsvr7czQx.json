@@ -1,28 +1,48 @@
 {
   "description": "Icons only. Cover: Michael Bolton",
-  "num_followers": 9829,
+  "num_followers": 9845,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmY1YmY2NzMwZjc4NjY1MDRhYzMwZTc5MDYxOWI4ODdhOWIyOTU4",
+  "snapshot_id": "MCw2NmJkZmNkZGFlY2Q1MDFhMzQ2MWY1YjcwZWMxMjQ4YzY5MjgzMmYx",
   "tracks": [
     {
-      "added_at": "2023-05-05 04:01:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/3iAI36xSp4CxNOuddYICXX"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG"
       },
       "artists": [
         {
           "name": "Michael Bolton",
           "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
         }
       ],
-      "duration_ms": 182416,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC"
+      "duration_ms": 199061,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6ZNZEqAoxAxuCQxCQkn7il"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6KgSNIpIoasIodiMWLAaD9"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -655,22 +675,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Show Them The Way",
-        "url": "https://open.spotify.com/album/2o90fgeg8x1NNc6TxhduLq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 391332,
-      "name": "Show Them The Way",
-      "url": "https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf"
     },
     {
       "added_at": "2021-10-22 04:02:00",

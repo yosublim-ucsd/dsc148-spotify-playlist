@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 137443,
       "name": "22 Love",
       "url": "https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 164609,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/6QLcgTd4x8YsrVzo7txqzT"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 200000,
       "name": "Adicto (feat. Gigolo y La Exce)",
       "url": "https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 168565,
       "name": "All On Me (feat. Dotter)",
       "url": "https://open.spotify.com/track/7nulK6AZKACR2dxLCbQz6S"
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/1rnnhSp4cAz5vEpBdO1WTn"
+      },
+      "artists": [
+        {
+          "name": "Siks",
+          "url": "https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/4gr7xTUAg1NKPdilILoss0"
+    },
+    {
+      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/5GbjGA42reF88WWhkH6XAB"
       },
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 193294,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 142334,
       "name": "Be My One",
       "url": "https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 173333,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/6TCOYzcdzS4zlfcqv0WCEP"
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 183445,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 138080,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
@@ -4108,7 +4126,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 224767,
       "name": "Closer Together",
       "url": "https://open.spotify.com/track/4It1IKc6rUfiu2xOXdQ0iI"
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 219870,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN"
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 172390,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf"
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 185454,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0jmTMsQ3sA2VI2uRQ6ELt4"
@@ -6142,7 +6160,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216666,
       "name": "Face To Face",
       "url": "https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 261120,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/2OcT8PP3BIeTXMp1rYBHiS"
@@ -7112,7 +7130,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 205685,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1iXulY4UeMdoYQHf6A2SFz"
@@ -7726,7 +7744,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 160731,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/3zNavZ4qGN1kwNaBUCEY1u"
@@ -8512,7 +8530,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201392,
       "name": "Heatwave (feat. Robbie Jay)",
       "url": "https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI"
@@ -8574,6 +8592,28 @@
       "duration_ms": 132000,
       "name": "Heavy Metal Love",
       "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ"
+      },
+      "artists": [
+        {
+          "name": "Maryn",
+          "url": "https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5"
     },
     {
       "album": {
@@ -8790,7 +8830,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 197150,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/1rCfDo29mxjOmMNUKmbK76"
@@ -9098,7 +9138,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 176381,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/5or0ryC6EUT7kS92UEGqxd"
@@ -9160,7 +9200,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 133220,
       "name": "Holding Out",
       "url": "https://open.spotify.com/track/0dPCSrtlGF3u1ZmsCAypyA"
@@ -9368,7 +9408,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 145748,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
@@ -10754,7 +10794,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 147997,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0UJ55vY4Mn8SYj6o6kWaWi"
@@ -11540,7 +11580,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 149743,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU"
@@ -11562,7 +11602,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 335043,
       "name": "Kiss U",
       "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
@@ -11654,7 +11694,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 156007,
       "name": "La Cita (feat. Ally Brooke)",
       "url": "https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW"
@@ -11884,7 +11924,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 240120,
       "name": "Lessons In Love v3",
       "url": "https://open.spotify.com/track/2nMt4SLvhxTRbh1xtHBEWF"
@@ -11994,7 +12034,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 170955,
       "name": "Life",
       "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
@@ -13215,6 +13255,32 @@
     },
     {
       "album": {
+        "name": "Love You Loud",
+        "url": "https://open.spotify.com/album/7jmrf6IQfmchm8rb9PeoBV"
+      },
+      "artists": [
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Leon Stanford",
+          "url": "https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209763,
+      "name": "Love You Loud",
+      "url": "https://open.spotify.com/track/74LbmJtLRgeRubfKthJpeT"
+    },
+    {
+      "album": {
         "name": "Love You More",
         "url": "https://open.spotify.com/album/7ndUmsJ2yd4OSJkPjfjvTj"
       },
@@ -13801,6 +13867,28 @@
     },
     {
       "album": {
+        "name": "Meteor (Edit)",
+        "url": "https://open.spotify.com/album/1wL6fnkoO0yXDGvgWi5J8t"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        },
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171916,
+      "name": "Meteor - Edit",
+      "url": "https://open.spotify.com/track/4pMjZiXXGlmmEfYpQRP6iT"
+    },
+    {
+      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/2WVIfmyMWWwXQ6TaGMzEYW"
       },
@@ -13900,7 +13988,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 145696,
       "name": "Million Moons",
       "url": "https://open.spotify.com/track/1xN6sq9RPSakAs4FlSsnhM"
@@ -14154,7 +14242,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 207754,
       "name": "More Than A Feeling (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
@@ -14838,7 +14926,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 149200,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
@@ -16148,7 +16236,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 164576,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
@@ -16472,7 +16560,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 185480,
       "name": "Real Thing (ft. Elohim)",
       "url": "https://open.spotify.com/track/1iBdC7vSNeDEOITfNtJn9P"
@@ -16524,6 +16612,28 @@
       "duration_ms": 177500,
       "name": "Really Love (feat. Craig David & Digital Farm Animals)",
       "url": "https://open.spotify.com/track/50v2TSRV31bwpAPkjWejNL"
+    },
+    {
+      "album": {
+        "name": "Reason (with Paige Cavell)",
+        "url": "https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154292,
+      "name": "Reason (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37"
     },
     {
       "album": {
@@ -16864,7 +16974,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 214334,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/0FZnUKsmGA6kPwi0NShlBy"
@@ -17528,7 +17638,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 154730,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW"
@@ -17752,7 +17862,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 205000,
       "name": "scars",
       "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
@@ -18862,7 +18972,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 200322,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
@@ -19371,6 +19481,24 @@
     },
     {
       "album": {
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169503,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
+    },
+    {
+      "album": {
         "name": "Straightjacket (Shallou Remix)",
         "url": "https://open.spotify.com/album/2LJmMCyu2DfO4WvS2txgFx"
       },
@@ -19482,7 +19610,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194383,
       "name": "Stuck On You (feat. Donna Tella)",
       "url": "https://open.spotify.com/track/4YEakHI6sat9bV875QBNcW"
@@ -20064,7 +20192,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 193362,
       "name": "Take You",
       "url": "https://open.spotify.com/track/1srLMwr9cVpEnFeHgOpHnC"
@@ -20448,7 +20576,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 186373,
       "name": "The One",
       "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
@@ -20628,6 +20756,36 @@
       "duration_ms": 387575,
       "name": "The Veldt (feat. Chris James) - Edit",
       "url": "https://open.spotify.com/track/3bF2AgMhz38camuIvw7dsI"
+    },
+    {
+      "album": {
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
     },
     {
       "album": {
@@ -20874,7 +21032,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 232000,
       "name": "Think Of Me (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
@@ -21186,7 +21344,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 199680,
       "name": "Thousand Lives",
       "url": "https://open.spotify.com/track/0qLVLi1IS7TjVRXfVGWhVk"
@@ -21208,7 +21366,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 204671,
       "name": "three little words",
       "url": "https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM"
@@ -21856,7 +22014,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 181904,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/1AhiOzObMBqfonJDKtirj9"
@@ -22270,7 +22428,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 182844,
       "name": "Walk On Water (with Danni Carra)",
       "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
@@ -23144,7 +23302,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 295436,
       "name": "When the Lights Go",
       "url": "https://open.spotify.com/track/3NQ4j0kY3lX8kbUfhS8GZV"
@@ -23170,7 +23328,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 163460,
       "name": "When the Music Dies",
       "url": "https://open.spotify.com/track/4jEApyYREH9pGLYpZN04YQ"
@@ -23254,7 +23412,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 195555,
       "name": "Where I Want To Be",
       "url": "https://open.spotify.com/track/2kPnS1YwvdyJM1f440hbDw"
@@ -23338,7 +23496,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 164920,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t"
@@ -23562,7 +23720,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 165172,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3h6M4K3mBtb2ywoYhG7954"
@@ -24558,7 +24716,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 249984,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"

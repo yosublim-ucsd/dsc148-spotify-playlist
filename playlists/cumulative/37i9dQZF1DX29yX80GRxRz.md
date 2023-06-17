@@ -4,7 +4,7 @@
 
 > Drift away on cotton candy clouds and dream sweet with continuous pink sleep noise.
 
-235 songs - 12 hr 0 min
+236 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Clouds of Pink](https://open.spotify.com/track/1li0WHMIRXN6PCLjT5CWf6) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Clouds of Pink](https://open.spotify.com/album/4tD135zHd2kHBeWH6L5LiU) | 2:44 | 2023-05-25 |  |
 | [Cool and Calm Pink Noise](https://open.spotify.com/track/5KPwCk4yBDum0phAaqlRno) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:08 | 2023-05-25 |  |
 | [Cosiest Pink Noise](https://open.spotify.com/track/3AZ4ywx2OIvTakgTRVjwfo) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Pink Hypnosis](https://open.spotify.com/album/68TqIxapChlUdpYXycVZXP) | 3:07 | 2023-05-25 |  |
-| [Craft Noise](https://open.spotify.com/track/1tqTq849f6ndwEO7R03Gpc) | [Embla Noise](https://open.spotify.com/artist/2Gbyhm6LZiEGf8r5QwJltJ) | [Soft Noises](https://open.spotify.com/album/2116m1mjzxpTxKjg4eDN7d) | 1:50 | 2023-05-25 |  |
+| [Craft Noise](https://open.spotify.com/track/1tqTq849f6ndwEO7R03Gpc) | [Embla Noise](https://open.spotify.com/artist/2Gbyhm6LZiEGf8r5QwJltJ) | [Soft Noises](https://open.spotify.com/album/2116m1mjzxpTxKjg4eDN7d) | 1:50 | 2023-05-25 | 2023-06-17 |
 | [Cylindrical Pink Noise](https://open.spotify.com/track/7tz6xSZMY6E8b4GmI1i5Eg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 2:44 | 2023-05-25 |  |
 | [Dark Pink Noise](https://open.spotify.com/track/2EcqAlIbvdkQZTNxlStdh3) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Dark Pink Noise](https://open.spotify.com/album/1G07LOhmj9cGZqvhvhxW2P) | 3:23 | 2023-05-25 |  |
 | [Daydreaming Pink Noise River](https://open.spotify.com/track/6tBuDNAGx7sWcwOHEtMAVD) | [Dreaming Of Solfeggio](https://open.spotify.com/artist/5J5iQ1cL74ilo4F6TmuOto) | [Daydreaming Pink Noise River](https://open.spotify.com/album/1OvTsWiZAqCtgiToKQAKbX) | 3:11 | 2023-05-25 |  |
@@ -242,6 +242,7 @@
 | [Violet Vibrations](https://open.spotify.com/track/7KBIpd6Kw3dFYqi34TMXWF) | [Soundiescape](https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B) | [Pink Velvet Revival](https://open.spotify.com/album/47I6d1H0pC83nOzxvS4vEU) | 2:47 | 2023-05-25 |  |
 | [Violet Visions](https://open.spotify.com/track/4bMDBkThwQOI8m2YKI6nXk) | [Caffeine Buzz](https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O) | [Pink Noise And Beyond](https://open.spotify.com/album/6PObN5NHLSVQF3UPfBeXg9) | 2:54 | 2023-05-25 |  |
 | [Wherever Pink Noise](https://open.spotify.com/track/2JlhCTwDDUdUr5iDknnpF7) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Wherever Pink Noise](https://open.spotify.com/album/6mdXPHKwUgdXAZRpu69LQV) | 3:27 | 2023-05-25 |  |
+| [Whirl of Pink Noise](https://open.spotify.com/track/6XQ5r6o52RpUYj6cYnFfrC) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Whirl of Pink Noise](https://open.spotify.com/album/0kBmCwkhy397qtQwEDboAL) | 3:21 | 2023-06-16 |  |
 | [Whirring Pink Machine](https://open.spotify.com/track/5YfGdd5eCtbk7xg7spzYUT) | [Faible Et Lente](https://open.spotify.com/artist/1Hwi4HepkRbADl1q6nznXk) | [Shimmering Pink Noise Haze](https://open.spotify.com/album/3ECFDGflTNCv2DA5ybTEQN) | 3:20 | 2023-05-25 |  |
 
 \*This playlist was first scraped on 2023-05-26. Prior content cannot be recovered.

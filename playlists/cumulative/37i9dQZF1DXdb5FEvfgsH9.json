@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Guitar for Robots",
+        "url": "https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt"
+      },
+      "artists": [
+        {
+          "name": "Cool Aid",
+          "url": "https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Guitar for Robots",
+      "url": "https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN"
+    },
+    {
+      "album": {
         "name": "Holding Time",
         "url": "https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA"
       },

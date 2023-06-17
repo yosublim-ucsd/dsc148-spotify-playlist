@@ -357,6 +357,32 @@
     },
     {
       "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "album": {
         "name": "Apologetas",
         "url": "https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm"
       },
@@ -1333,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Harpa Crist\u00e3 (Speed Up)",
+        "url": "https://open.spotify.com/album/5C4XxYQqu5FWpuC6koFYPq"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Guimar\u00e3es Beats",
+          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116829,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Speed Up",
+      "url": "https://open.spotify.com/track/2gryPafEVutE9BsfoioJqG"
+    },
+    {
+      "album": {
         "name": "Em Tuas Asas",
         "url": "https://open.spotify.com/album/3fkPLgF4UnWYNHOazHYzYr"
       },
@@ -1414,7 +1462,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 172584,
       "name": "Envia-me a Mim",
       "url": "https://open.spotify.com/track/0yI2l2ipKCZZIgs2mJ10oU"
@@ -2419,6 +2467,32 @@
     },
     {
       "album": {
+        "name": "Levanta Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/12peSAPsCfJzYIJxRO8yK0"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120047,
+      "name": "Levanta Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/0bM8ZujHKj1WTVrWJkqLEj"
+    },
+    {
+      "album": {
         "name": "Levantar",
         "url": "https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR"
       },
@@ -2638,7 +2712,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 151871,
       "name": "Melhor Caminho (Speed Up)",
       "url": "https://open.spotify.com/track/1yIan5w5UcNUV1G7Z83xJW"
@@ -2894,6 +2968,24 @@
       "duration_ms": 225454,
       "name": "Nessa Guerra Aqui Ningu\u00e9m Ganha",
       "url": "https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ"
+    },
+    {
+      "album": {
+        "name": "Ningu\u00e9m Falou Que Ia Ser F\u00e1cil, Pt.2",
+        "url": "https://open.spotify.com/album/10q6xhQ0hTnLz9q7PsVOvd"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189450,
+      "name": "Ningu\u00e9m Falou Que Ia Ser F\u00e1cil, Pt.2",
+      "url": "https://open.spotify.com/track/7fKFhXOQ6xRitjMXkXJ7y6"
     },
     {
       "album": {
@@ -3770,7 +3862,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 279589,
       "name": "Santa Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3SwAVt84jxpXIqMp9f9pBh"
@@ -3914,7 +4006,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 229343,
       "name": "Segunda-Feira",
       "url": "https://open.spotify.com/track/2VqbnHIpPwPeHIBe8WgUdM"

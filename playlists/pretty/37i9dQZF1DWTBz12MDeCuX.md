@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: badchieff
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,720 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,980 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [sucht](https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sucht](https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf) | 2:33 |
 | 100 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
 
-Snapshot ID: `MCxlMTJjZGUyYTAwMzZiZjg1MzJjZjJlNTc5MzVlZWRiMDZkM2NiYjMz`
+Snapshot ID: `MCwzMGQ2M2M1MDFmNTJmNjYwMTBhODE5MWY0ZmIwNWMzMDM5YTFhNzBh`

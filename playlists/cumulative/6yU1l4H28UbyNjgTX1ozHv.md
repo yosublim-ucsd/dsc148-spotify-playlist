@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-173 songs - 9 hr 12 min
+174 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |
+| [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 | 2023-02-02 |
 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 | 2019-10-13 |  |
@@ -112,7 +113,7 @@
 | [My Girl \- Acoustic](https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [My Girl \(Acoustic\)](https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY) | 3:00 | 2021-08-05 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2019-10-13 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ) | 2:23 | 2023-05-06 |  |
-| [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 | 2023-02-10 |  |
+| [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 | 2023-02-10 | 2023-06-17 |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/5pogDdn3JuddF2kkYXRJKb) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/75BcA0fgNTUDn9USI0VsYO) | 3:01 | 2022-06-03 | 2023-02-28 |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2019-10-13 |  |

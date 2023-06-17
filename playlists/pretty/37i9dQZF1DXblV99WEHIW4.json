@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 191786,
+  "num_followers": 191959,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGY2NGI1NGU1MWQ1MWUxNTgwMDkzMWE3MDkyOGFjZjNhMjA5Yzkz",
+  "snapshot_id": "MCxlNDlkYzA5ZmZiMzYxZWRjNGI3NzQwMDg1N2Y4M2ZkOTBiM2ZjZTBk",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Sundowning",
+        "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Blood Sport",
+      "url": "https://open.spotify.com/track/30uhVtb7vfBoUkyGpcvYGJ"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
@@ -185,22 +201,6 @@
       "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
-      "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "The Black Parade",
@@ -215,6 +215,22 @@
       "duration_ms": 238680,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
@@ -249,7 +265,23 @@
       "url": "https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
@@ -279,22 +311,6 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
-    },
-    {
-      "added_at": "2023-06-16 01:55:01",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Call Me When You're Sober",
-      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Call Me When You're Sober",
+      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Night People",
         "url": "https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r"
@@ -539,6 +555,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Dear Agony",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -583,22 +615,6 @@
       "duration_ms": 214226,
       "name": "Let Me Be Sad",
       "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Dear Agony",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
@@ -717,23 +733,7 @@
       "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
-      "album": {
-        "name": "Sundowning",
-        "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Blood Sport",
-      "url": "https://open.spotify.com/track/30uhVtb7vfBoUkyGpcvYGJ"
-    },
-    {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Haven't Been Myself",
         "url": "https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Crooked Path",
-      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 281807,
+      "name": "Crooked Path",
+      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "BUMMER",
         "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
-      "added_at": "2023-06-16 01:55:01",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Hell Finds You Everywhere",
         "url": "https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl"

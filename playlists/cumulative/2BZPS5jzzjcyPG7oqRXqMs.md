@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-191 songs - 12 hr 28 min
+192 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 |  |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 |  |
 | [Mine](https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:49 | 2022-09-16 |  |
+| [Miracle](https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Miracle](https://open.spotify.com/album/7xBjfEcq2Fx5hoBhPwimsL) | 3:39 | 2023-06-16 |  |
 | [Miracle](https://open.spotify.com/track/6A7nOV3lr0N0IIKgHmWcMe) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Miracle](https://open.spotify.com/album/2uNWTil8rUcxlwdEAy2MgX) | 3:14 | 2022-10-28 |  |
 | [Miracle Power](https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Power](https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq) | 4:37 | 2022-05-27 |  |
 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-05-19 |  |

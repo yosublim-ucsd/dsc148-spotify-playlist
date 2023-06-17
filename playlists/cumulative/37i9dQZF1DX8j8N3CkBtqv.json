@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Anumita Nadesan",
+  "description": "Naye Indie gaano ka khazana! Cover- Somanshu",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -97,6 +97,50 @@
     },
     {
       "album": {
+        "name": "Azaad Hai",
+        "url": "https://open.spotify.com/album/0kqvMYBbHOGlzr1R0uf60q"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Azaad Hai",
+      "url": "https://open.spotify.com/track/1wPiRQPePFdSpoXyhC8p95"
+    },
+    {
+      "album": {
+        "name": "Baarish Aayi Hai",
+        "url": "https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197010,
+      "name": "Baarish Aayi Hai",
+      "url": "https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF"
+    },
+    {
+      "album": {
         "name": "Banja Beimaan",
         "url": "https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE"
       },
@@ -130,7 +174,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 184620,
       "name": "Bekhabar",
       "url": "https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2"
@@ -181,6 +225,50 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4x6SV7ljCqu1DJVPaEyzYT"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4sqsDAAadc1jBXYeMIl54g"
+    },
+    {
+      "album": {
+        "name": "Chal Bhool Ja",
+        "url": "https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg"
+      },
+      "artists": [
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148222,
+      "name": "Chal Bhool Ja",
+      "url": "https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S"
+    },
+    {
+      "album": {
         "name": "Chal Pada",
         "url": "https://open.spotify.com/album/5n5sA4koDtPoCqTOBooZO6"
       },
@@ -192,7 +280,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 203967,
       "name": "Chal Pada",
       "url": "https://open.spotify.com/track/3oyzb1Hn3x202SwPUZO7lf"
@@ -280,7 +368,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 158534,
       "name": "Dil Ho Tum",
       "url": "https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6"
@@ -298,7 +386,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 183636,
       "name": "Dil Teri Raah",
       "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
@@ -476,7 +564,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 199333,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6I2s9QNUzGqokQPszHzve5"
@@ -776,7 +864,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 260163,
       "name": "Kyu Hi Hum Mile",
       "url": "https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R"
@@ -841,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Meri Baat",
+        "url": "https://open.spotify.com/album/7pp3oVs2tt2q2UlcHepR9m"
+      },
+      "artists": [
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187511,
+      "name": "Meri Baat",
+      "url": "https://open.spotify.com/track/3IVZMAs9zZzo1hhOYXuo8W"
+    },
+    {
+      "album": {
         "name": "Meri Banogi Kya",
         "url": "https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW"
       },
@@ -878,6 +984,24 @@
       "duration_ms": 243809,
       "name": "Milan",
       "url": "https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ"
+    },
+    {
+      "album": {
+        "name": "Naya Jahaan",
+        "url": "https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143961,
+      "name": "Naya Jahaan",
+      "url": "https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx"
     },
     {
       "album": {
@@ -968,6 +1092,24 @@
       "duration_ms": 148888,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/4UWAREEb848f2oxm929axM"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/11E0gGOFicB9F3MkPBNYLh"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176644,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2xDtfzoDn1oWQ7i7vZdEbq"
     },
     {
       "album": {
@@ -1065,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "sayy\u0101h",
+        "url": "https://open.spotify.com/album/2yxGzz9jhpWvMX8aietu2J"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253548,
+      "name": "sayy\u0101h",
+      "url": "https://open.spotify.com/track/7rH093pT1fUvkFiIpPFGq4"
+    },
+    {
+      "album": {
         "name": "Scrolling",
         "url": "https://open.spotify.com/album/0GMsDUzyCpfbZkAtP4xgJJ"
       },
@@ -1076,7 +1240,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 173917,
       "name": "Scrolling",
       "url": "https://open.spotify.com/track/6AjrJDMqkQeAE9yN2IFoVf"
@@ -1112,7 +1276,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 154894,
       "name": "sushi song",
       "url": "https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X"
@@ -1156,7 +1320,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 223888,
       "name": "Tere Baare Mein",
       "url": "https://open.spotify.com/track/5FIZkWhzIHzgzF6TMFDRNV"
@@ -1334,6 +1498,28 @@
       "duration_ms": 234666,
       "name": "Umeed",
       "url": "https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa"
+    },
+    {
+      "album": {
+        "name": "Vadhu Var",
+        "url": "https://open.spotify.com/album/4jelosBwMM7GP0mYdIwQhr"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143385,
+      "name": "Vadhu Var",
+      "url": "https://open.spotify.com/track/6MGYsVZhTmu6G6GET8LI5p"
     },
     {
       "album": {

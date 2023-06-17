@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,034 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,079 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Nature Boy](https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ) | [Anne Bisson](https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF) | [Be My Lover](https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf) | 3:54 |
 | 50 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
 
-Snapshot ID: `MCw2ZDViMzY4YWE0N2FkZDNlYTNkMjgxMDBlZWRlOWVkYmY0MDQ1ZTU1`
+Snapshot ID: `MCwwNDFhNzhlN2VhZTI0NDU4MTk4MmI3Yzc4MWE3ZTQxZjc1NDk4Mzg0`

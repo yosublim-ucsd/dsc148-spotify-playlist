@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8?si=rlupnhYqRJSXQ\_BpkEIGYg">Kristene DiMarco</a> and <a href="https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij?si=420690ca01c349f6">Sam McCabe</a>
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=NydbujHxT7C\_NvkZWa43FQ">Naomi Raine</a>
 
 380 songs - 1 day 12 hr 57 min
 

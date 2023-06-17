@@ -845,6 +845,42 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y"
+      },
+      "artists": [
+        {
+          "name": "Isabel Wood",
+          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171603,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH"
+    },
+    {
+      "album": {
+        "name": "Boy Of The Month",
+        "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106382,
+      "name": "Boy Of The Month",
+      "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -3734,7 +3770,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 166873,
       "name": "k",
       "url": "https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7"
@@ -4429,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "mess & a half",
+        "url": "https://open.spotify.com/album/5fYJXrMRovW3O0ePPDApwX"
+      },
+      "artists": [
+        {
+          "name": "KINGS",
+          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151618,
+      "name": "mess & a half",
+      "url": "https://open.spotify.com/track/0YMBYW5r3mTJ4WwaKLKVkf"
+    },
+    {
+      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7"
       },
@@ -4444,6 +4498,24 @@
       "duration_ms": 155749,
       "name": "Midas",
       "url": "https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     },
     {
       "album": {
@@ -5090,7 +5162,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 215760,
       "name": "PREGAME (with 7evin7ins)",
       "url": "https://open.spotify.com/track/06rpsdoGOnLqqrkqorpuLc"
@@ -5350,6 +5422,24 @@
       "duration_ms": 178925,
       "name": "red flag collector",
       "url": "https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7"
+    },
+    {
+      "album": {
+        "name": "RENT FREE",
+        "url": "https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171199,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3"
     },
     {
       "album": {
@@ -5624,7 +5714,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 214411,
       "name": "See You In My Dreams",
       "url": "https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY"
@@ -7284,7 +7374,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 191554,
       "name": "WHEN THE PARTY'S OVER",
       "url": "https://open.spotify.com/track/0ycbYEcMjQ40iYsVnNiYJh"
@@ -7544,7 +7634,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 193493,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"

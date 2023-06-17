@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Corey Taylor",
+  "description": "The hardest songs, loud. Very loud. Cover: FEVER 333",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276035,
+      "name": "Adderall - No Intro",
+      "url": "https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2"
+    },
+    {
+      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 208528,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm"
@@ -908,6 +926,24 @@
       "duration_ms": 206115,
       "name": "BAD AT LOVE - 2021 Mix",
       "url": "https://open.spotify.com/track/4acnzhPESUEQJBuLg3giSb"
+    },
+    {
+      "album": {
+        "name": "Bad Dog",
+        "url": "https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Babe",
+          "url": "https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209173,
+      "name": "Bad Dog",
+      "url": "https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy"
     },
     {
       "album": {
@@ -2013,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "Bygones (feat. Rob Halford)",
+        "url": "https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239872,
+      "name": "Bygones (feat. Rob Halford)",
+      "url": "https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie"
+    },
+    {
+      "album": {
         "name": "Cage",
         "url": "https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ"
       },
@@ -2968,6 +3026,24 @@
       "duration_ms": 198644,
       "name": "D34D",
       "url": "https://open.spotify.com/track/4kOvk302uELcb6SGt0tAAP"
+    },
+    {
+      "album": {
+        "name": "Dad\u2019Algorhythm",
+        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "Dad\u2019Algorhythm",
+      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
     },
     {
       "album": {
@@ -4974,7 +5050,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 270454,
       "name": "Foregone, Pt. 2",
       "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
@@ -8787,6 +8863,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/3txBRhFpNmlhuhtoVCFNJ1"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190600,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0pSKTP4rLzd1WjSJk0HGmO"
+    },
+    {
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
       },
@@ -9488,7 +9582,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 268000,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3"
@@ -11046,7 +11140,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr"
@@ -11973,6 +12067,24 @@
     },
     {
       "album": {
+        "name": "Someone You Don't Know",
+        "url": "https://open.spotify.com/album/5RfREhxulZxtMRlLsreWMx"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "Someone You Don't Know",
+      "url": "https://open.spotify.com/track/4UOd2lvPt4bUfpIwht4Guk"
+    },
+    {
+      "album": {
         "name": "sorry i'm not dead",
         "url": "https://open.spotify.com/album/5YW6ucfSb6mgmYhodmYtqo"
       },
@@ -12794,7 +12906,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW"
@@ -14244,7 +14356,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
@@ -14891,6 +15003,24 @@
     },
     {
       "album": {
+        "name": "We're Not OK",
+        "url": "https://open.spotify.com/album/2s9MrrjqZX0lwyM7bSsMkJ"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "We're Not OK",
+      "url": "https://open.spotify.com/track/3BgIHl1amTesJlLGytQ4Gm"
+    },
+    {
+      "album": {
         "name": "Weapon",
         "url": "https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z"
       },
@@ -15448,7 +15578,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savag, Vegas Jones e e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,998 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,057 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 42 | [Showtime](https://open.spotify.com/track/5XHYgaxM41DzLDdPDgQhiS) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Ranabis](https://open.spotify.com/artist/6qWz2TxWVJIhpUjS5ZXCk3), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu), [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Showtime](https://open.spotify.com/album/2hYQsitPfWgTRazylMRTSO) | 2:29 |
 | 43 | [TOSSICO AMORE](https://open.spotify.com/track/0xHSZyqq3aEVJkvAGH689U) | [Lil Zeff](https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [TOSSICO AMORE](https://open.spotify.com/album/0LS0QMwELiCJ59eTNTAsAa) | 2:42 |
 | 44 | [SQV](https://open.spotify.com/track/4nIq61xYHZyhaHXGO5y4ui) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [SQV](https://open.spotify.com/album/0uw2KxiLdqzAX0ZoKl4xnL) | 2:16 |
-| 45 | [Strainer](https://open.spotify.com/track/4x18AwKYFKcMEReGjKwEU1) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5W3ZpbTC2fyFGujra4uVTF) | [Strainer](https://open.spotify.com/album/149ore85Z78FGFK8dbJeog) | 1:55 |
+| 45 | [Strainer](https://open.spotify.com/track/4x18AwKYFKcMEReGjKwEU1) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5wF2KZleYiF7th1p5Ht4pW) | [Strainer](https://open.spotify.com/album/149ore85Z78FGFK8dbJeog) | 1:55 |
 | 46 | [BAMBINO](https://open.spotify.com/track/1m9KqPPmCjTXl7ia87Cs4B) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [BAMBINO](https://open.spotify.com/album/4jOmmG04lICQCmUWelhrMK) | 2:25 |
 | 47 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 |
 | 48 | [Mancanze Affettive \(feat\. Geolier\)](https://open.spotify.com/track/3UWQoiOrlvHalgvyznur78) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/track/1QqlaHGqCmHVHHBPkiNRqg) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr), [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R) | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/album/7wKKzRqUzBRh6rFQtaeswy) | 3:32 |
 | 80 | [Piano di Fuga](https://open.spotify.com/track/3EzWzZR1J1KP0ZDTDBR0l6) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Piano di Fuga](https://open.spotify.com/album/3aPAkN5q9b1sEo4LxTAHLR) | 2:18 |
 
-Snapshot ID: `MCw2ZTI4MjA0MTIwYTE3Yzk4NDg3MmY1OWNjYWMyYjkxNGUwNzFlZGRh`
+Snapshot ID: `MCwyNTViNTNlNWZlNjViMjBmNjdmNjRjMDM1NmZhZWI4ZmNmMzlhNjgy`

@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Clown Around",
+        "url": "https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163747,
+      "name": "Clown Around",
+      "url": "https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH"
       },
@@ -1388,6 +1406,24 @@
       "duration_ms": 149523,
       "name": "Down For Anything",
       "url": "https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2"
+    },
+    {
+      "album": {
+        "name": "DownBeat",
+        "url": "https://open.spotify.com/album/4RwOPPo8xABEDlLjUYA8iD"
+      },
+      "artists": [
+        {
+          "name": "Thorne",
+          "url": "https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "DownBeat",
+      "url": "https://open.spotify.com/track/0k02a5Awjv4eSzFoIln1ga"
     },
     {
       "album": {
@@ -1832,6 +1868,32 @@
       "duration_ms": 160161,
       "name": "Everything U Promised",
       "url": "https://open.spotify.com/track/40KuxBJftkJQGmEQr6dCMt"
+    },
+    {
+      "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/3oPmjApdBC7DFJYekgWEVp"
+      },
+      "artists": [
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        },
+        {
+          "name": "Afterfab",
+          "url": "https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135595,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/2jPZeSOSA0rFr9YIfpdNtD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "The King of Party Cove Jake Owen is taking over to celebrate his new lake day smash \"On The Boat Again\"!  \u2600\ufe0f",
+  "description": "The perfect soundtrack for a day on the water.",
   "name": "Party Cove",
   "tracks": [
     {
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 211666,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
@@ -2284,6 +2284,24 @@
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+    },
+    {
+      "album": {
+        "name": "Something To Dance To",
+        "url": "https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174469,
+      "name": "Lil Vibe",
+      "url": "https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE"
     },
     {
       "album": {
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 146936,
       "name": "Solo Solo",
       "url": "https://open.spotify.com/track/0qXoTeIQBeXPzlZuqJl6O1"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 213400,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 209721,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7cdy4PbCdDZZNjyxoZyE0c"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 289440,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx"

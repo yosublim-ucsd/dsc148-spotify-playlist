@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,422 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,430 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [幹掉他](https://open.spotify.com/track/5FJtg2VtW8vI3mo8rxhAWW) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [幹掉他](https://open.spotify.com/album/68xBtSIA6BbKeAb20dgCi2) | 3:40 |
 | 67 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 
-Snapshot ID: `MCw4YjMwM2Q4OGU3YWZlOGMyMGZkODczMzdhNTExMzg5ZmQwODQ4ODZi`
+Snapshot ID: `MCxkMTQ5OGJlNTM4MGQwNWRjMzBkODdlMGRjODdjNDk1YjJkOTY0ZTA0`

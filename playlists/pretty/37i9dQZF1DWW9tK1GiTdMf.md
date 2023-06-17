@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > È ora di una nuova SUMMERSAD ☔ ☀️ La Sad e NASKA in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,629 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,657 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 21 | [NON LO SO X4](https://open.spotify.com/track/1UzR9fzj03QX9QGVpe0UTt) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [NON LO SO X4](https://open.spotify.com/album/7ecccb52hK4RiXrLuQoExO) | 3:04 |
 | 22 | [Amore punk](https://open.spotify.com/track/5UE5xy6csX232JCkjlZuWx) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Wepro](https://open.spotify.com/album/1RftYq0amsy6NqZxNpUbtp) | 2:48 |
 | 23 | [NORIMBERGA](https://open.spotify.com/track/5Q6uJoUztT45BTf5FpbNvR) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3), [Thoma XLV](https://open.spotify.com/artist/7apbbzVxzvDJQAFTT7Rdrg) | [Ematoma](https://open.spotify.com/album/5ThCxSriupPdcVQuwdiBpL) | 3:00 |
-| 24 | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/track/2NPUFvAS8BG6EaNMXs1h8M) | [Finley](https://open.spotify.com/artist/4GuBQw7wBkZicMmbebD4nC), [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/album/0xRvJJdv3ZdDcEZyvd9ePs) | 2:46 |
+| 24 | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/track/2NPUFvAS8BG6EaNMXs1h8M) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [Fumo e Cenere RMX \(feat\. Benji\)](https://open.spotify.com/album/0xRvJJdv3ZdDcEZyvd9ePs) | 2:46 |
 | 25 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
 | 26 | [GIORNI](https://open.spotify.com/track/1M2Me9b51HDBQEZmh5YuKP) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [GIORNI](https://open.spotify.com/album/4F81BH0tY3rOOnRzrjz5I5) | 2:28 |
 | 27 | [ANTIDOTO](https://open.spotify.com/track/5lFgaIQCOesP0LrW3sYgC2) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [harley](https://open.spotify.com/artist/0swauJ1ZPO07ll7OcllnFq) | [ANTIDOTO](https://open.spotify.com/album/7LcXw8iVCSClX2HMGJ6sJx) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 |
 | 80 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 |
 
-Snapshot ID: `MCw4NGY5NTk3ZTUyODgzYmExZjMyNWI5MWRkNGFkMzdjODZkNTZlNWRi`
+Snapshot ID: `MCwxYWU4MGVhNjJhYzUzMWEyYzdlNDNjMjk5YTc1OGJkYWM4N2Q5ZDc3`

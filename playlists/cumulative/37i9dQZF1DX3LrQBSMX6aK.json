@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Nazariya Lag Jayegi",
+        "url": "https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU"
+      },
+      "artists": [
+        {
+          "name": "Marina Ahmad",
+          "url": "https://open.spotify.com/artist/2pGXU7y3nnjxjK2nvq7Bae"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 712946,
+      "name": "Nazariya Lag Jayegi",
+      "url": "https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF"
+    },
+    {
+      "album": {
         "name": "Spiritual Legacy",
         "url": "https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 851586,
       "name": "Sri Kantimateem: Kriti",
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
@@ -1796,8 +1814,8 @@
           "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
         },
         {
-          "name": "Ambi Subramanium",
-          "url": "https://open.spotify.com/artist/4Aw3AcWOYL6hgQKhUJybut"
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
         },
         {
           "name": "Mainak Nag Chowdhury",

@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-206 songs - 10 hr 37 min
+207 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Modelo](https://open.spotify.com/track/3kpYDvfKVwjEwyl515tR7G) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Modelo](https://open.spotify.com/album/5BHbjf6T8ciROCIMafEvS5) | 2:27 | 2022-11-11 |  |
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-03 |  |
 | [MUGRE](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MUGRE](https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb) | 4:19 | 2021-11-26 | 2022-04-12 |
+| [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 | 2023-06-16 |  |
 | [Mírame](https://open.spotify.com/track/3Zf4ys9i4Nx5acc0tEVGwr) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:22 | 2021-11-26 | 2022-04-12 |
 | [Nada Es Para Siempre](https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Nada Es Para Siempre](https://open.spotify.com/album/289rCJ7vXlZJaKNIDtVBgf) | 3:06 | 2021-11-26 | 2022-07-29 |
 | [Nada Es para Siempre](https://open.spotify.com/track/4C4wrB3c84AZZXLttZnjqd) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:06 | 2022-06-10 |  |
@@ -160,7 +161,7 @@
 | [Perdón Mamá](https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/7qJ0BTRFXF9Sjh2XCqhA02) | 2:32 | 2022-06-10 | 2023-01-04 |
 | [Pistola$](https://open.spotify.com/track/7Lg9aoBA9kzGHwV572Xgdw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/0nhj2ZKVac57rljWC5yLnw) | 3:04 | 2022-06-10 | 2022-11-12 |
 | [Pistola$](https://open.spotify.com/track/7nDj7K2tDAx18VCqkCrf56) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/08sixJdRCtiGDF1UsF6gPM) | 3:04 | 2021-11-26 | 2022-07-29 |
-| [Plastico](https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Plastico](https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP) | 4:05 | 2023-02-03 |  |
+| [Plastico](https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Plastico](https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP) | 4:05 | 2023-02-03 | 2023-06-17 |
 | [POETA](https://open.spotify.com/track/4ozYm33zhT9DDrGR3y59SU) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [POETA](https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm) | 2:51 | 2022-06-10 | 2023-03-31 |
 | [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 | 2023-04-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 202418,
+  "num_followers": 202449,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDEyOWU1ZTBiMzM2Y2ExNWQ3NWIzMTcxYzU1Y2MzODM2YWZkODhh",
+  "snapshot_id": "MCxiNDFmN2Q1ZTFiODQxOGZkNDUwNWM4NWNmYWVjNDA3OWRmY2U0ZWQ3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -719,6 +719,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Tea In The Sahara",
+      "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Merry Christmas, Mr. Lawrence",
         "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 282973,
       "name": "Forbidden Colors",
       "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Tea In The Sahara",
-      "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
     },
     {
       "added_at": "2018-12-12 11:36:39",

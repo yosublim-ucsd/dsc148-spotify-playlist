@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-782 songs - 1 day 19 hr 22 min
+783 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Ghost Light](https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light](https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM) | 3:11 | 2022-11-23 | 2023-06-06 |
 | [Glide](https://open.spotify.com/track/3mOYyXu8dJq9xdLNBsQfjq) | [Stephen Walking](https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL) | [Rocket League x Monstercat Vol\. 3](https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj) | 3:16 | 2021-03-14 | 2021-08-07 |
 | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/track/5zOqYPTcgiTAZfnKUbaNSf) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/album/0DwjDbtMXpRYzO3HXTuzmu) | 3:17 | 2021-09-30 | 2022-02-24 |
+| [Glow in the Dark \- From Rocksmith+ Original Soundtrack](https://open.spotify.com/track/3Th9KhpGckHtx2klUepJPT) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Glow in the Dark \(From Rocksmith+ Original Soundtrack\)](https://open.spotify.com/album/5Lk7lZlv63E0sUtlrKmJQ3) | 2:42 | 2023-06-16 |  |
 | [Glu](https://open.spotify.com/track/0ti69hiX6lZKuPSvWGh7bK) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [Glu](https://open.spotify.com/album/52eYeHZoxv2PoDyu2sNc1D) | 3:56 | 2021-05-25 | 2021-12-11 |
 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 | 2021-03-26 | 2021-04-21 |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-25 | 2022-02-08 |
@@ -438,7 +439,7 @@
 | [Main Title/Rebel Blockade Runner \- Medley](https://open.spotify.com/track/4aKAbknumzZGQq12xtJGC0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Episode IV: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27UjNLbWBXc32wCZtuXMg5) | 2:14 | 2019-09-29\* | 2021-03-14 |
 | [Major Crimes](https://open.spotify.com/track/3nh5RSXnRSHWuQbOJvQr0g) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Window Weather](https://open.spotify.com/artist/78K1EiQnILFdD1o2vQdy3O) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:33 | 2021-03-14 | 2021-10-16 |
 | [Mamba Mentality](https://open.spotify.com/track/7IcMlUAYurQwIOnZ9Mc7wO) | [Jevon Alexander](https://open.spotify.com/artist/72a1TYIB7JiWunZDYVy2bJ) | [Mamba Mentality](https://open.spotify.com/album/0wxoB9xAHN7cxlp3GB5uyI) | 3:00 | 2021-03-26 | 2021-04-15 |
-| [Married to the Bag](https://open.spotify.com/track/3FPMiCJXJjZxrRoB6WDFek) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Married to the Bag](https://open.spotify.com/album/797tRmfff6OHtJcDhzxqAk) | 2:23 | 2022-08-26 |  |
+| [Married to the Bag](https://open.spotify.com/track/3FPMiCJXJjZxrRoB6WDFek) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Married to the Bag](https://open.spotify.com/album/797tRmfff6OHtJcDhzxqAk) | 2:23 | 2022-08-26 | 2023-06-17 |
 | [Mars](https://open.spotify.com/track/44CgM5My2vfkSv1KAQuEfk) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:25 | 2019-09-29\* | 2021-03-14 |
 | [Mask](https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Mask](https://open.spotify.com/album/5d9iCqwcR7htS1E7OxOnhp) | 2:54 | 2022-04-26 | 2022-07-06 |
 | [Mayday](https://open.spotify.com/track/7ENBJ809w0lAmcoZyE7waV) | [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI) | [Quarantape](https://open.spotify.com/album/05dORRfKs14KYtIKJsZTF5) | 2:19 | 2021-03-27 | 2022-02-24 |

@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Tseba
 
-865 songs - 1 day 23 hr 59 min
+866 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,8 @@
 | [Spiral](https://open.spotify.com/track/7vZljGVTICUWEsgCjwZBWW) | [Zaerd](https://open.spotify.com/artist/3FKsmekOtx5vmiE9lSbjLU) | [Spiral](https://open.spotify.com/album/7CK6fB1AXmH0aKv1UjM6qd) | 3:38 | 2023-01-05 | 2023-02-03 |
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 | 2023-06-16 |
-| [Stars \- Kungs Remix](https://open.spotify.com/track/5N88lFNFvfPCCTgbrawlww) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars \(Remixes\)](https://open.spotify.com/album/4tLE8c2KxGdQMoo4l3o8w9) | 3:21 | 2023-06-16 |  |
+| [Stars \- Kungs Remix](https://open.spotify.com/track/5N88lFNFvfPCCTgbrawlww) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars \(Remixes\)](https://open.spotify.com/album/4tLE8c2KxGdQMoo4l3o8w9) | 3:21 | 2023-06-16 | 2023-06-17 |
+| [Stars \- Kungs Remix](https://open.spotify.com/track/3D96RLUKIxCpSt1REGlMYR) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars \- Remixes](https://open.spotify.com/album/0mrFOd6nPTKivZe5ReWZjm) | 3:21 | 2023-06-16 |  |
 | [Start Again](https://open.spotify.com/track/4NFP9BisldiRsA0G0fknHN) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Start Again](https://open.spotify.com/album/6hRsRlRcF2Rk8mkDBmCYz4) | 3:28 | 2023-01-12 | 2023-02-03 |
 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 | 2022-12-08 | 2023-01-13 |
 | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/track/3ro78yagTWYllt0zgFfSxC) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/album/69uzhRvY6bEMIFl4j2SAce) | 2:06 | 2022-12-08 | 2023-01-13 |

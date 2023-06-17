@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Aja Monet",
+  "description": "New jazz for open minds. Cover: Butcher Brown",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -493,6 +493,32 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6Wnx9FENKArq69Iq67X7mS"
+      },
+      "artists": [
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Pera Krstajic",
+          "url": "https://open.spotify.com/artist/2aVpqRZjUwSzZADnv6uteW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156422,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0G0vV3Xon5XWQjkJFdJex5"
+    },
+    {
+      "album": {
         "name": "Actual Proof",
         "url": "https://open.spotify.com/album/1BKVI6Z8oknAjK1gHFUJ7G"
       },
@@ -766,7 +792,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 470400,
       "name": "Ali Dell'Angelo",
       "url": "https://open.spotify.com/track/6qjPa2QWAiWqfCevDur97U"
@@ -1230,7 +1256,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 241964,
       "name": "Any Moment Now",
       "url": "https://open.spotify.com/track/0ZZ6rr8JkHJ4cj9aFWmtd2"
@@ -1771,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Avaloch",
+        "url": "https://open.spotify.com/album/77PSnITBbdBTSBCh6uMeMT"
+      },
+      "artists": [
+        {
+          "name": "House of Waters",
+          "url": "https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364661,
+      "name": "Avaloch",
+      "url": "https://open.spotify.com/track/0QUmEcZQjnJRkBanzaOWmX"
+    },
+    {
+      "album": {
         "name": "Averti tra le Braccia",
         "url": "https://open.spotify.com/album/45TGcIzgYej61XQD8GaLsW"
       },
@@ -2136,6 +2180,28 @@
       "duration_ms": 270778,
       "name": "Below",
       "url": "https://open.spotify.com/track/4uS12ibCJvo83kxACQgC3e"
+    },
+    {
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0q5E0UO6D1M6vGT4LPB1Xd"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Chris Coles",
+          "url": "https://open.spotify.com/artist/6mUeK1kiVriegQTAC5UwUP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/45mAIWiDSjUG2dvjhqQxpG"
     },
     {
       "album": {
@@ -3117,6 +3183,54 @@
     },
     {
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/4HWL8RyCRoeoh6JK1TduJu"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Bryan Carter",
+          "url": "https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ"
+        },
+        {
+          "name": "Andrew Gould",
+          "url": "https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0"
+        },
+        {
+          "name": "John Lake",
+          "url": "https://open.spotify.com/artist/4dyFqMBXDGSMXAev9B0NGX"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458613,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9"
+    },
+    {
+      "album": {
+        "name": "Catalysts",
+        "url": "https://open.spotify.com/album/4uGhtW4Y11snrM95XVKCmF"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304322,
+      "name": "Catalysts",
+      "url": "https://open.spotify.com/track/28GOtvGqY0OJXQLbaIRGzx"
+    },
+    {
+      "album": {
         "name": "Catching Drift",
         "url": "https://open.spotify.com/album/1rdKuOU69ambZDS4utl3jM"
       },
@@ -3658,6 +3772,28 @@
       "duration_ms": 133780,
       "name": "Consolation Prizes",
       "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
+    },
+    {
+      "album": {
+        "name": "U\u00e8le Lamore & Theo Croker",
+        "url": "https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e"
+      },
+      "artists": [
+        {
+          "name": "U\u00e8le Lamore",
+          "url": "https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214114,
+      "name": "Contes de la nuit",
+      "url": "https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh"
     },
     {
       "album": {
@@ -5824,7 +5960,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 206759,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2plfAIuHMBynfACQUmtVgQ"
@@ -6797,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "SoulKare, Vol. 2",
+        "url": "https://open.spotify.com/album/2YhLG2YFPigAlBtDCFpeso"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "Growth",
+      "url": "https://open.spotify.com/track/15FLV2kByiWpMkLILA2QfL"
+    },
+    {
+      "album": {
         "name": "The Parable Of The Poet",
         "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
       },
@@ -7656,6 +7810,28 @@
       "duration_ms": 446586,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/392cHbHK92eXZ1hDbmFFm9"
+    },
+    {
+      "album": {
+        "name": "I Can Say To You [Feat. Vanisha Gould]",
+        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
+      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
       "album": {
@@ -9068,7 +9244,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 234057,
       "name": "Kanazawa",
       "url": "https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs"
@@ -10054,7 +10230,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 273760,
       "name": "Loss",
       "url": "https://open.spotify.com/track/726tHsbqcNhVLckl5TpdCj"
@@ -10188,6 +10364,28 @@
       "duration_ms": 325828,
       "name": "Love Proceeding",
       "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
+    },
+    {
+      "album": {
+        "name": "Dolphin",
+        "url": "https://open.spotify.com/album/42VA6bD2NLwgBKkFWjN4dw"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        },
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358200,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/2K59Q3yLuv3XspKIMMXMFc"
     },
     {
       "album": {
@@ -10776,7 +10974,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 158504,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/0R6ahuW9r6OYv2wcsrl6Wj"
@@ -11182,6 +11380,24 @@
       "duration_ms": 433493,
       "name": "Moradas",
       "url": "https://open.spotify.com/track/6setBDWQ0ErSwch2UG0pSS"
+    },
+    {
+      "album": {
+        "name": "Dream Box",
+        "url": "https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402665,
+      "name": "Morning Of The Carnival",
+      "url": "https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP"
     },
     {
       "album": {
@@ -11904,10 +12120,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 162198,
       "name": "No Beginning",
       "url": "https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR"
+    },
+    {
+      "album": {
+        "name": "No End",
+        "url": "https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "No End",
+      "url": "https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH"
     },
     {
       "album": {
@@ -12032,7 +12270,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 248894,
       "name": "NOT TiGHT",
       "url": "https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar"
@@ -12240,7 +12478,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 393230,
       "name": "Ole & Gard",
       "url": "https://open.spotify.com/track/1Fv1UgZHUGgwB3bicHBrz8"
@@ -12832,7 +13070,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 369808,
       "name": "Peace",
       "url": "https://open.spotify.com/track/3fvPQZN1ryptWYiLHXI6J7"
@@ -14234,7 +14472,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 218706,
       "name": "Route de nuit",
       "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
@@ -14551,6 +14789,24 @@
     },
     {
       "album": {
+        "name": "Savvy",
+        "url": "https://open.spotify.com/album/5BJBUwa82tAkixczrIlqjl"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "Savvy",
+      "url": "https://open.spotify.com/track/5Exls4MRQfjfxqi87fE8xf"
+    },
+    {
+      "album": {
         "name": "Sax Designs",
         "url": "https://open.spotify.com/album/6JLVTLsTtnJtnSPFtguYsj"
       },
@@ -14856,6 +15112,54 @@
       "duration_ms": 354638,
       "name": "Sha' la ko'",
       "url": "https://open.spotify.com/track/00CkPAQcxDZ3A9rm3FP1AY"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/0Mkg1bXEw2e4G6kxkPFBPw"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Andrew Gould",
+          "url": "https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0"
+        },
+        {
+          "name": "Rober Fighetti",
+          "url": "https://open.spotify.com/artist/7uhfejQWDTkDEcK8oUh8G8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203157,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/1xzGiE3wqALgQCyLJoaT1W"
+    },
+    {
+      "album": {
+        "name": "Shades Of Rainbow",
+        "url": "https://open.spotify.com/album/1W9hh0veTxJqTtbtGvgV3Z"
+      },
+      "artists": [
+        {
+          "name": "Miki Yamanaka",
+          "url": "https://open.spotify.com/artist/1vG4psOZT6eAff7QJT4ous"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545493,
+      "name": "Shades Of Rainbow",
+      "url": "https://open.spotify.com/track/379ZK6bVn9Blcgv5R4Dq3n"
     },
     {
       "album": {
@@ -15864,7 +16168,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 193475,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/5vN1pZMDbS5VGRozNSEQP6"
@@ -15966,6 +16270,28 @@
       "duration_ms": 254271,
       "name": "Stede",
       "url": "https://open.spotify.com/track/1KhBlF3NmiYlCaJwZyWsCz"
+    },
+    {
+      "album": {
+        "name": "Step on That Toe",
+        "url": "https://open.spotify.com/album/4C5iDQb6B35CLliRGjxDNN"
+      },
+      "artists": [
+        {
+          "name": "Wendy Marcini",
+          "url": "https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2"
+        },
+        {
+          "name": "Elvin Vanguard",
+          "url": "https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167377,
+      "name": "Step on That Toe",
+      "url": "https://open.spotify.com/track/1FlRcSOMYi0fxJyBtU892c"
     },
     {
       "album": {
@@ -16480,6 +16806,32 @@
       "duration_ms": 395829,
       "name": "Sus Jawn - Bunker Sesh",
       "url": "https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun"
+    },
+    {
+      "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/1BArB4TCMJKI7iKYN9W4y0"
+      },
+      "artists": [
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        },
+        {
+          "name": "Dan Hemmer",
+          "url": "https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272441,
+      "name": "Susanna",
+      "url": "https://open.spotify.com/track/653Pz3Tsn62HUPU0nkJ3FT"
     },
     {
       "album": {
@@ -17738,7 +18090,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
@@ -19102,7 +19454,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 276588,
       "name": "Unforgotten, Unforgiven",
       "url": "https://open.spotify.com/track/1VzXzBWxpNqegHMDJ9p725"
@@ -19138,7 +19490,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 284076,
       "name": "Until We Meet Again",
       "url": "https://open.spotify.com/track/68wbJgYGDJe6SRWha5ty4b"
@@ -19976,7 +20328,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 215733,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/6tTnQj8IKonuaXflwydPr1"
@@ -20288,6 +20640,28 @@
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "album": {
+        "name": "Xodokan Iko - Hu Na Ney",
+        "url": "https://open.spotify.com/album/6xVXkePfuTyWmFxapFAfIG"
+      },
+      "artists": [
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        },
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237522,
+      "name": "Xodokan Iko - Hu Na Ney",
+      "url": "https://open.spotify.com/track/1H1bWmRBgfc8qBvcyKMM7S"
     },
     {
       "album": {
@@ -20660,7 +21034,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 176981,
       "name": "Youngstown 2",
       "url": "https://open.spotify.com/track/0Eeg4BUHnfgkNmdFNbU6Pb"
@@ -20700,7 +21074,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 288157,
       "name": "Yrsno",
       "url": "https://open.spotify.com/track/7ffCbWaSiRRxBRtBLyiH1L"

@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 449832,
+  "num_followers": 449951,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmNjYzNjMDhiNmJkMjM5NTUwNGRlOGZmYmM5ZDQ4OTk2NjlkMzMw",
+  "snapshot_id": "MCwxNDdhMjA5MjgwMmViZjY3NGE5Njk2NGU4MzNhODMyMDUxY2Q0OWVm",
   "tracks": [
     {
       "added_at": "2023-06-09 14:48:40",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2023-06-09 14:48:40",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
       "artists": [
         {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
     },
     {
       "added_at": "2023-06-09 14:48:40",
@@ -1375,22 +1375,26 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
-        "name": "Lost It",
-        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
+        "name": "Heaven Angel",
+        "url": "https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh"
       },
       "artists": [
         {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
         },
         {
-          "name": "Jaymmac",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
+      "duration_ms": 219745,
+      "name": "Heaven Angel",
+      "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
     },
     {
       "added_at": "2023-06-09 14:48:40",
@@ -1415,6 +1419,26 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
+        "name": "Lost It",
+        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "Jaymmac",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
+    },
+    {
+      "added_at": "2023-06-09 14:48:40",
+      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
-    },
-    {
-      "added_at": "2023-06-09 14:48:40",
-      "album": {
-        "name": "Heaven Angel",
-        "url": "https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
-        }
-      ],
-      "duration_ms": 219745,
-      "name": "Heaven Angel",
-      "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
     },
     {
       "added_at": "2023-06-09 14:48:40",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
-    },
-    {
-      "added_at": "2023-06-09 14:48:40",
-      "album": {
         "name": "NAILS (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 171750,
       "name": "NAILS (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
+    },
+    {
+      "added_at": "2023-06-09 14:48:40",
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
     },
     {
       "added_at": "2023-06-09 14:48:40",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2023-06-09 14:48:40",
       "album": {
+        "name": "Superhuman (with K.Flay)",
+        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-06-09 14:48:40",
+      "album": {
         "name": "Freak Mode (SEBii & Slush Puppy Remix)",
         "url": "https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 154697,
       "name": "Freak Mode (SEBii & Slush Puppy Remix)",
       "url": "https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc"
-    },
-    {
-      "added_at": "2023-06-09 14:48:40",
-      "album": {
-        "name": "Superhuman (with K.Flay)",
-        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 240044,
-      "name": "Superhuman (with K.Flay)",
-      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
     }
   ],
   "unique_name": "Alternative Beats",

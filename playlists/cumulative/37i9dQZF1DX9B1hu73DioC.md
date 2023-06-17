@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-642 songs - 1 day 14 hr 42 min
+644 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [All I've Got](https://open.spotify.com/track/4rQQWZIMGLNa1SUXWKfJZc) | [Modern Nomad](https://open.spotify.com/artist/7E6IRcJWeVNtfMGV3hAqAG) | [All I've Got](https://open.spotify.com/album/3HpG7gCkYGKyxUoLI9Ocav) | 2:54 | 2020-10-05\* | 2020-10-16 |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2021-03-31 | 2022-04-18 |
 | [All My Love](https://open.spotify.com/track/3AdiSOZxa72xdHN6sGvYeu) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5DteD9lXKQ1jjeTQ04YIXK) | 2:45 | 2022-03-07 | 2022-07-29 |
+| [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 | 2023-04-21 |  |
 | [All Of Our Yesterdays](https://open.spotify.com/track/3hPFmyctDusOxzqdpB72EJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [All Of Our Yesterdays](https://open.spotify.com/album/0HMR7TYWFVKQiJau7JdzF3) | 4:03 | 2020-10-05\* | 2022-04-19 |
 | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/track/6phFpARTp2T9rcNR3uRXoe) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/album/0y77caNV2gV2gGjG9cOUfT) | 4:19 | 2021-08-27 | 2022-04-15 |
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
@@ -68,7 +69,7 @@
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2023-02-23 | 2023-04-15 |
 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 | 2022-12-25 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-07 | 2022-04-13 |
-| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2020-10-16 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2020-10-16 | 2023-06-17 |
 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 | 2020-10-16 | 2022-04-18 |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-11 | 2023-03-11 |
 | [Beautiful Time](https://open.spotify.com/track/3qdb9PbihUEMX6nJJmlDfr) | [ONUR](https://open.spotify.com/artist/5KFv770m4wjhl6DAUqKskw) | [Beautiful Time](https://open.spotify.com/album/0yHBBkMvtm61C9uX6a8XAq) | 2:46 | 2020-10-05\* | 2020-10-06 |
@@ -320,7 +321,7 @@
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-03-07 | 2022-07-29 |
 | [It's You](https://open.spotify.com/track/30lYnXiqlYelX6TCXVLhjg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [It's You](https://open.spotify.com/album/3pGnomwipVsA3bQ23LaYwS) | 2:36 | 2021-11-19 | 2022-06-06 |
 | [Jamz](https://open.spotify.com/track/1FvnH3avKvSZRqNM7yCoRc) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:29 | 2020-10-05\* | 2022-04-17 |
-| [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2023-03-15 |  |
+| [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2023-03-15 | 2023-06-17 |
 | [jelly filled coffin](https://open.spotify.com/track/3TUGY659W6pCMtELPq1NIX) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [jelly filled coffin](https://open.spotify.com/album/7hAkHtaLHG76EBiacrlw0D) | 2:48 | 2022-06-01 | 2022-06-08 |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2023-02-17 | 2023-05-27 |
 | [joyride](https://open.spotify.com/track/4z8MoMsTria5Qeleo3Lofc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [joyride](https://open.spotify.com/album/4vYED95AUSC3WxDntWw7vU) | 3:05 | 2022-03-07 | 2022-04-21 |
@@ -504,6 +505,7 @@
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2021-08-27 | 2022-11-13 |
 | [Scarlett](https://open.spotify.com/track/1xda2R5cSP7GKlqXY3Pji2) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Scarlett](https://open.spotify.com/album/7tkT2j5BuPSjzoBWVygIG7) | 2:38 | 2020-10-05\* | 2021-05-25 |
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-21 | 2023-06-12 |
+| [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-21 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 | 2023-02-12 |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2020-10-05\* | 2022-04-16 |
 | [Seventeen](https://open.spotify.com/track/1LZSkFSCaC3nTdAnEdIrd2) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Seventeen](https://open.spotify.com/album/6TDbUK0LN01O8RtujrBrJ9) | 4:31 | 2021-03-15 | 2022-04-16 |

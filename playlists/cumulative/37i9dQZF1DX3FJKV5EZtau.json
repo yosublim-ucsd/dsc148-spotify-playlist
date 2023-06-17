@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 156610,
       "name": "Colours - Tsu Nami Remix",
       "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
@@ -2286,6 +2286,24 @@
       "duration_ms": 206250,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B"
+    },
+    {
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186231,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
     },
     {
       "album": {
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 208624,
       "name": "orbit",
       "url": "https://open.spotify.com/track/0HFmccZuHdcYqn9A34MnMI"
@@ -7210,7 +7228,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 185161,
       "name": "Without u (feat. Holywatr)",
       "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"

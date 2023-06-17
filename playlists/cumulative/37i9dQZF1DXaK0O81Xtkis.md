@@ -4,10 +4,11 @@
 
 > make it pop! cover: Lany
 
-664 songs - 1 day 9 hr 20 min
+667 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100 boys](https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [100 boys](https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO) | 3:16 | 2023-06-16 |  |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-02-04 | 2022-02-26 |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-09-24 |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |
@@ -47,6 +48,7 @@
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-29 | 2022-01-08 |
 | [Are You Okay?](https://open.spotify.com/track/31J8owdYtJ3Kgp4YA8BHlG) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Are You Okay?](https://open.spotify.com/album/0C2ywpvuigurTtGcHVi3VX) | 3:24 | 2023-03-24 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-29 | 2022-06-25 |
+| [Asking for a Friend](https://open.spotify.com/track/3v5CpMjk04RODucheegsnm) | [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [S3](https://open.spotify.com/album/4xSi4wMxTSvvr8UnDnJT5R) | 2:32 | 2023-06-16 |  |
 | [At the End of the Day](https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:53 | 2022-03-04 | 2022-05-28 |
 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 | 2023-01-20 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2022-04-01 | 2022-04-09 |
@@ -290,6 +292,7 @@
 | [I Miss My Friends](https://open.spotify.com/track/17KjW8iBczo8uF47vdsJQQ) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [I Miss My Friends](https://open.spotify.com/album/3LVns0qDEnPhBggXgtQtYN) | 3:17 | 2022-01-14 | 2022-02-26 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-02 | 2023-03-25 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-29 | 2022-01-15 |
+| [i still love you](https://open.spotify.com/track/2pmC5ZU6O9HIBYi2ORfGR2) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [i still love you](https://open.spotify.com/album/3rkJlvx0i7eUaJmWPqZ3oy) | 2:08 | 2023-06-16 |  |
 | [I Still Need You](https://open.spotify.com/track/3WM935x8fQpvSskUP1LHPB) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Still Need You](https://open.spotify.com/album/0y0HmUGFAEhTS62TlZI3Rj) | 2:58 | 2022-04-01 | 2022-04-09 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2022-03-18 | 2022-08-27 |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-25 |

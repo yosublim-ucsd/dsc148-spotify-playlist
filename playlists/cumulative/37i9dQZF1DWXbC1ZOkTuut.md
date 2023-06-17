@@ -4,10 +4,11 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-129 songs - 6 hr 47 min
+132 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6 Millones Empolvados \(N1N1\)](https://open.spotify.com/track/44jbEHnG8wE1rZXkBFXeb4) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 4:08 | 2023-06-16 |  |
 | [A Una Llamada](https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:21 | 2023-05-19 |  |
 | [Amor a Domicilio](https://open.spotify.com/track/7r1AVN696evDeIbLM86lau) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv) | 2:56 | 2023-05-26 |  |
 | [Amor Especial](https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:20 | 2023-05-19 |  |
@@ -78,6 +79,7 @@
 | [Lagrimas](https://open.spotify.com/track/7HOQatcw2VUZx6UZXQqY4M) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:22 | 2023-05-19 |  |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-05-19 |  |
 | [Le Voy A Amanecer](https://open.spotify.com/track/1I2kZS9VXNsqlxpBgYQ4HD) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [Lo Dice El Corazón](https://open.spotify.com/album/6ph2dLGEKh4XvWRx6kCVB7) | 2:45 | 2023-05-19 |  |
+| [Lider En La Region](https://open.spotify.com/track/2kSgafErZRSLWAyr3Kgqoh) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:39 | 2023-06-16 |  |
 | [Loco](https://open.spotify.com/track/6ylLG1J3v6N696Ns3k9gXm) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:05 | 2023-05-19 |  |
 | [Los 3 Tipos](https://open.spotify.com/track/0gAh4p8QTyCms9HnGuLF7K) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 3:15 | 2023-05-19 |  |
 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/7nwBCUNXwvcDxXk13zrqEX) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 3:15 | 2023-05-19 |  |
@@ -137,5 +139,6 @@
 | [Y Vas a Llorar](https://open.spotify.com/track/2gLSx5RGX1Z9V4J9NkoprG) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv) | 3:08 | 2023-05-26 |  |
 | [Ya No Me Llames](https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:21 | 2023-05-19 |  |
 | [Ya Ves](https://open.spotify.com/track/56dIcGpwScRmTv62eYKoq8) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Prefiero Estar Contigo \(Deluxe\)](https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx) | 3:09 | 2023-05-19 |  |
+| [Yo Se Que Se Siente](https://open.spotify.com/track/7t9Bqf5BPAQ5bygjqOpSrH) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:56 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2023-05-20. Prior content cannot be recovered.

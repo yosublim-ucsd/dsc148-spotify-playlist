@@ -19919,6 +19919,24 @@
     },
     {
       "album": {
+        "name": "Love, Tapi Love?",
+        "url": "https://open.spotify.com/album/1KrHIu6qgaUxMnHSyGx3Nt"
+      },
+      "artists": [
+        {
+          "name": "Sufte",
+          "url": "https://open.spotify.com/artist/6w0CDDNncA7yowyrGU3spX"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123414,
+      "name": "Love, Tapi Love?",
+      "url": "https://open.spotify.com/track/4LT4AAY8bwV3oSgYlz7Bpk"
+    },
+    {
+      "album": {
         "name": "Lovecruise",
         "url": "https://open.spotify.com/album/2YIPxvgFE3xWilsWggSUTh"
       },

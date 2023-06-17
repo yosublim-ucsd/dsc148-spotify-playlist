@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 317445,
       "name": "Eden and Her Borderlands",
       "url": "https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz"
@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2csD3zZHTpq4t6qsZrDcr4"
+      },
+      "artists": [
+        {
+          "name": "Kenny Feidler",
+          "url": "https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289999,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/68AFOIiz3TD7Wbar8eEMXm"
+    },
+    {
+      "album": {
         "name": "Way Down Here",
         "url": "https://open.spotify.com/album/4T9hHInEKiGIRNjFZbq9z4"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 239137,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/54ST44raZeEPHldDpV0x2m"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 264600,
       "name": "Golden State",
       "url": "https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 214608,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/57zMdIUJcV523YHPGe4HoY"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 260407,
       "name": "KD and Lunch Meat",
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
@@ -1797,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Merigold",
+        "url": "https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "Merigold",
+      "url": "https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb"
+    },
+    {
+      "album": {
         "name": "Middle of a Heart",
         "url": "https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL"
       },
@@ -1884,6 +1920,24 @@
       "duration_ms": 203866,
       "name": "Nobody but Me",
       "url": "https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc"
+    },
+    {
+      "album": {
+        "name": "Nobody Has To Know Your Mind",
+        "url": "https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW"
+      },
+      "artists": [
+        {
+          "name": "John R. Miller",
+          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Nobody Has To Know Your Mind",
+      "url": "https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy"
     },
     {
       "album": {
@@ -2906,6 +2960,42 @@
       "duration_ms": 211288,
       "name": "Whatever We Are",
       "url": "https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f"
+    },
+    {
+      "album": {
+        "name": "Where Will I Go",
+        "url": "https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319066,
+      "name": "Where Will I Go",
+      "url": "https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN"
+    },
+    {
+      "album": {
+        "name": "Whooped If You Will",
+        "url": "https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Whooped If You Will",
+      "url": "https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T"
     },
     {
       "album": {

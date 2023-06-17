@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 90158,
+  "num_followers": 90237,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmEyMmZkZDA2M2RlYTEwZmEzNDAwNDY1NDcyZTFiNmVkMTUxNjJm",
+  "snapshot_id": "MCxkYmZkYjVkNDdiYjliZDk5MDA4ODI4OTJmMDUyZDI3NzJhNDUxMDg1",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -63,6 +63,30 @@
       "duration_ms": 164124,
       "name": "Move",
       "url": "https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Sure Know Something (Ladies on Mars Remix)",
+        "url": "https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ"
+      },
+      "artists": [
+        {
+          "name": "Javier Penna",
+          "url": "https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV"
+        },
+        {
+          "name": "DiscoRocks",
+          "url": "https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA"
+        },
+        {
+          "name": "Ladies On Mars",
+          "url": "https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU"
+        }
+      ],
+      "duration_ms": 234827,
+      "name": "Sure Know Something - Ladies on Mars Remix",
+      "url": "https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -123,6 +147,30 @@
       "duration_ms": 201904,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Giving Nothing",
+        "url": "https://open.spotify.com/album/4zgOSsSglm9BSoL5lqp0PK"
+      },
+      "artists": [
+        {
+          "name": "Dyanna Fearon",
+          "url": "https://open.spotify.com/artist/6Tj2zk2FBDNAO7k0jXHMSp"
+        },
+        {
+          "name": "Sparkling Attitude",
+          "url": "https://open.spotify.com/artist/3IF1LdxOdz2c329J5KBjjA"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "duration_ms": 220512,
+      "name": "Giving Nothing - Art of Tones Remix",
+      "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -873,22 +921,6 @@
       "url": "https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Party People",
-        "url": "https://open.spotify.com/album/7pYDdpY6EsjgoWKG22rnqG"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
-        }
-      ],
-      "duration_ms": 438421,
-      "name": "Party People",
-      "url": "https://open.spotify.com/track/7IKT5V9D9pbXzCEjw3465z"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Passion (feat. Nile Rodgers) [Fred Falke Remix]",
@@ -1003,22 +1035,6 @@
       "duration_ms": 181967,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Light up on the Weekend",
-        "url": "https://open.spotify.com/album/0VII0KsD4bEWDciyFPmY9T"
-      },
-      "artists": [
-        {
-          "name": "Me & My Toothbrush",
-          "url": "https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Light up on the Weekend",
-      "url": "https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw"
     },
     {
       "added_at": "2023-04-07 04:01:00",

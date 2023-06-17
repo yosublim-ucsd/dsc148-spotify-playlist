@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 954,
+  "num_followers": 956,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTY2MjNkN2ZkZTNlMThiMjkyOTBiNmM4NzM4ZGY1YTA3MGYzODYx",
+  "snapshot_id": "MCw5OWZiMDNiYmQ3ZTdiMmIzMTYwYWQxYTRkMzQzNmI4OTNlMzI2MzUy",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Nou Sime",
-        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "Kifer to Pale Danse",
-      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 184800,
       "name": "Trottinette",
       "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Nou Sime",
+        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "Kifer to Pale Danse",
+      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,18 +571,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+        "name": "Love Ambassador",
+        "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
       },
       "artists": [
         {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+          "name": "MR LOVE",
+          "url": "https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8"
         }
       ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+      "duration_ms": 283600,
+      "name": "Atrap Mo lame",
+      "url": "https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -619,22 +623,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Love Ambassador",
-        "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
       },
       "artists": [
         {
-          "name": "MR LOVE",
-          "url": "https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8"
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
         }
       ],
-      "duration_ms": 283600,
-      "name": "Atrap Mo lame",
-      "url": "https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS"
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
     },
     {
       "added_at": "2022-08-11 10:05:16",

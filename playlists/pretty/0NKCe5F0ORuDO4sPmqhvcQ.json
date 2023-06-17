@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21016,
+  "num_followers": 21014,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAzMjAsMzVkMmJkZTdjODk2NDUwYTViY2Q5MjVkZmJkZDEzYmFmMWU2NTMxZg==",
+  "snapshot_id": "MTAzMjIsOWFmOWFiMmZkMDI3NmU3ZGRmMWJkNmU4YTIwYmZmNzZhMzE0ZTQxMA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2611,6 +2611,46 @@
       "duration_ms": 219637,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/1PhU0beKROIDBxxwf0B7lr"
+    },
+    {
+      "added_at": "2023-06-16 17:48:47",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a"
+    },
+    {
+      "added_at": "2023-06-16 17:49:05",
+      "album": {
+        "name": "REGENESIS",
+        "url": "https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "REGENESIS",
+      "url": "https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg"
     }
   ],
   "unique_name": "Moving Castle Monthly",

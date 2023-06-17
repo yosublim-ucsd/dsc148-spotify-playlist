@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Miro",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Zeina, Smeels",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 161906,
       "name": "92i MAYBACH",
       "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
@@ -2910,6 +2910,24 @@
       "duration_ms": 164400,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1"
+    },
+    {
+      "album": {
+        "name": "Banque de Beats Mondiale",
+        "url": "https://open.spotify.com/album/62KeY1v3G53EralWy54EJh"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135480,
+      "name": "Banque de Beats Mondiale",
+      "url": "https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn"
     },
     {
       "album": {
@@ -4003,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "BRILLES",
+        "url": "https://open.spotify.com/album/0XTugJmLUDOFHGR5Aw9J6b"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134260,
+      "name": "BRILLES",
+      "url": "https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb"
+    },
+    {
+      "album": {
         "name": "Brooklyn n'est pas assez grande",
         "url": "https://open.spotify.com/album/5IZORf8wozp9heXJX7GiAT"
       },
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -7258,7 +7294,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 166906,
       "name": "C\u00e2lin (feat. Soolking)",
       "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
@@ -7298,7 +7334,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 176089,
       "name": "C\u00e9l\u00e8bre",
       "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
@@ -10832,7 +10868,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 187880,
       "name": "F.I.N.I",
       "url": "https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf"
@@ -12082,7 +12118,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 220933,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/4DMv4ucHwmZbHikt3n6XV2"
@@ -15613,6 +15649,24 @@
     },
     {
       "album": {
+        "name": "Je partirai",
+        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
+    },
+    {
+      "album": {
         "name": "Je pense \u00e0 toi (vue par Jean-Phi Goncalves) [Remix]",
         "url": "https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G"
       },
@@ -16377,6 +16431,32 @@
     },
     {
       "album": {
+        "name": "Kisakiin 2",
+        "url": "https://open.spotify.com/album/4cJxnexHD3nYEX6bOqmWuw"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        },
+        {
+          "name": "Guerschon Auguste",
+          "url": "https://open.spotify.com/artist/63Y0TO5l5USyZpQPZFEOso"
+        },
+        {
+          "name": "DJ Horg",
+          "url": "https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Kisakiin 2",
+      "url": "https://open.spotify.com/track/5Ky2DYvP6eghOlMKDBrf0Z"
+    },
+    {
+      "album": {
         "name": "Kis\u00e9",
         "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
       },
@@ -16604,6 +16684,24 @@
       "duration_ms": 161853,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/4dvrujB0S62Bin2CGthC36"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139019,
+      "name": "L'amour - Spotify Singles",
+      "url": "https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw"
     },
     {
       "album": {
@@ -19448,7 +19546,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 172373,
       "name": "Les brais\u00e9s",
       "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
@@ -20054,7 +20152,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194531,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6bxIp0kZ4aanaMp75Qtr2i"
@@ -20680,6 +20778,28 @@
       "duration_ms": 214296,
       "name": "L\u00e8ve-toi",
       "url": "https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb"
+    },
+    {
+      "album": {
+        "name": "L\u00e9gendes",
+        "url": "https://open.spotify.com/album/3N1tRdcA3RsP480DPfLcqE"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "L\u00e9gendes",
+      "url": "https://open.spotify.com/track/5lzAnUP1thIejAaEqDeN6O"
     },
     {
       "album": {
@@ -22442,7 +22562,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 189300,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/4586PHt3JWkwRLr6pU4Myf"
@@ -22624,7 +22744,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 197017,
       "name": "Money",
       "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
@@ -23416,6 +23536,28 @@
       "duration_ms": 159794,
       "name": "Naruto",
       "url": "https://open.spotify.com/track/4LuNW6xBG261jSeUJy7RJL"
+    },
+    {
+      "album": {
+        "name": "Nasty feat. Smeels (French Version)",
+        "url": "https://open.spotify.com/album/1kv1mbzSEILpTh4ahcE27s"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        },
+        {
+          "name": "Smeels",
+          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170366,
+      "name": "Nasty feat. Smeels (French Version)",
+      "url": "https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU"
     },
     {
       "album": {
@@ -24229,6 +24371,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "QuietMike",
+          "url": "https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144970,
+      "name": "On & Off - Spotify Singles",
+      "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
+    },
+    {
+      "album": {
         "name": "On a l'habitude (Ok Many)",
         "url": "https://open.spotify.com/album/2fjL0FdokMEfHwPKO9j4rC"
       },
@@ -24298,7 +24462,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 232830,
       "name": "On arrive demain - Edit Single",
       "url": "https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj"
@@ -24690,7 +24854,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 157320,
       "name": "Oubli\u00e9",
       "url": "https://open.spotify.com/track/2llnhMlIcj048n4XFlT0RE"
@@ -25116,7 +25280,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 284801,
       "name": "PARANO",
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
@@ -27223,6 +27387,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl Pack",
+        "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
+    },
+    {
+      "album": {
         "name": "S.M.T.F.E.",
         "url": "https://open.spotify.com/album/3Ru2tsBkxvktGXyB6JnulN"
       },
@@ -28270,7 +28452,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
@@ -28775,6 +28957,28 @@
     },
     {
       "album": {
+        "name": "Toujours pas mort - E.P.",
+        "url": "https://open.spotify.com/album/5Nr5o553FALmH6SQLmGCCe"
+      },
+      "artists": [
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        },
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227745,
+      "name": "Risques & Hustle",
+      "url": "https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu"
+    },
+    {
+      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5"
       },
@@ -28992,6 +29196,32 @@
       "duration_ms": 130608,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/0IdEk5hsxS3EuAYxaC1po9"
+    },
+    {
+      "album": {
+        "name": "Ros\u00e9",
+        "url": "https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u"
+      },
+      "artists": [
+        {
+          "name": "T\u00e4b\u00ef Y\u00f6sha",
+          "url": "https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO"
+        },
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Suiker",
+          "url": "https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156756,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc"
     },
     {
       "album": {
@@ -31084,7 +31314,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 157036,
       "name": "Sosa",
       "url": "https://open.spotify.com/track/1qCRNHFdp6h3IETdTYE3CG"

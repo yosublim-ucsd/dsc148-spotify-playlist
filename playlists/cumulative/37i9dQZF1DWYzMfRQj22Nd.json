@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 218057,
       "name": "Anarchy",
       "url": "https://open.spotify.com/track/3qLHmaFZf2TKaC2LgdcUZ6"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 227013,
       "name": "Aura",
       "url": "https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM"
@@ -651,7 +651,7 @@
         },
         {
           "name": "Tudor",
-          "url": "https://open.spotify.com/artist/4E19QTnC6R4tEtVUzam9ju"
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
         }
       ],
       "date_added": "2022-01-14",
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 219545,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4W8XKB45CmlOs0UyQ1VWjj"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/63hHHHtEN2urLn9JPJOWr2"
@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1dbrDlUktcfmsAGuRdYFly"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212068,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2TkY5AstkgVddcKKFVcb4v"
+    },
+    {
+      "album": {
         "name": "Electrotherapy: The Remixes",
         "url": "https://open.spotify.com/album/3QvXlIW9oclJqM3s5WDOcF"
       },
@@ -2466,6 +2488,24 @@
       "duration_ms": 279169,
       "name": "Fall Beneath You",
       "url": "https://open.spotify.com/track/0VzdZGGsJjOZMUHwlZ7uAs"
+    },
+    {
+      "album": {
+        "name": "Fall To The Dust",
+        "url": "https://open.spotify.com/album/2PwFlI7UWf88mcxjKm5twL"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Fall To The Dust",
+      "url": "https://open.spotify.com/track/74PHsfwKi13QLJAbHPVgQf"
     },
     {
       "album": {
@@ -2830,7 +2870,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 265371,
       "name": "Follow Me - Blanke Remix",
       "url": "https://open.spotify.com/track/7H5GF7ufsRpIPtvupChNyf"
@@ -2994,7 +3034,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 252013,
       "name": "Freedom - Sub Focus x Wilkinson x High Contrast Remix",
       "url": "https://open.spotify.com/track/3zsM1eJsFUtXD1XzMMwyaL"
@@ -3270,7 +3310,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 247135,
       "name": "Go",
       "url": "https://open.spotify.com/track/6LmNEPZWhYAyz9jZHaW3sj"
@@ -3310,7 +3350,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 260344,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
@@ -3888,7 +3928,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 184941,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG"
@@ -5523,6 +5563,24 @@
     },
     {
       "album": {
+        "name": "Off Wiv Ya Headz",
+        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206694,
+      "name": "Off Wiv Ya Headz",
+      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+    },
+    {
+      "album": {
         "name": "Offender",
         "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
       },
@@ -5738,7 +5796,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/3ss7pNB2478DaTiaYxjAsY"
@@ -5778,7 +5836,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -5866,7 +5924,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
@@ -5982,7 +6040,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 212571,
       "name": "Purple Hat - Dux n Bass Remix",
       "url": "https://open.spotify.com/track/1WL8mPxXzTfb4BPrPApONP"
@@ -6173,6 +6231,28 @@
     },
     {
       "album": {
+        "name": "Reaction",
+        "url": "https://open.spotify.com/album/6LEmY00qCmKrZZNH2QFOfw"
+      },
+      "artists": [
+        {
+          "name": "GOLDHOUSE",
+          "url": "https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Reaction",
+      "url": "https://open.spotify.com/track/72xoZs1qURV2UGMS4OaODu"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7MEAVmeNsujhwAuHhiGBue"
       },
@@ -6356,7 +6436,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 267907,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ"
@@ -6608,7 +6688,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 246951,
       "name": "Sacrifice - Ray Volpe Remix",
       "url": "https://open.spotify.com/track/0Hi0rfeMiMvYdwXYMeML9t"
@@ -6710,7 +6790,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 218470,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DTk1207Efq0HBUEYmbcTB"
@@ -7350,7 +7430,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 315172,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC"
@@ -7372,6 +7452,24 @@
       "duration_ms": 150360,
       "name": "Sunrise Bang Ur Head Against Tha Wall",
       "url": "https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz"
+    },
+    {
+      "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/13yuhzD1opwJpC4EyI3ZAW"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/2VdrPrPczT3qq2M9hTqY9G"
     },
     {
       "album": {
@@ -7556,7 +7654,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 168727,
       "name": "TELL ME WHERE",
       "url": "https://open.spotify.com/track/3ZzHOLk1Af0vAkgO6hRpqw"
@@ -7742,7 +7840,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
@@ -7922,7 +8020,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 253793,
       "name": "Turn Back Time - Wilkinson Remix",
       "url": "https://open.spotify.com/track/5AJsdSy92xTDNWCe2tPnel"
@@ -8374,7 +8472,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/0rGzq8bEBpYsLlLASM823y"
@@ -8432,7 +8530,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 248751,
       "name": "Write It Down - Fred V Remix",
       "url": "https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI"

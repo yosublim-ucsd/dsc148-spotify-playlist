@@ -944,7 +944,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 169600,
       "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
       "url": "https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 156826,
       "name": "Crazy Angels",
       "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Memory Lane (Sampler)",
+        "url": "https://open.spotify.com/album/4V44bvifYsLR3aXWlJuvHs"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Freedom Like You",
+      "url": "https://open.spotify.com/track/6sYPmFkZK2BuK0HY6K9gKm"
+    },
+    {
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -1670,6 +1688,24 @@
       "duration_ms": 181000,
       "name": "Go To Town",
       "url": "https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C"
+    },
+    {
+      "album": {
+        "name": "Goin For Broke",
+        "url": "https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202789,
+      "name": "Goin For Broke",
+      "url": "https://open.spotify.com/track/5bu8p495FPdRySYSptdny2"
     },
     {
       "album": {
@@ -2681,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Magic Man (Carl Version)(feat. Ann Wilson)",
+        "url": "https://open.spotify.com/album/3bp79MeMoUE5gmHNuZQRNG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ann Wilson",
+          "url": "https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302605,
+      "name": "Magic Man (Carl Version)(feat. Ann Wilson)",
+      "url": "https://open.spotify.com/track/0n3A8c5erSAdbaSeJUOGfr"
+    },
+    {
+      "album": {
         "name": "Make Matters Worse",
         "url": "https://open.spotify.com/album/0vSu0riQ2DRPIUu8ZfXgKI"
       },
@@ -3476,7 +3534,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 205651,
       "name": "She's No Good for Me",
       "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
@@ -3534,6 +3592,24 @@
       "duration_ms": 268707,
       "name": "Sick and Tired",
       "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
+    },
+    {
+      "album": {
+        "name": "Side Effects Of The Heart",
+        "url": "https://open.spotify.com/album/2gNistjl0EPPCBD9LsjUoN"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248009,
+      "name": "Side Effects Of The Heart",
+      "url": "https://open.spotify.com/track/0dQBrRLmcqB19S1X29ZX6Y"
     },
     {
       "album": {
@@ -4096,7 +4172,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"

@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Jason Isbell and the 400 Unit
 
-201 songs - 12 hr 20 min
+202 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-06-03 | 2023-01-06 |
 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 |  |
 | [Closer](https://open.spotify.com/track/6DRsBCUxbmirsiGMEkdVNx) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Closer](https://open.spotify.com/album/5dqV3q51EyjSbwhfUbmIBf) | 2:57 | 2023-05-12 |  |
-| [Cocaine](https://open.spotify.com/track/0MhzvrhKfjlhti3pL2p9HB) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Payphone Blues](https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE) | 2:23 | 2022-06-14 |  |
+| [Cocaine](https://open.spotify.com/track/0MhzvrhKfjlhti3pL2p9HB) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Payphone Blues](https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE) | 2:23 | 2022-06-14 | 2023-06-17 |
 | [Cocaine](https://open.spotify.com/track/6DSG9ihWXCPJPW7yt48jlP) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Cocaine](https://open.spotify.com/album/35YFgxErHUN6wKqsP0kQWH) | 2:23 | 2020-12-04 | 2022-07-29 |
+| [Cocaine](https://open.spotify.com/track/01z0jLYMIATWm7pDScwGu2) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Cocaine](https://open.spotify.com/album/0mjbAYW9HubX8GKC9syx9O) | 2:33 | 2023-06-09 |  |
 | [Cowboys Talkin'](https://open.spotify.com/track/2jz9PifMeY1ZYmE720XkID) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboys Talkin'](https://open.spotify.com/album/3C4reNN9sXoVmK5CArdmzk) | 2:49 | 2023-05-12 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2022-06-14 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-07-29 |

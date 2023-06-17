@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Back For You",
+        "url": "https://open.spotify.com/album/0qLsymY9HxUoxm9l7YcHrX"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Back For You",
+      "url": "https://open.spotify.com/track/28N5iHVqHiGgo73g74bzme"
+    },
+    {
+      "album": {
         "name": "barla (SHINICHI OSAWA REMIX)",
         "url": "https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0"
       },
@@ -494,7 +512,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 258346,
       "name": "Bonfire - Junya Kishino Remix",
       "url": "https://open.spotify.com/track/2Y5YkeA3F5FQJiDOBGVCWH"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 281370,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 222040,
       "name": "Dance'O'Drome",
       "url": "https://open.spotify.com/track/4TPokp2tvny5wp2oWik0Uc"
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 211336,
       "name": "Don't Hurt Me",
       "url": "https://open.spotify.com/track/2NdCMXN5d7zVIwgaARacmy"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 241406,
       "name": "Hands - Edit",
       "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
@@ -2338,6 +2356,24 @@
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "It's Then",
+      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
     },
     {
       "album": {
@@ -2586,7 +2622,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 163500,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
@@ -2666,6 +2702,46 @@
       "duration_ms": 332000,
       "name": "Likshot",
       "url": "https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ"
+    },
+    {
+      "album": {
+        "name": "Lime Green Skies",
+        "url": "https://open.spotify.com/album/7v0EVUq4QBJuDUCNWUS38I"
+      },
+      "artists": [
+        {
+          "name": "Energy Exchange Ensemble",
+          "url": "https://open.spotify.com/artist/1dxgUIXKd9tX0xgRQ7hM8i"
+        },
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409844,
+      "name": "Lime Green Skies",
+      "url": "https://open.spotify.com/track/54XaIvn3IjlHZv1bVnrEJn"
+    },
+    {
+      "album": {
+        "name": "Limes",
+        "url": "https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195382,
+      "name": "Limes",
+      "url": "https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR"
     },
     {
       "album": {
@@ -2841,6 +2917,46 @@
     },
     {
       "album": {
+        "name": "Melting Point (Deluxe)",
+        "url": "https://open.spotify.com/album/0AvHu4n92KTEpBGMSGEJ29"
+      },
+      "artists": [
+        {
+          "name": "Coldhot",
+          "url": "https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206227,
+      "name": "Loyly - Gimgigam Remix",
+      "url": "https://open.spotify.com/track/6RTpMIxtff8Wib95qyjIGw"
+    },
+    {
+      "album": {
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/3rnGKVq3zQzb5MAVcc72Df"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Fumi",
+          "url": "https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433846,
+      "name": "Luster",
+      "url": "https://open.spotify.com/track/70FI60Sv17VBlXAjrVCeRS"
+    },
+    {
+      "album": {
         "name": "M1, M3 / GETOUTOFMYHEAD",
         "url": "https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK"
       },
@@ -2976,7 +3092,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 280327,
       "name": "Merchants - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q"
@@ -3064,7 +3180,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 274738,
       "name": "Monica Vitti",
       "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
@@ -3090,6 +3206,28 @@
       "duration_ms": 261801,
       "name": "Monnaka (Steven Weston Remix)",
       "url": "https://open.spotify.com/track/2Goocmf2ZLDIT0swz59LXk"
+    },
+    {
+      "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/2E4r8eZN9le0EbSesavcr0"
+      },
+      "artists": [
+        {
+          "name": "Kaoruko",
+          "url": "https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180019,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/2WLhrQ4zRgmWQmQg3SJdRS"
     },
     {
       "album": {
@@ -3256,7 +3394,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 240899,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU"
@@ -3376,7 +3514,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 225482,
       "name": "Olele",
       "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
@@ -3500,6 +3638,24 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "album": {
+        "name": "Musique for Discoth\u00e8ques",
+        "url": "https://open.spotify.com/album/0KnoZ3mKyveI7fykzUqqFy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404559,
+      "name": "Piano Heaven",
+      "url": "https://open.spotify.com/track/3d9kTlmQovWE7sNxuNMxEI"
     },
     {
       "album": {
@@ -3654,6 +3810,28 @@
       "duration_ms": 237001,
       "name": "RAVE (Hungry Driver) - [Vocal : \u3069\u3093\u3050\u308a\u305a]",
       "url": "https://open.spotify.com/track/1zLc5bbc7EoXyO8KsVpscC"
+    },
+    {
+      "album": {
+        "name": "Reason (with Paige Cavell)",
+        "url": "https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154292,
+      "name": "Reason (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37"
     },
     {
       "album": {
@@ -3858,7 +4036,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 331620,
       "name": "Samba Soccer 2001",
       "url": "https://open.spotify.com/track/5DWGZgTWfmwbUZClvc9HN2"
@@ -4066,6 +4244,28 @@
       "duration_ms": 390000,
       "name": "SIGNALS",
       "url": "https://open.spotify.com/track/76iMcYR5MuD1OsRCgSC7WM"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5U4ADX9bIDh1pN4aSQZM4a"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Melle Brown",
+          "url": "https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179088,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6WpcKQpHlmnQvzIaduUOkU"
     },
     {
       "album": {
@@ -4318,6 +4518,24 @@
       "duration_ms": 269995,
       "name": "Strong - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po"
+    },
+    {
+      "album": {
+        "name": "SUCK",
+        "url": "https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "SUCK",
+      "url": "https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1"
     },
     {
       "album": {
@@ -4693,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "U Want It",
+        "url": "https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "U Want It",
+      "url": "https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8"
+    },
+    {
+      "album": {
         "name": "Unfolding (Momentum 73) [Ron Trent Remix]",
         "url": "https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS"
       },
@@ -4792,7 +5028,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
@@ -4956,7 +5192,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 203688,
       "name": "What You Say?",
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"

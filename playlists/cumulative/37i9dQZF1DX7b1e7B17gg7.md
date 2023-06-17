@@ -4,13 +4,14 @@
 
 > Soft instrumental Blues for any activity.
 
-79 songs - 5 hr 43 min
+80 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/48eNRTJstHUzPi3wJQk2c2) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [The Colour Of Love](https://open.spotify.com/album/2xXYOJuBCC3ufi2TDI9P5s) | 9:46 | 2022-11-30 |  |
 | [5th Position Plea](https://open.spotify.com/track/3u6pVUAt82LMApfue9DnNn) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Junior Watson](https://open.spotify.com/artist/3GKQjnbn10eiRdADeCZjYC), [Fred Kaplan](https://open.spotify.com/artist/5wC9sb6NlppKOXNs2XYzcL) | [Taboo](https://open.spotify.com/album/7fTpxRyO1CkFPok1b4YCfS) | 5:04 | 2022-11-30 |  |
 | [After sundown](https://open.spotify.com/track/2ZAk5I9sQQHMqXTArONfAC) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:44 | 2022-11-30 |  |
+| [All In](https://open.spotify.com/track/29tN0uvuZVzTcIYatGZCjF) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [All In](https://open.spotify.com/album/0rDYyUqDzLRGOG1Ut0Vqxf) | 4:05 | 2023-06-16 |  |
 | [Alone With The Blues](https://open.spotify.com/track/2cush3Y6GwRgvUAvlSHNa9) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 4:24 | 2022-11-30 |  |
 | [Amazing G](https://open.spotify.com/track/6h3xIEuUwAlSeY3jAn7rKf) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 4:21 | 2022-11-30 |  |
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers : Blues](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-11-30 |  |

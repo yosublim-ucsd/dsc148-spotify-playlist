@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 269257,
+  "num_followers": 269667,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjJhZjAxMmU3ZWY4M2QxYmYxYzRhYzI4OWRmZTNkMWY0ODIwYjhi",
+  "snapshot_id": "MCw5ZGY4MDQyZDYxOWZlNGE0ZWE4N2NjODEwMWNkMDM3NzI3YzVhODJh",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -687,6 +687,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 340813,
+      "name": "Can You Feel It - Instrumental",
+      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 493560,
       "name": "You Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 340813,
-      "name": "Can You Feel It - Instrumental",
-      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
     },
     {
       "added_at": "2021-09-17 08:34:50",

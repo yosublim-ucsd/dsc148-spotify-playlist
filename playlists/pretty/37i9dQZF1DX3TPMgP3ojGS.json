@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 356564,
+  "num_followers": 356697,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDI5N2RlMGRmYmE3ZTViOTQ3MGZkNjIzYzY1MDNmMDEwYmZiN2Fk",
+  "snapshot_id": "MCxkODNiOGQ1NmY5Njg2M2YwNzg5ZGFmYTc2NzI1ZWExNTJlNWMyZmI4",
   "tracks": [
     {
       "added_at": "2023-05-30 05:41:43",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Quand vous souriez",
-        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
-      },
-      "artists": [
-        {
-          "name": "Libor Kolman",
-          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
-        }
-      ],
-      "duration_ms": 118250,
-      "name": "Quand vous souriez",
-      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Glance Out A Casement Window",
         "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Quand vous souriez",
+        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
+      },
+      "artists": [
+        {
+          "name": "Libor Kolman",
+          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
+        }
+      ],
+      "duration_ms": 118250,
+      "name": "Quand vous souriez",
+      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Heart Open & Oak Bluffs",
-        "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
-      },
-      "artists": [
-        {
-          "name": "Elinaura",
-          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
-        }
-      ],
-      "duration_ms": 117016,
-      "name": "Oaks Bluffs",
-      "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "This Tender Appeal",
         "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 168498,
       "name": "This Tender Appeal",
       "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Heart Open & Oak Bluffs",
+        "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "duration_ms": 117016,
+      "name": "Oaks Bluffs",
+      "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Air from Air",
-        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Air from Air",
-      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 135105,
       "name": "A Time Long Ago",
       "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Air from Air",
+        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 199428,
+      "name": "Air from Air",
+      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Poesia",
-        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
       "artists": [
         {
-          "name": "Fernando Alegre",
-          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
         }
       ],
-      "duration_ms": 125248,
-      "name": "Poesia",
-      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -655,66 +655,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Lofoten",
-        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
       },
       "artists": [
         {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
         }
       ],
-      "duration_ms": 161913,
-      "name": "Lofoten",
-      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -735,6 +687,54 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Shizukana",
         "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 131786,
       "name": "Shizukana",
       "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Lydian Fairytale",
-        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
-      },
-      "artists": [
-        {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
-        }
-      ],
-      "duration_ms": 105786,
-      "name": "Lydian Fairytale",
-      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Lydian Fairytale",
+        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "duration_ms": 105786,
+      "name": "Lydian Fairytale",
+      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
       "artists": [
         {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
         }
       ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
       "artists": [
         {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
         }
       ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
+      },
+      "artists": [
+        {
+          "name": "Ina Lawson",
+          "url": "https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Sun sinking at dusk",
         "url": "https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
+        "name": "Benediction",
+        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
       },
       "artists": [
         {
-          "name": "Ina Lawson",
-          "url": "https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP"
+          "name": "Nadav Amir-Himmel",
+          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
         }
       ],
-      "duration_ms": 133375,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+      "duration_ms": 143920,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -955,22 +971,6 @@
       "duration_ms": 130889,
       "name": "T\u00f4t le matin",
       "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Benediction",
-        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
-      },
-      "artists": [
-        {
-          "name": "Nadav Amir-Himmel",
-          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
-        }
-      ],
-      "duration_ms": 143920,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Abstractions",
-        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
-      },
-      "artists": [
-        {
-          "name": "Richard Mahees",
-          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
-        }
-      ],
-      "duration_ms": 117800,
-      "name": "Delightful",
-      "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Coulant",
-        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
+        "name": "Abstractions",
+        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
       "artists": [
         {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+          "name": "Richard Mahees",
+          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Coulant",
-      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
+      "duration_ms": 117800,
+      "name": "Delightful",
+      "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1483,6 +1467,22 @@
       "duration_ms": 189940,
       "name": "Fallen Flowers",
       "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Coulant",
+        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Coulant",
+      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
+        "name": "Ballade Pour Elly",
+        "url": "https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ"
       },
       "artists": [
         {
-          "name": "Holly Jones",
-          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
+          "name": "Oscar Sundberg",
+          "url": "https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp"
         }
       ],
-      "duration_ms": 174866,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
+      "duration_ms": 243209,
+      "name": "Ballade Pour Elly",
+      "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Ballade Pour Elly",
-        "url": "https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
       },
       "artists": [
         {
-          "name": "Oscar Sundberg",
-          "url": "https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp"
+          "name": "Holly Jones",
+          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
         }
       ],
-      "duration_ms": 243209,
-      "name": "Ballade Pour Elly",
-      "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
+      "duration_ms": 174866,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Periferi",
-        "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
+        "name": "Ottilia",
+        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
       },
       "artists": [
         {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
         }
       ],
-      "duration_ms": 144124,
-      "name": "Periferi",
-      "url": "https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5"
+      "duration_ms": 150000,
+      "name": "Ottilia",
+      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
     }
   ],
   "unique_name": "Coffee and Piano",

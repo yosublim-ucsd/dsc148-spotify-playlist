@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-989 songs - 22 hr 19 min
+991 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Dreaming In Color \- Violin And Harp Version](https://open.spotify.com/track/7nExqrT9Kqc8KletVfypp2) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dreaming In Color \(Violin And Harp Version\)](https://open.spotify.com/album/0UDytjSXS0d5VGcW3AvnSy) | 1:01 | 2023-01-26 |  |
 | [Dreaming In The Valley Arr\. For Cello](https://open.spotify.com/track/28eNTRAkUiIUbdl8Sgrchv) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Dreaming In The Valley Arr\. For Cello](https://open.spotify.com/album/4ODJbnSDoRTYj5ShicNn1I) | 1:01 | 2023-04-08 |  |
 | [Dreaming Of Spring](https://open.spotify.com/track/1f7tweDAoR2CYvHSiC6Guq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:02 | 2022-01-14 |  |
+| [Dreams In Florence](https://open.spotify.com/track/7eDneB5sBpTyy4fwvil9Vo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Afloat](https://open.spotify.com/album/0MPWCF5VwCxwfEzj8r2wNt) | 1:01 | 2023-06-16 |  |
 | [Dreams Of Hope](https://open.spotify.com/track/1Z42wNHEyLHfJBfjP2PvtT) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:02 | 2022-05-25 |  |
 | [Drift Away](https://open.spotify.com/track/14coKZQjm8tPbisRbE2UOq) | [A Slower Tempo](https://open.spotify.com/artist/6OixRRPHDKFH9nFQd6xJOs) | [A Slower Tempo](https://open.spotify.com/album/5t3YgMenuyoRN20YFtlJ6H) | 2:43 | 2022-01-12 |  |
 | [Drift On The Calm Air](https://open.spotify.com/track/2GwKFwr1LvX284VJMFmbfM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Simple Beauty](https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J) | 1:02 | 2022-02-15 |  |
@@ -620,6 +621,7 @@
 | [Patterns](https://open.spotify.com/track/631ovy82IYah78SnAnEkfH) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:21 | 2022-01-12 |  |
 | [Patterns In The Sky](https://open.spotify.com/track/4S4Fc8MIH6aqZL1irW1erI) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:02 | 2022-04-20 |  |
 | [Peace In Beauty Arr\. For Cello](https://open.spotify.com/track/6CI8BSWjZy5LlVHgVHiW9T) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace In Beauty](https://open.spotify.com/album/7fWFVMjHJSVWAWvipjWX8b) | 1:01 | 2023-05-25 |  |
+| [Peace In Beauty Arr\. For Piano](https://open.spotify.com/track/6hqgWGHZXUrLkSqOqeVpS3) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace In Beauty](https://open.spotify.com/album/7fWFVMjHJSVWAWvipjWX8b) | 1:01 | 2023-06-16 |  |
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 |  |
 | [Peaceful And Calm](https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:12 | 2022-01-12 |  |

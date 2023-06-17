@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Anthology Beats (2005-2015)",
+        "url": "https://open.spotify.com/album/0tsEgLd5PxI99MIsWLhJ5I"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159995,
+      "name": "Funkorama",
+      "url": "https://open.spotify.com/track/3T358Pl7NSInxnCehNgMse"
+    },
+    {
+      "album": {
         "name": "Geek Out",
         "url": "https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631"
       },

@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "1-800-GHETTOLICIOUS",
+        "url": "https://open.spotify.com/album/2tEztrGiQcQSz0xwWm8t1S"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "1-800-GHETTOLICIOUS",
+      "url": "https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp"
+    },
+    {
+      "album": {
         "name": "100 dollar bill",
         "url": "https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC"
       },
@@ -652,7 +674,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 221757,
       "name": "anxiety",
       "url": "https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI"
@@ -2316,7 +2338,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 329142,
       "name": "crash",
       "url": "https://open.spotify.com/track/5b1wofen7OWP3LpuBPdcX1"
@@ -4538,6 +4560,24 @@
       "duration_ms": 212189,
       "name": "Gutterball",
       "url": "https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS"
+    },
+    {
+      "album": {
+        "name": "h4msterb0y",
+        "url": "https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168236,
+      "name": "h4msterb0y",
+      "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
     },
     {
       "album": {
@@ -8136,7 +8176,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 307237,
       "name": "Pink Television",
       "url": "https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww"
@@ -8802,6 +8842,24 @@
       "duration_ms": 217666,
       "name": "Ribbon Bone [Silk Chaser]",
       "url": "https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb"
+    },
+    {
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/66LEoqBH2wT2IWuYvQGatv"
+      },
+      "artists": [
+        {
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162053,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/7zjXqhQCS40Tl7vT31fBSE"
     },
     {
       "album": {
@@ -9473,6 +9531,24 @@
     },
     {
       "album": {
+        "name": "shy girl",
+        "url": "https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156551,
+      "name": "shy girl",
+      "url": "https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf"
+    },
+    {
+      "album": {
         "name": "silent cries",
         "url": "https://open.spotify.com/album/7J7wBqtYxiYBqYJPiWgovo"
       },
@@ -9608,6 +9684,24 @@
       "duration_ms": 128626,
       "name": "So Beautiful So Lonely",
       "url": "https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v"
     },
     {
       "album": {
@@ -11154,6 +11248,24 @@
       "duration_ms": 239843,
       "name": "Want U",
       "url": "https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo"
+    },
+    {
+      "album": {
+        "name": "Wat Is Die Mo?",
+        "url": "https://open.spotify.com/album/2s1Or2j7XDdEwZvprd37jY"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258591,
+      "name": "Wat Is Die Mo?",
+      "url": "https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY"
     },
     {
       "album": {

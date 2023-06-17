@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 183795,
       "name": "Fragil",
       "url": "https://open.spotify.com/track/5q3uopiV2F4E93vpUO4CAZ"
@@ -5763,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Sentir X2",
+        "url": "https://open.spotify.com/album/1CMbhmxlrmxHa43KPERtAJ"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "Sentir X2",
+      "url": "https://open.spotify.com/track/53aX5ExI71sDKQdKfjcX41"
+    },
+    {
+      "album": {
         "name": "Session #1: Si Alguna Vez / Ven Bailalo /Explicame",
         "url": "https://open.spotify.com/album/5jAxUrZffNBrxuuTL5ExyK"
       },
@@ -6030,7 +6048,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 159980,
       "name": "Sigue Bailando",
       "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
@@ -6168,6 +6186,28 @@
       "duration_ms": 120013,
       "name": "Somos Un Bardo",
       "url": "https://open.spotify.com/track/4DvNXQx1ZM1GESKGKOVAlh"
+    },
+    {
+      "album": {
+        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326437,
+      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "album": {

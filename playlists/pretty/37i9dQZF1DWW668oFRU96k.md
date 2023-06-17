@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Don Diablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,212 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,248 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:50 |
+| 1 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
 | 2 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 |
 | 3 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
 | 4 | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/track/1sbcMH8P8zhtaESyGSNqGo) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Narcyz](https://open.spotify.com/artist/6bXKU7upMry4vNzi4jvgjq), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/album/4iqR1gG0R7QdH8TWKCCyrK) | 3:47 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 63 | [Make Me Feel](https://open.spotify.com/track/4qA6QraYvbvzDPoxBKTzBn) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Desno](https://open.spotify.com/artist/3uEc4hn0m78m2IUWbjzeGb), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Make Me Feel](https://open.spotify.com/album/3PrDUva48XthnMZAjs9tOL) | 2:24 |
 | 64 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 |
 
-Snapshot ID: `MCwxYzg0ZjIxZTVmZGIzMDhkOGQ5Y2M2MGQwN2QxN2JjM2RmZjI1OWYw`
+Snapshot ID: `MCw2M2ZkODYwODE2YTk2YmM0NDhkMzBkMjU4MGJmOGExZDA4ODNhNmE2`

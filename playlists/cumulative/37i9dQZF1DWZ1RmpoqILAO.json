@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Acetone",
+        "url": "https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9"
+      },
+      "artists": [
+        {
+          "name": "Acetone",
+          "url": "https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284706,
+      "name": "Germs",
+      "url": "https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo"
+    },
+    {
+      "album": {
         "name": "Race",
         "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
       },
@@ -889,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/1zfJzvQyJpDBfhJQ2u6Wt6"
+      },
+      "artists": [
+        {
+          "name": "Thank You Thank You",
+          "url": "https://open.spotify.com/artist/4GFoAmLzPM4V8F8HJSVaYA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336273,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/43jnzVXFd2wqAvUolUCPHD"
+    },
+    {
+      "album": {
         "name": "fade into the dawn",
         "url": "https://open.spotify.com/album/6ZXR63Ak9IBfg6NkbBxFKA"
       },
@@ -994,6 +1030,24 @@
       "duration_ms": 228760,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk"
+    },
+    {
+      "album": {
+        "name": "New Music and Big Pop",
+        "url": "https://open.spotify.com/album/5z2BTKi7FQnonynrYUvyEF"
+      },
+      "artists": [
+        {
+          "name": "Another Michael",
+          "url": "https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123306,
+      "name": "I Know You're Wrong",
+      "url": "https://open.spotify.com/track/25SJcZXOn89sHTfP3g5tsu"
     },
     {
       "album": {
@@ -1258,7 +1312,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 202346,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o"
@@ -1982,6 +2036,24 @@
       "duration_ms": 306205,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg"
+    },
+    {
+      "album": {
+        "name": "Let There Be Music",
+        "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
+      },
+      "artists": [
+        {
+          "name": "Bonny Doon",
+          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "You Can't Stay The Same",
+      "url": "https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K"
     },
     {
       "album": {

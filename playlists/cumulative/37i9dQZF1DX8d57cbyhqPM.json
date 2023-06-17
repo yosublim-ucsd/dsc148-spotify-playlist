@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Gaz Mawete, Niska",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: LU KALA",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -3515,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl Pack",
+        "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
+    },
+    {
+      "album": {
         "name": "Pusana",
         "url": "https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD"
       },
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 225882,
       "name": "Uzima",
       "url": "https://open.spotify.com/track/3fP4ZHQt9F7SjUwrrQDrBN"

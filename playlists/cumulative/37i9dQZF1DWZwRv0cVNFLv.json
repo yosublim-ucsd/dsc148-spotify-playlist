@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 119624,
       "name": "Afternoon in the City",
       "url": "https://open.spotify.com/track/6eSFO5nwz7frQXBsc31rXf"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118000,
       "name": "Big City Sleep",
       "url": "https://open.spotify.com/track/3YTTv6E8i3riJXqdymuTmN"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 98000,
       "name": "City Never Sleeps",
       "url": "https://open.spotify.com/track/5d4jVU7RiGwTqk0TpcAMJI"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 87933,
       "name": "City Square with Birds & Traffic in Portugal",
       "url": "https://open.spotify.com/track/1KVmAhOs5o4TiT6hHPr2Je"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 62136,
       "name": "Clear Mind City Din",
       "url": "https://open.spotify.com/track/4kCFKM6Ps8MzR6mriQvFPM"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 80949,
       "name": "Franklin Avenue",
       "url": "https://open.spotify.com/track/2POfSpfxyOjn9IHGzl2OQc"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118980,
       "name": "Heavy Clouds Above Chicago",
       "url": "https://open.spotify.com/track/5eVHiMnuAd8NN6n5syKAQX"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 108320,
       "name": "Industrial City",
       "url": "https://open.spotify.com/track/1VH1XeAPZaY8wrCdsL2cQA"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 89334,
       "name": "Industrial City - Pt. 2",
       "url": "https://open.spotify.com/track/78sxt5ksM9GL5FldgYd6zV"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194000,
       "name": "It's Raining In Berlin",
       "url": "https://open.spotify.com/track/2pEWKDpJicPEyDzPxgN3aX"
@@ -2588,10 +2588,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 119931,
       "name": "Pavement Stories",
       "url": "https://open.spotify.com/track/5lNmNRXuALnIqCTz1LegwP"
+    },
+    {
+      "album": {
+        "name": "Cityscape Sonatas",
+        "url": "https://open.spotify.com/album/3hrXUj7d7xIOIPu1IJK8vd"
+      },
+      "artists": [
+        {
+          "name": "Noise Guy",
+          "url": "https://open.spotify.com/artist/13XyCgtgurziefh3hzRgDE"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171313,
+      "name": "Pedestrian Polyphony",
+      "url": "https://open.spotify.com/track/1CjB55zt9ct9AlXR8UfdAL"
     },
     {
       "album": {
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 107756,
       "name": "Raindrops Hits The Streets",
       "url": "https://open.spotify.com/track/0vsM4LVhSLYKAjC2ZkVdZ6"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118000,
       "name": "Sidewalk ASMR",
       "url": "https://open.spotify.com/track/0ri2AOA1LChVBdQSu3Ygrk"
@@ -3225,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Urban Lullaby",
+        "url": "https://open.spotify.com/album/4zzE03k4J9NzRhUw60qQys"
+      },
+      "artists": [
+        {
+          "name": "Focus Finders",
+          "url": "https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165950,
+      "name": "Subway Sonata",
+      "url": "https://open.spotify.com/track/71OdhZZF1eaN3RF9LREJbG"
+    },
+    {
+      "album": {
         "name": "Summer in the City",
         "url": "https://open.spotify.com/album/4oqTptfIwOGFgY647pVqjX"
       },
@@ -3344,7 +3380,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 110250,
       "name": "Summers Night",
       "url": "https://open.spotify.com/track/5KIIw1k2WU7Q3PraHEz6Rn"
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 99149,
       "name": "The City",
       "url": "https://open.spotify.com/track/3h0Hi097rChSthVsHAArcR"
@@ -3434,7 +3470,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152250,
       "name": "The Sun is Out in NYC",
       "url": "https://open.spotify.com/track/0x1is2jRjsfRZ0pxhjVGon"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 66046,
       "name": "Town Easeful Noise",
       "url": "https://open.spotify.com/track/2er9SzyHBfCWB7hwJdnCvs"
@@ -3603,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Pedestrian Polyphony",
+        "url": "https://open.spotify.com/album/43cBHNqI1o8N8El4tK6I4J"
+      },
+      "artists": [
+        {
+          "name": "Perfect Zounds",
+          "url": "https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168271,
+      "name": "Traffic Tango",
+      "url": "https://open.spotify.com/track/0sGV5nHxDO4CVuSV1wjv2v"
+    },
+    {
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/6FkxZG7QSMaH5cOOVcb5Zm"
       },
@@ -3668,7 +3722,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 87144,
       "name": "Underneath the Overpass",
       "url": "https://open.spotify.com/track/6kTAQkIqfAxZk67Tc0btbk"
@@ -3748,7 +3802,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 117773,
       "name": "Urban Commute",
       "url": "https://open.spotify.com/track/3JEsWPI5oDNuWOJ7gxvI20"
@@ -3856,7 +3910,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 114491,
       "name": "Vibrant City Noise",
       "url": "https://open.spotify.com/track/17Ypfdbh3t0W1iN38gfvSj"
@@ -3964,7 +4018,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 112246,
       "name": "Wet Avenues",
       "url": "https://open.spotify.com/track/22kvsX0KEBmHTaIUAFClOZ"

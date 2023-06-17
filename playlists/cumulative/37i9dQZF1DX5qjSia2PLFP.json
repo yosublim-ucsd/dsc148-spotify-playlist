@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=38d777c33e67427b\">Jastin Martin</a>",
+  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM?si=eENozeDUSaypJbFm0KOf1Q\">Foggieraw</a>",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -4256,6 +4256,24 @@
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
+    },
+    {
+      "album": {
+        "name": "Psalm 62 / Ms. Johnson",
+        "url": "https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "Psalm 62",
+      "url": "https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp"
     },
     {
       "album": {

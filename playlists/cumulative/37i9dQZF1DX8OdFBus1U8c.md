@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
 
-68 songs - 3 hr 55 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Hey Nima](https://open.spotify.com/track/5PUkJvKMnevgDUktjt5DR2) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Hey Nima](https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY) | 2:44 | 2022-06-23 |  |
 | [Hope](https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:18 | 2022-06-23 |  |
 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 | 2022-04-18 |  |
+| [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 |  |
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-07-13 |  |
 | [Kalapila \- V3K Remix](https://open.spotify.com/track/45U5zq3Y9gQqMPlRGJQKK6) | [Street Academics](https://open.spotify.com/artist/0LZRSRpEniupzKWif9FXh6), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Loop Flip](https://open.spotify.com/album/3JnHc13jZk30WkcSCE1Te2) | 3:21 | 2022-04-18 |  |
 | [Karayunnathu Enthina](https://open.spotify.com/track/2Iyyorj6O6HX5aCvlkdEJU) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Karayunnathu Enthina](https://open.spotify.com/album/1gz55jhUDXOmFkOFuUCCkw) | 4:31 | 2022-06-23 |  |

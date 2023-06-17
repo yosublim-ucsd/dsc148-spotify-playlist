@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-510 songs - 1 day 4 hr 35 min
+511 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Chove Muito, Chove Tanto](https://open.spotify.com/track/5myCd2BltCXXFEdN92iWYg) | [Amélia Muge](https://open.spotify.com/artist/0iru4sRcRUOQFbXFMSqaJ1) | [Chove Muito, Chove Tanto](https://open.spotify.com/album/06vgS4jdbDAcTbyjx4beJg) | 4:42 | 2022-03-08 | 2022-05-04 |
 | [Ciclotímica](https://open.spotify.com/track/6iRqi6osMLqNR3AbfKpPxy) | [Joana Alegre](https://open.spotify.com/artist/3cNMSW7AIN2WILAlRBU2cX) | [Ciclotímica](https://open.spotify.com/album/4EODRTMm31uX3Nk31XnBxa) | 2:57 | 2023-06-06 |  |
 | [Cinderela](https://open.spotify.com/track/04mKt0HdrDcJmpgR0uneEz) | [Vandex](https://open.spotify.com/artist/2YS9UTLtV8gkc4AfEOIgUj), [Deejay Rifox](https://open.spotify.com/artist/3Hl21P35ibOe7iYpN0fDMs) | [Cinderela](https://open.spotify.com/album/1V0Ls9r3g67XK6xjvDooOO) | 3:40 | 2022-03-08 | 2022-05-04 |
-| [CLOUD9](https://open.spotify.com/track/0RNioHzDaC9I3sEzcv0hCA) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/1j4FvFcZSOPY3b52Ima9xf) | 3:00 | 2023-06-06 |  |
+| [CLOUD9](https://open.spotify.com/track/0RNioHzDaC9I3sEzcv0hCA) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/1j4FvFcZSOPY3b52Ima9xf) | 3:00 | 2023-06-06 | 2023-06-17 |
+| [CLOUD9](https://open.spotify.com/track/4jOKO3hmLAWVDHYfCnHgbe) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/5JSqHaWbLR4UD8grN2ZeSa) | 3:00 | 2023-06-06 |  |
 | [Clouds](https://open.spotify.com/track/1bL0YIoydaag05wXcMLKCR) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Clouds](https://open.spotify.com/album/5U6yQtanwTiGlhLFlGIA6L) | 2:57 | 2022-07-05 | 2022-10-05 |
 | [Cobertor](https://open.spotify.com/track/7htZn0HT8kLQh6XlLoCKTi) | [Bia Maria](https://open.spotify.com/artist/5XA2sW4LpcNfWGhk4OPXfk) | [do Roberto](https://open.spotify.com/album/6OuoB1F9mPRS5CF1m4VQSR) | 2:47 | 2022-03-08 | 2022-06-01 |
 | [Coisas do Amor](https://open.spotify.com/track/0j3DDzUYyXxm59BN2c9fxl) | [Bell](https://open.spotify.com/artist/2MzxmqsbCtVa8qTZMDLBqh) | [Coisas do Amor](https://open.spotify.com/album/7lRhmURhIOWv3dQ0MlLPlH) | 3:57 | 2022-05-31 | 2022-09-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Fito Paez.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Barbi Recanati.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -166,6 +166,24 @@
       "duration_ms": 167115,
       "name": "Amor en Pandemia",
       "url": "https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7"
+    },
+    {
+      "album": {
+        "name": "El Final de Las Cosas",
+        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Arte Arte Arte",
+      "url": "https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG"
     },
     {
       "album": {
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 260269,
       "name": "Dulce",
       "url": "https://open.spotify.com/track/00qJ7UYGzz0STfuBaJzaP5"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 242489,
       "name": "En este barco",
       "url": "https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 225206,
       "name": "Ese Tren (feat. Skay Beilinson)",
       "url": "https://open.spotify.com/track/0BF8OUoMz4w4EHzqKV5TpY"
@@ -2481,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Otra Mujer",
+        "url": "https://open.spotify.com/album/7hSj4klGfJyqPnzwd4zmia"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142723,
+      "name": "Otra Mujer",
+      "url": "https://open.spotify.com/track/3mUo4j1R22tJQdwPxENW8P"
+    },
+    {
+      "album": {
         "name": "Otra Ruta Desierta",
         "url": "https://open.spotify.com/album/3Hf6g8dV0gq91YHfYaly9G"
       },
@@ -2862,6 +2902,24 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+    },
+    {
+      "album": {
+        "name": "Mienten",
+        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277077,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
     },
     {
       "album": {

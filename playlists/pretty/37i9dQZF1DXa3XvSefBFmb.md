@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,631 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,648 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 33 | [Primavera Deserta](https://open.spotify.com/track/1ASX3mr0wsdNpSzh0IUIIj) | [sús](https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc) | [Primavera Deserta](https://open.spotify.com/album/4AWZ8MwWApYcJLEObUx2Ds) | 3:42 |
 | 34 | [Nem Sempre](https://open.spotify.com/track/1IUrLgRwUVWodC1QP3mThP) | [Sónia Oliveira](https://open.spotify.com/artist/2NmcmBh9sd9iE6jG965wEj) | [Nem Sempre](https://open.spotify.com/album/6UqS4IcLWpIjjThu92h0xg) | 3:16 |
 | 35 | [Ligações](https://open.spotify.com/track/0SFC7HQ6xTZWXesf7n8yPe) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Ligações](https://open.spotify.com/album/7I6lqtzWlsmZib4SmjfSd7) | 2:55 |
-| 36 | [CLOUD9](https://open.spotify.com/track/0RNioHzDaC9I3sEzcv0hCA) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/1j4FvFcZSOPY3b52Ima9xf) | 3:00 |
+| 36 | [CLOUD9](https://open.spotify.com/track/4jOKO3hmLAWVDHYfCnHgbe) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/5JSqHaWbLR4UD8grN2ZeSa) | 3:00 |
 | 37 | [Tá Doce](https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Tá Doce](https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc) | 3:24 |
 | 38 | [Flowers](https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump In](https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc) | 3:37 |
 | 39 | [Mar](https://open.spotify.com/track/0Joac5NVqcHTY255oDqdSH) | [Lídia Carolina](https://open.spotify.com/artist/7m8admPxVK23NBb2zeH7wD) | [Mar](https://open.spotify.com/album/7llq0ooG1HZEnBOvyn13dk) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Confortable](https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Confortable](https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y) | 2:48 |
 | 50 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
 
-Snapshot ID: `MCxhMTZiOWUzY2NlM2NmOTgzOTI0NTgzMDhjOGJiYjZlOTc1MzMzZDI1`
+Snapshot ID: `MCxhN2MwYWE2YTFlYTViMWQzODUzOGRhYTg2YzIzZTJlODJiMDhjNzgy`

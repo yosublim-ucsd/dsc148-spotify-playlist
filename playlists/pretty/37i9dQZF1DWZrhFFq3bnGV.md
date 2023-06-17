@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,325 likes - 113 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,360 likes - 113 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 66 | [L'arc en ciel](https://open.spotify.com/track/6i2wBBpMnen68NQxMHZqgS) | [Madame & Toean](https://open.spotify.com/artist/3qJ0WDJjy8j5LuJc5updgi) | [L'arc en ciel](https://open.spotify.com/album/1PudlIkTLY2c1A2CtpURj6) | 4:38 |
 | 67 | [Senandung Saja](https://open.spotify.com/track/2yWtnT8eqlv7O6UU1P3xeR) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Senandung Saja](https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh) | 3:50 |
 | 68 | [ATARAXIA](https://open.spotify.com/track/0DP0HQi7iQza3HlVaWcgCV) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [ATARAXIA](https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN) | 4:43 |
-| 69 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 |
+| 69 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 |
 | 70 | [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 |
 | 71 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 |
 | 72 | [In the Night](https://open.spotify.com/track/1rdH5fBweoMY9TxYjlGh3c) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [In the Night](https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b) | 4:05 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 112 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 113 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `MCwwMGQyYWIzYjUyNTJiYTQ5Mjc2ZTI3YzVmMjE5MmIyNDNjYjE2NmFk`
+Snapshot ID: `MCw4NTcyNzg2NDIxMmYzYjUxNjc4ZmYxYmUwOThiMTkxZWZjZTZlZTA1`

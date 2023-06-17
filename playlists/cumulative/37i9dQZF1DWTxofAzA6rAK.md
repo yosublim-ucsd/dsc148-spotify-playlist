@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-185 songs - 9 hr 9 min
+186 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [From Rags to Riches](https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [From Rags to Riches](https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp) | 3:17 | 2021-10-20 |  |
 | [Gal Academy](https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P) | [DiCelebrityy](https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Gal Academy](https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6) | 3:11 | 2023-05-15 |  |
 | [Geet Weh](https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL) | [Silk Boss](https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF), [Terro Don](https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7) | [Geet Weh](https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635) | 2:51 | 2021-10-20 |  |
-| [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 | 2023-05-15 |  |
+| [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 | 2023-05-15 | 2023-06-17 |
+| [Glock 40](https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH) | 2:16 | 2023-05-24 |  |
 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 | 2021-10-20 |  |
 | [Good Feeling](https://open.spotify.com/track/5tqwkL3YOAGIfUHuaD7z01) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [Good Feeling](https://open.spotify.com/album/24uvA5S694cXu1cgwENmXZ) | 2:36 | 2023-05-15 |  |
 | [GPP](https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW) | 3:13 | 2023-05-15 |  |

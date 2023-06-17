@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-453 songs - 1 day 1 hr 28 min
+455 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-06-29 | 2022-09-17 |
 | [REDEEMED](https://open.spotify.com/track/2A2As8QMLjZ7e9r1MwOYsm) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [REDEEMED](https://open.spotify.com/album/1USkfbi24Wh0VDk6nYEdgF) | 2:59 | 2021-12-07 | 2022-01-08 |
 | [Reflections \- il:lo Remix](https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Reflections \(il:lo Remix\)](https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV) | 6:00 | 2022-01-14 | 2022-02-01 |
+| [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:50 | 2023-06-16 |  |
 | [Regret](https://open.spotify.com/track/1AVVqsv3ZtP0ZP9pfhs6Aw) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:16 | 2021-08-19 | 2022-02-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-09 |  |
 | [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-10-22 | 2023-01-30 |
@@ -363,6 +364,7 @@
 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 | 2023-06-15 |  |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-31 |  |
 | [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-01-11 |  |
+| [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 | 2023-06-16 |  |
 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 | 2022-03-25 | 2022-06-25 |
 | [so far](https://open.spotify.com/track/4bf50Hgiy5Gp34wvVQwJMR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [so far](https://open.spotify.com/album/6QSICshuXYVvfYyXaHklLP) | 3:36 | 2022-06-27 | 2023-04-01 |
 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 | 2022-03-29 | 2022-09-19 |

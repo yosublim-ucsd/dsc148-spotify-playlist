@@ -3207,6 +3207,32 @@
     },
     {
       "album": {
+        "name": "Roothoppas (Remix)",
+        "url": "https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Roothoppas - Remix",
+      "url": "https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3"
+    },
+    {
+      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
       },

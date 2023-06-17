@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Peso Pluma en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Iv\u00e1n Cornejo en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 196693,
       "name": "Este Sentimiento",
       "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
@@ -1096,6 +1096,28 @@
       "duration_ms": 355500,
       "name": "Hoja en Blanco (En Vivo)",
       "url": "https://open.spotify.com/track/1HMMX7aLMHxLbpMTRGhV2k"
+    },
+    {
+      "album": {
+        "name": "Hoy Toco La Luna",
+        "url": "https://open.spotify.com/album/0T9bLYnoIJn0ffqbyhl83P"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "Hoy Toco La Luna",
+      "url": "https://open.spotify.com/track/1AIp8XDmpIbtCuCMnSZt1v"
     },
     {
       "album": {
@@ -1818,6 +1840,24 @@
       "duration_ms": 251981,
       "name": "NO SE VA",
       "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Confundido",
+        "url": "https://open.spotify.com/album/5TCnntTixw3ZRlIfghFYzE"
+      },
+      "artists": [
+        {
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223328,
+      "name": "No te comparas",
+      "url": "https://open.spotify.com/track/7HyCxqj6QSH6XDpyfooAlo"
     },
     {
       "album": {

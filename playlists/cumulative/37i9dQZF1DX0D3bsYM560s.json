@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Common Nation Of Sorrow",
+        "url": "https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq"
+    },
+    {
+      "album": {
         "name": "Just You Wait And See",
         "url": "https://open.spotify.com/album/3ssgqsQBFmoGsMANTmDr9L"
       },

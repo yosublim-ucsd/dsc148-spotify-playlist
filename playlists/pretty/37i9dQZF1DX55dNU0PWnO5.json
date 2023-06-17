@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 555568,
+  "num_followers": 555719,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGM2M2Q5MzM2M2M3NjQxYWM0YTk0OGViNzExNDdmMjAwZGRlZWQ1",
+  "snapshot_id": "MCxjMDA2NzBjNTIyYmViYzIwZWZjOGVjMjQ1MDFkODg2YWMwOTczYWE2",
   "tracks": [
     {
       "added_at": "2023-03-17 05:00:00",
@@ -47,6 +47,34 @@
       "duration_ms": 205334,
       "name": "Diamond Exchange",
       "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "ZensBingBing",
+        "url": "https://open.spotify.com/album/1CPzJclTmYS3nw4j1A6VTD"
+      },
+      "artists": [
+        {
+          "name": "Yami Maho",
+          "url": "https://open.spotify.com/artist/1b8Y6QDVYeRFCCMYbFiEOg"
+        },
+        {
+          "name": "Shusty Bones",
+          "url": "https://open.spotify.com/artist/0dum3gPF36BAH4BH15cwhu"
+        },
+        {
+          "name": "young.vishnu",
+          "url": "https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2"
+        },
+        {
+          "name": "Pachakuti",
+          "url": "https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr"
+        }
+      ],
+      "duration_ms": 261616,
+      "name": "ZensBingBing",
+      "url": "https://open.spotify.com/track/6qrmFliWht8z0TLF3hNpIi"
     },
     {
       "added_at": "2023-01-20 05:01:00",

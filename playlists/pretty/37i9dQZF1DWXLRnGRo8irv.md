@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: MIRANI\(미란이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,055 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,051 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 13 | [Riding a T\-Rex](https://open.spotify.com/track/5j7H4npdgXlvPIR56Zbvqo) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [Riding a T\-Rex](https://open.spotify.com/album/3xqLXnGvcIYtASbRTgzNn0) | 2:13 |
 | 14 | [To Me](https://open.spotify.com/track/37PbwartKkgaD6DdnZ41fG) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [To Me](https://open.spotify.com/album/2KGBvltgIdhgHbSR0K8umj) | 2:40 |
 | 15 | [Songs of the sea](https://open.spotify.com/track/21sbCAyyXqa1nl552ucbpZ) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Songs of the sea](https://open.spotify.com/album/02U1hunoosR7waTm8IhDyG) | 2:41 |
-| 16 | [Behind](https://open.spotify.com/track/6VuM6TdAwEK8EGp4D13fcm) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Battle for Happiness Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5AbBltNjbi4kPgk4x1vOWx) | 3:26 |
+| 16 | [Behind](https://open.spotify.com/track/6VuM6TdAwEK8EGp4D13fcm) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Battle for Happiness, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5AbBltNjbi4kPgk4x1vOWx) | 3:26 |
 | 17 | [Love is painful](https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Love is painful](https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV) | 4:21 |
 | 18 | [Now running to you](https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Now running to you](https://open.spotify.com/album/4uCUkLnuQRwN2wtcjaL0TH) | 3:32 |
 | 19 | [Blue diary \(feat\. Soyoungyi\)](https://open.spotify.com/track/5kQ1kCdvvE8eooOTDBRwDU) | [Merry apple](https://open.spotify.com/artist/5jLbdBV5BOGMTfzq9aWrcJ), [Soyoungyi](https://open.spotify.com/artist/4LoJxNYfVRitb41fJOsobZ) | [Blue diary](https://open.spotify.com/album/2tJpnHomdPetMl6BGM5XA4) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Dear\. Lover](https://open.spotify.com/track/1RwrqJ7EZ04tmZF9OwuTAu) | [Eun ga eun](https://open.spotify.com/artist/1JPXmbnND19OQQSPUKTUh5) | [Dear\. Lover](https://open.spotify.com/album/3P5YCSyOES0GGx3mAmRoif) | 4:19 |
 | 50 | [사랑아니](https://open.spotify.com/track/0lTm6JcmK5NHxecF6jMR5N) | [Eun ga eun](https://open.spotify.com/artist/1JPXmbnND19OQQSPUKTUh5) | [사랑아니](https://open.spotify.com/album/3Bt6YMtt96nyis5TwUCU0J) | 3:00 |
 
-Snapshot ID: `MCxlNmNiN2U5MmE1ZjE5MzIxYThiOTQyNzQwMzdmMTIxYmYzZDY5YmMx`
+Snapshot ID: `MCxlN2IzNjc1ZmYyOTYwNGJlMGRlMzNkNWI3ZTEzNTY4NmY5ZTQ4MzFh`

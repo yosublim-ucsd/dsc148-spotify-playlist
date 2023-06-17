@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Bae",
+        "url": "https://open.spotify.com/album/7nklb4pTharrigbkpKw6Td"
+      },
+      "artists": [
+        {
+          "name": "Elm Tree Circle",
+          "url": "https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148563,
+      "name": "Bae",
+      "url": "https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 233600,
       "name": "Be My Blues",
       "url": "https://open.spotify.com/track/5O8B5mYkwOCEVjV9P3qgy1"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201400,
       "name": "Big Bite",
       "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
@@ -730,6 +748,24 @@
       "duration_ms": 161714,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI"
+    },
+    {
+      "album": {
+        "name": "BORED",
+        "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
+      },
+      "artists": [
+        {
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206997,
+      "name": "BORED",
+      "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
     },
     {
       "album": {
@@ -1734,7 +1770,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 185240,
       "name": "Donnybrook",
       "url": "https://open.spotify.com/track/6g4avUTyT6Xoafkoat4Zb1"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 202207,
       "name": "Drain",
       "url": "https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5"
@@ -2704,7 +2740,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 227218,
       "name": "Grow",
       "url": "https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY"
@@ -2816,6 +2852,24 @@
       "duration_ms": 312610,
       "name": "Heavy Is The Ocean",
       "url": "https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Dress",
+        "url": "https://open.spotify.com/album/1j7T5X2MkqU87bdXRjJkOD"
+      },
+      "artists": [
+        {
+          "name": "Settle",
+          "url": "https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251519,
+      "name": "Her Favorite Dress",
+      "url": "https://open.spotify.com/track/3s36qJjFzPoBhal1yY2lpj"
     },
     {
       "album": {
@@ -3857,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "health",
+        "url": "https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170823,
+      "name": "medicine",
+      "url": "https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4"
+    },
+    {
+      "album": {
         "name": "Micro Aggression",
         "url": "https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z"
       },
@@ -4668,6 +4740,24 @@
       "duration_ms": 225240,
       "name": "Paranoid Letter",
       "url": "https://open.spotify.com/track/0HyJRKGRYWtUdcaB397fDR"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/0tnF85Qv9oNbmb5JLjPwrJ"
+      },
+      "artists": [
+        {
+          "name": "cursetheknife",
+          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230617,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/3arD7QPp1MCbaNT5DraorN"
     },
     {
       "album": {
@@ -6062,6 +6152,24 @@
       "duration_ms": 176799,
       "name": "talking to the drugs",
       "url": "https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT"
+    },
+    {
+      "album": {
+        "name": "Pyrophonics",
+        "url": "https://open.spotify.com/album/1gJ0OUh09ZHCCN8u9DSvkB"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230181,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX"
     },
     {
       "album": {

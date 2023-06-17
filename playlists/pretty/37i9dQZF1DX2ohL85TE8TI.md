@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Dr\. Romantic\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 낭만닥터 김사부\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,212 likes - 104 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,333 likes - 104 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 5 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 |
 | 6 | [Susanne](https://open.spotify.com/track/7AyrPPnMRQktj7mdoWUP2n) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [My Perfect Stranger OST Part.4](https://open.spotify.com/album/27Hkb4e9GNyfZVEuY8O6aj) | 3:35 |
 | 7 | [Part of Your World \- From "The Little Mermaid"/Korean Soundtrack Version](https://open.spotify.com/track/2ouYvmVxhKfNR1LHrMLHqM) | [Danielle](https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY) | [Part of Your World \(From "The Little Mermaid"/Korean Soundtrack Version\)](https://open.spotify.com/album/29U7Nu19hGHuNYDSBuhNgN) | 3:34 |
-| 8 | [Behind](https://open.spotify.com/track/6VuM6TdAwEK8EGp4D13fcm) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Battle for Happiness Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5AbBltNjbi4kPgk4x1vOWx) | 3:26 |
+| 8 | [Behind](https://open.spotify.com/track/6VuM6TdAwEK8EGp4D13fcm) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Battle for Happiness, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5AbBltNjbi4kPgk4x1vOWx) | 3:26 |
 | 9 | [As the Moon Embraces the Waves](https://open.spotify.com/track/0lxVu29tReGIrXNOmfWK6Q) | [LUDA](https://open.spotify.com/artist/7g7r9PureqFENCWvOU3RyJ), [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Rinza Noodle House \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6UG5Ax9TQBoUF9eBsoTwHG) | 3:20 |
 | 10 | [I'm Still You](https://open.spotify.com/track/0AopwjvGx6yY68V8uxARqv) | [or&](https://open.spotify.com/artist/4no4PT1TpWv2dLToYVUXpl) | [Woman in a Veil \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0OlsGllt2gwn0TYkoXCEok) | 3:31 |
 | 11 | [Step](https://open.spotify.com/track/1DGoluJIZMwilqWh4qfrR3) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Perfect Stranger OST Part.5](https://open.spotify.com/album/3Tw2db9aECq79ynM7HegtX) | 4:13 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 103 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 104 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 |
 
-Snapshot ID: `MCwxNjljZGYwNWZhMjNiZjlmYzYyZWJkOGE0M2QxNWRlNjM5MDBmNTUz`
+Snapshot ID: `MCw4ZTFhYjAxMThkNjhmNTk4MmJlZTY5NTdlZmFmNjVlZTk4Mzk2OTQx`

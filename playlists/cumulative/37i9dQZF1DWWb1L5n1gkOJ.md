@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-139 songs - 6 hr 34 min
+140 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blastoff](https://open.spotify.com/track/4lBx54a1sJREjMjjK8NlSZ) | [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Blastoff](https://open.spotify.com/album/4VBSe7kVHOwuCdQvwIRlhr) | 2:14 | 2022-10-12 |  |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2022-10-12 |  |
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2022-10-12 |  |
+| [Can and Knot](https://open.spotify.com/track/0d6Lz96d0GCqK9i4z639qC) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Can and Knot](https://open.spotify.com/album/1rYKaIyuADf3eWTNA6bExE) | 3:35 | 2023-06-16 |  |
 | [Circadian Rhythm](https://open.spotify.com/track/3m9NEFjwEFYj9wrv2f7t30) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Circadian Rhythm](https://open.spotify.com/album/3Fcw5o1jdQqnEFi669cUIr) | 2:30 | 2022-10-12 | 2023-04-29 |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-10-12 |  |
 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 | 2022-10-12 | 2023-04-22 |
@@ -70,7 +71,7 @@
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-10-12 |  |
 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-10-12 |  |
 | [Jane 9](https://open.spotify.com/track/4Qp5A3JbBBtMhW9WYGKlHA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 2:27 | 2022-10-12 | 2022-11-23 |
-| [La Rivière](https://open.spotify.com/track/3Hogl67zIDB7K6bEcrICw1) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Rivière](https://open.spotify.com/album/11xUB3vwqMUv0frZJ8tXhQ) | 2:12 | 2022-10-12 |  |
+| [La Rivière](https://open.spotify.com/track/3Hogl67zIDB7K6bEcrICw1) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Rivière](https://open.spotify.com/album/11xUB3vwqMUv0frZJ8tXhQ) | 2:12 | 2022-10-12 | 2023-06-17 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-11-22 |  |
 | [Laten gaan](https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Laten gaan](https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6) | 3:28 | 2023-01-20 |  |
 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 | 2022-10-12 |  |

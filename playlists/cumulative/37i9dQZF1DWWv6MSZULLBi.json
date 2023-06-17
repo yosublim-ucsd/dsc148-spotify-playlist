@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
+  "description": "A laid-back trip in the folk scene. Cover: Ben Harper",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 180782,
       "name": "Drive You Home",
       "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
@@ -5235,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "My Old Man",
+        "url": "https://open.spotify.com/album/03JXfzPjyNoCaRNraHdokq"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203046,
+      "name": "My Old Man",
+      "url": "https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi"
+    },
+    {
+      "album": {
         "name": "Never Been More In Love",
         "url": "https://open.spotify.com/album/0eQEOoFPiaBxLK49FioYwM"
       },
@@ -7898,7 +7916,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 202400,
       "name": "Treasure Hunt",
       "url": "https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP"
@@ -8234,6 +8252,24 @@
       "duration_ms": 187453,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0EYRoOj0iS2XoNIDIVreos"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244693,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3ZZ3HAADbUCytfsFuk70Mm"
     },
     {
       "album": {

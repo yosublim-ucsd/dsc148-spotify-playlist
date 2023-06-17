@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=71667f9942c74486">Tasha Cobbs Leonard</a>
+> New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK?si=yb\-eper7R3u5zqUir9aARg">Melvin Crispell III</a>
 
-321 songs - 1 day 3 hr 37 min
+323 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue) | [Shontelle Norman\-Beatty](https://open.spotify.com/artist/7v8SIpv9peJmgRSROMQ2NX) | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/album/5kwykZUsyHdpcRaflSv7XC) | 4:08 | 2022-02-18 | 2022-10-01 |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 | 2022-02-18 | 2022-05-20 |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\) \- Radio Version](https://open.spotify.com/track/0f123s4v9Azuv3jT8ZMCAU) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh Deluxe \- EP](https://open.spotify.com/album/0KZjBhmpeMzU5kRYB059x2) | 4:44 | 2022-11-11 |  |
+| [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 | 2023-06-16 |  |
 | [joyful](https://open.spotify.com/track/1Eg2byzEpuiG5rM5PUFVAt) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [joyful](https://open.spotify.com/album/57XPU0P5oh5VlO9wfR6EK1) | 2:16 | 2022-02-18 | 2022-07-16 |
 | [Jump Ship \- Live](https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:50 | 2022-02-18 | 2022-08-06 |
 | [Just Like God](https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj) | 3:00 | 2022-02-18 | 2022-05-28 |
@@ -205,6 +206,7 @@
 | [Never Lost \(feat\. Joe L Barnes, Lizzie Morgan & Melvin Crispell III\)](https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 13:13 | 2022-02-18 | 2022-04-29 |
 | [Never Would Have Made It \- Movie Soundtrack Single](https://open.spotify.com/track/5J2yBdJdyZdg1FaQgrCAWm) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Never Would Have Made It](https://open.spotify.com/album/5Ql1gaV8qoM6RIcD44Ty9N) | 4:28 | 2022-08-19 |  |
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-05-27 | 2022-06-11 |
+| [No Failure \(Hymn\)](https://open.spotify.com/track/35LWvBeu7NgSsp80iksPfg) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [No Failure](https://open.spotify.com/album/7epFPMHDz253KGhJbvn1fm) | 11:17 | 2023-06-16 |  |
 | [No Greater Love](https://open.spotify.com/track/4Sg882Wev4lELJwfKZUSWQ) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [No Greater Love](https://open.spotify.com/album/68nNR4DGruSxsWnhVZMyEd) | 4:48 | 2022-02-18 | 2022-07-16 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-02 |  |
 | [No Weapon \- Live](https://open.spotify.com/track/4hASz5Bp3VYs2D1j91Lz7R) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [No Weapon \(Live\)](https://open.spotify.com/album/2Sbxlw1WYFQKb3GISnsvJk) | 4:50 | 2023-05-19 |  |

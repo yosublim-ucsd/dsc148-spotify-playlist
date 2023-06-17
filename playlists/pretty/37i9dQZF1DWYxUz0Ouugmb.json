@@ -1,15 +1,47 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Nadhif Basalamah",
-  "num_followers": 32750,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Naura Ayu",
+  "num_followers": 32777,
   "original_name": "RADAR Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmFiN2UwMGVmNzE2YjAyMTlhZjRjYzM3YjMzY2JlNjk0Y2M5YmZj",
+  "snapshot_id": "MCxiZmNjMTljMmQzZDlmODgyNzVlMTdjNjliNmZkZDNmYzE5OGM1Y2Iw",
   "tracks": [
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "duration_ms": 226989,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/5GoL66KMxK545exM1BR43t"
+    },
+    {
+      "added_at": "2023-06-16 04:10:56",
+      "album": {
+        "name": "No Direction",
+        "url": "https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF"
+      },
+      "artists": [
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        }
+      ],
+      "duration_ms": 146024,
+      "name": "No Direction",
+      "url": "https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU"
+    },
+    {
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Never Let You Go (From \"Mozachiko\")",
         "url": "https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/0Vk3H9BNPmaa6Be1RGpy4V"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Apa Mungkin",
         "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Tak Ingin Kau Terluka",
         "url": "https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Masa Sepi",
         "url": "https://open.spotify.com/album/264G53YN0qa679J5JEDtkg"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Perspektif",
         "url": "https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Somebody's Pleasure",
         "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Pergi",
         "url": "https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Orang Ketiga (Live)",
         "url": "https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Tertawan Hati",
         "url": "https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Jalan Tengah",
         "url": "https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "After School Sad Session",
         "url": "https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Engkaulah Satu Satunya",
         "url": "https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "MR.MARIPOSA (feat. Kinder Bloomen)",
         "url": "https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/3qe11lCOsFOHseZBUAxbzY"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "wonder in time",
         "url": "https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/53CpvxwErRmB830L8BrpUL"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Kamu Kurang Usaha",
         "url": "https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "The Folk: Side A",
         "url": "https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "KAWASAKI",
         "url": "https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "MY FIRST FRIEND",
         "url": "https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Cinta",
         "url": "https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Terbuai Cinta Palsu",
         "url": "https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Cara Mencintaimu",
         "url": "https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Get Closer with For Revenge",
         "url": "https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "wonder in time",
         "url": "https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "terima kasih",
         "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Menikmati Sedih",
         "url": "https://open.spotify.com/album/6YvHggy1I85hyUcPw2uXpZ"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/2heuYHKwBHBPlZXwBzgPKR"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Amin Kita Beda",
         "url": "https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR"
     },
     {
-      "added_at": "2023-06-01 17:00:00",
+      "added_at": "2023-06-16 04:10:56",
       "album": {
         "name": "Cinta Air Mata",
         "url": "https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp"

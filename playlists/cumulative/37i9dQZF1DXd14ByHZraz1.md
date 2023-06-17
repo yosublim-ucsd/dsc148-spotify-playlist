@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-129 songs - 6 hr 35 min
+130 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 | 2021-12-24 | 2022-04-09 |
 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 | 2022-05-20 | 2023-01-21 |
 | [The Drop \- Öwnboss Remix](https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop \(Ownboss Remix\)](https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR) | 2:56 | 2022-12-23 |  |
+| [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 | 2023-06-16 |  |
 | [The Upside Down](https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [hollywhaaat](https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ) | [The Upside Down](https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud) | 3:48 | 2022-07-29 |  |
 | [The Way](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [The Way](https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY) | 4:31 | 2021-12-24 | 2023-01-28 |
 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 | 2023-02-25 |

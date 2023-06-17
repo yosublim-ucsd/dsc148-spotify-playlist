@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-936 songs - 2 day 3 hr 12 min
+937 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ballie \(feat\. Kah\-Lo\) \- Destructo Remix](https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Ballie \(feat\. Kah\-Lo\) \[Destructo Remix\]](https://open.spotify.com/album/4KPLKJL2s9CIYXDA7gIM92) | 4:26 | 2020-05-22\* | 2022-04-20 |
 | [Bam Bam](https://open.spotify.com/track/4EWCmQQyVljLJyEdefKQgG) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Bam Bam](https://open.spotify.com/album/6VX5PaOVX6ssiAR759efKx) | 2:35 | 2020-05-22\* | 2021-12-20 |
 | [Banzai](https://open.spotify.com/track/3gCQ33OM9I1QRGUwoJMKsd) | [Sagan](https://open.spotify.com/artist/5JHw3zW4kgwIZlh33geR1K) | [Generation HEX 004 E.P.](https://open.spotify.com/album/6k5DvNZce6s9MMZ15gDdvy) | 2:54 | 2020-05-22\* | 2020-09-05 |
+| [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-09 |  |
 | [BARRACA \(feat\. MC Pikachu\)](https://open.spotify.com/track/03L9G5TQGdhASEknspRIZQ) | [Garmiani](https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [BARRACA \(feat\. MC Pikachu\)](https://open.spotify.com/album/2s4IDihyyANNAeV3eYnnwc) | 2:30 | 2020-05-22\* | 2021-12-20 |
 | [Bayside](https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 5:29 | 2020-12-29 | 2021-01-07 |
 | [Be \- D.O.D Remix](https://open.spotify.com/track/4NKRQXgj6FecD1YpY1xEyJ) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Be \(D.O.D Remix\)](https://open.spotify.com/album/1n9V8GOwamWCXy9ZkPbWtD) | 2:30 | 2020-05-22\* | 2021-12-21 |
@@ -853,7 +854,7 @@
 | [Too Much To Ask](https://open.spotify.com/track/6M0RLlETmRWBLRkuwohvE5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Too Much To Ask](https://open.spotify.com/album/2xS687Mvbmfl1l0D7VowMQ) | 3:10 | 2021-06-22 | 2022-04-29 |
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2022-12-14 |  |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-07-29 | 2023-03-04 |
-| [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [TROMPA](https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV) | 2:43 | 2023-05-26 |  |
+| [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [TROMPA](https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV) | 2:43 | 2023-05-26 | 2023-06-17 |
 | [Trompeta](https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Trompeta](https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz) | 3:08 | 2022-12-14 |  |
 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 | 2021-07-24 | 2022-08-30 |
 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 | 2021-05-15 | 2022-04-18 |

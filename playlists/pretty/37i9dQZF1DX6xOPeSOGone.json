@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Billy Joel",
-  "num_followers": 3587749,
+  "num_followers": 3587836,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJhNDMzYWUxNTJjZDA1Y2M4YmYwNWRiMmI1ZWFlNzMwZTE4MTUz",
+  "snapshot_id": "MCwyYTY2MzE0YzQwZDI0OTc0MTI2YzMwNTUwNTY0ZmY4YmFjOGRkNmRk",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 282040,
       "name": "Get It Right Next Time",
       "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Bish",
+        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 187840,
       "name": "Never Let Her Go",
       "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Bish",
-        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Everybody Needs Love",
-      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
     }
   ],
   "unique_name": "Soft Rock",

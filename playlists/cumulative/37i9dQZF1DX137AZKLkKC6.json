@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212976,
       "name": "Bye",
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
@@ -1327,7 +1327,7 @@
     },
     {
       "album": {
-        "name": "La Cita",
+        "name": "La Cita (feat. Jessi Uribe)",
         "url": "https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB"
       },
       "artists": [
@@ -1344,7 +1344,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225657,
-      "name": "La Cita",
+      "name": "La Cita (feat. Jessi Uribe)",
       "url": "https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE"
     },
     {
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 191997,
       "name": "Una Noche",
       "url": "https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0"
@@ -2928,6 +2928,42 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Ser",
+        "url": "https://open.spotify.com/album/4lSQhkv2M8CeYsHkK99Zam"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174951,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t"
+    },
+    {
+      "album": {
+        "name": "Yo Se Cuando Miente",
+        "url": "https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198985,
+      "name": "Yo Se Cuando Miente",
+      "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"
     },
     {
       "album": {

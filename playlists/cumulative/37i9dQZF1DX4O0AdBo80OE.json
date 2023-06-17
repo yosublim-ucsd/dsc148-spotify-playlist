@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Nanpa B\u00e1sico y Ximena Sari\u00f1ana en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Sabino en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -434,6 +434,24 @@
       "duration_ms": 214499,
       "name": "Comida Callejera",
       "url": "https://open.spotify.com/track/4PdYMUePyVIgkvVIMz473E"
+    },
+    {
+      "album": {
+        "name": "Como lo Marca el Manual",
+        "url": "https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215449,
+      "name": "Como lo Marca el Manual",
+      "url": "https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX"
     },
     {
       "album": {
@@ -1538,6 +1556,28 @@
       "duration_ms": 220800,
       "name": "Piel Mojada",
       "url": "https://open.spotify.com/track/4s2U1sZa2lc86U4QSc4CGs"
+    },
+    {
+      "album": {
+        "name": "Polic\u00edas y Ladrones",
+        "url": "https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Polic\u00edas y Ladrones",
+      "url": "https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ"
     },
     {
       "album": {

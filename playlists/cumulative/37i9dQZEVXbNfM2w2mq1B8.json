@@ -9796,7 +9796,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 137440,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/1IVB2M6ztwMMV0JSmtNDAh"
@@ -12336,6 +12336,24 @@
       "duration_ms": 181918,
       "name": "Nice To Meet Ya (feat. Yxng Bane)",
       "url": "https://open.spotify.com/track/1YHjRAptXqPdsdx3g6FNJL"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/45GdWDe8VWYp1zqX7DuiPe"
+      },
+      "artists": [
+        {
+          "name": "Garden Hall",
+          "url": "https://open.spotify.com/artist/2BheKw5jNK1WGkFxCQneAM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5wYALZTKM8gs9qq7UX81qc"
     },
     {
       "album": {
@@ -18080,7 +18098,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"

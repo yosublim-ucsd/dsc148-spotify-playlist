@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Duo Dinamico 1",
+        "url": "https://open.spotify.com/album/7t2LlmjpSdXt41R3oIYSfA"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        },
+        {
+          "name": "MECHAYRXMEO",
+          "url": "https://open.spotify.com/artist/7B3Heyhw6s5y9XrxnP8TOx"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Duo Dinamico 1",
+      "url": "https://open.spotify.com/track/048g5LujX43MfQdmhfPNLO"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Pago",
         "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },

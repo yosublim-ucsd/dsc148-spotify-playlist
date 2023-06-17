@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-239 songs - 14 hr 25 min
+240 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Badfish](https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [40oz\. To Freedom](https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL) | 3:05 | 2022-09-30 | 2022-11-13 |
 | [Badfish](https://open.spotify.com/track/4KnpSJBbcpJBAjEaaJBcL8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime Greatest Hits](https://open.spotify.com/album/0E2blcrvyduixEolxZXot7) | 3:07 | 2022-02-04 | 2022-07-11 |
 | [Badfish](https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Jah Won't Pay The Bills](https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF) | 3:08 | 2022-07-06 |  |
-| [Bag of Bones](https://open.spotify.com/track/1FfQK0wO6PTWWSQwHas548) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Surfer Girl](https://open.spotify.com/album/1Slm6YYhhL1HMQh8P4eUDI) | 3:58 | 2021-12-10 |  |
+| [Bag of Bones](https://open.spotify.com/track/1FfQK0wO6PTWWSQwHas548) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Surfer Girl](https://open.spotify.com/album/1Slm6YYhhL1HMQh8P4eUDI) | 3:58 | 2021-12-10 | 2023-06-17 |
 | [Baja Bound](https://open.spotify.com/track/7ozIQfNcPQfVTp26GUMl4x) | [Tunnel Vision](https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv) | [Baja Bound](https://open.spotify.com/album/219MsxtWcy8vEHEtPqjP7U) | 3:54 | 2022-04-25 | 2022-07-29 |
 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 | 2021-12-10 |  |
 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 | 2021-12-10 |  |
@@ -76,6 +76,7 @@
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 | 2022-02-04 |  |
 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-06-14 | 2022-11-17 |
+| [Fantasy](https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:19 | 2023-05-19 |  |
 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 | 2021-12-10 | 2022-07-26 |
 | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/track/54yeE5wI4gQwB1974fmMLV) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/album/1EupTp6D2JbgUgfM8bQ3S9) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [Fire On Your House](https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Fire On Your House](https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B) | 3:44 | 2021-12-10 | 2022-07-29 |

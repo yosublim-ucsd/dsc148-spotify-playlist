@@ -2,9 +2,9 @@
 
 ### [Rap Latte](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Rimas cremosas, tan necesarias como tu café\. Nanpa Básico y Ximena Sariñana en portada.
+> Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-104 songs - 5 hr 59 min
+106 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chavorruco](https://open.spotify.com/track/4bBOrr1ROgFc2Z5UeVe4jF) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Chavorruco](https://open.spotify.com/album/09cWtUphNMeGvzNzG9BVWK) | 3:15 | 2023-05-26 |  |
 | [Click Clack](https://open.spotify.com/track/5FLGaCNTTNlIuXYq0oPapX) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Click Clack](https://open.spotify.com/album/2US4sEHYWI6pVOLAEwR4aD) | 2:51 | 2023-05-26 |  |
 | [Comida Callejera](https://open.spotify.com/track/4PdYMUePyVIgkvVIMz473E) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:34 | 2023-05-26 |  |
+| [Como lo Marca el Manual](https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Como lo Marca el Manual](https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK) | 3:35 | 2023-06-16 |  |
 | [Cuando la Vi](https://open.spotify.com/track/6bb45aSuTy717dyrjsBXCO) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ) | [Cuando la Vi](https://open.spotify.com/album/0GlNVq3q9d3a6DBEoxMOcJ) | 3:43 | 2023-05-26 |  |
 | [Cuarto para la Madrugada \(11:45\)](https://open.spotify.com/track/4O4exhK5b7QQ2y7nVUh1VW) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A) | [Cuarto para la Madrugada \(11:45\)](https://open.spotify.com/album/7zGQROSMGi9Jk41fP1grJ8) | 2:41 | 2023-05-26 |  |
 | [Cómo Te Olvido?](https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN) | 3:08 | 2023-05-26 |  |
@@ -80,6 +81,7 @@
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-05-26 |  |
 | [Perfecto \- Remix](https://open.spotify.com/track/680BOO124VxGj9DXEtCttL) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Morfin BG](https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Papi Masta](https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Doobie Free](https://open.spotify.com/artist/0X4qLtC1UiO2g8bBI1Ghcz), [La Crista](https://open.spotify.com/artist/3yDz5xFKNHH0dE309ZN07K), [Lil Kendo](https://open.spotify.com/artist/5imDl6ezPgIApRD09jhF1t), [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD), [Jacky Jacky](https://open.spotify.com/artist/3p1CbP1zehtOdImOl1c7be) | [Perfecto \(Remix\)](https://open.spotify.com/album/02OU9qgJcCQYeMsoq6FOta) | 6:52 | 2023-05-26 |  |
 | [Piel Mojada](https://open.spotify.com/track/4s2U1sZa2lc86U4QSc4CGs) | [Cóndor](https://open.spotify.com/artist/0m3ZXE3FvbUCLDkwECsXKK) | [Piel Mojada](https://open.spotify.com/album/7DYKxvnlHU8qu7km8qy8Rp) | 3:40 | 2023-05-26 |  |
+| [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 | 2023-06-16 |  |
 | [Ponte en Mi Lugar](https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ponte en Mi Lugar](https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK) | 3:12 | 2023-05-26 |  |
 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 | 2023-05-26 |  |
 | [PULPARI](https://open.spotify.com/track/3aAvHk9XY2ApYCIaiJMU9l) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [PULPARI](https://open.spotify.com/album/7wPzMX9iOg5DNkJmxR23mH) | 4:13 | 2023-05-26 |  |

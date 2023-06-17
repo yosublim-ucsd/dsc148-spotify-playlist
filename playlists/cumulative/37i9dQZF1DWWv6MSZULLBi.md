@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Noah Kahan
+> A laid\-back trip in the folk scene\. Cover: Ben Harper
 
-476 songs - 1 day 4 hr 47 min
+478 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Don’t Listen to Me](https://open.spotify.com/track/3p4o3npb3XvHNtdNNfXdYO) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Don't Listen to Me](https://open.spotify.com/album/06dXUUq97AhxSoKp5x5rgt) | 3:51 | 2023-04-28 | 2023-06-03 |
 | [Down in the Willow Garden \(feat\. Brandi Carlile\)](https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Down in the Willow Garden \(feat\. Brandi Carlile\)](https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46) | 3:05 | 2023-03-10 | 2023-04-15 |
 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 | 2023-04-21 |  |
-| [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 | 2023-05-05 |  |
+| [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 | 2023-05-05 | 2023-06-17 |
 | [drowning](https://open.spotify.com/track/2CCMmAVXaG3LO2t3Aj4L5G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [drowning](https://open.spotify.com/album/5Ytwvvh8F2E4pszQQFFv7i) | 3:06 | 2022-08-19 | 2023-02-18 |
 | [East Coast](https://open.spotify.com/track/6bgw8JsLN2d5Ku8u9aVob9) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [East Coast](https://open.spotify.com/album/5MuhSLmBPXFjYyf3LWRtFm) | 4:52 | 2022-10-14 | 2023-02-11 |
 | [Easy](https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 3:53 | 2022-10-28 | 2023-04-22 |
@@ -289,6 +289,7 @@
 | [my little room](https://open.spotify.com/track/3zRSjMxZpzjb2mXtRejlci) | [poolblood](https://open.spotify.com/artist/6TaXt2ECGxZ0MteLXaYsYs) | [my little room](https://open.spotify.com/album/7jyBxJKBa7Un03iPajXDdt) | 4:25 | 2022-11-11 | 2023-04-22 |
 | [My Mind](https://open.spotify.com/track/3kxGvXqQDSOTo2KC6bEHNF) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [My Mind](https://open.spotify.com/album/2Y204wp0ouq1A83CBnnKtz) | 3:22 | 2022-05-13 | 2022-08-27 |
 | [My Mother's Hand](https://open.spotify.com/track/0yVQ329gUPO2f51IUDCwy2) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [My Mother's Hand](https://open.spotify.com/album/23QAp4ByfojrrcTE7E6KzJ) | 3:40 | 2022-05-13 | 2022-09-24 |
+| [My Old Man](https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [My Old Man](https://open.spotify.com/album/03JXfzPjyNoCaRNraHdokq) | 3:23 | 2023-06-16 |  |
 | [Never Been More In Love](https://open.spotify.com/track/0JTJ51CWvZSyPdtVYgG5o6) | [Ashley Jane](https://open.spotify.com/artist/5kiSvzjHG8z4UOpC6FAehk) | [Never Been More In Love](https://open.spotify.com/album/0eQEOoFPiaBxLK49FioYwM) | 3:57 | 2022-05-27 | 2022-07-23 |
 | [Never Not Sunday](https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Never Not Sunday](https://open.spotify.com/album/4pZYb4QMYfa0Yx1YCEaVn2) | 2:39 | 2022-07-29 | 2023-03-11 |
 | [New Life](https://open.spotify.com/track/6dd4Kc5Lu4BLK2ijAeiH0t) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [New Life](https://open.spotify.com/album/4As21UhIgvbFND0OmzCFKB) | 3:10 | 2023-02-17 | 2023-03-25 |
@@ -433,7 +434,7 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 |  |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
-| [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 |  |
+| [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |
 | [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 | 2023-05-26 |  |
 | [True Patriot Love](https://open.spotify.com/track/0IaYpkm0UInrmPsX0VY6IX) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC), [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [The Window Inn Sessions](https://open.spotify.com/album/5QrNXKz7lvIiz5BQGFsVln) | 4:01 | 2022-08-26 | 2023-03-18 |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-05-13 | 2022-06-30 |
@@ -452,6 +453,7 @@
 | [Warning Signs](https://open.spotify.com/track/6G5BZd8IB5qYCAg6zNSASp) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Warning Signs](https://open.spotify.com/album/7gQjG65hSkp91PXzJ3G69T) | 3:32 | 2023-05-12 |  |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 | 2023-02-11 |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 | 2023-01-14 |
+| [Waterfall](https://open.spotify.com/track/3ZZ3HAADbUCytfsFuk70Mm) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Waterfall](https://open.spotify.com/album/0EYRoOj0iS2XoNIDIVreos) | 4:04 | 2023-06-16 |  |
 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 | 2023-04-14 | 2023-05-20 |
 | [Waves](https://open.spotify.com/track/3jAYnFmQS0H5O4ShG14Ac7) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Waves](https://open.spotify.com/album/5q0GJoKde3ndLUxfTKNrFP) | 3:22 | 2022-10-21 | 2023-04-22 |
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 | 2023-01-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: PL Quest",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Derek",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 248000,
       "name": "Assunto Particular",
       "url": "https://open.spotify.com/track/44v9eNGRuwFDXzPWu2GkHP"
@@ -2257,6 +2257,32 @@
     },
     {
       "album": {
+        "name": "Quarto Tapes",
+        "url": "https://open.spotify.com/album/7ic6DrrK2rh9MZkqCJzda8"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Vitor Akin",
+          "url": "https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Bota na Garganta",
+      "url": "https://open.spotify.com/track/4ftPG70VcR2q7zEhOsjezm"
+    },
+    {
+      "album": {
         "name": "OG",
         "url": "https://open.spotify.com/album/709J3ee8ZkyK7gcnnNXlsa"
       },
@@ -2720,7 +2746,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 225145,
       "name": "Carioca & Luandense",
       "url": "https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA"
@@ -3240,7 +3266,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 122400,
       "name": "Cheio De \u00d3dio",
       "url": "https://open.spotify.com/track/4j9DHnPE6n6sMz4TsuXLTA"
@@ -3624,6 +3650,24 @@
       "duration_ms": 168000,
       "name": "Cora\u00e7\u00e3o de Gelo",
       "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o de um Gangsta",
+        "url": "https://open.spotify.com/album/2mzfAIQaKoteHf8zeH9ial"
+      },
+      "artists": [
+        {
+          "name": "Doode",
+          "url": "https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149293,
+      "name": "Cora\u00e7\u00e3o de um Gangsta",
+      "url": "https://open.spotify.com/track/6baqiF5EHWpE4m9bFcKPeS"
     },
     {
       "album": {
@@ -5360,6 +5404,28 @@
       "duration_ms": 244284,
       "name": "Ela Rebola Pra Mim e Senta",
       "url": "https://open.spotify.com/track/7ssx7WIG1M0VAErCdtRB8n"
+    },
+    {
+      "album": {
+        "name": "ELAS ACHA QUE EU SOU GRINGO",
+        "url": "https://open.spotify.com/album/3iFSc9CmYUUJGvi5Xxfjnp"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "ELAS ACHA QUE EU SOU GRINGO",
+      "url": "https://open.spotify.com/track/2Xb1ZmF2bsN1llZgdgr4Ag"
     },
     {
       "album": {
@@ -11038,7 +11104,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 198620,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
@@ -12448,7 +12514,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 223266,
       "name": "O Mund\u00e3o Girou",
       "url": "https://open.spotify.com/track/0yKsmBCIMvIS9kZ2JqxCmA"
@@ -13482,6 +13548,24 @@
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "album": {
+        "name": "Pimp Talk",
+        "url": "https://open.spotify.com/album/56zSETqya7CYAhB5CiTphn"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Pimp Talk",
+      "url": "https://open.spotify.com/track/3wghQf3oUyPPJzd0mhW6Ed"
     },
     {
       "album": {
@@ -15017,6 +15101,32 @@
     },
     {
       "album": {
+        "name": "Ra\u00fal",
+        "url": "https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6QIDGlXeq4WhjwXK72Zbbi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ra\u00fal",
+      "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
+    },
+    {
+      "album": {
         "name": "Real Plug 3",
         "url": "https://open.spotify.com/album/6aFxu20WjDoHdx9N8l4qvn"
       },
@@ -15128,6 +15238,28 @@
       "duration_ms": 128000,
       "name": "Red Dot",
       "url": "https://open.spotify.com/track/5O4dyvMVJaGcxvawaCGQDy"
+    },
+    {
+      "album": {
+        "name": "Rede Social",
+        "url": "https://open.spotify.com/album/16F6xbVNsP57Sg8QoFUGv7"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173777,
+      "name": "Rede Social",
+      "url": "https://open.spotify.com/track/6i3NwwIj5yTfrUZQGANwuB"
     },
     {
       "album": {
@@ -15770,7 +15902,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152195,
       "name": "SANTO AMARO",
       "url": "https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM"

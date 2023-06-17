@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Daniel Caldrón y Los Gigantes
 
-104 songs - 7 hr 21 min
+105 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amor de Papá](https://open.spotify.com/track/1azxbMS6WW6s00552wlN1d) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Amor de Papá](https://open.spotify.com/album/4T1rAPePv0bqbF57wLD3kf) | 3:29 | 2022-09-02 | 2022-12-17 |
 | [Ay Hombe](https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Canto Vallenato](https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d) | 5:17 | 2022-09-02 |  |
 | [Bailar Contigo](https://open.spotify.com/track/1KbX1VuFIgsRa9JjnQtRYA) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:12 | 2022-09-02 |  |
+| [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:12 | 2023-06-16 |  |
 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 | 2023-02-17 |  |
 | [Busca Un Confidente](https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:06 | 2022-09-02 | 2023-04-03 |
 | [Busca un Confidente](https://open.spotify.com/track/5kZqgRmBLc4yR9NzLAljEv) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/5DfBSF2fVwXHH8z5jT2mpj) | 4:06 | 2022-10-21 | 2022-11-14 |
@@ -86,7 +87,7 @@
 | [Que Te Vaya Bien](https://open.spotify.com/track/1tgtt55t1gFpq84UCAoXSN) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [Que Te Vaya Bien](https://open.spotify.com/album/5yRi7QGU76Cd9DrMVUpGX6) | 3:41 | 2023-02-17 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2022-09-02 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-21 | 2022-11-13 |
-| [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 |  |
+| [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 | 2023-06-17 |
 | [Regálame una Noche](https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:56 | 2022-09-02 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-09-02 |  |
 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 | 2022-10-21 | 2022-11-14 |

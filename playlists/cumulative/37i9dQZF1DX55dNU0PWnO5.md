@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-351 songs - 21 hr 35 min
+352 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,5 +359,6 @@
 | [you were probably younger then](https://open.spotify.com/track/02YXJJZ5xQrFIRhqe62PTi) | [FLOCKS](https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM) | [You Were Probably Younger Then](https://open.spotify.com/album/7svc0aRNic3e5NQFpMQwZ9) | 5:14 | 2022-08-08 | 2022-09-12 |
 | [you were probably younger then](https://open.spotify.com/track/3VrfmBjggSQHvpAN7tQjPG) | [FLOCKS](https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM) | [You Were Probably Younger Then](https://open.spotify.com/album/7KlTPfMrBy1NOzyr4H0Tn2) | 5:14 | 2022-08-12 |  |
 | [Youthful Expression](https://open.spotify.com/track/7KKJlwhwo70acLmRqkuSto) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Koslow](https://open.spotify.com/artist/1mpMVEpY7lb8AUgLgk3Y8n) | [Youthful Expression](https://open.spotify.com/album/77HfNVVK0wUIbZrBNdPwwk) | 3:01 | 2021-08-20 | 2022-07-29 |
+| [ZensBingBing](https://open.spotify.com/track/6qrmFliWht8z0TLF3hNpIi) | [Yami Maho](https://open.spotify.com/artist/1b8Y6QDVYeRFCCMYbFiEOg), [Shusty Bones](https://open.spotify.com/artist/0dum3gPF36BAH4BH15cwhu), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [ZensBingBing](https://open.spotify.com/album/1CPzJclTmYS3nw4j1A6VTD) | 4:21 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

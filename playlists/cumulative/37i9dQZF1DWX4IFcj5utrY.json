@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=pQwF9eo-RJ-hG10oCfR5Zg\">Darque</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=HjJ0RY8cRiW0CxMDqJ8PgA\">Prince Kaybee</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 442079,
       "name": "Bayaphela",
       "url": "https://open.spotify.com/track/6SLsfjDebV22H8y0laYQhh"
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 254330,
       "name": "Can You See Me",
       "url": "https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 256385,
       "name": "Don\u2019t Let Me See - Jimpster Remix Edit",
       "url": "https://open.spotify.com/track/3anqGyfRthhSK3P1zmJKWu"
@@ -4792,6 +4792,28 @@
       "duration_ms": 396964,
       "name": "EL Sambo",
       "url": "https://open.spotify.com/track/3aIFoernKgMfDs5pVYnQSg"
+    },
+    {
+      "album": {
+        "name": "El Vento",
+        "url": "https://open.spotify.com/album/5yfhtpnsttHCYXYNeZ4XBV"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "El Vento",
+      "url": "https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY"
     },
     {
       "album": {
@@ -5202,6 +5224,28 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/1D6lNWWWhQDvBL7Qecso46"
+      },
+      "artists": [
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        },
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264687,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1SKful9KuNbT6FJCWmJCXO"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/3ri2yz8dKPyEjLuy7DvqAx"
       },
       "artists": [
@@ -5238,6 +5282,28 @@
       "duration_ms": 350322,
       "name": "FarJen",
       "url": "https://open.spotify.com/track/5yU6Bn60UZwbe1l70bm6y9"
+    },
+    {
+      "album": {
+        "name": "Music Theory",
+        "url": "https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313135,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr"
     },
     {
       "album": {
@@ -6214,7 +6280,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 418250,
       "name": "Heavy Heat",
       "url": "https://open.spotify.com/track/0DAobIglQNN9kGO0Im21ia"
@@ -8195,6 +8261,36 @@
     },
     {
       "album": {
+        "name": "Kamweretho",
+        "url": "https://open.spotify.com/album/6A3XXRIToOmGJ4hsFSwWQ1"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599024,
+      "name": "Kamweretho - Manoo Remix",
+      "url": "https://open.spotify.com/track/0ForXbVtaQVD39eJR0na9r"
+    },
+    {
+      "album": {
         "name": "Kandongueiro Voador",
         "url": "https://open.spotify.com/album/2mdebiLSvtTfml7r2L62LM"
       },
@@ -9883,6 +9979,24 @@
     },
     {
       "album": {
+        "name": "Mandalorian",
+        "url": "https://open.spotify.com/album/6cLWAw9a7WTBQ8FoHE1sZ9"
+      },
+      "artists": [
+        {
+          "name": "Yan Solo",
+          "url": "https://open.spotify.com/artist/1Oiea2hzGgw6aH7cATn1zi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456585,
+      "name": "Mandalorian",
+      "url": "https://open.spotify.com/track/7DN3XdkOBIOHJHp8zTdsQj"
+    },
+    {
+      "album": {
         "name": "Maphuma (feat. Lizwi)",
         "url": "https://open.spotify.com/album/5POx8s8nl1lOYcEDrgf0qH"
       },
@@ -10232,7 +10346,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 243481,
       "name": "Messiah (feat. Zipho Thusi)",
       "url": "https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80"
@@ -11431,6 +11545,28 @@
     },
     {
       "album": {
+        "name": "Njenge Nkanyezi",
+        "url": "https://open.spotify.com/album/3nWkNVewhbdFIN3ctnpjrj"
+      },
+      "artists": [
+        {
+          "name": "Lemon & Herb",
+          "url": "https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w"
+        },
+        {
+          "name": "Tsholofelo",
+          "url": "https://open.spotify.com/artist/2vXaREJMMLUfEj5ziaEf0y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Njenge Nkanyezi",
+      "url": "https://open.spotify.com/track/3p2xwxdNBSS8IhgHAsR5eh"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge"
       },
@@ -12260,7 +12396,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 232453,
       "name": "Phambili",
       "url": "https://open.spotify.com/track/04ZqwR6S9KRMEPMBtgHjAu"
@@ -13142,6 +13278,32 @@
       "duration_ms": 147500,
       "name": "Sand Traveller",
       "url": "https://open.spotify.com/track/0JG10oQ3FOWDWX2C7aukqr"
+    },
+    {
+      "album": {
+        "name": "Sari Manuwe (Afriindi & Dr Feel Remixes)",
+        "url": "https://open.spotify.com/album/3SW9QtTh6oiY4RvXoJGYzp"
+      },
+      "artists": [
+        {
+          "name": "Afriindi",
+          "url": "https://open.spotify.com/artist/6j7mWAsDiZmbhmOYqHGMYb"
+        },
+        {
+          "name": "Soul Star",
+          "url": "https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Sari Manuwe - Dr Feel Radio Remix",
+      "url": "https://open.spotify.com/track/3zu3MJDiinYmLYiQVULrYX"
     },
     {
       "album": {
@@ -14316,7 +14478,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 379875,
       "name": "Sound Of The Dragonfly",
       "url": "https://open.spotify.com/track/3xJkUQe1KVrO1tqJ7mxC2y"
@@ -16784,6 +16946,32 @@
       "duration_ms": 174374,
       "name": "Upside Down (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "album": {
+        "name": "Uqobo Lwakho",
+        "url": "https://open.spotify.com/album/0Imc9CK1Kw4iinLoWXQ84P"
+      },
+      "artists": [
+        {
+          "name": "Aso Tandwa",
+          "url": "https://open.spotify.com/artist/38sch0FMEpjRV3axogyb4S"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        },
+        {
+          "name": "Blaq Note",
+          "url": "https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457932,
+      "name": "Uqobo Lwakho",
+      "url": "https://open.spotify.com/track/2hM4EYJKvNMFBbA56D42i6"
     },
     {
       "album": {

@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 259260,
       "name": "Acabou (Papasessions #5) [feat. CALIFFA]",
       "url": "https://open.spotify.com/track/7hKXUAgfmgtPvA3ARl5jCw"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 193408,
       "name": "Pensando Em N\u00f3s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2cJVsaXHt4eh6GCHv2KQz6"
@@ -4353,6 +4353,36 @@
     },
     {
       "album": {
+        "name": "Te Pe\u00e7o Pra Ficar",
+        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Te Pe\u00e7o Pra Ficar",
+      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "album": {
         "name": "Tentei",
         "url": "https://open.spotify.com/album/0q91XatOVnubHoX6HbGevU"
       },
@@ -4714,6 +4744,32 @@
       "duration_ms": 300000,
       "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
       "url": "https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj"
+    },
+    {
+      "album": {
+        "name": "Virus Love",
+        "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "V\u00edrus Love",
+      "url": "https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs"
     },
     {
       "album": {

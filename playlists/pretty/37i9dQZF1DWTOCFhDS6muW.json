@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19781,
+  "num_followers": 19801,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTJlNDhmYWFkN2E5ZGE2YTQxZjU1MDc5ODdjZWI2MTEzMDEyZTE1",
+  "snapshot_id": "MCwwM2RjYjkxZWZmNDNiYzQ0YTA2OWQ5ZDBkM2M0NmRkNWU3ZWNkMWMx",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -263,18 +263,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr"
       },
       "artists": [
         {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
         }
       ],
-      "duration_ms": 213321,
-      "name": "Laluda Bellu",
-      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
+      "duration_ms": 227760,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -311,18 +311,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 227760,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2"
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
     },
     {
       "added_at": "2020-05-26 15:53:13",

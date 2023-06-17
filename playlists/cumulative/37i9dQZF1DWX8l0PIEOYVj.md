@@ -2,9 +2,9 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass\. Cover: ARMNHMR & Lights.
+> Future & melodic bass\. Cover: Dabin.
 
-373 songs - 22 hr 26 min
+374 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,12 +374,13 @@
 | [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 |  |
 | [With You](https://open.spotify.com/track/3cfhbNNdNeBnCE3J8eB0uH) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/1neAhuudRpt7salaglI1I5) | 3:30 | 2022-07-08 | 2023-04-09 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
+| [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |
 | [Worth It](https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Worth It](https://open.spotify.com/album/3CIwQHbNCwT13eYv2VrwpD) | 4:26 | 2022-07-08 | 2023-04-30 |
 | [Would You Even Know](https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Would You Even Know](https://open.spotify.com/album/4BNrohSLaSA4ifKPJyzUts) | 3:17 | 2023-05-26 |  |
 | [Wouldn't Know You](https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Wouldn't Know You](https://open.spotify.com/album/3fsqNYiIX7BYog5tQv7QBK) | 4:24 | 2022-07-08 | 2023-03-18 |
 | [You Are My Pain](https://open.spotify.com/track/5Xij03tXBHCEdbKSgs0cBf) | [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [You Are My Pain](https://open.spotify.com/album/2fPon6mUfyedA9ijAzSix6) | 3:15 | 2023-04-21 | 2023-05-13 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-19 |  |
 | [You Were Right](https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
-| [‎catalyst](https://open.spotify.com/track/7sWxOWsyWe0P51zF1LizcN) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/5xZWInc4JDCmYGbLhi1gHZ) | 1:36 | 2023-05-12 |  |
+| [‎catalyst](https://open.spotify.com/track/7sWxOWsyWe0P51zF1LizcN) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/5xZWInc4JDCmYGbLhi1gHZ) | 1:36 | 2023-05-12 | 2023-06-17 |
 
 \*This playlist was first scraped on 2022-07-14. Prior content cannot be recovered.

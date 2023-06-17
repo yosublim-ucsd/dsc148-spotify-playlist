@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
@@ -5335,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Sucker's Lunch",
+        "url": "https://open.spotify.com/album/0ofgTu4mwAvYoLalhMJLKr"
+      },
+      "artists": [
+        {
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283370,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/5Fj6VahostTvV1J2TMYLyS"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 477019,
       "name": "Sweetspot",
       "url": "https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx"
@@ -6566,6 +6584,24 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "album": {
+        "name": "Your Garden",
+        "url": "https://open.spotify.com/album/7xyXzKF6OBhyZ69XiRztYi"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207972,
+      "name": "Your Garden",
+      "url": "https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7"
     },
     {
       "album": {

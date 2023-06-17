@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,779 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,811 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 149 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
 | 150 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 151 | [Vale](https://open.spotify.com/track/58FsmlVRQxpjFmXF8vSKMT) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:07 |
-| 152 | [Take over You \- Perttu Remix](https://open.spotify.com/track/7EcCQa5yVa8pMXM0B43rxw) | [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Joey Cass](https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Take over You \(Remixes\)](https://open.spotify.com/album/43SzTI9Ti7QFl4LZ0WAF6I) | 3:33 |
+| 152 | [Take over You \- Perttu Remix](https://open.spotify.com/track/7EcCQa5yVa8pMXM0B43rxw) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Joey Cass](https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Take over You \(Remixes\)](https://open.spotify.com/album/43SzTI9Ti7QFl4LZ0WAF6I) | 3:33 |
 | 153 | [So Close](https://open.spotify.com/track/68M7htN4l1TC3mKXoUVKrf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/3i2q9STmiRxp7w06YVZJXJ) | 4:08 |
 | 154 | [Other Side](https://open.spotify.com/track/0S5as2olu01E5lXXhdVTLA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [The Midnight Sun](https://open.spotify.com/album/5vF91mAcXrjETeE4UabePg) | 3:15 |
 | 155 | [Memorand](https://open.spotify.com/track/1JL0mPAwcHB5nYba61C1s2) | [Monitor](https://open.spotify.com/artist/5OUfsZqqBlsVtWIzayDPF5) | [Memorand](https://open.spotify.com/album/3fkwq5Um4ELQXvDKFZ85DT) | 3:27 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MCw5YjIzZTExMjM2ZGU3YjJlMGQ2ZTI1ZTJkZTg1NjAwODJiM2YxYzUz`
+Snapshot ID: `MCxlMDllMmM5ZmNhN2E5MDAzNDkyN2VkNGE1N2YzMjg4NGFiNjczOWQy`

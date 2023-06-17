@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 129000,
       "name": "Adwuma",
       "url": "https://open.spotify.com/track/4XLuxguiObaOWXuhTxn9mM"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 229714,
       "name": "Akata Gang Gang (feat. O'Kenneth, Pappy Kojo, Skyface SDW, Kawabanga & Jay Bahd)",
       "url": "https://open.spotify.com/track/6QJ5y6ootRIS3rUkGCERTB"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 174400,
       "name": "Akohwie",
       "url": "https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 215510,
       "name": "Brodo",
       "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
@@ -1365,6 +1365,50 @@
     },
     {
       "album": {
+        "name": "K\u0254\u0254",
+        "url": "https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD"
+      },
+      "artists": [
+        {
+          "name": "Uncle Rich",
+          "url": "https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226162,
+      "name": "K\u0254\u0254",
+      "url": "https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy"
+    },
+    {
+      "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/46JfgWLpufanPHS4kJBtM4"
+      },
+      "artists": [
+        {
+          "name": "KAAMA",
+          "url": "https://open.spotify.com/artist/13YntzDxz3y0OHnqTJ5Tek"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207390,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/3QQ223XEeXQWtRUeY9GC9O"
+    },
+    {
+      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -1835,6 +1879,28 @@
     },
     {
       "album": {
+        "name": "Obra (feat. Roiii)",
+        "url": "https://open.spotify.com/album/0FGOyeBeFcxUu0ChZpFDw7"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Obra (feat. Roiii)",
+      "url": "https://open.spotify.com/track/6nbnJY7as2a7I3kDKNQojM"
+    },
+    {
+      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G"
       },
@@ -2042,6 +2108,32 @@
       "duration_ms": 172173,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp"
+    },
+    {
+      "album": {
+        "name": "Ride (feat. Terrist Carter & O'Kenneth)",
+        "url": "https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt"
+      },
+      "artists": [
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "Terrist Carter",
+          "url": "https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "Ride (feat. Terrist Carter & O'Kenneth)",
+      "url": "https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ"
     },
     {
       "album": {

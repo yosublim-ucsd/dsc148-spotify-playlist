@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "TWO II",
+        "url": "https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83"
+      },
+      "artists": [
+        {
+          "name": "S3kyerewaa",
+          "url": "https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218017,
+      "name": "Polished Masks",
+      "url": "https://open.spotify.com/track/4ost2G6dIe7SQpbPrqSDOh"
+    },
+    {
+      "album": {
         "name": "Worry <",
         "url": "https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"

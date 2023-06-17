@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=qw4PtwtoRTGagi79MyGbUQ">Brynn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,286 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,290 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Howl](https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Howl](https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr) | 4:46 |
 | 50 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 |
 
-Snapshot ID: `MCw5YWFjNDc4ZGM4OTNjYjJjZDM0NzVjMjgyZmQ4MzVjMGJkOTljMzgy`
+Snapshot ID: `MCwyZWEwZTJiNmNjZmExYzQ1ZTI5MjI2NGU3MzNiMWU4ZTQ5NzhmOTE4`

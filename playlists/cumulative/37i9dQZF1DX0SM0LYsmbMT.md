@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,541 songs - 5 day 15 hr 56 min
+3,543 songs - 5 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Ballads for Backgrounds](https://open.spotify.com/track/0o7YSyPeTwuZXi4rn7NDlB) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Ballads for Backgrounds](https://open.spotify.com/album/0cYEB8Ect5E84EeDxucyEK) | 2:02 | 2019-12-20 | 2020-04-24 |
 | [Ballena Bar](https://open.spotify.com/track/0jcD3aPna9hVxTmeosFt8N) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Ballena Bar](https://open.spotify.com/album/46N0QcCTeUIxqjWXqbnuLW) | 1:45 | 2020-06-09 | 2020-08-08 |
 | [ballin](https://open.spotify.com/track/1sL9EukureVOZOrx69SiWB) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Sechs](https://open.spotify.com/album/6m7u6Qi8hF8ENugh1fdiXN) | 2:07 | 2020-01-17 | 2020-05-08 |
+| [Balloon](https://open.spotify.com/track/2SVXLCEy97fwoUK43FGdC2) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Balloon](https://open.spotify.com/album/3m7TO5D8LgZi7r8intoakb) | 1:34 | 2023-06-01 |  |
 | [Bamboo](https://open.spotify.com/track/1TmpEkWx1wOEsSmnh3XKcY) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Bamboo](https://open.spotify.com/album/1GceOSBFDvQROmqSKvQTf9) | 2:24 | 2022-02-11 | 2022-02-17 |
 | [Bami](https://open.spotify.com/track/2rv4nn9uQ7DXRZjHmU0hyV) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Bami / 25 Hours](https://open.spotify.com/album/7whKI4gEX1ecykO014f8p0) | 1:39 | 2019-05-26\* | 2019-06-15 |
 | [Banana Brains](https://open.spotify.com/track/6gP1JTKQELhAlPy3a1fPve) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Banana Brains](https://open.spotify.com/album/0TQAW3JUS4Rpfy6B6uvjOq) | 2:12 | 2022-09-08 |  |
@@ -1392,7 +1393,7 @@
 | [Imposter](https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Imposter](https://open.spotify.com/album/5SZYGrc8kIwaq1NdEZbdS0) | 2:10 | 2022-04-21 |  |
 | [in a land](https://open.spotify.com/track/4QuwfknVAmTJMTHTWbrGRS) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [in a land](https://open.spotify.com/album/0uTGme2OGyiqxLIj9yENv1) | 1:22 | 2023-05-18 | 2023-05-26 |
 | [In and Out](https://open.spotify.com/track/7aI9ZBs5D4Wlji20g4jUV1) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [In and Out](https://open.spotify.com/album/5elfn1IR06va6gz4gAex05) | 2:07 | 2021-08-01 | 2022-05-13 |
-| [In Between](https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [In Between](https://open.spotify.com/album/7zLjHv906AQXMJ6307lqWL) | 1:58 | 2022-03-10 |  |
+| [In Between](https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [In Between](https://open.spotify.com/album/7zLjHv906AQXMJ6307lqWL) | 1:58 | 2022-03-10 | 2023-06-17 |
 | [In Circles](https://open.spotify.com/track/2jreuA6omM95WHHm3TY8Ok) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [In Circles](https://open.spotify.com/album/5Tt1NFsIZGxxZbMnuQtblx) | 1:42 | 2021-01-29 | 2021-06-25 |
 | [In Life](https://open.spotify.com/track/1OfykQiqp1B9MmP7ZnRfMk) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [In Life](https://open.spotify.com/album/1pyXNOFuqfJegW9Wdme2xY) | 1:48 | 2019-11-08 | 2020-03-27 |
 | [In Love](https://open.spotify.com/track/1dRt3aGUpIvJ0HVHv3Mikt) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [In Love](https://open.spotify.com/album/2xpIgzq6DDj6Jlt0UkaY21) | 2:47 | 2021-04-20 | 2021-05-14 |
@@ -2758,7 +2759,7 @@
 | [Solstånd](https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Solstånd](https://open.spotify.com/album/4KoyVhHi6YflFzXwanmrlD) | 2:21 | 2022-06-02 | 2022-06-17 |
 | [Some kind of green](https://open.spotify.com/track/5bJwIC3hWM6j8JYAUGZ4AV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Some kind of green](https://open.spotify.com/album/1589hTSmG5YjxkMU8NmiFr) | 2:23 | 2022-11-17 |  |
 | [Some kind of green](https://open.spotify.com/track/0DnJr8OnVAVXOVBMhv3bgV) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Some kind of green](https://open.spotify.com/album/0964KqBf3pIEcY1llqVLlP) | 2:23 | 2022-06-09 | 2022-11-20 |
-| [Some New Soul](https://open.spotify.com/track/3PpNMz6two4qZasqIbw3nr) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Some New Soul](https://open.spotify.com/album/0xGszQkElU6sZeMD3bdslB) | 2:20 | 2023-05-18 |  |
+| [Some New Soul](https://open.spotify.com/track/3PpNMz6two4qZasqIbw3nr) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Some New Soul](https://open.spotify.com/album/0xGszQkElU6sZeMD3bdslB) | 2:20 | 2023-05-18 | 2023-06-17 |
 | [Somehow](https://open.spotify.com/track/08IjCH3GfvVcdfwfz03exU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Somehow / Remember Me](https://open.spotify.com/album/3lA0nAOkURWpTf6byiRnXv) | 2:51 | 2020-09-18 | 2020-11-07 |
 | [Someone I knew](https://open.spotify.com/track/4o3h3QqaUHbpVnm7CLaMAd) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Someone I knew](https://open.spotify.com/album/2K79TVSBzh0S6FdVGzQVGM) | 2:19 | 2021-08-08 | 2022-04-01 |
 | [Something Between Us](https://open.spotify.com/track/5xfu1WRNdHvRorPYhASgMK) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Something Between Us](https://open.spotify.com/album/2EL1fe5GnULw7xg54ZFbH1) | 2:30 | 2021-05-15 | 2022-06-10 |
@@ -3000,6 +3001,7 @@
 | [sweetness](https://open.spotify.com/track/24PeR3edxl2ywKf1ooCtLx) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [sweetness](https://open.spotify.com/album/32aS36GhkqwIO916hViCuQ) | 2:04 | 2022-11-24 | 2022-12-02 |
 | [Sweev](https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Sweev](https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef) | 2:18 | 2020-03-27 | 2020-06-05 |
 | [Swimming Pools](https://open.spotify.com/track/7mrwCEzlFCxapdJTyDZ7rd) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Swimming Pools](https://open.spotify.com/album/0yNS0HppygMuolNXJo24Qn) | 2:35 | 2022-06-02 | 2022-09-23 |
+| [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-06-01 |  |
 | [Swordfighter](https://open.spotify.com/track/2sLO22lacNt7fQguWaBKRo) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Six Chill Beats](https://open.spotify.com/album/4l2bJJF6mIQvj36DsWJ443) | 2:46 | 2019-10-11 | 2020-04-24 |
 | [Sylva](https://open.spotify.com/track/2Ba20ROZl4juSRo0p99Bvt) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Sylva](https://open.spotify.com/album/2GocLONbJRhobvV8PMcrSQ) | 2:24 | 2023-04-27 | 2023-06-02 |
 | [Só Alegria](https://open.spotify.com/track/6WcQqsp2GfqOSEwDguAk89) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Soulajit](https://open.spotify.com/artist/2A2j97FtNOlrHWpLv8Tg8o) | [Só Alegria](https://open.spotify.com/album/4m8FDlgMwnfp6zYFxCqgsU) | 2:34 | 2021-12-01 | 2022-01-28 |

@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-120 songs - 7 hr 22 min
+121 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 | 2022-09-16 |  |
 | [Go Steady](https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Go Steady](https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC) | 4:17 | 2022-09-23 |  |
 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 | 2022-02-18 |  |
+| [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 | 2023-06-16 |  |
 | [Holding Time](https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Holding Time](https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA) | 3:29 | 2022-10-28 |  |
 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 | 2021-07-26 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-07-26 | 2022-09-03 |

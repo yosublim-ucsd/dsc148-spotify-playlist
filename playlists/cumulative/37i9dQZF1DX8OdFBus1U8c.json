@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "Jayiche Theeru",
+        "url": "https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Adarsh ADJ",
+          "url": "https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238077,
+      "name": "Jayiche Theeru",
+      "url": "https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu"
+    },
+    {
+      "album": {
         "name": "Kaantha Reprised",
         "url": "https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF"
       },

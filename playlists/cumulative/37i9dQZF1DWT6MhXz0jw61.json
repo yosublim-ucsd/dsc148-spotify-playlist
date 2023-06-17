@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "TEXAS BOY",
+        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174576,
+      "name": "ALL 4 YOU",
+      "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
+    },
+    {
+      "album": {
         "name": "All Around",
         "url": "https://open.spotify.com/album/36LOOsiEGwnMDnSeGfXOLy"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 181842,
       "name": "All Around",
       "url": "https://open.spotify.com/track/5gEP7hNEvP8ZbOTC3p4w3L"
@@ -1256,6 +1274,24 @@
       "duration_ms": 241005,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
+    },
+    {
+      "album": {
+        "name": "BIIMBIIE BOUNDARIIES",
+        "url": "https://open.spotify.com/album/1STCKwrnLNzYvf5nZNpAn4"
+      },
+      "artists": [
+        {
+          "name": "Siimbiie Lakew",
+          "url": "https://open.spotify.com/artist/196ebGsn5Q6i5ctZtDgCXK"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180092,
+      "name": "BIIMBIIE BOUNDARIIES",
+      "url": "https://open.spotify.com/track/5EKGIid62L4vIpOV8etrua"
     },
     {
       "album": {
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 177902,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/360TreSWJw9WXgu3aGE9Oq"
@@ -4091,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "GOSPEL IN THE GHETTO",
+        "url": "https://open.spotify.com/album/4dRq5C1WOMeWmx8tPvkGJa"
+      },
+      "artists": [
+        {
+          "name": "PRICE",
+          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200192,
+      "name": "GENTRIFY",
+      "url": "https://open.spotify.com/track/4QxoLQyPU2D4ZbaIOm589S"
+    },
+    {
+      "album": {
         "name": "Before We Crash",
         "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
       },
@@ -4228,6 +4282,24 @@
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
+    },
+    {
+      "album": {
+        "name": "God Send",
+        "url": "https://open.spotify.com/album/6NhVj1Vb3zZ60kJJgY6QG9"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "God Send",
+      "url": "https://open.spotify.com/track/2PMVWZLddY4ARiHSBWOx8b"
     },
     {
       "album": {
@@ -5910,6 +5982,28 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/7KeBQrOrDItquy091vuho3"
+      },
+      "artists": [
+        {
+          "name": "Black Milk",
+          "url": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+        },
+        {
+          "name": "Brandon Myster",
+          "url": "https://open.spotify.com/artist/7f6THh0kajO6OEeEF2U9jp"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW"
     },
     {
       "album": {
@@ -8276,7 +8370,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 128142,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5ipptFL6m6dKYA1OrVA7rL"
@@ -8425,6 +8519,36 @@
     },
     {
       "album": {
+        "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+        "url": "https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+      "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
+    },
+    {
+      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -8498,7 +8622,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 127007,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
@@ -8600,7 +8724,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 254700,
       "name": "SHIPS N LUV",
       "url": "https://open.spotify.com/track/7CZAzS3p7NGO4MkO4BO47Y"
@@ -8724,7 +8848,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 144484,
       "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
       "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
@@ -8878,7 +9002,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 170156,
       "name": "Soft",
       "url": "https://open.spotify.com/track/6cuBPaQqwtELXv7sZiXCHe"
@@ -9958,7 +10082,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 135510,
       "name": "Thinking to Myself",
       "url": "https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj"
@@ -9976,7 +10100,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 206533,
       "name": "This or That",
       "url": "https://open.spotify.com/track/41MYjsZ8vzKU7fVvjE99Q2"
@@ -10203,6 +10327,28 @@
     },
     {
       "album": {
+        "name": "Took My Breath Away (feat. Skye Morales)",
+        "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Skye Morales",
+          "url": "https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Took My Breath Away (feat. Skye Morales)",
+      "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
+    },
+    {
+      "album": {
         "name": "Anti Industry Me",
         "url": "https://open.spotify.com/album/5ekwjOf3WJOcpkOAR4cm2o"
       },
@@ -10244,6 +10390,24 @@
       "duration_ms": 198000,
       "name": "Top Floor GTR",
       "url": "https://open.spotify.com/track/51k1yEfwSdUOmrZmrW8PpS"
+    },
+    {
+      "album": {
+        "name": "GOSPEL IN THE GHETTO",
+        "url": "https://open.spotify.com/album/4dRq5C1WOMeWmx8tPvkGJa"
+      },
+      "artists": [
+        {
+          "name": "PRICE",
+          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "TRAFFIC",
+      "url": "https://open.spotify.com/track/1f0rnWKT57iyWzlgxiZxq9"
     },
     {
       "album": {
@@ -11028,6 +11192,28 @@
       "duration_ms": 233531,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/49nkBg3OJtp6m6TQPmG1Qw"
+    },
+    {
+      "album": {
+        "name": "Work Hard Play Hard",
+        "url": "https://open.spotify.com/album/7K5QF7IKkpiwp3dxncldp1"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211056,
+      "name": "Work Hard Play Hard",
+      "url": "https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL"
     },
     {
       "album": {

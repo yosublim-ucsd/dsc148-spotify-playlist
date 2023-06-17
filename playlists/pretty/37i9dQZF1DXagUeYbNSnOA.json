@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170471,
+  "num_followers": 170478,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTJlZjA4ZjFhODBiMzAxOWRkMzQ4YTIyZTU4YTIwOTg3MmI4MGFk",
+  "snapshot_id": "MCxhMjM5NjljZjE3Yjc5OTg0ZGUzOGMwNDQyMTdhZGRlOTlkZGJiYWM4",
   "tracks": [
     {
       "added_at": "2023-06-14 05:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "me encontr\u00e9",
-        "url": "https://open.spotify.com/album/4Sdxwp2KJdBwLIyBiBIWiv"
-      },
-      "artists": [
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 166249,
-      "name": "me encontr\u00e9",
-      "url": "https://open.spotify.com/track/2MnNO6OX0AZxByx2WXo2AU"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Mi D\u00eda",
         "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 213197,
       "name": "Mi D\u00eda",
       "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "me encontr\u00e9",
+        "url": "https://open.spotify.com/album/4Sdxwp2KJdBwLIyBiBIWiv"
+      },
+      "artists": [
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 166249,
+      "name": "me encontr\u00e9",
+      "url": "https://open.spotify.com/track/2MnNO6OX0AZxByx2WXo2AU"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Dec\u00eddete Ya",
-        "url": "https://open.spotify.com/album/4UB4sHxB0jKNHXbrHGNUii"
-      },
-      "artists": [
-        {
-          "name": "Nalo Neptuno",
-          "url": "https://open.spotify.com/artist/0B8lDxfcYHwAvhgYivcLE9"
-        }
-      ],
-      "duration_ms": 134086,
-      "name": "Dec\u00eddete Ya",
-      "url": "https://open.spotify.com/track/4iedbwRE826EbNbduXeODX"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Dec\u00eddete Ya",
+        "url": "https://open.spotify.com/album/4UB4sHxB0jKNHXbrHGNUii"
+      },
+      "artists": [
+        {
+          "name": "Nalo Neptuno",
+          "url": "https://open.spotify.com/artist/0B8lDxfcYHwAvhgYivcLE9"
+        }
+      ],
+      "duration_ms": 134086,
+      "name": "Dec\u00eddete Ya",
+      "url": "https://open.spotify.com/track/4iedbwRE826EbNbduXeODX"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "music to walk away to",
-        "url": "https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF"
-      },
-      "artists": [
-        {
-          "name": "Andria Rose",
-          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "music to walk away to",
-      "url": "https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Pistas",
         "url": "https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 188571,
       "name": "Pistas",
       "url": "https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "music to walk away to",
+        "url": "https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF"
+      },
+      "artists": [
+        {
+          "name": "Andria Rose",
+          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "music to walk away to",
+      "url": "https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/6Wa5Mv3MDKXO2SDcNT0U8z"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 179393,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/50nOege5wZgsARHydcDt9w"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Bien Pegao",
         "url": "https://open.spotify.com/album/5Z05D3PGbbNxbPFwX9QWep"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 183911,
       "name": "Bien Pegao",
       "url": "https://open.spotify.com/track/1TSkSNmCN6r207Y3vOpETB"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/6Wa5Mv3MDKXO2SDcNT0U8z"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/50nOege5wZgsARHydcDt9w"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/7mCzqBbsF9gAiKPn2AZEyg"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/3KWMGpql85yMwaX2i2i4NT"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Egyptian Romance",
         "url": "https://open.spotify.com/album/58DXh1qxMNqffJp9TAey5A"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179539,
       "name": "Egyptian Romance - Single Edit",
       "url": "https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/7mCzqBbsF9gAiKPn2AZEyg"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/3KWMGpql85yMwaX2i2i4NT"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/0rmIJRIgJh2o3pEXeTRFpM"
-      },
-      "artists": [
-        {
-          "name": "Antonia Jones",
-          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/0qn59rMBlBDiGqYRGTQ9Ad"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197733,
       "name": "Escape",
       "url": "https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/0rmIJRIgJh2o3pEXeTRFpM"
+      },
+      "artists": [
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/0qn59rMBlBDiGqYRGTQ9Ad"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -719,6 +719,22 @@
       "duration_ms": 247457,
       "name": "Eufrasia en el Desierto",
       "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r"
+      },
+      "artists": [
+        {
+          "name": "Le Montro",
+          "url": "https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS"
+        }
+      ],
+      "duration_ms": 168083,
+      "name": "Magnetismo",
+      "url": "https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 222835,
       "name": "Vaso de agua",
       "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r"
-      },
-      "artists": [
-        {
-          "name": "Le Montro",
-          "url": "https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS"
-        }
-      ],
-      "duration_ms": 168083,
-      "name": "Magnetismo",
-      "url": "https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo"
     },
     {
       "added_at": "2023-06-14 05:00:00",

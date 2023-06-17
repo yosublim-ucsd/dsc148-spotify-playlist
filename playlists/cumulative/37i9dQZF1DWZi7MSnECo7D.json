@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: YMA, Jadsa",
+  "description": "Novidades e destaques do indie nacional. Foto: Tro\u00e1!, Tuyo",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -592,6 +592,28 @@
       "duration_ms": 116180,
       "name": "Antes de Me Deixar",
       "url": "https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs"
+    },
+    {
+      "album": {
+        "name": "Anti-her\u00f3i",
+        "url": "https://open.spotify.com/album/7d5kPjWxtuHwRUujXIfqTD"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Anti-her\u00f3i",
+      "url": "https://open.spotify.com/track/5bEZ3lfnkTJiVKA4wdVUvt"
     },
     {
       "album": {
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 84927,
       "name": "coitado",
       "url": "https://open.spotify.com/track/5LhJqRASDOVVVdkLGeRxCa"
@@ -3950,7 +3972,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 154223,
       "name": "Medo de Ser",
       "url": "https://open.spotify.com/track/4X2etbLfAFMwedJBQVTjK1"
@@ -4132,7 +4154,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 139325,
       "name": "Meu gato te odeia",
       "url": "https://open.spotify.com/track/5OpaidMj4AASyuFAWYLwJ9"
@@ -4756,6 +4778,24 @@
       "duration_ms": 199134,
       "name": "n\u00e3o posso ficar (pra sempre)",
       "url": "https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o T\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/6nbjq7zgZxmIyyjK3RpVOo"
+      },
+      "artists": [
+        {
+          "name": "Garotas Suecas",
+          "url": "https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261885,
+      "name": "N\u00e3o T\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/1sWp5zr7a2sXDhi6f13r3A"
     },
     {
       "album": {
@@ -6060,6 +6100,28 @@
       "duration_ms": 160800,
       "name": "R\u00e1dio-Rel\u00f3gio",
       "url": "https://open.spotify.com/track/6hrq44XyDxvIkhemm70sbd"
+    },
+    {
+      "album": {
+        "name": "Deboche",
+        "url": "https://open.spotify.com/album/2zdg9ovVR6T7e8txGkPugS"
+      },
+      "artists": [
+        {
+          "name": "Tro\u00e1!",
+          "url": "https://open.spotify.com/artist/1hsd0kkU0puYY7bmjJjn7b"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246610,
+      "name": "Sagu",
+      "url": "https://open.spotify.com/track/4J3PK1i4wmKn1Uqq1PqAq4"
     },
     {
       "album": {

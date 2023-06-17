@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Lyngs\u00f8",
+        "url": "https://open.spotify.com/album/6s05G95fFMgBA5rUl0doqF"
+      },
+      "artists": [
+        {
+          "name": "Felix Langgard",
+          "url": "https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Lyngs\u00f8",
+      "url": "https://open.spotify.com/track/5rL8owemcpQCMvVH91Ijsb"
+    },
+    {
+      "album": {
         "name": "Macromedas",
         "url": "https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl"
       },
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 147233,
       "name": "Sleeping Giants",
       "url": "https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v"

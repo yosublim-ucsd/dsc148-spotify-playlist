@@ -2307,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "Quarto Tapes",
+        "url": "https://open.spotify.com/album/7ic6DrrK2rh9MZkqCJzda8"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Vitor Akin",
+          "url": "https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Bota na Garganta",
+      "url": "https://open.spotify.com/track/4ftPG70VcR2q7zEhOsjezm"
+    },
+    {
+      "album": {
         "name": "Bota Pra Descer",
         "url": "https://open.spotify.com/album/3EcORgncBTSfuFIIJ4XASM"
       },
@@ -3214,6 +3240,24 @@
       "duration_ms": 158117,
       "name": "Cheia de Marra",
       "url": "https://open.spotify.com/track/5X4hH95ldp2660RESHzIao"
+    },
+    {
+      "album": {
+        "name": "Imortais",
+        "url": "https://open.spotify.com/album/1C6C76ZavPk1G7LHE9udPI"
+      },
+      "artists": [
+        {
+          "name": "PrimeiraMente",
+          "url": "https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236086,
+      "name": "Chique",
+      "url": "https://open.spotify.com/track/2ArBXiBNTpPzKBA2zwxI5B"
     },
     {
       "album": {
@@ -9684,7 +9728,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152000,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/2Tk4WbHJ8vwYOvekWSNOfd"
@@ -12282,7 +12326,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 127500,
       "name": "Puta M\u00e1",
       "url": "https://open.spotify.com/track/5dlsn3Rra8eUz4vqM7vV9I"

@@ -1117,6 +1117,32 @@
     },
     {
       "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+    },
+    {
+      "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
       },
@@ -1552,6 +1578,24 @@
       "duration_ms": 252758,
       "name": "Plainte Alli\u00e9es",
       "url": "https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw"
+    },
+    {
+      "album": {
+        "name": "POUFA",
+        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151575,
+      "name": "POUFA",
+      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
       "album": {

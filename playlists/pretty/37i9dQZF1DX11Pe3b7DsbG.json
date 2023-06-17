@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 228035,
+  "num_followers": 228054,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTJlMzkzYzM4ZjIwNGRmNjU2YzFmODM0NDllM2MxOTg5ODRjNDgy",
+  "snapshot_id": "MCxlZGY3OTkxOGM4MmNmNjFjZDkyMTAyMWVhNWEzZDdhMWQ2YWZkNDVm",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+      },
+      "artists": [
+        {
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
-        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
-      },
-      "artists": [
-        {
-          "name": "Nelson Cavaquinho",
-          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Quando Eu Me Chamar Saudade",
-      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Quatro Grandes Do Samba",
         "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 226813,
       "name": "Sambista Perfeito",
       "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-01-25 16:05:09",

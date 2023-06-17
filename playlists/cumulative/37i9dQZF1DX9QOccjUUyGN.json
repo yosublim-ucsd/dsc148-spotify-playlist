@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 173126,
       "name": "10 a 10",
       "url": "https://open.spotify.com/track/1wjxmWw5QpD9c5KIfobL41"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 122972,
       "name": "Ampulheta",
       "url": "https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152000,
       "name": "Bem S\u00f3",
       "url": "https://open.spotify.com/track/0sdkSOf0DMZP7EmKxDsRyB"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 172800,
       "name": "Ela Vem Jogando Tudo Pra Mim",
       "url": "https://open.spotify.com/track/7v4fI1akJweXPhNgDIAf0z"
@@ -4028,7 +4028,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 111500,
       "name": "HOJE NUM D\u00c1",
       "url": "https://open.spotify.com/track/5h8McRgf0ATUHcGSj0hzA4"
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 201852,
       "name": "Lembran\u00e7as",
       "url": "https://open.spotify.com/track/4x1yIYNE6TD5zbdG9FzIm0"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 117230,
       "name": "LIGUEI O F",
       "url": "https://open.spotify.com/track/6acACW2aJaRn7xvj81g2we"
@@ -5166,6 +5166,36 @@
       "duration_ms": 134171,
       "name": "Menina Praiana",
       "url": "https://open.spotify.com/track/3oHDlHHJlF2O9LquyxqKP3"
+    },
+    {
+      "album": {
+        "name": "Diamandra",
+        "url": "https://open.spotify.com/album/5YhdCHqkkCMJ3AGCilrf4j"
+      },
+      "artists": [
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/7oFmCQl2Ub1Pzr6uYqCe6W"
+        },
+        {
+          "name": "Maff",
+          "url": "https://open.spotify.com/artist/0NtgwuL7bDfkbxwO3dj3C2"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190074,
+      "name": "Meu Bonde",
+      "url": "https://open.spotify.com/track/3z6qoU5pfQDtSvYctC3AkH"
     },
     {
       "album": {
@@ -6942,6 +6972,24 @@
       "duration_ms": 182458,
       "name": "Posturado & Trajad\u00e3o",
       "url": "https://open.spotify.com/track/4fXouQHvZXHl9KN0zazOHI"
+    },
+    {
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/5dRk25j5gv9HNkqzfDF2CG"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/61JLcgwqCPklv7QOsmqrvR"
     },
     {
       "album": {

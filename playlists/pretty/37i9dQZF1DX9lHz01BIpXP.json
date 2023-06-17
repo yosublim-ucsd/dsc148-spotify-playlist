@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA4Y2QxYWY1MmY3MTFhNTA2ZjI2NTc0MmQxYTJiMjkzZDk3YjJj",
+  "snapshot_id": "MCxlZmQ4MTQwNDc0OTg2YWU4ZDEzMmQ5NzVhY2U0N2YzYTI3Y2FmODg5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:48:09",
@@ -70,6 +70,14 @@
         {
           "name": "Die Twaalf",
           "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
+        {
+          "name": "Fred",
+          "url": "https://open.spotify.com/artist/3luAIKpBkjwkUdXZkiUBwb"
+        },
+        {
+          "name": "Jeanmiddlevinger",
+          "url": "https://open.spotify.com/artist/5gyskf23m4F6QShG4bG0Gj"
         }
       ],
       "duration_ms": 175757,

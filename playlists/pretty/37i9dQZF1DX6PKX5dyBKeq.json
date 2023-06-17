@@ -1,15 +1,15 @@
 {
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee & Dave",
-  "num_followers": 1301881,
+  "num_followers": 1302118,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgyZDlmNjQyZDIzNTk3MDA4ZjM5ODFhOThiNWU2MWU3ZDIwYTgw",
+  "snapshot_id": "MCw5ZGJhYTNiMjQyNDY0YTJiNTI4N2U3NWVkYTIwNjdhOWUzYWFhOTI3",
   "tracks": [
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "It's Crazy",
         "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
@@ -45,23 +45,59 @@
       "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl"
+        "name": "High Profile (feat. Rimzee)",
+        "url": "https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
         }
       ],
-      "duration_ms": 160519,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0"
+      "duration_ms": 200724,
+      "name": "High Profile (feat. Rimzee)",
+      "url": "https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "Day Date",
+        "url": "https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "duration_ms": 182387,
+      "name": "Day Date",
+      "url": "https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "DTF",
+        "url": "https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 138377,
+      "name": "DTF",
+      "url": "https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "The Playlist",
         "url": "https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -113,23 +149,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Day Date",
-        "url": "https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq"
-      },
-      "artists": [
-        {
-          "name": "Clavish",
-          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
-        }
-      ],
-      "duration_ms": 182387,
-      "name": "Day Date",
-      "url": "https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Tony Soprano 2",
         "url": "https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1"
@@ -145,7 +165,39 @@
       "url": "https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/4dzLBHQWjH8KPqHsow0AkY"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/3M90pvbJs8R4Ki5pTJUyhS"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Us Against the World (Remix)",
         "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
@@ -165,23 +217,23 @@
       "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI"
+      "duration_ms": 160519,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/40KmIveFJGLnFIz6g8jqPR"
@@ -201,7 +253,23 @@
       "url": "https://open.spotify.com/track/332LAe5CARYmQZ9PneOR2c"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "Outings",
+        "url": "https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Outings",
+      "url": "https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Crop Circle 2",
         "url": "https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6"
@@ -221,23 +289,7 @@
       "url": "https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Outings",
-        "url": "https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Outings",
-      "url": "https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "J'adore",
         "url": "https://open.spotify.com/album/0hBrxcpPgKQwXSh44trEzp"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/1ZiBudnpvQfopaxd8bbDLD"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Real Back In Style",
         "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Young Money",
         "url": "https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9"
@@ -285,7 +337,7 @@
       "url": "https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Cristale x TeeZandos x Fumez The Engineer - Plugged In",
         "url": "https://open.spotify.com/album/0kcuiUrOGdVASzX1B7EtIy"
@@ -309,7 +361,7 @@
       "url": "https://open.spotify.com/track/50tk1CWIz73Zkoycyodw49"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
@@ -325,7 +377,23 @@
       "url": "https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "DTB",
+        "url": "https://open.spotify.com/album/7icXXSu17oor9WIvME1txz"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Purple Hearts",
         "url": "https://open.spotify.com/album/7Et7I5XV9sRMc47uuKRfuY"
@@ -349,7 +417,7 @@
       "url": "https://open.spotify.com/track/0EOMZzZ4Czq4B1yVvjHvBb"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Nostalgic",
         "url": "https://open.spotify.com/album/6mnYEPTbNbCGSNrrRr6DKZ"
@@ -365,7 +433,23 @@
       "url": "https://open.spotify.com/track/4c7hAxxli9JQ5cu5qgVyEY"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB"
+    },
+    {
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
@@ -381,7 +465,7 @@
       "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -401,7 +485,7 @@
       "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Double R's",
         "url": "https://open.spotify.com/album/4vKYjOVhvVnJFIatX9eN2D"
@@ -417,7 +501,7 @@
       "url": "https://open.spotify.com/track/4F1uw6lcqBUphG9fwayWdT"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Spaceships",
         "url": "https://open.spotify.com/album/7zEdWQZzm0vsMCLa8P7AXB"
@@ -433,7 +517,7 @@
       "url": "https://open.spotify.com/track/7mHRSNvCAIn6pc4av4L7iQ"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Predicate",
         "url": "https://open.spotify.com/album/4EO6YGsWgMwC25qt0aZP4K"
@@ -457,7 +541,7 @@
       "url": "https://open.spotify.com/track/6aIjb1aiKJd1YHjR3apCpM"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
@@ -473,7 +557,7 @@
       "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Crazy Titch",
         "url": "https://open.spotify.com/album/0QHVDVbGrdTI1d4uWXTJGT"
@@ -489,7 +573,7 @@
       "url": "https://open.spotify.com/track/0IrPV9VlXPKBApe0jk6CSY"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/0ux2h3FIMbfbfdPDVuQRIZ"
@@ -505,7 +589,7 @@
       "url": "https://open.spotify.com/track/7plasP6SM6dCa9EXvFZeDE"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Big Bad IVD",
         "url": "https://open.spotify.com/album/3qH8RgYwwuEXMuR7zKfeug"
@@ -521,7 +605,7 @@
       "url": "https://open.spotify.com/track/3MqJ2tJjCaSNNBknUxLJSW"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "First Lap",
         "url": "https://open.spotify.com/album/0Ukfuv1AjZhBQg7c2QpDaK"
@@ -541,7 +625,7 @@
       "url": "https://open.spotify.com/track/3qADzUJtHJMy6rxbSLusJ5"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Martin's Sofa",
         "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
@@ -557,7 +641,7 @@
       "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Rivals",
         "url": "https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3"
@@ -577,7 +661,7 @@
       "url": "https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "The Village Is On Fire",
         "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
@@ -597,7 +681,7 @@
       "url": "https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Community Service",
         "url": "https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3"
@@ -617,7 +701,7 @@
       "url": "https://open.spotify.com/track/7qC86Z9uvPyDiTlO8Kubd3"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Thrill",
         "url": "https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD"
@@ -633,7 +717,7 @@
       "url": "https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "GOD SAVE THE STREETS",
         "url": "https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM"
@@ -649,7 +733,7 @@
       "url": "https://open.spotify.com/track/1ypCPdkZ5Woxk1llRwKkXg"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "No Signal",
         "url": "https://open.spotify.com/album/3BLcsAbU41bMIhW3s37bMK"
@@ -665,7 +749,7 @@
       "url": "https://open.spotify.com/track/0y5ychpMHo8cdpKks8qhag"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Tekky",
         "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
@@ -693,7 +777,7 @@
       "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
@@ -713,7 +797,7 @@
       "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -733,7 +817,7 @@
       "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Wanna Chill Baby?",
         "url": "https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy"
@@ -749,7 +833,7 @@
       "url": "https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Groupie (feat. Krept & Konan)",
         "url": "https://open.spotify.com/album/7f8yrrLvb3AaNfn7Tk0FOm"
@@ -769,7 +853,7 @@
       "url": "https://open.spotify.com/track/5txWoKXy7fwNmcF7XCqE4V"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "SKALA",
         "url": "https://open.spotify.com/album/6BIGR8uZg8WLTwYBowVX4d"
@@ -785,7 +869,7 @@
       "url": "https://open.spotify.com/track/2DklZOenvD23m4sq7OZzS1"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Londis",
         "url": "https://open.spotify.com/album/7zUhMpBjYev8OA0iOqn4M0"
@@ -801,7 +885,7 @@
       "url": "https://open.spotify.com/track/407EhBT7nve14f1AcH8s3o"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Real Back In Style",
         "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
@@ -817,7 +901,7 @@
       "url": "https://open.spotify.com/track/4MOOC6wxoMIz4Rl4YEmVQ9"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Air Force",
         "url": "https://open.spotify.com/album/6s9AtSAMNHib87xoY9HWNW"
@@ -833,7 +917,7 @@
       "url": "https://open.spotify.com/track/2k9RFuhZTNLyWGu6sMkxEY"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Round 2",
         "url": "https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab"
@@ -849,7 +933,7 @@
       "url": "https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/0JawpNpZqWLq1WPNfQEllx"
@@ -865,7 +949,7 @@
       "url": "https://open.spotify.com/track/6zFxBYARcXEH6K9HhhsWZf"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Shot Caller",
         "url": "https://open.spotify.com/album/5zYCqvXuubHbcl2jippuyf"
@@ -881,7 +965,7 @@
       "url": "https://open.spotify.com/track/56icWYK58EFvIarTZ8MBDP"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "The Jungle",
         "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
@@ -901,7 +985,7 @@
       "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "1 on 1",
         "url": "https://open.spotify.com/album/7ACj5us0hNmMf6g3VdgZHN"
@@ -917,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7kYuzu1icGDszMFXewYNAG"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Leave This City",
         "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
@@ -933,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2mdszIpAeBCmV0EkufJPrs"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Perth",
         "url": "https://open.spotify.com/album/5CcszYeWdW5CxLMRadic4L"
@@ -949,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6ZaCKD6mzsj9gWKAL1RPE2"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18"
@@ -965,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5hts2Az7bkqMZLaMWgMkoW"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Love Or Lust",
         "url": "https://open.spotify.com/album/78WMRbJzewjAVBSC62LI6H"
@@ -981,7 +1065,7 @@
       "url": "https://open.spotify.com/track/246fXCzdDcJRFqPWZP05CQ"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Welcome To The Strip",
         "url": "https://open.spotify.com/album/7FTjTrPWYZpf41HeUwY8Md"
@@ -997,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3qXvl17Lw4dgUiBbry2Krk"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Nothing Before It's Time",
         "url": "https://open.spotify.com/album/3RwpuNQAf5GsrRSwk9LNst"
@@ -1017,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4JL9SzKXVbmC9GILP8ZQz3"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Dope",
         "url": "https://open.spotify.com/album/5gAMwX9yT4hBLdM93DNvln"
@@ -1033,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7HCingQ6wa3KmzwATDB6SW"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Played Out",
         "url": "https://open.spotify.com/album/4glX46qxdIZmbXhflIluKD"
@@ -1049,7 +1133,7 @@
       "url": "https://open.spotify.com/track/41SmUxy0G0fkHueWeoBDmE"
     },
     {
-      "added_at": "2023-06-08 23:00:00",
+      "added_at": "2023-06-16 10:35:57",
       "album": {
         "name": "Gyalis",
         "url": "https://open.spotify.com/album/14DZzUwse1F6QE9WaMnRWZ"

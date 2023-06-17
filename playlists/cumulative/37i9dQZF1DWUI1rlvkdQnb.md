@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-170 songs - 9 hr 2 min
+171 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dusk](https://open.spotify.com/track/2aNBp9LFC8M9LG08Emc02A) | [Amanda Narjus](https://open.spotify.com/artist/2ovZf6yEaQI0zPwVK6Pfnu) | [Dusk](https://open.spotify.com/album/0hde9bIuxtlCFGByHbCtfF) | 3:33 | 2021-12-10 |  |
 | [Dusty Star](https://open.spotify.com/track/18HkZKb3Q5nUdLE8a6mj8g) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Dusty Star](https://open.spotify.com/album/3n3mkl4mHxBJsIu1wQlX7o) | 4:43 | 2021-12-10 |  |
 | [Eclipse](https://open.spotify.com/track/4UtZIzqtA5l7pnK9btaANX) | [Estella Martinez](https://open.spotify.com/artist/4yh4jzFYXkJnloEQYICSsX) | [Eclipse](https://open.spotify.com/album/25vdGHdXcGPQ6FbdWw8ryB) | 2:41 | 2021-12-10 |  |
+| [Einschlafen](https://open.spotify.com/track/4zcLd2iz2C0Ql0VErY8siO) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Einschlafen](https://open.spotify.com/album/0wAItp1MRMxnIluoytYYYR) | 2:11 | 2023-06-16 |  |
 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-14 |  |
 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2021-12-10 | 2023-04-14 |
 | [Enlightened Sense](https://open.spotify.com/track/1KHrVFRoVabN7vXoSK3sAP) | [Perceived Present](https://open.spotify.com/artist/0df4GNs9AAMEQQsggBKxU2) | [Enlightened Sense](https://open.spotify.com/album/0Dot5yCiD9YoITgdlpuWC2) | 2:33 | 2021-12-10 |  |

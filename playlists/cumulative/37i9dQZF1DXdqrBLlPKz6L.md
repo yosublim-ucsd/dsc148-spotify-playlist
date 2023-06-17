@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-90 songs - 4 hr 54 min
+92 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [BACKWOOD](https://open.spotify.com/track/189NNUc8Maec0KYHUt7QTG) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [BACKWOOD](https://open.spotify.com/album/2Edi619mH6cCPSuTiDaBNh) | 3:40 | 2023-03-24 |  |
 | [Barrio Antioquia](https://open.spotify.com/track/6oPzWRP2VSZf8EMq5WeL03) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 2:50 | 2022-11-03 |  |
 | [Big Soto: Bzrp Music Sessions, Vol\. 28](https://open.spotify.com/track/6nmgafVgxkF3ukzROfrsZO) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Big Soto: Bzrp Music Sessions, Vol\. 28](https://open.spotify.com/album/7G0tlRenag1LYZ303Ie6dd) | 2:40 | 2021-10-15 |  |
-| [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 | 2021-10-15 |  |
+| [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 | 2021-10-15 | 2023-06-17 |
+| [Blow](https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/76DSYK5UQMOTeiJFyIY0GG) | 3:22 | 2023-03-24 |  |
 | [Bolero 808](https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL) | [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Bolero 808](https://open.spotify.com/album/0tDqrQpbvpTII7Yf35SthC) | 2:45 | 2021-10-15 | 2022-08-20 |
 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 | 2021-10-15 |  |
 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2021-10-15 |  |
@@ -47,7 +48,8 @@
 | [Hablando de Palms](https://open.spotify.com/track/0RK8tfsAaZdWW2qUIoKH8B) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/411cSCPFAGfusWrJMjVbvY) | 3:03 | 2022-04-08 |  |
 | [Hablando de Palms](https://open.spotify.com/track/2zuGuhsTdBxdwmdflVIoX3) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/1CVDNfEKuLH9s4evQ5Q4vv) | 3:03 | 2021-10-15 | 2022-07-29 |
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-10-15 |  |
-| [Hoteles](https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/3RGqp0nFOrkqf5SrE26iaP) | 2:22 | 2022-04-08 |  |
+| [Hoteles](https://open.spotify.com/track/0zbaDrVISF93yL82O7LpoQ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/7FzZZCYbxkv4KUZASG8TkF) | 2:22 | 2023-03-24 |  |
+| [Hoteles](https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/3RGqp0nFOrkqf5SrE26iaP) | 2:22 | 2022-04-08 | 2023-06-17 |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2021-10-15 |  |
 | [KFC](https://open.spotify.com/track/1BWNtvWOHNAC81mTV0dCRO) | [Strong Black](https://open.spotify.com/artist/3QRA3GKxUG3RdCWN4TXKbw) | [KFC](https://open.spotify.com/album/29hG1WQAGqbGjEXR7JoXj0) | 2:45 | 2021-10-15 |  |
 | [Kilo \- Remix](https://open.spotify.com/track/6kbjUcV48LAsO2GnmRnFe2) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Léo Rocatto](https://open.spotify.com/artist/1xK87HD8RdMvmHxdbtLOFS) | [Kilo \(Remix\)](https://open.spotify.com/album/6flM3quj0tXKRv4B5Cwpv0) | 3:49 | 2021-10-15 |  |

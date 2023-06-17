@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49700,
+  "num_followers": 49717,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2RmNWQ2MjM4MjZkZjJlMDlmYzBjNDVmMTU1NDMyNDViMjA5MjA3",
+  "snapshot_id": "MCwyMjkyNWU3YjNhNDQzNGMwZjAxYzg5OTFkMjkxYzVjMzk2ODY4NzM4",
   "tracks": [
     {
       "added_at": "2023-05-29 08:32:58",
@@ -173,6 +173,50 @@
       "url": "https://open.spotify.com/track/26tM5eowQXtvpwCbEIKCb2"
     },
     {
+      "added_at": "2023-06-16 10:54:15",
+      "album": {
+        "name": "Nanna Praana Neene (from \"Kiraathaka 2\")",
+        "url": "https://open.spotify.com/album/63Hvyl58wvGwXPT9yvdKex"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Kokila",
+          "url": "https://open.spotify.com/artist/6BOARM09ZGU5fRNT54e4r0"
+        },
+        {
+          "name": "Vani Harikrishna",
+          "url": "https://open.spotify.com/artist/16CVbXLOZUoF3qpHUkaqsD"
+        }
+      ],
+      "duration_ms": 208992,
+      "name": "Nanna Praana Neene (from \"Kiraathaka 2\")",
+      "url": "https://open.spotify.com/track/4QjxUlpQli0SsYNGxe38lJ"
+    },
+    {
+      "added_at": "2023-06-16 10:54:15",
+      "album": {
+        "name": "Hodirale Halagi (From \"Garadi\")",
+        "url": "https://open.spotify.com/album/7uzcvZdqV8GHtgPMcJbEdm"
+      },
+      "artists": [
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Hodirale Halagi (From \"Garadi\")",
+      "url": "https://open.spotify.com/track/4Enl1qWy0is6vI7fEqi5MH"
+    },
+    {
       "added_at": "2023-06-13 09:32:52",
       "album": {
         "name": "Kousalya Supraja Rama Title Track (From \"Kousalya Supraja Rama\")",
@@ -201,6 +245,30 @@
       "url": "https://open.spotify.com/track/1TMscod5OKfvsC1wtZQSGM"
     },
     {
+      "added_at": "2023-06-16 10:54:15",
+      "album": {
+        "name": "90 Bidi Manig Nadi Title Track (From \"90 Bidi Manig Nadi\")",
+        "url": "https://open.spotify.com/album/4aauBLG2YAKCDny3CK2t93"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "DR. V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0YQkMxPEgpSEn9QX6XtGJ9"
+        },
+        {
+          "name": "Kiran Shankar",
+          "url": "https://open.spotify.com/artist/5MZ3lf2RXr5p6Lmeza5DXF"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "90 Bidi Manig Nadi Title Track - From \"90 Bidi Manig Nadi\"",
+      "url": "https://open.spotify.com/track/5Bztc97SS3GeS2JMGj7hRg"
+    },
+    {
       "added_at": "2023-06-12 06:59:06",
       "album": {
         "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
@@ -219,6 +287,46 @@
       "duration_ms": 260570,
       "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/1ruiOa3vHHJGDEgcFUKzr3"
+    },
+    {
+      "added_at": "2023-06-16 10:54:15",
+      "album": {
+        "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
+        "url": "https://open.spotify.com/album/6HqvV7tednMW0enQajBtJs"
+      },
+      "artists": [
+        {
+          "name": "Kiran Ravindranath",
+          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        },
+        {
+          "name": "Rihaana",
+          "url": "https://open.spotify.com/artist/3vQ1gr9Om8dIICjGZZUnEr"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
+      "url": "https://open.spotify.com/track/7vREFU9tT4weQj3dE2xeAK"
+    },
+    {
+      "added_at": "2023-06-16 10:54:15",
+      "album": {
+        "name": "Nemmadi Hudukalu (from \"Bera\")",
+        "url": "https://open.spotify.com/album/0xXMFbCocAb1Y4X7PlSA6a"
+      },
+      "artists": [
+        {
+          "name": "Hamsika Lyer",
+          "url": "https://open.spotify.com/artist/5RP54hWxpEVDtExkiQu6rf"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Nemmadi Hudukalu (from \"Bera\")",
+      "url": "https://open.spotify.com/track/2i5G1TIdZaRGRZZk4DEOd8"
     },
     {
       "added_at": "2023-06-05 11:07:00",
@@ -313,54 +421,6 @@
       "url": "https://open.spotify.com/track/1ZCdVuUEmitjlrxiDuxKQL"
     },
     {
-      "added_at": "2023-06-06 09:51:24",
-      "album": {
-        "name": "Gadayuddha Title Track (From \"Gadayuddha \")",
-        "url": "https://open.spotify.com/album/5TlWvj76bWtYhudCKYOCyQ"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "Disha Solomon",
-          "url": "https://open.spotify.com/artist/1UazcpFhCgBPYm7aLsEmvE"
-        },
-        {
-          "name": "Wiseking Solomon",
-          "url": "https://open.spotify.com/artist/3tBnoSaW6RanaqVOZtsQ8Y"
-        },
-        {
-          "name": "Chethan Aniketh",
-          "url": "https://open.spotify.com/artist/5FWu34MMYGWT8DgPL3aJce"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Gadayuddha Title Track - From \"Gadayuddha \"",
-      "url": "https://open.spotify.com/track/2OoElAL2HF9XbqoznobQUw"
-    },
-    {
-      "added_at": "2023-06-08 06:08:28",
-      "album": {
-        "name": "Oh My God Devare (From \"Abiramachandra\")",
-        "url": "https://open.spotify.com/album/4WVnfDHLREwYThOa0t8lkF"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Nagendra Ganiga",
-          "url": "https://open.spotify.com/artist/0zx9OSub6IuBVpQRHTlch3"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Oh My God Devare (From \"Abiramachandra\")",
-      "url": "https://open.spotify.com/track/2BIsVZMdemtOsoS5UFWJZE"
-    },
-    {
       "added_at": "2023-06-09 06:29:08",
       "album": {
         "name": "Bekitta Bekitta (From \"Raju James Bond\")",
@@ -445,26 +505,6 @@
       "url": "https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9"
     },
     {
-      "added_at": "2023-06-05 11:07:00",
-      "album": {
-        "name": "JoJo Laali (From \"Sthabda\")",
-        "url": "https://open.spotify.com/album/1U06mcxiZI2HYKG7OeaWeJ"
-      },
-      "artists": [
-        {
-          "name": "Laali Raghav",
-          "url": "https://open.spotify.com/artist/4TsJTD78MHGuWh7nz3YOOf"
-        },
-        {
-          "name": "Aarav Rishik",
-          "url": "https://open.spotify.com/artist/345U079R8yCBIRcHhJ9L1f"
-        }
-      ],
-      "duration_ms": 119877,
-      "name": "JoJo Laali (From \"Sthabda\")",
-      "url": "https://open.spotify.com/track/2xIwplTPDMRUcZOJZnn8ku"
-    },
-    {
       "added_at": "2023-06-06 09:51:24",
       "album": {
         "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
@@ -474,51 +514,15 @@
         {
           "name": "Anthony Daasan",
           "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
         }
       ],
       "duration_ms": 238909,
       "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/3OPIInoiNtSMqYQq7meDg6"
-    },
-    {
-      "added_at": "2023-06-05 11:07:00",
-      "album": {
-        "name": "Dhage Uriva Hagalinali (From \"Bisilu Kudure\")",
-        "url": "https://open.spotify.com/album/4ZkIyPzYu680mfrN5XPs2g"
-      },
-      "artists": [
-        {
-          "name": "Imtiyaz Sultan",
-          "url": "https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi"
-        },
-        {
-          "name": "Hridaya Shiva",
-          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
-        }
-      ],
-      "duration_ms": 230549,
-      "name": "Dhage Uriva Hagalinali (From \"Bisilu Kudure\")",
-      "url": "https://open.spotify.com/track/3aegtetGkIidPD7CunDamn"
-    },
-    {
-      "added_at": "2023-06-05 11:07:00",
-      "album": {
-        "name": "Halliya Maneya (From \"Damayana\")",
-        "url": "https://open.spotify.com/album/3KiXDNOAn3bowqxfF9UXGZ"
-      },
-      "artists": [
-        {
-          "name": "Rajath Hegde",
-          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
-        },
-        {
-          "name": "Keerthan Balila",
-          "url": "https://open.spotify.com/artist/5tt4wjos8qYzTEMlRsEQNJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Halliya Maneya (From \"Damayana\")",
-      "url": "https://open.spotify.com/track/3LRFNYSxXWVphDM34CgNXt"
     },
     {
       "added_at": "2023-05-29 10:08:54",
@@ -548,12 +552,12 @@
       },
       "artists": [
         {
-          "name": "Sangeetha Hegde",
-          "url": "https://open.spotify.com/artist/4c1vRxGzHO3hbE2hnWpwWP"
+          "name": "Sangeetha Rajeev",
+          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
         },
         {
-          "name": "Ravi Prakash",
-          "url": "https://open.spotify.com/artist/7LNnXRZnqkKVS2koSi26J8"
+          "name": "Ravi Prakash Chodimalla",
+          "url": "https://open.spotify.com/artist/1J5d9DMAj9oYk7yKswHj8U"
         },
         {
           "name": "Sricharan Pakala",

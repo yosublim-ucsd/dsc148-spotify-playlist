@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Atacama (Edit)",
+        "url": "https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237056,
+      "name": "Atacama - Edit",
+      "url": "https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r"
+    },
+    {
+      "album": {
         "name": "Audara EP",
         "url": "https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 240144,
       "name": "Aye Aye",
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
@@ -1098,6 +1116,28 @@
       "duration_ms": 289180,
       "name": "Blue Rose",
       "url": "https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a"
+    },
+    {
+      "album": {
+        "name": "Bocat",
+        "url": "https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "Albertina",
+          "url": "https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385567,
+      "name": "Bocat",
+      "url": "https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B"
     },
     {
       "album": {
@@ -1662,7 +1702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 233000,
       "name": "Cutting Ribbons (feat. Paul Brenning)",
       "url": "https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G"
@@ -1680,7 +1720,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 430250,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe"
@@ -1976,7 +2016,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 412605,
       "name": "Don't Push",
       "url": "https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3"
@@ -2090,7 +2130,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 574838,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
@@ -2240,6 +2280,28 @@
       "duration_ms": 304426,
       "name": "Endless History",
       "url": "https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI"
+    },
+    {
+      "album": {
+        "name": "Temple Of Dreams",
+        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Enjoy The Rain (feat. Nathan Daisy)",
+      "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
     },
     {
       "album": {
@@ -2596,7 +2658,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 248049,
       "name": "Fizzy Pop",
       "url": "https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW"
@@ -3052,7 +3114,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
@@ -3446,7 +3508,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "I'm Everything - Chemical Surf Remix",
       "url": "https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757"
@@ -3654,7 +3716,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 252790,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
@@ -4320,7 +4382,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 268355,
       "name": "Looking at Your Pager - Solomun Remix",
       "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
@@ -4402,7 +4464,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 331457,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
@@ -4862,7 +4924,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 397000,
       "name": "Melt",
       "url": "https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU"
@@ -5140,7 +5202,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 218900,
       "name": "More Than I Should Know",
       "url": "https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo"
@@ -5761,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ"
+      },
+      "artists": [
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
+    },
+    {
+      "album": {
         "name": "Evaporate EP",
         "url": "https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1"
       },
@@ -5862,7 +5942,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 291346,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/3gJu4keUtRC5e32h64905c"
@@ -6388,7 +6468,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 525619,
       "name": "Regina Blue",
       "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
@@ -6414,6 +6494,24 @@
       "duration_ms": 431657,
       "name": "Reign - Okuma Remix",
       "url": "https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr"
+    },
+    {
+      "album": {
+        "name": "Relax Shiva",
+        "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Relax Shiva",
+      "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
     },
     {
       "album": {
@@ -6702,7 +6800,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 409492,
       "name": "Shades Of Night",
       "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
@@ -6848,7 +6946,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
@@ -6936,7 +7034,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 315483,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/3kBQXkTGrMgwk1sxGd5rAH"
@@ -7342,7 +7440,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 308934,
       "name": "Take Care - Maz Remix",
       "url": "https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0"
@@ -8004,7 +8102,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Tumda",
       "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
@@ -8102,7 +8200,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 368682,
       "name": "Universal Love",
       "url": "https://open.spotify.com/track/531RaZXLyYi8ZiIpqSGjwJ"
@@ -8590,7 +8688,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 212459,
       "name": "Waves of the Soul",
       "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"

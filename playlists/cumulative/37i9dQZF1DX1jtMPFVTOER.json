@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 212542,
       "name": "Anywhere (feat. Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/4VMzhRu40whxcDcKuoHLr0"
@@ -1133,6 +1133,32 @@
     },
     {
       "album": {
+        "name": "Blow Your Mind / Let's Take It Back (feat. Sy Smith, Javier Starks)",
+        "url": "https://open.spotify.com/album/1QhLIsYWzxWpjpDCd1GrPD"
+      },
+      "artists": [
+        {
+          "name": "Gregory Hutchinson",
+          "url": "https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y"
+        },
+        {
+          "name": "Sy Smith",
+          "url": "https://open.spotify.com/artist/4vGS9mc7YHh5Mpfd51X8MF"
+        },
+        {
+          "name": "Javier Starks",
+          "url": "https://open.spotify.com/artist/3qvPKoyYd4EFid8bNaFJ3Q"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278300,
+      "name": "Blow Your Mind / Let's Take It Back (feat. Sy Smith, Javier Starks)",
+      "url": "https://open.spotify.com/track/4YVDF6NI0L55h9zHd3QoM6"
+    },
+    {
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -1342,7 +1368,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 204093,
       "name": "Breevin\u2019",
       "url": "https://open.spotify.com/track/3gtXEtHVTc6uBytakGwrUq"
@@ -2122,7 +2148,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 209428,
       "name": "Cryin' Heart",
       "url": "https://open.spotify.com/track/6ZMugawDueowg6Zi4X0mN3"
@@ -2280,7 +2306,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 258443,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/5Flg2sCDHIBGevslsbSqUm"
@@ -4081,6 +4107,28 @@
     },
     {
       "album": {
+        "name": "I Can Say To You [Feat. Vanisha Gould]",
+        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
+      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO"
       },
@@ -4092,7 +4140,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 223813,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz"
@@ -9429,6 +9477,28 @@
     },
     {
       "album": {
+        "name": "Whatcha Know",
+        "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234593,
+      "name": "Whatcha Know",
+      "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -9594,6 +9664,24 @@
       "duration_ms": 208280,
       "name": "Will They Try",
       "url": "https://open.spotify.com/track/25bNfiteje5iDrNwgn8ZTP"
+    },
+    {
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235554,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"
     },
     {
       "album": {
@@ -9852,6 +9940,24 @@
       "duration_ms": 190333,
       "name": "You Make Me Feel So Good",
       "url": "https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic"
+    },
+    {
+      "album": {
+        "name": "you said...",
+        "url": "https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134794,
+      "name": "you said...",
+      "url": "https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf"
     },
     {
       "album": {

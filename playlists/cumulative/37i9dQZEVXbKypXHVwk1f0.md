@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-790 songs - 1 day 21 hr 4 min
+791 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-07 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2021-03-27\* | 2021-03-27 |
-| [Ayahuasca](https://open.spotify.com/track/19XCnhEryQmS1TLWQyawZl) | [Bring55](https://open.spotify.com/artist/0vZbLlOGDqBhS25bc4fp73) | [Ayahuasca](https://open.spotify.com/album/111EWQtg07nn7Rt44ONX0A) | 3:23 | 2023-04-13 |  |
+| [Ayahuasca](https://open.spotify.com/track/19XCnhEryQmS1TLWQyawZl) | [Bring55](https://open.spotify.com/artist/0vZbLlOGDqBhS25bc4fp73) | [Ayahuasca](https://open.spotify.com/album/111EWQtg07nn7Rt44ONX0A) | 3:23 | 2023-04-13 | 2023-06-17 |
+| [Ayahuasca](https://open.spotify.com/track/4l9bFChPNg0okIw6RK3NBI) | [Faster](https://open.spotify.com/artist/7HhjjbbHFmD12RKvEiguP8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ayahuasca](https://open.spotify.com/album/5ZoaSwYCNDcyH9K7qG1kGG) | 3:22 | 2023-06-16 |  |
 | [Ayahuasca](https://open.spotify.com/track/721VRv9NNN7pPDjo1V0HpG) | [Last Dud Music](https://open.spotify.com/artist/3a0m7xegA51QIRns7ixqSC) | [Ayahuasca](https://open.spotify.com/album/2bpkyooD63amWi9iqyS2Bb) | 3:23 | 2023-04-19 | 2023-04-21 |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-10-15 | 2022-10-19 |
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2023-06-09 | 2023-06-14 |

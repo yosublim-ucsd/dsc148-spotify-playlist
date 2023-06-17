@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: The Glorious Sons",
+  "description": "New adventures in rock start here. Cover: JULES IS DEAD",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "A Little Bit Happy",
+        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
+    },
+    {
+      "album": {
         "name": "A Song For Ya",
         "url": "https://open.spotify.com/album/5k6atP9bToH8DdzO5bmI5U"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 227940,
       "name": "Afraid of the Dark",
       "url": "https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 252053,
       "name": "Bottle Episodes",
       "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 194545,
       "name": "Constant Weekend",
       "url": "https://open.spotify.com/track/5P1Kc5r3Hi56ZqjKxdPOiP"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 161011,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/6ViEegCPVSoBPKqfLkBGkN"
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 192026,
       "name": "GRAVEDIGGER",
       "url": "https://open.spotify.com/track/5J0Jr9X1g4EqNKYQj1d9ZY"
@@ -2271,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "HUNGOVER",
+        "url": "https://open.spotify.com/album/4SmmY5mzkycS02Vk9pofKA"
+      },
+      "artists": [
+        {
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132401,
+      "name": "HUNGOVER",
+      "url": "https://open.spotify.com/track/2GHVMfuNzmKWA3gk3EyEGT"
+    },
+    {
+      "album": {
         "name": "I Dream Of You",
         "url": "https://open.spotify.com/album/2mkI3oYfKCwZQqXxKhe8Kx"
       },
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 248539,
       "name": "Impersonal Hell",
       "url": "https://open.spotify.com/track/3J0amB6CUi5zTI1eO2HEGm"
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 181590,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag"
@@ -2686,7 +2722,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 173630,
       "name": "Left Me Out To Die",
       "url": "https://open.spotify.com/track/5A40rzOHlMBPZ5Typ7kxjb"
@@ -2906,7 +2942,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 233266,
       "name": "Lustre Parfait",
       "url": "https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ"
@@ -3237,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Napalm!",
+        "url": "https://open.spotify.com/album/5tTJueIK5VksCvqfP66jj2"
+      },
+      "artists": [
+        {
+          "name": "Flowerboy",
+          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145874,
+      "name": "Napalm!",
+      "url": "https://open.spotify.com/track/3RIgGojBi8VbkiC8abzd2G"
+    },
+    {
+      "album": {
         "name": "Never Gonna Give This Up",
         "url": "https://open.spotify.com/album/70fUpHWzQzmUniveu6CZGC"
       },
@@ -3414,7 +3468,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 133000,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu"
@@ -3436,6 +3490,28 @@
       "duration_ms": 174816,
       "name": "O-zone",
       "url": "https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93"
+    },
+    {
+      "album": {
+        "name": "OFF BAT",
+        "url": "https://open.spotify.com/album/53q6YzR84HesqPLahd1qRI"
+      },
+      "artists": [
+        {
+          "name": "Atwood",
+          "url": "https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv"
+        },
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "OFF BAT",
+      "url": "https://open.spotify.com/track/6QA42ZcBRWeLGH1DMwWILs"
     },
     {
       "album": {
@@ -3616,6 +3692,24 @@
       "duration_ms": 226410,
       "name": "Paper Cups",
       "url": "https://open.spotify.com/track/63sFjWZodU14UOFxROPThl"
+    },
+    {
+      "album": {
+        "name": "Peace Jam",
+        "url": "https://open.spotify.com/album/7H8MtdwMRJKIaR8bzflEpa"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260228,
+      "name": "Peace Jam",
+      "url": "https://open.spotify.com/track/1iKMc4nv8k48g762N3NTVz"
     },
     {
       "album": {
@@ -3822,7 +3916,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 216626,
       "name": "Qaigi",
       "url": "https://open.spotify.com/track/7nEu161pDcPeVCtl7K4Tab"
@@ -3991,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Red Light, Green Light",
+        "url": "https://open.spotify.com/album/4b2yYikddMda3CGCME36vM"
+      },
+      "artists": [
+        {
+          "name": "Harm & Ease",
+          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171343,
+      "name": "Red Light, Green Light",
+      "url": "https://open.spotify.com/track/4CwuKAb7TvvHWu5atcfhZE"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/0FWAmZX4HCFZhpSntrDxs3"
       },
@@ -4132,6 +4244,24 @@
       "duration_ms": 159000,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl"
+      },
+      "artists": [
+        {
+          "name": "Sasha Cay",
+          "url": "https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328636,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR"
     },
     {
       "album": {
@@ -4762,7 +4892,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 323093,
       "name": "The Love Still Held Me Near",
       "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
@@ -4842,7 +4972,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 224047,
       "name": "The Shadow",
       "url": "https://open.spotify.com/track/32VXHvlSpyG9LLO5rGCoCJ"
@@ -4868,6 +4998,32 @@
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
+    },
+    {
+      "album": {
+        "name": "They'll Just Love You (feat. Poppy & Danny Elfman)",
+        "url": "https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1"
+      },
+      "artists": [
+        {
+          "name": "Stu Brooks",
+          "url": "https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "They'll Just Love You (feat. Poppy & Danny Elfman)",
+      "url": "https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ"
     },
     {
       "album": {
@@ -5146,7 +5302,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 251897,
       "name": "Uncertain Country",
       "url": "https://open.spotify.com/track/6LaxmYfJJxenLrs3Ds5mSm"
@@ -5420,7 +5576,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 227333,
       "name": "What I Lost",
       "url": "https://open.spotify.com/track/6A2YBRwVay9HFsjErAzHXZ"

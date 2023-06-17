@@ -148,10 +148,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 202035,
       "name": "Blow",
       "url": "https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/76DSYK5UQMOTeiJFyIY0GG"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202035,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ"
     },
     {
       "album": {
@@ -816,6 +834,24 @@
     {
       "album": {
         "name": "Hoteles",
+        "url": "https://open.spotify.com/album/7FzZZCYbxkv4KUZASG8TkF"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142095,
+      "name": "Hoteles",
+      "url": "https://open.spotify.com/track/0zbaDrVISF93yL82O7LpoQ"
+    },
+    {
+      "album": {
+        "name": "Hoteles",
         "url": "https://open.spotify.com/album/3RGqp0nFOrkqf5SrE26iaP"
       },
       "artists": [
@@ -826,7 +862,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 142095,
       "name": "Hoteles",
       "url": "https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV"

@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Average Joe",
+        "url": "https://open.spotify.com/album/6SSOOm89f6lbyNikB0O8mc"
+      },
+      "artists": [
+        {
+          "name": "C'ing Jerome",
+          "url": "https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155749,
+      "name": "Average Joe",
+      "url": "https://open.spotify.com/track/4UnGo0UABzqJY7WQd3EO9u"
+    },
+    {
+      "album": {
         "name": "B.Y.O.B.",
         "url": "https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR"
       },
@@ -1452,6 +1470,24 @@
       "duration_ms": 192818,
       "name": "Ride 4 Me",
       "url": "https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3"
+    },
+    {
+      "album": {
+        "name": "River Rat",
+        "url": "https://open.spotify.com/album/7JD03Rcjz7mmnJWXwJaTBo"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208192,
+      "name": "River Rat",
+      "url": "https://open.spotify.com/track/6LMLpHHp0OWOjAioVwrV2Z"
     },
     {
       "album": {

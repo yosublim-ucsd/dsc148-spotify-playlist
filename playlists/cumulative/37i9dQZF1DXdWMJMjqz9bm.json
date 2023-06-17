@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Barcelona (feat. Samm Henshaw)",
+        "url": "https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200295,
+      "name": "Barcelona (feat. Samm Henshaw)",
+      "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
+    },
+    {
+      "album": {
         "name": "The People's Champ",
         "url": "https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9"
       },
@@ -1140,6 +1162,24 @@
       "duration_ms": 189000,
       "name": "bootleg jordans",
       "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
+    },
+    {
+      "album": {
+        "name": "Bottles N' Coliseums",
+        "url": "https://open.spotify.com/album/2F7O485NubU2UBAZwX4R3w"
+      },
+      "artists": [
+        {
+          "name": "Shumaq",
+          "url": "https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120022,
+      "name": "Bottles N' Coliseums",
+      "url": "https://open.spotify.com/track/6hka6lkWeJAoPIO03c7W6f"
     },
     {
       "album": {
@@ -2138,7 +2178,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 144457,
       "name": "deep end",
       "url": "https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa"
@@ -3133,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "forget about you",
+        "url": "https://open.spotify.com/album/5RpbigRzWwue3Xg4cdSKRo"
+      },
+      "artists": [
+        {
+          "name": "Jude Barclay",
+          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133922,
+      "name": "forget about you",
+      "url": "https://open.spotify.com/track/348bpHZqS0Nac9k7ILPjQ7"
+    },
+    {
+      "album": {
         "name": "die sometime, it's good for u",
         "url": "https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa"
       },
@@ -3600,7 +3658,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -3676,6 +3734,24 @@
       "duration_ms": 164494,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/6oaSQvqdUoTE9M7IsosGBP"
+      },
+      "artists": [
+        {
+          "name": "Vic Sage",
+          "url": "https://open.spotify.com/artist/1Vb5xFUr9KlF32On6L2WPQ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136365,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/1VjbSYsazAQ3wI1Zy7nhVk"
     },
     {
       "album": {
@@ -5728,7 +5804,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 145806,
       "name": "midwest kids",
       "url": "https://open.spotify.com/track/5VPiXYa0YEMrq6cf0MFWM5"
@@ -6736,7 +6812,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 82142,
       "name": "Over Love",
       "url": "https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ"
@@ -7938,7 +8014,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 152043,
       "name": "Singin in the Shower",
       "url": "https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q"
@@ -8412,7 +8488,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 150560,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O"
@@ -9259,6 +9335,28 @@
     },
     {
       "album": {
+        "name": "Took My Breath Away (feat. Skye Morales)",
+        "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Skye Morales",
+          "url": "https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Took My Breath Away (feat. Skye Morales)",
+      "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
+    },
+    {
+      "album": {
         "name": "age tape 4",
         "url": "https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N"
       },
@@ -9776,6 +9874,24 @@
       "duration_ms": 125714,
       "name": "way back 2 you",
       "url": "https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv"
+    },
+    {
+      "album": {
+        "name": "We're Ok",
+        "url": "https://open.spotify.com/album/6D0q6dY0gC9c9tGKRYlQmp"
+      },
+      "artists": [
+        {
+          "name": "Lyan Paris",
+          "url": "https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "We're Ok",
+      "url": "https://open.spotify.com/track/02YKUMpXPdPd05IGpgcvtr"
     },
     {
       "album": {

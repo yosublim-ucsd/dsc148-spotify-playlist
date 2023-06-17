@@ -2,9 +2,9 @@
 
 ### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
 
-> The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
+> The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-494 songs - 1 day 2 hr 38 min
+497 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 | 2022-01-07 | 2022-03-26 |
 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2021-10-07 | 2022-01-08 |
 | [Don't Press Me](https://open.spotify.com/track/3snZmVX4C2BBsDvGBuggyq) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Don't Press Me](https://open.spotify.com/album/0aJVIbtBQh6UzJZEB88SCj) | 1:50 | 2022-06-17 | 2022-08-27 |
+| [Doomer](https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Doomer](https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1) | 3:43 | 2023-06-16 |  |
 | [Doomscrollers](https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Breaking the Balls of History](https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns) | 4:23 | 2023-02-13 |  |
 | [Doomscrollers](https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Doomscrollers](https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I) | 4:23 | 2022-12-09 | 2023-02-15 |
 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 | 2023-02-14 |  |
@@ -173,6 +174,7 @@
 | [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-01-27 | 2023-02-11 |
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2023-02-02 |
 | [Goes Black](https://open.spotify.com/track/4KHWwI6lfD4BuWMLCb6FNo) | [Big Ups](https://open.spotify.com/artist/0r1fPI0b5FqLNZd9Fe0PKk) | [Goes Black](https://open.spotify.com/album/2P3P7ig3WnZChmcJvtJN0K) | 2:21 | 2021-10-07 | 2022-04-29 |
+| [Good Guy](https://open.spotify.com/track/1mSlZW1iN1faQz67l35sRb) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Good Guy](https://open.spotify.com/album/7EJVNNWNSijp1720iMRlUi) | 2:55 | 2023-06-16 |  |
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-11 | 2023-03-11 |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-29 | 2022-07-29 |
 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-07-08 | 2022-08-17 |
@@ -257,6 +259,7 @@
 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 | 2023-04-07 |  |
 | [Let It All Go](https://open.spotify.com/track/1bZh05eZmb6Nl0t5fPhEgN) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Wading \- EP](https://open.spotify.com/album/6SM2HhCR9ct5DPU3TEnV76) | 4:22 | 2022-01-07 | 2022-03-12 |
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2023-03-11 |
+| [Let's Go Home](https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Let's Go Home](https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX) | 3:27 | 2023-06-16 |  |
 | [Life in the Void](https://open.spotify.com/track/0b8fkzdUPsz0cVmQlTqs71) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6) | 2:40 | 2023-04-14 |  |
 | [Life in the Void](https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs) | 2:40 | 2023-03-17 | 2023-04-30 |
 | [Life in the Void](https://open.spotify.com/track/5QiZwq0VvqREkkEKm2m41t) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Life In The Void](https://open.spotify.com/album/7zeWrxLRDsvIC3zLLKrkK6) | 2:40 | 2023-02-13 | 2023-03-27 |
@@ -318,7 +321,7 @@
 | [No Proper Life](https://open.spotify.com/track/3CUd4oB20LXnoWlzQDxTgy) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 2:45 | 2023-05-22 | 2023-06-03 |
 | [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 | 2022-07-08 | 2023-05-24 |
 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 | 2023-01-20 |  |
-| [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/album/1pj7hmoQMPdQVfBG5MrfhN) | 3:32 | 2023-05-22 |  |
+| [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/album/1pj7hmoQMPdQVfBG5MrfhN) | 3:32 | 2023-05-22 | 2023-06-17 |
 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 | 2023-06-02 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-05-22 |  |
 | [Nurse!](https://open.spotify.com/track/2gBHfUuzqb4JP662SOIX7O) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:48 | 2023-05-22 |  |
@@ -377,7 +380,7 @@
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-07-08 | 2023-04-15 |
 | [Security](https://open.spotify.com/track/310b6rhKJa6lFBNccqQeCl) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/4poJkjWruWqqGsumQggoQB) | 3:47 | 2021-10-07 | 2022-01-08 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 |  |
-| [See Me](https://open.spotify.com/track/0zZh4WQlQQYlzoImqXL223) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [See Me](https://open.spotify.com/album/5Fosih0U8AZ0GhzuQQPH7l) | 3:36 | 2022-09-30 |  |
+| [See Me](https://open.spotify.com/track/0zZh4WQlQQYlzoImqXL223) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [See Me](https://open.spotify.com/album/5Fosih0U8AZ0GhzuQQPH7l) | 3:36 | 2022-09-30 | 2023-06-17 |
 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 | 2021-10-07 | 2022-02-12 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 |  |
 | [Separation Anxiety](https://open.spotify.com/track/5R1X7rGapWC8pF5g9s53Qw) | [Priors](https://open.spotify.com/artist/2MdxgHisT3R0aZuSjj0zag) | [Daffodil](https://open.spotify.com/album/6NvXJ5oOIZiQluoLVTMiIl) | 2:42 | 2023-06-02 |  |
@@ -410,7 +413,7 @@
 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 | 2021-10-07 | 2022-11-05 |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-06-10 | 2023-02-14 |
 | [Sticky](https://open.spotify.com/track/0dFMIHgtUpFsMgeYyYOJwG) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Sticky](https://open.spotify.com/album/6LWdXy1pzaQYnNizOzetiq) | 2:34 | 2021-10-07 | 2022-01-08 |
-| [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-05-22 |  |
+| [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-05-22 | 2023-06-17 |
 | [Sub](https://open.spotify.com/track/3GMMJbSkXfjJjeS3os36ys) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Sub](https://open.spotify.com/album/41r4wjYOvLVy93Ov8vwjnv) | 3:06 | 2023-05-22 |  |
 | [Sucker Punch](https://open.spotify.com/track/1L2AtASJngCKtTgYE91N0G) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Sucker Punch](https://open.spotify.com/album/70a7UgQQSrsHc50Dfcwqdu) | 3:41 | 2023-04-14 |  |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-08-06 |
@@ -452,7 +455,7 @@
 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 | 2022-07-08 | 2023-06-03 |
 | [Tigers Jaw](https://open.spotify.com/track/0mlTB3e3CuVvgt8eyzjyhe) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tigers Jaw](https://open.spotify.com/album/3pz2smcCWWn4AP9nPZWLzG) | 4:50 | 2022-04-01 | 2022-11-22 |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-16 | 2022-09-04 |
-| [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-19 |  |
+| [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-19 | 2023-06-17 |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-26 | 2022-09-20 |
 | [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 | 2022-10-14 |  |
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 | 2023-02-11 |

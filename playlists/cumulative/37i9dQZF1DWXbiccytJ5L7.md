@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-89 songs - 5 hr 5 min
+91 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Too Far](https://open.spotify.com/track/6u4QyCtJYymSgcpz3mdaQo) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/57xrSx3W5UoMAcBL4Ms6Ua) | 3:11 | 2023-04-21 |  |
 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 | 2023-03-17 |  |
 | [Ammunition](https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Ammunition](https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ) | 3:04 | 2023-03-17 |  |
+| [Average Joe](https://open.spotify.com/track/4UnGo0UABzqJY7WQd3EO9u) | [C'ing Jerome](https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57) | [Average Joe](https://open.spotify.com/album/6SSOOm89f6lbyNikB0O8mc) | 2:35 | 2023-06-16 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2023-03-17 |  |
 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 | 2023-03-17 |  |
 | [Backyard Lullaby](https://open.spotify.com/track/2p8mjCnBQfoecW5rQxj8lr) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Noah Gordon](https://open.spotify.com/artist/3SgE8veHiqVK2xezARDQPH) | [\#Beast](https://open.spotify.com/album/5FXEyIqi2llnS1CPvpz14X) | 3:27 | 2023-04-21 |  |
@@ -75,6 +76,7 @@
 | [Ride \(feat\. CRUCIFIX\)](https://open.spotify.com/track/0nyA6JFmmF1d1WBb5OHolX) | [Wade B](https://open.spotify.com/artist/6SRngj3jZv4ZH2HDHWMrdQ), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [When It's Real](https://open.spotify.com/album/2Bit7fuwbKJr2BG4b8nPUy) | 3:54 | 2023-03-17 |  |
 | [Ride 4 Me](https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/2hkUv5Lqfj0pVgTYanPNw2) | 3:12 | 2023-04-21 |  |
 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 | 2023-03-17 | 2023-05-18 |
+| [River Rat](https://open.spotify.com/track/6LMLpHHp0OWOjAioVwrV2Z) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [River Rat](https://open.spotify.com/album/7JD03Rcjz7mmnJWXwJaTBo) | 3:28 | 2023-06-16 |  |
 | [Roll With Me](https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Country Boy City Slick](https://open.spotify.com/album/58rS611GRSt8OEG1Wb1fRu) | 3:55 | 2023-03-17 |  |
 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 | 2023-03-17 |  |
 | [Sinner Like Me](https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:28 | 2023-03-17 |  |

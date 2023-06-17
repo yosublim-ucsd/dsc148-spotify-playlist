@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Maluma",
-  "num_followers": 56403,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Emilia",
+  "num_followers": 56401,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDAyNywwNjRkYjMxYjZkYzUzZWM5NTMzZTg0MGI4MDViNTNkODgxODMxNmQw",
+  "snapshot_id": "NDAzMyw0YjFlNDM5NTdmN2ZmZTMwNjNhNmM2MTJkYzNjN2I5NDEwMGRmMjQ4",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:23:15",
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
+    },
     {
       "added_at": "2023-06-09 00:12:51",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 206098,
       "name": "NAGASAKI",
       "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
+    },
+    {
+      "added_at": "2023-06-16 04:27:39",
+      "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
     },
     {
       "added_at": "2023-06-07 04:51:32",

@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 164000,
       "name": "Affairs",
       "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 192004,
       "name": "Call My Name (Odoyewu)",
       "url": "https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 118529,
       "name": "Freak",
       "url": "https://open.spotify.com/track/47CR36CzuRitSayUF08nMV"
@@ -2643,6 +2643,32 @@
     },
     {
       "album": {
+        "name": "K\u0254\u0254",
+        "url": "https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD"
+      },
+      "artists": [
+        {
+          "name": "Uncle Rich",
+          "url": "https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226162,
+      "name": "K\u0254\u0254",
+      "url": "https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy"
+    },
+    {
+      "album": {
         "name": "L.O.M.M",
         "url": "https://open.spotify.com/album/4OqPTrhHycccJHZIjmyBem"
       },
@@ -2654,7 +2680,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 145573,
       "name": "L.O.M.M",
       "url": "https://open.spotify.com/track/7fdO85FrINv2Om093tRY18"
@@ -2882,6 +2908,24 @@
       "duration_ms": 168515,
       "name": "Maa Abena",
       "url": "https://open.spotify.com/track/7Alc1j3oN8n0JEkMvhMlWd"
+    },
+    {
+      "album": {
+        "name": "Obra",
+        "url": "https://open.spotify.com/album/1c3hmyOdzQwWnszbibQ9B3"
+      },
+      "artists": [
+        {
+          "name": "June Jozy",
+          "url": "https://open.spotify.com/artist/0Sll3OkLzAhJBDs0qKO47B"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187219,
+      "name": "Maame",
+      "url": "https://open.spotify.com/track/4ccJ4PNd8Jqwg7B6WpwUAk"
     },
     {
       "album": {
@@ -3173,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Pain on Sound",
+        "url": "https://open.spotify.com/album/1ZsJwPvltPI79MbYCmYSJP"
+      },
+      "artists": [
+        {
+          "name": "REMY DAVID",
+          "url": "https://open.spotify.com/artist/4PSyQ3KVA4gYKKNMiXEjAV"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153971,
+      "name": "No Opps",
+      "url": "https://open.spotify.com/track/5wjVcdwx3j9REM2GPDuXRN"
+    },
+    {
+      "album": {
         "name": "G.I.N.A",
         "url": "https://open.spotify.com/album/5FP1OJulMa7Y7siPhErW2F"
       },
@@ -3206,7 +3268,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 233560,
       "name": "No Warning",
       "url": "https://open.spotify.com/track/7h7DxskWu6P3aFCrlw7xqe"
@@ -3425,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Obra (feat. Roiii)",
+        "url": "https://open.spotify.com/album/0FGOyeBeFcxUu0ChZpFDw7"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Obra (feat. Roiii)",
+      "url": "https://open.spotify.com/track/6nbnJY7as2a7I3kDKNQojM"
+    },
+    {
+      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G"
       },
@@ -3462,7 +3546,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 211880,
       "name": "Odo Nkoaa",
       "url": "https://open.spotify.com/track/1bBpce38RogIi9HneIooXP"
@@ -3934,6 +4018,32 @@
       "duration_ms": 211200,
       "name": "REAP",
       "url": "https://open.spotify.com/track/5Vyk1ZOgNJ7bNHEYNTbjjh"
+    },
+    {
+      "album": {
+        "name": "Ride (feat. Terrist Carter & O'Kenneth)",
+        "url": "https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt"
+      },
+      "artists": [
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "Terrist Carter",
+          "url": "https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "Ride (feat. Terrist Carter & O'Kenneth)",
+      "url": "https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ"
     },
     {
       "album": {
@@ -4588,6 +4698,24 @@
       "duration_ms": 189283,
       "name": "That\u2019s Life",
       "url": "https://open.spotify.com/track/7aAcvHu06RUuV4hm7RVRMo"
+    },
+    {
+      "album": {
+        "name": "The Hardest",
+        "url": "https://open.spotify.com/album/7n6JWdcY6kfxiExe7PBv3Y"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421236,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/0dutl7EuXLQ6KIVRkJz8E8"
     },
     {
       "album": {

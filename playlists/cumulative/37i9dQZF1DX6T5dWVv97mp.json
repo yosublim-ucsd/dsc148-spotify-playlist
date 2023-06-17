@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Afternoon At The Seaside",
+        "url": "https://open.spotify.com/album/0EdncjeUbfHnkJtPWhPl5S"
+      },
+      "artists": [
+        {
+          "name": "Ygor Ghensev",
+          "url": "https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123250,
+      "name": "Afternoon At The Seaside",
+      "url": "https://open.spotify.com/track/0naFjmMAVXjEdqPy2TCUKK"
+    },
+    {
+      "album": {
         "name": "Between Waves (Deluxe Version)",
         "url": "https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD"
       },

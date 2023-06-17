@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Feeling Cool",
+        "url": "https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saba",
+          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Feeling Cool",
+      "url": "https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG"
+    },
+    {
+      "album": {
         "name": "Fi 7eta Tanya",
         "url": "https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL"
       },

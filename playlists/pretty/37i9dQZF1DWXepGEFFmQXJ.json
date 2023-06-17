@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's Country crop. Cover: Seaforth",
-  "num_followers": 346229,
+  "num_followers": 346354,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2FhODc1NjJmMThlNzEwZjU5OTUzYWYwMGE4MDZkYWQ1MTE2MmUz",
+  "snapshot_id": "MCwzM2VlYzliNDNlOTVmYjU5YWRmYjQ0MTU5MGQ3ZTU3OGIyZWY3NmY3",
   "tracks": [
     {
       "added_at": "2023-06-15 14:00:00",
@@ -319,6 +319,22 @@
       "duration_ms": 167534,
       "name": "TRUCK BED",
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
+    },
+    {
+      "added_at": "2023-06-15 14:00:00",
+      "album": {
+        "name": "Half the Man",
+        "url": "https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "duration_ms": 182158,
+      "name": "Half the Man",
+      "url": "https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF"
     },
     {
       "added_at": "2023-06-15 14:00:00",

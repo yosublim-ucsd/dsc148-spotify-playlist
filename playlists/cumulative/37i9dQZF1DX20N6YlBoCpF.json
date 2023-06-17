@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=uzV2N76IT_CvQADlCL8I7g\">Anz\u00e9lle</a>",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=1GC3idLzT5KnbPgzWhLNaQ\">Die Piesangskille</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 182185,
       "name": "Beheer",
       "url": "https://open.spotify.com/track/07erHCnzQ5wDmyY6g9zaC2"
@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Dans In Afrikaans",
+        "url": "https://open.spotify.com/album/5RwIxPCzubmhqyhR13Tz8H"
+      },
+      "artists": [
+        {
+          "name": "Kris Ray",
+          "url": "https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN"
+        },
+        {
+          "name": "Berserkbra",
+          "url": "https://open.spotify.com/artist/543dxxJsdhTZlB6cavIL1p"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176872,
+      "name": "Dans In Afrikaans",
+      "url": "https://open.spotify.com/track/7LTcfYh5Ueh7JCdfT1tuZ8"
+    },
+    {
+      "album": {
         "name": "DANS IN AFRIKAANS",
         "url": "https://open.spotify.com/album/4Nd8axsbqEyRMff4DGXz0u"
       },
@@ -1459,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Dit Breek My Brein",
+        "url": "https://open.spotify.com/album/4nXZbJ66ilgnbPZISJBhkT"
+      },
+      "artists": [
+        {
+          "name": "Dirk Van Der Westhuizen",
+          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223134,
+      "name": "Dit Breek My Brein",
+      "url": "https://open.spotify.com/track/4qmTYLvkzna31MInWfdGem"
+    },
+    {
+      "album": {
         "name": "Dit is Wat Dit Is",
         "url": "https://open.spotify.com/album/4Nz0VpEvl2SHezkIJCSKtB"
       },
@@ -1568,6 +1612,28 @@
       "duration_ms": 182400,
       "name": "Drome Skilder",
       "url": "https://open.spotify.com/track/0eEOuaFWRrm1nd5XBz8TV3"
+    },
+    {
+      "album": {
+        "name": "DROOMSINDROOM",
+        "url": "https://open.spotify.com/album/61McyYzaWujRWwZZL6PKYL"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        },
+        {
+          "name": "lil sadddyz",
+          "url": "https://open.spotify.com/artist/3vAfmEHFFkV2aBeyR7EfJz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167448,
+      "name": "DROOMSINDROOM - lil sadddyz Remix",
+      "url": "https://open.spotify.com/track/5tQiVarPCcNylzDPZ5xOvl"
     },
     {
       "album": {
@@ -1698,7 +1764,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 247743,
       "name": "Ek Moes Dit Ges\u00ea Het",
       "url": "https://open.spotify.com/track/4SPkoOxB7YapvdbghtccTl"
@@ -1886,7 +1952,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 189803,
       "name": "Fairway Lyf",
       "url": "https://open.spotify.com/track/3DLeotilho45LEdwKPYb49"
@@ -2516,7 +2582,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 266521,
       "name": "Illusie Revolusie",
       "url": "https://open.spotify.com/track/2nDlYXVq5advI81WJ958vY"
@@ -3142,7 +3208,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 235434,
       "name": "Kom Terug - Radio Edit",
       "url": "https://open.spotify.com/track/06tDbI3tpM8tEegjENyki1"
@@ -3738,6 +3804,24 @@
       "duration_ms": 208226,
       "name": "Lyfie",
       "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
+    },
+    {
+      "album": {
+        "name": "Lyntjie",
+        "url": "https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "Lyntjie",
+      "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
     },
     {
       "album": {
@@ -4921,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "Probeer",
+        "url": "https://open.spotify.com/album/2fFaVmvkKV0SocM9FhsdFe"
+      },
+      "artists": [
+        {
+          "name": "Augusta Zietsman",
+          "url": "https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224307,
+      "name": "Probeer",
+      "url": "https://open.spotify.com/track/72i3VRguBNgSoNYBW8dR0g"
+    },
+    {
+      "album": {
         "name": "Bring Hulde Aan Worsie Visser",
         "url": "https://open.spotify.com/album/2Izp94W5WvCT0JNamQErdq"
       },
@@ -5164,6 +5266,28 @@
       "duration_ms": 184693,
       "name": "Sannie Die Loopdop",
       "url": "https://open.spotify.com/track/4IfngqUmK5sNeRfZBl5amD"
+    },
+    {
+      "album": {
+        "name": "Seisoene",
+        "url": "https://open.spotify.com/album/1oUpIlY4P6R2cBtb56ByQ2"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        },
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190729,
+      "name": "Seisoene",
+      "url": "https://open.spotify.com/track/7k00injUZAq5pc1IDjL6Rj"
     },
     {
       "album": {
@@ -5696,6 +5820,24 @@
       "duration_ms": 215366,
       "name": "Sterre Brand",
       "url": "https://open.spotify.com/track/1xT34fo4r7js5GIDpybGgb"
+    },
+    {
+      "album": {
+        "name": "Stoutgat",
+        "url": "https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw"
+      },
+      "artists": [
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190796,
+      "name": "Stoutgat",
+      "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
       "album": {
@@ -6430,7 +6572,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 187558,
       "name": "Vleisvreters",
       "url": "https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h"
@@ -6488,6 +6630,24 @@
       "duration_ms": 246095,
       "name": "Vonkel",
       "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
+    },
+    {
+      "album": {
+        "name": "Vrygelatenes",
+        "url": "https://open.spotify.com/album/3OBYIW9dGAJpBUS1SgPHeo"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228510,
+      "name": "Vrygelatenes",
+      "url": "https://open.spotify.com/track/4oq92sbcqScDbR95WWs30i"
     },
     {
       "album": {
@@ -6592,7 +6752,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 208305,
       "name": "Wag Vir Jou",
       "url": "https://open.spotify.com/track/7c9imCnBN4kGmsdaEs1FsQ"
@@ -6834,7 +6994,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 178861,
       "name": "Willemiena Van Gezina",
       "url": "https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9"

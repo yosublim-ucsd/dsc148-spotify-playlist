@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
@@ -3650,6 +3650,24 @@
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2"
+    },
+    {
+      "album": {
+        "name": "Gedima",
+        "url": "https://open.spotify.com/album/4piHLEKpHAJLBFqIXJI3Nm"
+      },
+      "artists": [
+        {
+          "name": "Jantra",
+          "url": "https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236600,
+      "name": "Gedima",
+      "url": "https://open.spotify.com/track/1wQZ5zmN3gy1tvqeSR2Zr8"
     },
     {
       "album": {
@@ -6027,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Makhafi",
+        "url": "https://open.spotify.com/album/4JvXYvW1OSHQY5smCvNtOt"
+      },
+      "artists": [
+        {
+          "name": "Jantra",
+          "url": "https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319955,
+      "name": "Makhafi",
+      "url": "https://open.spotify.com/track/5IHUtO6caNT23Al1oyRAYh"
+    },
+    {
+      "album": {
         "name": "Makom Ma Bobe",
         "url": "https://open.spotify.com/album/5vg3VkyG1kDVrAq0owk2bn"
       },
@@ -7966,7 +8002,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"

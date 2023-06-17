@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 576 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178 likes - 576 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,8 +383,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 373 | [Whitewash Country](https://open.spotify.com/track/6Ind1AWnuYb1pSKwnJgRWh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:30 |
 | 374 | [Too Young](https://open.spotify.com/track/0qhvN2SrAlcYSROyiwVnqZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:12 |
 | 375 | [Shoot Down The Moon](https://open.spotify.com/track/2gVzJjqGAJZZpEbGzHSssf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:09 |
-| 376 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
-| 377 | [Thank You Mama \- Piano Demo](https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:19 |
+| 376 | [Thank You Mama \- Piano Demo](https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:19 |
+| 377 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
 | 378 | [They Call Her The Cat](https://open.spotify.com/track/6jOCw3rPbxQTG3nuxaaX3A) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:27 |
 | 379 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 |
 | 380 | [Lady What's Tomorrow](https://open.spotify.com/track/0xh9za4LZW0FEDrMnqDy5e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:09 |
@@ -401,8 +401,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 391 | [I'm Going Home \- Piano Demo](https://open.spotify.com/track/3JGVQbfKChxILPc1xJw9HT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:03 |
 | 392 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 |
 | 393 | [This Town](https://open.spotify.com/track/65mcPebdGSUMX6VioUCV3X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
-| 394 | [Conquer The Sun](https://open.spotify.com/track/4y33y6VDIvE0LL50q1EgpZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:21 |
-| 395 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
+| 394 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
+| 395 | [Conquer The Sun](https://open.spotify.com/track/4y33y6VDIvE0LL50q1EgpZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:21 |
 | 396 | [In Neon](https://open.spotify.com/track/7lt7Ln4T1msZFAOyuLvs1I) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:19 |
 | 397 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
 | 398 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 |
@@ -472,8 +472,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 462 | [Did He Shoot Her?](https://open.spotify.com/track/4zc43tuPonqY5IJTrOVo6z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:20 |
 | 463 | [Tell Me What The Papers Say](https://open.spotify.com/track/1sMtrL5rMP6Qp7wyAQDH9T) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:40 |
 | 464 | [Slow Rivers](https://open.spotify.com/track/2CW3BiW1wuGFtZFILgbPkr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 3:07 |
-| 465 | [Strangers](https://open.spotify.com/track/4Ousa0idpaZ6KpLmT1iUnF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:46 |
-| 466 | [Watching The Planes Go By \- Stereo Mix](https://open.spotify.com/track/6jcE3XjranCP5TUgWhaPjG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 4:11 |
+| 465 | [Watching The Planes Go By \- Stereo Mix](https://open.spotify.com/track/6jcE3XjranCP5TUgWhaPjG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 4:11 |
+| 466 | [Strangers](https://open.spotify.com/track/4Ousa0idpaZ6KpLmT1iUnF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:46 |
 | 467 | [I Cry At Night](https://open.spotify.com/track/7MAVmdpMgE9CtQ4jIIQNfw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:16 |
 | 468 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
 | 469 | [Billy And The Kids](https://open.spotify.com/track/7vAldmzJrI1td0TCCXOjt0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:25 |
@@ -585,4 +585,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 575 | [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 |
 | 576 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `MjgxMTQ2ODAsMDAwMDAwMDA3MjA0ZGZlY2E2NDRhN2UxYzNiMGRlNTAxNzgwZjM1Ng==`
+Snapshot ID: `MjgxMTYxMjAsMDAwMDAwMDAzOTNjZmI5YTE1NDZmYjcyOGMzZDI4ZGVhOGZmZjhiZg==`

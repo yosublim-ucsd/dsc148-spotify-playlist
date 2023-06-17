@@ -1,15 +1,35 @@
 {
   "description": "A happy place.",
-  "num_followers": 67179,
+  "num_followers": 67310,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU0NTRjNDU2NzY5OTlhMTBmNjc5OWZlODIwMTIzOThiZjAxMjI3",
+  "snapshot_id": "MCxlMzYyNGJkODEzZmIzMjNmYWNjOTI1ZjBiNTQ2MWQ2YTFiM2JlZDAy",
   "tracks": [
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 181477,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
@@ -53,27 +73,27 @@
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Substitution",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 181477,
-      "name": "Substitution",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
@@ -93,27 +113,59 @@
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Never Knew Love Like This Before",
-        "url": "https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3"
+        "name": "Make A Move On Me (Original Disco Mix)",
+        "url": "https://open.spotify.com/album/53q7VI5KMRldkV92ulUSE1"
       },
       "artists": [
         {
-          "name": "QUINZE",
-          "url": "https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa"
+          "name": "Joey Montenegro",
+          "url": "https://open.spotify.com/artist/6gHhrZmFtQPyxxSp8t6m0r"
         },
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
         }
       ],
-      "duration_ms": 182011,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ"
+      "duration_ms": 226838,
+      "name": "Make A Move On Me - Original Disco Edit",
+      "url": "https://open.spotify.com/track/0udAx5du6tPDO5n4J11NwB"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Pretty Girl Pack",
+        "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 224865,
+      "name": "Pretty Girl Era - Super Disco Mix",
+      "url": "https://open.spotify.com/track/6AXNXza0OnkcpL1eZRDRFB"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
@@ -137,47 +189,27 @@
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "S.O.L. (Alan Braxe Edit)",
-        "url": "https://open.spotify.com/album/6bmSyg9ZxQE038UAwIULxK"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         },
         {
-          "name": "Olivier St.Louis",
-          "url": "https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 227493,
-      "name": "S.O.L. - Alan Braxe Edit",
-      "url": "https://open.spotify.com/track/23khvloxhvpdmMoNJb22vn"
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Ask Me / Mesmerize",
         "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
@@ -201,23 +233,35 @@
       "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Dancing Shoes (Take Me Higher)",
-        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
         }
       ],
-      "duration_ms": 154831,
-      "name": "Dancing Shoes (Take Me Higher)",
-      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Walk Dance Talk Sing",
         "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
@@ -233,27 +277,7 @@
       "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Techno Disco Tool (Radio Edit)",
         "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
@@ -269,31 +293,55 @@
       "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Alone with You (Lazywax Remix)",
-        "url": "https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
-        },
-        {
-          "name": "Lazywax",
-          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 294849,
-      "name": "Alone with You - Lazywax Remix",
-      "url": "https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn"
+      "duration_ms": 197903,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Always Dancin'",
+        "url": "https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy"
+      },
+      "artists": [
+        {
+          "name": "Bavhu",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        }
+      ],
+      "duration_ms": 173652,
+      "name": "Always Dancin'",
+      "url": "https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Oh Honey",
         "url": "https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC"
@@ -309,7 +357,7 @@
       "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
@@ -325,7 +373,27 @@
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Rules Of Love",
+        "url": "https://open.spotify.com/album/3qEjZx7j0AXDVZC7Ce2cgm"
+      },
+      "artists": [
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "Rockefeller",
+          "url": "https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Rules Of Love",
+      "url": "https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Thin Line",
         "url": "https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk"
@@ -345,23 +413,7 @@
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "Nowhere To Run",
-        "url": "https://open.spotify.com/album/6QAWFx4cObVKCSSd7GEbDg"
-      },
-      "artists": [
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        }
-      ],
-      "duration_ms": 379354,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/6XE82rK2nVNti6s0h1cPpd"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Let Me Love U",
         "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
@@ -377,23 +429,7 @@
       "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "Let\u00b4s Groove",
-        "url": "https://open.spotify.com/album/0ZMm0xr9oZqQgXvYh1XNAo"
-      },
-      "artists": [
-        {
-          "name": "Superlover",
-          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
-        }
-      ],
-      "duration_ms": 179874,
-      "name": "Let\u00b4s Groove",
-      "url": "https://open.spotify.com/track/3JOWZsqRRZEEXVgDub0kF3"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Hipcats",
         "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Untold Business",
         "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
@@ -457,23 +493,7 @@
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "Le Mirage",
-        "url": "https://open.spotify.com/album/6CleMEXjLAINMhDZ19yU2F"
-      },
-      "artists": [
-        {
-          "name": "Claus Casper",
-          "url": "https://open.spotify.com/artist/1asQbSi83hmInBcUB9z6oi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Le Mirage - Radio Edit",
-      "url": "https://open.spotify.com/track/7J7NTqDAVuR1U5DqJTVWIX"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Don't Go (Gerd Janson Re-Work - Shorter Edit)",
         "url": "https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Way to Go (Club Soda Mix)",
         "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "House of FM",
         "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
@@ -565,31 +585,7 @@
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "Untold Business",
-        "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
-        },
-        {
-          "name": "Tasty Lopez",
-          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "All 4 Love (feat. Tasty Lopez)",
-      "url": "https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
         "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
@@ -613,7 +609,27 @@
       "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Never Knew Love Like This Before",
+        "url": "https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3"
+      },
+      "artists": [
+        {
+          "name": "QUINZE",
+          "url": "https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa"
+        },
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 182011,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Love You Better",
         "url": "https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
@@ -649,7 +665,31 @@
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Untold Business",
+        "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "All 4 Love (feat. Tasty Lopez)",
+      "url": "https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN"
@@ -677,7 +717,23 @@
       "url": "https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "All I Need (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 219848,
+      "name": "All I Need (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
@@ -697,23 +753,7 @@
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "All I Need (DJ-Kicks)",
-        "url": "https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 219848,
-      "name": "All I Need (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Solid Gold (feat. bshp)",
         "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
@@ -785,7 +825,7 @@
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Sky's the Limit (Edit)",
         "url": "https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Angels By My Side (feat. Pauline Taylor)",
         "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Pleasure Love",
         "url": "https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
@@ -857,7 +897,7 @@
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
@@ -873,7 +913,7 @@
       "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK"
@@ -889,7 +929,7 @@
       "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
@@ -909,7 +949,7 @@
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
-      "added_at": "2023-06-09 16:37:08",
+      "added_at": "2023-06-16 16:00:00",
       "album": {
         "name": "Moves EP",
         "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
@@ -927,42 +967,6 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "The Chant",
-        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 186774,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
-    },
-    {
-      "added_at": "2023-06-09 16:37:08",
-      "album": {
-        "name": "Sometimes The Going Gets A Little Tough",
-        "url": "https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9"
-      },
-      "artists": [
-        {
-          "name": "Finn",
-          "url": "https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5"
-        },
-        {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
-        }
-      ],
-      "duration_ms": 339835,
-      "name": "Sometimes The Going Gets A Little Tough - Mella Dee Going Got A Bit Tougher Mix",
-      "url": "https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1"
     }
   ],
   "unique_name": "DISCOLAND",

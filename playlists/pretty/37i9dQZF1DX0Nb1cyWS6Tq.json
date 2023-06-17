@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 622278,
+  "num_followers": 622710,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRjMGVlMjhhZGFkMmNiNTA4ZGU3MjIxMzY5MzIxMDA3ZmFiZjlm",
+  "snapshot_id": "MCwzZGJmMjdmZjVkNTFmODE3NjZmZWU3Y2RmODE3YjEwYWVjNmUwMjU4",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Arabian Knights",
-      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
     },
     {
-      "added_at": "2022-12-16 14:09:54",
+      "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Strung Out Johnny",
-        "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Gene Loves Jezebel",
+          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Strung Out Johnny",
-      "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
+      "duration_ms": 286546,
+      "name": "Break the Chain",
+      "url": "https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us"
     }
   ],
   "unique_name": "Dark & Gothic",

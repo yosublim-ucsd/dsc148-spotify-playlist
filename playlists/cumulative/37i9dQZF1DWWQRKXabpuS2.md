@@ -2,7 +2,7 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف: أميمة طالب
+> كل شي خليجي جديد\. الغلاف: سلطان خليفة
 
 238 songs - 16 hr 10 min
 

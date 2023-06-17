@@ -1,15 +1,15 @@
 {
   "description": "Relive the disco era with these superhits. Cover - Bappi Lahiri",
-  "num_followers": 34937,
+  "num_followers": 34954,
   "original_name": "Disco Deewane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjJkZWY2ZjcwNTdhODdhNjAzYWQ0NzUyMGY0YjI5NmY2ZTI3MGJm",
+  "snapshot_id": "MCxkNDA5NTc3MDcwODRiNmVhZmE2MmRkMGQzYzhlMGQxYzliOTI1YmY3",
   "tracks": [
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Disco Dancer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0NixI1hrDpEnAhTVEqSZwl"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Saaheb (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CknHm912teQ2WUbCqNqqy"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Disco Dancer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
@@ -61,27 +61,23 @@
       "url": "https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
-        "name": "Qurbani",
-        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+        "name": "Namak Halaal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3"
       },
       "artists": [
         {
-          "name": "Nazia Hassan",
-          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
-        },
-        {
-          "name": "Feroz Khan",
-          "url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         }
       ],
-      "duration_ms": 249106,
-      "name": "Aap Jaisa Koi - From \"Qurbani\"",
-      "url": "https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE"
+      "duration_ms": 335958,
+      "name": "Jawani Janeman",
+      "url": "https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Disco Dancer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
@@ -101,7 +97,27 @@
       "url": "https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
+      "album": {
+        "name": "Qurbani",
+        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "name": "Feroz Khan",
+          "url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Aap Jaisa Koi - From \"Qurbani\"",
+      "url": "https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE"
+    },
+    {
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Qurbani",
         "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
@@ -121,23 +137,7 @@
       "url": "https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
-      "album": {
-        "name": "Namak Halaal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 335958,
-      "name": "Jawani Janeman",
-      "url": "https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN"
-    },
-    {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7mudoo9FXpSXeK4cxR32fJ"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Armaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1bAPmAnR6st4K2Jx2HIOhT"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7fPBSUi6aSjYOlhggXfyrF"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Karz (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0jz17xUt6l9nYcmY2Anj2J"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3kud1zrPYsQ3fhOGCxJZoq"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/56bc1nyaqAvnEa6dT4UqHu"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Disco Dancer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Hum Kisise Kum Naheen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1BmhMHPlFzcnoAfOKECRcg"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/6A26Nz0zJTChY89NalwFl4"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "\u041f\u0435\u0441\u043d\u0438 \u0438\u0437 \u043a/\u0444 \u0414\u0438\u0441\u043a\u043e \u0414\u0438\u0432\u0430",
         "url": "https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/4FGfZbABfMTuHGE6kgjMhY"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/42d2S44fFDJpjS1qG4Pvod"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "\u041f\u0435\u0441\u043d\u0438 \u0438\u0437 \u043a/\u0444 \u0414\u0438\u0441\u043a\u043e \u0414\u0438\u0432\u0430",
         "url": "https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Pyaara Dushman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Melodious Voice of Sadhana Sargam",
         "url": "https://open.spotify.com/album/7ID29f8hV3J5IOFmugRQQo"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/0HkyMWJTYyhp4kALs17YlA"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Most Popular RD Burman Songs",
         "url": "https://open.spotify.com/album/6dFWrIuUwFn5nob1EYq7ok"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/43isQX2aE8qkZyz3CuV7QA"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Vidhaata (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/4cdy3F7hCRFN8HvVIdOFTq"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Student of the Year (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Surakksha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Young Tarang",
         "url": "https://open.spotify.com/album/2EnmsTN6QbJmiw0udWFB5O"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/2B4lvZL0abyWIpDyDb2GsF"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0WqcILbK5MRChFWC8uAzby"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Dilwaala",
         "url": "https://open.spotify.com/album/3STlTkACurScBBxK9wyt8r"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/319BDWEAkwIc3EaP3CkHHj"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Karz (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0jz17xUt6l9nYcmY2Anj2J"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/7bs7Chu5xd1cDDYPQAA9lf"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Haathkadi",
         "url": "https://open.spotify.com/album/6uCths8m5Ae3gQJuFIaToq"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3SHBWYlE2P7zzHWNoOUJpj"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Qaidi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/5qaf3C1AnZgvuGnuY8SMgL"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Jhoom Jhoom Jhoom Baba - Disco Special",
         "url": "https://open.spotify.com/album/7EVv6vS3alGrvOw18OH7PD"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3AZtmFsLnUktv1ewlTrrQf"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Young Tarang",
         "url": "https://open.spotify.com/album/2EnmsTN6QbJmiw0udWFB5O"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/3ilnBa1Fn11NXwhjAqZfx4"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Vidhaata (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/6KjJXIusbHTSsLVknmM0ju"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Wardat",
         "url": "https://open.spotify.com/album/5o5yCKDGryoQCC3fjqFJTp"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/0JukplN9Z6vZjSG6xMY8eX"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Hum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4TEjok6tCwRlY6RUXH6Bhg"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Asha Bhosle Hits",
         "url": "https://open.spotify.com/album/361QUhDvkVcLrhXvhYLABv"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/3LClxcyIAy7TaDwJuq3xj2"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Surakksha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5ZFPhhC4tVf0KLeDlU9MzB"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2gosEN0UYMhs4euV0IdXVr"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Armaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1bAPmAnR6st4K2Jx2HIOhT"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0nMXlGe5cXabBjrCA41qhx"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Maut Ka Saya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sGWyphxDQjVm14xjtRAgW"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/4WIxDOCtF0ACdsoItOHZUp"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Qaidi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/3tAAtemXIyQdQiAKGjD5Tb"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Karate (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/7bzrGfL5fxDUDZ7YBAkHnn"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Hum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5uha4XwzxCEl3SaLC9TOJT"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Karate (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2Vm1gFcx3ekq1TFE1myUjR"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Aaina (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5D3yhDwUoMpj4dVHqw07VL"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/0O0ggVXgXSjp2d6LDmEoZA"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Meri Adalat",
         "url": "https://open.spotify.com/album/6lBnhdidEpordUsA3GooWS"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/794cBypJQISQCorrG7kQVX"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Qaidi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE"
     },
     {
-      "added_at": "2023-03-22 13:56:25",
+      "added_at": "2023-06-16 09:24:30",
       "album": {
         "name": "Haadsaa",
         "url": "https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B"

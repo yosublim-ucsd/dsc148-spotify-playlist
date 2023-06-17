@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "On Broadway",
+        "url": "https://open.spotify.com/album/37hhysXU6YTCaWNwqeoVbI"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249394,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/53QSC4UgrGXfsVpOqSNxVJ"
+    },
+    {
+      "album": {
         "name": "Trevor (Original Cast Recording)",
         "url": "https://open.spotify.com/album/697pMqj7scaSg0VbWoJPh3"
       },

@@ -1,28 +1,28 @@
 {
   "description": "All new indie rock. Featuring new music from The Drums.",
-  "num_followers": 846519,
+  "num_followers": 846560,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTI2YTdlOWE5N2NkMWMzYTg0MmZkY2RhMGE1ODU0MjJhNDkxMWJj",
+  "snapshot_id": "MCw0Y2E2ZGRkM2UwMmNlYzA2YTI3YTVhYzQ3NTlkMDIyNWJhODRmMDg5",
   "tracks": [
     {
-      "added_at": "2023-06-09 04:01:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Obvious",
-        "url": "https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP"
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 234480,
-      "name": "Obvious",
-      "url": "https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb"
+      "duration_ms": 167492,
+      "name": "My Big Day",
+      "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
     },
     {
       "added_at": "2023-05-24 13:49:16",
@@ -39,6 +39,22 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -73,22 +89,6 @@
       "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
     },
     {
-      "added_at": "2023-06-14 15:53:39",
-      "album": {
-        "name": "Feet Up",
-        "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "Feet Up",
-      "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
-    },
-    {
       "added_at": "2023-06-09 17:23:24",
       "album": {
         "name": "Lost",
@@ -121,6 +121,26 @@
       "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "3000 Miles",
+        "url": "https://open.spotify.com/album/0cXvkaKVa6r0HQCrNH6qMV"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "3000 Miles",
+      "url": "https://open.spotify.com/track/1mgPpSsf0Hy8kXlCCVLY6o"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Wake Up & It's Over",
@@ -151,6 +171,22 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2023-06-16 18:37:40",
+      "album": {
+        "name": "Sugar the Bruise",
+        "url": "https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 183312,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -197,6 +233,22 @@
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Boy Of The Month",
+        "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 106382,
+      "name": "Boy Of The Month",
+      "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
@@ -215,6 +267,38 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
+    },
+    {
+      "added_at": "2023-06-16 20:48:47",
+      "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Something Wrong",
+        "url": "https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 183312,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -249,6 +333,22 @@
       "url": "https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R"
     },
     {
+      "added_at": "2023-06-14 15:53:39",
+      "album": {
+        "name": "Feet Up",
+        "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "Feet Up",
+      "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Everything Is Boring",
@@ -279,6 +379,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/2MtZOTkjR68Dfxps7mmMP3"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/41yayaS91LRsTwypCJHrTB"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -391,6 +507,22 @@
       "duration_ms": 181090,
       "name": "way too loud",
       "url": "https://open.spotify.com/track/2b9Tlburf72vwQ1r5ixlCN"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "First to Know",
+        "url": "https://open.spotify.com/album/7dAtkiATptjN8rpszcVX4C"
+      },
+      "artists": [
+        {
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+        }
+      ],
+      "duration_ms": 233832,
+      "name": "First to Know",
+      "url": "https://open.spotify.com/track/0UjmsX8YB7grhAGVZBekZe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1519,138 +1651,6 @@
       "duration_ms": 195514,
       "name": "Blue Sea",
       "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Social Lubrication",
-        "url": "https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7"
-      },
-      "artists": [
-        {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
-        }
-      ],
-      "duration_ms": 212241,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
-      },
-      "artists": [
-        {
-          "name": "Strange Ranger",
-          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "She's on Fire",
-      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 173073,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        },
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 175304,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Call My Own",
-        "url": "https://open.spotify.com/album/20wRw9fnJoQ23gVbnsC0iD"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 228874,
-      "name": "Call My Own",
-      "url": "https://open.spotify.com/track/4bQpveBEjy4EzOXzk79Fmn"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "I DON'T WANNA TALK",
-        "url": "https://open.spotify.com/album/5G7wg0A3x8huAcbsT8wojT"
-      },
-      "artists": [
-        {
-          "name": "Carter Vail",
-          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "I DON'T WANNA TALK",
-      "url": "https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Be Still My Heart",
-        "url": "https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 189283,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI"
     }
   ],
   "unique_name": "Today's Indie Rock",

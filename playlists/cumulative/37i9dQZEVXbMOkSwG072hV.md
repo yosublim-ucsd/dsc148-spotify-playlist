@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,384 songs - 2 day 23 hr 39 min
+1,385 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,7 +1005,8 @@
 | [Pot Pourri: Ta\-Hi / Marcha do remador](https://open.spotify.com/track/6RmCAbQU6Jt3GVcavd97U0) | [Banda Rio\-Ipanema](https://open.spotify.com/artist/61uAhdopeABgql2txw8HS9) | [O Melhor do Carnaval \(Marchinhas\)](https://open.spotify.com/album/4jkyhsRJ4oXtx384TvCrvr) | 1:56 | 2022-03-02 | 2022-03-04 |
 | [Pot\-Pourri: Sassaricando / Vai Com Jeito / Ajoelhou](https://open.spotify.com/track/5Sh6kdmeW4baAg3c8i3hlw) | [Banda do Rei Momo](https://open.spotify.com/artist/27vQSdDeOGnlkuFng1Z9g4) | [Carnaval dos Carnavais: Vol\. 1](https://open.spotify.com/album/3a6q316D1pH2zuNHYVH0qt) | 3:32 | 2023-02-23 | 2023-02-25 |
 | [Pot\-Pourri: Turma Do Funil / Cachaça / Ressaca](https://open.spotify.com/track/7x99gjAbTpJRdpx7f0KJ1y) | [Banda Carnavalesca Brasileira](https://open.spotify.com/artist/3ocHpn0KlmFSDLpSvnKuOb) | [43 Marchinhas de Carnaval](https://open.spotify.com/album/0ERYcE6WXncchQVgBz4hhv) | 4:58 | 2023-02-20 | 2023-02-26 |
-| [Pra Vaquejada Eu Vou](https://open.spotify.com/track/1h6z4Z81uMprKLApU8tMpZ) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/028nyOf1ol2346P4njBrep) | 2:33 | 2023-06-15 |  |
+| [Pra Vaquejada Eu Vou](https://open.spotify.com/track/1h6z4Z81uMprKLApU8tMpZ) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/028nyOf1ol2346P4njBrep) | 2:33 | 2023-06-15 | 2023-06-17 |
+| [Pra Vaquejada Eu Vou](https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/4rSG4IoO35jxvkZdcHBcDz) | 2:33 | 2023-06-16 |  |
 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 | 2023-04-25 | 2023-05-24 |
 | [Primeira à Direita](https://open.spotify.com/track/5jJ9fktcJM9ECpo2F9ly6v) | [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem), [Mc Pedrin do Engenha](https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Primeira à Direita](https://open.spotify.com/album/09T3pnEsGR406AZijJHk0X) | 1:54 | 2022-12-09 | 2022-12-24 |
 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 | 2022-09-20 | 2022-10-26 |

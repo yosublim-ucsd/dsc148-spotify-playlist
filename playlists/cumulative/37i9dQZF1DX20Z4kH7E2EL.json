@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 338112,
       "name": "Amoura",
       "url": "https://open.spotify.com/track/0SlDYHLNSwMZLhWgJjskkW"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 298000,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/1Q3RNUOiJKH4x85KOFKG65"
@@ -747,6 +747,32 @@
     },
     {
       "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
       },
@@ -923,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0rNNOn3KmxWnFWrXo17KCq"
+      },
+      "artists": [
+        {
+          "name": "Corporate Slackrs",
+          "url": "https://open.spotify.com/artist/57TvkbpmyWEXja8k98ZFFB"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1y6Xi4BDKnjZ2jbLXkVeyu"
+    },
+    {
+      "album": {
         "name": "Fire & Rain",
         "url": "https://open.spotify.com/album/7sEj5kw3b1gi3iY5ijqJCJ"
       },
@@ -1090,10 +1134,46 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
+    },
+    {
+      "album": {
+        "name": "Les Yeux",
+        "url": "https://open.spotify.com/album/5ii1hyx3gCzdsQVut2Y5yk"
+      },
+      "artists": [
+        {
+          "name": "Jesse Maas",
+          "url": "https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389016,
+      "name": "Gross Weight",
+      "url": "https://open.spotify.com/track/0tTLKDCU0uEGklsgfFWSuj"
     },
     {
       "album": {
@@ -1518,7 +1598,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 278386,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/6JySWXRqS1rSpQ9T5Jlrce"
@@ -1540,6 +1620,24 @@
       "duration_ms": 407815,
       "name": "Mama",
       "url": "https://open.spotify.com/track/5XSoESe1pq3cmWw3XFH9Z0"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261500,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe"
     },
     {
       "album": {
@@ -1696,7 +1794,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 387692,
       "name": "Monsters - Vyvyan's Monster Remix",
       "url": "https://open.spotify.com/track/4SKL0zgJgRQ87x1pct7lvU"
@@ -1714,7 +1812,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 521093,
       "name": "Morning After The Rave",
       "url": "https://open.spotify.com/track/6Y2o38HZkEr1VPuMMZSziX"
@@ -1736,6 +1834,24 @@
       "duration_ms": 214527,
       "name": "Need You",
       "url": "https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf"
+    },
+    {
+      "album": {
+        "name": "Anjunadeep Explorations 22",
+        "url": "https://open.spotify.com/album/4DC9IfMdaEhUTU343byhka"
+      },
+      "artists": [
+        {
+          "name": "James iD",
+          "url": "https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390368,
+      "name": "Need You - Extended Mix",
+      "url": "https://open.spotify.com/track/39N6Oi7d8qYmBqPAwpSV0h"
     },
     {
       "album": {
@@ -1870,6 +1986,24 @@
       "duration_ms": 204301,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3ov97oBZHDO72yWMidF6mn"
+    },
+    {
+      "album": {
+        "name": "Transience EP",
+        "url": "https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz"
+      },
+      "artists": [
+        {
+          "name": "Wayward",
+          "url": "https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373598,
+      "name": "Orissa - Csgrv Remix",
+      "url": "https://open.spotify.com/track/6TBlKpDo9cKEvE2C8QhIaL"
     },
     {
       "album": {
@@ -2029,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "Reach (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/1RaWr3vlHNnFsVqBS9Wanx"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/52bmx3LyIC3EPkRepaXsgA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549192,
+      "name": "Reach - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/1N8zrjrXmyUAUfiYgCHt7G"
+    },
+    {
+      "album": {
         "name": "The Dynamic Unconscious",
         "url": "https://open.spotify.com/album/4bj4qOGPLarfEg3Pol861u"
       },
@@ -2058,7 +2214,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 307768,
       "name": "Regado",
       "url": "https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV"
@@ -2232,7 +2388,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 253325,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC"
@@ -2330,7 +2486,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 175213,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr"
@@ -2538,6 +2694,24 @@
       "duration_ms": 383401,
       "name": "The Freaks Come Out - Hooligan Mix",
       "url": "https://open.spotify.com/track/6SOcHlaGY4FlcfRdWh2dGz"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/0yiDqyEUyguvJkfs12fsnX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Maas",
+          "url": "https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361967,
+      "name": "The MC Calls",
+      "url": "https://open.spotify.com/track/2aOae21QvRkkkA0ycWpiXO"
     },
     {
       "album": {

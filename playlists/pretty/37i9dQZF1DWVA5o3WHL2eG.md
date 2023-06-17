@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,181 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,194 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 |
 | 21 | [Lieber für mich](https://open.spotify.com/track/671auplSl17WIJSefMXsjN) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Lieber für mich](https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV) | 2:14 |
 | 22 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
-| 23 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 24 | [So bin ich halt / blablabla](https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [So bin ich halt / blablabla](https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT) | 2:10 |
+| 23 | [So bin ich halt / blablabla](https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [So bin ich halt / blablabla](https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT) | 2:10 |
+| 24 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
 | 25 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 |
 | 26 | [Warning Signs](https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL) | 3:25 |
 | 27 | [Waterloo](https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Waterloo](https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2) | 2:49 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [lovin myself](https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [lovin myself](https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun) | 2:47 |
 | 35 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
 | 36 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
-| 37 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 |
-| 38 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
+| 37 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
+| 38 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 |
 | 39 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
 | 40 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
 | 41 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCw1MWUxYzUyN2U5ODM3NDEwYmY3YjU5NGE1MmM3MDUzZDFlYzgxYjZi`
+Snapshot ID: `MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0`

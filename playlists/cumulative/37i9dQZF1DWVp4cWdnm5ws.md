@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-137 songs - 8 hr 38 min
+139 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [DADA](https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [DADA](https://open.spotify.com/album/6Axji6cH6HTfoWPzVZjVwV) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-09-29 |  |
 | [Darling, Darling](https://open.spotify.com/track/0mgbFVGzXKO41p9oxoas0c) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Darling, Darling](https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z) | 4:50 | 2021-11-25 | 2022-03-25 |
+| [Day and Night](https://open.spotify.com/track/1RU1XW9hYD5A4lcINT5NaE) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Day and Night](https://open.spotify.com/album/5U6CaoKUoWzGFloJgLfg2Q) | 3:24 | 2023-06-16 |  |
 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 | 2022-08-12 | 2022-12-01 |
 | [Di Inakala](https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Di Inakala](https://open.spotify.com/album/6d0nKflenfco7FBVhksUtW) | 4:19 | 2022-08-12 |  |
 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 | 2022-03-24 | 2023-04-14 |
@@ -107,6 +108,7 @@
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-04-28 | 2022-12-01 |
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
+| [PRETTY PLEASE](https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [PRETTY PLEASE](https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO) | 3:04 | 2023-06-16 |  |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |
 | [Risk It](https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Risk It](https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m) | 3:45 | 2022-10-25 | 2022-12-01 |

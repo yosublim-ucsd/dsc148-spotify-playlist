@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > Here is a playlist of all our songs released so far\. Our new single 'Bootleg Firecracker' is out now!
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,143 likes - 37 songs - 2 hr 5 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,149 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

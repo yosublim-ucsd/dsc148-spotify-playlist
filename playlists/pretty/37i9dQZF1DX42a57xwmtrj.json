@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 140370,
+  "num_followers": 140499,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGVkMThiOWJlZWM5NWI4NzIyNDYwNzNiOTM1OTdmNWEyOWUyNTg4",
+  "snapshot_id": "MCxkMzAwZDZiYzY2MTUzMzIyMmNkMjBjNDI1ZmYyNDcwZDRkZDA5ZjQ0",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+        "name": "Un Minuto de Amor",
+        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
       },
       "artists": [
         {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
+      "duration_ms": 213000,
+      "name": "Un Minuto de Amor, Pt. 1",
+      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Un Minuto de Amor",
-        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Un Minuto de Amor, Pt. 1",
-      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
+        "name": "Rock Sin Visa, Vol. 2",
+        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
       },
       "artists": [
         {
-          "name": "Karatula",
-          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 267853,
-      "name": "Al Final Llor\u00e9",
-      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
+      "duration_ms": 187640,
+      "name": "Historia de un Minuto",
+      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
+      },
+      "artists": [
+        {
+          "name": "Karatula",
+          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Al Final Llor\u00e9",
+      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Anda Borracho Pancho",
         "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 302091,
       "name": "Anda Borracho Pancho",
       "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Rock Sin Visa, Vol. 2",
-        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Historia de un Minuto",
-      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
+        "name": "En Guerra de Amor",
+        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
       },
       "artists": [
         {
-          "name": "Sur 16",
-          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 212520,
-      "name": "En Dos",
-      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
+      "duration_ms": 224351,
+      "name": "Una Rola de Amor",
+      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "En Guerra de Amor",
-        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Sur 16",
+          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
         }
       ],
-      "duration_ms": 224351,
-      "name": "Una Rola de Amor",
-      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
+      "duration_ms": 212520,
+      "name": "En Dos",
+      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
     },
     {
       "added_at": "2023-06-02 06:00:00",

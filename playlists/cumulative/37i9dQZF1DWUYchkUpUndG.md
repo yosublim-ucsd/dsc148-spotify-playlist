@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"> We Will Worship</a>
 
-146 songs - 12 hr 40 min
+147 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 | 2023-06-09 | 2023-06-16 |
 | [I'll worship](https://open.spotify.com/track/0LcmFV0FGF3oBtlYu4WaW6) | [Somy Ohuabunwa](https://open.spotify.com/artist/0ZnkUUTJvHkUpPRQJ9u1np) | [I'll worship](https://open.spotify.com/album/6WNaZgJJDFImwIUluM0ysn) | 3:38 | 2023-06-09 | 2023-06-16 |
 | [If No Be God](https://open.spotify.com/track/2PMXiruzV6mbHogbupbqre) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God](https://open.spotify.com/album/0UYemHmRL11SwYT1tfa5Tw) | 2:10 | 2023-05-26 | 2023-06-09 |
+| [If No Be God \- Speed up](https://open.spotify.com/track/2fKL4EV6M8x8RXOfykbGHI) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God \(Speed up\)](https://open.spotify.com/album/2wvWZqB6gObZjktwst3qqz) | 1:36 | 2023-06-16 |  |
 | [IJO \- Remix](https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO) | [TimiTrigger](https://open.spotify.com/artist/7slHpFNcd1m9DSKq4LeM9s), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Majemu](https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD) | [IJO \(Remix\)](https://open.spotify.com/album/3wloOkIU3tCCXi7z5SXRxw) | 3:50 | 2023-05-19 | 2023-06-02 |
 | [Imagine me](https://open.spotify.com/track/0VAqGWb9Q9MUqgGGbJZZ0E) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Imagine me](https://open.spotify.com/album/3kdwXD4qQzAxuRbHSD87fB) | 2:40 | 2023-06-09 | 2023-06-16 |
 | [Intimate worship](https://open.spotify.com/track/6aSghEfFNO099IP86XPy3a) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimate worship](https://open.spotify.com/album/5cM5M5ftvg9xJ786ynhEEp) | 12:53 | 2023-05-19 | 2023-06-02 |

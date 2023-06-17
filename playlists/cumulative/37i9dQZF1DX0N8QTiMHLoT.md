@@ -4,7 +4,7 @@
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-94 songs - 6 hr 52 min
+95 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [The Sinister Minister](https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Bela Fleck and the Flecktones](https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0) | 4:36 | 2021-05-06 |  |
 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 | 2021-05-06 |  |
 | [The Truth](https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG) | [Darryl Williams](https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM) | [That Was Then](https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7) | 1:44 | 2021-05-06 |  |
+| [To the Floor](https://open.spotify.com/track/4Y65LW1pGyeZZ8GadQsiaj) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [To the Floor](https://open.spotify.com/album/4jErxs8jb4HKIy1zMVijgI) | 4:03 | 2023-06-16 |  |
 | [Trust and Faith](https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/3B0Tscyvv4uOmn7HpB3XiL) | 4:18 | 2021-05-06 | 2022-07-29 |
 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 | 2021-05-06 |  |
 | [Twilight](https://open.spotify.com/track/787KLXWqvJHkkhuGFpjnLJ) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Gravity](https://open.spotify.com/album/29PcoWZGpDHbdLpXGB3DMG) | 6:19 | 2021-05-06 |  |

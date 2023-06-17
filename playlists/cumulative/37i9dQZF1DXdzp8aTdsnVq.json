@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        },
+        {
+          "name": "Alberto Kammerer",
+          "url": "https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252368,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T"
+    },
+    {
+      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
       },
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-17",
       "duration_ms": 221423,
       "name": "Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL"
